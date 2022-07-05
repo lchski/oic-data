@@ -27,15 +27,7 @@ async function extractOrderTables() {
 	}));
 }
 
-(async function scrape() {
-	const browser = await puppeteer.launch({ headless: false });
-	
-	const page = await browser.newPage();
-	await page.goto('https://orders-in-council.canada.ca/index.php?lang=en');
-	
-	await page.waitForSelector('#btnSearch');
-	await page.click('#btnSearch');
-
+async function scrapeResultPage(page) {
 	await page.waitForSelector('.btn-toolbar');
 
 	let pageCount = await page.evaluate(() => {
@@ -51,6 +43,19 @@ async function extractOrderTables() {
 
 	console.log(pageCount);
 	console.log(orderTables);
+	console.log("test!");
+}
+
+(async function scrape() {
+	const browser = await puppeteer.launch({ headless: false });
+	
+	const page = await browser.newPage();
+	await page.goto('https://orders-in-council.canada.ca/index.php?lang=en');
+	
+	await page.waitForSelector('#btnSearch');
+	await page.click('#btnSearch');
+
+	scrapeResultPage(page);
 
 	// await browser.close();
 })();
