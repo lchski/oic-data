@@ -10,9 +10,12 @@
 
 */
 
+const fs = require('fs');
+
 const puppeteer = require('puppeteer');
 const MD5 = require('crypto-js/md5');
 
+const savedOrderTablesPath = 'order-tables/';
 
 // NB: run within the puppeteer Chrome instance—doesn't have access to script scope
 async function extractOrderTables() {
