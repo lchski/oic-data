@@ -23,7 +23,12 @@ async function extractOrderTables() {
 	
 	return orderTables.map((tableNode) => ({
 		html: tableNode.outerHTML,
-		pcNumber: tableNode.querySelector('tr:nth-of-type(2) > td:nth-of-type(2)').innerText
+		pcNumber: tableNode.querySelector('tr:nth-of-type(2) > td:nth-of-type(2)').innerText,
+		attachments: Array.from(
+			tableNode.querySelectorAll('a'))
+				.map(linkNode => linkNode.href)
+				.filter(linkHref => linkHref.includes('attachment.php')
+		)
 	}));
 }
 
