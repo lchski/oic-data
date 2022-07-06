@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1219</td><td>2014-10-30</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of WESLEY (WES) SCOTT of Toronto, Ontario, to be a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending February 28, 2017, in the place of Philip Deck.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30036&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1219",
-  "htmlHash": "153bab9bba58bc30c12fe594874bd4b8"
+  "htmlHash": "153bab9bba58bc30c12fe594874bd4b8",
+  "attachments": [
+    "attachment.php?attach=30036&lang=en"
+  ]
 }

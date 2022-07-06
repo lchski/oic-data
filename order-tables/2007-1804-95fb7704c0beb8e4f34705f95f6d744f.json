@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1804</td><td>2007-12-03</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARIE-CLAIRE GOLLER to be Honorary Consul of Canada at the Grand Duchy of Luxembourg, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17575&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1804",
-  "htmlHash": "95fb7704c0beb8e4f34705f95f6d744f"
+  "htmlHash": "95fb7704c0beb8e4f34705f95f6d744f",
+  "attachments": [
+    "attachment.php?attach=17575&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0284</td><td>2006-04-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE LANORAIE in Quebec (a) to change its name to that of CHAMBRE DE COMMERCE DE BERTHIER / D'AUTRAY; and (b) to change the boundaries of its territory.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0284",
-  "htmlHash": "7e12f018c5506f52e3a2e2bbd34664c9"
+  "htmlHash": "7e12f018c5506f52e3a2e2bbd34664c9",
+  "attachments": [
+    "attachment.php?attach=14197&lang=en"
+  ]
 }

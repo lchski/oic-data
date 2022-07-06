@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1836</td><td>2008-12-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the amendment of the TAX ADMINISTRATION AGREEMENT with the KLUANE FIRST NATION 's Goods and Services Tax (FNGST) that came into effect on January 1, 2005.  Canada and Kluane both wish to amend the terms and conditions of the agreement to make them consistent with the terms and conditions of the tax administration agreements for the FNGST that Canada has concluded since 2006 with other First Nations.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19712&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1836",
-  "htmlHash": "30733620814800e1b868ed9b7aba8dab"
+  "htmlHash": "30733620814800e1b868ed9b7aba8dab",
+  "attachments": [
+    "attachment.php?attach=19712&lang=en"
+  ]
 }

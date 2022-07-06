@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0369</td><td>2006-05-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE to the CUSTOMS TARIFF (EXTENSION OF GENERAL PREFERENTIAL TARIFF TO THE SULTANATE OF OMAN) by extending the benefit of the General Preferential Tariff to all eligible goods originating in the Sultanate of Oman.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0090  <strong>Publication Date:</strong> 2006-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14298&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0369",
-  "htmlHash": "c1bff4bb1d7550701d7d2925b6b9f7f0"
+  "htmlHash": "c1bff4bb1d7550701d7d2925b6b9f7f0",
+  "attachments": [
+    "attachment.php?attach=14298&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0805</td><td>2015-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; CNSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Safety and Control Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Packaging and Transport of Nuclear Substances Regulations, 2015</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PACKAGING AND TRANSPORT OF NUCLEAR SUBSTANCES REGULATIONS, 2015 in order to (1) ensure Canada’s continued alignment with current and future international regulations for the transport of nuclear substances; (2) ensure that Canada’s regulatory regime for the packaging and transport of nuclear substances is based on risk, provides enhanced protection where needed, and reduces regulatory burden where there is little or no risk; (3) clarify existing requirements to improve compliance with the Regulations; and (4) ensure continued safe and efficient transport of nuclear substances throughout Canada and internationally.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0145  <strong>Publication Date:</strong> 2015-07-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31128&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0805",
-  "htmlHash": "671c39e5fa95e20241db408f2786b0ee"
+  "htmlHash": "671c39e5fa95e20241db408f2786b0ee",
+  "attachments": [
+    "attachment.php?attach=31128&lang=en"
+  ]
 }

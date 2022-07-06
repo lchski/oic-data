@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0191</td><td>2003-02-13</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cooperative Credit Associations Act<br>Bank Act<br>Trust and Loan Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING CERTAIN DEPARTMENT OF FINANCE REGULATIONS (MISCELLANEOUS PROGRAM) which correct inconsistencies between the English and French versions of the following Regulations:\n\n  1. Notice of Branch Closure (Banks)\n      Regulations\n  2. Notice of Branch Closure (Cooperative \n      Credit Associations) Regulations\n  3. Notice of Branch Closure (Trust and \n      Loan Companies) Regulations</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0070  <strong>Publication Date:</strong> 2003-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1295&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0191",
-  "htmlHash": "d9a421de6c6e1a7f6ca3cbf89223242c"
+  "htmlHash": "d9a421de6c6e1a7f6ca3cbf89223242c",
+  "attachments": [
+    "attachment.php?attach=1295&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0175</td><td>2017-03-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Gypsum Board Products Anti-dumping Duty Remission Order, 2017</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GYPSUM BOARD PRODUCT ANTI-DUMPING REMISSION ORDER, 2017 in order to respond to the Canadian International Trade Tribunal recommendation concerning the reduction of the anti-dumping duties applicable to drywall imported from the U.S. for use or consumption in Western Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0028  <strong>Publication Date:</strong> 2017-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33087&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0175",
-  "htmlHash": "bf121a662c52ca6a87a6f34ef0125013"
+  "htmlHash": "bf121a662c52ca6a87a6f34ef0125013",
+  "attachments": [
+    "attachment.php?attach=33087&lang=en"
+  ]
 }

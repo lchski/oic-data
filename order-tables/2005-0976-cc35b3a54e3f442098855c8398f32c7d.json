@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0976</td><td>2005-05-19</td><td></td><td></td><td>OIC-OLD,&nbsp; WED-OLD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a SUPPLEMENTARY AGREEMENT with each of the four western provinces (Alberta, British Columbia, Manitoba and Saskatchewan) in order to postpone the expiry date of their particular INFRASTRUCTURE PROGRAM AGREEMENT until March 31, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11174&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0976",
-  "htmlHash": "cc35b3a54e3f442098855c8398f32c7d"
+  "htmlHash": "cc35b3a54e3f442098855c8398f32c7d",
+  "attachments": [
+    "attachment.php?attach=11174&lang=en"
+  ]
 }

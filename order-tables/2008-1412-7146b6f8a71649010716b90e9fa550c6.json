@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1412</td><td>2008-07-30</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MAMERTO C. GERONIMO of Mississauga, Ontario, to be a full-time member of the Immigration and Refugee Board of Canada (Toronto Regional Office), to hold office during good behaviour for a term of three years, effective August 18, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1412",
-  "htmlHash": "7146b6f8a71649010716b90e9fa550c6"
+  "htmlHash": "7146b6f8a71649010716b90e9fa550c6",
+  "attachments": [
+    "attachment.php?attach=19264&lang=en"
+  ]
 }

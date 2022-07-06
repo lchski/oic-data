@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0572</td><td>2017-06-02</td><td></td><td></td><td>ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding a Toxic Substance to Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Adding a TOXIC SUBSTANCE TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 in order to enable the Minister of the Environment and the Minister of Health to propose risk management instruments under the Canadian Environmental Protection Act 1999 to manage potential risks associated with Fuel Oil No. 2, should such instruments be deemed necessary.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0113  <strong>Publication Date:</strong> 2017-06-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34490&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0572",
-  "htmlHash": "f902132caa9527a6c251289b4d1947b3"
+  "htmlHash": "f902132caa9527a6c251289b4d1947b3",
+  "attachments": [
+    "attachment.php?attach=34490&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0865</td><td>1994-05-26</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GOVERNMENT EMPLOYEES LAND ACQUISITION ORDER, 1994, NO. 2 - which\nauthorizes Garry Sims, of the City of Yellowknife, N.W.T., an employee of\nthe Royal Canadian Mounted Police, to acquire the mineral rights to the\nGRIZ mineral claim located on the northwest shore of Prelude Lake.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0394  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0865",
-  "htmlHash": "ba217551335eb0a39249dcf96c94d905"
+  "htmlHash": "ba217551335eb0a39249dcf96c94d905",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0930</td><td>2016-10-21</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Export and Import of Hazardous Waste and Hazardous Recyclable Material Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EXPORT AND IMPORT OF HAZARDOUS WASTE AND HAZARDOUS RECYCLABLE MATERIAL REGULATIONS in order to strengthen Canada's ability to meet two of its Basel obligations: the obligation to seek the consent of an importing or transit countries for any export from Canada of waste or recyclable material subject to the Basel Convention, including household waste; and the obligation to take or send back shipments that cannot be completed as planned.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0273  <strong>Publication Date:</strong> 2016-11-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32626&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0930",
-  "htmlHash": "bd70e9ce1fa1a9635e89bc3e38ce2658"
+  "htmlHash": "bd70e9ce1fa1a9635e89bc3e38ce2658",
+  "attachments": [
+    "attachment.php?attach=32626&lang=en"
+  ]
 }

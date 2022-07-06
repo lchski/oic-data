@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1918</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I, III AND VIII) so that holders of an airport certificate, a manufacturer certificate or an ATS operations certificate will be required to appoint an accountable executive, and holders of an airport certificate or ATS operations certificate will be required to institute a safety management system.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0290  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17672&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1918",
-  "htmlHash": "c9b6fa00979b7ca5108ee841283879e3"
+  "htmlHash": "c9b6fa00979b7ca5108ee841283879e3",
+  "attachments": [
+    "attachment.php?attach=17672&lang=en"
+  ]
 }

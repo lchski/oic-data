@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1585</td><td>1990-07-27</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of BRITISH COLUMBIA, the transfer of the\nadministration, control and benefit of a parcel of land (819.72 hec),\nsituate at TERRACE, British Columbia, for airport purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1585",
-  "htmlHash": "4844986039ae16ea802e13f6b18e6fcd"
+  "htmlHash": "4844986039ae16ea802e13f6b18e6fcd",
+  "attachments": []
 }

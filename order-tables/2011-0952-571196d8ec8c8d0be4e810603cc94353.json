@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0952</td><td>2011-09-22</td><td></td><td></td><td>FIN,&nbsp; OSFI,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act<br>Cooperative Credit Associations Act<br>Insurance Companies Act<br>Pension Benefits Standards  Act, 1985<br>Trust and Loan Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Office of the Superintendent of Financial Institutions Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending Certain OFFICE OF THE SUPERINTENDENT OF FINANCIAL INSTITUTIONS REGULATIONS (Miscellaneous Program), in order to eliminate inconsistencies between the French and the English versions, correct anomalies and make minor clarifications of various regulations noted by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0196  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24630&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0952",
-  "htmlHash": "571196d8ec8c8d0be4e810603cc94353"
+  "htmlHash": "571196d8ec8c8d0be4e810603cc94353",
+  "attachments": [
+    "attachment.php?attach=24630&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1294</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; CAN PORTS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the MONTREAL PORT CORPORATION to buy several pieces of vacant\nland from PÉTROLIÈRE McCOLL-FRONTENAC INC. which comprise a total area of\nsome 74,868 square metres and are situated along Notre-Dame Street East, in\nthe City of Montreal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1294",
-  "htmlHash": "e98022eec7f4e320891c6b98d39394a6"
+  "htmlHash": "e98022eec7f4e320891c6b98d39394a6",
+  "attachments": []
 }

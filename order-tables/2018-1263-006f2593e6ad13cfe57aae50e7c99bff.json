@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1263</td><td>2018-10-04</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Elizabeth Chamberlist ** ANNUITY **  The Hon. Eric G. Chamberlist **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to ELIZABETH CHAMBERLIST survivor of the Hon. Eric G. Chamberlist, a Judge of the Supreme Court of British Columbia, effective June 20, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36944&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1263",
-  "htmlHash": "006f2593e6ad13cfe57aae50e7c99bff"
+  "htmlHash": "006f2593e6ad13cfe57aae50e7c99bff",
+  "attachments": [
+    "attachment.php?attach=36944&lang=en"
+  ]
 }

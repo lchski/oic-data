@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1079</td><td>2012-09-20</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Citizenship Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CITIZENSHIP REGULATIONS in order to enhance the integrity of the citizenship program by making language assessment more objective, while improving language outcomes for newcomers. The amendments provide citizenship applicants with an incentive to acquire the necessary language skills.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0178  <strong>Publication Date:</strong> 2012-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26516&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1079",
-  "htmlHash": "1fb587fd11f7a1190f9225666bcb4c6b"
+  "htmlHash": "1fb587fd11f7a1190f9225666bcb4c6b",
+  "attachments": [
+    "attachment.php?attach=26516&lang=en"
+  ]
 }

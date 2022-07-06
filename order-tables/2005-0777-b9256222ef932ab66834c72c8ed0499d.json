@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0777</td><td>2005-05-05</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2004-2005</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of TAN YEW-THONG to be Honorary Consul of Canada at Penang, Malaysia, for a period of three years, effective May 30, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0777",
-  "htmlHash": "b9256222ef932ab66834c72c8ed0499d"
+  "htmlHash": "b9256222ef932ab66834c72c8ed0499d",
+  "attachments": [
+    "attachment.php?attach=10781&lang=en"
+  ]
 }

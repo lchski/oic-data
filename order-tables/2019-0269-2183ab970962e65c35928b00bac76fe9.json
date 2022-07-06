@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0269</td><td>2019-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Export Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the EXPORT CONTROL LIST in order to reflect the Government of Canada's arrangements, commitments and policies resulting from Canada's participation, up until December 31, 2016, in the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies, the Nuclear Suppliers Group, the Missile Technology Control Regime and the Australia Group.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0092  <strong>Publication Date:</strong> 2019-04-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37592&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0269",
-  "htmlHash": "2183ab970962e65c35928b00bac76fe9"
+  "htmlHash": "2183ab970962e65c35928b00bac76fe9",
+  "attachments": [
+    "attachment.php?attach=37592&lang=en"
+  ]
 }

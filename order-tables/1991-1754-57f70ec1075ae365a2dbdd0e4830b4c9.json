@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1754</td><td>1991-09-19</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Commission of Inquiry to inquire into and report on whether an Indian band\nhas established that it has an Indian specific claim, conduct the inquiry\nunder the name of the INDIAN SPECIFIC CLAIMS COMMISSION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1754",
-  "htmlHash": "57f70ec1075ae365a2dbdd0e4830b4c9"
+  "htmlHash": "57f70ec1075ae365a2dbdd0e4830b4c9",
+  "attachments": []
 }

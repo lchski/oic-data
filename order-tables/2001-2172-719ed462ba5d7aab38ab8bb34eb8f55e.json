@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2172</td><td>2001-11-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to enter into the CANADA-NOVA SCOTIA PROMOTION AND AWARENESS\nPROGRAM AGREEMENT, a program designed to facilitate the promotion and\nawareness of agriculture risk management programs in Nova Scotia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2172",
-  "htmlHash": "719ed462ba5d7aab38ab8bb34eb8f55e"
+  "htmlHash": "719ed462ba5d7aab38ab8bb34eb8f55e",
+  "attachments": []
 }

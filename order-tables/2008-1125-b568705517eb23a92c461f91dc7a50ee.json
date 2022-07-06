@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1125</td><td>2008-06-18</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Materials Information  Review Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of GEORGE HAROLD THOMAS STEWART of Vernon River, Prince Edward Island, to be governor representing the Government of Prince Edward Island at the Council of the Hazardous Materials Information Review Commission to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18972&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1125",
-  "htmlHash": "b568705517eb23a92c461f91dc7a50ee"
+  "htmlHash": "b568705517eb23a92c461f91dc7a50ee",
+  "attachments": [
+    "attachment.php?attach=18972&lang=en"
+  ]
 }

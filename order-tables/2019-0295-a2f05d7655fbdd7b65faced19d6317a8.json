@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0295</td><td>2019-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Rescinding Canadian Transportation Agency Decision No. R-2018-23</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Rescinding Canadian Transportation Agency decision No. R-2018-23 of February 16, 2018 and consequently dismisses the petition of Moose Consortium.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37618&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0295",
-  "htmlHash": "a2f05d7655fbdd7b65faced19d6317a8"
+  "htmlHash": "a2f05d7655fbdd7b65faced19d6317a8",
+  "attachments": [
+    "attachment.php?attach=37618&lang=en"
+  ]
 }

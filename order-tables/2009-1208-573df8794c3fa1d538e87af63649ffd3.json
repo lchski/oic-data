@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1208</td><td>2009-07-30</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bankruptcy and Insolvency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Bankruptcy and Insolvency General Rules\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RULES AMENDING THE BANKRUPTCY AND INSOLVENCY GENERAL RULES to provide certainty and clarity for stakeholders with respect to recent amendments to insolvency legislation by adding definitions and standardizing information to be provided under the Bankruptcy and Insolvency Act.  They also streamline the administrative burden particularly for trustees in bankruptcy.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0218  <strong>Publication Date:</strong> 2009-08-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1208",
-  "htmlHash": "573df8794c3fa1d538e87af63649ffd3"
+  "htmlHash": "573df8794c3fa1d538e87af63649ffd3",
+  "attachments": [
+    "attachment.php?attach=21159&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0452</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CHARLES A. GRACEY, of Kanata, Ontario, as a permanent\nmember of the Canadian International Trade Tribunal to hold office during\ngood behaviour for a term effective April 1, 1995 and ending June 30, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0452",
-  "htmlHash": "9db700301a2c9b4e5ed5cfd2f1be6375"
+  "htmlHash": "9db700301a2c9b4e5ed5cfd2f1be6375",
+  "attachments": []
 }

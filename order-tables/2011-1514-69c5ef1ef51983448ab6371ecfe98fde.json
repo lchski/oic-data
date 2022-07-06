@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1514</td><td>2011-12-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of IAN D.C. MCPHAIL, Q.C., of  Toronto, Ontario, as part-time Vice-Chairman of the Royal Canadian Mounted Police Public Complaints Commission, to hold office during good behaviour for a term of one year, effective January 14, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25196&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1514",
-  "htmlHash": "69c5ef1ef51983448ab6371ecfe98fde"
+  "htmlHash": "69c5ef1ef51983448ab6371ecfe98fde",
+  "attachments": [
+    "attachment.php?attach=25196&lang=en"
+  ]
 }

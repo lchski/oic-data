@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1195</td><td>2019-08-04</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HUGH ADSETT as Ambassador and Permanent Representative of Canada to the Organization of American States, in Washington; ARIEL DELOUYA as Consul General of Canada in Minneapolis (United States of America); RACHEL McCORMICK as Consul General of Canada in Dallas (United States of America); and LESLIE NORTON as Ambassador and Permanent Representative of Canada to the Office of the United Nations and to the United Nations Conference on Disarmament, in Geneva.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38463&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1195",
-  "htmlHash": "4b5a115e039dc1997b63282b9aa995db"
+  "htmlHash": "4b5a115e039dc1997b63282b9aa995db",
+  "attachments": [
+    "attachment.php?attach=38463&lang=en"
+  ]
 }

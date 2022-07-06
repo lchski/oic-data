@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2258</td><td>1995-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; INDUSTRY,&nbsp; ACOA,&nbsp; WED-OLD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the SMALL BUSINESS LOANS REGULATIONS, 1993 pertaining to loan\nand asset security, the release of personal guarantees, consistency between\nfixed and floating rate loans, and the rewording of sections 23.1 and 23.2\nin order to make reference to both the registration fee and the\nadministration fee.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0059  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2258",
-  "htmlHash": "52308eaf26089c067af822401e518b0b"
+  "htmlHash": "52308eaf26089c067af822401e518b0b",
+  "attachments": []
 }

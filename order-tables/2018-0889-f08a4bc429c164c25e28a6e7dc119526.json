@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0889</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Administration and Control of Reserve Land Beardy's and Okemasis Indian Reserve No. 96 &amp; 97-B, Saskatchewan ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the exercise of the power of Saskatchewan to take a portion of land in BEARDY'S and OKEMASIS INDIAN RESERVE NO. 96 &amp; 97-B, Saskatchewan, pursuant to subsection 35(1) of the Indian Act; and (2) authorizing, in lieu of such taking, the transfer of administration and control of the required lands, pursuant to subsection 35(3) of the Indian Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36597&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0889",
-  "htmlHash": "f08a4bc429c164c25e28a6e7dc119526"
+  "htmlHash": "f08a4bc429c164c25e28a6e7dc119526",
+  "attachments": [
+    "attachment.php?attach=36597&lang=en"
+  ]
 }

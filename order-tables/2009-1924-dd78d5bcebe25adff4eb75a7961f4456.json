@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1924</td><td>2009-11-26</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Credit Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Agriculture and Agri-Food of CARL SPENCER of Tara, Ontario, as a director of the Board of Directors of Farm Credit Canada to hold office during pleasure for a term of three years, in the place of Jack C. Christie.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21812&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1924",
-  "htmlHash": "dd78d5bcebe25adff4eb75a7961f4456"
+  "htmlHash": "dd78d5bcebe25adff4eb75a7961f4456",
+  "attachments": [
+    "attachment.php?attach=21812&lang=en"
+  ]
 }

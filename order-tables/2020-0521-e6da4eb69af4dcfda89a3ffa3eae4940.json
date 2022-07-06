@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0521</td><td>2020-06-29</td><td></td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Commercial Corporation  Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister for International Trade of CHRISTA C. WESSEL of Oakville, Ontario, as a director of the Board of Directors of the Canadian Commercial Corporation, to hold office during pleasure for a term of three years, effective July 1, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39462&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0521",
-  "htmlHash": "e6da4eb69af4dcfda89a3ffa3eae4940"
+  "htmlHash": "e6da4eb69af4dcfda89a3ffa3eae4940",
+  "attachments": [
+    "attachment.php?attach=39462&lang=en"
+  ]
 }

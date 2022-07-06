@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1159</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting the AUDITOR GENERAL OF CANADA to inquire into and report on the reconciliations referred to in the personal income tax administration agreements between Canada and the NUNATSIAVUT GOVERNMENT, Canada and the TLICHO GOVERNMENT and Canada and the KWANLIN DUN FIRST NATION.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1159",
-  "htmlHash": "865d74e801f548554ddb4c8f845fa266"
+  "htmlHash": "865d74e801f548554ddb4c8f845fa266",
+  "attachments": [
+    "attachment.php?attach=16850&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0681</td><td>2020-09-25</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Food and Drugs Act (Sale of a New Drug for Emergency Treatment)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FOOD AND DRUGS ACT (SALE OF A NEW DRUG FOR EMERGENCY TREATMENT) in order to facilitate access to drugs for Canadians by modernizing the emergency provisions in the Food and Drug Regulations to arrive at less burdensome processes for drugs accessed through the Special Access Program or the Emergency Drug Release Program.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0212  <strong>Publication Date:</strong> 2020-10-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39666&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0681",
-  "htmlHash": "a1a9541a2af98d37f2c397923cf9c0ab"
+  "htmlHash": "a1a9541a2af98d37f2c397923cf9c0ab",
+  "attachments": [
+    "attachment.php?attach=39666&lang=en"
+  ]
 }

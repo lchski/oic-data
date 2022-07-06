@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1364</td><td>2002-08-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of DELOITTE &amp; TOUCHE of Ottawa, Ontario, to be the\nauditor for the Bank of Canada, to audit its accounts and financial\ntransactions for the fiscal years 2002 to 2005.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1364",
-  "htmlHash": "b283d320978b09da89938767d0afa713"
+  "htmlHash": "b283d320978b09da89938767d0afa713",
+  "attachments": []
 }

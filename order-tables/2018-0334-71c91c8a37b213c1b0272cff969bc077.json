@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0334</td><td>2018-03-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Quebec Fishery Regulations, 1990</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the QUEBEC FISHERY REGULATIONS, 1990 in order to (1) improve the regulatory management tools applied to Quebec’s Atlantic salmon sport fishery to better manage the fishery as the species population fluctuates and to facilitate the recruitment of new Atlantic salmon fishers to generate greater economic benefits; and (2) improve consistency between the Quebec Fishery Regulations (QFR), 1990 and Quebec’s Regulation respecting aquaculture and the sale of fish (RASF) with regard to bait fishing by adding to the QFR, 1990 certain species of fish prohibited for use as bait in Quebec’s RASF.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0055  <strong>Publication Date:</strong> 2018-04-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35971&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0334",
-  "htmlHash": "71c91c8a37b213c1b0272cff969bc077"
+  "htmlHash": "71c91c8a37b213c1b0272cff969bc077",
+  "attachments": [
+    "attachment.php?attach=35971&lang=en"
+  ]
 }

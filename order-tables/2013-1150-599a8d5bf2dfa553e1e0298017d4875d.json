@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1150</td><td>2013-11-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Various GST/HST Regulations, No. 5</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending VARIOUS GST/HST REGULATIONS, no. 5 in order to (1) formalize and give legal effect to Prince Edward Island's decision to adopt the HST; and (2) make necessary housekeeping and technical amendments.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0197  <strong>Publication Date:</strong> 2013-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28409&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1150",
-  "htmlHash": "599a8d5bf2dfa553e1e0298017d4875d"
+  "htmlHash": "599a8d5bf2dfa553e1e0298017d4875d",
+  "attachments": [
+    "attachment.php?attach=28409&lang=en"
+  ]
 }

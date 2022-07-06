@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1126</td><td>2015-07-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Duties Order\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring from the Department of National Defence to the Department of Public Safety and Emergency Preparedness the control and supervision of that portion of the federal public administration, known as the National Search and Rescue Secretariat.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2015-0074  <strong>Publication Date:</strong> 2015-08-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31460&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1126",
-  "htmlHash": "dfb3f38c16f0b00888719121f8080cce"
+  "htmlHash": "dfb3f38c16f0b00888719121f8080cce",
+  "attachments": [
+    "attachment.php?attach=31460&lang=en"
+  ]
 }

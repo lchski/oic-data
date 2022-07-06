@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0247</td><td>2002-02-26</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of the HONOURABLE WARREN ALLMAND, P.C., of Westmount,\nQuebec, as President of the International Centre for Human Rights and\nDemocratic Development to hold office during pleasure for a term of\nthree months, effective February 25, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0247",
-  "htmlHash": "b3ea4dd704fc0b797c1b10c7a466846d"
+  "htmlHash": "b3ea4dd704fc0b797c1b10c7a466846d",
+  "attachments": []
 }

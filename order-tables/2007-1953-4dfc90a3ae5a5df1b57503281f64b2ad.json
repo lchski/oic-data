@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1953</td><td>2007-12-13</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act<br>Canada Agricultural Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS AND THE DAIRY PRODUCTS REGULATIONS by revising the compositional standards for various kinds of cheese.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0302  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17727&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1953",
-  "htmlHash": "4dfc90a3ae5a5df1b57503281f64b2ad"
+  "htmlHash": "4dfc90a3ae5a5df1b57503281f64b2ad",
+  "attachments": [
+    "attachment.php?attach=17727&lang=en"
+  ]
 }

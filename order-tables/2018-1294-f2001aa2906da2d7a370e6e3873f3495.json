@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1294</td><td>2018-10-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Ontario Fishery Regulations, 1989 and the Ontario Fishery Regulations, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ONTARIO FISHERY REGULATIONS, 1989 AND THE ONTARIO FISHERY REGULATIONS, 2007, in order to (1) correct typographical or grammatical errors; (2) correct discrepancies between the French and English versions; (3)improve consistency in terminology; (4) update terminology; (5) add clarity to a regulatory provision; and, (6) other miscellaneous changes; update the name of a provincial ministry; to resolve discrepancies in names and coordinates, etc.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0216  <strong>Publication Date:</strong> 2018-10-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36977&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1294",
-  "htmlHash": "f2001aa2906da2d7a370e6e3873f3495"
+  "htmlHash": "f2001aa2906da2d7a370e6e3873f3495",
+  "attachments": [
+    "attachment.php?attach=36977&lang=en"
+  ]
 }

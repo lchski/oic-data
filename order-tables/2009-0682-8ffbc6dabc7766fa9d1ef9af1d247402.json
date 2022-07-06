@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0682</td><td>2009-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CEAA</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE INFRASTRUCTURE PROJECTS ENVIRONMENTAL ASSESSMENT ADAPTATION REGULATIONS: certain funding initiatives will also be added to the Infrastructure Projects Environmental Assessment Adaptation Regulations to allow projects funded under those programs, that cannot be excluded and trigger both federal and provincial environmental assessments, to be considered for substitution in accordance with the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0132  <strong>Publication Date:</strong> 2009-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20546&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0682",
-  "htmlHash": "8ffbc6dabc7766fa9d1ef9af1d247402"
+  "htmlHash": "8ffbc6dabc7766fa9d1ef9af1d247402",
+  "attachments": [
+    "attachment.php?attach=20546&lang=en"
+  ]
 }

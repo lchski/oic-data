@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0874</td><td>1996-06-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LEAST DEVELOPED DEVELOPING COUNTRIES ORDER (ANGOLA, ERITREA AND BOTSWANA)\nwhich extends the Least Developed Developing Countries (LDDC) tariff\ntreatment to General Preferential Tariff (GPT) eligible imports from\nANGOLA and ERITREA and withdraws LDDC tariff treatment from GPT eligible\nimports from BOTSWANA.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0299  <strong>Publication Date:</strong> 1996-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0874",
-  "htmlHash": "6b69fb25cdea764315c3cf35bc05586b"
+  "htmlHash": "6b69fb25cdea764315c3cf35bc05586b",
+  "attachments": []
 }

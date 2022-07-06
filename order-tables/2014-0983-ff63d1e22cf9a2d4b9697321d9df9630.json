@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0983</td><td>2014-09-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Imports of Certain Textile and Apparel Goods from Honduras Customs Duty Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">IMPORTS OF CERTAIN TEXTILE AND APPAREL GOODS FROM HONDURAS CUSTOMS DUTY REMISSION ORDER in order to set out the maximum quantities of textile and apparel goods that may be eligible for the benefits of the Canada-Honduras Free Trade Agreement under tariff preference levels.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0221  <strong>Publication Date:</strong> 2014-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29790&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0983",
-  "htmlHash": "ff63d1e22cf9a2d4b9697321d9df9630"
+  "htmlHash": "ff63d1e22cf9a2d4b9697321d9df9630",
+  "attachments": [
+    "attachment.php?attach=29790&lang=en"
+  ]
 }

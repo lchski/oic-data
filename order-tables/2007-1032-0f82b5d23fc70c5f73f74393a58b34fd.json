@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1032</td><td>2007-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to CLAUDE DELAND, a survivor of The Hon. Gontran Rouleau, a retired Puisne Judge of the Superior Court of Quebec, commencing on May 13, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16716&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1032",
-  "htmlHash": "0f82b5d23fc70c5f73f74393a58b34fd"
+  "htmlHash": "0f82b5d23fc70c5f73f74393a58b34fd",
+  "attachments": [
+    "attachment.php?attach=16716&lang=en"
+  ]
 }

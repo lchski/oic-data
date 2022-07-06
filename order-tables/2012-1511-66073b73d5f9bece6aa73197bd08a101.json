@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1511</td><td>2012-11-22</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANN SHAW of Châteauguay, Quebec, to be a commissioner of the First Nations Tax Commission, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26987&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1511",
-  "htmlHash": "66073b73d5f9bece6aa73197bd08a101"
+  "htmlHash": "66073b73d5f9bece6aa73197bd08a101",
+  "attachments": [
+    "attachment.php?attach=26987&lang=en"
+  ]
 }

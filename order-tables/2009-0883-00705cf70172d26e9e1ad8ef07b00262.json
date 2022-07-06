@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0883</td><td>2009-06-04</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Promotions - RCMP</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT OF NON-COMMISSIONED OFFICERS to the Rank of INSPECTOR.\n    - Staff Sergeant RAJWINDER SINGH GILL\n    - Staff Sergeant JAMES ROBERT ZETTLER\n    - Corporal JOSEPH RODRIGUE JEAN ERIC SIMARD</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20748&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0883",
-  "htmlHash": "00705cf70172d26e9e1ad8ef07b00262"
+  "htmlHash": "00705cf70172d26e9e1ad8ef07b00262",
+  "attachments": [
+    "attachment.php?attach=20748&lang=en"
+  ]
 }

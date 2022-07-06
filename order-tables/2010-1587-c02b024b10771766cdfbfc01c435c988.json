@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1587</td><td>2010-12-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Telecom Decision CRTC 2010-11</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to vary, rescind, or refer back to the CRTC for reconsideration Telecom Decision CRTC 2010-11.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23587&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1587",
-  "htmlHash": "c02b024b10771766cdfbfc01c435c988"
+  "htmlHash": "c02b024b10771766cdfbfc01c435c988",
+  "attachments": [
+    "attachment.php?attach=23587&lang=en"
+  ]
 }

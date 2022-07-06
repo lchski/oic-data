@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0716</td><td>2017-06-09</td><td></td><td></td><td>,&nbsp; TC,&nbsp; CTA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Transportation Agency - 2016-17 Annual Report</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Submission to the Governor in Council of the 2016-17 ANNUAL REPORT of the CANADIAN TRANSPORTATION AGENCY.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34622&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0716",
-  "htmlHash": "8a923e66746e31966af965426c6c7689"
+  "htmlHash": "8a923e66746e31966af965426c6c7689",
+  "attachments": [
+    "attachment.php?attach=34622&lang=en"
+  ]
 }

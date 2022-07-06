@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0624</td><td>1994-04-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 15.38 hectares of land situated on Vancouver Island,\nin the Rupert District of British Columbia, for the use and benefit of the\nNUWITTI BAND OF INDIANS (also known as the Tlatlasikwala Band) as an\naddition to Hope Island Indian Reserve No. 1.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0624",
-  "htmlHash": "3ef9088589c981f920c0c9cfb55beba0"
+  "htmlHash": "3ef9088589c981f920c0c9cfb55beba0",
+  "attachments": []
 }

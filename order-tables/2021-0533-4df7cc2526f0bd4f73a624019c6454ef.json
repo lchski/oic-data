@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0533</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TBS</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Superannuation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Public Service Superannuation Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PUBLIC SERVICE SUPERANNUATION REGULATIONS in order to (1) align the Regulations with the Canada Labour Code and the Employment Insurance Act; (2) keep pace with the recognition of new types and durations of leave in terms and conditions of employment and collective agreements; and (3) alleviate the gendered impact of the present policy.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0136  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40822&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0533",
-  "htmlHash": "4df7cc2526f0bd4f73a624019c6454ef"
+  "htmlHash": "4df7cc2526f0bd4f73a624019c6454ef",
+  "attachments": [
+    "attachment.php?attach=40822&lang=en"
+  ]
 }

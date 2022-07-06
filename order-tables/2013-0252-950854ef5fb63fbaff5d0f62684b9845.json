@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0252</td><td>2013-03-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; IC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUZIE GIGNAC of Ottawa, Ontario, to be a member of the Standards Council of Canada, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27477&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0252",
-  "htmlHash": "950854ef5fb63fbaff5d0f62684b9845"
+  "htmlHash": "950854ef5fb63fbaff5d0f62684b9845",
+  "attachments": [
+    "attachment.php?attach=27477&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1511</td><td>2006-12-07</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the LIARD FIRST NATION, of some 52.69 hectares of land near the community of Lower Post, British Columbia, as an addition to Liard River Indian Reserve No. 3.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15498&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1511",
-  "htmlHash": "40befaf2c47553b96652c8aef53d8ea6"
+  "htmlHash": "40befaf2c47553b96652c8aef53d8ea6",
+  "attachments": [
+    "attachment.php?attach=15498&lang=en"
+  ]
 }

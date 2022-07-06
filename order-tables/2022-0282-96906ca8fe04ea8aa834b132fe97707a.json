@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0282</td><td>2022-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act<br>Canadian Energy Regulator Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Popkum Indian Reserve No. 1 and No. 2, British Columbia ** Grant of Easement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the exercise by TRANS MOUNTAIN PIPELINE ULC, as general partner for and on behalf of Trans Mountain Pipeline L.P., of the power to take an INTEREST IN LANDS IN POPKUM INDIAN RESERVE NO. 1 AND POPKUM INDIAN RESERVE NO. 2; and (2) authorizing the grant of the required easement in those reserves.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41800&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0282",
-  "htmlHash": "96906ca8fe04ea8aa834b132fe97707a"
+  "htmlHash": "96906ca8fe04ea8aa834b132fe97707a",
+  "attachments": [
+    "attachment.php?attach=41800&lang=en"
+  ]
 }

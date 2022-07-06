@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0016</td><td>2007-01-05</td><td></td><td></td><td>TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act<br>Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving the Corporate Plan of the LAURENTIAN PILOTAGE AUTHORITY for the 2007-2011 planning period, and (b) fixing the maximum amount of money the Authority may borrow for the purpose of defraying its expenses.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0016",
-  "htmlHash": "ce9caf020b71e4c944f0dda85b0fa34c"
+  "htmlHash": "ce9caf020b71e4c944f0dda85b0fa34c",
+  "attachments": [
+    "attachment.php?attach=15684&lang=en"
+  ]
 }

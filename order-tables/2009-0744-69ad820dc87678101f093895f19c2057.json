@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0744</td><td>2009-05-14</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable MICHEL MONNIN to serve as ADMINISTRATOR of the Government of MANITOBA for the period of June 1 to June 2, 2009 inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20577&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0744",
-  "htmlHash": "69ad820dc87678101f093895f19c2057"
+  "htmlHash": "69ad820dc87678101f093895f19c2057",
+  "attachments": [
+    "attachment.php?attach=20577&lang=en"
+  ]
 }

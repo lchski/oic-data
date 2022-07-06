@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1522</td><td>2006-12-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fix the salary and other employment conditions of ALLAN F. AMEY, Special Advisor to the Deputy Minister of the Environment to be styled as President designate of the Canada Emission Reduction Incentives Agency, effective April 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15484&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1522",
-  "htmlHash": "3490ec34e2ae8ebc7cc5fc6441899edc"
+  "htmlHash": "3490ec34e2ae8ebc7cc5fc6441899edc",
+  "attachments": [
+    "attachment.php?attach=15484&lang=en"
+  ]
 }

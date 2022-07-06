@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1763</td><td>1996-11-19</td><td>0</td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RETROCEDING to the Province of QUEBEC of FOUR parcels of land, as follows:\n.\n (1) a beach and deep water lot situate on the St. Lawrence River at\n     LOTBINIÈRE, measuring some 461 square metres,\n (2) a beach and deep water lot situate on the Chaudière River at MÉGANTIC,\n     measuring some 4,500 square metres,\n (3) 58 square metres of land situate on the St. Lawrence River at\n     BÉCANCOUR, together with an easement, and\n (4) 14,400 square metres of land situate on UNGAVA BAY, together with an\n     easement.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1763",
-  "htmlHash": "f1cba143a976824dc9c7a162f6e631ea"
+  "htmlHash": "f1cba143a976824dc9c7a162f6e631ea",
+  "attachments": []
 }

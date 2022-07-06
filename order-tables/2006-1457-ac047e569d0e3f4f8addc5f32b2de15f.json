@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1457</td><td>2006-11-30</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n- Staff Sergeant D.B. DICKSON\n- Staff Sergeant G.M. de GOEIJ\n- Staff Sergeant R.M. McGINNIS\n- Sergeant G.D. ROOK\n- Corporal M.R. SNOWMAN</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15438&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1457",
-  "htmlHash": "ac047e569d0e3f4f8addc5f32b2de15f"
+  "htmlHash": "ac047e569d0e3f4f8addc5f32b2de15f",
+  "attachments": [
+    "attachment.php?attach=15438&lang=en"
+  ]
 }

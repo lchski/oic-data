@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1425</td><td>2012-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of GORDON CHRISTOPHER McRAE of Coquitlam, British Columbia, as a full-time member of the Immigration and Refugee Board (Vancouver Regional Office), to hold office during good behaviour for a term of three years, effective January 11, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26889&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1425",
-  "htmlHash": "7c0757156c95e48516de10af40599619"
+  "htmlHash": "7c0757156c95e48516de10af40599619",
+  "attachments": [
+    "attachment.php?attach=26889&lang=en"
+  ]
 }

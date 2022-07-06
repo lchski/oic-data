@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0539</td><td>2003-04-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; VAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Veterans Affairs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN E. (JACK) STAGG of Ottawa, Ontario, to be Deputy Minister of Veterans Affairs, to hold office during pleasure, effective April 22, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2040&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0539",
-  "htmlHash": "a6bcda566b756a46d2632d50a366177e"
+  "htmlHash": "a6bcda566b756a46d2632d50a366177e",
+  "attachments": [
+    "attachment.php?attach=2040&lang=en"
+  ]
 }

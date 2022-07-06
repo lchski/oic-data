@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0624</td><td>2009-04-23</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for LA CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA VILLE DE LA BAIE, in Quebec (a) to change its name to the CHAMBRE DE COMMERCE DE LA BAIE ET DU BAS-SAGUENAY ; and (b) to change the boundaries of its district to La Baie, Saint-Félix d'Otis, Anse-Saint-Jean, Rivière-Éternité, Petit-Saguenay et Ferland-Boileau.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0624",
-  "htmlHash": "0f3dc9a259e19c1fb05e97526ffbdc65"
+  "htmlHash": "0f3dc9a259e19c1fb05e97526ffbdc65",
+  "attachments": [
+    "attachment.php?attach=20446&lang=en"
+  ]
 }

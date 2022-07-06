@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1106</td><td>2012-09-20</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Boating Safety Class Contribution Program \n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2008-1014 of June 5, 2008; and (2) authorizing the Minister of Transport to enter into contribution agreements in an amount not to exceed $400,000 annually per recipient, for the purpose of implementing the BOATING SAFETY CLASS CONTRIBUTION PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26542&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1106",
-  "htmlHash": "2568866422f7ae16313ff2de8f51d499"
+  "htmlHash": "2568866422f7ae16313ff2de8f51d499",
+  "attachments": [
+    "attachment.php?attach=26542&lang=en"
+  ]
 }

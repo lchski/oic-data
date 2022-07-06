@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1965</td><td>1990-09-07</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Enza Colavecchia, of Brampton, Ontario, as a member of\nthe National Council of Welfare to hold office during pleasure for a term\nof three years, effective October 1, 1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1965",
-  "htmlHash": "81386f11b6a627b345581f4b6507d1df"
+  "htmlHash": "81386f11b6a627b345581f4b6507d1df",
+  "attachments": []
 }

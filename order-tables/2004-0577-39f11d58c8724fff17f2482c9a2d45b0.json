@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0577</td><td>2004-05-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of THEO RUDOLF SCHWEIKER to be Honorary Consul of Canada at Stuttgart, Federal Republic of Germany, for a period of three years, effective June 23, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6785&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0577",
-  "htmlHash": "39f11d58c8724fff17f2482c9a2d45b0"
+  "htmlHash": "39f11d58c8724fff17f2482c9a2d45b0",
+  "attachments": [
+    "attachment.php?attach=6785&lang=en"
+  ]
 }

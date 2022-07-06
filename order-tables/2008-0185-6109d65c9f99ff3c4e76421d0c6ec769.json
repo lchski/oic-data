@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0185</td><td>2008-01-31</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ATLANTIC PILOTAGE AUTHORITY REGULATIONS by outlining the co-ordinates for Zone A and Zone B and by excluding ships that are less than 15,000 gross tons from being subject to compulsory pilotage in Zone A - outer zone of the Voisey's Bay compulsory pilotage area.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0029  <strong>Publication Date:</strong> 2008-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17997&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0185",
-  "htmlHash": "6109d65c9f99ff3c4e76421d0c6ec769"
+  "htmlHash": "6109d65c9f99ff3c4e76421d0c6ec769",
+  "attachments": [
+    "attachment.php?attach=17997&lang=en"
+  ]
 }

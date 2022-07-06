@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0580</td><td>1996-04-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION whereby the UPPER SIMILKAMEEN BAND OF INDIANS\nsurrenders, for a term of 21 years, any of its rights and interest in some\n6.07 hectares of Chuchuwayha Indian Reserve No. 2 in BRITISH COLUMBIA, for\nthe purpose of leasing them to General Waste Disposal Corporation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0580",
-  "htmlHash": "e695e348eaeb24bb01410ba321a7017a"
+  "htmlHash": "e695e348eaeb24bb01410ba321a7017a",
+  "attachments": []
 }

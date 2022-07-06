@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0406</td><td>2008-02-28</td><td>15</td><td>2004</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Safety Act, 2002</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing June 1, 2008 certain provisions...</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 1, 2008 as the day on which certain provisions of the EXPLOSIVES ACT, as enacted by the Public Safety Act, 2002, COME INTO FORCE to allow for the increased control over the importation, exportation, transportation through Canada, aquisition, possession and sale of explosives and certain components of explosives, and provide increased penalties for certain offences.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0029  <strong>Publication Date:</strong> 2008-03-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18213&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0406",
-  "htmlHash": "e89a59464b4c7b7fb47a5c9dcac89eb1"
+  "htmlHash": "e89a59464b4c7b7fb47a5c9dcac89eb1",
+  "attachments": [
+    "attachment.php?attach=18213&lang=en"
+  ]
 }

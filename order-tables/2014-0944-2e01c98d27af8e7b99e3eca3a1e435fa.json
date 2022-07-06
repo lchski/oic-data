@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0944</td><td>2014-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DESD</td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Entry into Force of the Agreement on Social Security between Canada and the Republic of Serbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION be issued giving notice of the ENTRY INTO FORCE on December 1, 2014 of the AGREEMENT on SOCIAL SECURITY between Canada and the REPUBLIC OF SERBIA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29758&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0944",
-  "htmlHash": "2e01c98d27af8e7b99e3eca3a1e435fa"
+  "htmlHash": "2e01c98d27af8e7b99e3eca3a1e435fa",
+  "attachments": [
+    "attachment.php?attach=29758&lang=en"
+  ]
 }

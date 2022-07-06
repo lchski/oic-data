@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0580</td><td>2019-05-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; VAC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Veterans Affairs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Assigning to the Minister of Veterans Affairs the power to develop, establish and implement a transfer payment program, the Métis Veterans Recognition Payment</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Assigning to the Minister of Veterans Affairs the power to develop, establish and implement a transfer payment program, the Métis Veterans Recognition Payment in order to (1) recognize Second World War Métis Veterans' pre- and post-war experiences that may have negatively affected their re-establishment in civil life, through the provision of a $20,000 individual recognition payment to each eligible Second World War Métis Veteran or their survivor; and (2) support commemorative initiatives that promote awareness and appreciation of Métis Veterans' sacrifices and contributions among the Métis people and the Canadian public.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37904&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0580",
-  "htmlHash": "5e613aaa0bab2bbaed6e026a3b6b7356"
+  "htmlHash": "5e613aaa0bab2bbaed6e026a3b6b7356",
+  "attachments": [
+    "attachment.php?attach=37904&lang=en"
+  ]
 }

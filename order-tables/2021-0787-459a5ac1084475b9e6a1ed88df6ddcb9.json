@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0787</td><td>2021-08-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MANDY AYLEN of the City of Gatineau, in the Province of Quebec, prothonotary of the Federal Court, to be a Judge of the Federal Court, and a Judge ex officio of the Federal Court of Appeal.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41100&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0787",
-  "htmlHash": "459a5ac1084475b9e6a1ed88df6ddcb9"
+  "htmlHash": "459a5ac1084475b9e6a1ed88df6ddcb9",
+  "attachments": [
+    "attachment.php?attach=41100&lang=en"
+  ]
 }

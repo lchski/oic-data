@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2523</td><td>1991-12-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sell to the MONTREAL CHINESE COMMUNITY UNITED CENTRE INC. of\na land (696.75 m²) with the building situated at 211 de la Gauchetière West\nin Montreal, Quebec and to sell to The Corporation of the Chinese Catholic\nCommunity of Montreal a land situated at 205 de la Gauchetière West;\nOrder in Council P.C. 1986-2929 is hereby revoked.\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2523",
-  "htmlHash": "65d628394246c2a5b701ba4599e5c253"
+  "htmlHash": "65d628394246c2a5b701ba4599e5c253",
+  "attachments": []
 }

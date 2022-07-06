@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1996</td><td>1992-09-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EIC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Richard Chauncey Motlong, of Sioux Narrows, Ontario, as\nChairperson of the Boards of Referees for the Ontario Regional Division,\nand particularly for the District of Kenora, for a term of three years,\neffective November 10, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1996",
-  "htmlHash": "c868c46ac6ca08fe74fd33c76531d73a"
+  "htmlHash": "c868c46ac6ca08fe74fd33c76531d73a",
+  "attachments": []
 }

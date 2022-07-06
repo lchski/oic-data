@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0199</td><td>1998-02-17</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE ROBERT CARMAN COATES, P.C., Q.C., of Amherst,\nNova Scotia, as a temporary member of the Canadian International Trade\nTribunal to hold office during good behaviour for a term ending May 30,\n1998; and order that he shall be deemed to be employed in the Public\nService for the purposes of the Public Service Superannuation Act,\neffective February 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0199",
-  "htmlHash": "519592316efd94229c3e4a8f5a1fe8ec"
+  "htmlHash": "519592316efd94229c3e4a8f5a1fe8ec",
+  "attachments": []
 }

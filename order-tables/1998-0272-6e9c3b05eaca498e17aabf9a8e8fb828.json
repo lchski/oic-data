@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0272</td><td>1998-02-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-159 of February 10, 1998,\nrespecting the re-appointment of BERNARD SIVAK as a full-time member of\nthe Convention Refugee Determination Division of the Immigration and\nRefugee Board (Montreal Regional Office).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0272",
-  "htmlHash": "6e9c3b05eaca498e17aabf9a8e8fb828"
+  "htmlHash": "6e9c3b05eaca498e17aabf9a8e8fb828",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1430</td><td>2006-11-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">DISTRIBUTING COMPANY AND DISTRIBUTING INSURANCE HOLDING COMPANY REGULATIONS by defining what constitutes a « distributing » financial institution.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0305  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15402&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1430",
-  "htmlHash": "53ccd1253725e3ccf3030164960e06a5"
+  "htmlHash": "53ccd1253725e3ccf3030164960e06a5",
+  "attachments": [
+    "attachment.php?attach=15402&lang=en"
+  ]
 }

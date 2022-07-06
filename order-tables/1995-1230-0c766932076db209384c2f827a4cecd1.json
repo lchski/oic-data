@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1230</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a LEAVE OF ABSENCE to the Hon. LOUIS-PHILIPPE GALIPEAU, a\nPuisne Judge of the Superior Court of Quebec, from May 3 to June 30, 1995,\non account of ill-health.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1230",
-  "htmlHash": "0c766932076db209384c2f827a4cecd1"
+  "htmlHash": "0c766932076db209384c2f827a4cecd1",
+  "attachments": []
 }

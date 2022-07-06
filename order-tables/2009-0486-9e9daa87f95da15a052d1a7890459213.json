@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0486</td><td>2009-03-26</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of EARLE McCURDY of St. John's, Newfoundland and Labrador, as a Canadian representative to the General Council of the Northwest Atlantic Fisheries Organization to hold office during pleasure for a term ending February 8, 2011; and reappointment of EARLE McCURDY of St. John's, Newfoundland and Labrador, as a Canadian representative to the Fisheries Commission of the Northwest Atlantic Fisheries Organization to hold office during pleasure for a term ending February 8, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20304&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0486",
-  "htmlHash": "9e9daa87f95da15a052d1a7890459213"
+  "htmlHash": "9e9daa87f95da15a052d1a7890459213",
+  "attachments": [
+    "attachment.php?attach=20304&lang=en"
+  ]
 }

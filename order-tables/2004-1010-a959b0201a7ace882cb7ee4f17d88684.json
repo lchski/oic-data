@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1010</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GREAT LAKES PILOTAGE TARIFF REGULATIONS by increasing pilotage fees for the 2004 navigational season by seven per cent.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0196  <strong>Publication Date:</strong> 2004-10-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7869&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1010",
-  "htmlHash": "a959b0201a7ace882cb7ee4f17d88684"
+  "htmlHash": "a959b0201a7ace882cb7ee4f17d88684",
+  "attachments": [
+    "attachment.php?attach=7869&lang=en"
+  ]
 }

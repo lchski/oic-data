@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0508</td><td>2021-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSPC,&nbsp; NCC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with 2814986 Ontario Inc. ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that National Capital Commission enter into a lease agreement with  2814986 Ontario Inc. for a period of 99 years, for real property located at 1460 Riverside Drive, in Ottawa, Ontario, for a development in accordance with municipal zoning and federal land use approvals.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40735&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0508",
-  "htmlHash": "f6c65823e3411a3f882275b062ed9e6c"
+  "htmlHash": "f6c65823e3411a3f882275b062ed9e6c",
+  "attachments": [
+    "attachment.php?attach=40735&lang=en"
+  ]
 }

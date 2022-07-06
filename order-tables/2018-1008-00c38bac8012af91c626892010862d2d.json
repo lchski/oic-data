@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1008</td><td>2018-07-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order assigning the Honourable Carla Qualtrough, a Minister of State to assist the Minister of Employment and Social Development</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Assigning the Honourable CARLA QUALTROUGH, a Minister of State to assist the Minister of Employment and Social Development in the carrying out of that Minister’s responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0065  <strong>Publication Date:</strong> 2018-08-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36694&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1008",
-  "htmlHash": "00c38bac8012af91c626892010862d2d"
+  "htmlHash": "00c38bac8012af91c626892010862d2d",
+  "attachments": [
+    "attachment.php?attach=36694&lang=en"
+  ]
 }

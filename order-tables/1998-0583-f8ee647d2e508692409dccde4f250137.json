@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0583</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DETERMINATION OF THE TARIFF CLASSIFICATION OF\nSUGAR, MOLASSES AND SUGAR SYRUP REGULATIONS whereby the tariff\nclassification of sugar shall be determined using the International\nCommission for Uniform Methods of Sugar Analysis' Method No. 1, as issued\nin 1958 and amended from time to time.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0241  <strong>Publication Date:</strong> 1998-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0583",
-  "htmlHash": "f8ee647d2e508692409dccde4f250137"
+  "htmlHash": "f8ee647d2e508692409dccde4f250137",
+  "attachments": []
 }

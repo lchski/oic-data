@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0126</td><td>2000-02-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Government of NUNAVUT to\nallow for the integration of federal OLD AGE SECURITY benefits and the\nterritorial SENIOR CITIZENS SUPPLEMENTARY BENEFIT.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0126",
-  "htmlHash": "784bbfd8539ac8b159826a6e618ffa9f"
+  "htmlHash": "784bbfd8539ac8b159826a6e618ffa9f",
+  "attachments": []
 }

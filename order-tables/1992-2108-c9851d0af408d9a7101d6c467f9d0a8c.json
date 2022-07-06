@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2108</td><td>1992-09-17</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an Order (No. 1992-R-282) of the NATIONAL TRANSPORTATION AGENCY\nwhich establishes additional 1992 minimum compensatory rate levels for the\nmovement of RAPESEED MEAL by rail to destinations in Eastern Canada.\n(St. Charles, Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2108",
-  "htmlHash": "c9851d0af408d9a7101d6c467f9d0a8c"
+  "htmlHash": "c9851d0af408d9a7101d6c467f9d0a8c",
+  "attachments": []
 }

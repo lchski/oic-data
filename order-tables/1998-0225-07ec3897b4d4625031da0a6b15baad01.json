@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0225</td><td>1998-02-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of rural land in British Columbia for the use and benefit of\nCOOK'S FERRY, a Band of Indians, as follows:  some 14.155 hectares as ANTKO\nIndian Reserve No. 21, and some 0.4322 hectares as an addition to KUMCHEEN\nIndian Reserve No. 1.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0225",
-  "htmlHash": "07ec3897b4d4625031da0a6b15baad01"
+  "htmlHash": "07ec3897b4d4625031da0a6b15baad01",
+  "attachments": []
 }

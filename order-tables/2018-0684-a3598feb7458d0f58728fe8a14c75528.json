@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0684</td><td>2018-06-01</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PATRICIA FULLER as Canada's Ambassador for Climate Change, for a term of three years, effective June 4, 2018</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36340&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0684",
-  "htmlHash": "a3598feb7458d0f58728fe8a14c75528"
+  "htmlHash": "a3598feb7458d0f58728fe8a14c75528",
+  "attachments": [
+    "attachment.php?attach=36340&lang=en"
+  ]
 }

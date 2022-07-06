@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1641</td><td>1991-09-05</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ANDREW AND BARBARA SMITH REMISSION ORDER respecting the remission of a\nportion of the customs duties and a portion of the sales tax paid on a 1985\nHoliday Rambler Imperial travel trailer imported into Canada by Andrew and\nBarbara Smith.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0534  <strong>Publication Date:</strong> 1991-09-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1641",
-  "htmlHash": "2b2cf82041a86a3b8a64ca2c95511072"
+  "htmlHash": "2b2cf82041a86a3b8a64ca2c95511072",
+  "attachments": []
 }

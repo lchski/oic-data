@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0392</td><td>2003-03-27</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1999-1642 of September 29, 1999 authorizing the Minister of Foreign Affairs to sign or to invest other officials with full powers to sign the AGREEMENT between Canada and SPAIN concerning CINEMATOGRAPHIC RELATIONS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1741&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0392",
-  "htmlHash": "fb97f2341a626c3bcc3c20dc7f85acfa"
+  "htmlHash": "fb97f2341a626c3bcc3c20dc7f85acfa",
+  "attachments": [
+    "attachment.php?attach=1741&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1319</td><td>2001-07-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DONNA M. CHISHOLM, of Antigonish, Nova Scotia, as\nChairperson of the Boards of Referees for the Nova Scotia Regional\nDivision, and particularly for the District of New Glasgow, for a term\nof three years, effective August 26, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1319",
-  "htmlHash": "847a13cc4dc3672aaffb5de045a1c5e7"
+  "htmlHash": "847a13cc4dc3672aaffb5de045a1c5e7",
+  "attachments": []
 }

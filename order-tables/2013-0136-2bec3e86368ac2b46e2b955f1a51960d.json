@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0136</td><td>2013-02-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 4, 2012-13</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID ANGELL as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Burundi, with residence in Nairobi; RICHARD BALE as Consul General of Canada in Mumbai (Republic of India); STÉPHANE LARUE as Consul General of Canada in Sao Paulo (Federative Republic of Brazil); ALEXANDRE LÉVÊQUE as High Commissioner for Canada in the Republic of Zambia, with residence in Dar-es-Salaam; DOMINIQUE ROSSETTI as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Chad, with residence in Khartoum; and DAVID SPROULE as Ambassador Extraordinary and Plenipotentiary of Canada to the Kingdom of Norway.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27381&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0136",
-  "htmlHash": "2bec3e86368ac2b46e2b955f1a51960d"
+  "htmlHash": "2bec3e86368ac2b46e2b955f1a51960d",
+  "attachments": [
+    "attachment.php?attach=27381&lang=en"
+  ]
 }

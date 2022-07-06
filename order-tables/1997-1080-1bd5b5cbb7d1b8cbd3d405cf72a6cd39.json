@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1080</td><td>1997-07-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FISH HEALTH PROTECTION REGULATIONS which allow for\nthe movement of trout and salmon fish eggs and fish into Canada and across\nprovincial and territorial boundaries, between facilities with equal fish\nhealth status, and remove some disease testing requirements.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0392  <strong>Publication Date:</strong> 1997-08-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1080",
-  "htmlHash": "1bd5b5cbb7d1b8cbd3d405cf72a6cd39"
+  "htmlHash": "1bd5b5cbb7d1b8cbd3d405cf72a6cd39",
+  "attachments": []
 }

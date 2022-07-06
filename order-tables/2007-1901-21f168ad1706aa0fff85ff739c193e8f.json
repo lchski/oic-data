@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1901</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; ACOA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the CORPORATE PLAN of the ENTERPRISE CAPE BRETON CORPORATION for the planning period of 2007-2008 to 2011-2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17680&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1901",
-  "htmlHash": "21f168ad1706aa0fff85ff739c193e8f"
+  "htmlHash": "21f168ad1706aa0fff85ff739c193e8f",
+  "attachments": [
+    "attachment.php?attach=17680&lang=en"
+  ]
 }

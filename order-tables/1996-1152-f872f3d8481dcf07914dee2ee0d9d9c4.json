@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1152</td><td>1996-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RANALD ANDREW QUAIL, of Gloucester, Ontario, as Deputy\nMinister of Public Works and Government Services, to hold office during\npleasure.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1152",
-  "htmlHash": "f872f3d8481dcf07914dee2ee0d9d9c4"
+  "htmlHash": "f872f3d8481dcf07914dee2ee0d9d9c4",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1979</td><td>2002-11-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip made by ROBERT BERTRAND, M.P. (Pontiac--Gatineau--Labelle), to TÉMISCAMING, Quebec, on September 23, 2002, in order to attend, on behalf of the Minister of Human Resources Development, a tree-planting ceremony commemorating the 75th anniversary of government pensions.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=275&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1979",
-  "htmlHash": "3afa6574d37b4e67d06dd1fe9a1a70d1"
+  "htmlHash": "3afa6574d37b4e67d06dd1fe9a1a70d1",
+  "attachments": [
+    "attachment.php?attach=275&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1488</td><td>1993-06-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Department of EMPLOYMENT AND IMMIGRATION the control and\nsupervision of the STUDENT ASSISTANCE BRANCH, the OFFICE OF THE ASSISTANT\nUNDER SECRETARY OF STATE, the INCOME SECURITY PROGRAMS BRANCH and the\nSOCIAL SERVICE PROGRAMS BRANCH and transfer to the MINISTER all the powers,\nduties and functions of the MINISTER OF LABOUR and to AMALGAMATE and\nCOMBINE the Department of Employment and Immigration and the Department of\nLabour under the Minister and the Deputy Minister of Employment and\nImmigration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0142  <strong>Publication Date:</strong> 1993-07-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1488",
-  "htmlHash": "72ad0ca636f51b27f6dbf05a4a4cc44b"
+  "htmlHash": "72ad0ca636f51b27f6dbf05a4a4cc44b",
+  "attachments": []
 }

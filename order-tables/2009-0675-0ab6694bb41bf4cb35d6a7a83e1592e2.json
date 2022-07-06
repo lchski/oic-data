@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0675</td><td>2009-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; HRSD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE EMPLOYMENT INSURANCE (EI) REGULATIONS which will provide EI benefits for those claimants participating in training either through earlier access to benefits (amendments to section 36), or through extended benefits (Pilot Project No. 14).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0130  <strong>Publication Date:</strong> 2009-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20540&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0675",
-  "htmlHash": "0ab6694bb41bf4cb35d6a7a83e1592e2"
+  "htmlHash": "0ab6694bb41bf4cb35d6a7a83e1592e2",
+  "attachments": [
+    "attachment.php?attach=20540&lang=en"
+  ]
 }

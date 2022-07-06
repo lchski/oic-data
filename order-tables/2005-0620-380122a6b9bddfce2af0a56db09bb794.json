@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0620</td><td>2005-04-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NORTHWEST TERRITORIES FISHERY REGULATIONS by excluding waters in Nunavut from the prohibition on the use of barbed hooks, by replacing the definition for angling, by updating the schedule identifying game fish by their common and scientific names, and by reducing some sport fishing quotas.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0108  <strong>Publication Date:</strong> 2005-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10445&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0620",
-  "htmlHash": "380122a6b9bddfce2af0a56db09bb794"
+  "htmlHash": "380122a6b9bddfce2af0a56db09bb794",
+  "attachments": [
+    "attachment.php?attach=10445&lang=en"
+  ]
 }

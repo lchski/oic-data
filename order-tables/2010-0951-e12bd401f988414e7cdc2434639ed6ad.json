@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0951</td><td>2010-07-19</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Slovak Republic -Agreement for the Promotion and Protection of Investments \nSignature</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, on behalf of Canada, subject to ratification, the Agreement between Canada and the Slovak Republic for the Promotion and Protection of Investments to provide stronger protection for Canadian investors and their investments.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22932&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0951",
-  "htmlHash": "e12bd401f988414e7cdc2434639ed6ad"
+  "htmlHash": "e12bd401f988414e7cdc2434639ed6ad",
+  "attachments": [
+    "attachment.php?attach=22932&lang=en"
+  ]
 }

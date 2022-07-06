@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1334</td><td>2017-11-02</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Standards 101 and 111)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (STANDARDS 101 AND 111) in order to (1) align the Canadian and the United States safety regulations, to provide Canadians with the same level of protection under the law related to back-over crashes offered to residents of the United States and to satisfy vehicle manufacturers’ call to eliminate regulatory differences between Canada and the United States; and (2) modify section 101 to further align the Canadian safety regulation with the United States and United Nations safety regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0231  <strong>Publication Date:</strong> 2017-11-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35256&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1334",
-  "htmlHash": "18eb7476f8bb2858306aa6db3cfbfe19"
+  "htmlHash": "18eb7476f8bb2858306aa6db3cfbfe19",
+  "attachments": [
+    "attachment.php?attach=35256&lang=en"
+  ]
 }

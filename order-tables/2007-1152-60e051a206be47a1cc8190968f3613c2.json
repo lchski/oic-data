@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1152</td><td>2007-07-31</td><td></td><td></td><td>PSHRMAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Official Languages Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OFFICIAL LANGUAGES (COMMUNICATIONS WITH AND SERVICES TO THE PUBLIC) REGULATIONS by specifying that the RCMP shall provide its services in both official languages along those sections of the Trans-Canada Highway where there is a point of entry into another province that is officially bilingual.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0172  <strong>Publication Date:</strong> 2007-08-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16840&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1152",
-  "htmlHash": "60e051a206be47a1cc8190968f3613c2"
+  "htmlHash": "60e051a206be47a1cc8190968f3613c2",
+  "attachments": [
+    "attachment.php?attach=16840&lang=en"
+  ]
 }

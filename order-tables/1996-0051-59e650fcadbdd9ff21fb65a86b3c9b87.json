@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0051</td><td>1996-01-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LGC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of D.M. PEGGY MacADAM, of Sydney, Nova Scotia, as the\nReturning Officer for the electoral district of Cape Breton--The Sydneys.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0051",
-  "htmlHash": "59e650fcadbdd9ff21fb65a86b3c9b87"
+  "htmlHash": "59e650fcadbdd9ff21fb65a86b3c9b87",
+  "attachments": []
 }

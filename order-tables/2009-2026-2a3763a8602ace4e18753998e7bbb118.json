@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2026</td><td>2009-12-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; DFAIT</td></tr><tr><td>Subject</td><td colspan=\"5\">Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, Amendment to </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to approve the AMENDMENT TO THE CONVENTION ON FUTURE MULTILATERAL COOPERATION IN THE NORTHWEST ATLANTIC FISHERIES, adopted by the General Council of the Northwest Atlantic Fisheries Organization.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21960&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2026",
-  "htmlHash": "2a3763a8602ace4e18753998e7bbb118"
+  "htmlHash": "2a3763a8602ace4e18753998e7bbb118",
+  "attachments": [
+    "attachment.php?attach=21960&lang=en"
+  ]
 }

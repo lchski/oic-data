@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1384</td><td>2007-09-20</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the AUDITOR GENERAL OF CANADA as Auditor for Parc Downsview Park Inc. for the year 2007-2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17045&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1384",
-  "htmlHash": "137cc7e0a5dcb27ac3707ecfda1e7a8b"
+  "htmlHash": "137cc7e0a5dcb27ac3707ecfda1e7a8b",
+  "attachments": [
+    "attachment.php?attach=17045&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0306</td><td>2016-05-06</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Liability and Compensation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Nuclear Liability and Compensation Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NUCLEAR LIABILITY AND COMPENSATION REGULATIONS in order to (1) designate which nuclear facilities will be subject to the Act; (2) establish classes or categories of nuclear installations and their respective liability amounts, so that operators are held responsible and accountable to the Canadian public for any incident that may occur at their installations; and (3) repeal the Canada-United States Nuclear Liability Rules.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0088  <strong>Publication Date:</strong> 2016-05-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31983&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0306",
-  "htmlHash": "26e5212968e33333c4695f8de6faa314"
+  "htmlHash": "26e5212968e33333c4695f8de6faa314",
+  "attachments": [
+    "attachment.php?attach=31983&lang=en"
+  ]
 }

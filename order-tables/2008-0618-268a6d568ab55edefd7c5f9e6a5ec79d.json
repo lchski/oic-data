@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0618</td><td>2008-04-03</td><td>11</td><td>2006</td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Judges Act and certain other Acts in relation to courts</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing April 4, 2008 as the Date\nof the Coming into Force of subsections 9(1) and (2)\nof the Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing April 4, 2008 as the day on which subsections 9(1) and (2) of AN ACT TO AMEND THE JUDGES ACT AND CERTAIN OTHER ACTS IN RELATION TO COURTS, assented to on December 14, 2006, being Chapter 11 of the Statutes of Canada 2006, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0035  <strong>Publication Date:</strong> 2008-04-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18440&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0618",
-  "htmlHash": "268a6d568ab55edefd7c5f9e6a5ec79d"
+  "htmlHash": "268a6d568ab55edefd7c5f9e6a5ec79d",
+  "attachments": [
+    "attachment.php?attach=18440&lang=en"
+  ]
 }

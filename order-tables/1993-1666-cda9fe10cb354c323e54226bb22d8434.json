@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1666</td><td>1993-08-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order postponing the date fixed by the National Transportation Agency for\nthe Canadian National Railway Company to abandon the operation of that\nportion of the CHAPAIS SUBDIVISION in Quebec, between Grevet and Chapais,\na distance of 91.34 miles, from August 12, 1993 to May 31, 1994.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0421  <strong>Publication Date:</strong> 1993-08-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1666",
-  "htmlHash": "cda9fe10cb354c323e54226bb22d8434"
+  "htmlHash": "cda9fe10cb354c323e54226bb22d8434",
+  "attachments": []
 }

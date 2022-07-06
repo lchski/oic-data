@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1604</td><td>2010-12-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator (NS)\nJamie W.S. Saunders\nJanuary 4-12 and January 14, 2011\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. JAMIE W.S. SAUNDERS to serve as ADMINISTRATOR of the Government of NOVA SCOTIA from January 4-12, 2011, inclusive, and on January 14, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23604&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1604",
-  "htmlHash": "04409027cece638fec7825e91fe23ee0"
+  "htmlHash": "04409027cece638fec7825e91fe23ee0",
+  "attachments": [
+    "attachment.php?attach=23604&lang=en"
+  ]
 }

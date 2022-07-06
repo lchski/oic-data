@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1020</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to enter into a SETTLEMENT AGREEMENT with the WAHTA MOHAWKS and the Province of ONTARIO for the purpose of resolving a specific claim involving land in Gibson Township; and (b) to accept the absolute surrender of some 10,787 acres of land contemplated therein.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7889&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1020",
-  "htmlHash": "dd3230411788e44b6530a261d8decb78"
+  "htmlHash": "dd3230411788e44b6530a261d8decb78",
+  "attachments": [
+    "attachment.php?attach=7889&lang=en"
+  ]
 }

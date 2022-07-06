@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0606</td><td>2003-05-01</td><td></td><td></td><td>,&nbsp; INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to INDIA undertaken by the Hon. MARIA MINNA, P.C., M.P. (Beaches--East York), between March 20 and March 31, 2003, for the purpose of representing the Minister for International Cooperation at the inaugurations of a number of Gujarat earthquake reconstruction projects.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2164&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0606",
-  "htmlHash": "6357eec4d099f6eea2a971afadf0134f"
+  "htmlHash": "6357eec4d099f6eea2a971afadf0134f",
+  "attachments": [
+    "attachment.php?attach=2164&lang=en"
+  ]
 }

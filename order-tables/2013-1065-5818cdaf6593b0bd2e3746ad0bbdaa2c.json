@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1065</td><td>2013-10-09</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Blood Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">BLOOD Regulations in order to introduce under the Food and Drugs Act new stand-alone regulations specific for blood and its components intended for transfusion or further manufacturing into human drugs. The regulations will provide Health Canada’s final response to the Krever Commission recommendations, and at the same time meet the broader departmental commitment to modernise regulations that have become outdated.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0178  <strong>Publication Date:</strong> 2013-10-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28320&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1065",
-  "htmlHash": "5818cdaf6593b0bd2e3746ad0bbdaa2c"
+  "htmlHash": "5818cdaf6593b0bd2e3746ad0bbdaa2c",
+  "attachments": [
+    "attachment.php?attach=28320&lang=en"
+  ]
 }

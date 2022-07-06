@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1586</td><td>2010-12-09</td><td></td><td></td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agreement on Social Security and the Administrative Agreement - Romania - \n(Enter into Force)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring the coming into force of the AGREEMENT on Social Security and the Administrative AGREEMENT between Canada and Romania on the first day of the fourth month following an exchange of diplomatic notes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23586&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1586",
-  "htmlHash": "434b4422c47ff094b5fb7d3ece855532"
+  "htmlHash": "434b4422c47ff094b5fb7d3ece855532",
+  "attachments": [
+    "attachment.php?attach=23586&lang=en"
+  ]
 }

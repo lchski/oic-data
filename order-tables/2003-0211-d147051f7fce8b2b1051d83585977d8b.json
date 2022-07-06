@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0211</td><td>2003-02-18</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of HARVEY ALLAN SLACK of Ottawa, Ontario, as a trustee of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of three years, in the place of Peter A. Allen, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1367&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0211",
-  "htmlHash": "d147051f7fce8b2b1051d83585977d8b"
+  "htmlHash": "d147051f7fce8b2b1051d83585977d8b",
+  "attachments": [
+    "attachment.php?attach=1367&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1657</td><td>2009-10-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Settlement and Release Agreement Canada-Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Natural Resources to enter into the SETTLEMENT AND RELEASE AGREEMENT between Her Majesty the Queen in Right of Canada and Her Majesty the Queen in Right of Saskatchewan to settle a constitutional dispute concerning property over certain mines and minerals and situated within Saskatchewan but held by Canada, and to obtain a release in relation thereto.  The order also approves the transfer and control over the mines and minerals covered by the agreement and enables the Minister to make the settlement payment provided for in the agreement to Saskatchewan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21539&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1657",
-  "htmlHash": "a29f37079156b0f197a205ffbd7752d1"
+  "htmlHash": "a29f37079156b0f197a205ffbd7752d1",
+  "attachments": [
+    "attachment.php?attach=21539&lang=en"
+  ]
 }

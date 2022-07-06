@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1407</td><td>2009-08-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FA</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2009-10</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PHILIPPE BEAULNE as Ambassador of Canada to the Republic of Moldova, with residence in Bucharest; ARIEL DELOUYA as Ambassador of Canada to the Republic of Tunisia; JAMES FOX as Ambassador of Canada to the Republic of San Marino, with residence in Rome; PIERRE GUIMOND as Ambassador of Canada to Bosnia-Herzegovina, with residence in Budapest; RON HOFFMANN as Ambassador of Canada to the Lao People's Democratic Republic, with residence in Bangkok; DENIS KINGSLEY as Ambassador of Canada to the Federal Republic of Nigeria; STEPHEN MILLAR as Ambassador of Canada to the Kyrgyz Republic, with residence in Almaty; ROBERTA SANTI as Ambassador of Canada to the Swiss Confederation, with concurrent accreditation to the Principality of Liechtenstein; and GRAHAM SHANTZ as Ambassador of Canada to the Kingdom of Spain, with concurrent accreditation to the Principality of Andorra.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21289&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1407",
-  "htmlHash": "5ca8fa3ae38c3fd58f7f8599ea4b3cce"
+  "htmlHash": "5ca8fa3ae38c3fd58f7f8599ea4b3cce",
+  "attachments": [
+    "attachment.php?attach=21289&lang=en"
+  ]
 }

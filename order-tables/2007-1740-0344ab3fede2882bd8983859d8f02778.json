@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1740</td><td>2007-11-15</td><td></td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER THE CANADIAN ENVIRONMENTAL ASSESSMENT ACT (MISCELLANEOUS PROGRAM) by making technical adjustments to the Inclusion List Regulations, i.e. to correct an outdated reference to another statute, to eliminate language inconsistencies, and to repeal two references to other regulations which are no longer in force. The amendments also correct a numbering problem in the Law List Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0263  <strong>Publication Date:</strong> 2007-11-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17506&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1740",
-  "htmlHash": "0344ab3fede2882bd8983859d8f02778"
+  "htmlHash": "0344ab3fede2882bd8983859d8f02778",
+  "attachments": [
+    "attachment.php?attach=17506&lang=en"
+  ]
 }

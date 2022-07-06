@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1175</td><td>2015-07-31</td><td></td><td></td><td>DESD,&nbsp; LAB,&nbsp; TC,&nbsp; NRCAN,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to specify that the Canada Occupational Health and Safety Regulations, the Aviation Occupational Health and Safety Regulations, the Maritime Occupational Health and Safety Regulations, the On-Board Trains Occupational Safety and Health Regulations, the Oil and Gas Occupational Safety and Health Regulations and the Policy Committees, Work Place Committees and Health and Safety Representatives Regulations apply to persons who are not employees, but who perform for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience, and to the employer, as if that person were an employee of the employer.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0211  <strong>Publication Date:</strong> 2015-08-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31510&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1175",
-  "htmlHash": "9acbc6f085f7897845eed2167755a85b"
+  "htmlHash": "9acbc6f085f7897845eed2167755a85b",
+  "attachments": [
+    "attachment.php?attach=31510&lang=en"
+  ]
 }

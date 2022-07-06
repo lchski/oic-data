@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1824</td><td>2007-12-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Deposit Insurance Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of BARRY MOORE of Maniwaki, Quebec, as a director of the Board of Directors of the Canada Deposit Insurance Corporation to hold office during pleasure for a term of three years, in the place of Claude Huot.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17584&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1824",
-  "htmlHash": "ac84fb409c08b8a7b6811752b978a100"
+  "htmlHash": "ac84fb409c08b8a7b6811752b978a100",
+  "attachments": [
+    "attachment.php?attach=17584&lang=en"
+  ]
 }

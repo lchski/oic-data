@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2390</td><td>1990-11-08</td><td>0</td><td></td><td>OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer of the administration and control and setting\napart a land for the use and benefit of the Bella Coola Band of Indians\nas addition to BELLA COOLA INDIAN RESERVE NO. 1, in the Province of\nBritish Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2390",
-  "htmlHash": "0c111711ad1ae6b9afe144fb1a425821"
+  "htmlHash": "0c111711ad1ae6b9afe144fb1a425821",
+  "attachments": []
 }

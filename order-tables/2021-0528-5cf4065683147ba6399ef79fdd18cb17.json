@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0528</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; ISED,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Patent Rules</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RULES AMENDING THE PATENT RULES in order to make the necessary changes to facilitate the transfer of responsibilities to the College of Patent Agents and Trademark Agents.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0131  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40817&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0528",
-  "htmlHash": "5cf4065683147ba6399ef79fdd18cb17"
+  "htmlHash": "5cf4065683147ba6399ef79fdd18cb17",
+  "attachments": [
+    "attachment.php?attach=40817&lang=en"
+  ]
 }

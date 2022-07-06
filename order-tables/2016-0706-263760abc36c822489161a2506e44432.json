@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0706</td><td>2016-07-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of NORMAND LEDUC, full-time member of the Immigration and Refugee Board, for the period he is acting as Assistant Deputy Chairperson, Refugee Appeal Division of the Immigration and Refugee Board, effective January 11, 2016, until such time as he is no longer required to act as Assistant Deputy Chairperson.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32394&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0706",
-  "htmlHash": "263760abc36c822489161a2506e44432"
+  "htmlHash": "263760abc36c822489161a2506e44432",
+  "attachments": [
+    "attachment.php?attach=32394&lang=en"
+  ]
 }

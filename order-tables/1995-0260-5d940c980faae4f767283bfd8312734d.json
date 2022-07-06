@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0260</td><td>1995-02-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the ONTARIO FISHERY REGULATIONS, 1989 which will permit\nthe Minister of Natural Resources for Ontario to vary close times under\nthe Aboriginal Communal Fishing Licences Regulations in respect of any\nspecies of fish caught in the inland waters of Ontario, for an indefinite\nperiod.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0107  <strong>Publication Date:</strong> 1995-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0260",
-  "htmlHash": "5d940c980faae4f767283bfd8312734d"
+  "htmlHash": "5d940c980faae4f767283bfd8312734d",
+  "attachments": []
 }

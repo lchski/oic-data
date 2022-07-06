@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2062</td><td>1999-11-18</td><td>0</td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the City of OTTAWA, Ontario as the place where the HEAD\nOFFICE of the CANADIAN FORCES GRIEVANCE BOARD shall be located, effective\nMarch 1, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2062",
-  "htmlHash": "3cc1bbaf99b066176e73b1b5ad450c86"
+  "htmlHash": "3cc1bbaf99b066176e73b1b5ad450c86",
+  "attachments": []
 }

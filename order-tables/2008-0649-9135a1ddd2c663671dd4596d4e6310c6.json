@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0649</td><td>2008-04-10</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the signature of an EXCHANGE OF NOTES, subject to ratification, between the Government of Canada and the Government of the Russian Federation constituting an ADDITIONAL AGREEMENT TO THE AGREEMENT between CANADA and the UNION OF SOVIET SOCIALIST REPUBLICS for Cooperation in the Peaceful Uses of Nuclear Energy, done on November 20, 1989.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18476&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0649",
-  "htmlHash": "9135a1ddd2c663671dd4596d4e6310c6"
+  "htmlHash": "9135a1ddd2c663671dd4596d4e6310c6",
+  "attachments": [
+    "attachment.php?attach=18476&lang=en"
+  ]
 }

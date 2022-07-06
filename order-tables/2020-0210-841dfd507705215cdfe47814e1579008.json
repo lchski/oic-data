@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0210</td><td>2020-04-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-United States-Mexico Agreement ** Protocol replacing the North American Free Trade Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Prime Minister or the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Protocol replacing the NORTH AMERICAN FREE TRADE AGREEMENT with the AGREEMENT between CANADA, the UNITED STATES OF AMERICA, and the UNITED MEXICAN STATES, done at Bueno Aires on November 30, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39046&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0210",
-  "htmlHash": "841dfd507705215cdfe47814e1579008"
+  "htmlHash": "841dfd507705215cdfe47814e1579008",
+  "attachments": [
+    "attachment.php?attach=39046&lang=en"
+  ]
 }

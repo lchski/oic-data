@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2417</td><td>2001-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NAFTA RULES OF ORIGIN REGULATIONS by updating\ncertain tariff numbers, descriptions, headings and subheadings, all of\nwhich will change or become redundant on January 1, 2002, as a result of\nchanges to the Harmonized Commodity Description and Coding System.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0027  <strong>Publication Date:</strong> 2002-01-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2417",
-  "htmlHash": "9dbf212c363072553aa1cf48ca1f0896"
+  "htmlHash": "9dbf212c363072553aa1cf48ca1f0896",
+  "attachments": []
 }

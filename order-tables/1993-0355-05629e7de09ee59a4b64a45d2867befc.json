@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0355</td><td>1993-02-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the remuneration which is to be paid to certain individuals who\nwere appointed to a position on the NATIONAL PAROLE BOARD.\n.\n  - Michel Dagenais\n.   Executive Vice-Chairperson/premier vice-président\n.\n    VICE-CHAIRPERSONS - VICE-PRÉSIDENTS\n.\n  - John D. Trevors     - Atlantic Region/région de l'Atlantique\n  - Keith Morgan        - Quebec Region/région du Québec\n  - Frances E. Baines   - Ontario Region/région de l'Ontario\n  - Ghislain Bellavance - Prairie Region/région des Prairies\n  - Kathy J. Louis      - Pacific Region/région du Pacifique\n  - Nancy Stableforth   - Appeal Division/Section d'appel\n.\n  - Part-time Members/Membres à temps partiel\n  - Full-time Members/membres à temps plein\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0355",
-  "htmlHash": "05629e7de09ee59a4b64a45d2867befc"
+  "htmlHash": "05629e7de09ee59a4b64a45d2867befc",
+  "attachments": []
 }

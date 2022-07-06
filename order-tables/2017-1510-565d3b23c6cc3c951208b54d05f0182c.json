@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1510</td><td>2017-12-01</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Emmanuel Dubourg ** MP Travel **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing EMMANUEL DUBOURG, Member of Parliament for Bourassa, Quebec, to travel to Miami, Florida, United States from August 23, 2017 to August 25, 2017 for the purposes of informing the Haitian community about Canada’s asylum and immigration rules.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35421&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1510",
-  "htmlHash": "565d3b23c6cc3c951208b54d05f0182c"
+  "htmlHash": "565d3b23c6cc3c951208b54d05f0182c",
+  "attachments": [
+    "attachment.php?attach=35421&lang=en"
+  ]
 }

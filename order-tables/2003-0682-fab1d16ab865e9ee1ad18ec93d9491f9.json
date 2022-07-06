@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0682</td><td>2003-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">I.M.P. GROUP LIMITED REMISSION ORDER - which provdes for the remission of customs duties paid in respect of certain inflatable rafts imported by I.M.P. Group Limited between January 22, 1998 and May 12, 2000.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0171  <strong>Publication Date:</strong> 2003-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0682",
-  "htmlHash": "fab1d16ab865e9ee1ad18ec93d9491f9"
+  "htmlHash": "fab1d16ab865e9ee1ad18ec93d9491f9",
+  "attachments": [
+    "attachment.php?attach=2448&lang=en"
+  ]
 }

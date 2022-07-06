@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1545</td><td>2011-12-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">AGREEMENT - Bring into force\nIsle of Man \nFOR THE EXCHANGE OF INFORMATION ON TAX MATTERS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the AGREEMENT between the Government of Canada and the Government of the ISLE OF MAN under entrustment from the Government of the United Kingdom of Great Britain and Northern Ireland FOR THE EXCHANGE OF INFORMATION ON TAX MATTERS, signed on 17 January 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25228&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1545",
-  "htmlHash": "6376b7d2b2112279106112b2e0f2df02"
+  "htmlHash": "6376b7d2b2112279106112b2e0f2df02",
+  "attachments": [
+    "attachment.php?attach=25228&lang=en"
+  ]
 }

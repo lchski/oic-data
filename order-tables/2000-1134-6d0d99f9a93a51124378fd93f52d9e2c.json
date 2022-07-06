@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1134</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ORDER AMENDING SCHEDULE I TO THE PUBLIC SERVICE STAFF\nRELATIONS ACT by deleting \"CANADA COMMUNICATION GROUP\" which no longer has\nany employees.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0313  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1134",
-  "htmlHash": "6d0d99f9a93a51124378fd93f52d9e2c"
+  "htmlHash": "6d0d99f9a93a51124378fd93f52d9e2c",
+  "attachments": []
 }

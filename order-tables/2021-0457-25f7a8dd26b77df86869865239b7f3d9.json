@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0457</td><td>2021-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THAO PHAM of Chelsea, Quebec, to be Deputy Minister, COVID Recovery, Privy Council Office, to hold office during pleasure, effective May 31, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40679&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0457",
-  "htmlHash": "25f7a8dd26b77df86869865239b7f3d9"
+  "htmlHash": "25f7a8dd26b77df86869865239b7f3d9",
+  "attachments": [
+    "attachment.php?attach=40679&lang=en"
+  ]
 }

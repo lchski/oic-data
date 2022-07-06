@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1188</td><td>1999-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUBSIDIARY AGREEMENT on an Additional Federal\nContribution to the QUEBEC FARM INCOME STABILIZATION INSURANCE PLAN for\n1998 and 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1188",
-  "htmlHash": "edfa36a92353219a9e9451f6a5c41381"
+  "htmlHash": "edfa36a92353219a9e9451f6a5c41381",
+  "attachments": []
 }

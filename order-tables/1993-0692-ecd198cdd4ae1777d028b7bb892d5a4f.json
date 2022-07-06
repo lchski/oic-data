@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0692</td><td>1993-03-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1990-6/799 that will increase the\nmaximum amount payable under the terms of a contract awarded to DUPONT\nDESMEULES/SANDWELL in 1990 for the provision of project management services\nand construction supervision in connection with ALOUETTE PROJECT at the\nPort of Sept-Îles, Quebec, and will change the name of the contractor to\nDupont Desmeules et Associés Inc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0692",
-  "htmlHash": "ecd198cdd4ae1777d028b7bb892d5a4f"
+  "htmlHash": "ecd198cdd4ae1777d028b7bb892d5a4f",
+  "attachments": []
 }

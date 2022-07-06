@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0585</td><td>2020-08-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; INFC,&nbsp; OAG,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of the Auditor General of Canada of the Windsor-Detroit Bridge Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Appointing the AUDITOR GENERAL OF CANADA as the AUDITOR of the WINDSOR-DETROIT BRIDGE AUTHORITY for the fiscal year ending on March 31, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39550&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0585",
-  "htmlHash": "015497055a3f2f4a5419f5500678b392"
+  "htmlHash": "015497055a3f2f4a5419f5500678b392",
+  "attachments": [
+    "attachment.php?attach=39550&lang=en"
+  ]
 }

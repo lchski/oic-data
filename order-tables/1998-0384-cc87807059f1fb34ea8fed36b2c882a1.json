@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0384</td><td>1998-03-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NANCY MAHEUX, of Vallée-Jonction, Quebec, as Chairperson of\nthe Boards of Referees for the Quebec Regional Division, and particularly\nfor the District of Lévis, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0384",
-  "htmlHash": "cc87807059f1fb34ea8fed36b2c882a1"
+  "htmlHash": "cc87807059f1fb34ea8fed36b2c882a1",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1599</td><td>2010-12-09</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Amending Order P.C. 2010-1283  - Maureen D. Forestell.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending P.C. 2010-1283 of October 21, 2010, by replacing the name \"Maureen P. Forestell\" with the name \"Maureen D. Forestell\".</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23599&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1599",
-  "htmlHash": "5da45910ff4722daa3aaef78a904cb04"
+  "htmlHash": "5da45910ff4722daa3aaef78a904cb04",
+  "attachments": [
+    "attachment.php?attach=23599&lang=en"
+  ]
 }

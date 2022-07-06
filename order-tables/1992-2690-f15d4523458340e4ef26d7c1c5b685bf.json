@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2690</td><td>1992-12-22</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Dale Hammill, of Kelowna, British Columbia, as a part-time\nmember of the National Parole Board, Pacific Regional Division, to hold\noffice during good behaviour for a period of three years, effective\nJanuary 4, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2690",
-  "htmlHash": "f15d4523458340e4ef26d7c1c5b685bf"
+  "htmlHash": "f15d4523458340e4ef26d7c1c5b685bf",
+  "attachments": []
 }

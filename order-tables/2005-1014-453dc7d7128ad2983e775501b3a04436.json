@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1014</td><td>2005-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES DONIHEE of Calgary, Alberta, and JUDITH B. HANEBURY of Calgary, Alberta, to be temporary members of the National Energy Board for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11228&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1014",
-  "htmlHash": "453dc7d7128ad2983e775501b3a04436"
+  "htmlHash": "453dc7d7128ad2983e775501b3a04436",
+  "attachments": [
+    "attachment.php?attach=11228&lang=en"
+  ]
 }

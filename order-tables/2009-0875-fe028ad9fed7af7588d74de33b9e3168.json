@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0875</td><td>2009-06-04</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Amendments of the Articles of Agreement of the International Monetary Fund </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister to take the actions necessary to bring into force the Amendment of the Articles of Agreement of the International Monetary Fund to ENHANCE VOICE AND PARTICIPATION IN THE INTERNATIONAL MONETARY FUND and the Amendment of the Articles of Agreement of the International Monetary Fund to EXPAND THE INVESTMENT AUTHORITY OF THE INTERNATIONAL MONETARY FUND.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20740&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0875",
-  "htmlHash": "fe028ad9fed7af7588d74de33b9e3168"
+  "htmlHash": "fe028ad9fed7af7588d74de33b9e3168",
+  "attachments": [
+    "attachment.php?attach=20740&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0151</td><td>2006-03-23</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to ANN HOUGHTON, survivor of the Hon. Kenneth D. Houghton, a retired Judge of the Supreme Court of British Columbia, effective December 22, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14049&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0151",
-  "htmlHash": "e53204ed4cf00419618b0eaa459a0864"
+  "htmlHash": "e53204ed4cf00419618b0eaa459a0864",
+  "attachments": [
+    "attachment.php?attach=14049&lang=en"
+  ]
 }

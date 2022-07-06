@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1001</td><td>2018-07-18</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Salaries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order designating the Department of Industry to provide support to the Minister of Science</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Designating the Department of Industry to provide support to the Minister of Science in the carrying out of that Minister’s responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0058  <strong>Publication Date:</strong> 2018-08-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36687&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1001",
-  "htmlHash": "5c1a337d85546fa587f1fde78f1384ac"
+  "htmlHash": "5c1a337d85546fa587f1fde78f1384ac",
+  "attachments": [
+    "attachment.php?attach=36687&lang=en"
+  ]
 }

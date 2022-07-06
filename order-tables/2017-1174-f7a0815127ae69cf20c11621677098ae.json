@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1174</td><td>2017-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Weights and Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Weights and Measures Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the WEIGHTS AND MEASURES REGULATIONS in order to (1) make the regulatory text that prescribes the period in which traders must cause their device to be examined more coherent and easier to understand; and (2) prevent any confusion that implementation-specific dates and scenarios would have caused if kept in the text.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0198  <strong>Publication Date:</strong> 2017-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35079&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1174",
-  "htmlHash": "f7a0815127ae69cf20c11621677098ae"
+  "htmlHash": "f7a0815127ae69cf20c11621677098ae",
+  "attachments": [
+    "attachment.php?attach=35079&lang=en"
+  ]
 }

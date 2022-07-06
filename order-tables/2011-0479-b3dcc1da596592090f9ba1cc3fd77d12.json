@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0479</td><td>2011-03-25</td><td>23</td><td>2010</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing April 1, 2011 as the Day on which Certain Provisions of Chapter 23 of the Statutes of Canada, 2010, Come into Force\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing April 1, 2011 as the date on which certain provisions of the anti-spam legislation that amend the Personal Information Protection and Electronic Documents Act, chapter 23 of the Statutes of Canada, 2010, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0022  <strong>Publication Date:</strong> 2011-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24148&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0479",
-  "htmlHash": "b3dcc1da596592090f9ba1cc3fd77d12"
+  "htmlHash": "b3dcc1da596592090f9ba1cc3fd77d12",
+  "attachments": [
+    "attachment.php?attach=24148&lang=en"
+  ]
 }

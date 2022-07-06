@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1300</td><td>2014-11-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declaring that the Wastewater Systems Effluent Regulations Do Not Apply in Yukon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER DECLARING THAT THE WASTEWATER SYSTEMS EFFLUENT REGULATIONS DO NOT APPLY IN YUKON in order to increase regulatory clarity and efficiency for the management of the wastewater sector in Yukon, and to reduce regulatory duplication in Yukon.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0279  <strong>Publication Date:</strong> 2014-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30120&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1300",
-  "htmlHash": "f15acf088fcf89b721dc628d2c09d043"
+  "htmlHash": "f15acf088fcf89b721dc628d2c09d043",
+  "attachments": [
+    "attachment.php?attach=30120&lang=en"
+  ]
 }

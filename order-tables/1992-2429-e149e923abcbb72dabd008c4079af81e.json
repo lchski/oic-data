@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2429</td><td>1992-11-26</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES, for community\ndevelopment purposes, of the administration and control of a number of\nparcels of land situated in the Community of ARVIAT that contain a total\narea of some 1.45 hectares, being the beds of several ponds which were\nexcluded from the transfer made by Order in Council P.C. 1984-1764.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2429",
-  "htmlHash": "e149e923abcbb72dabd008c4079af81e"
+  "htmlHash": "e149e923abcbb72dabd008c4079af81e",
+  "attachments": []
 }

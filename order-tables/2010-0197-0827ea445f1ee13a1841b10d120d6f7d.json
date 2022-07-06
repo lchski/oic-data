@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0197</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LOYOLA SULLIVAN as Ambassador for Fisheries Conservation for a term commencing January 22, 2010 and ending March 31, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22169&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0197",
-  "htmlHash": "0827ea445f1ee13a1841b10d120d6f7d"
+  "htmlHash": "0827ea445f1ee13a1841b10d120d6f7d",
+  "attachments": [
+    "attachment.php?attach=22169&lang=en"
+  ]
 }

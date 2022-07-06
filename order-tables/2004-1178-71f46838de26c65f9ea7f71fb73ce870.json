@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1178</td><td>2004-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the signature of a THIRD ADDITIONAL PROTOCOL between Canada and CHILE amending ANNEX C-02.2 to the CANADA-CHILE FREE TRADE AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8265&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1178",
-  "htmlHash": "71f46838de26c65f9ea7f71fb73ce870"
+  "htmlHash": "71f46838de26c65f9ea7f71fb73ce870",
+  "attachments": [
+    "attachment.php?attach=8265&lang=en"
+  ]
 }

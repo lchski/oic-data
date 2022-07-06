@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2013</td><td>2001-11-01</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DISCLOSURE OF INTEREST (BANKS) REGULATIONS by\nspecifying that domestic chartered banks must provide a customer who opens\nan interest-earning deposit account with a written statement that sets out\nthe rate of interest payable thereon and how it is to be calculated.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0469  <strong>Publication Date:</strong> 2001-11-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2013",
-  "htmlHash": "4b406b7813513b9d0297b4f42eac291f"
+  "htmlHash": "4b406b7813513b9d0297b4f42eac291f",
+  "attachments": []
 }

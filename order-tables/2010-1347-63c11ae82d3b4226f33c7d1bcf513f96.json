@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1347</td><td>2010-10-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer to the Commissioner of Nunavut  (.0533 hectares)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transfering to the COMMISSIONER OF NUNAVUT, in perpetuity, the administration and control of a surveyed parcel of land comprising the bed of a body of water within a pond (approximatively .533 hectares), within the municipal boundaries of the City of Iqualuit.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23332&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1347",
-  "htmlHash": "63c11ae82d3b4226f33c7d1bcf513f96"
+  "htmlHash": "63c11ae82d3b4226f33c7d1bcf513f96",
+  "attachments": [
+    "attachment.php?attach=23332&lang=en"
+  ]
 }

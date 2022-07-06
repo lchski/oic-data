@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1389</td><td>2007-09-20</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Assisted Human Reproduction Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of FRANÇOISE BAYLIS of Halifax, Nova Scotia, to be a member of the board of directors of the Assisted Human Reproduction Agency of Canada to hold office during pleasure for a term of three years, effective December 18, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17084&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1389",
-  "htmlHash": "9e12ad91d75f6e2af32a2b0ee2c3e48b"
+  "htmlHash": "9e12ad91d75f6e2af32a2b0ee2c3e48b",
+  "attachments": [
+    "attachment.php?attach=17084&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0427</td><td>2021-05-21</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act respecting the Buffalo and Fort Erie Public Bridge Company</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARGARET MARY NEUBAUER of Fort Erie, Ontario, to be a member of the Buffalo and Fort Erie Public Bridge Authority, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40648&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0427",
-  "htmlHash": "2c323a22b28d7f5d1f3638eef22331de"
+  "htmlHash": "2c323a22b28d7f5d1f3638eef22331de",
+  "attachments": [
+    "attachment.php?attach=40648&lang=en"
+  ]
 }

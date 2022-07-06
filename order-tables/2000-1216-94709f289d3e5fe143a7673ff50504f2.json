@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1216</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of MILAN NICHOLAS THEN, of East York, Ontario, as a full-\ntime member of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Toronto Regional Office), to hold office\nduring good behaviour for a term of three years, effective\nAugust 20, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1216",
-  "htmlHash": "94709f289d3e5fe143a7673ff50504f2"
+  "htmlHash": "94709f289d3e5fe143a7673ff50504f2",
+  "attachments": []
 }

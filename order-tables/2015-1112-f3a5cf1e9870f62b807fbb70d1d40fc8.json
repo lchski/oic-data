@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1112</td><td>2015-07-16</td><td></td><td></td><td>PMO,&nbsp; INFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Infrastructure Canada ** Crown Corporation Expenditures **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing the THE JACQUES-CARTIER AND CHAMPLAIN BRIDGES INC. in order to (1) align their travel, hospitality, conference and event expenditures policies, guidelines and practices with Treasury Board policies, directives and related instruments on travel, hospitality, conference and event expenditures in a manner that is consistent with their legal obligations; and (2) report on the implementation of this directive in their next corporate plan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31444&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1112",
-  "htmlHash": "f3a5cf1e9870f62b807fbb70d1d40fc8"
+  "htmlHash": "f3a5cf1e9870f62b807fbb70d1d40fc8",
+  "attachments": [
+    "attachment.php?attach=31444&lang=en"
+  ]
 }

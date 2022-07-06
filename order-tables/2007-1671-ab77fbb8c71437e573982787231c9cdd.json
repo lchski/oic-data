@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1671</td><td>2007-11-01</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (THEFT PROTECTION AND ROLLAWAY PREVENTION - STANDARD 114) by harmonizing Canadian standards respecting theft protection and roll-away prevention with those of the United States.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0246  <strong>Publication Date:</strong> 2007-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17472&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1671",
-  "htmlHash": "ab77fbb8c71437e573982787231c9cdd"
+  "htmlHash": "ab77fbb8c71437e573982787231c9cdd",
+  "attachments": [
+    "attachment.php?attach=17472&lang=en"
+  ]
 }

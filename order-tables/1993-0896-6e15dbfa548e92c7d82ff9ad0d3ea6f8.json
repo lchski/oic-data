@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0896</td><td>1993-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EIC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMMIGRATION REGULATIONS, 1978 providing authority for\ncertain refugee claimants who, prior to February 1, 1993 were granted\npermission to take employment while awaiting a full hearing and\ndetermination of their claim, to continue to work.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0225  <strong>Publication Date:</strong> 1993-05-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0896",
-  "htmlHash": "6e15dbfa548e92c7d82ff9ad0d3ea6f8"
+  "htmlHash": "6e15dbfa548e92c7d82ff9ad0d3ea6f8",
+  "attachments": []
 }

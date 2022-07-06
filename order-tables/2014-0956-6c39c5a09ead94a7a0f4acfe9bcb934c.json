@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0956</td><td>2014-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Brian C. Midwinter ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. BRIAN C. MIDWINTER, a Judge of Her Majesty’s Court of Queen’s Bench for Manitoba, effective on the date of the Order.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29770&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0956",
-  "htmlHash": "6c39c5a09ead94a7a0f4acfe9bcb934c"
+  "htmlHash": "6c39c5a09ead94a7a0f4acfe9bcb934c",
+  "attachments": [
+    "attachment.php?attach=29770&lang=en"
+  ]
 }

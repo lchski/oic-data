@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0114</td><td>2014-02-06</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Carcross/Tagish First Nation and the Nisga’a Nation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting that the Auditor General of Canada inquire into and report on the reconciliations that are referred to in the personal income tax administration agreements with the CARCROSS/TAGISH FIRST NATION AND THE NISGA’A NATION.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28893&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0114",
-  "htmlHash": "59ba8ae5fa26bc9a9c838cb22ce25ace"
+  "htmlHash": "59ba8ae5fa26bc9a9c838cb22ce25ace",
+  "attachments": [
+    "attachment.php?attach=28893&lang=en"
+  ]
 }

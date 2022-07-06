@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2102</td><td>2005-11-21</td><td></td><td></td><td>GRAIN COMM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA GRAIN REGULATIONS by improving the readability and clarity, ensure consistency of language and by reducing the risk of a financial loss to the producer if a licensee fails to honour his obligations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0361  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13491&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2102",
-  "htmlHash": "209c41c2ec087538eda815a5fbe3c5d0"
+  "htmlHash": "209c41c2ec087538eda815a5fbe3c5d0",
+  "attachments": [
+    "attachment.php?attach=13491&lang=en"
+  ]
 }

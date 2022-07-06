@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0443</td><td>2019-05-09</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT SPICKLER of Montréal, Quebec, to be a member of Telefilm Canada, to hold office during pleasure for a term of five years; and his designation as Chairperson of Telefilm Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37764&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0443",
-  "htmlHash": "36efed5292b6fe4925485a6aca9f5fb8"
+  "htmlHash": "36efed5292b6fe4925485a6aca9f5fb8",
+  "attachments": [
+    "attachment.php?attach=37764&lang=en"
+  ]
 }

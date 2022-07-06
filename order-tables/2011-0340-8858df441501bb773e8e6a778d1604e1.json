@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0340</td><td>2011-03-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DANIEL JOHNSON of Montréal, Quebec, as a director of the Bank of Canada to hold office during good behaviour for a term ending February 28, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23972&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0340",
-  "htmlHash": "8858df441501bb773e8e6a778d1604e1"
+  "htmlHash": "8858df441501bb773e8e6a778d1604e1",
+  "attachments": [
+    "attachment.php?attach=23972&lang=en"
+  ]
 }

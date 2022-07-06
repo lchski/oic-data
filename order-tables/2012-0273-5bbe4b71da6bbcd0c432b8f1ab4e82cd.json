@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0273</td><td>2012-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Courts Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Federal Court of Appeal or Federal Court ** 11 persons for administering oaths ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order advising that COMMISSIONS do issue under the Great Seal of Canada empowering eleven persons to administer oaths and to take and receive affidavits, declarations and solemn affirmations, within or outside Canada, in or concerning any proceeding had or to be had in the FEDERAL COURT OF APPEAL or the FEDERAL COURT .</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25696&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0273",
-  "htmlHash": "5bbe4b71da6bbcd0c432b8f1ab4e82cd"
+  "htmlHash": "5bbe4b71da6bbcd0c432b8f1ab4e82cd",
+  "attachments": [
+    "attachment.php?attach=25696&lang=en"
+  ]
 }

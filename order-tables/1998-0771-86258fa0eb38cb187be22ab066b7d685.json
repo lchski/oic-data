@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0771</td><td>1998-05-05</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PATRICK CHAMUT, of Ottawa, Ontario, as a Canadian\nrepresentative to the General Council of the Northwest Atlantic Fisheries\nOrganization to hold office during pleasure; and as a Canadian\nrepresentative to the Fisheries Commission of the Northwest Atlantic\nFisheries Organization to hold office during pleasure; in the place of\nWilliam Rowat.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0771",
-  "htmlHash": "86258fa0eb38cb187be22ab066b7d685"
+  "htmlHash": "86258fa0eb38cb187be22ab066b7d685",
+  "attachments": []
 }

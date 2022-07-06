@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1516</td><td>1996-10-01</td><td>0</td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of EMER G. ROBLES, of North Vancouver, British Columbia,\nas a full-time member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Vancouver Regional Office) to hold\noffice during good behaviour for a term of eighteen months; and\ndesignation of EMER G. ROBLES as an Assistant Deputy Chairman of the\nConvention Refugee Determination Division of the Immigration and Refugee\nBoard (Vancouver Regional Office) to hold office during pleasure,\neffective November 1, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1516",
-  "htmlHash": "fde8c13df156f62bb422a9745f6808a3"
+  "htmlHash": "fde8c13df156f62bb422a9745f6808a3",
+  "attachments": []
 }

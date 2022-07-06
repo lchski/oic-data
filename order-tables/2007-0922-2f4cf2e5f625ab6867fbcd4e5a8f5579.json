@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0922</td><td>2007-06-07</td><td>26</td><td>2001</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">CIF - Bill C-14 New Canada Shipping Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JULY 1, 2007 as the day on which the old Canada Shipping Act is repealed and most of the provisions of the new CANADA SHIPPING ACT, 2001 [Bill C-14], being chapter 26 of the Statutes of Canada, 2001, COME INTO FORCE.\n.\nBILL C-14  --  ROYAL ASSENT:  NOVEMBER 1, 2001</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0065  <strong>Publication Date:</strong> 2007-06-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16579&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0922",
-  "htmlHash": "2f4cf2e5f625ab6867fbcd4e5a8f5579"
+  "htmlHash": "2f4cf2e5f625ab6867fbcd4e5a8f5579",
+  "attachments": [
+    "attachment.php?attach=16579&lang=en"
+  ]
 }

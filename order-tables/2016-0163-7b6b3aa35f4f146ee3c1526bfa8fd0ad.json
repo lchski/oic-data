@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0163</td><td>2016-03-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DND</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Forces Superannuation Act<br>Defence Services Pension Continuation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Canadian Forces Pension Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN CANADIAN FORCES PENSION REGULATIONS in order to include a number of changes necessary to improve the general efficiency and equity of Canadian Armed Forces pension administration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0064  <strong>Publication Date:</strong> 2016-04-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31840&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0163",
-  "htmlHash": "7b6b3aa35f4f146ee3c1526bfa8fd0ad"
+  "htmlHash": "7b6b3aa35f4f146ee3c1526bfa8fd0ad",
+  "attachments": [
+    "attachment.php?attach=31840&lang=en"
+  ]
 }

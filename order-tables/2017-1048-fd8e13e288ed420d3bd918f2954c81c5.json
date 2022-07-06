@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1048</td><td>2017-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INFC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Infrastructure Bank ** Corporate Plan **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Corporate Plan of the CANADA INFRASTRUCTURE BANK for the 2017-18 to 2021-22 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34954&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1048",
-  "htmlHash": "fd8e13e288ed420d3bd918f2954c81c5"
+  "htmlHash": "fd8e13e288ed420d3bd918f2954c81c5",
+  "attachments": [
+    "attachment.php?attach=34954&lang=en"
+  ]
 }

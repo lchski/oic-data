@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0386</td><td>2006-05-17</td><td></td><td></td><td>PSEP,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FIREARMS FEES REGULATIONS by waiving, for a period of two years, the fees payable for the renewal of various licences.\n(TREASURY BOARD PART A - MAY 11, 2006)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0096  <strong>Publication Date:</strong> 2006-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14343&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0386",
-  "htmlHash": "2f2a97a7cf33eb1044c0eb5788293930"
+  "htmlHash": "2f2a97a7cf33eb1044c0eb5788293930",
+  "attachments": [
+    "attachment.php?attach=14343&lang=en"
+  ]
 }

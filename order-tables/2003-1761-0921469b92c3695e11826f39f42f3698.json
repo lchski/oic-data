@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1761</td><td>2003-11-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JUNE M. ROSS of Edmonton, Alberta, to be a Justice of the Court of Queen's Bench of Alberta and a member ex officio of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4732&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1761",
-  "htmlHash": "0921469b92c3695e11826f39f42f3698"
+  "htmlHash": "0921469b92c3695e11826f39f42f3698",
+  "attachments": [
+    "attachment.php?attach=4732&lang=en"
+  ]
 }

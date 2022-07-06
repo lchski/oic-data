@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1216</td><td>2010-09-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES W. WATERS of Toronto, Ontario, to be a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of twenty-one months or for a term expiring on the day prior to the coming into force of the Balance Refugee Reform Act, whichever is earlier, effective October 4, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23203&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1216",
-  "htmlHash": "fdcca538761dd1d2211573e73be8bd37"
+  "htmlHash": "fdcca538761dd1d2211573e73be8bd37",
+  "attachments": [
+    "attachment.php?attach=23203&lang=en"
+  ]
 }

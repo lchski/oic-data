@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0981</td><td>2012-07-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parks Canada Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ALAN LATOURELLE of Ottawa, Ontario, to be Chief Executive Officer of the Parks Canada Agency, to hold office during pleasure for a term of three years, effective August 7, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26402&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0981",
-  "htmlHash": "9c7b8dbfd563876fd47647214bddc80e"
+  "htmlHash": "9c7b8dbfd563876fd47647214bddc80e",
+  "attachments": [
+    "attachment.php?attach=26402&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0044</td><td>2021-02-05</td><td></td><td></td><td>PSPC,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Ça Va de Soi – Tricot Inc. ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that National Capital Commission grant two options to extend the lease with ÇA VA DE SOI - TRICOTS INC. for a period of five years each, beginning on April 1, 2021 and April 1, 2026, for the real property located at 519 Sussex Drive, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40214&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0044",
-  "htmlHash": "99368c9032cb367c5e8f04c6f93e2c26"
+  "htmlHash": "99368c9032cb367c5e8f04c6f93e2c26",
+  "attachments": [
+    "attachment.php?attach=40214&lang=en"
+  ]
 }

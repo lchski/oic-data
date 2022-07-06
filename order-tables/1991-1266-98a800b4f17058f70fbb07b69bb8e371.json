@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1266</td><td>1991-07-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of NEWFOUNDLAND of the administration and\ncontrol of a parcel of land (1.200 hec) situate at MARY'S HARBOUR,\nNewfoundland, for use as a site for a weather monitoring station.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1266",
-  "htmlHash": "98a800b4f17058f70fbb07b69bb8e371"
+  "htmlHash": "98a800b4f17058f70fbb07b69bb8e371",
+  "attachments": []
 }

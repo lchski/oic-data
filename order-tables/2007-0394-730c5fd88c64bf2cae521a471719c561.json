@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0394</td><td>2007-03-22</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the FLYING DUST FIRST NATION BAND, of approximately 73 hectares of land situated near the Town of Meadow Lake, Saskatchewan, mines and minerals included, as an addition to Flying Dust First Nation Indian Reserve No. 105.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16037&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0394",
-  "htmlHash": "730c5fd88c64bf2cae521a471719c561"
+  "htmlHash": "730c5fd88c64bf2cae521a471719c561",
+  "attachments": [
+    "attachment.php?attach=16037&lang=en"
+  ]
 }

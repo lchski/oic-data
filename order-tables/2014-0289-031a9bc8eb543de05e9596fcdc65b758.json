@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0289</td><td>2014-03-18</td><td></td><td></td><td>NRCAN,&nbsp; NEB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of License GL-302 - WCC LNG Ltd. </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE OF LICENCE GL-302 in order to authorize the exportation of liquefied natural gas by WCC LNG Ltd. from a terminal to be located in the vicinity of either Kitimat or Prince Rupert, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29068&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0289",
-  "htmlHash": "031a9bc8eb543de05e9596fcdc65b758"
+  "htmlHash": "031a9bc8eb543de05e9596fcdc65b758",
+  "attachments": [
+    "attachment.php?attach=29068&lang=en"
+  ]
 }

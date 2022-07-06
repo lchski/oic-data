@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1527</td><td>2004-12-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DONNA LYNN WELKE of Regina, Saskatchewan, to be an assistant commissioner of the Canadian Grain Commission to hold office during good behaviour for a term of two years, effective December 13, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8907&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1527",
-  "htmlHash": "70fe68d3418ced76e6a0ccc926afcc19"
+  "htmlHash": "70fe68d3418ced76e6a0ccc926afcc19",
+  "attachments": [
+    "attachment.php?attach=8907&lang=en"
+  ]
 }

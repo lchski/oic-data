@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0862</td><td>2016-10-05</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUZANNE POIRIER of Cornwall, Ontario, to be a part-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32572&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0862",
-  "htmlHash": "f14d59347018e78045c15db2df341aaa"
+  "htmlHash": "f14d59347018e78045c15db2df341aaa",
+  "attachments": [
+    "attachment.php?attach=32572&lang=en"
+  ]
 }

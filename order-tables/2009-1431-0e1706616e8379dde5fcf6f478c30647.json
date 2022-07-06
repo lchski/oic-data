@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1431</td><td>2009-08-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Privacy Act Heads of Government Insitutions Designation Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER by adding the Canadian Northern Economic Development Agency, effective August 18, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0084  <strong>Publication Date:</strong> 2009-09-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21315&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1431",
-  "htmlHash": "0e1706616e8379dde5fcf6f478c30647"
+  "htmlHash": "0e1706616e8379dde5fcf6f478c30647",
+  "attachments": [
+    "attachment.php?attach=21315&lang=en"
+  ]
 }

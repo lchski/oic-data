@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0096</td><td>2021-02-26</td><td>16</td><td>2019</td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing March 1, 2021 as the Day on Which Section 22.1 of that Act Comes into Force in Manitoba, Yukon and Nunavut</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing March 1, 2021 as the day on which section 22.1 (language rights provision) of AN ACT TO AMEND THE DIVORCE ACT, THE FAMILY ORDERS AND AGREEMENTS ENFORCEMENT ASSISTANCE ACT AND THE GARNISHMENT, ATTACHMENT AND PENSION DIVERSION ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO ANOTHER ACT, chapter 16 of the Statutes of Canada, 2019, COMES INTO FORCE in Manitoba, Yukon and Nunavut in order to make Canada’s family justice system more accessible for official languages minority communities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40303&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0096",
-  "htmlHash": "cd10db404e626da26d55330a4506c5eb"
+  "htmlHash": "cd10db404e626da26d55330a4506c5eb",
+  "attachments": [
+    "attachment.php?attach=40303&lang=en"
+  ]
 }

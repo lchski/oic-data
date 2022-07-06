@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0216</td><td>2007-02-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; TBS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEDERAL REAL PROPERTY REGULATIONS by correcting omissions in the wording of subsection 3(1.1) regarding the disposal of Crown property.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0043  <strong>Publication Date:</strong> 2007-03-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15898&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0216",
-  "htmlHash": "4b6599824cfc113750a0c589e37cbbe0"
+  "htmlHash": "4b6599824cfc113750a0c589e37cbbe0",
+  "attachments": [
+    "attachment.php?attach=15898&lang=en"
+  ]
 }

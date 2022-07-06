@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0620</td><td>2014-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; DESD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Disability Savings Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Disability Savings Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA DISABILITY SAVINGS REGULATIONS in order to better align the Regulations with the carry forward measures in the Canada Disability Savings Act, more clearly explain how they operate in practice, and respond to a concern raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0134  <strong>Publication Date:</strong> 2014-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29434&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0620",
-  "htmlHash": "1fbf2aef197d000883a7b1f9ee3f2208"
+  "htmlHash": "1fbf2aef197d000883a7b1f9ee3f2208",
+  "attachments": [
+    "attachment.php?attach=29434&lang=en"
+  ]
 }

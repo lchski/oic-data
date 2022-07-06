@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1387</td><td>2012-10-18</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws  ** Nunavut **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmittal of a copy of LAWS (Bill Nos. 19, 21, 30, 31, 33, 36 to 39) made by the Legislature of NUNAVUT during the Third Session of the Third Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26830&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1387",
-  "htmlHash": "4d0e24c27702e6bf2d7d5aa39856a06a"
+  "htmlHash": "4d0e24c27702e6bf2d7d5aa39856a06a",
+  "attachments": [
+    "attachment.php?attach=26830&lang=en"
+  ]
 }

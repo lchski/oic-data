@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1277</td><td>1992-06-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ACOA,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-NOVA SCOTIA COOPERATION AGREEMENT ON\nCULTURAL DEVELOPMENT which provides for the implementation of cost-shared\nmeasures designed to develop, increase and enhance the long-term economic\nbenefits of the cultural sector in Nova Scotia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1277",
-  "htmlHash": "2f353e1fbfe1e7ba9cf60c1c0e4a93c7"
+  "htmlHash": "2f353e1fbfe1e7ba9cf60c1c0e4a93c7",
+  "attachments": []
 }

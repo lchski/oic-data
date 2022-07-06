@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0426</td><td>2004-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 1999 which provide for payment adjustments related to the revision of census data, and federal income tax assesments to be made beginning April 1, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0083  <strong>Publication Date:</strong> 2004-05-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6581&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0426",
-  "htmlHash": "2cc91bc9e060d69060a61a2e0e5d8351"
+  "htmlHash": "2cc91bc9e060d69060a61a2e0e5d8351",
+  "attachments": [
+    "attachment.php?attach=6581&lang=en"
+  ]
 }

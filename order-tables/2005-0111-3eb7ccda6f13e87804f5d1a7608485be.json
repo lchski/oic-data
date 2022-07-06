@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0111</td><td>2005-02-01</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of PATRICIA ROY of Victoria, British Columbia, as a trustee of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9248&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0111",
-  "htmlHash": "3eb7ccda6f13e87804f5d1a7608485be"
+  "htmlHash": "3eb7ccda6f13e87804f5d1a7608485be",
+  "attachments": [
+    "attachment.php?attach=9248&lang=en"
+  ]
 }

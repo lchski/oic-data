@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0141</td><td>1996-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of 1,241.93 hectares of land in Saskatchewan, mines and\nminerals included, for the use and benefit of the NEKANEET BAND as an\naddition to Nekaneet Indian Reserve No. 160A.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0141",
-  "htmlHash": "2d56cca66524e346be1db37474d22e0e"
+  "htmlHash": "2d56cca66524e346be1db37474d22e0e",
+  "attachments": []
 }

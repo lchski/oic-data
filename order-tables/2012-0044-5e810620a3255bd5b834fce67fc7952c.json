@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0044</td><td>2012-02-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambe de commerce de la région de Salaberry-de-Valleyfield **CHANGE OF BOUNDARIES**\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE DE LA RÉGION DE SALABERRY-DE-VALLEYFIELD IN QUEBEC TO CHANGE THE BOUNDARIES OF ITS DISTRICT from the judicial district of Beauharnois to Salaberry-de-Valleyfield, Beauharnois, St-Étienne de Beauharnois, St-Stanislas de Kostka and St-Louis-de Gonzague.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25461&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0044",
-  "htmlHash": "5e810620a3255bd5b834fce67fc7952c"
+  "htmlHash": "5e810620a3255bd5b834fce67fc7952c",
+  "attachments": [
+    "attachment.php?attach=25461&lang=en"
+  ]
 }

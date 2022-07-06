@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0740</td><td>2020-09-30</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARK FERRARI of Burnaby, British Columbia, as a part-time member of the Immigration and Refugee Board (Vancouver Regional Office), to hold office during good behaviour for a term of three years, effective January 22, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39710&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0740",
-  "htmlHash": "04e925cbc0f5c866d91f38a04b2804ee"
+  "htmlHash": "04e925cbc0f5c866d91f38a04b2804ee",
+  "attachments": [
+    "attachment.php?attach=39710&lang=en"
+  ]
 }

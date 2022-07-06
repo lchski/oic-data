@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1210</td><td>2018-09-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Prohibition of Asbestos and Products Containing Asbestos Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROHIBITION OF ASBESTOS AND ASBESTOS PRODUCTS REGULATIONS in order to prohibit the import, sale, and use of processed asbestos fibres. The Regulations will also prohibit the manufacture, import, sale, and use of products containing processed asbestos fibres and of consumer products containing naturally-occurring asbestos in greater than trace amounts, with a limited number of exclusions. Consistent with Canada’s international commitments under the World Trade Organization’s Trade Facilitation Agreement, the Regulations will not apply to asbestos and products containing asbestos in transit through Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0196  <strong>Publication Date:</strong> 2018-10-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36891&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1210",
-  "htmlHash": "68488eac3056e0cf67c691773b8087cc"
+  "htmlHash": "68488eac3056e0cf67c691773b8087cc",
+  "attachments": [
+    "attachment.php?attach=36891&lang=en"
+  ]
 }

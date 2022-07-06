@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0478</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; HC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">O-Pipon-Na-Piwin Cree First Nation (MB) ** MOU ** \nContinuation of funding</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order extending the authority granted to the Minister of Indian Affairs and Northern Development and to the Minister of Health to make available to the O-PIPON-NA-PIWIN CREE NATION the same programs and services otherwise available to Bands on reserve, beyond March 31, 2011 and until the lands at South Indian Lake are set apart as reserve lands, or until March 31, 2017, whichever is earlier.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24147&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0478",
-  "htmlHash": "47d4a4ecd41c142cfd441cee569e6f59"
+  "htmlHash": "47d4a4ecd41c142cfd441cee569e6f59",
+  "attachments": [
+    "attachment.php?attach=24147&lang=en"
+  ]
 }

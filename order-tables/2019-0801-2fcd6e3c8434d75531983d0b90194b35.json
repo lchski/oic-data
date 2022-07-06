@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0801</td><td>2019-06-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISED,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Business Corporations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Business Corporations Regulations, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA BUSINESS CORPORATIONS REGULATIONS, 2001 in order to (1) better align service fees under the Canada Business Corporation Act with the cost of delivering the services; (2) encourage the use of low-cost services delivery methods; (3) promote compliance with the Canada Business Corporation Act; and (4) support greater corporate transparency.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0225  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38128&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0801",
-  "htmlHash": "2fcd6e3c8434d75531983d0b90194b35"
+  "htmlHash": "2fcd6e3c8434d75531983d0b90194b35",
+  "attachments": [
+    "attachment.php?attach=38128&lang=en"
+  ]
 }

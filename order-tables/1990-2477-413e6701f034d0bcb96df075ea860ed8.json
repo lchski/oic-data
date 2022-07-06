@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2477</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HON. ANDRE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the POSTING ABROAD OF LETTER-POST ITEMS REGULATIONS amending\nthe definition of \"letter-post items\" in order to delete an unnecessary\nreference to the Universal Postal Convention.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0795  <strong>Publication Date:</strong> 1990-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2477",
-  "htmlHash": "413e6701f034d0bcb96df075ea860ed8"
+  "htmlHash": "413e6701f034d0bcb96df075ea860ed8",
+  "attachments": []
 }

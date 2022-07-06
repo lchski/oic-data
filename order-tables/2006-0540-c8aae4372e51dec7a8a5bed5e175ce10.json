@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0540</td><td>2006-06-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; PSC</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Special Appointment Regulations, No. 2006-14. (CAROLE SWAN)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0142  <strong>Publication Date:</strong> 2006-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0540",
-  "htmlHash": "c8aae4372e51dec7a8a5bed5e175ce10"
+  "htmlHash": "c8aae4372e51dec7a8a5bed5e175ce10",
+  "attachments": [
+    "attachment.php?attach=14455&lang=en"
+  ]
 }

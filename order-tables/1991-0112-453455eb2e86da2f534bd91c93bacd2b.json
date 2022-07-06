@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0112</td><td>1991-01-17</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of NEWFOUNDLAND, of the transfer of the\nadministration and control of an easement over a parcel of vacant land\n(2,153 m²) situate at PICCADILLY, Newfoundland, for the purpose of a\nwaterline.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0112",
-  "htmlHash": "453455eb2e86da2f534bd91c93bacd2b"
+  "htmlHash": "453455eb2e86da2f534bd91c93bacd2b",
+  "attachments": []
 }

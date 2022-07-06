@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0767</td><td>2003-05-29</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Trust and Loan Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FOREIGN INSTITUTIONS SUBJECT TO THE CANADIAN RESIDENCY REQUIREMENTS REGULATIONS (TRUST AND LOAN COMPANIES) which set out the conditions under which a holding body corporate of a foreign institution would be prescribed for the purposes of subsection 163(2) of the Trust and Loan Companies Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0186  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2554&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0767",
-  "htmlHash": "db9544cf82e1e2809e1cb45a72013849"
+  "htmlHash": "db9544cf82e1e2809e1cb45a72013849",
+  "attachments": [
+    "attachment.php?attach=2554&lang=en"
+  ]
 }

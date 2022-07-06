@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0605</td><td>2021-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; CER,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act<br>Canadian Environmental Assessment Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Order — Certificate of Public Convenience And Necessity GC-133 to NOVA Gas Transmission Ltd. in respect of the proposed construction and operation of the Edson Mainline Expansion Project in Alberta</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) directing the Canada Energy Regulator (CER) to issue a CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY GC-133 to NOVA Gas Transmission Ltd. in respect of the proposed construction and operation of the EDSON MAINLINE EXPANSION PROJECT in Alberta; and (2) directing the CER to issue a decision statement concerning the project.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40914&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0605",
-  "htmlHash": "f7e6caa686d43ab9dd1b13dbb6c8e42f"
+  "htmlHash": "f7e6caa686d43ab9dd1b13dbb6c8e42f",
+  "attachments": [
+    "attachment.php?attach=40914&lang=en"
+  ]
 }

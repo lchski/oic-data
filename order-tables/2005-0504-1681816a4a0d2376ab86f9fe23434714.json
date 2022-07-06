@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0504</td><td>2005-04-05</td><td>12</td><td>2000</td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Modernization of Benefits and Obligations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 7, 2005 as the day upon which section 44.2 of the Judges Act as enacted by section 163 of this Act [BILL C-23], being chapter 12 of the Statutes of Canada, 2000, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0030  <strong>Publication Date:</strong> 2005-04-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0504",
-  "htmlHash": "1681816a4a0d2376ab86f9fe23434714"
+  "htmlHash": "1681816a4a0d2376ab86f9fe23434714",
+  "attachments": [
+    "attachment.php?attach=10216&lang=en"
+  ]
 }

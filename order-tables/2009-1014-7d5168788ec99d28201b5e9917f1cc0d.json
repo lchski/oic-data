@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1014</td><td>2009-06-18</td><td></td><td></td><td>RC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laurie’s Recycling &amp; Waste Services Inc. Remission Order\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Individual Remission Order remits $18,300.75 to Laurie's Recycling &amp; Waste Services Inc., plus related penalties and interest, representing the goods and services tax collectible by that company for the period beginning on April 1, 2004 and ending on June 30, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0058  <strong>Publication Date:</strong> 2009-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20886&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1014",
-  "htmlHash": "7d5168788ec99d28201b5e9917f1cc0d"
+  "htmlHash": "7d5168788ec99d28201b5e9917f1cc0d",
+  "attachments": [
+    "attachment.php?attach=20886&lang=en"
+  ]
 }

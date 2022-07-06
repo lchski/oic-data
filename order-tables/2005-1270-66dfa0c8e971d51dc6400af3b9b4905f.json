@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1270</td><td>2005-06-28</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GROS MORNE NATIONAL PARK OF CANADA TIMBER HARVESTING REGULATIONS which authorize permit holders to harvest trees in this National Park.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0204  <strong>Publication Date:</strong> 2005-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11848&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1270",
-  "htmlHash": "66dfa0c8e971d51dc6400af3b9b4905f"
+  "htmlHash": "66dfa0c8e971d51dc6400af3b9b4905f",
+  "attachments": [
+    "attachment.php?attach=11848&lang=en"
+  ]
 }

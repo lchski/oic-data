@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0413</td><td>2019-05-03</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Subject</td><td colspan=\"5\">Transportation of Dangerous Goods by Rail Security Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">TRANSPORTATION OF DANGEROUS GOODS BY RAIL SECURITY REGULATIONS in order to (1) enhance the security of the transportation of dangerous goods by rail; (2) strengthen the security of the rail supply chain; (3) enhance the alignment of Canada's transportation of dangerous goods by rail security regime with that of the United States; and (4) align Canada's transportation of dangerous goods by rail security regime with international standards and best practices.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0113  <strong>Publication Date:</strong> 2019-05-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37730&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0413",
-  "htmlHash": "ea7fb05463286e21637bea3563e68e8d"
+  "htmlHash": "ea7fb05463286e21637bea3563e68e8d",
+  "attachments": [
+    "attachment.php?attach=37730&lang=en"
+  ]
 }

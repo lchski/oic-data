@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0366</td><td>1993-02-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; COM,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADIAN BROADCASTING CORPORATION to acquire, hold and\ndispose of fully-paid freely transferable common shares and freely\ntransferable warrants of Bramalea Limited as partial consideration for the\nsettlement of all claims between the two parties in relation to the\nToronto Broadcast Centre, now or hereafter.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0366",
-  "htmlHash": "8710f4bb6687432e5a29d33f5e2db4db"
+  "htmlHash": "8710f4bb6687432e5a29d33f5e2db4db",
+  "attachments": []
 }

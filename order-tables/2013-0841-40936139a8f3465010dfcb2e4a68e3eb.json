@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0841</td><td>2013-06-27</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Canadian Security Intelligence Service Act Deputy Heads of the Public Service of Canada Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the CANADIAN SECURITY INTELLIGENCE SERVICE ACT DEPUTY HEADS OF THE PUBLIC SERVICE OF CANADA ORDER.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0072  <strong>Publication Date:</strong> 2013-07-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28097&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0841",
-  "htmlHash": "40936139a8f3465010dfcb2e4a68e3eb"
+  "htmlHash": "40936139a8f3465010dfcb2e4a68e3eb",
+  "attachments": [
+    "attachment.php?attach=28097&lang=en"
+  ]
 }

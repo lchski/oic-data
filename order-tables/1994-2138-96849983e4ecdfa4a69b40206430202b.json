@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2138</td><td>1994-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PROHIBITED WEAPONS ORDER, NO. 13 which provide for the\nissuance of a registration certificate if the application is made prior to\nJanuary 1, 1995, and establish a three-month amnesty period.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0011  <strong>Publication Date:</strong> 1995-01-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2138",
-  "htmlHash": "96849983e4ecdfa4a69b40206430202b"
+  "htmlHash": "96849983e4ecdfa4a69b40206430202b",
+  "attachments": []
 }

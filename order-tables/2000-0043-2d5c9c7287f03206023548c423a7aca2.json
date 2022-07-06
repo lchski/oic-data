@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0043</td><td>2000-01-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA SHIPPING ACT\n(MISCELLANEOUS PROGRAM) which make non-substantive changes to the:\n.\n (a) Garbarge Pollution Prevention Regulations, and\n (b) the Small Fishing Vessel Inspection Regulations.\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0037  <strong>Publication Date:</strong> 2000-02-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0043",
-  "htmlHash": "2d5c9c7287f03206023548c423a7aca2"
+  "htmlHash": "2d5c9c7287f03206023548c423a7aca2",
+  "attachments": []
 }

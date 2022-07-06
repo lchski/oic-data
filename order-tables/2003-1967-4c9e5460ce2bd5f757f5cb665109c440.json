@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1967</td><td>2003-12-06</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating JULY 28 of every year, starting in 2005, as \"A DAY OF COMMEMORATION OF THE GREAT UPHEAVAL\". \n( ACADIANS )</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5211&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1967",
-  "htmlHash": "4c9e5460ce2bd5f757f5cb665109c440"
+  "htmlHash": "4c9e5460ce2bd5f757f5cb665109c440",
+  "attachments": [
+    "attachment.php?attach=5211&lang=en"
+  ]
 }

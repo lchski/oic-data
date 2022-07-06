@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1067</td><td>2006-09-29</td><td></td><td></td><td>PMO,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Terminate the appointment of the HONOURABLE ALVIN CURLING as Ambassador of Canada to the Dominican Republic, made by Order in Council P.C. 2005-1376 of August 19, 2005, effective September 22, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14997&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1067",
-  "htmlHash": "5f22bb87949daca5c21f5dc35640a4f3"
+  "htmlHash": "5f22bb87949daca5c21f5dc35640a4f3",
+  "attachments": [
+    "attachment.php?attach=14997&lang=en"
+  ]
 }

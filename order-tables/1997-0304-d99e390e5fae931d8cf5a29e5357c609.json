@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0304</td><td>1997-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the Hon. DOUGLAS R. CAMPBELL, a Judge of the Federal Court of\nCanada - Trial Division, to reside in the City of Vancouver, from June 8,\n1996 until December 31, 1998, for travel allowance purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0304",
-  "htmlHash": "d99e390e5fae931d8cf5a29e5357c609"
+  "htmlHash": "d99e390e5fae931d8cf5a29e5357c609",
+  "attachments": []
 }

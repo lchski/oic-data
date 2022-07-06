@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1420</td><td>2013-12-17</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Foreign Affairs of MICHAEL PANKIW of Edmonton, Alberta, to be a member of the Board of Directors of the National Capital Commission to hold office during pleasure for a term of four years, in the place of Frieda Martselos.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28760&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1420",
-  "htmlHash": "92635b833a2daefd49249d6e71384ced"
+  "htmlHash": "92635b833a2daefd49249d6e71384ced",
+  "attachments": [
+    "attachment.php?attach=28760&lang=en"
+  ]
 }

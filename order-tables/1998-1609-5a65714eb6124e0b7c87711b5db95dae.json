@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1609</td><td>1998-09-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period of six weeks during which certain\nRELOCATION EXPENSES may be reimbursed to the Hon. PAUL U. RIVARD, a Judge\nof the Ontario Court of Justice (General Division), who was required to\nrelocate from the City of North Bay to the City of Toronto.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1609",
-  "htmlHash": "5a65714eb6124e0b7c87711b5db95dae"
+  "htmlHash": "5a65714eb6124e0b7c87711b5db95dae",
+  "attachments": []
 }

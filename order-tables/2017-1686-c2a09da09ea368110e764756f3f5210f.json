@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1686</td><td>2017-12-15</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Rocky Point Indian Reserve No. 3, in Prince Edward Island</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 0.15 hectare (0.38 acre) of lands, excluding mines and minerals for the use and benefit of Abegweit First Nation as an addition to ROCKY POINT INDIAN RESERVE NO. 3, located in the County of Queens, within the Community of Afton, approximately 30 kilometres from the City of Charlottetown, Prince Edward Island.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35596&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1686",
-  "htmlHash": "c2a09da09ea368110e764756f3f5210f"
+  "htmlHash": "c2a09da09ea368110e764756f3f5210f",
+  "attachments": [
+    "attachment.php?attach=35596&lang=en"
+  ]
 }

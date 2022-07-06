@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2084</td><td>2005-11-21</td><td></td><td></td><td>INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to Salt Lake City, Utah, undertaken by JOHN WILLIAMS, M.P., from July 17 to 20, 2004, for a presentation on Evolving Issues in Legislative Institutions and GOPAC at the annual meeting of the National Council of State Legislators.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13470&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2084",
-  "htmlHash": "29b3ac460dabb03f5f45d2c8fe8c88e3"
+  "htmlHash": "29b3ac460dabb03f5f45d2c8fe8c88e3",
+  "attachments": [
+    "attachment.php?attach=13470&lang=en"
+  ]
 }

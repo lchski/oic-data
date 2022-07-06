@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0314</td><td>2009-02-26</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION OF OFFICERS.\n\nTO THE RANK OF ASSISTANT COMMISSIONER (4)\n\n- Chief Superintendent JOSEPH GÉRARD PIERRE MICHEL CABANA\n- Chief Superintendent DALE NORMAN MCGOWAN \n- Chief Superintendent PETER DOUGLAS FREDERICK HENSCHEL\n- Chief Superintendent FRANÇOIS JEAN-MARIE BIDAL\n\nTO THE RANK OF CHIEF SUPERINTENDENT (3)\n\n- Superintendent RANDALL JAMES BECK\n- Superintendent ANGUS ALPHONSUS MACNEIL\n- Superintendent TODD GREGORY SHEAN\n\nTO THE RANK OF SUPERINTENDENT (9)\n\n- Inspector COLIN HAROLD FARQUHAR\n- Inspector BRENDAN JOSEPH GERARD HEFFERNAN\n- Inspector PETER THOMAS DANIEL MALO\n- Inspector JOSEPH GÉRARD JEAN-PAUL DONALD GAUTHIER\n- Inspector BERNARD BERGEVIN\n- Inspector ROBERT FRANÇOIS JOSEPH BOULET\n- Inspector GARY JAMES STUART\n- Inspector GEORGE GORDON BEATTIE\n- Inspector MAURY JOSEPH MEDJUCK</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20163&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0314",
-  "htmlHash": "9393b901594ef8cee91ed1e0eae1e384"
+  "htmlHash": "9393b901594ef8cee91ed1e0eae1e384",
+  "attachments": [
+    "attachment.php?attach=20163&lang=en"
+  ]
 }

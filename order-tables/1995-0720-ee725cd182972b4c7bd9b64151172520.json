@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0720</td><td>1995-05-02</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the WITHDRAWAL FROM DISPOSAL ORDER (DAWSON FIRST NATION,\nY.T.) - which provides for the withdrawal from disposal of specific lands\nin the Klondike Valley area of the Yukon Territory in order to facilitate\nthe settlement of native land claims made by the Dawson First Nation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0060  <strong>Publication Date:</strong> 1995-05-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0720",
-  "htmlHash": "ee725cd182972b4c7bd9b64151172520"
+  "htmlHash": "ee725cd182972b4c7bd9b64151172520",
+  "attachments": []
 }

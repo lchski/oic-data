@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0787</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing Certain Regulations Made Under the Arctic Waters Pollution Prevention Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing CERTAIN REGULATIONS MADE UNDER THE ARCTIC WATERS POLLUTION PREVENTION ACT (MISCELLANEOUS PROGRAM) in order to repeal spent regulations which have no current application.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0135  <strong>Publication Date:</strong> 2017-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34693&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0787",
-  "htmlHash": "75bef80cc0ef219cd583790eba5467ac"
+  "htmlHash": "75bef80cc0ef219cd583790eba5467ac",
+  "attachments": [
+    "attachment.php?attach=34693&lang=en"
+  ]
 }

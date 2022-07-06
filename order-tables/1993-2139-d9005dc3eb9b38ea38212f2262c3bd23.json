@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2139</td><td>1993-12-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the sale by the National Capital Commission to BARRY J.\nHOBIN &amp; ASSOCIATES of an improved real property situated at 63 Echo Drive,\nOttawa, Ontario, consisting of 3,075 square metres of land together with\nthe one-storey warehouse located thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-2139",
-  "htmlHash": "d9005dc3eb9b38ea38212f2262c3bd23"
+  "htmlHash": "d9005dc3eb9b38ea38212f2262c3bd23",
+  "attachments": []
 }

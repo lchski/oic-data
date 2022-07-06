@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0631</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIC</td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Citizenship Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CITIZENSHIP REGULATIONS in order to outline the factors that the Minister will consider in determining whether an oral hearing may be required such as: (1) the existence of evidence that raises a serious issue of the person’s credibility; (2) the person’s inability to provide written submissions; and (3) whether the ground for revocation is related to a conviction and sentence imposed outside Canada for a terrorism offence that, if committed in Canada, would constitute a terrorism offence as defined in section 2 of the Criminal Code.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0119  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30953&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0631",
-  "htmlHash": "a8a267c77c75617885eaa9c91954aef8"
+  "htmlHash": "a8a267c77c75617885eaa9c91954aef8",
+  "attachments": [
+    "attachment.php?attach=30953&lang=en"
+  ]
 }

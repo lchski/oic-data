@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0989</td><td>2020-12-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Aggregate borrowing limit</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order in Council P.C. 2020-171 of March 24, 2020, which authorizes the Minister of Finance to borrow money on behalf of the Government of Canada, in order to increase the aggregate principal amount of money that the Minister of Finance may borrow for fiscal year 2020-21 to $550 billion to permit operations related to the management of public debt.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39999&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0989",
-  "htmlHash": "409599fc872124eeebb4ab176f511bb0"
+  "htmlHash": "409599fc872124eeebb4ab176f511bb0",
+  "attachments": [
+    "attachment.php?attach=39999&lang=en"
+  ]
 }

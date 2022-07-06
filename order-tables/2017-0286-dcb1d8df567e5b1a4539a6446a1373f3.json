@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0286</td><td>2017-03-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JENNIFER STEBBING of Hamilton, Ontario, to be a director of the Hamilton Port Authority, to hold office for a term of three years, in the place of Melvin M. Hawkrigg, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34192&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0286",
-  "htmlHash": "dcb1d8df567e5b1a4539a6446a1373f3"
+  "htmlHash": "dcb1d8df567e5b1a4539a6446a1373f3",
+  "attachments": [
+    "attachment.php?attach=34192&lang=en"
+  ]
 }

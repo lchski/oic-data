@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0566</td><td>2018-05-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Establishing a List of Entities</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS ESTABLISHING A LIST OF ENTITIES in order to enhance Canada's national security, strengthen the Government's ability to take action against terrorists and give effect to international obligations including the implementation of the United Nations International Convention for the Suppression of the Financing of Terrorism and United Nations Security Council resolution 1373. In addition, the listing of an entity is a means for the Government to inform Canadians of the Government's position with regard to a particular entity.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0103  <strong>Publication Date:</strong> 2018-05-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36234&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0566",
-  "htmlHash": "bd40bd2243acb7aea6a6ce660ccaa9eb"
+  "htmlHash": "bd40bd2243acb7aea6a6ce660ccaa9eb",
+  "attachments": [
+    "attachment.php?attach=36234&lang=en"
+  ]
 }

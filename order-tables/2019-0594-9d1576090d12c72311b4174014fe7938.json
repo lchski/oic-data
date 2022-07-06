@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0594</td><td>2019-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Agricultural Marketing Programs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Agricultural Marketing Programs Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the AGRICULTURAL MARKETING PROGRAMS REGULATIONS in order to (1) permanently increase the overall loan limit under the Advance Payments Program to allow the program to be more responsive to the cash flow needs of agricultural producers; and (2) temporarily increase the interest free to assist producers who are directly affected by the recent trade restrictions on Canadian canola imposed by China.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0157  <strong>Publication Date:</strong> 2019-06-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37919&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0594",
-  "htmlHash": "9d1576090d12c72311b4174014fe7938"
+  "htmlHash": "9d1576090d12c72311b4174014fe7938",
+  "attachments": [
+    "attachment.php?attach=37919&lang=en"
+  ]
 }

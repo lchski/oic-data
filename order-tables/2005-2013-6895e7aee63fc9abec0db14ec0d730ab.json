@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2013</td><td>2005-11-15</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2005-525 of April 7, 2005 concerning the appointment of WILLIAM J.S. ELLIOTT as National Security Advisor to the Prime Minister.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13792&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2013",
-  "htmlHash": "6895e7aee63fc9abec0db14ec0d730ab"
+  "htmlHash": "6895e7aee63fc9abec0db14ec0d730ab",
+  "attachments": [
+    "attachment.php?attach=13792&lang=en"
+  ]
 }

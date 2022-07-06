@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0776</td><td>1996-05-28</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a RIGHT OF ENTRY to CHEVRON CANADA RESOURCES LIMITED over and\nacross a strip of land on SAWRIDGE INDIAN RESERVE NO. 150G, in Alberta, for\nthe construction, operation and maintenance of a natural gas pipeline.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0776",
-  "htmlHash": "eee7c848afde86202b7b4d65d48c45fb"
+  "htmlHash": "eee7c848afde86202b7b4d65d48c45fb",
+  "attachments": []
 }

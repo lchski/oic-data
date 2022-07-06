@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2255</td><td>1991-11-19</td><td>0</td><td></td><td>,&nbsp; ACOA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for the Atlantic Canada\nOpportunities Agency of certain persons as directors of the Board of\nDirectors of the Enterprise Cape Breton Corporation to hold office for a\nterm of one year.\n(James R. Pat Ellis, Halifax, Nova Scotia, in the place of Stuart Hickey,\nwhose term has expired; and Selma Rudderham, Sydney, Nova Scotia, in the\nplace of Eva J. Landry, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2255",
-  "htmlHash": "17ce1186c768f42df58256808b3bb9b0"
+  "htmlHash": "17ce1186c768f42df58256808b3bb9b0",
+  "attachments": []
 }

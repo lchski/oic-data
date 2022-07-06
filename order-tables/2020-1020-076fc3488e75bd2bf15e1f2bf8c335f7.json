@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1020</td><td>2020-12-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Members of the House of Commons to be Parliamentary Secretary to the Ministers ** Appointment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) terminating the appointments made by Order in Council P.C. 2019-1391 of December 11, 2019; and (2) appointing, for the period ending on February 12, 2021, certain Members of the House of Commons to be Parliamentary Secretary to the Ministers.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40015&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1020",
-  "htmlHash": "076fc3488e75bd2bf15e1f2bf8c335f7"
+  "htmlHash": "076fc3488e75bd2bf15e1f2bf8c335f7",
+  "attachments": [
+    "attachment.php?attach=40015&lang=en"
+  ]
 }

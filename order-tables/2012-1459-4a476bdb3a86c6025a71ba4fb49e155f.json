@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1459</td><td>2012-11-01</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 153 - (Alberta) Provincial Emergencies Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER N° 153 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of ALBERTA with respect to the RAINSTORM that affected the province, from June 23 to 26, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26863&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1459",
-  "htmlHash": "4a476bdb3a86c6025a71ba4fb49e155f"
+  "htmlHash": "4a476bdb3a86c6025a71ba4fb49e155f",
+  "attachments": [
+    "attachment.php?attach=26863&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0218</td><td>2018-03-06</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 210, Newfoundland and Labrador</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 210 which makes a declaration of federal concern and authorizes the provision of financial assistance to the province of NEWFOUNDLAND AND LABRADOR, with respect to the spring floods that occurred in Labrador, in May 2017, which affected the community of Mud Lake and surrounding area.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35880&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0218",
-  "htmlHash": "368c27495c9f6209856744cfe5c2b2d6"
+  "htmlHash": "368c27495c9f6209856744cfe5c2b2d6",
+  "attachments": [
+    "attachment.php?attach=35880&lang=en"
+  ]
 }

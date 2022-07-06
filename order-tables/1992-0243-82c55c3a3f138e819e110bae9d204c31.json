@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0243</td><td>1992-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of QUEBEC of administration\nover a parcel of land situate at SEPT-ILES, together with a right-of-way\nover two parcels of land and a non-obstruction easement affecting another\nfour parcels, all situated in the Township of Leneuf (Duplessis), for the\npurposes of installing and maintaining radar equipment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0243",
-  "htmlHash": "82c55c3a3f138e819e110bae9d204c31"
+  "htmlHash": "82c55c3a3f138e819e110bae9d204c31",
+  "attachments": []
 }

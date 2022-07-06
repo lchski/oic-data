@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0942</td><td>2008-05-15</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE MANNER OF CALCULATION (FOREIGN BANKS) REGULATIONS by adding a new cross-reference to the current regulations, referring to a provision of the Bank Act added by Bill C-37 that requires the determination of the financial portion of an entity's business and by replacing some term definitions to correspond to those in the Bank Act which were added by Bill C-37.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0162  <strong>Publication Date:</strong> 2008-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18783&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0942",
-  "htmlHash": "f94648b8b6756c59d7e81145a1659b75"
+  "htmlHash": "f94648b8b6756c59d7e81145a1659b75",
+  "attachments": [
+    "attachment.php?attach=18783&lang=en"
+  ]
 }

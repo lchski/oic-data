@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0087</td><td>2000-02-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the LICENSING AND ARBITRATION REGULATIONS by\nrecognizing the creation of the Fruit and Vegetable Dispute Resolution\nCorporation, a tri-national (Canada, Mexico and U.S.A.) non-government\ndispute resolution body for the fresh fruit and vegetable sectors.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0046  <strong>Publication Date:</strong> 2000-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0087",
-  "htmlHash": "c294690c190c62b5f5d46884cd1bf46b"
+  "htmlHash": "c294690c190c62b5f5d46884cd1bf46b",
+  "attachments": []
 }

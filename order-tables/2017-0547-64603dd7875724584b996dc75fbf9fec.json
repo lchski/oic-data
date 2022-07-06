@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0547</td><td>2017-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Economic Action Plan 2014 Act, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Order Fixing the Day for the Purposes of Sections 130, 133 and 135 of the Economic Action Plan 2014 Act, No. 1</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 1, 2018 as the Day for the Purposes of Sections 130, 133, and 135 of the ECONOMIC ACTION PLAN 2014 ACT, No. 1.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0092  <strong>Publication Date:</strong> 2017-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34454&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0547",
-  "htmlHash": "64603dd7875724584b996dc75fbf9fec"
+  "htmlHash": "64603dd7875724584b996dc75fbf9fec",
+  "attachments": [
+    "attachment.php?attach=34454&lang=en"
+  ]
 }

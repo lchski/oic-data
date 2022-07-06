@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2332</td><td>2005-12-20</td><td></td><td></td><td>,&nbsp; INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to Senegal undertaken by ROB MERRIFIELD, M.P., from September 9 to 16, 2005, to meet with African MPs under the aegis of the Canada Fund for the Africa's Africa-Canada Parliamentary Strengthening Program.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13627&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2332",
-  "htmlHash": "8aab04f1ac0a8f5128fcf816faa5bb85"
+  "htmlHash": "8aab04f1ac0a8f5128fcf816faa5bb85",
+  "attachments": [
+    "attachment.php?attach=13627&lang=en"
+  ]
 }

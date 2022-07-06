@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2015</td><td>1999-11-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the UNITED NATIONS AFGHANISTAN REGULATIONS which prohibit\naircraft owned, leased or operated by the Taliban from landing on or\ntaking-off from Canadian territory, and impose an embargo on financial\ntransactions, as set forth in U.N. Security Council Resolution 1267.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0444  <strong>Publication Date:</strong> 1999-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2015",
-  "htmlHash": "68ada4c498bd0ce7d2e62c8dde2fa78f"
+  "htmlHash": "68ada4c498bd0ce7d2e62c8dde2fa78f",
+  "attachments": []
 }

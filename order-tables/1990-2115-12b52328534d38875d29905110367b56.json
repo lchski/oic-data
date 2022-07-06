@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2115</td><td>1990-09-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization of the sale of Lot 1007 (1.114 hec) in Quad 105 A/2 near\nWatson Lake Wye in the Yukon Territory, to Floyd Laursen of the Town of\nWatson Lake.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2115",
-  "htmlHash": "12b52328534d38875d29905110367b56"
+  "htmlHash": "12b52328534d38875d29905110367b56",
+  "attachments": []
 }

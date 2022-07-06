@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0811</td><td>2021-08-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAUL HALUCHA of Ottawa, Ontario, to be Associate Deputy Minister of Environment and Climate Change, to hold office during pleasure, effective August 16, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41124&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0811",
-  "htmlHash": "85be8b4ae33ed0cfe63ec51ae0597411"
+  "htmlHash": "85be8b4ae33ed0cfe63ec51ae0597411",
+  "attachments": [
+    "attachment.php?attach=41124&lang=en"
+  ]
 }

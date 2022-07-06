@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1022</td><td>2007-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Judges to serve as ADMINISTRATOR of the Government of MANITOBA between June 30 and August 31, 2007, as follows:\n\nThe Hon. ALAN R. PHILP\n - From June 30 to July 22, 2007, inclusive\n - From August 4 to August 12, 2007, inclusive\n\nThe Hon. MICHEL MONNIN\n - From July 23 to July 29, 2007, inclusive\n\nThe Hon. FREDA MARIAM STEEL\n - From July 30 through to August 3, 2007, inclusive\n - From August 13 through to August 31, 2007, inclusive</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16706&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1022",
-  "htmlHash": "c05d0780517a5e3f02720034682008e8"
+  "htmlHash": "c05d0780517a5e3f02720034682008e8",
+  "attachments": [
+    "attachment.php?attach=16706&lang=en"
+  ]
 }

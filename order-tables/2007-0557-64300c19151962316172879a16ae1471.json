@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0557</td><td>2007-04-19</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PACIFIC FISHERY MANAGEMENT AREA REGULATIONS, 2007 which standardize the method used to describe all areas and sub-areas of the tidal and non-tidal waters of the Pacific Ocean and British Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0077  <strong>Publication Date:</strong> 2007-05-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16223&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0557",
-  "htmlHash": "64300c19151962316172879a16ae1471"
+  "htmlHash": "64300c19151962316172879a16ae1471",
+  "attachments": [
+    "attachment.php?attach=16223&lang=en"
+  ]
 }

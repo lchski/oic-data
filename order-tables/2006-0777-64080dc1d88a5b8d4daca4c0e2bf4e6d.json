@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0777</td><td>2006-08-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DOUGLAS REID of Lyndhurst, Ontario, as a director of the TORONTO PORT AUTHORITY for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14725&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0777",
-  "htmlHash": "64080dc1d88a5b8d4daca4c0e2bf4e6d"
+  "htmlHash": "64080dc1d88a5b8d4daca4c0e2bf4e6d",
+  "attachments": [
+    "attachment.php?attach=14725&lang=en"
+  ]
 }

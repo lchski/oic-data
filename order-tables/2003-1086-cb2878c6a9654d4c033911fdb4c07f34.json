@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1086</td><td>2003-07-24</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Race Relations  Foundation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of VIRGINIA G. GUIANG of Winnipeg, Manitoba, to be a director of the Board of Directors of the Canadian Race Relations Foundation to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3315&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1086",
-  "htmlHash": "cb2878c6a9654d4c033911fdb4c07f34"
+  "htmlHash": "cb2878c6a9654d4c033911fdb4c07f34",
+  "attachments": [
+    "attachment.php?attach=3315&lang=en"
+  ]
 }

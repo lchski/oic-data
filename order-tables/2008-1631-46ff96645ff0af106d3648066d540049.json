@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1631</td><td>2008-09-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the WAYCOBAH FIRST NATION, some 79.46 hectares of land excluding mines and minerals, situated in the County of Inverness, Nova Scotia, as an addition to Whycocomagh Indian Reserve No. 2. (LT-07-40)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19431&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1631",
-  "htmlHash": "46ff96645ff0af106d3648066d540049"
+  "htmlHash": "46ff96645ff0af106d3648066d540049",
+  "attachments": [
+    "attachment.php?attach=19431&lang=en"
+  ]
 }

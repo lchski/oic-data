@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0768</td><td>1998-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. Mr. Justice JOSEPH Z. DAIGLE as Administrator of\nthe Government of NEW BRUNSWICK, effective May 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0768",
-  "htmlHash": "e08cf4a989a8f829bdc9d6033ce3fcb5"
+  "htmlHash": "e08cf4a989a8f829bdc9d6033ce3fcb5",
+  "attachments": []
 }

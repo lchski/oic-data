@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2193</td><td>2005-11-23</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Credit Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN J. RYAN of Regina, Saskatchewan, to be President of Farm Credit Canada, to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13607&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2193",
-  "htmlHash": "188b4820a32122a6299f9919f665a3c0"
+  "htmlHash": "188b4820a32122a6299f9919f665a3c0",
+  "attachments": [
+    "attachment.php?attach=13607&lang=en"
+  ]
 }

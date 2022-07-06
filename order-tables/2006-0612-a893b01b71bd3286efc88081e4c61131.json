@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0612</td><td>2006-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to the Hon. JOHN S. MOORE, a Judge of the Court of Queen's Bench of Alberta, effective September 15, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14610&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0612",
-  "htmlHash": "a893b01b71bd3286efc88081e4c61131"
+  "htmlHash": "a893b01b71bd3286efc88081e4c61131",
+  "attachments": [
+    "attachment.php?attach=14610&lang=en"
+  ]
 }

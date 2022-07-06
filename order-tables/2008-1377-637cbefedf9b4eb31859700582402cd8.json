@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1377</td><td>2008-07-28</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">JUDGES ACT (RETIREMENTS AND ANNUITIES)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement and granting of a lifelong annuity to the Hon. NATHAN NURGITZ, a Puisne Judge of Her Majesty’s Court of Queen’s Bench of Manitoba, commencing on September 15, 2008..</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19224&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1377",
-  "htmlHash": "637cbefedf9b4eb31859700582402cd8"
+  "htmlHash": "637cbefedf9b4eb31859700582402cd8",
+  "attachments": [
+    "attachment.php?attach=19224&lang=en"
+  ]
 }

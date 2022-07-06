@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1327</td><td>2013-12-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Federal-Provincial Fiscal Arrangements Regulations, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 2007 in order to (1) support the legislative renewal of the four major federal transfer programs; (2) implement the set of technical changes announced for Equalization and Territorial Formula Financing (TFF); (3) clarify various aspects of the calculation of Equalization and TFF; (4) establish the timing of estimates and final computations of the Canada Health Transfer and Canada Social Transfer starting in 2014-15; and (5) update and rationalize the regulatory regime for the major transfer programs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0225  <strong>Publication Date:</strong> 2013-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28592&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1327",
-  "htmlHash": "2830ebd639bc86d55f678e62943118e8"
+  "htmlHash": "2830ebd639bc86d55f678e62943118e8",
+  "attachments": [
+    "attachment.php?attach=28592&lang=en"
+  ]
 }

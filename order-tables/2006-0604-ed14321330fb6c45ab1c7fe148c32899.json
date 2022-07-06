@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0604</td><td>2006-06-23</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the UNITED NATIONS SUPPRESSION OF TERRORISM REGULATIONS by replacing the schedule with a new one containing only names not covered by the United Nations Afghanistan Regulations and the Criminal Code.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0165  <strong>Publication Date:</strong> 2006-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14514&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0604",
-  "htmlHash": "ed14321330fb6c45ab1c7fe148c32899"
+  "htmlHash": "ed14321330fb6c45ab1c7fe148c32899",
+  "attachments": [
+    "attachment.php?attach=14514&lang=en"
+  ]
 }

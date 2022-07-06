@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0228</td><td>2017-03-10</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Aggregate borrowing limit</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the Minister of Finance to borrow money on behalf of the Government of Canada and conducting activities related to the borrowing of money as he considers appropriate; (2) specifying $335 BILLION AS THE AGGREGATE PRINCIPAL AMOUNT OF MONEY THAT THE MINISTER OF FINANCE MAY BORROW in the period beginning on April 1, 2017 and ending on March 31, 2018; (3) designating those officials of the Department of Finance and the Bank of Canada who can sign and countersign security certificates; (4) authorizing the Minister of Finance to appoint fiscal agents and registrars for any foreign currency debt issued by Canada in the 2017-18 fiscal year; (5) authorizing payments out of the Consolidated Revenue Fund for the management of the public debt.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34132&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0228",
-  "htmlHash": "0542332c28c62f556c1c287b1132feec"
+  "htmlHash": "0542332c28c62f556c1c287b1132feec",
+  "attachments": [
+    "attachment.php?attach=34132&lang=en"
+  ]
 }

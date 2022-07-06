@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0711</td><td>2007-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GREAT LAKES PILOTAGE TARIFF REGULATIONS to the extent that the surcharge on all pilotage services will continue to be applied until December 31, 2007, and by increasing the basic pilotage charges for slow-moving ships transiting International District No. 1, when it is necessary to exchange pilots at Iroquois Lock.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0096  <strong>Publication Date:</strong> 2007-05-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16406&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0711",
-  "htmlHash": "c9d45171934125b7304df51ab8ffe6e0"
+  "htmlHash": "c9d45171934125b7304df51ab8ffe6e0",
+  "attachments": [
+    "attachment.php?attach=16406&lang=en"
+  ]
 }

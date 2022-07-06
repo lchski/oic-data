@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0535</td><td>2014-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 1997</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MICHEL KELLY-GAGNON of Sainte-Marthe-sur-le-Lac, Quebec, as a director of the board of directors of the Canada Foundation for Innovation, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29349&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0535",
-  "htmlHash": "b94bae76877e1cebb98595c00314d6f5"
+  "htmlHash": "b94bae76877e1cebb98595c00314d6f5",
+  "attachments": [
+    "attachment.php?attach=29349&lang=en"
+  ]
 }

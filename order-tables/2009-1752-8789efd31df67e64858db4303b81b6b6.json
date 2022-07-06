@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1752</td><td>2009-10-22</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Standard 216 — Roof Crush Resistance and Standard 220 — Rollover Protection)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE MOTOR VEHICLE SAFETY REGULATIONS (Standard 216 - Roof Crush Resistance and Standard 220 - Rollover Protection)  to improve the safety of vehicle occupants in the event of a vehicle rollover and to maintain harmonization with safety standards recently proposed by the United States.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0291  <strong>Publication Date:</strong> 2009-11-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21635&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1752",
-  "htmlHash": "8789efd31df67e64858db4303b81b6b6"
+  "htmlHash": "8789efd31df67e64858db4303b81b6b6",
+  "attachments": [
+    "attachment.php?attach=21635&lang=en"
+  ]
 }

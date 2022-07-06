@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1900</td><td>2005-11-01</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER RESPECTING THE WITHDRAWAL FROM DISPOSAL OF CERTAIN LANDS IN THE NORTHWEST TERRITORIES (SAHOYUÉ - ?EHADCHO (GRIZZLY BEAR MOUNTAIN AND SCENTED GRASS HILLS), NATIONAL HISTORIC SITE, N.W.T.) - which provides for (a) the withdrawal from disposal of some 5,550 square kilometres of land in the Northwest Territories; and (b) the repeal of a similar Withdrawal from Disposal Order made in 2001.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0113  <strong>Publication Date:</strong> 2005-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13217&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1900",
-  "htmlHash": "e293c5ecaef903826da435ca4e6f9add"
+  "htmlHash": "e293c5ecaef903826da435ca4e6f9add",
+  "attachments": [
+    "attachment.php?attach=13217&lang=en"
+  ]
 }

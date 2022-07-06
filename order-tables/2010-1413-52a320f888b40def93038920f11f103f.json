@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1413</td><td>2010-11-18</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 1 to the Hazardous Products Act (Cribs, Cradles and Bassinets ) </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending SCHEDULE I TO THE HAZARDOUS PRODUCTS ACT (CRIBS, CRADLES AND BASSINETS) in order to improve the protection of the health and safety of young children with regards to the use of cribs, cradles and bassinets, by amending the previous Cribs and Cradles Regulations of the Hazardous Product Act, as well as Item 25 of Part II of Schedule I of the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0262  <strong>Publication Date:</strong> 2010-12-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23413&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1413",
-  "htmlHash": "52a320f888b40def93038920f11f103f"
+  "htmlHash": "52a320f888b40def93038920f11f103f",
+  "attachments": [
+    "attachment.php?attach=23413&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0908</td><td>1997-07-03</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of five appointments made by the NATIONAL FILM BOARD.\n.\n  1. NICOLE LAMOTHE                   4. MARINA DARVEAU\n  Producer, Studio Head               Chief, Financial Administration\n  French Program Branch\n                                      5. JACQUELINE RIVEST\n  2. PIERRE LAPOINTE                  Financial Advisor\n  Producer, Studio Head               French Program Branch\n  Jeunesse Studio\n  French Program Branch\n.\n  3. JACQUES MÉNARD\n  Assistant Director General\n  Documentary Production\n  French Program Branch\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0908",
-  "htmlHash": "533cec5bc01c89f920eab9864e570811"
+  "htmlHash": "533cec5bc01c89f920eab9864e570811",
+  "attachments": []
 }

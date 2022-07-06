@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1752</td><td>2005-10-04</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Human Resources and Skills Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the DEPARTMENT OF HUMAN RESOURCES AND SKILLS DEVELOPMENT REGULATIONS which specify the federal institutions to which this department may disclose personal information in connection with fraud investigations or legal proceedings, or for archival purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0311  <strong>Publication Date:</strong> 2005-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13137&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1752",
-  "htmlHash": "ee6593f7aa336dc87130d0fc18560425"
+  "htmlHash": "ee6593f7aa336dc87130d0fc18560425",
+  "attachments": [
+    "attachment.php?attach=13137&lang=en"
+  ]
 }

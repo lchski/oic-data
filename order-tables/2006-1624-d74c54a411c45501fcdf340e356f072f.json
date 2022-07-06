@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1624</td><td>2006-12-18</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STEPHEN CAMPBELL of Rothesay, New Brunswick, to be a director of the Saint John Port Authority, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15598&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1624",
-  "htmlHash": "d74c54a411c45501fcdf340e356f072f"
+  "htmlHash": "d74c54a411c45501fcdf340e356f072f",
+  "attachments": [
+    "attachment.php?attach=15598&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0306</td><td>2021-04-19</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Weights and Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule IV to the Weights and Measures Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE IV TO THE WEIGHTS AND MEASURES ACT in order to add one reference standard for the measurement of temperature and one reference standard for the measurement of electricity, and update the reference to the most recent definition of the metre.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0084  <strong>Publication Date:</strong> 2021-04-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40504&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0306",
-  "htmlHash": "e0d85ad883174a1270040334adcb2b17"
+  "htmlHash": "e0d85ad883174a1270040334adcb2b17",
+  "attachments": [
+    "attachment.php?attach=40504&lang=en"
+  ]
 }

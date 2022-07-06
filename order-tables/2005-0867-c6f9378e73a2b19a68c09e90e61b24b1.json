@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0867</td><td>2005-05-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the AUDITOR GENERAL OF CANADA as the auditor of Ridley Terminals Inc. for the year 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10829&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0867",
-  "htmlHash": "c6f9378e73a2b19a68c09e90e61b24b1"
+  "htmlHash": "c6f9378e73a2b19a68c09e90e61b24b1",
+  "attachments": [
+    "attachment.php?attach=10829&lang=en"
+  ]
 }

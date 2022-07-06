@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1816</td><td>2005-10-25</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Transport Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the COMMERCIAL VEHICLE DRIVERS HOURS OF SERVICE REGULATIONS which establish the maximum number of hours behind the wheel and the minimum number of off-duty hours for commercial vehicle (bus and truck) drivers employed or otherwise engaged in extra-provincial transportation, which will come into force on January 1, 2007.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0313  <strong>Publication Date:</strong> 2005-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13293&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1816",
-  "htmlHash": "24eb7eea533a54b409ab810debbe036a"
+  "htmlHash": "24eb7eea533a54b409ab810debbe036a",
+  "attachments": [
+    "attachment.php?attach=13293&lang=en"
+  ]
 }

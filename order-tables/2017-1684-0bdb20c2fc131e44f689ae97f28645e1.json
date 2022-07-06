@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1684</td><td>2017-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Capital Commission ** ZIBI Project **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to carry out transactions that will enable Windmill Dream Zibi Master LP, by its general partner, Windmill Dream Limited Partnership, by its general partner, EB Eddy Sustainable Revitalization Inc. (Windmill) to proceed with revitalizing and redeveloping a portion of the north shore of the Ottawa River and islands within the Ottawa River, with a mixed use development, parks, as well as culture and recreation amenities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35594&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1684",
-  "htmlHash": "0bdb20c2fc131e44f689ae97f28645e1"
+  "htmlHash": "0bdb20c2fc131e44f689ae97f28645e1",
+  "attachments": [
+    "attachment.php?attach=35594&lang=en"
+  ]
 }

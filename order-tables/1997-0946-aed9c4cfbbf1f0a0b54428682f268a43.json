@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0946</td><td>1997-07-04</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the MINISTER FOR INTERNATIONAL TRADE as the \"Minister\"\nfor the purposes of sections 1 to 8 and Parts I and III of this Act,\neffective July 5, 1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0087  <strong>Publication Date:</strong> 1997-07-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0946",
-  "htmlHash": "aed9c4cfbbf1f0a0b54428682f268a43"
+  "htmlHash": "aed9c4cfbbf1f0a0b54428682f268a43",
+  "attachments": []
 }

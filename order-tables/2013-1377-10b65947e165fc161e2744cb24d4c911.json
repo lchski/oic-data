@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1377</td><td>2013-12-12</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - USA ** Treaty concerning Pacific Salmon **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the Exchange of Notes between the Government of Canada and the Government of the UNITED STATES OF AMERICA constituting an agreement amending Chapter 4 of Annex IV of the TREATY CONCERNING PACIFIC SALMON.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28641&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1377",
-  "htmlHash": "10b65947e165fc161e2744cb24d4c911"
+  "htmlHash": "10b65947e165fc161e2744cb24d4c911",
+  "attachments": [
+    "attachment.php?attach=28641&lang=en"
+  ]
 }

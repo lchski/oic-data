@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1450</td><td>2013-12-17</td><td></td><td></td><td>,&nbsp; CH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of WILTON LITTLECHILD of Hobbema, Alberta, as a trustee of the Board of Trustees of the Canadian Museum for Human Rights to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28730&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1450",
-  "htmlHash": "1c64c79e82f5af8ba57ed899f5c48c5f"
+  "htmlHash": "1c64c79e82f5af8ba57ed899f5c48c5f",
+  "attachments": [
+    "attachment.php?attach=28730&lang=en"
+  ]
 }

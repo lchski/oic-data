@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1780</td><td>2000-12-13</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PUBLIC AGENTS FIREARMS REGULATIONS by delaying\nthe COMING INTO FORCE of sections 8 to 10 and 12 to 16 until\nJANUARY 1, 2003.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0009  <strong>Publication Date:</strong> 2001-01-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1780",
-  "htmlHash": "358d66ebe5b0df03fd80a273212fef13"
+  "htmlHash": "358d66ebe5b0df03fd80a273212fef13",
+  "attachments": []
 }

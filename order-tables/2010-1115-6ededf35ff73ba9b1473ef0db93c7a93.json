@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1115</td><td>2010-09-23</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">2002-2003 - TRANSFER UNDISTRIBUTED BALANCES ** Wheat **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorising the CANADIAN WHEAT BOARD (a) to adjust its accounts as of December 31, 2009, by transferring the undistributed funds in the 2002-2003 pool accounts for wheat to a separate account; and (b) to pay to the persons who are entitled to receive payments the amount to which they are entitled out of the separate account.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23096&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1115",
-  "htmlHash": "6ededf35ff73ba9b1473ef0db93c7a93"
+  "htmlHash": "6ededf35ff73ba9b1473ef0db93c7a93",
+  "attachments": [
+    "attachment.php?attach=23096&lang=en"
+  ]
 }

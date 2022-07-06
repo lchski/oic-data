@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0757</td><td>1995-05-09</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMPORT CONTROL LIST in order to incorporate amendments\nmade to the Convention on International Trade in Endangered Species of Wild\nFlora and Fauna (CITES) to protect certain species of animals and plants\nagainst over-use through international trade.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0235  <strong>Publication Date:</strong> 1995-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0757",
-  "htmlHash": "9d5b2b663ace2918c7ff4e84b45443ef"
+  "htmlHash": "9d5b2b663ace2918c7ff4e84b45443ef",
+  "attachments": []
 }

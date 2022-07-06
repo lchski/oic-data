@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0842</td><td>1993-04-27</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Commissioner of the Northwest Territories of the\nadministration and control over a parcel of land situate in the Hamlet of\nBAKER LAKE which contains an area of some 0.075 hectares, it being one of\nthe parcels reserved for use by the Department of Transport which were\nexcluded from the block transfer made by Order in Council P.C.1984-1765.\n(Lot 7, Block 30, C.L.S.R. Plan 72294)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0842",
-  "htmlHash": "82a8d517455deec601cc0db4f61301e4"
+  "htmlHash": "82a8d517455deec601cc0db4f61301e4",
+  "attachments": []
 }

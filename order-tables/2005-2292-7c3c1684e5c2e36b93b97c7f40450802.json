@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2292</td><td>2005-12-06</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the COWESSESS BAND of some 195 hectares of land situated near Grayson, Saskatchewan, in the Rural Municipality of Grayson No. 184, mines and minerals included, as an addition to Cowessess Indian Reserve No. 73.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2292",
-  "htmlHash": "7c3c1684e5c2e36b93b97c7f40450802"
+  "htmlHash": "7c3c1684e5c2e36b93b97c7f40450802",
+  "attachments": [
+    "attachment.php?attach=13396&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1499</td><td>1995-09-06</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Termination of the appointment of Maurizio Bevilacqua as Parliamentary\nSecretary to the Minister of Labour; and appointment of Robert Daniel\nNault as Parliamentary Secretary to the Minister of Labour for a period\nterminating December 5, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1499",
-  "htmlHash": "9b6ec28604f3f1847d919577f84910b2"
+  "htmlHash": "9b6ec28604f3f1847d919577f84910b2",
+  "attachments": []
 }

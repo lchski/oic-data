@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0398</td><td>2011-03-10</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Export Control List\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the EXPORT CONTROL LIST (ECL) in order to address the concerns expressed by the Standing Joint Committee for the Scrutiny of Regulations to clarify when an application to export an item not listed elsewhere on the ECL is required and to update the Regulation to reflect current foreign policy and security considerations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0067  <strong>Publication Date:</strong> 2011-03-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24061&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0398",
-  "htmlHash": "ac4636dfd92d8755727c935ffa4a63db"
+  "htmlHash": "ac4636dfd92d8755727c935ffa4a63db",
+  "attachments": [
+    "attachment.php?attach=24061&lang=en"
+  ]
 }

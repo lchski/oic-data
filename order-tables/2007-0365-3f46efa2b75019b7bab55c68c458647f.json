@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0365</td><td>2007-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; DFAIT,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to authorize the Minister of Finance to make certain payments [S.C.2005, c.36]</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the United Nations Development Programme respecting the making of a payment to the LAW AND ORDER TRUST FUND FOR AFGHANISTAN.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16087&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0365",
-  "htmlHash": "3f46efa2b75019b7bab55c68c458647f"
+  "htmlHash": "3f46efa2b75019b7bab55c68c458647f",
+  "attachments": [
+    "attachment.php?attach=16087&lang=en"
+  ]
 }

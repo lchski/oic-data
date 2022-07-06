@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0085</td><td>2006-02-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Round Table on the Environment and the Economy Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) designating the MINISTER OF THE ENVIRONMENT as the Minister for the purpose of this Act; and (b) repealing Order in Council P.C. 1994-694, effective February 6, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0044  <strong>Publication Date:</strong> 2006-02-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0085",
-  "htmlHash": "c3822cf0238a834bfda1b0c970296c96"
+  "htmlHash": "c3822cf0238a834bfda1b0c970296c96",
+  "attachments": [
+    "attachment.php?attach=13965&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1700</td><td>2003-10-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN TELECOMMUNICATIONS CORPORATION and TRANSGAS LIMITED of the statutory power to acquire a right-of-way on Cowessess Indian Reserve No.73 in Saskatchewan and (b) granting them an easement for those purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4588&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1700",
-  "htmlHash": "31a5b7d7bebdeedcf8d77203242c6663"
+  "htmlHash": "31a5b7d7bebdeedcf8d77203242c6663",
+  "attachments": [
+    "attachment.php?attach=4588&lang=en"
+  ]
 }

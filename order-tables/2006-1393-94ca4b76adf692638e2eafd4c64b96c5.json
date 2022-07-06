@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1393</td><td>2006-11-23</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GUN SHOWS REGULATIONS to the extent of postponing the date on which they come into force from November 30, 2006 to November 30, 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0292  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15364&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1393",
-  "htmlHash": "94ca4b76adf692638e2eafd4c64b96c5"
+  "htmlHash": "94ca4b76adf692638e2eafd4c64b96c5",
+  "attachments": [
+    "attachment.php?attach=15364&lang=en"
+  ]
 }

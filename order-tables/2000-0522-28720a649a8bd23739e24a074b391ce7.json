@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0522</td><td>2000-04-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to acquire title to some 9.69 hectares of land (Parcel 98-1, CLSR\nPlan 81569) situate in the Parish of Saint Charles, in Kent County,\nNew Brunswick, for the purpose of annexing them to KOUCHIBOUGUAC NATIONAL\nPARK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0522",
-  "htmlHash": "28720a649a8bd23739e24a074b391ce7"
+  "htmlHash": "28720a649a8bd23739e24a074b391ce7",
+  "attachments": []
 }

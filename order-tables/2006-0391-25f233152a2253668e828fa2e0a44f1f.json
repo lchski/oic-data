@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0391</td><td>2006-05-17</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order in Council P.C. 2003-794 of May 29, 2003, effective May 17, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0081  <strong>Publication Date:</strong> 2006-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14319&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0391",
-  "htmlHash": "25f233152a2253668e828fa2e0a44f1f"
+  "htmlHash": "25f233152a2253668e828fa2e0a44f1f",
+  "attachments": [
+    "attachment.php?attach=14319&lang=en"
+  ]
 }

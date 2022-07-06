@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1717</td><td>2005-10-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Emission Reduction Incentives Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the NATIONAL CAPITAL REGION as the location for the head office of the CANADA EMISSION REDUCTION INCENTIVES AGENCY, effective October 3, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13279&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1717",
-  "htmlHash": "2ae59c7bc6c09bfd7e8491592bc1d56a"
+  "htmlHash": "2ae59c7bc6c09bfd7e8491592bc1d56a",
+  "attachments": [
+    "attachment.php?attach=13279&lang=en"
+  ]
 }

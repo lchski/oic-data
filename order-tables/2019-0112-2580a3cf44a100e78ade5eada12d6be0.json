@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0112</td><td>2019-02-27</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DOUG THORPE-DORWARD of Coquitlam, British Columbia, to be a full-time member of the Pacific Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of five years, effective April 8, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37431&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0112",
-  "htmlHash": "2580a3cf44a100e78ade5eada12d6be0"
+  "htmlHash": "2580a3cf44a100e78ade5eada12d6be0",
+  "attachments": [
+    "attachment.php?attach=37431&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0173</td><td>2003-02-13</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL PARKS FISHING REGULATIONS by making adjustments to open season dates, catch and possession limits, the schedule of waters closed to fishing and to the restrictions on specific species.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0054  <strong>Publication Date:</strong> 2003-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1257&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0173",
-  "htmlHash": "fdbe165ba9d8891ff6d0cd193065abce"
+  "htmlHash": "fdbe165ba9d8891ff6d0cd193065abce",
+  "attachments": [
+    "attachment.php?attach=1257&lang=en"
+  ]
 }

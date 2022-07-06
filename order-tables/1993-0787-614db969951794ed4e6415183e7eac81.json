@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0787</td><td>1993-04-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a \"DESIGNATION\" duly approved by the FISHER RIVER BAND OF\nINDIANS whereby the band conditionally surrenders some of the land on\nFISHER RIVER INDIAN RESERVE No. 44, in the Province of Manitoba, for a term\nof twenty (20) years, so that it can be leased to third party interests.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0787",
-  "htmlHash": "614db969951794ed4e6415183e7eac81"
+  "htmlHash": "614db969951794ed4e6415183e7eac81",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0150</td><td>2018-02-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Air Transport Security Authority Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TALEEB FAROUK NOORMOHAMED of West Vancouver, British Columbia, to be a director of the board of directors of the Canadian Air Transport Security Authority, to hold office during pleasure for a term of three years, in the place of Peter Cardon Wallis, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35811&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0150",
-  "htmlHash": "d12e09774188810707e7c4d25170180a"
+  "htmlHash": "d12e09774188810707e7c4d25170180a",
+  "attachments": [
+    "attachment.php?attach=35811&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0276</td><td>2019-04-05</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Via Rail Canada  - Alterations to its railway station in Québec.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing VIA RAIL CANADA to undertake ALTERATIONS to interior and exterior features of its railway station located at 450 de la Gare du Palais Street, Québec, Quebec, in order to protect and preserve the heritage character of the station.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37599&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0276",
-  "htmlHash": "dca8be4d9836d717933a2f1bb9be9218"
+  "htmlHash": "dca8be4d9836d717933a2f1bb9be9218",
+  "attachments": [
+    "attachment.php?attach=37599&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0534</td><td>1991-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to lease the lands and\npremises situate at 3440 Richmond Road, in the City of Nepean, Ontario, to\nTUBMAN FUNERAL HOMES, for a term of up to fifteen (15) years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0534",
-  "htmlHash": "3bfdc72d4410e3ad4e4d6671c54405a9"
+  "htmlHash": "3bfdc72d4410e3ad4e4d6671c54405a9",
+  "attachments": []
 }

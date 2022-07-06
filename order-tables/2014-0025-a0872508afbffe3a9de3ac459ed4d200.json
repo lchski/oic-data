@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0025</td><td>2014-01-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Part lV)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADIAN AVIATION REGULATIONS (PART IV) in order to introduce the multi-crew pilot licence - aeroplane in Subpart 401 of the Canadian Aviation Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0015  <strong>Publication Date:</strong> 2014-02-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28803&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0025",
-  "htmlHash": "a0872508afbffe3a9de3ac459ed4d200"
+  "htmlHash": "a0872508afbffe3a9de3ac459ed4d200",
+  "attachments": [
+    "attachment.php?attach=28803&lang=en"
+  ]
 }

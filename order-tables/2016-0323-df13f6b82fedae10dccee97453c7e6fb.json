@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0323</td><td>2016-05-06</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Joseph W. Quinn ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. JOSEPH W. QUINN, a Judge of the Superior Court of Justice in and for the Province of Ontario, effective May 3, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0323",
-  "htmlHash": "df13f6b82fedae10dccee97453c7e6fb"
+  "htmlHash": "df13f6b82fedae10dccee97453c7e6fb",
+  "attachments": [
+    "attachment.php?attach=32000&lang=en"
+  ]
 }

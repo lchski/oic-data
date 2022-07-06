@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0476</td><td>2019-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Referring to the Canadian International trade Tribunal, for Inquiry into and Reporting on, the Matter of the Exclusion of Certain Steel Goods from the Order Imposing a Surtax on the Importation of Certain Steel Goods</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Referring to the CANADIAN INTERNATIONAL TRADE TRIBUNAL, for Inquiry into and Reporting on, the Matter of the Exclusion of Certain Steel Goods from the Order Imposing a Surtax on the Importation of Certain Steel Goods in order to determine whether certain products should be excluded from final safeguard measures.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37797&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0476",
-  "htmlHash": "9aa28860c7e2f81ceecdaa173a172c25"
+  "htmlHash": "9aa28860c7e2f81ceecdaa173a172c25",
+  "attachments": [
+    "attachment.php?attach=37797&lang=en"
+  ]
 }

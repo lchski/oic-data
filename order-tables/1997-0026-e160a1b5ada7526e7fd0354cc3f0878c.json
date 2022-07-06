@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0026</td><td>1997-01-07</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE FISHING AND RECREATIONAL HARBOURS REGULATIONS\nwhich revoke berthage charges and vessel launching charges for vessels\nother than Canadian commercial fishing vessels, and update the list of\nharbours administered by the Department.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0087  <strong>Publication Date:</strong> 1997-01-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0026",
-  "htmlHash": "e160a1b5ada7526e7fd0354cc3f0878c"
+  "htmlHash": "e160a1b5ada7526e7fd0354cc3f0878c",
+  "attachments": []
 }

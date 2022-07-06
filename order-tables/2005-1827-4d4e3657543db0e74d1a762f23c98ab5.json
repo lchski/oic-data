@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1827</td><td>2005-10-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Divorce Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CENTRAL REGISTRY OF DIVORCE PROCEEDINGS REGULATIONS by replacing the current Divorce Proceedings Registration Form with one featuring gender-neutral terminology.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0318  <strong>Publication Date:</strong> 2005-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13304&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1827",
-  "htmlHash": "4d4e3657543db0e74d1a762f23c98ab5"
+  "htmlHash": "4d4e3657543db0e74d1a762f23c98ab5",
+  "attachments": [
+    "attachment.php?attach=13304&lang=en"
+  ]
 }

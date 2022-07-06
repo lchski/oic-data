@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0852</td><td>2013-07-15</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Terminating the Assignment of Certain Ministers</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order terminating the assignment of the Honourable: a) Gordon O’Connor, made by Order in Council P.C. 2008-1715 of October 30, 2008; (b) Keith Ashfield, made by Order in Council P.C. 2010-83 of January 19, 2010; (c) Diane Ablonczy, made by Order in Council P.C. 2011-3 of January 4, 2011; (d) Ted Menzies, made by Order in Council P.C. 2011-4 of January 4, 2011; (e) Steven John Fletcher, made by Order in Council P.C. 2011-574 of May 18, 2011; (f) Tony Clement, made by Order in Council P.C. 2011-575 of May 18, 2011; and (g) Edward Fast, made by Order in Council P.C. 2011-577 of May 18, 2011; (h) Rona Ambrose, made by Order in Council P.C. 2011-587 of May 18, 2011; (i) Gail Shea, made by Order in Council P.C. 2013-162 of February 22, 2013; (j) Steven Blaney, made by Order in Council P.C. 2013-163 of February 22, 2013.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0073  <strong>Publication Date:</strong> 2013-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28108&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0852",
-  "htmlHash": "64570b922aff1059bb8170e6ed3ec11b"
+  "htmlHash": "64570b922aff1059bb8170e6ed3ec11b",
+  "attachments": [
+    "attachment.php?attach=28108&lang=en"
+  ]
 }

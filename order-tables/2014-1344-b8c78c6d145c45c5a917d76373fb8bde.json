@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1344</td><td>2014-11-27</td><td></td><td></td><td>,&nbsp; TBS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Superannuation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KAREN ELLIS of Ottawa, Ontario, as a member of the Public Service Pension Advisory Committee to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30165&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1344",
-  "htmlHash": "b8c78c6d145c45c5a917d76373fb8bde"
+  "htmlHash": "b8c78c6d145c45c5a917d76373fb8bde",
+  "attachments": [
+    "attachment.php?attach=30165&lang=en"
+  ]
 }

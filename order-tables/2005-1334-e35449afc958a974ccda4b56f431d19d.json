@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1334</td><td>2005-07-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable JEAN E. CÔTÉ as ADMINISTRATOR of the Government of ALBERTA from August 6 to August 15, 2005, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11971&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1334",
-  "htmlHash": "e35449afc958a974ccda4b56f431d19d"
+  "htmlHash": "e35449afc958a974ccda4b56f431d19d",
+  "attachments": [
+    "attachment.php?attach=11971&lang=en"
+  ]
 }

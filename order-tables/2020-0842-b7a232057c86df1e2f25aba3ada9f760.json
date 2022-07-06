@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0842</td><td>2020-10-30</td><td>29</td><td>2019</td><td>,&nbsp; ESDC,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2019, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2021 as the Day on Which Division 3 of Part 4 of that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2021 as the day on which Division 3 of Part 4 of the BUDGET IMPLEMENTATION ACT, 2019, NO. 1, chapter 29 of the Statutes of Canada, 2019, COMES INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39848&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0842",
-  "htmlHash": "b7a232057c86df1e2f25aba3ada9f760"
+  "htmlHash": "b7a232057c86df1e2f25aba3ada9f760",
+  "attachments": [
+    "attachment.php?attach=39848&lang=en"
+  ]
 }

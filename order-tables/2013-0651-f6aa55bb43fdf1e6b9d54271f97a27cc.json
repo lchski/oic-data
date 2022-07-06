@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0651</td><td>2013-06-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Pension Continuation Act<br>Royal Canadian Mounted Police Superannuation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Royal Canadian Mounted Police Pension Continuation Regulations and the Royal Canadian Mounted Police Superannuation Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending THE ROYAL CANADIAN MOUNTED POLICE PENSION CONTINUATION REGULATIONS AND THE ROYAL CANADIAN MOUNTED POLICE SUPERANNUATION REGULATIONS in order to resolve concerns of the Standing Joint Committee for the Scrutiny of Regulations by using consistent terminology, ensuring equivalent meaning in the English and French versions, and correcting discrepancies between the Regulations and the enabling authority.  The amendments also make a number of housekeeping changes such as modernization of language, changes to reflect the re-numbering of statutory authorities, and the repeal of outdated provisions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0125  <strong>Publication Date:</strong> 2013-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27904&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0651",
-  "htmlHash": "f6aa55bb43fdf1e6b9d54271f97a27cc"
+  "htmlHash": "f6aa55bb43fdf1e6b9d54271f97a27cc",
+  "attachments": [
+    "attachment.php?attach=27904&lang=en"
+  ]
 }

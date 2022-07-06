@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1070</td><td>2008-06-12</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. ELIZABETH A. ROSCOE to serve as ADMINISTRATOR of the Government of NOVA SCOTIA who shall execute the office and functions of the Lieutenant Governor during the absence, illness or other inability of the latter from June 20 to June 22, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18904&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1070",
-  "htmlHash": "5f561eb8690eb9e6eaf2139e398430b2"
+  "htmlHash": "5f561eb8690eb9e6eaf2139e398430b2",
+  "attachments": [
+    "attachment.php?attach=18904&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0327</td><td>2003-03-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Madam Justice JACQUELINE L. DORGAN as ADMINISTRATOR of the Government of BRITISH COLUMBIA from March 26 to April 22, 2003, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1627&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0327",
-  "htmlHash": "113baaa6a7f3e470bbc7a0eae2328ccd"
+  "htmlHash": "113baaa6a7f3e470bbc7a0eae2328ccd",
+  "attachments": [
+    "attachment.php?attach=1627&lang=en"
+  ]
 }

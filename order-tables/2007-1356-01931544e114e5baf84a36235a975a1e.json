@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1356</td><td>2007-09-18</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MARIHUANA MEDICAL ACCESS REGULATIONS by correcting grammatical and linguistic inconsistencies between the English and French versions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0207  <strong>Publication Date:</strong> 2007-10-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17060&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1356",
-  "htmlHash": "01931544e114e5baf84a36235a975a1e"
+  "htmlHash": "01931544e114e5baf84a36235a975a1e",
+  "attachments": [
+    "attachment.php?attach=17060&lang=en"
+  ]
 }

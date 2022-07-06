@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0524</td><td>2004-04-27</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Dairy Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN GRÉGOIRE of Saint-Alexandre d'Iberville, Quebec, to be a member of the Canadian Dairy Commission to hold office during pleasure, on a part-time basis, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6675&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0524",
-  "htmlHash": "564fd09b51de149f137051cae53d9010"
+  "htmlHash": "564fd09b51de149f137051cae53d9010",
+  "attachments": [
+    "attachment.php?attach=6675&lang=en"
+  ]
 }

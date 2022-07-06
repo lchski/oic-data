@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0141</td><td>2009-01-29</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for LA CHAMBRE DE COMMERCE DE CHICOUTIMI in Quebec (a) to change its name to the CHAMBRE DE COMMERCE DU SAGUENAY; and (b) to change the boundaries of its district to the MRC du Fjord-du -Saguenay and to Ville de Saguenay excluding the territory of the Chambre du commerce et d'industrie de Ville de La Baie.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19987&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0141",
-  "htmlHash": "c6b93df1db17683b20520be1ff02cf6d"
+  "htmlHash": "c6b93df1db17683b20520be1ff02cf6d",
+  "attachments": [
+    "attachment.php?attach=19987&lang=en"
+  ]
 }

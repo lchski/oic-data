@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0727</td><td>1991-04-18</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to certain Regulations (7) made pursuant to the Customs Act,\nwhich Customs will be able to accept, for security purposes, bonds issued\nby a greater number of financial institutions, including credit unions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0274  <strong>Publication Date:</strong> 1991-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0727",
-  "htmlHash": "39a7d5ffdecbd2619a98f0e4bdb0cd8c"
+  "htmlHash": "39a7d5ffdecbd2619a98f0e4bdb0cd8c",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0435</td><td>1996-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PACIFIC FISHERY REGULATIONS, 1993 which increase the fees\nfor commercial salmon fishing licences, based on a formula used for all\ncompetitive fisheries.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0172  <strong>Publication Date:</strong> 1996-04-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0435",
-  "htmlHash": "5eca2f003f9e9643bc01a847f07de0e1"
+  "htmlHash": "5eca2f003f9e9643bc01a847f07de0e1",
+  "attachments": []
 }

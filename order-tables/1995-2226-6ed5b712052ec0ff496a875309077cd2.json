@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2226</td><td>1995-12-28</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the TECHNICAL AMENDMENTS ORDER (CUSTOMS TARIFF), NO. 6 which\nmakes amendments to the following regulations by adjusting the staging\ndates for certain dairy, wheat and barley products, in order to conform\nwith our World Trade Organization commitments, and amending tariff related\nlegislation to correct minor technical errors:\n.\n- Schedules I and II to the Customs Tariff\n- Chemicals and Plastics Duties Reduction or Removal Order, 1988\n- Customs Duties Reduction or Removal Order, 1988\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0019  <strong>Publication Date:</strong> 1996-01-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2226",
-  "htmlHash": "6ed5b712052ec0ff496a875309077cd2"
+  "htmlHash": "6ed5b712052ec0ff496a875309077cd2",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2177</td><td>2002-12-12</td><td></td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax and interest paid or payable by WILLARD THORNE in respect of the 1987 taxation year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0001  <strong>Publication Date:</strong> 2003-01-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=701&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2177",
-  "htmlHash": "215e363e5dcc5a8ba6a0a718606a77c3"
+  "htmlHash": "215e363e5dcc5a8ba6a0a718606a77c3",
+  "attachments": [
+    "attachment.php?attach=701&lang=en"
+  ]
 }

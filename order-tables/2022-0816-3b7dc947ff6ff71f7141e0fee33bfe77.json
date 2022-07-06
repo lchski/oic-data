@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0816</td><td>2022-06-24</td><td></td><td></td><td>,&nbsp; ISI,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2021,  No.1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 4, 2022 as the Day on which Certain Provisions of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 4, 2022 as the day on which subsection 204(1), section 205, subsection 206(2), and section 207 of the BUDGET IMPLEMENTATION ACT, 2021, No. 1 COME INTO FORCE, amending the Canada Small Business Financing Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42370&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0816",
-  "htmlHash": "3b7dc947ff6ff71f7141e0fee33bfe77"
+  "htmlHash": "3b7dc947ff6ff71f7141e0fee33bfe77",
+  "attachments": [
+    "attachment.php?attach=42370&lang=en"
+  ]
 }

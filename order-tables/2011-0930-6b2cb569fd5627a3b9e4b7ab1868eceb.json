@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0930</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">Energy Efficiency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Energy Efficiency Regulations\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ENERGY EFFICIENCY REGULATIONS (amendment 11) in order to contribute to the goal of clean energy and a clean environment by increasing the stringency and/or scope of existing minimum energy performance standards for seven currently regulated products and introducing minimum energy performance standards and associated reporting and compliance requirements for five new products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0182  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24608&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0930",
-  "htmlHash": "6b2cb569fd5627a3b9e4b7ab1868eceb"
+  "htmlHash": "6b2cb569fd5627a3b9e4b7ab1868eceb",
+  "attachments": [
+    "attachment.php?attach=24608&lang=en"
+  ]
 }

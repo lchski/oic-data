@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1074</td><td>2001-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designates HYMAN (Hy) D. BRAITER to act as Vice-Chairperson of the Canada\nEmployment Insurance Commission while the office of Vice-Chairperson is\nvacant, effective June 11, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1074",
-  "htmlHash": "a8648b04f3297426180bcdf97051c06b"
+  "htmlHash": "a8648b04f3297426180bcdf97051c06b",
+  "attachments": []
 }

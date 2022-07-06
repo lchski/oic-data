@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0067</td><td>1998-01-26</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be undertaken of the investment by FOLLETT OF\nCANADA, INC. to acquire control of the Canadian business carried on by\nBishop's University Bookstore at Lennoxville, Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0067",
-  "htmlHash": "60d48a384900270353bccc0b1c40e5d9"
+  "htmlHash": "60d48a384900270353bccc0b1c40e5d9",
+  "attachments": []
 }

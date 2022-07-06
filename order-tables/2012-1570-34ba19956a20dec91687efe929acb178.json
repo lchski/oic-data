@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1570</td><td>2012-11-22</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Comprehensive Integrated Tax Coordination Agreement (Prince Edward Island)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Finance, on behalf of the Government of Canada, enter into the COMPREHENSIVE INTEGRATED TAX COORDINATION AGREEMENT between the Government of Canada and the Government of PRINCE EDWARD ISLAND.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26975&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1570",
-  "htmlHash": "34ba19956a20dec91687efe929acb178"
+  "htmlHash": "34ba19956a20dec91687efe929acb178",
+  "attachments": [
+    "attachment.php?attach=26975&lang=en"
+  ]
 }

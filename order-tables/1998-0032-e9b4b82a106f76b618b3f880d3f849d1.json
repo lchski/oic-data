@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0032</td><td>1998-01-12</td><td>0</td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NORMA MARIE Lo PRESTI, of Toronto, Ontario, as a member of\nthe Review Tribunal for the region of North York to hold office during\npleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0032",
-  "htmlHash": "e9b4b82a106f76b618b3f880d3f849d1"
+  "htmlHash": "e9b4b82a106f76b618b3f880d3f849d1",
+  "attachments": []
 }

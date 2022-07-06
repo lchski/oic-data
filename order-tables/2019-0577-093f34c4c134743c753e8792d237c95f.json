@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0577</td><td>2019-05-21</td><td>1</td><td>2019</td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Wrecked, Abandoned or Hazardous Vessels Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 30, 2019 as the Day on which that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing the day on which AN ACT RESPECTING WRECKS, ABANDONED, DILAPIDATED OR HAZARDOUS VESSELS AND SALVAGE OPERATIONS, COMES INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37901&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0577",
-  "htmlHash": "093f34c4c134743c753e8792d237c95f"
+  "htmlHash": "093f34c4c134743c753e8792d237c95f",
+  "attachments": [
+    "attachment.php?attach=37901&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0216</td><td>2006-04-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Appointment Regulations, 2006-7</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILLIAM J.S. ELLIOTT, Q.C. of Ottawa, Ontario, to the position of Associate Deputy Minister of Public Safety and Emergency Preparedness, to be styled Associate Deputy Minister of Public Safety, to hold office during pleasure, effective May 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14116&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0216",
-  "htmlHash": "8c4a322b9c196f9fc9aefb89f114b7ce"
+  "htmlHash": "8c4a322b9c196f9fc9aefb89f114b7ce",
+  "attachments": [
+    "attachment.php?attach=14116&lang=en"
+  ]
 }

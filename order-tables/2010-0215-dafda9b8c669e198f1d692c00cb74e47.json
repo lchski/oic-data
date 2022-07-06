@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0215</td><td>2010-02-23</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan<br>Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Human Resources and Skills Development Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF HUMAN RESOURCES AND SKILLS DEVELOPMENT REGULATIONS which are required for carrying into effect provisions contained in Bill C-36, which received Royal Assent on May 3, 2007.  They include the charging of interest on administrative penalties, and on debts subject to an administrative penalty under either the CPP or OAS Act, expanding the group of third parties to whom CPP and OAS information can be shared upon written request of the client, and repealing a minor provision associated with the CPP Statement of Contributions, given that the one-year limit in the Act was removed.  There are also other regulatory amendments that are both administrative and housekeeping in nature including proposals made by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0045  <strong>Publication Date:</strong> 2010-03-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22187&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0215",
-  "htmlHash": "dafda9b8c669e198f1d692c00cb74e47"
+  "htmlHash": "dafda9b8c669e198f1d692c00cb74e47",
+  "attachments": [
+    "attachment.php?attach=22187&lang=en"
+  ]
 }

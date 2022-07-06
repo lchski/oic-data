@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0564</td><td>2020-08-14</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Tourism Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARSHA WALDEN of Vancouver, British Columbia, to be President of the Canadian Tourism Commission, to hold office during pleasure for a term of five years, effective August 24, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39533&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0564",
-  "htmlHash": "e11426419642871ec6f97af2ed5f9bf2"
+  "htmlHash": "e11426419642871ec6f97af2ed5f9bf2",
+  "attachments": [
+    "attachment.php?attach=39533&lang=en"
+  ]
 }

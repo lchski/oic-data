@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0744</td><td>2016-08-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Cannabis Exemption (Food and Drugs Act) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANNABIS EXEMPTION (FOOD AND DRUGS ACT) REGULATIONS, which replace the Marihuana Exemption (Food and Drugs Act) Regulations, exempt cannabis produced by licensed producers or designated persons, or marihuana that is imported or exported by licensed producers in accordance with the Access to Cannabis for Medical Purposes Regulations, from application of the Food and Drug Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0231  <strong>Publication Date:</strong> 2016-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32439&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0744",
-  "htmlHash": "cd6b8abe30dd208a3a4a8eec49cb3c82"
+  "htmlHash": "cd6b8abe30dd208a3a4a8eec49cb3c82",
+  "attachments": [
+    "attachment.php?attach=32439&lang=en"
+  ]
 }

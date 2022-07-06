@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0033</td><td>2021-02-05</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 1 to the First Nations Goods and Services Tax Act (Leq'à:mel First Nation)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Schedule 1 to the FIRST NATIONS GOODS AND SERVICES TAX ACT (LEQ'À:MEL FIRST NATION) in order to enable the Leq'à:mel First Nation, with the agreement of the Government of Canda, to implement a FNGST within its reserves that are not shared with any other bands.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0010  <strong>Publication Date:</strong> 2021-02-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40202&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0033",
-  "htmlHash": "0a5919d9854781c98ec6293e76cb0689"
+  "htmlHash": "0a5919d9854781c98ec6293e76cb0689",
+  "attachments": [
+    "attachment.php?attach=40202&lang=en"
+  ]
 }

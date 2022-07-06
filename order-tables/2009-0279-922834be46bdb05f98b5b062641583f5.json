@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0279</td><td>2009-02-12</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to PORT MOODY, ESQUIMALT, SECHELT AND CAMPBELL RIVER, BRITISH COLUMBIA, January 15 - 16, 2009 by GREG RICKFORD, M.P., in order to attend the pre-budget consultations on Natural Resources on behalf of Minister Raitt.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20127&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0279",
-  "htmlHash": "922834be46bdb05f98b5b062641583f5"
+  "htmlHash": "922834be46bdb05f98b5b062641583f5",
+  "attachments": [
+    "attachment.php?attach=20127&lang=en"
+  ]
 }

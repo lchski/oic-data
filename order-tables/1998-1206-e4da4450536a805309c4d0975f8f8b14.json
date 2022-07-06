@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1206</td><td>1998-06-30</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HON. JOSEPH MICHAEL MacDONALD, a Judge of the Supreme\nCourt of Nova Scotia, as Associate Chief Justice of the Supreme Court of\nNova Scotia, and as a Judge ex officio of the Nova Scotia Court of\nAppeal, effective July 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1206",
-  "htmlHash": "e4da4450536a805309c4d0975f8f8b14"
+  "htmlHash": "e4da4450536a805309c4d0975f8f8b14",
+  "attachments": []
 }

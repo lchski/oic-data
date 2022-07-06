@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-2041</td><td>2003-12-12</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the DEPARTMENT OF HUMAN RESOURCES AND SKILLS DEVELOPMENT as a Department and the Deputy Minister as the \"deputy head\" for the purposes of that Act, effective December 12, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0205  <strong>Publication Date:</strong> 2003-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5454&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-2041",
-  "htmlHash": "3c6eef9fb1949473831075aaef031f22"
+  "htmlHash": "3c6eef9fb1949473831075aaef031f22",
+  "attachments": [
+    "attachment.php?attach=5454&lang=en"
+  ]
 }

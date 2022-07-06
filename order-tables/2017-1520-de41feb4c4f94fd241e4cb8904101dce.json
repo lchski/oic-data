@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1520</td><td>2017-12-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Deduction for Provincial Rebate (GST/HST) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DEDUCTION FOR PROVINCIAL REBATE (GST/HST) REGULATIONS in order to amend existing GST/HST regulations made under the Excise Tax Act to formalize and give legal effect to the decision of Newfoundland and Labrador to reinstate the provincial point-of-sale rebate of the Newfoundland and Labrador component of the HST for books.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0274  <strong>Publication Date:</strong> 2017-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35430&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1520",
-  "htmlHash": "de41feb4c4f94fd241e4cb8904101dce"
+  "htmlHash": "de41feb4c4f94fd241e4cb8904101dce",
+  "attachments": [
+    "attachment.php?attach=35430&lang=en"
+  ]
 }

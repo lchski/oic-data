@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0024</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the St. John's Port Corporation to make, from time to time, a\nBy-law Amending the ST. JOHN'S HARBOUR DUES BY-LAW which would increase its\nharbour dues by no more than 4% per annum, between now and January 1, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0024",
-  "htmlHash": "75ed849ed9097ad07b9a4ce9bdd7af9f"
+  "htmlHash": "75ed849ed9097ad07b9a4ce9bdd7af9f",
+  "attachments": []
 }

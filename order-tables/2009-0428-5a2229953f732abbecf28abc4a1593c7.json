@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0428</td><td>2009-03-26</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pest Control Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending THE PEST CONTROL PRODUCT SALES INFORMATION REPORTING REGULATIONS(MISCELLANEOUS PROGRAM) in order to streamline the regulatory process as well as reduce costs. This amendment does not impose new restrictions or burdens on individuals or industry.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0101  <strong>Publication Date:</strong> 2009-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20322&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0428",
-  "htmlHash": "5a2229953f732abbecf28abc4a1593c7"
+  "htmlHash": "5a2229953f732abbecf28abc4a1593c7",
+  "attachments": [
+    "attachment.php?attach=20322&lang=en"
+  ]
 }

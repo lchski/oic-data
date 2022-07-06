@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0933</td><td>2015-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DESD</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JUDE PIERRE SAMSON of Montréal, Quebec, to be a full-time member of the Social Security Tribunal for the Income Security Section, to hold office during good behaviour for a term of two years, effective August 10, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31258&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0933",
-  "htmlHash": "b82ab37c6133f757f8c280c0fe12aad7"
+  "htmlHash": "b82ab37c6133f757f8c280c0fe12aad7",
+  "attachments": [
+    "attachment.php?attach=31258&lang=en"
+  ]
 }

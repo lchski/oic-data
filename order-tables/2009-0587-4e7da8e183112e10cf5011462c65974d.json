@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0587</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MOTOR VEHICLE SAFETY REGULATIONS: this amendment to Schedule IV of the Motor Vehicle Safety Regulations1 clarifies and updates the requirements of four Canadian safety standards regarding occupant protection, namely standards 203 (Driver Impact Protection), 204 (Steering Column Rearward Displacement), 212 (Windshield Mounting) and 219 (Windshield Zone Intrusion). In addition, this amendment further aligns these Canadian requirements with those of the United States.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0121  <strong>Publication Date:</strong> 2009-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0587",
-  "htmlHash": "4e7da8e183112e10cf5011462c65974d"
+  "htmlHash": "4e7da8e183112e10cf5011462c65974d",
+  "attachments": [
+    "attachment.php?attach=20410&lang=en"
+  ]
 }

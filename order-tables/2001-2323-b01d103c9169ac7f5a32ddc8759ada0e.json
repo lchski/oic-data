@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2323</td><td>2001-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the BIGSTONE CREE NATION BAND, of\ncertain land in Alberta, as follows:  (a) some 50 hectares as an addition\nto Wabasca Indian Reserve No. 166A, together with the mines and minerals\nexisting within other parts of that reserve, and (b) another five hectares,\nmines and minerals included, as an addition to its Reserve No. 166.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2323",
-  "htmlHash": "b01d103c9169ac7f5a32ddc8759ada0e"
+  "htmlHash": "b01d103c9169ac7f5a32ddc8759ada0e",
+  "attachments": []
 }

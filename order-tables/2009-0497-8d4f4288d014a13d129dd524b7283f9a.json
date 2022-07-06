@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0497</td><td>2009-04-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HCAN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the GLASS DOORS AND ENCLOSURES REGULATIONS, which update and replace the current Safety Glass Regulations such that the safety standards referenced therein are harmonized with the National Building Code of Canada (NBC).  The regulations define safety glass requirements for laminated glass, tempered glass, and wired glass.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0110  <strong>Publication Date:</strong> 2009-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20357&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0497",
-  "htmlHash": "8d4f4288d014a13d129dd524b7283f9a"
+  "htmlHash": "8d4f4288d014a13d129dd524b7283f9a",
+  "attachments": [
+    "attachment.php?attach=20357&lang=en"
+  ]
 }

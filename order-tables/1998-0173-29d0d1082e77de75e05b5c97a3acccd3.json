@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0173</td><td>1998-02-12</td><td>0</td><td></td><td>,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue amending Part I (PRECIOUS\nMETAL COINS) of the Schedule to the Royal Canadian Mint Act in order to\nmake provision for the minting of a FIFTY DOLLAR SILVER COIN.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0141  <strong>Publication Date:</strong> 1998-03-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0173",
-  "htmlHash": "29d0d1082e77de75e05b5c97a3acccd3"
+  "htmlHash": "29d0d1082e77de75e05b5c97a3acccd3",
+  "attachments": []
 }

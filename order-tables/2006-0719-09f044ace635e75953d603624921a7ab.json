@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0719</td><td>2006-07-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DAVID HAMILTON of Yellowknife, Northwest Territories, to be a temporary member of the National Energy Board for a term ending December 31, 2007, for the purpose of matters related to the Mackenzie Gas Pipeline project, effective October 18, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14660&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0719",
-  "htmlHash": "09f044ace635e75953d603624921a7ab"
+  "htmlHash": "09f044ace635e75953d603624921a7ab",
+  "attachments": [
+    "attachment.php?attach=14660&lang=en"
+  ]
 }

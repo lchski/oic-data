@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1146</td><td>2016-12-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Official Languages Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of appoints GHISLAINE SAIKALEY of Ottawa, Ontario, to be Commissioner of Official Languages for Canada on an interim basis, to hold office for a term of six months or until such time as a Commissioner of Official Languages for Canada is appointed, whichever is earlier, effective December 17, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32838&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1146",
-  "htmlHash": "f5ae80cb3283099fefbdbb1e7e5eb616"
+  "htmlHash": "f5ae80cb3283099fefbdbb1e7e5eb616",
+  "attachments": [
+    "attachment.php?attach=32838&lang=en"
+  ]
 }

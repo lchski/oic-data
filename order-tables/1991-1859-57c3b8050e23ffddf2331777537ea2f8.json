@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1859</td><td>1991-09-26</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to sell a number of its real\nproperty holdings situated in Ottawa, Ontario, all located in those parts\nof town known as the Ottawa Business Park and the Hawthorne Business Park,\nas follows: (a) some 1.4 hectares located at 3145 Conroy Road to the\nREGIONAL MUNICIPALITY OF OTTAWA-CARLETON, and (b) two pieces of land\nlocated at 2464 Russell Road to the CORPORATION OF THE CITY OF OTTAWA,\nwhich together contain an area of some 23.4 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1859",
-  "htmlHash": "57c3b8050e23ffddf2331777537ea2f8"
+  "htmlHash": "57c3b8050e23ffddf2331777537ea2f8",
+  "attachments": []
 }

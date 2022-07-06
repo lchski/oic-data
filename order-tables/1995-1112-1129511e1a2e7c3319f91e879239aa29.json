@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1112</td><td>1995-07-06</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing TOM BUTTERS, of Gilles Bay, British Columbia, and\nKEN KIEMELE, of Whitehorse, Yukon, as permanent members of the\nEnvironmental Impact Screening Committee, for a term of three years, and\nre-appointing JOHN NAGY, of Inuvik, Northwest Territories, as a permanent\nmember thereof, for a further term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1112",
-  "htmlHash": "1129511e1a2e7c3319f91e879239aa29"
+  "htmlHash": "1129511e1a2e7c3319f91e879239aa29",
+  "attachments": []
 }

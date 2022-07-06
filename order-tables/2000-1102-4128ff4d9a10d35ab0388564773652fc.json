@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1102</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2000-511 of April 5, 2000 by changing\nthe final date for completion of the CRTC's report concerning the\nassessment of availability and quality of French-language broadcasting\nservices in the French linguistic minorities communities in Canada from\nDecember 31, 2000 to February 12, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1102",
-  "htmlHash": "4128ff4d9a10d35ab0388564773652fc"
+  "htmlHash": "4128ff4d9a10d35ab0388564773652fc",
+  "attachments": []
 }

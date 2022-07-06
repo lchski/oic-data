@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1072</td><td>2015-07-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFATD</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2015-16</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BRANDON LEE as Consul General of Canada in San Francisco (United States of America); and VINCENT LE PAPE as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Benin, with residence in Ouagadougou, Burkina Faso.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1072",
-  "htmlHash": "e9dd93e11bfd5eca6245b4be0d3cc825"
+  "htmlHash": "e9dd93e11bfd5eca6245b4be0d3cc825",
+  "attachments": [
+    "attachment.php?attach=31448&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0841</td><td>2012-06-19</td><td>1</td><td>2012</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; CIC</td></tr><tr><td>Act</td><td colspan=\"5\">Safe Streets and Communities Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing Various Dates as the Day on which Certain Sections of the Act Come into Force\n\n\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order pursuant to section 208 of the SAFE STREETS AND COMMUNITIES ACT, chapter 1 of the Statutes of Canada 2012 fixing the COMING INTO FORCE dates as (1) the day on which the Order is registered for sections 205 to 207; (2) AUGUST 9, 2012 for sections 10 to 31 and 35 to 38; (3) OCTOBER 23, 2012 for sections 167 to 203; (4) NOVEMBER 6, 2012 for sections 32(1), 33, 39 to 47, 49 and 50; and (5) NOVEMBER 20, 2012 for section 34.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0048  <strong>Publication Date:</strong> 2012-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26256&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0841",
-  "htmlHash": "9ad9fd84011d115be0920d181ad86b44"
+  "htmlHash": "9ad9fd84011d115be0920d181ad86b44",
+  "attachments": [
+    "attachment.php?attach=26256&lang=en"
+  ]
 }

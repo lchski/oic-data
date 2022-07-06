@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0545</td><td>2014-05-09</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ANNE BANCROFT-JONES of Vancouver, British Columbia, as a director of the Vancouver Fraser Port Authority to hold office for a term conmencing on June 23, 2014 and ending on June 17, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0545",
-  "htmlHash": "c8e77ae95456c312a1fb7ac036413cb0"
+  "htmlHash": "c8e77ae95456c312a1fb7ac036413cb0",
+  "attachments": [
+    "attachment.php?attach=29359&lang=en"
+  ]
 }

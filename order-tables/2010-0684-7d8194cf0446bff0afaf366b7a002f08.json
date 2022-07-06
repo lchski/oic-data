@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0684</td><td>2010-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Halfway River Indian Reserve (BC) Settlement Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Indian Affairs and Northern Development to enter into the Provincial Highway 117 settlement agreement with the HALFWAY RIVER INDIAN RESERVE and the Province of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22658&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0684",
-  "htmlHash": "7d8194cf0446bff0afaf366b7a002f08"
+  "htmlHash": "7d8194cf0446bff0afaf366b7a002f08",
+  "attachments": [
+    "attachment.php?attach=22658&lang=en"
+  ]
 }

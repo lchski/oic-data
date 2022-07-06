@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0371</td><td>1991-02-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the AGRICULTURAL PRODUCTS BOARD to purchase, sell, store,\ntransport or process up to 750,000 mink pelts and up to 50,000 fox pelts\nproduced in Canada during 1990, or to enter into contracts with third\nparties in connection therewith.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0371",
-  "htmlHash": "e9f219ed988f19b5e820d275df1cc25f"
+  "htmlHash": "e9f219ed988f19b5e820d275df1cc25f",
+  "attachments": []
 }

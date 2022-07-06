@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1723</td><td>2002-10-03</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to the Hon. JOHN E. VanDUZER, a Judge of the\nSuperior Court of Justice (Ontario), upon his retirement on\nOctober 14, 2002, at the age of 75 years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1723",
-  "htmlHash": "e20eed432476a32ce9d78f3536739741"
+  "htmlHash": "e20eed432476a32ce9d78f3536739741",
+  "attachments": []
 }

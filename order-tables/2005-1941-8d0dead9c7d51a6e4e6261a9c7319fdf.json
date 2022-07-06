@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1941</td><td>2005-11-15</td><td>9</td><td>2001</td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Consumer Agency of  Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 1, 2005 as the day on which section 474 of this Act [BILL C-8], being chapter 9 of the Statutes of Canada, 2001, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0116  <strong>Publication Date:</strong> 2005-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13354&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1941",
-  "htmlHash": "8d0dead9c7d51a6e4e6261a9c7319fdf"
+  "htmlHash": "8d0dead9c7d51a6e4e6261a9c7319fdf",
+  "attachments": [
+    "attachment.php?attach=13354&lang=en"
+  ]
 }

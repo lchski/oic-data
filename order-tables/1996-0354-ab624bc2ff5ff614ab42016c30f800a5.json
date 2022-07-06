@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0354</td><td>1996-03-19</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision NOT TO SET ASIDE NOR REFER BACK several rulings (CRTC 95-904,\n95-905, 95-906 and 95-908) made by the Canadian Radio-television and\nTelecommunications Commission with respect to the issuance of broadcasting\nlicences to a number of DIRECT-TO-HOME PAY-PER-VIEW television programming\nundertakings.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0026  <strong>Publication Date:</strong> 1996-04-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0354",
-  "htmlHash": "ab624bc2ff5ff614ab42016c30f800a5"
+  "htmlHash": "ab624bc2ff5ff614ab42016c30f800a5",
+  "attachments": []
 }

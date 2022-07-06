@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1043</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2003-1942 of December 3, 2003, which corrects an error in the name of the railway company.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7967&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1043",
-  "htmlHash": "66f3c4d0059ba1f958fe0e0f07e775b1"
+  "htmlHash": "66f3c4d0059ba1f958fe0e0f07e775b1",
+  "attachments": [
+    "attachment.php?attach=7967&lang=en"
+  ]
 }

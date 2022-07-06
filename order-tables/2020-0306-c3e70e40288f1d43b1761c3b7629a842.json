@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0306</td><td>2020-05-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Development Investment Corporation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (1) CANADA DEVELOPMENT INVESTMENT CORPORATION to procure the incorporation of Canada Enterprise Emergency Funding Corporation, all the shares of which, on incorporation, would be held by, on behalf of or in trust for the Canada Development Investment Corporation; (2) CANADA ENTERPRISE EMERGENCY FUNDING CORPORATION to acquire shares of any corporation that, on acquisition, would be held by, on behalf of or in trust for Canada Enterprise Emergency Funding Corporation; (3) CANADA ENTERPRISE EMERGENCY FUNDING CORPORATION to sell or otherwise dispose of any of its shares, and (4) CANADA ENTERPRISE EMERGENCY FUNDING CORPORATION to sell or otherwise dispose of all or substantially all of its assets.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39219&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0306",
-  "htmlHash": "c3e70e40288f1d43b1761c3b7629a842"
+  "htmlHash": "c3e70e40288f1d43b1761c3b7629a842",
+  "attachments": [
+    "attachment.php?attach=39219&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1179</td><td>1993-06-03</td><td>0</td><td></td><td>TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an amending agreement with NORTH WATER NAVIGATION\nLTD., wherein Her Majesty undertakes to fulfil any obligation that the\nCANARCTIC SHIPPING COMPANY LIMITED fails to meet with respect to the\nfinancing of the purchase of the M.V. Arctic Vessel.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1179",
-  "htmlHash": "a7a2a9b8aca70c047b3cc9670cf44931"
+  "htmlHash": "a7a2a9b8aca70c047b3cc9670cf44931",
+  "attachments": []
 }

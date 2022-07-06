@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0934</td><td>2009-06-09</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Chairperson of the Indian Residential Schools Truth and Reconciliation Commission as Deputy Head\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">This Order repeals Order in Council P.C. 2008-798 of April 25, 2008 and designates the Chairperson of the Indian Residential Schools Truth and Reconciliation Commission as deputy head in respect of that Commission, effective July 1, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0045  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20838&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0934",
-  "htmlHash": "2bb99fd154ff0f074461d6331fc890bb"
+  "htmlHash": "2bb99fd154ff0f074461d6331fc890bb",
+  "attachments": [
+    "attachment.php?attach=20838&lang=en"
+  ]
 }

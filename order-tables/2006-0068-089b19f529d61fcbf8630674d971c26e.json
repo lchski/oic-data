@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0068</td><td>2006-02-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the TRANSFER OF THE CROWN CORPORATION SECRETARIAT REGULATIONS (ROYAL CANADIAN MINT AND CANADA POST CORPORATION) which provide for the transfer to the OFFICE OF INFRASTRUCTURE OF CANADA of some employees of the Canada Revenue Agency working in the Crown Corporation Secretariat.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0036  <strong>Publication Date:</strong> 2006-02-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13948&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0068",
-  "htmlHash": "089b19f529d61fcbf8630674d971c26e"
+  "htmlHash": "089b19f529d61fcbf8630674d971c26e",
+  "attachments": [
+    "attachment.php?attach=13948&lang=en"
+  ]
 }

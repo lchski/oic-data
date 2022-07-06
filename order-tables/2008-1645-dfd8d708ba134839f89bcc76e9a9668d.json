@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1645</td><td>2008-09-05</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION OF OFFICERS.\n\nTO THE RANK OF ASSISTANT COMMISSIONER (1)\n\n- Chief Superintendent ROBERT WILFRED PAULSON\n\n\nTO THE RANK OF CHIEF SUPERINTENDENT (4)\n\n- Superintendent JOSEPH MICHAEL GAUDET\n- Superintendent DONALD BLAIR MCKNIGHT\n- Superintendent MARIANNE CECELIA RYAN\n- Superintendent STEPHEN EDWARD WHITE\n\n\nTO THE RANK OF SUPERINTENDENT (5)\n\n- Inspector JOSEPH EUGÈNE CLAUDE MARIO BEAULNE\n- Inspector KEVIN LEE HARRISON\n- Inspector JOSEPH LOUIS LAHAIE\n- Inspector JOSEPH DENIS ROMUALD MARION LAMOTHE\n- Inspector TIMOTHY CHARLES MACKIN</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1645",
-  "htmlHash": "dfd8d708ba134839f89bcc76e9a9668d"
+  "htmlHash": "dfd8d708ba134839f89bcc76e9a9668d",
+  "attachments": [
+    "attachment.php?attach=19446&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0689</td><td>2001-04-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA LABOUR STANDARDS REGULATIONS by including,\nfor the purposes of bereavement leave, other close relatives in the\ndefinition of an employee's immediate family, and by replacing the term\n\"common-law spouse\" with \"common-law partner\".\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0149  <strong>Publication Date:</strong> 2001-05-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0689",
-  "htmlHash": "2d842aee0144b9db5b3cdcd3d54b346a"
+  "htmlHash": "2d842aee0144b9db5b3cdcd3d54b346a",
+  "attachments": []
 }

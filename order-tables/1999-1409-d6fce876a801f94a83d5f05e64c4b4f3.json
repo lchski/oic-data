@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1409</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a FURTHER LEAVE OF ABSENCE WITHOUT PAY to the Hon.\nLOUISE ARBOUR, a Judge of the Court of Appeal of Ontario, from\nAugust 1, 1999 to September 14, 1999, in order to allow her to continue to\nserve as Prosecutor of the International Tribunal for the Prosecution of\nPersons Responsible for Serious Violations of International Humanitarian\nLaw Committed in the Territory of the Former Yugoslavia and the\nInternational Tribunal for Rwanda.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1409",
-  "htmlHash": "d6fce876a801f94a83d5f05e64c4b4f3"
+  "htmlHash": "d6fce876a801f94a83d5f05e64c4b4f3",
+  "attachments": []
 }

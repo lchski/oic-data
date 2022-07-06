@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0796</td><td>2016-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Global Fund Replenishment Conference — Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GLOBAL FUND REPLENISHMENT CONFERENCE - PRIVILEGES AND IMMUNITIES ORDER in order to grant limited privileges to foreign heads of state and their deputies, heads of government, heads of international organizations, ministers and their spouses in relation to immigration restrictions and other limited privileges to foreign state representatives not otherwise protected by the statement above or under customary international law during their attendance at the Global Fund Replenishment Conference in Montréal, Québec, from September 15 to 17, 2016.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0244  <strong>Publication Date:</strong> 2016-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32491&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0796",
-  "htmlHash": "926c0f26c2b7bc900c45cd42e3cdf942"
+  "htmlHash": "926c0f26c2b7bc900c45cd42e3cdf942",
+  "attachments": [
+    "attachment.php?attach=32491&lang=en"
+  ]
 }

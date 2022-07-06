@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1398</td><td>2012-10-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">CANADA-ROUMANIA ** Agreement Amendment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take actions necessary to bring into force for Canada the AMENDMENT TO THE AGREEMENT between the Government of Canada and the Government of ROMANIA on CINEMATOGRAPHIC RELATIONS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26842&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1398",
-  "htmlHash": "ac8b03a678276e5550904b00fad0ac14"
+  "htmlHash": "ac8b03a678276e5550904b00fad0ac14",
+  "attachments": [
+    "attachment.php?attach=26842&lang=en"
+  ]
 }

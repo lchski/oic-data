@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1561</td><td>2006-12-14</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the AREA CONTROL LIST which would add BELARUS to the list of countries where it is deemed necessary to control the exportation of goods.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0349  <strong>Publication Date:</strong> 2006-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15532&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1561",
-  "htmlHash": "8ba92e8c01f026b39b47587821917671"
+  "htmlHash": "8ba92e8c01f026b39b47587821917671",
+  "attachments": [
+    "attachment.php?attach=15532&lang=en"
+  ]
 }

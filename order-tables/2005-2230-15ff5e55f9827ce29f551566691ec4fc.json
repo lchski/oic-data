@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2230</td><td>2005-11-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the McINTYRE LANDS INCOME TAX REMISSION ORDER - which provides for the remission of some of the federal income tax paid or payable by eligible residents in the Mount McIntyre area of the City of Whitehorse, Yukon, for the years 1999 to 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0128  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13543&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2230",
-  "htmlHash": "15ff5e55f9827ce29f551566691ec4fc"
+  "htmlHash": "15ff5e55f9827ce29f551566691ec4fc",
+  "attachments": [
+    "attachment.php?attach=13543&lang=en"
+  ]
 }

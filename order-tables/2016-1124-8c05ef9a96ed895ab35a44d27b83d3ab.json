@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1124</td><td>2016-12-09</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Louis Crête ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. LOUIS CRÊTE, a Judge of the Superior Court for the District of Montréal, in the Province of Quebec, effective December 31, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32819&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1124",
-  "htmlHash": "8c05ef9a96ed895ab35a44d27b83d3ab"
+  "htmlHash": "8c05ef9a96ed895ab35a44d27b83d3ab",
+  "attachments": [
+    "attachment.php?attach=32819&lang=en"
+  ]
 }

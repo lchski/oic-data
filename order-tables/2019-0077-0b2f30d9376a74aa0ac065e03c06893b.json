@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0077</td><td>2019-01-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Import Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the IMPORT CONTROL LIST in order to amend item 82 (Steel Goods) of the Import Control List to reflect the current statistical codes used in Canada’s Customs Tariff schedule, which became effective on January 1, 2019.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0037  <strong>Publication Date:</strong> 2019-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0077",
-  "htmlHash": "0b2f30d9376a74aa0ac065e03c06893b"
+  "htmlHash": "0b2f30d9376a74aa0ac065e03c06893b",
+  "attachments": [
+    "attachment.php?attach=37396&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1638</td><td>2009-10-01</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING THE SCHEDULE TO THE FIRST NATIONS FISCAL AND STATISTICAL MANAGEMENT ACT to add 3 First Nations (Beaver Lake Cree Nation (AB); Gitsegukla First Nation (BC); Kahkewistahaw First Nation (SK))  to the Schedule allowing them to participate in the property tax regime established by the FIRST NATIONS FISCAL AND STATISTICAL MANAGEMENT ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0284  <strong>Publication Date:</strong> 2009-10-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21520&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1638",
-  "htmlHash": "418ea0fdaba8ac6f90a0375e5d8c32db"
+  "htmlHash": "418ea0fdaba8ac6f90a0375e5d8c32db",
+  "attachments": [
+    "attachment.php?attach=21520&lang=en"
+  ]
 }

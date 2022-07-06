@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1195</td><td>2011-10-20</td><td></td><td></td><td>,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Sahtu Dene and Metis Land Claim Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAUL LATOUR of Yellowknife, Northwest Territories, as an alternate member of the Sahtu Renewable Resources Board, as nominated by the Minister of the Environment, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24902&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1195",
-  "htmlHash": "35856250da07bdb79a8fdd5a0f6d60bd"
+  "htmlHash": "35856250da07bdb79a8fdd5a0f6d60bd",
+  "attachments": [
+    "attachment.php?attach=24902&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0237</td><td>2017-03-10</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of ONTARIO (1) the Hon. HEATHER J. SMITH from April 2 to 4, 2017, inclusive; and (2) the Hon. PAUL S. ROULEAU from April 5 to 6, 2017, inclusive; and (3) the Hon. KAREN M. WEILER from April 7 to 9, 2017, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34141&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0237",
-  "htmlHash": "5d3710bff3d4b1eb2fbf73a671d26cd8"
+  "htmlHash": "5d3710bff3d4b1eb2fbf73a671d26cd8",
+  "attachments": [
+    "attachment.php?attach=34141&lang=en"
+  ]
 }

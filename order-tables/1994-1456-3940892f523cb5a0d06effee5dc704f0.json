@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1456</td><td>1994-08-30</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order making it known that the Governor in Council declines to rescind or\nvary NATIONAL TRANSPORTATION AGENCY Decisions Nos. 569-R-1993 and\n572-R-1993 and Orders Nos. 1993-R-266 and 1993-R-269 concerning the\nabandonment by Canadian Pacific Limited of rail operations on the\nsegments of the Canadian Atlantic Railway from Sherbrooke, Quebec to the\nCanada-U.S. border, from the U.S.-Canada border to Saint John, N.B.,\nfrom Grand Falls to Cyr Junction, N.B. and from Kentville to Coldbrook,\nN.S.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1456",
-  "htmlHash": "3940892f523cb5a0d06effee5dc704f0"
+  "htmlHash": "3940892f523cb5a0d06effee5dc704f0",
+  "attachments": []
 }

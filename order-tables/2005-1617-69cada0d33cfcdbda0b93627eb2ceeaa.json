@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1617</td><td>2005-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGHC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAULINE GAUTHIER of Fort McMurray, Alberta, to be the Returning Officer for the electoral district of Fort McMurray--Athabasca, as established in the Representation Order proclaimed on August 25, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12351&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1617",
-  "htmlHash": "69cada0d33cfcdbda0b93627eb2ceeaa"
+  "htmlHash": "69cada0d33cfcdbda0b93627eb2ceeaa",
+  "attachments": [
+    "attachment.php?attach=12351&lang=en"
+  ]
 }

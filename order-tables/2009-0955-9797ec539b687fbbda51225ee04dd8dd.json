@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0955</td><td>2009-06-11</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Emergency Management Cooperation - Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister to take the action necessary to bring into force for Canada the Agreement between the Government of Canada and the Government of the United States of America.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20806&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0955",
-  "htmlHash": "9797ec539b687fbbda51225ee04dd8dd"
+  "htmlHash": "9797ec539b687fbbda51225ee04dd8dd",
+  "attachments": [
+    "attachment.php?attach=20806&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1178</td><td>1996-08-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of J. MICHAEL HORGAN, of Ottawa, Ontario, as Deputy Secretary\nto the Cabinet (Intergovernmental Policy), to hold office during\npleasure, effective August 12, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1178",
-  "htmlHash": "c8b6048c29a682784bee2ae0b29d31ed"
+  "htmlHash": "c8b6048c29a682784bee2ae0b29d31ed",
+  "attachments": []
 }

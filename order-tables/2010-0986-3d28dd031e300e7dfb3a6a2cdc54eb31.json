@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0986</td><td>2010-08-04</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Subject</td><td colspan=\"5\">Bourgeois, The Hon. Cindy A., RELOCATION EXPENSES </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing additional periods during which certain RELOCATION EXPENSES may be reimbursed to The Hon. CINDY A. BOURGEOIS, who was required to relocate to the City of Sidney, Nova Scotia, following her appointment as a Judge of the Supreme Court of Nova Scotia on June 19, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22967&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0986",
-  "htmlHash": "3d28dd031e300e7dfb3a6a2cdc54eb31"
+  "htmlHash": "3d28dd031e300e7dfb3a6a2cdc54eb31",
+  "attachments": [
+    "attachment.php?attach=22967&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1449</td><td>2006-11-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; VAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER GOVERNING THE GRANT OF THE MEMORIAL CROSS (CANADIAN FORCES) which authorizes the grant of the Memorial Cross to designated persons as a memento of personal loss and sacrifice in respect of the death of a member or former member resulting from an injury or disease related to military service.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0141  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15430&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1449",
-  "htmlHash": "b92c6e8c77fb99060851f57bbf5a90bf"
+  "htmlHash": "b92c6e8c77fb99060851f57bbf5a90bf",
+  "attachments": [
+    "attachment.php?attach=15430&lang=en"
+  ]
 }

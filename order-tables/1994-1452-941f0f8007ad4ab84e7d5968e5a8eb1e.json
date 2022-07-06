@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1452</td><td>1994-08-30</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following officers of the Royal Canadian Mounted Police:\n.\n   Chief Superintendent Dennis John Alec BROWN    - Assistant Commissioner\n   Inspector Ronald Allan SCOTT                   - Superintendent\n   Inspector Trevor Winston THOMPSETT             - Superintendent\n   Inspector Fernand Jean Pierre WITTY            - Superintendent\n   Inspector Valentino Leandro ZANIN              - Superintendent\n   Superintendent Joseph O'Neil Gaetan POULIOT    - Chief Superintendent\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1452",
-  "htmlHash": "941f0f8007ad4ab84e7d5968e5a8eb1e"
+  "htmlHash": "941f0f8007ad4ab84e7d5968e5a8eb1e",
+  "attachments": []
 }

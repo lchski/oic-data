@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2081</td><td>2002-12-05</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">DNA Identification Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DNA IDENTIFICATION REGULATIONS by specifying the components which must be included in a DNA Data Bank Sample Kit as well as the documents to be provided and the procedures to be followed when transmitting them to the RCMP for inclusion in the National DNA Data Bank.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0451  <strong>Publication Date:</strong> 2002-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=571&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2081",
-  "htmlHash": "35af628f675298ca0504198dd3a0c9ee"
+  "htmlHash": "35af628f675298ca0504198dd3a0c9ee",
+  "attachments": [
+    "attachment.php?attach=571&lang=en"
+  ]
 }

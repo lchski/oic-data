@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0215</td><td>1996-02-20</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the National Energy Board to amend the ONSHORE PIPELINE\nREGULATIONS in order to incorporate, by reference, the most recent\nCanadian Standards Association oil and gas pipeline standards and to\nrepeal certain filing requirements which have now been included in the\nGuidelines for Filing Requirements.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0129  <strong>Publication Date:</strong> 1996-03-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0215",
-  "htmlHash": "61e7d15a3eb14507d34517d529bc8cf3"
+  "htmlHash": "61e7d15a3eb14507d34517d529bc8cf3",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0620</td><td>1994-04-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to acquire an acre of land situated in the Township of Mersea, in\nEssex County, Ontario, from both Edmund L. and Virginia Bochenek and\nJoseph P. and Katherine B. Youngheim, all of the City of Dearborn,\nMichigan, U.S.A., for the purpose of enlarging POINT PELEE NATIONAL PARK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0620",
-  "htmlHash": "16dbfeff49e62b0092db9d377bfed7ec"
+  "htmlHash": "16dbfeff49e62b0092db9d377bfed7ec",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1061</td><td>1991-06-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order determining a minimum of 90 days service with the Mine Awareness and\nClearance Training Program in PAKISTAN, during the period beginning on\nMarch 15, 1989 and ending on July 29, 1990, under the auspices of the\nUnited Nations, to be special service within the meaning of the Special\nService Medal Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0218  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1061",
-  "htmlHash": "fc7263e95c2335bf3a35702700633b87"
+  "htmlHash": "fc7263e95c2335bf3a35702700633b87",
+  "attachments": []
 }

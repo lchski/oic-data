@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1143</td><td>2010-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order to : rescind confidential decision (Case No. 09-06367) dated November 27, 2009, and vary confidential decision (Case No. 09-00585) dated June 29, 2009 Canadian Transportation Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the petition of Skyservice Business Aviation Inc. to 1) rescind confidential decision (Case No. 09-06367), dated November 27, 2009, and 2) vary confidential decision (Case No. 09-00585), dated June 29, 2009, of the CANADIAN TRANSPORTATION AGENCY, and authorize Skyservice Business Aviation Inc.  to operate chartered air ambulance flights on behalf of American Medical Response Canada Inc. without requiring American Medical Response Canada Inc. to obtain a licence for domestic air service.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23124&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1143",
-  "htmlHash": "810915f31532d3e7b4a3cddac4f59547"
+  "htmlHash": "810915f31532d3e7b4a3cddac4f59547",
+  "attachments": [
+    "attachment.php?attach=23124&lang=en"
+  ]
 }

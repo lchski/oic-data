@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1225</td><td>2017-10-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of GUY BUJOLD, full-time member and interim Vice-Chairperson of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, for the period he is acting as Chairperson of the Civilian Review and Complaints Commission, effective September 28, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35133&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1225",
-  "htmlHash": "af0ce1bad76676ebc997802f2c2c0a7e"
+  "htmlHash": "af0ce1bad76676ebc997802f2c2c0a7e",
+  "attachments": [
+    "attachment.php?attach=35133&lang=en"
+  ]
 }

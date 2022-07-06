@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0793</td><td>2012-06-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; ND</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Mutual Logistic support arrangements for defence forces</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of National Defence to transfer, lease or loan logistic supplies to forces of any state that allied or associated with Canada and is a signatory to a mutual logistic support arrangement with Canada, in order to facilitate combined exercises, training, deployments, operations, or other cooperative efforts.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0793",
-  "htmlHash": "ded72aef814b41f04b7c0bf884d71175"
+  "htmlHash": "ded72aef814b41f04b7c0bf884d71175",
+  "attachments": [
+    "attachment.php?attach=26218&lang=en"
+  ]
 }

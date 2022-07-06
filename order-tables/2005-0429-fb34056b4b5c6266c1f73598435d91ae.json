@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0429</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to an existing lease granted by the NATIONAL CAPITAL COMMISSION to the City of Ottawa for the PINEVIEW Golf Course by altering the leased premises.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10041&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0429",
-  "htmlHash": "fb34056b4b5c6266c1f73598435d91ae"
+  "htmlHash": "fb34056b4b5c6266c1f73598435d91ae",
+  "attachments": [
+    "attachment.php?attach=10041&lang=en"
+  ]
 }

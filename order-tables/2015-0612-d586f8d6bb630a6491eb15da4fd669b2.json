@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0612</td><td>2015-05-14</td><td></td><td></td><td>IC,&nbsp; NRC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Research Council Canada - Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the entry by the NATIONAL RESEARCH COUNCIL OF CANADA into a COLLECTIVE AGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA covering all employees in the TRANSLATOR group, for a three year period expiring on June 20, 2014.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30936&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0612",
-  "htmlHash": "d586f8d6bb630a6491eb15da4fd669b2"
+  "htmlHash": "d586f8d6bb630a6491eb15da4fd669b2",
+  "attachments": [
+    "attachment.php?attach=30936&lang=en"
+  ]
 }

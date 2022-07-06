@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0854</td><td>2009-06-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCO,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">None</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of JURICA ČAPKUN of Gatineau, Quebec.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment as Acting Assistant Clerk of the Queen's Privy Council for Canada (Orders in Council), effective June 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38664&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0854",
-  "htmlHash": "4afced38662e458d4cf4c6be4da4be01"
+  "htmlHash": "4afced38662e458d4cf4c6be4da4be01",
+  "attachments": [
+    "attachment.php?attach=38664&lang=en"
+  ]
 }

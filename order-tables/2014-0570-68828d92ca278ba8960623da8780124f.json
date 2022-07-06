@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0570</td><td>2014-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; PPA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Pacific Pilotage Tariff Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PACIFIC PILOTAGE TARIFF REGULATIONS in order to allow the Pacific Pilotage Authority to cover the costs of its pilotage services to clients while continuing to provide a safe and efficient pilotage service.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0115  <strong>Publication Date:</strong> 2014-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29384&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0570",
-  "htmlHash": "68828d92ca278ba8960623da8780124f"
+  "htmlHash": "68828d92ca278ba8960623da8780124f",
+  "attachments": [
+    "attachment.php?attach=29384&lang=en"
+  ]
 }

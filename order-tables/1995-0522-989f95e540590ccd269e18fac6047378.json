@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0522</td><td>1995-03-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1993-1722 which provides for the\ntransfer to the COMMISSIONER of the NORTHWEST TERRITORIES of two more\nparcels of land at BROUGHTON ISLAND AIRPORT that had been reserved for\nuse by the federal government.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0522",
-  "htmlHash": "989f95e540590ccd269e18fac6047378"
+  "htmlHash": "989f95e540590ccd269e18fac6047378",
+  "attachments": []
 }

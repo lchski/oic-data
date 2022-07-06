@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0016</td><td>2001-01-09</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of the GST paid or payable by ISLAND ORTHOTICS LTD. in respect of property or services acquired or imported in 1992 and 1993 in the course of the company's commercial activity of selling zero-rated orthotic supplies.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0013  <strong>Publication Date:</strong> 2001-01-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0016",
-  "htmlHash": "b0c13bb93054e711cb5899fee568eeb1"
+  "htmlHash": "b0c13bb93054e711cb5899fee568eeb1",
+  "attachments": []
 }

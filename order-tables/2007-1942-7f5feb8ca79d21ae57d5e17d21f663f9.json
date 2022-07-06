@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1942</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL RESEARCH COUNCIL OF CANADA to enter into a COLLECTIVE AGREEMENT with the RESEARCH COUNCIL EMPLOYEES' ASSOCIATION covering all employees in the ADMINISTRATIVE SUPPORT (AD) GROUP, for a three-year period expiring on April 30, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17714&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1942",
-  "htmlHash": "7f5feb8ca79d21ae57d5e17d21f663f9"
+  "htmlHash": "7f5feb8ca79d21ae57d5e17d21f663f9",
+  "attachments": [
+    "attachment.php?attach=17714&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2063</td><td>2002-12-05</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or to invest other officials with full powers to sign an AGREEMENT FOR COOPERATION IN THE EXAMINATION OF REFUGEE STATUS CLAIMS FROM NATIONALS OF THIRD COUNTRIES with the United States.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=545&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2063",
-  "htmlHash": "13eb93fe1c2e083b03b6583a4e3b1ee6"
+  "htmlHash": "13eb93fe1c2e083b03b6583a4e3b1ee6",
+  "attachments": [
+    "attachment.php?attach=545&lang=en"
+  ]
 }

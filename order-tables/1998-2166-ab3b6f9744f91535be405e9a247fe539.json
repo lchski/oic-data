@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2166</td><td>1998-12-03</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (1998, No. 11, KLUANE NATIONAL PARK RESERVE, Y.T.) - which\nprohibits (a) staking mineral claims or prospecting for precious minerals\non the lands comprising the Kluane National Park Reserve, following the\nreconstruction of the Haines Road and a re-survey of the reserve's\nboundaries, and (b) repeals the Prohibition Order made by Order in\nCouncil P.C. 1974-2484.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0590  <strong>Publication Date:</strong> 1998-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2166",
-  "htmlHash": "ab3b6f9744f91535be405e9a247fe539"
+  "htmlHash": "ab3b6f9744f91535be405e9a247fe539",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1377</td><td>2012-10-18</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Reservation to the Crown Waiver Order (Yellowknife Bay, N.W.T.)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order waiving the reservation to the Crown with respect to certain territorial lands lying with 30.48 metres (100 feet) of the ordinary high water mark along the shoreline of YELLOWKNIFE BAY in the City of Yellowknife, in the Northwest Territories.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0083  <strong>Publication Date:</strong> 2012-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26820&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1377",
-  "htmlHash": "ca48f5514e22b5f2aaa86b86cf3cce9b"
+  "htmlHash": "ca48f5514e22b5f2aaa86b86cf3cce9b",
+  "attachments": [
+    "attachment.php?attach=26820&lang=en"
+  ]
 }

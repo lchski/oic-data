@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0025</td><td>2013-01-31</td><td></td><td></td><td>EC,&nbsp; PCA-OLD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Description of Wood Buffalo National Park of Canada in Schedule 1 to the Canada National Parks Act </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending THE DESCRIPTION OF WOOD BUFFALO NATIONAL PARK OF CANADA IN SCHEDULE 1 TO THE CANADA NATIONAL PARKS ACT in order to amend the current description of the national park in Schedule 1 to the Act to allow the four parcels of lands to be withdrawn from the national park in order to be added to Salt River First Nation Indian Reserve.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0016  <strong>Publication Date:</strong> 2013-02-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27248&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0025",
-  "htmlHash": "6625dfe26676c645b0c3a041189d1846"
+  "htmlHash": "6625dfe26676c645b0c3a041189d1846",
+  "attachments": [
+    "attachment.php?attach=27248&lang=en"
+  ]
 }

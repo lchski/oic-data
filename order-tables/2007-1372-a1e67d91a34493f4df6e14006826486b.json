@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1372</td><td>2007-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION EXPENSES may be reimbursed to The Hon. C. MICHAEL RYER who was required to relocate to the National Capital Region following his appointment to the Federal Court of Appeal on October 26, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17076&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1372",
-  "htmlHash": "a1e67d91a34493f4df6e14006826486b"
+  "htmlHash": "a1e67d91a34493f4df6e14006826486b",
+  "attachments": [
+    "attachment.php?attach=17076&lang=en"
+  ]
 }

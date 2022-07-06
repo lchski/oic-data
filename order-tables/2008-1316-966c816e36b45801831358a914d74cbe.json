@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1316</td><td>2008-07-04</td><td>36</td><td>2007</td><td>INDUSTRY,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Wage Earner Protection Program Act<br>An Act to amend the Bankruptcy and Insolvency Act, the Companies' Creditors Arrangement Act, the Wage Earner Protection Program Act and chapter 47 of the Statutes of Canada, 2005</td></tr><tr><td>Subject</td><td colspan=\"5\">Order fixing July 7, 2008 as the COMING INTO FORCE date of certain sections of the Act.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JULY 7, 2008 as the date of the COMING INTO FORCE of:\n(a) sections 1, 43, 55, 57, 60 to 62, 67, 88 and 107 of the Wage Earner Protection Program Act [BILL C-55], being chapter 47 of the Statutes of Canada, 2005, and \n(b) subsections 1(5) to (7) of An Act to amend the Bankruptcy and Insolvency Act, the Companies’ Creditors Arrangement Act, the Wage Earner Protection Program Act and chapter 47 of the Statutes of Canada, 2005 [BILL C-12], being chapter 36 of the Statutes of Canada, 2007.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0078  <strong>Publication Date:</strong> 2008-07-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19164&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1316",
-  "htmlHash": "966c816e36b45801831358a914d74cbe"
+  "htmlHash": "966c816e36b45801831358a914d74cbe",
+  "attachments": [
+    "attachment.php?attach=19164&lang=en"
+  ]
 }

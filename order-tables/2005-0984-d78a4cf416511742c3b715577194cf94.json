@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0984</td><td>2005-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PETER PODOVINIKOFF of Surrey, British Columbia, to be a director of the Fraser River Port Authority, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11138&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0984",
-  "htmlHash": "d78a4cf416511742c3b715577194cf94"
+  "htmlHash": "d78a4cf416511742c3b715577194cf94",
+  "attachments": [
+    "attachment.php?attach=11138&lang=en"
+  ]
 }

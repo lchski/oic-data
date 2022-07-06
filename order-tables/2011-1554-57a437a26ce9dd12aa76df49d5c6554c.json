@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1554</td><td>2011-12-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Kitigan Zibi Indian Reserve No. 18, Quebec  *** ADDITIONS *** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order to set apart for the use and benefit of the KITIGAN ZIBI ANISHINABEG BAND as an addition to KITIGAN ZIBI  INDIAN RESERVE No. 18 in QUEBEC, lands consisting of 0.30 hectare (0.74 acre).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25237&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1554",
-  "htmlHash": "57a437a26ce9dd12aa76df49d5c6554c"
+  "htmlHash": "57a437a26ce9dd12aa76df49d5c6554c",
+  "attachments": [
+    "attachment.php?attach=25237&lang=en"
+  ]
 }

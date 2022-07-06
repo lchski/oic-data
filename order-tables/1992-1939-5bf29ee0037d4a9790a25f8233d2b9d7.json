@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1939</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) accepting the transfer from the Province of BRITISH COLUMBIA of\nthe administration, control and benefit of some 0.1331 hectares of land\n(Lot 2011) situate at PORT ALBERNI, and (b) authorizing the Port Alberni\nHarbour Commission to administer and develop those lands.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1939",
-  "htmlHash": "5bf29ee0037d4a9790a25f8233d2b9d7"
+  "htmlHash": "5bf29ee0037d4a9790a25f8233d2b9d7",
+  "attachments": []
 }

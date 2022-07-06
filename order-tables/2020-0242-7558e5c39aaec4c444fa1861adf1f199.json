@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0242</td><td>2020-04-08</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Laurentian Pilotage Tariff Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the LAURENTIAN PILOTAGE TARIFF REGULATIONS in order to increase tariff rates to allow the Authority to continue to provide efficient pilotage services and ensure navigation safety on a self-sustaining financial basis.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0085  <strong>Publication Date:</strong> 2020-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39147&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0242",
-  "htmlHash": "7558e5c39aaec4c444fa1861adf1f199"
+  "htmlHash": "7558e5c39aaec4c444fa1861adf1f199",
+  "attachments": [
+    "attachment.php?attach=39147&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1932</td><td>2005-11-07</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PETER A. TINSLEY of Toronto, Ontario, to be Chairperson of the Military Police Complaints Commission to hold office during good behaviour for a term of four years, effective December 12, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13741&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1932",
-  "htmlHash": "366e5ca0581c1bd683ac5766934f73dd"
+  "htmlHash": "366e5ca0581c1bd683ac5766934f73dd",
+  "attachments": [
+    "attachment.php?attach=13741&lang=en"
+  ]
 }

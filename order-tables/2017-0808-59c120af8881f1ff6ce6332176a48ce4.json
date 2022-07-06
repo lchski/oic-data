@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0808</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of Certificate of Public Convenience and Necessity EC-056 to ITC Lake Erie Connector LLC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE by the National Energy Board of a Certificate of Public Convenience and Necessity EC-056 to ITC LAKE ERIE LLC, authorizing the construction and operation of the Lake Erie Connector Project, and international power line.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34714&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0808",
-  "htmlHash": "59c120af8881f1ff6ce6332176a48ce4"
+  "htmlHash": "59c120af8881f1ff6ce6332176a48ce4",
+  "attachments": [
+    "attachment.php?attach=34714&lang=en"
+  ]
 }

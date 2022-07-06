@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0246</td><td>1992-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ISTC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Steering Group on\nProsperity for a term ending March 31, 1993.\n(Eric A. Geddes, Edmonton, Alberta; William Vaags, Dugald, Manitoba;\nJoseph R. D'Cruz, Toronto, Ontario; Lucille M. Pacey, Vancouver, British\nColumbia; Veronica S. Lacey, North Nork, Ontario; Donald Glendenning,\nCharlottetown, Prince Edward Island; Marilyn Lister, Wakefield, Quebec;\nW.E. (Bill) MacLennan, Halifax, Nova Scotia; Penelope Rowe, St. John's,\nNewfoundland; James A. McCambly, Ottawa, Ontario; André Chagnon,\nVaudreuil, Quebec; David L. Johnston, Montreal, Quebec; Marshall A.\nCohen, Toronto, Ontario; Jack Munro, West Vancouver, British Columbia;\nKenneth C. Thomas, Regina, Saskatchewan; Donald J. Savoie, Ottawa,\nOntario; and Gordon R. Cunningham, Toronto, Ontario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0246",
-  "htmlHash": "5acec08506e03dd3d0d094fc2b6f5fe5"
+  "htmlHash": "5acec08506e03dd3d0d094fc2b6f5fe5",
+  "attachments": []
 }

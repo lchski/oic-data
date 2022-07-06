@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1013</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into separate AGREEMENTS with the provinces and territories respecting THE CANADA-WIDE STANDARDS FOR DIOXINS AND FURANS:  CONICAL WASTE COMBUSTION OF MUNICIPAL WASTE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7875&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1013",
-  "htmlHash": "27b69836fb3de8386d656dba96525242"
+  "htmlHash": "27b69836fb3de8386d656dba96525242",
+  "attachments": [
+    "attachment.php?attach=7875&lang=en"
+  ]
 }

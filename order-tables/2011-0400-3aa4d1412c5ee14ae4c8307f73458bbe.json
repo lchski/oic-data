@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0400</td><td>2011-03-10</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Theft Protection and Rollaway Prevention - Standard 114)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (THEFT PROTECTION AND ROLLAWAY PREVENTION - STANDARD 114) to update the vehicle safety immobilization system requirements by recognizing and encompassing new and emerging technologies as they apply to original equipment manufacturers.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0069  <strong>Publication Date:</strong> 2011-03-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24063&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0400",
-  "htmlHash": "3aa4d1412c5ee14ae4c8307f73458bbe"
+  "htmlHash": "3aa4d1412c5ee14ae4c8307f73458bbe",
+  "attachments": [
+    "attachment.php?attach=24063&lang=en"
+  ]
 }

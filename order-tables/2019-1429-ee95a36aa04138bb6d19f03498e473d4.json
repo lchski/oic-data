@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1429</td><td>2019-12-18</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE J. CHRISTOPHER GRAUER, a Judge of the Supreme Court of British Columbia, to be a Justice of Appeal of the Court of Appeal for British Columbia, and a Judge of the Court of Appeal of Yukon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38745&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1429",
-  "htmlHash": "ee95a36aa04138bb6d19f03498e473d4"
+  "htmlHash": "ee95a36aa04138bb6d19f03498e473d4",
+  "attachments": [
+    "attachment.php?attach=38745&lang=en"
+  ]
 }

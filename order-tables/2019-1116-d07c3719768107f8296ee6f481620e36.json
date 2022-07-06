@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1116</td><td>2019-07-26</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the CIFTA Rules of Origin for Casual Goods Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CIFTA RULES OF ORIGIN FOR CASUAL GOODS REGULATIONS in order to replace the conditions under which goods acquired in Israel by travelers are considered originating and therefore entitled to preferential tariff treatment.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0277  <strong>Publication Date:</strong> 2019-08-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1116",
-  "htmlHash": "d07c3719768107f8296ee6f481620e36"
+  "htmlHash": "d07c3719768107f8296ee6f481620e36",
+  "attachments": [
+    "attachment.php?attach=38446&lang=en"
+  ]
 }

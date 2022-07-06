@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0429</td><td>1997-03-21</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1997-68 of January 7, 1997 which will\nextend the appointment of BARRY SENFT as a commissioner of the Canadian\nGrain Commission until March 31, 2002; and designation of BARRY SENFT, of\nRegina, Saskatchewan, as chief commissioner of the Canadian Grain\nCommission to hold office during pleasure, effective April 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0429",
-  "htmlHash": "cd51224643d55f4ccc68c241dbebae6e"
+  "htmlHash": "cd51224643d55f4ccc68c241dbebae6e",
+  "attachments": []
 }

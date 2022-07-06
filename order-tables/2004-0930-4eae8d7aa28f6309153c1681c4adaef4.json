@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0930</td><td>2004-08-26</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SYLVIA VIOLET SNOW of South River, Newfoundland and Labrador, to be Chairperson of the Boards of Referees for the Newfoundland and Labrador Regional Division, and particularly for the District of St. John's, for a term of three years, effective September 18, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7690&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0930",
-  "htmlHash": "4eae8d7aa28f6309153c1681c4adaef4"
+  "htmlHash": "4eae8d7aa28f6309153c1681c4adaef4",
+  "attachments": [
+    "attachment.php?attach=7690&lang=en"
+  ]
 }

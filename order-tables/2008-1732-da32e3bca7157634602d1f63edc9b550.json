@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1732</td><td>2008-10-30</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring (a) control and supervision over portions of the Department of Canadian Heritage relating to multiculturalism to the DEPARTMENT OF CITIZENSHIP AND IMMIGRATION, and (b) certain powers, duties and functions in relation to multiculturalism to the MINISTER OF CITIZENSHIP AND IMMIGRATION.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0135  <strong>Publication Date:</strong> 2008-11-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19606&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1732",
-  "htmlHash": "da32e3bca7157634602d1f63edc9b550"
+  "htmlHash": "da32e3bca7157634602d1f63edc9b550",
+  "attachments": [
+    "attachment.php?attach=19606&lang=en"
+  ]
 }

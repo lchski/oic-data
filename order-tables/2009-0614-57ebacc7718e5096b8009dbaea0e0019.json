@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0614</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable MARGARET CAMERON to serve as ADMINISTRATOR of the Government of NEWFOUNDLAND AND LABRADOR from May 5 to May 8, 2009, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20437&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0614",
-  "htmlHash": "57ebacc7718e5096b8009dbaea0e0019"
+  "htmlHash": "57ebacc7718e5096b8009dbaea0e0019",
+  "attachments": [
+    "attachment.php?attach=20437&lang=en"
+  ]
 }

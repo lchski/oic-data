@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0045</td><td>1990-01-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the HERITAGE CANALS REGULATIONS which will permit the\nSuperintendent to more effectively control such activities as water-skiing,\nswimming, diving or bathing within the vicinity of a lockgate or dam as\nwell as the take-off and landing of aircraft.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0080  <strong>Publication Date:</strong> 1990-01-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0045",
-  "htmlHash": "c4523f1cf209c2558b7d20c8b5f1c5b7"
+  "htmlHash": "c4523f1cf209c2558b7d20c8b5f1c5b7",
+  "attachments": []
 }

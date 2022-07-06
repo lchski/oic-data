@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0239</td><td>2012-03-01</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">SETTING APART\nUASHAT INDIAN RESERVE No. 27 (QC)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart for the use and benefit of the INNU TAKUAIKAN UASHAT MAK MANI-UTENAM BAND as an addition to UASHAT INDIAN RESERVE No. 27, 98.378 hectares (243.098 acres) of land, excluding mines and minerals, in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25544&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0239",
-  "htmlHash": "a752c204c63c4b0318104b96bd1b738a"
+  "htmlHash": "a752c204c63c4b0318104b96bd1b738a",
+  "attachments": [
+    "attachment.php?attach=25544&lang=en"
+  ]
 }

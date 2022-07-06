@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1121</td><td>2014-10-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; PPA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Pacific Pilotage Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PACIFIC PILOTAGE REGULATIONS in order to (1) meet the Authority’s mandate of providing a safe and efficient marine pilotage service on the Pacific coast of Canada; (2) ensure accurate references to the General Pilotage Regulations in the Regulations; (3) rectify the geo-reference found in section 3 and add the term “licensed pilot” in section 29; and (4) improve the billing system.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0240  <strong>Publication Date:</strong> 2014-11-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29937&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1121",
-  "htmlHash": "6dfc9e3c043a8f2f6837a0afb4b4d20f"
+  "htmlHash": "6dfc9e3c043a8f2f6837a0afb4b4d20f",
+  "attachments": [
+    "attachment.php?attach=29937&lang=en"
+  ]
 }

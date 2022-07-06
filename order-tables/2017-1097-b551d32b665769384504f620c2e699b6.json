@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1097</td><td>2017-08-17</td><td></td><td></td><td></td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Nicholas Brousseau as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Kazakhstan, with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Tajikistan, with residence in Astana; Patricia McCullagh as Ambassador Extraordinary and Plenipotentiary of Canada to the People’s Democratic Republic of Algeria; David McKinnon as High Commissioner for Canada in the Democratic Socialist Republic of Sri Lanka, with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Maldives, with residence in Colombo; Laurie Peters as High Commissioner for Canada in Jamaica;François Rivest as Ambassador Extraordinary and Plenipotentiary of Canada to the Islamic Republic of Afghanistan; and \nDavid Sproule as Ambassador Extraordinary and Plenipotentiary of Canada to Mongolia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35004&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1097",
-  "htmlHash": "b551d32b665769384504f620c2e699b6"
+  "htmlHash": "b551d32b665769384504f620c2e699b6",
+  "attachments": [
+    "attachment.php?attach=35004&lang=en"
+  ]
 }

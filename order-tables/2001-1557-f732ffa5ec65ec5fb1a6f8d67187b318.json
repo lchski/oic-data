@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1557</td><td>2001-08-28</td><td>0</td><td></td><td>CIDA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to VALENCIA undertaken by GÉRARD ASSELIN, M.P.\n(Charlevoix), for the purpose of attending the 36th Annual General Meeting\nof the African Development Bank, from May 27 to May 30, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1557",
-  "htmlHash": "f732ffa5ec65ec5fb1a6f8d67187b318"
+  "htmlHash": "f732ffa5ec65ec5fb1a6f8d67187b318",
+  "attachments": []
 }

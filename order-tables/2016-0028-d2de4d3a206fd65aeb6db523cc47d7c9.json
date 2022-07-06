@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0028</td><td>2016-01-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Contributions to assist Maple syrup producers in Nova Scotia </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to provide for FEDERAL CONTRIBUTIONS OF UP TO $590,000 TO ASSIST MAPLE SYRUP PRODUCERS in NOVA SCOTIA who are faced with the extraordinary costs related to repairing and replacing damaged maple syrup production infrastructure due to record snow load in 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31703&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0028",
-  "htmlHash": "d2de4d3a206fd65aeb6db523cc47d7c9"
+  "htmlHash": "d2de4d3a206fd65aeb6db523cc47d7c9",
+  "attachments": [
+    "attachment.php?attach=31703&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0130</td><td>2004-02-24</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the CHAMBRE DE COMMERCE DU DISTRICT GRANBY-BROMONT, Province of Quebec to change the boundaries of its district.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5879&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0130",
-  "htmlHash": "5a6a47f4303f6902b116ea901762b0bd"
+  "htmlHash": "5a6a47f4303f6902b116ea901762b0bd",
+  "attachments": [
+    "attachment.php?attach=5879&lang=en"
+  ]
 }

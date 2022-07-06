@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0595</td><td>2006-06-23</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the KAMLOOPS people convey to the Crown some 4.96 hectares of land (Mount Paul Industrial Park) within KAMLOOPS INDIAN RESERVE NO. 1 in British Columbia, for leasing purposes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14505&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0595",
-  "htmlHash": "7550cce09db27bc8cdfa8297f4469728"
+  "htmlHash": "7550cce09db27bc8cdfa8297f4469728",
+  "attachments": [
+    "attachment.php?attach=14505&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0549</td><td>2011-04-20</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">C. Raymond Harris ** RESIGNATION AND ANNUITY **\nSuperior Court of Justice </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. C. RAYMOND HARRIS, a Judge of the Superior Court of Justice of Ontario, effective on the date of this Order..</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0549",
-  "htmlHash": "4790451124b309066ddac9a333770f0e"
+  "htmlHash": "4790451124b309066ddac9a333770f0e",
+  "attachments": [
+    "attachment.php?attach=24218&lang=en"
+  ]
 }

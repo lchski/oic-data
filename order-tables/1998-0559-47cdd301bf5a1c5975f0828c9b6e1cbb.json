@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0559</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PACIFIC FISHERY REGULATIONS, 1993 by increasing\nthe fees for specified Commercial Shrimp Fishing Licences, and by creating\ntwo new categories for which a licence will be required, namely\nCategory ZU - EULACHON (Thaleichthys pacificus, a species in the smelt\nfamily), and Category Z2 - Butter, Littleneck, Manila and Razor CLAMS.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0237  <strong>Publication Date:</strong> 1998-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0559",
-  "htmlHash": "47cdd301bf5a1c5975f0828c9b6e1cbb"
+  "htmlHash": "47cdd301bf5a1c5975f0828c9b6e1cbb",
+  "attachments": []
 }

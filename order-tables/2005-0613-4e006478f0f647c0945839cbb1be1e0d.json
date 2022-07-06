@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0613</td><td>2005-04-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amend Order in Council P.C. 2005-537 of April 7, 2005 concerning the appointment of STAN BRACKEN-HORROCKS as a director of the Board of Directors of the Business Development Bank.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10382&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0613",
-  "htmlHash": "4e006478f0f647c0945839cbb1be1e0d"
+  "htmlHash": "4e006478f0f647c0945839cbb1be1e0d",
+  "attachments": [
+    "attachment.php?attach=10382&lang=en"
+  ]
 }

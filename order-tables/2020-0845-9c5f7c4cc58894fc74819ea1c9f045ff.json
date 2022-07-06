@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0845</td><td>2020-10-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Revenue Agency - Public Service Alliance of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ENTRY by the Canada Revenue Agency into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA that covers all employees in the Program Delivery and Administrative Services Group bargaining unit for the period beginning on November 1, 2016 and ending on October 31, 2021 and is on the same terms and conditions as the previous collective agreement, except for the changes set out in the summary of changes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39851&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0845",
-  "htmlHash": "9c5f7c4cc58894fc74819ea1c9f045ff"
+  "htmlHash": "9c5f7c4cc58894fc74819ea1c9f045ff",
+  "attachments": [
+    "attachment.php?attach=39851&lang=en"
+  ]
 }

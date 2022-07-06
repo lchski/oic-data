@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1031</td><td>2012-08-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; IC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bankruptcy and Insolvency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Official Receiver  ** TERMINATION OF APPOINTMENT  ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order TERMINATING THE APPOINTMENT OF AN OFFICIAL RECEIVER who is no longer required to exercise the statutory duties of an Official Receiver.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26466&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1031",
-  "htmlHash": "17fdfe4f72ac4145d3bdbdce9ae78b30"
+  "htmlHash": "17fdfe4f72ac4145d3bdbdce9ae78b30",
+  "attachments": [
+    "attachment.php?attach=26466&lang=en"
+  ]
 }

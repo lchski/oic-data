@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1370</td><td>2007-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION EXPENSES may be reimbursed to The Hon. WAYNE G. DYMOND, a Judge of the Trial Division of the Supreme Court of Newfoundland and Labrador, who was required to relocate to St. John's following his reassignment on January 10, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1370",
-  "htmlHash": "fa9aee5b09bcdafc7ed26a18cdb36fa0"
+  "htmlHash": "fa9aee5b09bcdafc7ed26a18cdb36fa0",
+  "attachments": [
+    "attachment.php?attach=17074&lang=en"
+  ]
 }

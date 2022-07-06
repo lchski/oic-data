@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1250</td><td>2001-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to JOHN ARTHUR UPHAM, of the City of Whitehorse, Yukon, of some four\nhectares of land situate near LEWES LAKE ROAD, in Quad 105 D/07, in the\nYukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1250",
-  "htmlHash": "ba8e15052e2d8c782b446663fd1228e3"
+  "htmlHash": "ba8e15052e2d8c782b446663fd1228e3",
+  "attachments": []
 }

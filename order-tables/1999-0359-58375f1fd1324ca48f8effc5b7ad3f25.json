@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0359</td><td>1999-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment made to the Certificate (No. OC-43) issued to\nNOVAGAS CANADA PIPELINES LTD. by the National Energy Board, which takes\ninto account that NovaGas has acquired and will integrate an existing\npipeline into its project, as set forth in N.E.B. Order AO-1-OC-43.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0359",
-  "htmlHash": "58375f1fd1324ca48f8effc5b7ad3f25"
+  "htmlHash": "58375f1fd1324ca48f8effc5b7ad3f25",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1413</td><td>2006-11-23</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n- Staff Sergeant Robert A. J. BAZIN\n- Staff Sergeant Dario A. Q. CECCHIN\n- Staff Sergeant Ronald C. CHARLEBOIS\n- Staff Sergeant Joseph Robert Yves DESJARDINS\n- Staff Sergeant Francis E. FORAN\n- Staff Sergeant Gerald N. GOURLAY\n- Sergeant  Richard A. HAYE\n- Sergeant Kevin Troy LIGHFOOT\n- Sergeant Brian G. LONDON\n- Sergeant Patricia MacNEIL\n- Sergeant Joseph Yves MARINEAU\n- Sergeant Gerald P. PETERS\n- Sergeant Joseph Lucien Maurice Guy POUDRIER\n- Sergeant Tammy Lynn SMITH</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15384&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1413",
-  "htmlHash": "467860af72e846b09dd6035b06763a20"
+  "htmlHash": "467860af72e846b09dd6035b06763a20",
+  "attachments": [
+    "attachment.php?attach=15384&lang=en"
+  ]
 }

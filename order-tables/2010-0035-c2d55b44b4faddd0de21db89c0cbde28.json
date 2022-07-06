@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0035</td><td>2010-01-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2009-10</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RAMES ABHUKARA to be Honorary Consul of Canada at Antananarivo, Madagascar, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21984&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0035",
-  "htmlHash": "c2d55b44b4faddd0de21db89c0cbde28"
+  "htmlHash": "c2d55b44b4faddd0de21db89c0cbde28",
+  "attachments": [
+    "attachment.php?attach=21984&lang=en"
+  ]
 }

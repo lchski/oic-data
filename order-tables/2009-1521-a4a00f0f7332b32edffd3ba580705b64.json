@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1521</td><td>2009-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PPC</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Commission under the Great Seal of Canada do issue authorizing GARY WILLIAM O'BRIEN, Clerk of the Senate and Clerk of the Parliaments, to administer the Oath of Allegiance and receive the Declaration of Qualification contained in the Fifth Schedule to the Constitution Act, 1867, effective September 16, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21438&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1521",
-  "htmlHash": "a4a00f0f7332b32edffd3ba580705b64"
+  "htmlHash": "a4a00f0f7332b32edffd3ba580705b64",
+  "attachments": [
+    "attachment.php?attach=21438&lang=en"
+  ]
 }

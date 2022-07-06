@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1295</td><td>2014-11-27</td><td>18</td><td>2013</td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Enhancing Royal Canadian Mounted Police Accountability Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing November 28, 2014 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing November 28, 2014, as the day on which sections 2 to 7, subsections 8(1) and (4), sections 9 to 11, 13 and 14, subsection 15(2) and sections 16 to 66 of the ENHANCING ROYAL CANADIAN MOUNTED POLICE ACCOUNTABILITY ACT, chapter 18 of the Statutes of Canada, 2013, COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30115&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1295",
-  "htmlHash": "e7b3a4acc110fa242c4fc6cbf9d5d7d2"
+  "htmlHash": "e7b3a4acc110fa242c4fc6cbf9d5d7d2",
+  "attachments": [
+    "attachment.php?attach=30115&lang=en"
+  ]
 }

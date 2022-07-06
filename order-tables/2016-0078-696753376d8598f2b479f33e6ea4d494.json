@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0078</td><td>2016-02-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Glenda Skene Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits goods and services tax paid or payable by GLENDA SKENE, and all relevant interest and penalties under Part IX of the EXCISE TAX ACT for the period beginning on January 1, 2002 and ending on December 31, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0012  <strong>Publication Date:</strong> 2016-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31753&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0078",
-  "htmlHash": "696753376d8598f2b479f33e6ea4d494"
+  "htmlHash": "696753376d8598f2b479f33e6ea4d494",
+  "attachments": [
+    "attachment.php?attach=31753&lang=en"
+  ]
 }

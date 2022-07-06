@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0826</td><td>2016-09-23</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Mount Currie Indian Reserve No. 10, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 16.32 hectares (40.32 acres) of land for the use and benefit of the Lil'wat Nation as an addition to MOUNT CURRIE INDIAN RESERVE NO. 10, located in the Regional District of Squamish-Lillooet at approximately five kilometres from the Village of Pemberton, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32522&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0826",
-  "htmlHash": "dd9cc28b62131d9e5c43e61520b42fe7"
+  "htmlHash": "dd9cc28b62131d9e5c43e61520b42fe7",
+  "attachments": [
+    "attachment.php?attach=32522&lang=en"
+  ]
 }

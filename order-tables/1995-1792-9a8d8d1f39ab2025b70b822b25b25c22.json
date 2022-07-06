@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1792</td><td>1995-10-24</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting aside the election of an Indian Band Councillor due to a\nviolation of the Indian Act, namely Hazel Moar, who was elected on May 17,\n1995, by the O-CHI-CHAK-KO-SIPI FIRST NATION BAND OF INDIANS in Manitoba.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1792",
-  "htmlHash": "9a8d8d1f39ab2025b70b822b25b25c22"
+  "htmlHash": "9a8d8d1f39ab2025b70b822b25b25c22",
+  "attachments": []
 }

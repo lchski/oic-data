@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1394</td><td>1992-06-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EMR,&nbsp; TB,&nbsp; WED-OLD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA/BRITISH COLUMBIA AGREEMENT ON MINERAL\nDEVELOPMENT (1992-1995) which provides for the implementation of cost-\nshared programs which are designed to foster comprehensive development in\nthe mineral resources sector of the provincial economy.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1394",
-  "htmlHash": "3c3a6c13ce7fd28cc4f30f061e870173"
+  "htmlHash": "3c3a6c13ce7fd28cc4f30f061e870173",
+  "attachments": []
 }

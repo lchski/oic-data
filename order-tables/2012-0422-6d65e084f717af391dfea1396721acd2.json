@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0422</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Nicolet (Quebec) ** DISSOLUTION **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the DISSOLUTION OF THE CHAMBRE DE COMMERCE DE NICOLET in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25846&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0422",
-  "htmlHash": "6d65e084f717af391dfea1396721acd2"
+  "htmlHash": "6d65e084f717af391dfea1396721acd2",
+  "attachments": [
+    "attachment.php?attach=25846&lang=en"
+  ]
 }

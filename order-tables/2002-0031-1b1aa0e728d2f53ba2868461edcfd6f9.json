@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0031</td><td>2002-01-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of the Minister of STATE, DEPUTY PRIME MINISTER AND MINISTER\nOF INFRASTRUCTURE AND CROWN CORPORATIONS as the Minister for the\npurposes of the CANADA MORTGAGE AND HOUSING CORPORATION ACT and as the\nappropriate Minister for the purposes of the Financial Administration\nAct.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0035  <strong>Publication Date:</strong> 2002-01-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0031",
-  "htmlHash": "1b1aa0e728d2f53ba2868461edcfd6f9"
+  "htmlHash": "1b1aa0e728d2f53ba2868461edcfd6f9",
+  "attachments": []
 }

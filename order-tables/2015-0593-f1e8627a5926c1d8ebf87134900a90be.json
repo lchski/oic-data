@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0593</td><td>2015-05-14</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Muskoday Indian Reserve No. 99, Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 27.106 hectares (66.98 acres) of surface land for the use and benefit of Muskoday First Nation as an addition to MUSKODAY INDIAN RESERVE NO. 99, located in the Rural Municipality of Birch Hills No. 460 and approximately 5 kilometres from the Town of Birch Hills, Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30917&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0593",
-  "htmlHash": "f1e8627a5926c1d8ebf87134900a90be"
+  "htmlHash": "f1e8627a5926c1d8ebf87134900a90be",
+  "attachments": [
+    "attachment.php?attach=30917&lang=en"
+  ]
 }

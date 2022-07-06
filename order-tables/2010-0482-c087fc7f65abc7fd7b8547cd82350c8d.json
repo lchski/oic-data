@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0482</td><td>2010-04-22</td><td></td><td></td><td>AAFC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Agricultural Income Stabilization Inventory Transition Initiative Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order granting remission of debts, both accrued and pending, that are associated with INTEREST ON OVERPAYMENTS to participants under the Canadian Agricultural Income Stabilization INVENTORY TRANSITION INITIATIVE. This will harmonize the treatment of that interest with the treatment of similar interest under the related Canadian Agricultural Income Stabilization Program, in which the affected producers also participate. The total amount to be remitted is estimated at $147,461.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0035  <strong>Publication Date:</strong> 2010-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22457&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0482",
-  "htmlHash": "c087fc7f65abc7fd7b8547cd82350c8d"
+  "htmlHash": "c087fc7f65abc7fd7b8547cd82350c8d",
+  "attachments": [
+    "attachment.php?attach=22457&lang=en"
+  ]
 }

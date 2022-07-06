@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1858</td><td>2009-11-05</td><td></td><td></td><td>,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Lands Company Limited  ** Corporate Plan ** 2009-10 to 2013-14 amendment\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the amendment to the CORPORATE PLAN of CANADA LANDS COMPANY LIMITED for the 2009-10 to 2013-14 planning period, to authorize its subsidiary, Canada Lands Company CLC Limited (CLC), to proceed with the implementation of the municipally approved redevelopment plan for the former postal site at 1500 Ottawa Street, Montréal (Quebec).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21748&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1858",
-  "htmlHash": "c669d554af72f4334883f80e3e9975e9"
+  "htmlHash": "c669d554af72f4334883f80e3e9975e9",
+  "attachments": [
+    "attachment.php?attach=21748&lang=en"
+  ]
 }

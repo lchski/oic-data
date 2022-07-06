@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0940</td><td>2016-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Band Election Regulations</td></tr><tr><td>Subject</td><td colspan=\"5\">Mosquito, Grizzly Bear's Head, Lean Man First Nation Election ** Set aside Election**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting aside the election held on April 20, 2015, of Danny Starchief tot he position of chief of the MOSQUITO, GRIZZLY BEAR'S HEAD, LEAN MAN FIRST NATION, in Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32636&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0940",
-  "htmlHash": "39e2a414a1f3bb9b82a1270b50e9c639"
+  "htmlHash": "39e2a414a1f3bb9b82a1270b50e9c639",
+  "attachments": [
+    "attachment.php?attach=32636&lang=en"
+  ]
 }

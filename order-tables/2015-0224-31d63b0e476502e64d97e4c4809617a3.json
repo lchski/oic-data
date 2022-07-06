@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0224</td><td>2015-02-24</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Kingdom of Belgium Protocol amending the Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital ** CONVENTION **\n\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the Protocol amending the CONVENTION between the Government of Canada and the Government of the KINGDOM OF BELGIUM for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital, signed at Ottawa on May 23, 2002.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0224",
-  "htmlHash": "31d63b0e476502e64d97e4c4809617a3"
+  "htmlHash": "31d63b0e476502e64d97e4c4809617a3",
+  "attachments": [
+    "attachment.php?attach=30549&lang=en"
+  ]
 }

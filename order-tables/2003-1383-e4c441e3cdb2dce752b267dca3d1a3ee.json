@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1383</td><td>2003-09-18</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a LEAVE OF ABSENCE to ten Judges, from September 1, 2004 to March 31, 2005, in order to allow them to participate in the NATIONAL JUDICIAL STUDY LEAVE FELLOWSHIP PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3860&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1383",
-  "htmlHash": "e4c441e3cdb2dce752b267dca3d1a3ee"
+  "htmlHash": "e4c441e3cdb2dce752b267dca3d1a3ee",
+  "attachments": [
+    "attachment.php?attach=3860&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1320</td><td>1994-08-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to that strip of\nland adjoining Lots 1 and 2, Block 21, in the Village of TESLIN, Yukon,\nlying within 30.48 metres (100') of the Ordinary High Water Mark of\nTESLIN LAKE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0104  <strong>Publication Date:</strong> 1994-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1320",
-  "htmlHash": "313a5b0afe8fada3bf253c3f8081ac23"
+  "htmlHash": "313a5b0afe8fada3bf253c3f8081ac23",
+  "attachments": []
 }

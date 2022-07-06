@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0036</td><td>2001-01-09</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL RESEARCH COUNCIL OF CANADA to enter into a\nCOLLECTIVE AGREEMENTS with The Professional Institute of the Public Service\nof Canada which are applicable to all employees in the Information\nServices Group and in the Translator Group, with an expiry date of\nJune 20, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0036",
-  "htmlHash": "6c758416ce1fac473979ae3cef63f2f7"
+  "htmlHash": "6c758416ce1fac473979ae3cef63f2f7",
+  "attachments": []
 }

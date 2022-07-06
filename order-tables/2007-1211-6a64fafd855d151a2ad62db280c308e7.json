@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1211</td><td>2007-08-01</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to renew the COLLECTIVE AGREEMENT between the OFFICE OF THE AUDITOR GENERAL and the PUBLIC SERVICE ALLIANCE OF CANADA covering employees in the Audit Professional Group, for a term of one year ending on March 31, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16847&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1211",
-  "htmlHash": "6a64fafd855d151a2ad62db280c308e7"
+  "htmlHash": "6a64fafd855d151a2ad62db280c308e7",
+  "attachments": [
+    "attachment.php?attach=16847&lang=en"
+  ]
 }

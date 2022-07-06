@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1483</td><td>2010-11-25</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Part II of Schedule I to the Hazardous Products Act  (Consumer Products Containing Lead - Contact with Mouth)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending PART II OF SCHEDULE I TO THE HAZARDOUS PRODUCTS ACT (CONSUMER PRODUCTS CONTAINING LEAD - CONTACT WITH MOUTH) to add consumer products containing lead as defined in the Consumer Products Containing Lead (Contact with Mouth) Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0272  <strong>Publication Date:</strong> 2010-12-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23428&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1483",
-  "htmlHash": "0fb51fcc8ae7f9825aed385b1962c688"
+  "htmlHash": "0fb51fcc8ae7f9825aed385b1962c688",
+  "attachments": [
+    "attachment.php?attach=23428&lang=en"
+  ]
 }

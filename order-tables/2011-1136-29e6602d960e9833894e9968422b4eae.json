@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1136</td><td>2011-09-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Board of directors -- Canada Development Investment Corporation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADA DEVELOPMENT INVESTMENT CORPORATION to apply for articles of amendment to reduce the maximum number of directors on its board to eleven.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24812&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1136",
-  "htmlHash": "29e6602d960e9833894e9968422b4eae"
+  "htmlHash": "29e6602d960e9833894e9968422b4eae",
+  "attachments": [
+    "attachment.php?attach=24812&lang=en"
+  ]
 }

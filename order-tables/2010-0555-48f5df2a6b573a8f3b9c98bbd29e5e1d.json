@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0555</td><td>2010-04-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Borrowing Limit - Northwest Territories   </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) revoking Order in Council P.C. 2007-0378 of March 22, 2007; (b) temporarily increasing the borrowing limit for territorial, municipal or local purposes of the Commissioner of the Northwest Territories, on behalf of the territorial government, to $575 million during the period beginning as of the date of the making of the Order and ending March 31, 2015, and a return to the existing $500 million limit on or after April 1, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22531&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0555",
-  "htmlHash": "48f5df2a6b573a8f3b9c98bbd29e5e1d"
+  "htmlHash": "48f5df2a6b573a8f3b9c98bbd29e5e1d",
+  "attachments": [
+    "attachment.php?attach=22531&lang=en"
+  ]
 }

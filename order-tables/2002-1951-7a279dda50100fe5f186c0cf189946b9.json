@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1951</td><td>2002-11-21</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS RESPECTING APPLICATIONS FOR MINISTERIAL REVIEW - MISCARRIAGES OF JUSTICE which describe the conviction review process, adopt a standard application form and outline the content of the Minister's annual report to Parliament.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0416  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1951",
-  "htmlHash": "7a279dda50100fe5f186c0cf189946b9"
+  "htmlHash": "7a279dda50100fe5f186c0cf189946b9",
+  "attachments": [
+    "attachment.php?attach=218&lang=en"
+  ]
 }

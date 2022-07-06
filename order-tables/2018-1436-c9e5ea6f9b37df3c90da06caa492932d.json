@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1436</td><td>2018-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Justice Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF JUSTICE REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) eliminate any ambiguity that presently exists with the English version of section 5 of the Firearms Classification Regulations and ensure consistency between the English and French versions;  (2) amend the French version of subsection 19(2) of the Bodily Substances Regulations to conform to the language used in subsections 5(2) and 12(2), thereby ensuring consistency in language used in the French version as well as with the English version; and, (3) amend the French version of section 4 and paragraph 6(b) of the Child Pornography Regulations to ensure consistency between the English and French versions, amend section 6 to remove redundant language, and amend paragraph 6(c) to clarify a requirement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0254  <strong>Publication Date:</strong> 2018-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1436",
-  "htmlHash": "c9e5ea6f9b37df3c90da06caa492932d"
+  "htmlHash": "c9e5ea6f9b37df3c90da06caa492932d",
+  "attachments": [
+    "attachment.php?attach=37114&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0072</td><td>2004-02-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating (a) the Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar as a department for the purposes of the Financial Administration Act, and (b) the Prime Minister as the appropriate Minister with respect to that Commission.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0013  <strong>Publication Date:</strong> 2004-02-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5783&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0072",
-  "htmlHash": "47b1a4b8dafc346ef5f970e52efc1cac"
+  "htmlHash": "47b1a4b8dafc346ef5f970e52efc1cac",
+  "attachments": [
+    "attachment.php?attach=5783&lang=en"
+  ]
 }

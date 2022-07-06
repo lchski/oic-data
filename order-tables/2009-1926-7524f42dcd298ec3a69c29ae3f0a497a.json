@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1926</td><td>2009-11-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Convention for the Conservation of Salmon in the North Atlantic Ocean</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SERGE TREMBLAY of Saint-Nicolas, Quebec, for a term of two years, as a Canadian representative to the Council of the North Atlantic Salmon Conservation Organization; to the North American Commission of the North Atlantic Salmon Conservation Organization; and to the West Greenland Commission of the North Atlantic Salmon Conservation Organization.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21814&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1926",
-  "htmlHash": "7524f42dcd298ec3a69c29ae3f0a497a"
+  "htmlHash": "7524f42dcd298ec3a69c29ae3f0a497a",
+  "attachments": [
+    "attachment.php?attach=21814&lang=en"
+  ]
 }

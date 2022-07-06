@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0734</td><td>1995-05-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN BOVEY, of Victoria, British Columbia, as a member of\nthe Historic Sites and Monuments Board of Canada, as a representative of\nthe Province of British Columbia, to hold office during pleasure for a\nperiod of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0734",
-  "htmlHash": "604fa2b8a1912bd807393dc4c2d34a2f"
+  "htmlHash": "604fa2b8a1912bd807393dc4c2d34a2f",
+  "attachments": []
 }

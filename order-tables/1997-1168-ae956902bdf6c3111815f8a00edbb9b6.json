@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1168</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the AGREEMENT ON SOCIAL SECURITY BETWEEN CANADA AND\nTHE REPUBLIC OF KOREA signed at Seoul on January 10, 1997 shall enter into\nforce according with Article 22 thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1168",
-  "htmlHash": "ae956902bdf6c3111815f8a00edbb9b6"
+  "htmlHash": "ae956902bdf6c3111815f8a00edbb9b6",
+  "attachments": []
 }

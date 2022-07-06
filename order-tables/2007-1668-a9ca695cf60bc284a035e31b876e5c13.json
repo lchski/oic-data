@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1668</td><td>2007-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FIRST NATIONS TAXATION ENFORCEMENT REGULATIONS which prescribe how the enforcement measures in a property tax law shall be carried out and what conditions they are subject to.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0243  <strong>Publication Date:</strong> 2007-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17452&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1668",
-  "htmlHash": "a9ca695cf60bc284a035e31b876e5c13"
+  "htmlHash": "a9ca695cf60bc284a035e31b876e5c13",
+  "attachments": [
+    "attachment.php?attach=17452&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1574</td><td>1994-09-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of the\nadministration and control of the entire interest of Lots 8, 9 and 10,\nGroup 813 (116.15 hectares) and an unsurveyed parcel of land\n(2,209 hectares), situated in the vicinity of HAY RIVER/ENTERPRISE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1574",
-  "htmlHash": "11599e35f75f01866cc61ce32b9c917c"
+  "htmlHash": "11599e35f75f01866cc61ce32b9c917c",
+  "attachments": []
 }

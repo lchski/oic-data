@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0551</td><td>2007-04-19</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Plant Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INTRODUCED FOREST PEST COMPENSATION REGULATIONS by extending the period during which compensation will be paid to those whose trees have been destroyed until March 31, 2008, and by extending the deadline for submitting an application for compensation to December 31, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0072  <strong>Publication Date:</strong> 2007-05-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0551",
-  "htmlHash": "be7d5c53198712f1f06f8d5b5dda5e5c"
+  "htmlHash": "be7d5c53198712f1f06f8d5b5dda5e5c",
+  "attachments": [
+    "attachment.php?attach=16218&lang=en"
+  ]
 }

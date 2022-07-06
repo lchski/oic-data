@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0134</td><td>2005-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Citizenship and Immigration to enter into transfer payment agreement and contracts for the acquisition of services with respect to the TORONTO WATERFRONT REVITALIZATION INITIATIVE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0011  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9404&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0134",
-  "htmlHash": "b0df30069ec4c4e27dd3084cc183fbe7"
+  "htmlHash": "b0df30069ec4c4e27dd3084cc183fbe7",
+  "attachments": [
+    "attachment.php?attach=9404&lang=en"
+  ]
 }

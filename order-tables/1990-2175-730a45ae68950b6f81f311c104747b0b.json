@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2175</td><td>1990-10-04</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing the AUDITOR GENERAL to make the reports of the audit of\nthe accounts and transactions of the NATIONAL MUSEUMS OF CANADA, for the\n1989-1990 fiscal year and the period beginning on April 1, 1990 and\nending on June 30, 1990, to the Minister of Communications.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2175",
-  "htmlHash": "730a45ae68950b6f81f311c104747b0b"
+  "htmlHash": "730a45ae68950b6f81f311c104747b0b",
+  "attachments": []
 }

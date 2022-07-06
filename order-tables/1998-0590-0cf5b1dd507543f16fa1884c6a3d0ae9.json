@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0590</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to Mrs. POLLY ANN SOBIER, widow of the Hon. Ronald\nEdward Sobier, a Judge of the Tax Court of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0590",
-  "htmlHash": "0cf5b1dd507543f16fa1884c6a3d0ae9"
+  "htmlHash": "0cf5b1dd507543f16fa1884c6a3d0ae9",
+  "attachments": []
 }

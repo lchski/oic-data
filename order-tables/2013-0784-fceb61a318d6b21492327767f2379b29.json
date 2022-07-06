@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0784</td><td>2013-06-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE SUNNI STROMBERG-STEIN to be Justice of Appeal of the Court of Appeal for British Columbia and a judge of the Court of Appeal of Yukon during his tenure of office as Justice of Appeal of the Court of Appeal for British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28038&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0784",
-  "htmlHash": "fceb61a318d6b21492327767f2379b29"
+  "htmlHash": "fceb61a318d6b21492327767f2379b29",
+  "attachments": [
+    "attachment.php?attach=28038&lang=en"
+  ]
 }

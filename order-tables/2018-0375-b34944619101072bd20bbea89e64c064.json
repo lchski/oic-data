@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0375</td><td>2018-03-26</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Museum of Science and Technology ** Corporate Plan **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Corporate Plan of the NATIONAL MUSEUM OF SCIENCE AND TECHNOLOGY for the 2017-18 to 2021-22 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36024&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0375",
-  "htmlHash": "b34944619101072bd20bbea89e64c064"
+  "htmlHash": "b34944619101072bd20bbea89e64c064",
+  "attachments": [
+    "attachment.php?attach=36024&lang=en"
+  ]
 }

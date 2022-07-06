@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0919</td><td>1990-05-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to carry out a real estate transaction with the Corporation of\nthe City of Welland, in the Province of Ontario, which provides for the\ntransfer to the City of eight parcels of surplus vacant land containing a\ntotal area of some 5.349 hectares, in exchange for the title to one parcel\nof vacant land containing an area of some 0.679 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0919",
-  "htmlHash": "b59ad911f64efef48c85acdb3fbac979"
+  "htmlHash": "b59ad911f64efef48c85acdb3fbac979",
+  "attachments": []
 }

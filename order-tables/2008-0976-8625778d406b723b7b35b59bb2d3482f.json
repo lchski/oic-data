@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0976</td><td>2008-05-29</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the federal real property known as VICTORIA SQUARE MEMORIAL PARK in Toronto, Ontario, is no longer necessary for the defence of Canada and may be disposed of.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18820&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0976",
-  "htmlHash": "8625778d406b723b7b35b59bb2d3482f"
+  "htmlHash": "8625778d406b723b7b35b59bb2d3482f",
+  "attachments": [
+    "attachment.php?attach=18820&lang=en"
+  ]
 }

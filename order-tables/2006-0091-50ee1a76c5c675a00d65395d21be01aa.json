@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0091</td><td>2006-02-06</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of Order in Council P.C. 2005-1688 which had directed RIDLEY TERMINALS INC. to refrain from signing long-term contracts for the handling of any commodities at or through its terminal facilities situated on Ridley Island in British Columbia, without the prior written consent of the Minister of Transport.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13971&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0091",
-  "htmlHash": "50ee1a76c5c675a00d65395d21be01aa"
+  "htmlHash": "50ee1a76c5c675a00d65395d21be01aa",
+  "attachments": [
+    "attachment.php?attach=13971&lang=en"
+  ]
 }

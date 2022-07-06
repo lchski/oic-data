@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0488</td><td>2003-04-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TRINA McQUEEN of Toronto, Ontario, to be a member of Telefilm Canada to hold office during pleasure for a term ending December 18, 2006, in the place of Jeanine C. Beaubien, who has resigned.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1954&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0488",
-  "htmlHash": "6cdaa15da7e634fa80c0915cf38fc28a"
+  "htmlHash": "6cdaa15da7e634fa80c0915cf38fc28a",
+  "attachments": [
+    "attachment.php?attach=1954&lang=en"
+  ]
 }

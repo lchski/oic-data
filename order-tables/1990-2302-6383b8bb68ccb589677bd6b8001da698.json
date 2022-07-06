@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2302</td><td>1990-10-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of QUEBEC, of the transfer of the use of two\nbeach and deep water lots (19,131.7 m²) of the official cadastre of the\nTownship of Fox in Gaspé, Quebec, for use as a site for the maintenance\nof a wharf and breakwater.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2302",
-  "htmlHash": "6383b8bb68ccb589677bd6b8001da698"
+  "htmlHash": "6383b8bb68ccb589677bd6b8001da698",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0222</td><td>1996-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to GENE GREFF and ANNE GREFF, of Mile 213 of the Klondike Highway,\nYukon, of some six hectares of land situated near Lot 1009 in Quad 115 P/7,\nnear Stewart Crossing, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0222",
-  "htmlHash": "6bd1c04aef1801956902dd457890b095"
+  "htmlHash": "6bd1c04aef1801956902dd457890b095",
+  "attachments": []
 }

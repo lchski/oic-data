@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0604</td><td>2018-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FISHERIES ACT in order to (1) recognize the creation of the Labrador Inuit Settlement Area within the Fisheries Act’s associated regulatory framework; (2) allow the provisions of the Labrador Inuit Land Claim Agreement to be implemented until such time as the Nunatsiavut Government is in a position to introduce its own fishing regulations; and (3) provide the necessary regulatory tools to allow Department of Fisheries and Oceans to manage the fisheries in the Labrador Inuit Settlement Area and fulfill its mandate for conservation, public health or public safety.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0110  <strong>Publication Date:</strong> 2018-06-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36270&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0604",
-  "htmlHash": "eb40231619720c315850e256615ec623"
+  "htmlHash": "eb40231619720c315850e256615ec623",
+  "attachments": [
+    "attachment.php?attach=36270&lang=en"
+  ]
 }

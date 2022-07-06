@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1363</td><td>2018-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ARTHUR GOBEIL of Saguenay, Quebec, to be a director of the Saguenay Port Authority, to hold office for a term of two years, effective December 11, 2018, in the place of Martial Bouchard, whose term expired on March 6, 2016, but continues in office until December 10, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37036&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1363",
-  "htmlHash": "f281aca0647a513e3e6c31cf412c9268"
+  "htmlHash": "f281aca0647a513e3e6c31cf412c9268",
+  "attachments": [
+    "attachment.php?attach=37036&lang=en"
+  ]
 }

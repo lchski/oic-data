@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0175</td><td>2020-03-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; HC,&nbsp; PHAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to COVID-19 in Canada Order (Mandatory Isolation)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO COVID-19 IN CANADA ORDER (MANDATORY ISOLATION) in order to manage all persons who enter Canada whether by air, land rail and sea, to minimize the travel related risk of introduction and spread of COVID-19 coronavirus disease by requiring all persons who enter Canada to isolate for 14 days from the day upon which they entered Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38989&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0175",
-  "htmlHash": "285d9332c8f0a5a3a06d38b3b558bf18"
+  "htmlHash": "285d9332c8f0a5a3a06d38b3b558bf18",
+  "attachments": [
+    "attachment.php?attach=38989&lang=en"
+  ]
 }

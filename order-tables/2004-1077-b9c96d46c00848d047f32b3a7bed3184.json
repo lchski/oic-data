@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1077</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Direction Amending the DIRECTION APPLYING THE AUDITOR GENERAL ACT SUSTAINABLE DEVELOPMENT STRATEGY REQUIREMENTS TO CERTAIN DEPARTMENTS by adding the Public Health Agency of Canada to the schedule of federal government departments and agencies subject to the requirements of subsections 24(1) and (2) of the Auditor General Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0128  <strong>Publication Date:</strong> 2004-10-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7899&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1077",
-  "htmlHash": "b9c96d46c00848d047f32b3a7bed3184"
+  "htmlHash": "b9c96d46c00848d047f32b3a7bed3184",
+  "attachments": [
+    "attachment.php?attach=7899&lang=en"
+  ]
 }

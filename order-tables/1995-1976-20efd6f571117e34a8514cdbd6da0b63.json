@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1976</td><td>1995-11-23</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the CANADIAN WHEAT BOARD REGULATIONS which increase the\ninitial \"sums certain\" to be paid by the Board for the base grades of\nWHEAT and AMBER DURUM WHEAT delivered in the 1995-96 crop year, effective\nNovember 28, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0554  <strong>Publication Date:</strong> 1995-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1976",
-  "htmlHash": "20efd6f571117e34a8514cdbd6da0b63"
+  "htmlHash": "20efd6f571117e34a8514cdbd6da0b63",
+  "attachments": []
 }

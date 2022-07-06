@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1462</td><td>2003-09-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of EDMUND E. TOBIN of the Town of Mount Royal, Quebec, to be a Vice-Chairperson of the Canada Industrial Relations Board, to hold office during good behaviour for a term of two years; order that EDMUND E. TOBIN be deemed to be employed in the Public Service for the purposes of the Public Service Superannuation Act; and determine that EDMUND E. TOBIN shall reside within 210 kilometres of the National Capital Region; effective January 1, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4067&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1462",
-  "htmlHash": "3ecfc44dfd670e15324d4786aa30a3e8"
+  "htmlHash": "3ecfc44dfd670e15324d4786aa30a3e8",
+  "attachments": [
+    "attachment.php?attach=4067&lang=en"
+  ]
 }

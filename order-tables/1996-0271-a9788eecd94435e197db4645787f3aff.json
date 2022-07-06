@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0271</td><td>1996-02-26</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of Prince Edward\nIsland and The Prince Edward Island Tobacco Marketing Board which provides\nfor the making of contributions to tobacco producers who undertake to phase\nout the production of tobacco (TOBACCO TRANSITION ADJUSTMENT INITIATIVE).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0271",
-  "htmlHash": "a9788eecd94435e197db4645787f3aff"
+  "htmlHash": "a9788eecd94435e197db4645787f3aff",
+  "attachments": []
 }

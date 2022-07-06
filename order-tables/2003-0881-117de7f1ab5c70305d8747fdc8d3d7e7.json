@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0881</td><td>2003-06-05</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING THE EXPORT PERMITS REGULATIONS (MISCELLANEOUS PROGRAM) which correct minor grammatical errors in the text, clarify some provisions and itemize the kind of additional information that the Minister can require a permit applicant to provide.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0216  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2003-0881",
-  "htmlHash": "117de7f1ab5c70305d8747fdc8d3d7e7"
+  "htmlHash": "117de7f1ab5c70305d8747fdc8d3d7e7",
+  "attachments": []
 }

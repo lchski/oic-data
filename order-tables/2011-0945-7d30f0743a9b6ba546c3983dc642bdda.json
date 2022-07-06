@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0945</td><td>2011-09-22</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Protocol Amending the Agreement for the  Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital  - Barbados ** RATIFICATION **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the Protocol amending the Agreement between Canada and BARBADOS for the AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL, done at Bridgetown on 22 January 1980.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24623&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0945",
-  "htmlHash": "7d30f0743a9b6ba546c3983dc642bdda"
+  "htmlHash": "7d30f0743a9b6ba546c3983dc642bdda",
+  "attachments": [
+    "attachment.php?attach=24623&lang=en"
+  ]
 }

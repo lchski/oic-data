@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1295</td><td>2018-10-22</td><td></td><td></td><td>DND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Military Airworthiness Investigation Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MILITARY AIRWORTHINESS INVESTIGATION REGULATIONS in order to put in place regulations that will enable the carrying out, under the Aeronautics Act, of thorough investigations by the Airworthiness Investigative Authority (AIA) and AIA designated investigators of military-civilian occurrences and strictly military aviation occurrences.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0217  <strong>Publication Date:</strong> 2018-10-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36978&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1295",
-  "htmlHash": "7b981dc23ec49a46cbebed253f90ef3e"
+  "htmlHash": "7b981dc23ec49a46cbebed253f90ef3e",
+  "attachments": [
+    "attachment.php?attach=36978&lang=en"
+  ]
 }

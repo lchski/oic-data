@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0219</td><td>2016-04-12</td><td></td><td></td><td>INFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the AUDITOR GENERAL OF CANADA as the auditor of The Jacques-Cartier and Champlain Bridges Inc. for the fiscal years ending March 31, 2016 and March 31, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31895&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0219",
-  "htmlHash": "3bf67507ecdab9f5b5a06ebbcfa5a80a"
+  "htmlHash": "3bf67507ecdab9f5b5a06ebbcfa5a80a",
+  "attachments": [
+    "attachment.php?attach=31895&lang=en"
+  ]
 }

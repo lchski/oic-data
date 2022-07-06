@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2035</td><td>1995-11-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Industry of KEVIN G.\nLYNCH, Deputy Minister of Industry, as a director of the Board of\nDirectors of the Business Development Bank of Canada for a term of three\nyears, in the place of Harry Swain; and appointment of ALAN B. NYMARK,\nAssistant Deputy Minister, Industry and Science Policy, Department of\nIndustry, to act as director of the Board of Directors of the Business\nDevelopment Bank of Canada for Kevin G. Lynch, in the place of\nCharles Stedman.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2035",
-  "htmlHash": "d6ddb82a4e8b201b45cbf5d6522f902c"
+  "htmlHash": "d6ddb82a4e8b201b45cbf5d6522f902c",
+  "attachments": []
 }

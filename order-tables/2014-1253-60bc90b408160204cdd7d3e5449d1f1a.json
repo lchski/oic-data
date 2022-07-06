@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1253</td><td>2014-11-06</td><td></td><td></td><td>,&nbsp; TC,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Quebec Port Authority Borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Supplementary Letters Patent provisions amending Article 9 of the Letters Patent issued to the Quebec Port Authority to increase from $46,000,000 to $110,000,000 the aggregate limit on the borrowings which the Quebec Port Authority is empowered to make on the credit of the Port Authority for port purposes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30067&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1253",
-  "htmlHash": "60bc90b408160204cdd7d3e5449d1f1a"
+  "htmlHash": "60bc90b408160204cdd7d3e5449d1f1a",
+  "attachments": [
+    "attachment.php?attach=30067&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0667</td><td>1992-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Léo Bernier, Kenora-Rainy River, Ontario, as a member of\nthe Federal Northern Ontario Development Board (FedNor) and designation\nof the said Léo Bernier as Chairperson thereof, for a term ending\nMarch 31, 1995; and reappointment and appointment of certain persons as\nmembers of the Federal Northern Ontario Development Board (FedNor) for a\nterm ending March 31, 1995.\n(Shawn Emery, Thunder Bay-Nipigon, Ontario; Reginald Pope,\nTimmins-Chapleau, Ontario; Pat Birnie, Timiskaming, Ontario; John C.\nFollis, Nipissing, Ontario; John Cochrane, Sudbury, Ontario; Gaston\nDemers, Nickle Belt, Ontario; Leah E. Welk, Parry Sound-Muskoka, Ontario;\nMark P. Duggan, Kenora-Rainy River, Ontario; Fred Stille, Thunder Bay-\nAtikokan, Ontario; Jean-Guy Dubien, Cochrane-Superior, Ontario;\nJames Reed, Algoma, Ontario; and Augusto (Gus) Palombi, Sault Ste. Marie,\nOntario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0667",
-  "htmlHash": "e2c614e7fb76596ee6d9c861bcfb8d00"
+  "htmlHash": "e2c614e7fb76596ee6d9c861bcfb8d00",
+  "attachments": []
 }

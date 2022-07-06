@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1107</td><td>2012-09-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Contribution agreement with the Transportation Association of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to enter into a CONTRIBUTION AGREEMENT WITH THE TRANSPORTATION ASSOCIATION OF CANADA to support transportation-related projects and activities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26543&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1107",
-  "htmlHash": "073760a29328c391d8aa3890d55bb1dc"
+  "htmlHash": "073760a29328c391d8aa3890d55bb1dc",
+  "attachments": [
+    "attachment.php?attach=26543&lang=en"
+  ]
 }

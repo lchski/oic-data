@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1894</td><td>2007-12-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the salary of SHARI A. STEIN, a full-time member of the Immigration and Refugee Boad, for the period she is acting as Assistant Deputy Chairperson (Central Region).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17663&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1894",
-  "htmlHash": "ae16025cc29f5bbdabd65bab9c45f1cd"
+  "htmlHash": "ae16025cc29f5bbdabd65bab9c45f1cd",
+  "attachments": [
+    "attachment.php?attach=17663&lang=en"
+  ]
 }

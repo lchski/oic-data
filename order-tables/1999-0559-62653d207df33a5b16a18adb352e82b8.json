@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0559</td><td>1999-03-25</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the INTERIM COMMISSIONER OF NUNAVUT to enter into an\nASSIGNMENT, ASSUMPTION AND RELEASE AGREEMENT with the Minister of Public\nWorks and Government Services and the Government of the Northwest\nTerritories respecting the military aircraft refuelling operations at\nRankin Inlet, Pelly Bay and Broughton Island.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0559",
-  "htmlHash": "62653d207df33a5b16a18adb352e82b8"
+  "htmlHash": "62653d207df33a5b16a18adb352e82b8",
+  "attachments": []
 }

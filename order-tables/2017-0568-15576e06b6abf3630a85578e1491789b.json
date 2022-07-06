@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0568</td><td>2017-06-02</td><td></td><td></td><td>ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Environmental Violations Administrative Monetary Penalties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Environmental Violations Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ENVIRONMENTAL VIOLATIONS ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to implement an administrative monetary penalties regime applicable to specified legislation administered by the Department, in order to give enforcement officers a new tool to help achieve higher levels of compliance with federal environmental legislation and, as a result, improve environmental protection in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0109  <strong>Publication Date:</strong> 2017-06-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34486&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0568",
-  "htmlHash": "15576e06b6abf3630a85578e1491789b"
+  "htmlHash": "15576e06b6abf3630a85578e1491789b",
+  "attachments": [
+    "attachment.php?attach=34486&lang=en"
+  ]
 }

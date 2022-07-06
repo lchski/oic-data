@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0669</td><td>2020-09-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">National Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of IAIN STEWART of Ottawa, Ontario, as President of the National Research Council of Canada, to hold office during pleasure for a term of five years, effective September 28, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39651&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0669",
-  "htmlHash": "f4702a0cd3763a7b69bd41a5f41f1d9a"
+  "htmlHash": "f4702a0cd3763a7b69bd41a5f41f1d9a",
+  "attachments": [
+    "attachment.php?attach=39651&lang=en"
+  ]
 }

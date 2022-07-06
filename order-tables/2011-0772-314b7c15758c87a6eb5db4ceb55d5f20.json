@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0772</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator (AB)\nJean E. Côté\nJune 23-30, 2011</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable JEAN E. CÔTÉ to serve as ADMINISTRATOR of the Government of ALBERTA for the period of June 23 - 30, 2011, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24346&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0772",
-  "htmlHash": "314b7c15758c87a6eb5db4ceb55d5f20"
+  "htmlHash": "314b7c15758c87a6eb5db4ceb55d5f20",
+  "attachments": [
+    "attachment.php?attach=24346&lang=en"
+  ]
 }

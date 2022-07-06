@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1901</td><td>2002-11-07</td><td>0</td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1324 - FLORASULAM) by setting maximum limits on residues (MRLs) of this herbicide resulting from its use on barley, oats and wheat.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0408  <strong>Publication Date:</strong> 2002-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=320&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1901",
-  "htmlHash": "15023873b069be812bc7817c2994e453"
+  "htmlHash": "15023873b069be812bc7817c2994e453",
+  "attachments": [
+    "attachment.php?attach=320&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0803</td><td>2019-06-16</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Issuing a Direction to the CRTC on Implementing the Canadian Telecommunications Policy Objectives to Promote Competition, Affordability, Consumer Interests and Innovation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ISSUING A DIRECTION TO THE CRTC ON IMPLEMENTING THE CANADIAN TELECOMMUNICATIONS POLICY OBJECTIVES TO PROMOTE COMPETITION, AFFORDABILITY, CONSUMER INTERESTS AND INNOVATION in order that the Canadian Radio-television and Telecommunications Commission considers promotion of competition, affordability, consumers interests and innovation in its decision.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0227  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38130&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0803",
-  "htmlHash": "2abb03c343b7e62e32ff0a14b343a441"
+  "htmlHash": "2abb03c343b7e62e32ff0a14b343a441",
+  "attachments": [
+    "attachment.php?attach=38130&lang=en"
+  ]
 }

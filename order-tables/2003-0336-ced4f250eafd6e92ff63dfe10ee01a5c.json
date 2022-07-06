@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0336</td><td>2003-03-20</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the NISICHAWAYASIHK CREE NATION BAND surrenders, for a term of 30 years, some 1.723 hectares of land within Nelson House Indian Reserve No. 170 in Manitoba, for the purpose of leasing them for residential, educational, institutional, commercial or industrial purposes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1609&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0336",
-  "htmlHash": "ced4f250eafd6e92ff63dfe10ee01a5c"
+  "htmlHash": "ced4f250eafd6e92ff63dfe10ee01a5c",
+  "attachments": [
+    "attachment.php?attach=1609&lang=en"
+  ]
 }

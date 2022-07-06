@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1736</td><td>2017-12-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) Medal Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing Canadians to accept and wear the United Nations Multidimensional Integrated Stabilization Mission in MALI (MINUSMA) Medal in recognition of honourable service; and (b) directing that the Medal follow the United Nations Mission in the REPUBLIC OF SOUTH SUDAN (UNMISS) Medal in the order of precedence in the Canadian Honours System.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0003  <strong>Publication Date:</strong> 2018-01-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35646&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1736",
-  "htmlHash": "774f6e6bf4f3751e59d5dbb507825043"
+  "htmlHash": "774f6e6bf4f3751e59d5dbb507825043",
+  "attachments": [
+    "attachment.php?attach=35646&lang=en"
+  ]
 }

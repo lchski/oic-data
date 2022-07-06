@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1287</td><td>2015-12-11</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Margaret L. Davison ** Annuity ** The Hon. John M. Davison **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to MARGARET L. DAVISON, survivor of the Hon. John M. Davison, a Judge of the Supreme Court of Nova Scotia, effective September 2, 2015.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31650&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1287",
-  "htmlHash": "bc3afb40b8dd06e9e68cbddb1c5484fe"
+  "htmlHash": "bc3afb40b8dd06e9e68cbddb1c5484fe",
+  "attachments": [
+    "attachment.php?attach=31650&lang=en"
+  ]
 }

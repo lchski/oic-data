@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0437</td><td>2019-05-07</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DEREK RICHARD VERMETTE of Calgary, Alberta, to be a full-time member of the Immigration and Refugee Board (Calgary Regional Office), to hold office during good behaviour for a term of three years, effective June 10, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37758&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0437",
-  "htmlHash": "c97647a2f7fd1129f9a4c37009f231f8"
+  "htmlHash": "c97647a2f7fd1129f9a4c37009f231f8",
+  "attachments": [
+    "attachment.php?attach=37758&lang=en"
+  ]
 }

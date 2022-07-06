@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0217</td><td>2018-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Film Board - Syndicat général du cinéma et de la télévision, Local 4835 (CUPE) ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Approving of the ENTRY BY THE NATIONAL FILM BOARD, INTO A COLLECTIVE AGREEMENT with the SYNDICAT GÉNÉRAL DU CINÉMA ET DE LA TÉLÉVISION, LOCAL 4835 (CUPE), in respect of its employees in the Technical category for a term of four (4) years; it comes into force on July 1, 2014 and expires on June 30, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35879&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0217",
-  "htmlHash": "30a63141b8ef9650c86447950dd6fe0d"
+  "htmlHash": "30a63141b8ef9650c86447950dd6fe0d",
+  "attachments": [
+    "attachment.php?attach=35879&lang=en"
+  ]
 }

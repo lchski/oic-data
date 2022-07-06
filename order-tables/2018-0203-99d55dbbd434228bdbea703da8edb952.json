@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0203</td><td>2018-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Relieving Special Duty on Certain Tobacco Products and the Regulations Respecting Prescribed Brands of Manufactured Tobacco and Prescribed Cigarettes</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS RELIEVING SPECIAL DUTY ON CERTAIN TOBACCO PRODUCTS AND THE REGULATIONS RESPECTING PRESCRIBED BRANDS OF MANUFACTURED TOBACCO AND PRESCRIBED CIGARETTES in order to add two brand names to the Schedule 1 of both the Prescribed Brands Regulations and the Special Duty Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0041  <strong>Publication Date:</strong> 2018-03-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35865&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0203",
-  "htmlHash": "99d55dbbd434228bdbea703da8edb952"
+  "htmlHash": "99d55dbbd434228bdbea703da8edb952",
+  "attachments": [
+    "attachment.php?attach=35865&lang=en"
+  ]
 }

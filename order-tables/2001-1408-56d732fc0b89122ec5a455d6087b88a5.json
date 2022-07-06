@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1408</td><td>2001-08-01</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to HOUSTON, TEXAS, undertaken by The Hon.\nDANIEL PHILIP HAYS, Senator, from March 31 to April 3, 2001, for the\npurpose of attending the North American Gas Strategies Conference.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1408",
-  "htmlHash": "56d732fc0b89122ec5a455d6087b88a5"
+  "htmlHash": "56d732fc0b89122ec5a455d6087b88a5",
+  "attachments": []
 }

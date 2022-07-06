@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0409</td><td>2020-05-30</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Cooperation in the Exploration and Use of Outer Spaces for Peaceful Purposes ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the EXCHANGE OF NOTES CONSTITUTING AN AGREEMENT TO RENEW THE FRAMEWORK AGREEMENT between the Government of Canada and the GOVERNMENT OF THE UNITED STATES OF AMERICA for COOPERATION IN THE EXPLORATION AND USE OF OUTER SPACE FOR PEACEFUL PURPOSES, done at Washington, on September 9, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39333&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0409",
-  "htmlHash": "7357d2edac8a32a1503ab4fd82234391"
+  "htmlHash": "7357d2edac8a32a1503ab4fd82234391",
+  "attachments": [
+    "attachment.php?attach=39333&lang=en"
+  ]
 }

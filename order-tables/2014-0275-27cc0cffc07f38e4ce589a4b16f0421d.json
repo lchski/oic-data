@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0275</td><td>2014-03-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of the HONOURABLE JEAN-PIERRE PLOUFFE of Gatineau, Quebec, Commissioner of the Communications Security Establishment, effective April 2, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29053&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0275",
-  "htmlHash": "27cc0cffc07f38e4ce589a4b16f0421d"
+  "htmlHash": "27cc0cffc07f38e4ce589a4b16f0421d",
+  "attachments": [
+    "attachment.php?attach=29053&lang=en"
+  ]
 }

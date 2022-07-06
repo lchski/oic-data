@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0347</td><td>1992-02-27</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period of two years during which the\ninterest charges on a short-term demand loan will be reimbursed to the\nHon. PAUL-MARCEL BELLAVANCE, a Puisne Judge of the Superior Court for the\nDistricts of Saint-François and Bedford, Quebec, who was required to\nrelocate, in connection with his judicial duties.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0347",
-  "htmlHash": "662114d3f91f6312f339d5a964e2f191"
+  "htmlHash": "662114d3f91f6312f339d5a964e2f191",
+  "attachments": []
 }

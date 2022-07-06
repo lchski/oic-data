@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0090</td><td>2004-02-16</td><td>21</td><td>2003</td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Criminal Code (criminal liability of organizations)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MARCH 31, 2004, as the day on which this Act, being Chapter 21 of the Statutes of Canada, 2003 [Bill C-45], COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0022  <strong>Publication Date:</strong> 2004-02-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5793&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0090",
-  "htmlHash": "0b5ef2035491264c8768baca32509a0a"
+  "htmlHash": "0b5ef2035491264c8768baca32509a0a",
+  "attachments": [
+    "attachment.php?attach=5793&lang=en"
+  ]
 }

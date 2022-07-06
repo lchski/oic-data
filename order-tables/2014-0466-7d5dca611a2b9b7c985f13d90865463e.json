@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0466</td><td>2014-04-24</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Establishing a List of Entities</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS ESTABLISHING A LIST OF ENTITIES in order to add the International Relief Fund for the Afflicted and Needy - Canada to the list of terrorist entities and its aliases.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0097  <strong>Publication Date:</strong> 2014-05-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29278&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0466",
-  "htmlHash": "7d5dca611a2b9b7c985f13d90865463e"
+  "htmlHash": "7d5dca611a2b9b7c985f13d90865463e",
+  "attachments": [
+    "attachment.php?attach=29278&lang=en"
+  ]
 }

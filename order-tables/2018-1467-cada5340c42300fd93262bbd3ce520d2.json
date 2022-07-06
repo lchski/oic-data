@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1467</td><td>2018-11-29</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Social Sciences and Humanities Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the election by the Social Sciences and Humanities Research Council of MARTHA CRAGO, C.M., of Westmount, Quebec, a member of the Social Sciences and Humanities Research Council, to be Vice-President of the Social Sciences and Humanities Research Council for a term ending on February 6, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37146&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1467",
-  "htmlHash": "cada5340c42300fd93262bbd3ce520d2"
+  "htmlHash": "cada5340c42300fd93262bbd3ce520d2",
+  "attachments": [
+    "attachment.php?attach=37146&lang=en"
+  ]
 }

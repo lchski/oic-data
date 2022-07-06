@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1111</td><td>1996-07-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 16 - which authorizes\nthe federal government to provide financial assistance in respect of the\nsevere rainstorm and heavy flooding experienced by NEWFOUNDLAND between\nFebruary 17 and 19, 1996, in areas along the West Coast and other isolated\nareas.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1111",
-  "htmlHash": "d0c4f1f4935e98ca6b6920229ce33b06"
+  "htmlHash": "d0c4f1f4935e98ca6b6920229ce33b06",
+  "attachments": []
 }

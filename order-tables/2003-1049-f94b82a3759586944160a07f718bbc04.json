@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1049</td><td>2003-07-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to UPHOLD Broadcasting Decision CRTC 2003-115 made by the Canadian Radio-television and Telecommunications Commission on April 17th 2003, respecting the application by 3885275 Canada Inc. for a broadcasting licence for an ethnic FM radio station in Toronto.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0139  <strong>Publication Date:</strong> 2003-07-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3171&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1049",
-  "htmlHash": "f94b82a3759586944160a07f718bbc04"
+  "htmlHash": "f94b82a3759586944160a07f718bbc04",
+  "attachments": [
+    "attachment.php?attach=3171&lang=en"
+  ]
 }

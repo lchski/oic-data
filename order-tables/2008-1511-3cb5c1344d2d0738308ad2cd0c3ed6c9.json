@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1511</td><td>2008-09-02</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2008-2009</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOSEPH CARON as High Commissionner for Canada to the Republic of India, with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Federal Democratic Republic of Nepal and Kingdom of Bhutan;  ABINA DANN as Consul General of Canada in Sao Paulo, Federative Republic of Brazil; FERRY DE KERCKHOVE as Ambassador Extraordinary and Plenipotentiary of Canada to the Arab Republic of Egypt; LOUIS DE LORIMIER as Ambassador Extraordinary and Plenipotentiary of Canada to the Kingdom of Belgium; GENEVIÈVE DES RIVIÈRES as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Colombia; RON HOFFMANN as Ambassador Extraordinary and Plenipotentiary of Canada to the Islamic Republic of Afghanistan; RANDOLPH MANK as High Commissionner for Canada to the Islamic Republic of Pakistan; and LEEANN MCKECHNIE as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Guatemala and High Commissioner for Canada to Belize.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19366&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1511",
-  "htmlHash": "3cb5c1344d2d0738308ad2cd0c3ed6c9"
+  "htmlHash": "3cb5c1344d2d0738308ad2cd0c3ed6c9",
+  "attachments": [
+    "attachment.php?attach=19366&lang=en"
+  ]
 }

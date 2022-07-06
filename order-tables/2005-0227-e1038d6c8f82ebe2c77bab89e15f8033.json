@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0227</td><td>2005-02-22</td><td></td><td></td><td>HEALTH,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ADDING TOXIC SUBSTANCES TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 which adds 2-butoxyethanol and 2-methoxyethanol to the List of Toxic Substances (Schedule 1).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0046  <strong>Publication Date:</strong> 2005-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9655&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0227",
-  "htmlHash": "e1038d6c8f82ebe2c77bab89e15f8033"
+  "htmlHash": "e1038d6c8f82ebe2c77bab89e15f8033",
+  "attachments": [
+    "attachment.php?attach=9655&lang=en"
+  ]
 }

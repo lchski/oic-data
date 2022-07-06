@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0474</td><td>2006-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2005-2006</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KRENAR LOLOÇI to be Honorary Consul of Canada at Tirana, Republic of Albania, for a period of three years, effective June 10, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14397&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0474",
-  "htmlHash": "8e56578db8a08d63a98e3e1008116ff9"
+  "htmlHash": "8e56578db8a08d63a98e3e1008116ff9",
+  "attachments": [
+    "attachment.php?attach=14397&lang=en"
+  ]
 }

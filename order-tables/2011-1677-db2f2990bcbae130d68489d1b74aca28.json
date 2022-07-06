@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1677</td><td>2011-12-15</td><td>9</td><td>2006</td><td>,&nbsp; FIN,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Accountability Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing December 31, 2011 as the Day on which Subsection 262(2) of the Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing December 31, 2011 as the day on which subsection 262(2) of the FEDERAL ACCOUNTABILITY ACT, chapter 9 of the Statutes of Canada 2006, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0117  <strong>Publication Date:</strong> 2012-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1677",
-  "htmlHash": "db2f2990bcbae130d68489d1b74aca28"
+  "htmlHash": "db2f2990bcbae130d68489d1b74aca28",
+  "attachments": [
+    "attachment.php?attach=25359&lang=en"
+  ]
 }

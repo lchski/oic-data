@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0952</td><td>1999-05-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; ND,&nbsp; PMO,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating (a) the MINISTER OF FOREIGN AFFAIRS as the Minister for\nthe purposes of all provisions of this Act other than sections 8, 9, 10 and\n22, (b) the MINISTER OF NATIONAL DEFENCE as the Minister for the purposes\nof sections 8, 9, 10 and 18, and (c) the MINISTER OF PUBLIC WORKS AND\nGOVERNMENT SERVICES as the Minister for the purposes of sections 18 and 22.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0058  <strong>Publication Date:</strong> 1999-06-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0952",
-  "htmlHash": "481e0beeb84256a1bcdfe2b6b920bf69"
+  "htmlHash": "481e0beeb84256a1bcdfe2b6b920bf69",
+  "attachments": []
 }

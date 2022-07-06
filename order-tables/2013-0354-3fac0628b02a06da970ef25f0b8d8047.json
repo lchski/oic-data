@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0354</td><td>2013-03-28</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">United States Enforcement Officers Exemption Order (Marine Transportation of Firearms)\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER (MARINE TRANSPORTATION OF FIREARMS) in order to provide temporary authority for select U.S. law enforcement personnel and vessels to transit through specific locations in Canadian waters with duty weapons, and in limited circumstances, with deck-mounted machine guns due to marine geographic inhibitors for the purpose of carrying out their duties without contravening the Firearms Act and certain provisions in the Criminal Code. The Exemption Order will expire on March 31, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27583&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0354",
-  "htmlHash": "3fac0628b02a06da970ef25f0b8d8047"
+  "htmlHash": "3fac0628b02a06da970ef25f0b8d8047",
+  "attachments": [
+    "attachment.php?attach=27583&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0976</td><td>2010-08-04</td><td></td><td></td><td>,&nbsp; NR,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Camp Segunakadeck Inc. Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER remitting $12,371.87 to CAMP SEGUNAKADECK INC., plus related penalties and interest, representing the goods and services tax (GST) assessed and remitted in respect of overnight recreational camp fees during the period beginning on January 1, 2003 and ending on December 31, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22957&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0976",
-  "htmlHash": "22024af2e6461befd5281eaf102bbb9f"
+  "htmlHash": "22024af2e6461befd5281eaf102bbb9f",
+  "attachments": [
+    "attachment.php?attach=22957&lang=en"
+  ]
 }

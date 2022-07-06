@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0168</td><td>2009-02-05</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MOTOR VEHICLE SAFETY REGULATIONS: this amendment of the Motor Vehicle Safety Regulations, section 206 Door Locks and Door Retention Components (the Canadian safety standard) will delay by two years, from September 1, 2009 to September 1, 2011, the mandatory compliance date for recently incorporated testing requirements. This delay will minimize the impact on manufacturers of these new testing requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0034  <strong>Publication Date:</strong> 2009-02-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20016&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0168",
-  "htmlHash": "5ecee390ed8534786c062744d0c3543a"
+  "htmlHash": "5ecee390ed8534786c062744d0c3543a",
+  "attachments": [
+    "attachment.php?attach=20016&lang=en"
+  ]
 }

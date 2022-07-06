@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2070</td><td>2002-12-05</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Health of Animals Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HEALTH OF ANIMALS REGULATIONS which revise the criteria for establishing bovine tuberculosis eradication areas and establish cattle movement permit requirements, effective January 1, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0444  <strong>Publication Date:</strong> 2002-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2070",
-  "htmlHash": "41d337ca34df41538a78e08efd17c5e7"
+  "htmlHash": "41d337ca34df41538a78e08efd17c5e7",
+  "attachments": [
+    "attachment.php?attach=549&lang=en"
+  ]
 }

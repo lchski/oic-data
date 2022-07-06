@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0607</td><td>2014-05-21</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">2014 Summit on Maternal, Newborn and Child Health — Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">2014 SUMMIT ON MATERNAL, NEWBORN AND CHILD HEALTH - PRIVILEGES AND IMMUNITIES ORDER in order to grant (1) limited privileges to foreign State representatives not otherwise protected under customary international law during their attendance at the Summit on Maternal, Newborn and Child Health in Toronto from May 28-30, 2014; (2) the Royal Canadian Mounted Police primary responsibility to ensure the security for the proper functioning of the Summit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0128  <strong>Publication Date:</strong> 2014-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29421&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0607",
-  "htmlHash": "852154db5339a3a1451e77f7b2e87d5b"
+  "htmlHash": "852154db5339a3a1451e77f7b2e87d5b",
+  "attachments": [
+    "attachment.php?attach=29421&lang=en"
+  ]
 }

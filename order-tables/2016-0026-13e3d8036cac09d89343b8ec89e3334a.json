@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0026</td><td>2016-01-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; PCH,&nbsp; CRTC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declining to Set Aside or Refer Back to the CRTC Broadcasting Decision CRTC 2015-483</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to set aside or refer back to the CANADIAN RADIO TELEVISION AND TELECOMMUNICATIONS COMMISSION (CRTC) for reconsideration and hearing its Broadcasting Decision CRTC 2015-483 of October 28, 2015 approving the amendments to the broadcasting licence of CORUS ENTERTAINMENT INC. for the national English-language specialty Category A service OWN: THE OPRAH WINFREY NETWORK.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0002  <strong>Publication Date:</strong> 2016-02-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31701&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0026",
-  "htmlHash": "13e3d8036cac09d89343b8ec89e3334a"
+  "htmlHash": "13e3d8036cac09d89343b8ec89e3334a",
+  "attachments": [
+    "attachment.php?attach=31701&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0362</td><td>2003-03-25</td><td></td><td></td><td>RC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Customs and Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES J. HEWITT of Penticton, British Columbia, selected from a list of nominees submitted by the Province of British Columbia, to be a director of the Board of Management of the Canada Customs and Revenue Agency, to hold office during pleasure for a term of two years, in the place of Peter P. Dhillon, who has resigned.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1417&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0362",
-  "htmlHash": "411dfcd9db4514036a855cb0f2ea2723"
+  "htmlHash": "411dfcd9db4514036a855cb0f2ea2723",
+  "attachments": [
+    "attachment.php?attach=1417&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0375</td><td>2013-04-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Waters and Nunavut Surface Rights Tribunal Act<br>Nunavut Land Claims Agreement Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Nunavut Waters Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NUNAVUT WATERS REGULATIONS in order to develop a set of water regulations for Nunavut, that takes into consideration the specific circumstances of the territory and respects the provisions of the Agreement and to streamline the current process in order to improve regulatory efficiencies.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0069  <strong>Publication Date:</strong> 2013-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27604&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0375",
-  "htmlHash": "21c933e0117b625f5414b6707bc2cecf"
+  "htmlHash": "21c933e0117b625f5414b6707bc2cecf",
+  "attachments": [
+    "attachment.php?attach=27604&lang=en"
+  ]
 }

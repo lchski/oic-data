@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0547</td><td>2010-04-29</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Contraventions Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS amend all short form descriptions of contraventions relating to small vessels that appear in Part II of Schedule I.1 to the Regulations.  The Small Vessel Regulations have been replaced by a new version made pursuant to the Canada Shipping Act, 2001.  This will ensure that all enforcement partners in marine safety across Canada can effectively carry out their mandate at the beginning of the 2010 boating season.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0092  <strong>Publication Date:</strong> 2010-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22523&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0547",
-  "htmlHash": "fd72f5c3b37faf0e6ae11fd286e039f5"
+  "htmlHash": "fd72f5c3b37faf0e6ae11fd286e039f5",
+  "attachments": [
+    "attachment.php?attach=22523&lang=en"
+  ]
 }

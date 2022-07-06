@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1195</td><td>2018-09-24</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Mississaugas of Scugog Island Reserve, Ontario ** Addition **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Setting apart 13.13 hectares (32.445 acres) of land, including mines and minerals, for the use and benefit of the Mississaugas of Scugog Island First Nation as an addition to MISSISSAUGAS OF SCUGOG ISLAND RESERVE, located in the Township of Scugog, Municipality of Durham at approximately 13 kilometres from the Town of Port Perry, Ontario.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36874&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1195",
-  "htmlHash": "3aa5dde5145a9d674a33a497723e1aa8"
+  "htmlHash": "3aa5dde5145a9d674a33a497723e1aa8",
+  "attachments": [
+    "attachment.php?attach=36874&lang=en"
+  ]
 }

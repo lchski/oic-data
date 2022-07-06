@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0829</td><td>2011-07-29</td><td></td><td></td><td>DFO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Quebec Fishery Regulations, 1990 </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the QUEBEC FISHERY REGULATIONS, 1990, in order to clarify the definition of catch length measurement. This will ensure that anglers easily understand which length should be used for measurement and that fisheries officers are able to effectively enforce the Quebec Fishery Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0155  <strong>Publication Date:</strong> 2011-08-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24506&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0829",
-  "htmlHash": "c564c5b0e40cfc25c9f0f798e68c3bc5"
+  "htmlHash": "c564c5b0e40cfc25c9f0f798e68c3bc5",
+  "attachments": [
+    "attachment.php?attach=24506&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1175</td><td>2004-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order acknowledging receipt of the ASSESSMENTS done by the Committee on the Status of Endangered Wildlife in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0138  <strong>Publication Date:</strong> 2004-11-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8271&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1175",
-  "htmlHash": "40a38bdc9c0e387a541c47b9008a1731"
+  "htmlHash": "40a38bdc9c0e387a541c47b9008a1731",
+  "attachments": [
+    "attachment.php?attach=8271&lang=en"
+  ]
 }

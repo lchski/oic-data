@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0414</td><td>2019-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Northwest Territories Fishery Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NORTHWEST TERRITORIES FISHERY REGULATIONS in order to create one-day sport fishing licences for non-residents and Canadian residents in the Northwest Territories and promote tourism and support businesses offering services to sport fishing enthusiasts from outside the Northwest Territories.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0114  <strong>Publication Date:</strong> 2019-05-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37731&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0414",
-  "htmlHash": "fe5b2b444be33e7f7a75b4f7d2b1890c"
+  "htmlHash": "fe5b2b444be33e7f7a75b4f7d2b1890c",
+  "attachments": [
+    "attachment.php?attach=37731&lang=en"
+  ]
 }

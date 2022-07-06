@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1432</td><td>1991-08-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; HWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order adding a substance to the LIST OF TOXIC SUBSTANCES in Schedule I to\nthe Canadian Environmental Protection Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0485  <strong>Publication Date:</strong> 1991-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1432",
-  "htmlHash": "62d6b1d79fe1c3e29d65ba48d6d29efb"
+  "htmlHash": "62d6b1d79fe1c3e29d65ba48d6d29efb",
+  "attachments": []
 }

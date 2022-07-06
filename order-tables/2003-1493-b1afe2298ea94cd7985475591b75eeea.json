@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1493</td><td>2003-10-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of excise tax paid by HUMBER VALLEY PAVING LTD. in respect of fuel oil used as heating oil in the manufacture of paving asphalt.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0163  <strong>Publication Date:</strong> 2003-10-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4124&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1493",
-  "htmlHash": "b1afe2298ea94cd7985475591b75eeea"
+  "htmlHash": "b1afe2298ea94cd7985475591b75eeea",
+  "attachments": [
+    "attachment.php?attach=4124&lang=en"
+  ]
 }

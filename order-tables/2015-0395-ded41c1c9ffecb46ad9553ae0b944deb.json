@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0395</td><td>2015-03-31</td><td></td><td></td><td>TBS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Release of Supplementary Estimates (C) 2014-15 ** Warrant **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a WARRANT be prepared authorizing the expenditure of the sums set forth in APPROPRIATION ACT NO. 5, 2014-15.\n[RELEASE OF SUPPLEMENTARY ESTIMATES (C) FOR 2014-15]</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30722&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0395",
-  "htmlHash": "ded41c1c9ffecb46ad9553ae0b944deb"
+  "htmlHash": "ded41c1c9ffecb46ad9553ae0b944deb",
+  "attachments": [
+    "attachment.php?attach=30722&lang=en"
+  ]
 }

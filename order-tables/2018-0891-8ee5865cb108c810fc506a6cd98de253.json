@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0891</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; IRCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Northwest Territories Agreement on Territorial Nominees</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Approving the Minister of Citizenship and Immigration, to enter into an AGREEMENT with the NORTHWEST TERRITORIES ON TERRITORIAL NOMINEES in order to establish and define roles and responsibilities with respect to the implementation of the Northwest Territories Territorial Nominee Program, and ensure that they reflect the program authorities under the Immigration and Refugee Protection Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36599&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0891",
-  "htmlHash": "8ee5865cb108c810fc506a6cd98de253"
+  "htmlHash": "8ee5865cb108c810fc506a6cd98de253",
+  "attachments": [
+    "attachment.php?attach=36599&lang=en"
+  ]
 }

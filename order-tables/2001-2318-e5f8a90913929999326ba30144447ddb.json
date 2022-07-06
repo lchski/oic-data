@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2318</td><td>2001-12-13</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the BEARDY'S AND OKEMASIS BAND,\nof some 63 hectares of land, mines and minerals included, together with\nthe mines and minerals existing within another 0.77 hectares, as additions\nto Beardy's and Okemasis Indian Reserve No. 96 &amp; 97-B, in Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2318",
-  "htmlHash": "e5f8a90913929999326ba30144447ddb"
+  "htmlHash": "e5f8a90913929999326ba30144447ddb",
+  "attachments": []
 }

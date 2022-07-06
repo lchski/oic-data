@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1394</td><td>2018-11-19</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule I.1 to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Schedule I.1 to that Act in order to add the LEADERS' DEBATES COMMISSION as a department for the purposes of that Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0242  <strong>Publication Date:</strong> 2018-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1394",
-  "htmlHash": "b7a757f278ea3cff1da48318d329413d"
+  "htmlHash": "b7a757f278ea3cff1da48318d329413d",
+  "attachments": [
+    "attachment.php?attach=37074&lang=en"
+  ]
 }

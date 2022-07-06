@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1758</td><td>1993-08-26</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-NOVA SCOTIA OFFSHORE TAX ADMINISTRATION\nAGREEMENT whereby the Province, as Agent of Her Majesty, will collect and\nadminister the consumption taxes and insurance premium taxes imposed in\nthe offshore area under sections 212 and 213 of this Act.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1758",
-  "htmlHash": "f19f99a431d59a1d11ced095a25e2a2d"
+  "htmlHash": "f19f99a431d59a1d11ced095a25e2a2d",
+  "attachments": []
 }

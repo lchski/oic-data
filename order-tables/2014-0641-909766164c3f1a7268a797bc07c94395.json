@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0641</td><td>2014-05-29</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws ** Northwest Territories **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmittal of copies of LAWS (Bills Nos. 4 to 6 and 19 to 23) made by the Legislature of the NORTHWEST TERRITORIES during the Fifth Session of the Seventeenth Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29456&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0641",
-  "htmlHash": "909766164c3f1a7268a797bc07c94395"
+  "htmlHash": "909766164c3f1a7268a797bc07c94395",
+  "attachments": [
+    "attachment.php?attach=29456&lang=en"
+  ]
 }

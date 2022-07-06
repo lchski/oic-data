@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0250</td><td>2022-03-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order authorizing the delivery of non-surplus materials to Ukraine</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of National Defence to deliver non-surplus Canadian Armed Forces materials and equipment, valued up to $75 million dollars, to the Public Services and Procurement Canada for disposal to Ukraine in order to support its armed forces during the ongoing Russian invasion.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41730&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0250",
-  "htmlHash": "00c3cd8779ee6e349af88605d0845f09"
+  "htmlHash": "00c3cd8779ee6e349af88605d0845f09",
+  "attachments": [
+    "attachment.php?attach=41730&lang=en"
+  ]
 }

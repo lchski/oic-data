@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0798</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agri-Recovery - 2010 New Brunswick Potato Storage Loss Initiative</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to provide assistance through the Agricultural Disaster Relief Program under the AgriRecovery Framework to potato producers in New Brunswick affected by extremely high potato storage losses through a contribution under the federal component of the 2010 New Brunswick Potato Storage Loss Initiative.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22773&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0798",
-  "htmlHash": "3ddccfb0ff13fb516d90435238d8325b"
+  "htmlHash": "3ddccfb0ff13fb516d90435238d8325b",
+  "attachments": [
+    "attachment.php?attach=22773&lang=en"
+  ]
 }

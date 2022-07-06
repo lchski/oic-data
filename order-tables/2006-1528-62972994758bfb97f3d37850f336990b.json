@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1528</td><td>2006-12-11</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Evidence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE to the CANADA EVIDENCE ACT by adding a reference to the Internal Inquiry into the Actions of Canadian Officials in Relation to Abdullah Almalki, Ahmad Abou-Elmaati and Muayyed Nureddin.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0335  <strong>Publication Date:</strong> 2006-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15490&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1528",
-  "htmlHash": "62972994758bfb97f3d37850f336990b"
+  "htmlHash": "62972994758bfb97f3d37850f336990b",
+  "attachments": [
+    "attachment.php?attach=15490&lang=en"
+  ]
 }

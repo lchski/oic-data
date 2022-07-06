@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0843</td><td>2016-09-30</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Port of Prince Rupert Liquefied Natural Gas Facilities Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PORT OF PRINCE RUPERT LIQUEFIED NATURAL GAS FACILITIES REGULATIONS in order to (1) establish a federal regulatory regime for liquefied natural gas (LNG) projects at the Port of Prince Rupert that applies the existing British Columbia (BC) provincial regulatory regime; (2) create legal certainty authorizing the BC Oil and Gas Commission to administer regulatory oversight (construction, operation, maintenance); (3) provide certainty and confidence for investors, developers and the public that there is a clear regulatory regime in place to adequately regulate the LNG projects at the Port; and (4) promote consistency in the regulation of LNG projects in the province of BC whether on federal or provincial lands.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0260  <strong>Publication Date:</strong> 2016-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32539&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0843",
-  "htmlHash": "f13145967405e0437b3faff8a1254047"
+  "htmlHash": "f13145967405e0437b3faff8a1254047",
+  "attachments": [
+    "attachment.php?attach=32539&lang=en"
+  ]
 }

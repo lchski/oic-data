@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0709</td><td>2003-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the City of Calgary, Alberta, as the place where the Hon. JUDITH A. SNIDER, a Judge of the Federal Court of Canada - Trial Division, may reside between April 10 and September 30, 2003, for travel allowance purposes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2392&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0709",
-  "htmlHash": "ec5bc24e6b6ee466a008debb3813dfde"
+  "htmlHash": "ec5bc24e6b6ee466a008debb3813dfde",
+  "attachments": [
+    "attachment.php?attach=2392&lang=en"
+  ]
 }

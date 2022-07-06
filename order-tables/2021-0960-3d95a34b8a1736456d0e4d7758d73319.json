@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0960</td><td>2021-11-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Emergency Order for the Protection of the Western Chorus Frog Great Lakes / St. Lawrence — Canadian Shield Population (Longueuil)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EMERGENCY ORDER FOR THE PROTECTION OFTHE WESTERN CHORUS FROG GREAT LAKES / ST. LAWRENCE - CANADIAN SHIELD POPULATION (LONGUEUIL) in order to provide protection to the Western Chorus Frog in Longueuil, Quebec by addressing the threats to its recovery and protecting the habitat identified in the Emergency Order to stabilize the metapopulation and help the recovery of the species.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0231  <strong>Publication Date:</strong> 2021-12-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41327&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0960",
-  "htmlHash": "3d95a34b8a1736456d0e4d7758d73319"
+  "htmlHash": "3d95a34b8a1736456d0e4d7758d73319",
+  "attachments": [
+    "attachment.php?attach=41327&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1212</td><td>2009-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Income Tax Regulations (Securities Held by Financial Institutions)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the INCOME TAX REGULATIONS (SECURITIES HELD BY FINANCIAL INSTITUTIONS). The 1994 Budget proposed amendments to the Income Tax Act and Regulations concerning the marking-to-market of securities held by financial institutions.  The amendments required to the Income Tax Act to implement this proposal were enacted, and these amendments to the Income Tax Regulations were released in draft form, in 1995.  The amendments were prepublished in the Canada Gazette, Part I, on April 11, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0222  <strong>Publication Date:</strong> 2009-08-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21136&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1212",
-  "htmlHash": "5fc18dee55845c23840bf39be0c996db"
+  "htmlHash": "5fc18dee55845c23840bf39be0c996db",
+  "attachments": [
+    "attachment.php?attach=21136&lang=en"
+  ]
 }

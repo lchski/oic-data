@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0113</td><td>2009-01-29</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing the Minister of Finance to enter into CONTRIBUTION AGREEMENTS with Harbourfront Corporation (1990); and (b) repealing Order in Council P.C. 2007-33.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19961&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0113",
-  "htmlHash": "676b46684677a40038f43935e870e9bf"
+  "htmlHash": "676b46684677a40038f43935e870e9bf",
+  "attachments": [
+    "attachment.php?attach=19961&lang=en"
+  ]
 }

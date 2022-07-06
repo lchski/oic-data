@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0657</td><td>2016-06-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing Canada Development Investment Corporation to dispose, by way of transfer, to the Minister of Infrastructure, Communities and Intergovernmental Affairs on behalf of Her Majesty in right of Canada, of all of the shares of PPP CANADA INC., one of its wholly-owned subsidiaries.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32341&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0657",
-  "htmlHash": "68030595959731164960cbd31a0f47b0"
+  "htmlHash": "68030595959731164960cbd31a0f47b0",
+  "attachments": [
+    "attachment.php?attach=32341&lang=en"
+  ]
 }

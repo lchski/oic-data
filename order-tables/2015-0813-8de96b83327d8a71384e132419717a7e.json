@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0813</td><td>2015-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGSC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Expropriation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">New Bridge for the St. Lawrence corridor ** Expropriation **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that there be substituted for the 90 days referred to in paragraph 19(1)(c) of the EXPROPRIATION ACT, a period of two days which is required for the construction, operation, maintenance and rehabilitation of the new bridge for the St. Lawrence corridor to replace the current Champlain Bridge, located in Montreal, Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31140&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0813",
-  "htmlHash": "8de96b83327d8a71384e132419717a7e"
+  "htmlHash": "8de96b83327d8a71384e132419717a7e",
+  "attachments": [
+    "attachment.php?attach=31140&lang=en"
+  ]
 }

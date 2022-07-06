@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0977</td><td>2005-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OIC-OLD,&nbsp; ACOA,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a SUPPLEMENTARY AGREEMENT with each of the four Atlantic provinces (New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island) in order to postpone the expiry date of their particular INFRASTRUCTURE PROGRAM AGREEMENT until March 31, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11172&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0977",
-  "htmlHash": "5b0ea532bf0d63a8cd24951f885f4b29"
+  "htmlHash": "5b0ea532bf0d63a8cd24951f885f4b29",
+  "attachments": [
+    "attachment.php?attach=11172&lang=en"
+  ]
 }

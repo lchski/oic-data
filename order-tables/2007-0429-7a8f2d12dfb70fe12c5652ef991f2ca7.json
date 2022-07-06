@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0429</td><td>2007-03-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of Order in Council P.C. 1999-161 of February 4, 1999, thereby winding-up the NATIONAL ADVISORY COUNCIL ON AGING.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16096&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0429",
-  "htmlHash": "7a8f2d12dfb70fe12c5652ef991f2ca7"
+  "htmlHash": "7a8f2d12dfb70fe12c5652ef991f2ca7",
+  "attachments": [
+    "attachment.php?attach=16096&lang=en"
+  ]
 }

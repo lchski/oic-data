@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1107</td><td>2011-09-29</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Voyage Data Recorder Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">VOYAGE DATA RECORDER REGULATIONS, in order to require all new passenger vessels of 500 gross tonnage or more and new cargo vessels of 3,000 gross tonnage or more that are not engaged solely on inland voyages to be fitted with a voyage data recorder (VDR). In addition, all existing passenger vessels of 500 gross tonnage or more would be required to be fitted with either a VDR or a simplified VDR by July 1, 2015.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0203  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24783&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1107",
-  "htmlHash": "b617187af6625466b7044bbedb28c0d9"
+  "htmlHash": "b617187af6625466b7044bbedb28c0d9",
+  "attachments": [
+    "attachment.php?attach=24783&lang=en"
+  ]
 }

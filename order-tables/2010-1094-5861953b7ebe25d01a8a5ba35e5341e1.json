@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1094</td><td>2010-09-02</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Operational Service Medal Regulations</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Awarding the Operational Service Medal with the SIERRA LEONE ribbon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order determining who has rendered service that is worthy of recognition by the award of the Operational Service Medal with the SIERRA LEONE ribbon; and establishing its order of precedence in the Canadian Honours System.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0066  <strong>Publication Date:</strong> 2010-09-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1094",
-  "htmlHash": "5861953b7ebe25d01a8a5ba35e5341e1"
+  "htmlHash": "5861953b7ebe25d01a8a5ba35e5341e1",
+  "attachments": [
+    "attachment.php?attach=23075&lang=en"
+  ]
 }

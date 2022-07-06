@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0692</td><td>2003-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the decision of the NATIONAL ENERGY BOARD to rescind Certificate of Public Convenience and Necessity GC-91 held by Westcoast Energy Inc. (conducting its business under the name of Duke Energy Gas Transmission Canada) in respect of the Helmet Peggo Facilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2428&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0692",
-  "htmlHash": "6f94b657b71d53e5c99b6e6f933cab20"
+  "htmlHash": "6f94b657b71d53e5c99b6e6f933cab20",
+  "attachments": [
+    "attachment.php?attach=2428&lang=en"
+  ]
 }

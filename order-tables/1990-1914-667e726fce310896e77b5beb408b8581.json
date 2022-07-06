@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1914</td><td>1990-08-28</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of ONTARIO of the administration and control over\na surplus parcel of waterfront land situate at LAKE MATIENENDA, in the\nTownship of Scarfe, which contains an area of some 0.240 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1914",
-  "htmlHash": "667e726fce310896e77b5beb408b8581"
+  "htmlHash": "667e726fce310896e77b5beb408b8581",
+  "attachments": []
 }

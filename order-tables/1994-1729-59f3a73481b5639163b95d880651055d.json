@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1729</td><td>1994-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of three appointments made by the NATIONAL FILM BOARD, namely:\n.\n  1. TERRENCE RYAN -\n     Curator, Audio-Visual, Archival and Reference Collections\n     Conservateur des collections audiovisuelles d'archives et référence\n.\n  2. ISOBEL MARKS -\n     Executive Producer, English Program, Studio G\n     Producteur exécutif, Programme anglais, Studio G\n.\n  3. ANNETTE CLARKE -\n     Sales Manager, National Marketing Division, English Program Branch\n     Chef des ventes à la mise en marché nationale, Direction du Programme\n     anglais\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1729",
-  "htmlHash": "59f3a73481b5639163b95d880651055d"
+  "htmlHash": "59f3a73481b5639163b95d880651055d",
+  "attachments": []
 }

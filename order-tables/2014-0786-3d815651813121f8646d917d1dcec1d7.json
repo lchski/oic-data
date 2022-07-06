@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0786</td><td>2014-06-13</td><td></td><td></td><td>OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Western Arctic (Inuvialuit) Claims Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GLORIA IATRIDIS, of Yellowknife, Northwest Territories, as Vice-Chairman of the Arbitration Board for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29630&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0786",
-  "htmlHash": "3d815651813121f8646d917d1dcec1d7"
+  "htmlHash": "3d815651813121f8646d917d1dcec1d7",
+  "attachments": [
+    "attachment.php?attach=29630&lang=en"
+  ]
 }

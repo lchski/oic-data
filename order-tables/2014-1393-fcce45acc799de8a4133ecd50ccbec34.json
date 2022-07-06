@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1393</td><td>2014-12-11</td><td></td><td></td><td>VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Veterans Review and Appeal Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT MALO of Joliette, Quebec, to be a permanent member of the Veterans Review and Appeal Board to hold office during good behaviour for a term of three years, effective December 15, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1393",
-  "htmlHash": "fcce45acc799de8a4133ecd50ccbec34"
+  "htmlHash": "fcce45acc799de8a4133ecd50ccbec34",
+  "attachments": [
+    "attachment.php?attach=30216&lang=en"
+  ]
 }

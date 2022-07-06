@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1318</td><td>2019-09-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment ALAN BOWMAN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Croatia; and JAMAL KHOKHAR as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Turkey with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Georgia, with residence in Ankara.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38658&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1318",
-  "htmlHash": "5e6dc8b0efbd92124d3f83e7639b40b7"
+  "htmlHash": "5e6dc8b0efbd92124d3f83e7639b40b7",
+  "attachments": [
+    "attachment.php?attach=38658&lang=en"
+  ]
 }

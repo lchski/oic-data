@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0719</td><td>1996-05-14</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to any portion of\nLots 1062 and 1063, in Quad 105 M/12 in the Yukon Territory, lying\nwithin 30.48 metres (100') of the Ordinary High Water Mark of the\nMAYO RIVER.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0042  <strong>Publication Date:</strong> 1996-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0719",
-  "htmlHash": "ad1450cdcf187100127072228de6daea"
+  "htmlHash": "ad1450cdcf187100127072228de6daea",
+  "attachments": []
 }

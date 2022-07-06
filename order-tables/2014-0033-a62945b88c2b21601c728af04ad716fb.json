@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0033</td><td>2014-01-28</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Sturgeon Lake Indian Reserve Nos 101D and 101B, Saskatchewan ** Grant of Easements ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the exercise by TRANSGAS LIMITED AND SASKATCHEWAN POWER CORPORATION of the power to take an interest in lands within STURGEON LAKE INDIAN RESERVE Nos. 101D and 101B in Saskatchewan; and (b) granting the Companies the required easements.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28811&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0033",
-  "htmlHash": "a62945b88c2b21601c728af04ad716fb"
+  "htmlHash": "a62945b88c2b21601c728af04ad716fb",
+  "attachments": [
+    "attachment.php?attach=28811&lang=en"
+  ]
 }

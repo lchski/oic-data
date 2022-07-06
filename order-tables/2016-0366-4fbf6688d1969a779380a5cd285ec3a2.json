@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0366</td><td>2016-05-20</td><td>13</td><td>2015</td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Victims Bill of Rights Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing June 1, 2016 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 1, 2016, as the day on which subsection 46(1) of the Act, paragraph 26(1)(d) as enacted by subsection 46(3) of the Act, subsections 48(3) and 49(1) and (3) of the VICTIMS BILL OF RIGHTS ACT, chapter 13 of the Statutes of Canada, 2015, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0028  <strong>Publication Date:</strong> 2016-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32045&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0366",
-  "htmlHash": "4fbf6688d1969a779380a5cd285ec3a2"
+  "htmlHash": "4fbf6688d1969a779380a5cd285ec3a2",
+  "attachments": [
+    "attachment.php?attach=32045&lang=en"
+  ]
 }

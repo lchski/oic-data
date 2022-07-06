@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0606</td><td>2005-04-14</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LORYL D. RUSSELL of Vancouver, British Columbia to be a Judge of the Supreme Court of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10370&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0606",
-  "htmlHash": "14bb22bb792b1541b54f2af444517eff"
+  "htmlHash": "14bb22bb792b1541b54f2af444517eff",
+  "attachments": [
+    "attachment.php?attach=10370&lang=en"
+  ]
 }

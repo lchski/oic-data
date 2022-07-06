@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1011</td><td>2019-07-04</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of BRIAN PAUL MCBAY of Vancouver, British Columbia, to be a trustee of the Board of Trustees of the National Gallery of Canada, to hold office during pleasure for a term of three years, in the place of G. Howard Kroon, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38339&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1011",
-  "htmlHash": "bd010224a1ffe1d2d1edec01579fc17a"
+  "htmlHash": "bd010224a1ffe1d2d1edec01579fc17a",
+  "attachments": [
+    "attachment.php?attach=38339&lang=en"
+  ]
 }

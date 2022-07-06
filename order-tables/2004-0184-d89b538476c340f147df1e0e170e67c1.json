@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0184</td><td>2004-03-08</td><td></td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CERTAIN INDIVIDUALS REMISSION ORDER, 2003 which remits the Goods and Services Tax New Housing Rebates to five individuals.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0026  <strong>Publication Date:</strong> 2004-03-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6002&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0184",
-  "htmlHash": "d89b538476c340f147df1e0e170e67c1"
+  "htmlHash": "d89b538476c340f147df1e0e170e67c1",
+  "attachments": [
+    "attachment.php?attach=6002&lang=en"
+  ]
 }

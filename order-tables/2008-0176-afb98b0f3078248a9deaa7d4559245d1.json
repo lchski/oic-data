@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0176</td><td>2008-01-31</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Health of Animals Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE HEALTH OF ANIMALS REGULATIONS to prevent the introduction of animal diseases into Canada, to prevent the spread within Canada of animal diseases that either affect human health or could have a significant impact on the Canadian livestock industry, and to provide for the humane treatment of animals during transport. These Regulations relate to edible residue material.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0020  <strong>Publication Date:</strong> 2008-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17988&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0176",
-  "htmlHash": "afb98b0f3078248a9deaa7d4559245d1"
+  "htmlHash": "afb98b0f3078248a9deaa7d4559245d1",
+  "attachments": [
+    "attachment.php?attach=17988&lang=en"
+  ]
 }

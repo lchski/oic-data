@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0646</td><td>2013-06-06</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Marihuana Exemption (Food and Drugs Act) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MARIHUANA EXEMPTION (FOOD AND DRUGS ACT) REGULATIONS in order to (1) discontinue the issuance by Health Canada of authorization to possess marihuana for medical purposes to individuals; (2) make accessing marihuana for medical purposes more efficient for program participants, give them more options with respect to obtaining the support of an authorized health care practitioner as well as more choices of strains and suppliers; and (3) provide increased access to quality-controlled marihuana.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0120  <strong>Publication Date:</strong> 2013-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27899&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0646",
-  "htmlHash": "75e0fe994a265f9f50d4e677a63689fe"
+  "htmlHash": "75e0fe994a265f9f50d4e677a63689fe",
+  "attachments": [
+    "attachment.php?attach=27899&lang=en"
+  ]
 }

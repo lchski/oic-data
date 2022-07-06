@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0964</td><td>2005-05-18</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of HORST INTSCHER, of Chelsea, Quebec, to be the Director of the Financial Transactions and Reports Analysis Centre of Canada, to hold office during pleasure for a term of five years, effective July 5, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11084&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0964",
-  "htmlHash": "94cbe9a7a289f0b99d6593d8d217aa68"
+  "htmlHash": "94cbe9a7a289f0b99d6593d8d217aa68",
+  "attachments": [
+    "attachment.php?attach=11084&lang=en"
+  ]
 }

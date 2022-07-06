@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0876</td><td>2020-11-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Memorandum of Understanding between the Government of Canada and the Government of the United States of America concerning Cooperation on the Civil Lunar Gateway</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Prime Minister or the Minister of Foreign Affairs to sign, or to delegate the authority to sign, on behalf of Canada, and to bring into force for Canada, the MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA CONCERNING COOPERATION ON THE CIVIL LUNAR GATEWAY.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39881&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0876",
-  "htmlHash": "266c8c80f11a2ca45421fd0faed4c47e"
+  "htmlHash": "266c8c80f11a2ca45421fd0faed4c47e",
+  "attachments": [
+    "attachment.php?attach=39881&lang=en"
+  ]
 }

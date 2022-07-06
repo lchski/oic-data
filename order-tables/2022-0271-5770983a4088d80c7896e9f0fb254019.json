@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0271</td><td>2022-03-25</td><td>6</td><td>2014</td><td>,&nbsp; ,&nbsp; DND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Not Criminally Responsible Reform Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing June 20, 2022 as the Day on Which Certain Sections of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing June 20, 2022 as the day on which sections 21 to 31 of the NOT CRIMINALLY RESPONSIBLE REFORM ACT COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2022-0019  <strong>Publication Date:</strong> 2022-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0271",
-  "htmlHash": "5770983a4088d80c7896e9f0fb254019"
+  "htmlHash": "5770983a4088d80c7896e9f0fb254019",
+  "attachments": [
+    "attachment.php?attach=42410&lang=en"
+  ]
 }

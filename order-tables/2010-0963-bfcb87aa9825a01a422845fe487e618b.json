@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0963</td><td>2010-08-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSDC,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Employment Insurance Regulations (work-sharing claimants) - Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER to Employment Insurance (EI) work-sharing claimants the employment insurance benefits paid or payable to them as a result of the application of the increased working while on claim provisions under the EMPLOYMENT INSURANCE REGULATIONS from December 11, 2005 to December 4, 2010, in order to prevent the establishment of overpayments and ensure claimants will not be asked to return benefits paid.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0053 </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22944&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0963",
-  "htmlHash": "bfcb87aa9825a01a422845fe487e618b"
+  "htmlHash": "bfcb87aa9825a01a422845fe487e618b",
+  "attachments": [
+    "attachment.php?attach=22944&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0305</td><td>2020-05-10</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Development Investment Corporation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing Canada Development Investment Corporation to procure the incorporation of a wholly-owned subsidiary, to be known as CANADA ENTERPRISE EMERGENCY FUNDING CORPORATION, and to take such steps as are necessary to facilitate the subsidiary's administration of a credit support program for large Canadian companies in response to the COVID-19 emergency, in accordance with any directive that may be given to that subsidiary.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0305",
-  "htmlHash": "718ac048cb9155cef2830d11d266d973"
+  "htmlHash": "718ac048cb9155cef2830d11d266d973",
+  "attachments": [
+    "attachment.php?attach=39218&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1728</td><td>2009-10-08</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator (ON)\nMichael Moldaver\nOctober 28 to October 31, 2009; and\nHeather Smith\nNovember 1 to November 5, 2009\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of Ontario of the Honourable MICHAEL MOLDAVER from October 28 to October 31, 2009, inclusive and  the Honourable HEATHER SMITH from November 1 to November 5, 2009, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21623&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1728",
-  "htmlHash": "344f39314159e14be0a924cfa3a3352a"
+  "htmlHash": "344f39314159e14be0a924cfa3a3352a",
+  "attachments": [
+    "attachment.php?attach=21623&lang=en"
+  ]
 }

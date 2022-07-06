@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0890</td><td>1999-05-13</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA MINING REGULATIONS by raising the minimum\nroyalty rate and expanding on the kinds of assets that are eligible for the\ndepreciation allowance, as of May 15, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0219  <strong>Publication Date:</strong> 1999-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0890",
-  "htmlHash": "e8108328b939e4f9ee3408f1fb9363ff"
+  "htmlHash": "e8108328b939e4f9ee3408f1fb9363ff",
+  "attachments": []
 }

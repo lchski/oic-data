@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0499</td><td>2006-06-08</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing entry into a SETTLEMENT AGREEMENT with the FORT WILLIAM FIRST NATION for the purpose of resolving a specific claim involving a piece of land situated in Thunder Bay, Ontario, and (b) confirming that the land in question has been and continues to be set apart for this First Nation as part of its Reserve.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14411&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0499",
-  "htmlHash": "0d0893fd9c62e90c1676e64968d06164"
+  "htmlHash": "0d0893fd9c62e90c1676e64968d06164",
+  "attachments": [
+    "attachment.php?attach=14411&lang=en"
+  ]
 }

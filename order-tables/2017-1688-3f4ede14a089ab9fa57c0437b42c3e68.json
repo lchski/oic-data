@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1688</td><td>2017-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Columbia Lake Indian Reserve No. 3, British Columbia ** Confirmation **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requested to confirm that the lands described in the schedule were set apart as part of Columbia Lake Indian Reserve No. 3 (the Reserve) for the use and benefit of the ?AKISQ’NUK FIRST NATION, formerly known as the Columbia Lake Indian Band (the Band), on November 4, 1941, and that the Lands continue to be set apart for that purpose. The reserve is located in the Regional District of East Kootenay at approximately seven kilometres from the City of Invermere, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35598&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1688",
-  "htmlHash": "3f4ede14a089ab9fa57c0437b42c3e68"
+  "htmlHash": "3f4ede14a089ab9fa57c0437b42c3e68",
+  "attachments": [
+    "attachment.php?attach=35598&lang=en"
+  ]
 }

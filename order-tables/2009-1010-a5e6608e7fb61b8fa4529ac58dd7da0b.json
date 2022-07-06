@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1010</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">North American Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Explanatory Memorandum on the Exchange of Letters constituting an Agreement between the Government of Canada, the Government of the United States of America and the Government of the United Mexican States, amending Annex 401 (Track III) of the North American Free Trade Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20882&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1010",
-  "htmlHash": "a5e6608e7fb61b8fa4529ac58dd7da0b"
+  "htmlHash": "a5e6608e7fb61b8fa4529ac58dd7da0b",
+  "attachments": [
+    "attachment.php?attach=20882&lang=en"
+  ]
 }

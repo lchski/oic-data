@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0106</td><td>2021-02-26</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; OAG,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Auditor General of Canada as Auditor for Atomic Energy of Canada Limited</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Appointing the AUDITOR GENERAL OF CANADA as the AUDITOR of the ATOMIC ENERGY OF CANADA LIMITED for the fiscal year ending on March 31, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40280&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0106",
-  "htmlHash": "ce3397f4cd841bca63862409b0f9d70e"
+  "htmlHash": "ce3397f4cd841bca63862409b0f9d70e",
+  "attachments": [
+    "attachment.php?attach=40280&lang=en"
+  ]
 }

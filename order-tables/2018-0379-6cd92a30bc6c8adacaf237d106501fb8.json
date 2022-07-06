@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0379</td><td>2018-03-29</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GUILLAUME ANIORTÉ of Montréal, Quebec, to be a director of the Board of Directors of the Canadian Broadcasting Corporation, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36047&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0379",
-  "htmlHash": "6cd92a30bc6c8adacaf237d106501fb8"
+  "htmlHash": "6cd92a30bc6c8adacaf237d106501fb8",
+  "attachments": [
+    "attachment.php?attach=36047&lang=en"
+  ]
 }

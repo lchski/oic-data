@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0183</td><td>2005-02-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA PENSION PLAN REGULATIONS by allowing persons whose CPP disabillity payments were terminated when they returned to work to have their benefits reinstated if they can't continue working.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0038  <strong>Publication Date:</strong> 2005-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9573&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0183",
-  "htmlHash": "c10abbfb53467b868a9640a6f5323c6c"
+  "htmlHash": "c10abbfb53467b868a9640a6f5323c6c",
+  "attachments": [
+    "attachment.php?attach=9573&lang=en"
+  ]
 }

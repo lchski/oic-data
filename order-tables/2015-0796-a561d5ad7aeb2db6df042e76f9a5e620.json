@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0796</td><td>2015-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Polar Medal Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order advising Her Majesty the Queen that LETTERS PATENT, to which Her Majesty may be graciously pleased to affix Her signature, do issue under the Great Seal of Canada in order to create in Canada a medal designated and styled the POLAR MEDAL.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31119&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0796",
-  "htmlHash": "a561d5ad7aeb2db6df042e76f9a5e620"
+  "htmlHash": "a561d5ad7aeb2db6df042e76f9a5e620",
+  "attachments": [
+    "attachment.php?attach=31119&lang=en"
+  ]
 }

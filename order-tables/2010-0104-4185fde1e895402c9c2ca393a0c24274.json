@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0104</td><td>2010-02-02</td><td>29</td><td>2009</td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Truth in Sentencing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Fix February 22, 2010 as the day on which the Truth in Sentencing Act comes into force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing February 22, 2010 as the day on which the TRUTH IN SENTENCING ACT comes into force.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0009  <strong>Publication Date:</strong> 2010-02-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22078&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0104",
-  "htmlHash": "4185fde1e895402c9c2ca393a0c24274"
+  "htmlHash": "4185fde1e895402c9c2ca393a0c24274",
+  "attachments": [
+    "attachment.php?attach=22078&lang=en"
+  ]
 }

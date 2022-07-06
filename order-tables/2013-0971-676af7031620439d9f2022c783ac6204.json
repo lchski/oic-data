@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0971</td><td>2013-09-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">General Preferential Tariff and Least Developed Country Tariff Rules of Origin Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GENERAL PREFERENTIAL TARIFF AND LEAST DEVELOPED COUNTRY TARIFF RULES OF ORIGIN REGULATIONS in order to amend the current regulations so that products imported from least developed countries qualify for duty-free treatment under the LDCT, effective January 1, 2015.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0165  <strong>Publication Date:</strong> 2013-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28227&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0971",
-  "htmlHash": "676af7031620439d9f2022c783ac6204"
+  "htmlHash": "676af7031620439d9f2022c783ac6204",
+  "attachments": [
+    "attachment.php?attach=28227&lang=en"
+  ]
 }

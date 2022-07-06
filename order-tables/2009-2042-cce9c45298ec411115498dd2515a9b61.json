@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2042</td><td>2009-12-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Finance of DOUGLAS A. EMSLEY of Regina, Saskatchewan, as a director of the Board of Directors of the Bank of Canada to hold office during good behaviour for a term ending February 28, 2013, effective March 1, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21930&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2042",
-  "htmlHash": "cce9c45298ec411115498dd2515a9b61"
+  "htmlHash": "cce9c45298ec411115498dd2515a9b61",
+  "attachments": [
+    "attachment.php?attach=21930&lang=en"
+  ]
 }

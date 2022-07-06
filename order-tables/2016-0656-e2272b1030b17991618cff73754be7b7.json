@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0656</td><td>2016-06-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the President of the Queen's Privy Council for Canada as the appropriate Minister for the purposes of the Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2013-303 of March 19, 2013; and (2) designating the President of the Queen's Privy Council for Canada as the appropriate Minister with respect to the Canadian Transportation Accident Investigation and Safety Board for the purposes of the Financial Administration Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0040  <strong>Publication Date:</strong> 2016-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32340&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0656",
-  "htmlHash": "e2272b1030b17991618cff73754be7b7"
+  "htmlHash": "e2272b1030b17991618cff73754be7b7",
+  "attachments": [
+    "attachment.php?attach=32340&lang=en"
+  ]
 }

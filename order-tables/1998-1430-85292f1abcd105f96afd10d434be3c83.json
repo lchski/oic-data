@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1430</td><td>1998-08-26</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN PAUL PELLETIER, of Sherbrooke, Quebec, as a full-\ntime member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Montreal Regional Office) to hold\noffice during good behaviour for a term of three years, effective\nSepetember 8, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1430",
-  "htmlHash": "85292f1abcd105f96afd10d434be3c83"
+  "htmlHash": "85292f1abcd105f96afd10d434be3c83",
+  "attachments": []
 }

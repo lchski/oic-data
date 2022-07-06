@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0580</td><td>2008-03-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSEP</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICER to the rank of INSPECTOR.\n\n  1. Staff Sergeant JANE KAREN ALLEMEKINDERS\n  2. Staff Sergeant JEFFREY ALAN HUNTER\n  3. Staff Sergeant JOHN MICHAEL JURCINA\n  4. Staff Sergeant BLAIR NOLAN STAPLES\n  5. Sergeant JOSEPH GUY STÉPHANE DROUIN\n  6. Sergeant JAMES ROBERT KNOPP</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0580",
-  "htmlHash": "87ea2b0bd9310332774cb55c38a05c8d"
+  "htmlHash": "87ea2b0bd9310332774cb55c38a05c8d",
+  "attachments": [
+    "attachment.php?attach=18396&lang=en"
+  ]
 }

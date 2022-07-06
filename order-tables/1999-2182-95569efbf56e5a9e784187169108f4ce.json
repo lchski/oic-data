@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2182</td><td>1999-12-09</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to ROBERT DEAN HINSON, of the Community of Iron Creek, in the Yukon\nTerritory, of some 3.5 hectares of land situated near COSH CREEK and\nKilometre 917 of the Alaska Highway, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2182",
-  "htmlHash": "95569efbf56e5a9e784187169108f4ce"
+  "htmlHash": "95569efbf56e5a9e784187169108f4ce",
+  "attachments": []
 }

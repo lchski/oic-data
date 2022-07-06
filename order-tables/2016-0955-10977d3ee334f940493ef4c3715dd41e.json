@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0955</td><td>2016-10-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - European Union and its Member States ** Comprehensive Economic and Trade Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Prime Minister or the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of the Government of Canada, subject to ratification, the COMPREHENSIVE ECONOMIC AND TRADE AGREEMENT between Canada and the EUROPEAN UNION and its MEMBER STATES.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32650&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0955",
-  "htmlHash": "10977d3ee334f940493ef4c3715dd41e"
+  "htmlHash": "10977d3ee334f940493ef4c3715dd41e",
+  "attachments": [
+    "attachment.php?attach=32650&lang=en"
+  ]
 }

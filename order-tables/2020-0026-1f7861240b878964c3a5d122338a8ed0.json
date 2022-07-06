@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0026</td><td>2020-01-30</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Motor Vehicle Safety Act (National Safety Marks and Importation)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE MOTOR VEHICLE SAFETY ACT (NATIONAL SAFETY MARKS AND IMPORTATION) in order to reduce trade barriers so they reflect the changes to the Act by simplifying the requirements for importing vehicles and vehicle imported for their components, from both the United States and Mexico.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0022  <strong>Publication Date:</strong> 2020-02-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38816&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0026",
-  "htmlHash": "1f7861240b878964c3a5d122338a8ed0"
+  "htmlHash": "1f7861240b878964c3a5d122338a8ed0",
+  "attachments": [
+    "attachment.php?attach=38816&lang=en"
+  ]
 }

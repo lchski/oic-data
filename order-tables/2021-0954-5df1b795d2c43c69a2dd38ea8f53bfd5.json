@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0954</td><td>2021-11-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Railway Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Railway Safety Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RAILWAY SAFETY ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to ensure the enforcement of the Government’s vaccination mandate in the rail sector through the establishment of an Administrative Monetary Penalties regime.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0228  <strong>Publication Date:</strong> 2021-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41318&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0954",
-  "htmlHash": "5df1b795d2c43c69a2dd38ea8f53bfd5"
+  "htmlHash": "5df1b795d2c43c69a2dd38ea8f53bfd5",
+  "attachments": [
+    "attachment.php?attach=41318&lang=en"
+  ]
 }

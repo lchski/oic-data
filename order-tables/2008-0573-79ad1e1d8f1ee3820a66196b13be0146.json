@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0573</td><td>2008-03-11</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION EXPENSES may be reimbursed to The Hon. LAWRENCE I. O'NEIL, who was required to relocate to Halifax (from Antigonish) following his appointment as a Judge of the Supreme Court of Nova Scotia on September 19, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18389&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0573",
-  "htmlHash": "79ad1e1d8f1ee3820a66196b13be0146"
+  "htmlHash": "79ad1e1d8f1ee3820a66196b13be0146",
+  "attachments": [
+    "attachment.php?attach=18389&lang=en"
+  ]
 }

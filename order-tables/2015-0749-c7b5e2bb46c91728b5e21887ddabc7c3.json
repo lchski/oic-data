@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0749</td><td>2015-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFATD</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2015-16</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PIERRE GIROUX as High Commissioner for Canada in the Co operative Republic of Guyana; and\nVINCENT LE PAPE as Ambassador Extraordinary and Plenipotentiary of Canada to Burkina Faso.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31071&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0749",
-  "htmlHash": "c7b5e2bb46c91728b5e21887ddabc7c3"
+  "htmlHash": "c7b5e2bb46c91728b5e21887ddabc7c3",
+  "attachments": [
+    "attachment.php?attach=31071&lang=en"
+  ]
 }

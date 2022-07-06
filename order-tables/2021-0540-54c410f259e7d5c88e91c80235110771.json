@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0540</td><td>2021-06-10</td><td></td><td></td><td>AAFC,&nbsp; FPCC,&nbsp; OAG,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order appointing KPMG LLP of Ottawa, Ontario, to be the auditor for the Chicken Farmers of Canada Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing KPMG LLP of Ottawa, Ontario, to be the AUDITOR for the CHICKEN FARMERS OF CANADA AGENCY for the fiscal period ending December 31, 2025.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40829&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0540",
-  "htmlHash": "54c410f259e7d5c88e91c80235110771"
+  "htmlHash": "54c410f259e7d5c88e91c80235110771",
+  "attachments": [
+    "attachment.php?attach=40829&lang=en"
+  ]
 }

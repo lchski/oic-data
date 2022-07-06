@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1582</td><td>2018-12-14</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Slate Falls Nation Reserve, Ontario ** Creation **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Setting apart 6,599.176 hectares (16,306.919 acres) of land, including mines and minerals, for the use and benefit of the Slate Falls Nation as SLATE FALLS NATION RESERVE, located in the Territorial District of Kenora, Patricia Portion at approximately 176 kilometres from the Town of Sioux Lookout, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37269&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1582",
-  "htmlHash": "3da7cb67465e8abb545bf18e9e61c91b"
+  "htmlHash": "3da7cb67465e8abb545bf18e9e61c91b",
+  "attachments": [
+    "attachment.php?attach=37269&lang=en"
+  ]
 }

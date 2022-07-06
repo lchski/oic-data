@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0958</td><td>2010-08-04</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Natural Health Products (Unprocessed Product Licence Applications)Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NATURAL HEALTH PRODUCTS (Unprocessed Product Licence Applications) REGULATIONS, in order to advance a temporary instrument for natural health products that have a product licence application awaiting review by Health Canada by expressly exempting them from the prohibition against sale in the Natural Health Products Regulations.  The Regulations introduce a more appropriate level of safety oversight to these products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0171  <strong>Publication Date:</strong> 2010-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22939&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0958",
-  "htmlHash": "632056a66402e78782c17738204d8df9"
+  "htmlHash": "632056a66402e78782c17738204d8df9",
+  "attachments": [
+    "attachment.php?attach=22939&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1495</td><td>2005-08-31</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Plant Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INTRODUCED FOREST PEST COMPENSATION REGULATIONS to the extent that compensation will continue to be paid in 2005 and 2006 to those whose trees have or will be removed as a result of measures taken to eradicate specified parasitic infestations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0255  <strong>Publication Date:</strong> 2005-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12401&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1495",
-  "htmlHash": "29636fedfff5760ad022b3c3ff3582dd"
+  "htmlHash": "29636fedfff5760ad022b3c3ff3582dd",
+  "attachments": [
+    "attachment.php?attach=12401&lang=en"
+  ]
 }

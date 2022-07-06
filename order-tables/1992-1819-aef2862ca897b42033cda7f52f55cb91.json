@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1819</td><td>1992-08-20</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of John D. McKellar, of Toronto, Ontario, as a member of\nthe Canada Council for a term of three years, effective August 3, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1819",
-  "htmlHash": "aef2862ca897b42033cda7f52f55cb91"
+  "htmlHash": "aef2862ca897b42033cda7f52f55cb91",
+  "attachments": []
 }

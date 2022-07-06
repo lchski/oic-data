@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0772</td><td>2010-06-17</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Statistics Canada Census-Related Term Employment Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">STATISTICS CANADA CENSUS-RELATED TERM EMPLOYMENT REGULATIONS prescribe how excluded employees and positions are to be dealt with. There are alternate definitions and provisions for “acting appointments” and “deployments”; both of these are limited to positions excluded by the Order.  Appointments and deployments to excluded positions are made on a specified term basis only. The Regulations provide a shorter notice period for the termination of employment as a result of rejection on probation than provided in the PSEA.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0147  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22747&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0772",
-  "htmlHash": "d5c2de3dd71e7ff947233623174b957a"
+  "htmlHash": "d5c2de3dd71e7ff947233623174b957a",
+  "attachments": [
+    "attachment.php?attach=22747&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0281</td><td>2022-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act<br>Canadian Energy Regulator Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Peters Indian Reserve No. 1 and Peters Indian Reserve No. 1A, British Columbia ** Grant of Easement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the exercise by TRANS MOUNTAIN PIPELINE ULC, as general partner for and on behalf of Trans Mountain Pipeline L.P., of the power to take an INTEREST IN LANDS ON PETERS INDIAN RESERVE NO. 1 AND PETERS INDIAN RESERVE NO. 1A; and (2) authorizing the grant of the required easement in those reserves.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41799&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0281",
-  "htmlHash": "4448c6184a6119a2ce3ac07de29a9b28"
+  "htmlHash": "4448c6184a6119a2ce3ac07de29a9b28",
+  "attachments": [
+    "attachment.php?attach=41799&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0525</td><td>2021-06-10</td><td>27</td><td>2018</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing June 28, 2021 as the Day on Which the Definition “Board” and Certain Provisions of the College of Patent Agents and Trademark Agents Act Come into Force, and Fixing June 28, 2021 as the Day on Which Certain Provisions of the Budget Implementation Act, 2018, No. 2 Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing (1) June 28, 2021, as the day on which the definition “Board” in section 2, sections 11 to 20, 25 to 32, 34 to 62 and 64 to 74 and paragraphs 76(1)(c) to (f), (h) and (i) of the COLLEGE OF PATENT AGENTS AND TRADEMARK AGENTS ACT, as enacted by section 247 of the Act COME INTO FORCE; and (2) June 28, 2021, as the day on which section 249, subsections 250(1), sections 251, 252 and 255 to 257 and subsection 258(1) of that Act COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0030  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42413&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0525",
-  "htmlHash": "65c36c15f139ae8295ba075eb61ee55e"
+  "htmlHash": "65c36c15f139ae8295ba075eb61ee55e",
+  "attachments": [
+    "attachment.php?attach=42413&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1130</td><td>2019-08-05</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2019-989 of July 1, 2019, by replacing \"effective August 6, 2019” with “effective September 16, 2019”. (Karen Alice Wallace)</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38465&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1130",
-  "htmlHash": "9c8e711780b65fb443847bd6e4322411"
+  "htmlHash": "9c8e711780b65fb443847bd6e4322411",
+  "attachments": [
+    "attachment.php?attach=38465&lang=en"
+  ]
 }

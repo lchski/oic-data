@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0015</td><td>1995-01-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSC,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the (1) APPOINTMENT OF STUDENTS WITHIN THE FEDERAL SUMMER\nSTUDENT EMPLOYMENT PROGRAM EXCLUSION APPROVAL ORDER - which exempts\nidentified positions in the Public Service to which students are to be\nappointed from the application of certain provisions of the Public Service\nEmployment Act and Regulations made thereunder, and\n(2) APPOINTMENT OF STUDENTS WITHIN THE FEDERAL SUMMER STUDENT EMPLOYMENT\nPROGRAM REGULATIONS - which are designed to facilitate the staffing of\nshort-term positions by students.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0062  <strong>Publication Date:</strong> 1995-01-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0015",
-  "htmlHash": "6650c7c623a69c2f2203f6ab79d8c105"
+  "htmlHash": "6650c7c623a69c2f2203f6ab79d8c105",
+  "attachments": []
 }

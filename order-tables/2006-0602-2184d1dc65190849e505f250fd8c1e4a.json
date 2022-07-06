@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0602</td><td>2006-06-23</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SULPHUR IN DIESEL FUEL REGULATIONS by setting a temporary limit (22 milligrams per kilogram of fuel) on the amount of sulphur in diesel fuel intended for vehicles using the public road system for the period starting on September 1, 2006 and ending on October 15, 2006, and a limit of 15 mg per kg  thereafter.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0163  <strong>Publication Date:</strong> 2006-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14512&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0602",
-  "htmlHash": "2184d1dc65190849e505f250fd8c1e4a"
+  "htmlHash": "2184d1dc65190849e505f250fd8c1e4a",
+  "attachments": [
+    "attachment.php?attach=14512&lang=en"
+  ]
 }

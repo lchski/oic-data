@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0176</td><td>2003-02-13</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (SEAT BELT ANCHORAGES AND WINDSHIELD MOUNTING - AIR BAGS) which clarify seat belt anchorage requirements and update the terminology used to refer to air bags in section 212 (windshield mounting).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0057  <strong>Publication Date:</strong> 2003-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1265&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0176",
-  "htmlHash": "a7a20cc7a96593890ee85bb7b0b0169a"
+  "htmlHash": "a7a20cc7a96593890ee85bb7b0b0169a",
+  "attachments": [
+    "attachment.php?attach=1265&lang=en"
+  ]
 }

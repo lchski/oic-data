@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0066</td><td>2003-01-30</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS EXEMPTING CERTAIN PRECURSORS AND CONTROLLED SUBSTANCES FROM THE APPLICATION OF THE CONTROLLED DRUGS AND SUBSTANCES ACT by removing Items 3, 4, 5, 7 and 20 from Schedule I.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0035  <strong>Publication Date:</strong> 2003-02-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1041&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0066",
-  "htmlHash": "c6f2c3618de68fc389a92fc6c6f1aaf8"
+  "htmlHash": "c6f2c3618de68fc389a92fc6c6f1aaf8",
+  "attachments": [
+    "attachment.php?attach=1041&lang=en"
+  ]
 }

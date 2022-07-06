@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0073</td><td>2007-01-25</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of FRANÇOIS UYS to be Honorary Consul of Canada at Windhoek, the Republic of Namibia, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15725&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0073",
-  "htmlHash": "124d3ad411f077931d00d360dab30491"
+  "htmlHash": "124d3ad411f077931d00d360dab30491",
+  "attachments": [
+    "attachment.php?attach=15725&lang=en"
+  ]
 }

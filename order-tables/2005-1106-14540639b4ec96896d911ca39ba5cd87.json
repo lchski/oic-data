@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1106</td><td>2005-06-02</td><td></td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Status of the Artist Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHAEL LaLEUNE of Herring Cove, Nova Scotia, to be a part-time member of the Canadian Artists and Producers Professional Relations Tribunal to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11390&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1106",
-  "htmlHash": "14540639b4ec96896d911ca39ba5cd87"
+  "htmlHash": "14540639b4ec96896d911ca39ba5cd87",
+  "attachments": [
+    "attachment.php?attach=11390&lang=en"
+  ]
 }

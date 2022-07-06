@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0390</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1386 - KAOLIN) by exempting the mineral kaolin from the general maximum residue limit set out in subsection B.15.002(1).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0067  <strong>Publication Date:</strong> 2005-04-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9963&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0390",
-  "htmlHash": "41f653701d01b551bd6566df2902c6e6"
+  "htmlHash": "41f653701d01b551bd6566df2902c6e6",
+  "attachments": [
+    "attachment.php?attach=9963&lang=en"
+  ]
 }

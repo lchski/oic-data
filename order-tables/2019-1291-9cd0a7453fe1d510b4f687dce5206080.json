@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1291</td><td>2019-08-28</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KEVIN STRINGER of Ottawa, Ontario, to a position within the Royal Canadian Mounted Police with a rank equivalent to associate deputy head, to be styled Chief Administrative Officer of the Royal Canadian Mounted Police, to hold office during pleasure, effective September 16, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38625&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1291",
-  "htmlHash": "9cd0a7453fe1d510b4f687dce5206080"
+  "htmlHash": "9cd0a7453fe1d510b4f687dce5206080",
+  "attachments": [
+    "attachment.php?attach=38625&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0474</td><td>1990-03-08</td><td>0</td><td></td><td>NCC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides authority (a) for the National Capital Commission to\ngrant a seventy-five year Easement (ES-720-2) to Ontario Hydro for the\ninstallation, operation, etc., of two 500 kV electrical power transmission\nlines across a four kilometre strip of Greenbelt land situate south of\nKnoxdale Road, starting at the municipal border between the Cities of\nKanata and Nepean to a point on Cedarview Road in Nepean, Ontario; and (b)\nfor the revocation of Order in Council P.C. 1988-2/916 of May 12, 1988.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0474",
-  "htmlHash": "d837f31c422e1ddf2dd28fa4627db1ea"
+  "htmlHash": "d837f31c422e1ddf2dd28fa4627db1ea",
+  "attachments": []
 }

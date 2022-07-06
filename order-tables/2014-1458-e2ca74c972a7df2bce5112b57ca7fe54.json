@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1458</td><td>2014-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian International Trade Tribunal Procurement Inquiry Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL PROCUREMENT INQUIRY REGULATIONS in order to reflect the inclusion of the Canada-Korea Free Trade Agreement so that the Regulations will apply to inquiries related to procurement bids involving the Republic of Korea.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0303  <strong>Publication Date:</strong> 2014-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30282&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1458",
-  "htmlHash": "e2ca74c972a7df2bce5112b57ca7fe54"
+  "htmlHash": "e2ca74c972a7df2bce5112b57ca7fe54",
+  "attachments": [
+    "attachment.php?attach=30282&lang=en"
+  ]
 }

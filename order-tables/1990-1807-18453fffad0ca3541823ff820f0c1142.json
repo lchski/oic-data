@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1807</td><td>1990-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ATLANTIC PILOTAGE AUTHORITY REGULATIONS proposing that\nadditional classes of ships be subject to compulsory pilotage, in the\ninterest of the safety of navigation, etc.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0576  <strong>Publication Date:</strong> 1990-09-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1807",
-  "htmlHash": "18453fffad0ca3541823ff820f0c1142"
+  "htmlHash": "18453fffad0ca3541823ff820f0c1142",
+  "attachments": []
 }

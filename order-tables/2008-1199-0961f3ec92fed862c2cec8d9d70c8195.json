@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1199</td><td>2008-06-18</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PATRICIA M. GERHARDI, of Hixon, British Columbia, to be Chairperson of the Boards of Referees for the British Columbia Regional Division, and particularly for the District of Prince George, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19044&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1199",
-  "htmlHash": "0961f3ec92fed862c2cec8d9d70c8195"
+  "htmlHash": "0961f3ec92fed862c2cec8d9d70c8195",
+  "attachments": [
+    "attachment.php?attach=19044&lang=en"
+  ]
 }

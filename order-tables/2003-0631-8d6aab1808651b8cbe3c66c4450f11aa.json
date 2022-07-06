@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0631</td><td>2003-05-06</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Western Arctic (Inuvialuit) Claims Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of WILLIAM JOHN KLASSEN of Whitehorse, Yukon Territory, as Chairman of the Environmental Impact Screening Committee, with the consent of the Inuvialuit as evidenced by a letter dated January 10, 2003, for a term of three years, effective June 20, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2235&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0631",
-  "htmlHash": "8d6aab1808651b8cbe3c66c4450f11aa"
+  "htmlHash": "8d6aab1808651b8cbe3c66c4450f11aa",
+  "attachments": [
+    "attachment.php?attach=2235&lang=en"
+  ]
 }

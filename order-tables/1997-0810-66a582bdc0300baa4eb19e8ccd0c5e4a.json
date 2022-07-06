@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0810</td><td>1997-06-05</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1997-314 of March 4, 1997 which will\nextend the re-appointment of CLAUDE ST-PIERRE as President of the\nHazardous Materials Information Review Commission until September 5, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0810",
-  "htmlHash": "66a582bdc0300baa4eb19e8ccd0c5e4a"
+  "htmlHash": "66a582bdc0300baa4eb19e8ccd0c5e4a",
+  "attachments": []
 }

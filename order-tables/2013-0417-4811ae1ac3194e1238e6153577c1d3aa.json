@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0417</td><td>2013-04-25</td><td>19</td><td>2012</td><td>,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs, Growth and Long-term Prosperity Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 1, 2014 as the Day on which Sections 434 to 439 of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 1, 2014 as the day on which sections 434 to 439, of the JOBS, GROWTH AND LONG-TERM PROSPERITY ACT, chapter 19 of the Statutes of Canada, 2012, COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27645&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0417",
-  "htmlHash": "4811ae1ac3194e1238e6153577c1d3aa"
+  "htmlHash": "4811ae1ac3194e1238e6153577c1d3aa",
+  "attachments": [
+    "attachment.php?attach=27645&lang=en"
+  ]
 }

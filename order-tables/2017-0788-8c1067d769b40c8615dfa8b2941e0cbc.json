@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0788</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Application of Provincial Laws Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the APPLICATION OF PROVINCIAL LAWS REGULATIONS in order to allow proper administration and enforcement of the Contraventions Act in accordance with the existing ticketing schemes of the provinces of Manitoba, Newfoundland and Labrador and British Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0136  <strong>Publication Date:</strong> 2017-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34694&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0788",
-  "htmlHash": "8c1067d769b40c8615dfa8b2941e0cbc"
+  "htmlHash": "8c1067d769b40c8615dfa8b2941e0cbc",
+  "attachments": [
+    "attachment.php?attach=34694&lang=en"
+  ]
 }

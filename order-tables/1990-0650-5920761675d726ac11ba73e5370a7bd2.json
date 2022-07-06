@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0650</td><td>1990-03-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a supplementary Agreement with the ALBERTA OIL\nSANDS TECHNOLOGY AND RESEARCH AUTHORITY which will amend the original\nAgreement concerning a pre-pilot program to recover bitumen from\nintermediate depth reserves in the Athabasca reservoir in order to allow\nthe Department to participate in an extended Geotechnical Program and to\nhave access to the collected data.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0650",
-  "htmlHash": "5920761675d726ac11ba73e5370a7bd2"
+  "htmlHash": "5920761675d726ac11ba73e5370a7bd2",
+  "attachments": []
 }

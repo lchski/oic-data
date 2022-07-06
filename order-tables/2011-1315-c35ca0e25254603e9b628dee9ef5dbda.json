@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1315</td><td>2011-11-17</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Off-Road Compression-Ignition Engine Emission Regulations \n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OFF-ROAD COMPRESSION-IGNITION ENGINE EMISSION REGULATIONS, in order to further reduce emissions from off-road diesel engines in Canada by establishing more stringent Canadian off-road diesel emission standards. The proposed amendments would align Canadian emission standards with those of the United States Environmental Protection Agency.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0261  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24997&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1315",
-  "htmlHash": "c35ca0e25254603e9b628dee9ef5dbda"
+  "htmlHash": "c35ca0e25254603e9b628dee9ef5dbda",
+  "attachments": [
+    "attachment.php?attach=24997&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0999</td><td>2012-07-06</td><td>8</td><td>2010</td><td>,&nbsp; CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Balanced Refugee Reform Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing August 15, 2012 as the Day on which Certain Sections of the Act Come into Force\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing August 15, 2012 as the day on which section 2, subsection 15(4) and section 36 of the BALANCED REFUGEE REFORM ACT, chapter 8 of the Statutes of Canada 2010, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0065  <strong>Publication Date:</strong> 2012-08-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26434&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0999",
-  "htmlHash": "d5e5d29193fcf7950bb9e75ea030ed09"
+  "htmlHash": "d5e5d29193fcf7950bb9e75ea030ed09",
+  "attachments": [
+    "attachment.php?attach=26434&lang=en"
+  ]
 }

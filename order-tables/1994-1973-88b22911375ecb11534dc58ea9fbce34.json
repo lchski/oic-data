@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1973</td><td>1994-11-29</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GOVERNMENT EMPLOYEES LAND ACQUISITION ORDER, 1994, NO. 4 authorizing\nAllan Alfred Poppe, of Watson Lake, Yukon, firecrew person, an\nemployee of the Dept. of Indian Affairs and Northern Development, to\nlease, with an option to purchase, the whole of a parcel of land situated\nnear the Robert Campbell Highway, for residential purposes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0740  <strong>Publication Date:</strong> 1994-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1973",
-  "htmlHash": "88b22911375ecb11534dc58ea9fbce34"
+  "htmlHash": "88b22911375ecb11534dc58ea9fbce34",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0919</td><td>2021-10-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Assigning the Honourable William Sterling Blair, Minister of State (Emergency Preparedness), to Assist the Minister of Public Safety and Emergency Preparedness</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Honourable WILLIAM STERLING BLAIR, Minister of State (Emergency Preparedness) to assist the Minister of Public Safety and Emergency Preparedness in the carrying out of that Minister’s responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0071  <strong>Publication Date:</strong> 2021-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41287&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0919",
-  "htmlHash": "4e8cc5f093a02c72ae33fcd5e9abacd7"
+  "htmlHash": "4e8cc5f093a02c72ae33fcd5e9abacd7",
+  "attachments": [
+    "attachment.php?attach=41287&lang=en"
+  ]
 }

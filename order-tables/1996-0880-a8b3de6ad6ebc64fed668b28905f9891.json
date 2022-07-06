@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0880</td><td>1996-06-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the MUNICIPALITY OF IQALUIT as the seat of government of\nNunavut, effective immediately after the coming into force of section 4\nof that Act. (June 20, 1996)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0880",
-  "htmlHash": "a8b3de6ad6ebc64fed668b28905f9891"
+  "htmlHash": "a8b3de6ad6ebc64fed668b28905f9891",
+  "attachments": []
 }

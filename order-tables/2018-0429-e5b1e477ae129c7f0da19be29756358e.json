@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0429</td><td>2018-04-20</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Opioids)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (OPIOIDS) in order to (1) strengthen the post-market oversight of prescription opioids, allowing for earlier identification of risks and earlier and more effective interventions, by authorizing the Minister to impose terms and conditions on opioid authorization holders; and (2) better inform Canadian patients about the safe use of opioids and their associated risks, via a mandatory warning sticker and patient information handout for prescribed opioids at time of dispensing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0077  <strong>Publication Date:</strong> 2018-05-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36098&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0429",
-  "htmlHash": "e5b1e477ae129c7f0da19be29756358e"
+  "htmlHash": "e5b1e477ae129c7f0da19be29756358e",
+  "attachments": [
+    "attachment.php?attach=36098&lang=en"
+  ]
 }

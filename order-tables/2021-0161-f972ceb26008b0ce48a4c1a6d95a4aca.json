@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0161</td><td>2021-03-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">International Bridges and Tunnels Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Construction and operation of a new two-lane replacement Edmundston-Madawaska International Bridge and the alteration by demolition of the existing bridge</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the construction and operation of a new two-lane replacement EDMUNDSTON-MADAWASKA INTERNATIONAL BRIDGE and the alteration by demolition of the existing bridge, subject to terms and conditions that will ensure the safety and security of the crossing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40343&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0161",
-  "htmlHash": "f972ceb26008b0ce48a4c1a6d95a4aca"
+  "htmlHash": "f972ceb26008b0ce48a4c1a6d95a4aca",
+  "attachments": [
+    "attachment.php?attach=40343&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1000</td><td>2002-06-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IRB,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the IMMIGRATION APPEAL DIVISION RULES which set out in some\ndetail the activities, practices and procedures of the Immigration Appeal\nDivision of the Immigration and Refugee Board, and come into force on\nJune 28, 2002.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0230  <strong>Publication Date:</strong> 2002-07-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1000",
-  "htmlHash": "53712c6c97a8d3056ecefd489a49f30b"
+  "htmlHash": "53712c6c97a8d3056ecefd489a49f30b",
+  "attachments": []
 }

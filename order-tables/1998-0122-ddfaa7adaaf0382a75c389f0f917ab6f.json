@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0122</td><td>1998-02-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning one or more secondary accreditations, at the rank of\nAmbassador and Plenipotentiary or High Commissioner for Canada, to the\nsenior envoys at a number of diplomatic posts.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0122",
-  "htmlHash": "ddfaa7adaaf0382a75c389f0f917ab6f"
+  "htmlHash": "ddfaa7adaaf0382a75c389f0f917ab6f",
+  "attachments": []
 }

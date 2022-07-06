@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0030</td><td>2004-01-27</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon First Nations Self-Government Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER AMENDING SCHEDULE II TO THE YUKON FIRST NATION SELF-GOVERNMENT ACT by adding the KLUANE FIRST NATION to Schedule II, effective February 2, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0009  <strong>Publication Date:</strong> 2004-02-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5658&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0030",
-  "htmlHash": "387d146917333b0eac5ad5ec008d0921"
+  "htmlHash": "387d146917333b0eac5ad5ec008d0921",
+  "attachments": [
+    "attachment.php?attach=5658&lang=en"
+  ]
 }

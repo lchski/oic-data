@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0751</td><td>2007-05-11</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of E. CONNIE SNOW of Mount Pearl, Newfoundland and Labrador, to be a part-time member of the National Parole Board, Atlantic Regional Division, to hold office during good behaviour for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16433&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0751",
-  "htmlHash": "109b88a5918fd5c874683467a43437c5"
+  "htmlHash": "109b88a5918fd5c874683467a43437c5",
+  "attachments": [
+    "attachment.php?attach=16433&lang=en"
+  ]
 }

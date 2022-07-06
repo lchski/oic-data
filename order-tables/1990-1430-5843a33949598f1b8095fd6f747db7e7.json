@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1430</td><td>1990-07-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Virginia Greene, of Vancouver, British Columbia, as a\nmember of the National Film Board to hold office for a period of three\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1430",
-  "htmlHash": "5843a33949598f1b8095fd6f747db7e7"
+  "htmlHash": "5843a33949598f1b8095fd6f747db7e7",
+  "attachments": []
 }

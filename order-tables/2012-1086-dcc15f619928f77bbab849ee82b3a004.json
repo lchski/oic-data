@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1086</td><td>2012-09-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Northwest Territories Fishery Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NORTHWEST TERRITORIES FISHERY REGULATIONS in order to protect the species that are spawning in Baker Creek from being harmed or killed by catch and release or fished during the spawning season by prohibiting sport fishing while fish are spawning in order to promote the reproductive potential of the population.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0185  <strong>Publication Date:</strong> 2012-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26523&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1086",
-  "htmlHash": "dcc15f619928f77bbab849ee82b3a004"
+  "htmlHash": "dcc15f619928f77bbab849ee82b3a004",
+  "attachments": [
+    "attachment.php?attach=26523&lang=en"
+  ]
 }

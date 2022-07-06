@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2353</td><td>1991-11-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign a FRAMEWORK AGREEMENT with the Government of the United\nStates of MEXICO concerning CO-OPERATION IN THE FIELDS OF MUSEUMS AND\nARCHEOLOGY or to execute and issue an Instrument of Full Powers authorizing\nthe Hon. Perrin Beatty or David J.S. Winfield, or Alain Gourd to sign the\nsaid Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2353",
-  "htmlHash": "5f731e869575a066337fa96670ea9261"
+  "htmlHash": "5f731e869575a066337fa96670ea9261",
+  "attachments": []
 }

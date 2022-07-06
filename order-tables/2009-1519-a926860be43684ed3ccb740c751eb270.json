@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1519</td><td>2009-09-09</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Historic Sites and Monuments Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of LEONARD CUSACK from Emyvale, Prince Edward Island, as a member of the Historic Sites and Monuments Board of Canada, as a representative of the Province of Prince Edward Island, to hold office during pleasure for a period of three years, effective December 6, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21436&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1519",
-  "htmlHash": "a926860be43684ed3ccb740c751eb270"
+  "htmlHash": "a926860be43684ed3ccb740c751eb270",
+  "attachments": [
+    "attachment.php?attach=21436&lang=en"
+  ]
 }

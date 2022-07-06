@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0788</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations made under the Pension Benefits Standards Act, 1985\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending Certain Regulations made under THE PENSION BENEFITS STANDARDS ACT, 1985 by amending the Regulations 1) in respect of funding rules of pension plans to ensure that the rights and interests of pension plan members, retirees and their beneficiaries are protected and 2) to investment rules will provide more flexibility for plans to choose the investment options that best suit their investment needs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0149  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0788",
-  "htmlHash": "49554a8fc5ad39417478cf7375b8c1fa"
+  "htmlHash": "49554a8fc5ad39417478cf7375b8c1fa",
+  "attachments": [
+    "attachment.php?attach=22763&lang=en"
+  ]
 }

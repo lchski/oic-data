@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2202</td><td>1990-10-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; COM,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decline to set aside or refer back Decision CRTC 90-693 of August 8, 1990\nto the Canadian Radio-television and Telecommunications Commission for\nreconsideration and hearing.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0154  <strong>Publication Date:</strong> 1990-10-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2202",
-  "htmlHash": "81c30824d966d99d42143b9022b4fa5e"
+  "htmlHash": "81c30824d966d99d42143b9022b4fa5e",
+  "attachments": []
 }

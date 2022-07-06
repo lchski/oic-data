@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0011</td><td>2014-01-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 4, 2013-14</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARK BAILEY as Ambassador Extraordinary and Plenipotentiary of Canada to the Slovak Republic, with residence in Vienna; PHILIPPE BEAULNE as High Commissioner for Canada in the Republic of the Gambia and as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Cabo Verde, with residence in Dakar; DOUGLAS GEORGE as Consul General of Canada in Detroit (United States of America); JEAN-PIERRE HAMEL as Consul General of Canada in Monterrey (United Mexican States); and ROY NORTON as Consul General of Canada in Chicago (United States of America).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28789&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0011",
-  "htmlHash": "e63f41f081118c6752ea4e4c82e6746d"
+  "htmlHash": "e63f41f081118c6752ea4e4c82e6746d",
+  "attachments": [
+    "attachment.php?attach=28789&lang=en"
+  ]
 }

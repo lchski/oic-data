@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0166</td><td>2017-02-24</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Henvey Inlet First Nation - Bay James Railway Specific Claim Settlement ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the Minister to execute, on behalf of Her Majesty in Right of Canada, the HENVEY INLET FIRST NATION JAMES BAY RAILWAY SPECIFIC CLAIM SETTLEMENT AGREEMENT between Canada and the Henvey Inlet First Nation; and (2) accepting the absolute surrender to Canada of all rights and interest, save and except all sub-surface mineral and mining rights of the lands.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33078&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0166",
-  "htmlHash": "8faa63dc2ac92da5ccdd8254557b3eef"
+  "htmlHash": "8faa63dc2ac92da5ccdd8254557b3eef",
+  "attachments": [
+    "attachment.php?attach=33078&lang=en"
+  ]
 }

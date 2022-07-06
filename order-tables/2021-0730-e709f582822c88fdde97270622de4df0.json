@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0730</td><td>2021-07-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; PHAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to COVID-19 in Canada Order (Prohibition of Entry into Canada from the United States)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO COVID-19 IN CANADA ORDER (PROHIBITION OF ENTRY INTO CANADA FROM THE UNITED STATES) in order to (1) support Canada’s continued focus on reducing the introduction and further spread of COVID-19 by decreasing the risk of importing cases from outside the country; (2) continue to prohibit entry into Canada of foreign nationals arriving from the U.S. for an optional or discretionary purpose, with some limited exceptions, and if they have reasonable grounds to suspect they have COVID-19, if they have signs and symptoms of COVID-19, or if they know they have COVID-19; (3) continue to maintain the requirements from the previous Order; and (4) extend the restrictions on entry into Canada until August 21, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41035&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0730",
-  "htmlHash": "e709f582822c88fdde97270622de4df0"
+  "htmlHash": "e709f582822c88fdde97270622de4df0",
+  "attachments": [
+    "attachment.php?attach=41035&lang=en"
+  ]
 }

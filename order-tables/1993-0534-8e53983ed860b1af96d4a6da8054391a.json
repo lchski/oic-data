@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0534</td><td>1993-03-23</td><td>0</td><td></td><td>TB,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the IMMIGRATION ACT FEES REGULATIONS which raise the fees for\neight immigration services and introduce two new fees, one for a multiple-\nentry Visitor Visa ($75) and one for the replacement of a lost or expired\nPermanent Resident Card ($40), effective April 1, 1993\n(Cost-recovery - Phase V).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0144  <strong>Publication Date:</strong> 1993-04-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0534",
-  "htmlHash": "8e53983ed860b1af96d4a6da8054391a"
+  "htmlHash": "8e53983ed860b1af96d4a6da8054391a",
+  "attachments": []
 }

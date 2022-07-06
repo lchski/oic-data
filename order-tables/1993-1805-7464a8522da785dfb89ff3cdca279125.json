@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1805</td><td>1993-09-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 793 requiring that\nmanufacturers of drugs in packages other than drugs in the form of\ntoothpaste containing more than an equivalent of 120 mg of fluoride ion\nshall carry cautionary statements in the inner and the outer labels,\neffective December 1, 1994.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0468  <strong>Publication Date:</strong> 1993-10-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1805",
-  "htmlHash": "7464a8522da785dfb89ff3cdca279125"
+  "htmlHash": "7464a8522da785dfb89ff3cdca279125",
+  "attachments": []
 }

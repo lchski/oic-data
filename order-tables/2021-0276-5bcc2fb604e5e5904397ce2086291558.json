@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0276</td><td>2021-04-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">National Day of Remembrance of the Québec City Mosque Attack and Action against Islamophobia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue requesting the people of Canada to observe January 29 of every year as a \"National Day of Remembrance of the Québec City Mosque Attack and Action against Islamophobia\".</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0276",
-  "htmlHash": "5bcc2fb604e5e5904397ce2086291558"
+  "htmlHash": "5bcc2fb604e5e5904397ce2086291558",
+  "attachments": [
+    "attachment.php?attach=40464&lang=en"
+  ]
 }

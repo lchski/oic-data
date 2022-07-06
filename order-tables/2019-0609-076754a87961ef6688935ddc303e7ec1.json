@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0609</td><td>2019-05-31</td><td></td><td></td><td>,&nbsp; PS,&nbsp; CBSA,&nbsp; IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (Electronic Administration)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (IRCC) (ELECTRONIC ADMINISTRATION) in order to (1) enhance the legal framework for the use of electronic tools within the immigration system, thereby improving certainty, consistency and predictability for IRCC, the Canada Border Services Agency, and their clients, while also boosting processing efficiency and service delivery; (2) target a more streamlined application process for family sponsorships, and provide IRCC with greater flexibility in where it accepts non-electronic applications in both temporary and permanent resident immigration programs; and (3) clarify and update the Regulations by repealing obsolete provisions and making non-substantive refinements to existing provisions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0174  <strong>Publication Date:</strong> 2019-06-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38031&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0609",
-  "htmlHash": "076754a87961ef6688935ddc303e7ec1"
+  "htmlHash": "076754a87961ef6688935ddc303e7ec1",
+  "attachments": [
+    "attachment.php?attach=38031&lang=en"
+  ]
 }

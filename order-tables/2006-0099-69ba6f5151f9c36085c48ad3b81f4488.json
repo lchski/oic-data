@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0099</td><td>2006-02-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2005-1753 of October 4, 2005 by deleting paragaph (b), and by replacing paragraph (c) with \"orders that the person appointed pursuant to paragraph (a) shall be styled Deputy Head of Service Canada and Associate Deputy Minister of Human Resources and Social Development\".</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14005&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0099",
-  "htmlHash": "69ba6f5151f9c36085c48ad3b81f4488"
+  "htmlHash": "69ba6f5151f9c36085c48ad3b81f4488",
+  "attachments": [
+    "attachment.php?attach=14005&lang=en"
+  ]
 }

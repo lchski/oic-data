@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0090</td><td>2010-01-22</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declining to Refer Back to the CRTC Decision CRTC 2009-673\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to refer back to the Canadian Radio-television and Telecommunications Commission (CRTC) Decision CRTC 2009-673 of October 27, 2009 for reconsideration and hearing with respect to the application by the Canadian Broadcasting Corporation for a broadcasting licence.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0007  <strong>Publication Date:</strong> 2010-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22063&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0090",
-  "htmlHash": "0dbf666d1b27b7bd71961496a454d6f7"
+  "htmlHash": "0dbf666d1b27b7bd71961496a454d6f7",
+  "attachments": [
+    "attachment.php?attach=22063&lang=en"
+  ]
 }

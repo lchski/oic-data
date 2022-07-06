@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0419</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT to the rank of INSPECTOR of the following NON-COMMISSIONED OFFICERS:\n\n 1. Sergeant Irving T. JONES\n 2. Corporal Angela L. WORKMAN</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10021&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0419",
-  "htmlHash": "b8455c1d315be9186976cc846073ce8f"
+  "htmlHash": "b8455c1d315be9186976cc846073ce8f",
+  "attachments": [
+    "attachment.php?attach=10021&lang=en"
+  ]
 }

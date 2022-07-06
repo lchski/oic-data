@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0282</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the ACCOUNTING FOR IMPORTED GOODS AND PAYMENT OF DUTIES\nREGULATIONS which establish a \"billing period\" and allow importers to\nmake a payment at any time between the time of accounting and the last\nbusiness day of the month during which the billing period ends.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0129  <strong>Publication Date:</strong> 1992-03-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0282",
-  "htmlHash": "0e73a3e5cb0069d43c02ed06524d3779"
+  "htmlHash": "0e73a3e5cb0069d43c02ed06524d3779",
+  "attachments": []
 }

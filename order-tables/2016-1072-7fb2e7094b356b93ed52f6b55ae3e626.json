@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1072</td><td>2016-12-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALICE THERESE TOAL of Vancouver, British-Columbia, to be a part-time member of the Social Security Tribunal for the Income Security Section, to hold office during good behaviour for a term of two years, effective January 3, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32769&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1072",
-  "htmlHash": "7fb2e7094b356b93ed52f6b55ae3e626"
+  "htmlHash": "7fb2e7094b356b93ed52f6b55ae3e626",
+  "attachments": [
+    "attachment.php?attach=32769&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1434</td><td>2004-11-29</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FIREARMS LICENCES REGULATIONS to streamline the Firearms Program.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0274  <strong>Publication Date:</strong> 2004-12-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8822&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1434",
-  "htmlHash": "ff2594f7f002aa55e8c9cbbb7b28bc7d"
+  "htmlHash": "ff2594f7f002aa55e8c9cbbb7b28bc7d",
+  "attachments": [
+    "attachment.php?attach=8822&lang=en"
+  ]
 }

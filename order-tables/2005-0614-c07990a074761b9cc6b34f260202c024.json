@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0614</td><td>2005-04-19</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1272 - LEVONORGESTREL) by removing levonorgestrel sold in 0.75 mg units from the list of prescription drugs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0105  <strong>Publication Date:</strong> 2005-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10457&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0614",
-  "htmlHash": "c07990a074761b9cc6b34f260202c024"
+  "htmlHash": "c07990a074761b9cc6b34f260202c024",
+  "attachments": [
+    "attachment.php?attach=10457&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1019</td><td>2015-06-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Community Participation Funding Program ** Grant Agreements **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2014-1174 of October 30, 2014; and (2) authorizing the Minister of Transport to enter into GRANT AGREEMENTS with local communities and Aboriginal groups that are eligible recipients under the COMMUNITY PARTICIPATION FUNDING PROGRAM for the purpose of encouraging the effective participation of recipients and of increasing their capacity to become involved and to share their knowledge and expertise in the development and improvement of Canada's MARINE TRANSPORTATION SYSTEM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31346&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1019",
-  "htmlHash": "de8f2e1a603309605bdbd50218a6b000"
+  "htmlHash": "de8f2e1a603309605bdbd50218a6b000",
+  "attachments": [
+    "attachment.php?attach=31346&lang=en"
+  ]
 }

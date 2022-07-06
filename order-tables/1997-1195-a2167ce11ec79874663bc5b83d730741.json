@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1195</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Prescribing an additional period during which costs of maintaining the\nformer residence of the Hon. GORDON I. THOMSON, a Judge of the Ontario\nCourt of Justice (General Division), can be reimbursed.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1195",
-  "htmlHash": "a2167ce11ec79874663bc5b83d730741"
+  "htmlHash": "a2167ce11ec79874663bc5b83d730741",
+  "attachments": []
 }

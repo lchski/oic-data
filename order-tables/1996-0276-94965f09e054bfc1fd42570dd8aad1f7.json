@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0276</td><td>1996-03-05</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to raise funds over the course of the 1995/96 fiscal year, for\npublic works and general purposes, by way of the issue and sale of Treasury\nBills and Treasury Notes or other Government of Canada securities, and to\nappoint Bank of Montreal Trust Company, New York, as fiscal agent.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0276",
-  "htmlHash": "94965f09e054bfc1fd42570dd8aad1f7"
+  "htmlHash": "94965f09e054bfc1fd42570dd8aad1f7",
+  "attachments": []
 }

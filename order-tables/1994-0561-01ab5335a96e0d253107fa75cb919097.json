@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0561</td><td>1994-04-14</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; SSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SEIZED PROPERTY DISPOSITION REGULATIONS respecting the\nmanner in which the Government may dispose of seized property, by public\nauction or tender or otherwise, and the calculation of the net proceeds of\ndisposition to be credited to the Proceeds Account.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0303  <strong>Publication Date:</strong> 1994-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0561",
-  "htmlHash": "01ab5335a96e0d253107fa75cb919097"
+  "htmlHash": "01ab5335a96e0d253107fa75cb919097",
+  "attachments": []
 }

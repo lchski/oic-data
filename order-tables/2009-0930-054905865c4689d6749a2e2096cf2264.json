@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0930</td><td>2009-06-09</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILTON LITTLECHILD of Hobbema, Alberta, as Commissioner of the Indian Residential Schools Truth and Reconciliation Commission, to hold office during good behaviour for a term of five years, effective July 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20834&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0930",
-  "htmlHash": "054905865c4689d6749a2e2096cf2264"
+  "htmlHash": "054905865c4689d6749a2e2096cf2264",
+  "attachments": [
+    "attachment.php?attach=20834&lang=en"
+  ]
 }

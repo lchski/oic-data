@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0917</td><td>1993-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating the following\ncountries as states which are eligible to participate in the\nMILITARY TRAINING ASSISTANCE PROGRAM.\n.\n  1. The Czech Republic       -  La République tchèque\n  2. The Republic of Hungary  -  La République de Hongrie\n  3. The Republic of Poland   -  La République de Pologne\n  4. The Slovak Republic      -  La République slovaque\n  5. Ukraine                  -  L'Ukraine\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0076  <strong>Publication Date:</strong> 1993-06-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0917",
-  "htmlHash": "f79c07150cec4c0e5daf8f41b2e9bca4"
+  "htmlHash": "f79c07150cec4c0e5daf8f41b2e9bca4",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1367</td><td>2017-11-09</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Race Relations  Foundation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ORLANDO BOWEN of Brampton, Ontario, to be a director of the Board of Directors of the Canadian Race Relations Foundation, to hold office during pleasure for a term of three years, on a part-time basis, effective December 15, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35277&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1367",
-  "htmlHash": "094c48342cf4d8d289799c8402120ba4"
+  "htmlHash": "094c48342cf4d8d289799c8402120ba4",
+  "attachments": [
+    "attachment.php?attach=35277&lang=en"
+  ]
 }

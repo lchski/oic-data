@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0711</td><td>1996-05-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS (SCHEDULE NO. 1021) which sets\na Maximum Residue Limit on the amount of \"GLYPHOSATE\" (a preplant or\npostharvest treatment used in the control of annual and perennial weeds on\ncrop and noncrop land) that may be detected in oats.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0261  <strong>Publication Date:</strong> 1996-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0711",
-  "htmlHash": "a0fa69755c13cc5872c5807e44dd4915"
+  "htmlHash": "a0fa69755c13cc5872c5807e44dd4915",
+  "attachments": []
 }

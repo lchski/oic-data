@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1297</td><td>2014-11-27</td><td></td><td></td><td>,&nbsp; TC,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Specifying the Minimum Amount of Grain to Be Moved, No. 2</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Specifying the MINIMUM AMOUNT OF GRAIN TO BE MOVED, NO.2  in order to ensure that minimum grain volume requirements, which are currently in place under the Order Specifying the Minimum Amount of Grain to Be Moved, continue to apply at appropriate levels for the coming winter.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0276  <strong>Publication Date:</strong> 2014-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30117&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1297",
-  "htmlHash": "a6100b1f46f1cd61559649b19b81c90f"
+  "htmlHash": "a6100b1f46f1cd61559649b19b81c90f",
+  "attachments": [
+    "attachment.php?attach=30117&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1840</td><td>2003-11-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of NON-COMMISSIONED RCMP OFFICERS to the rank of INSPECTOR: \n\n 1. Sergeant T.W. KOPAN\n 2. Staff Sergeant J.G.E. ROCHETTE</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4994&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1840",
-  "htmlHash": "e4b8e6c395b815159d3b93bf99aefba3"
+  "htmlHash": "e4b8e6c395b815159d3b93bf99aefba3",
+  "attachments": [
+    "attachment.php?attach=4994&lang=en"
+  ]
 }

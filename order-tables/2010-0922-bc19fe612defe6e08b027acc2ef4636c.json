@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0922</td><td>2010-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Payments in Lieu of Taxes Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEFFREY H. LEARD of Summerside, Prince Edward Island, to be a member of the Payments in Lieu of Taxes Dispute Advisory Panel to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22902&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0922",
-  "htmlHash": "bc19fe612defe6e08b027acc2ef4636c"
+  "htmlHash": "bc19fe612defe6e08b027acc2ef4636c",
+  "attachments": [
+    "attachment.php?attach=22902&lang=en"
+  ]
 }

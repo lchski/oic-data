@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0252</td><td>2019-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Housing Assistance Program - ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Approving that the Minister of Citizenship and Immigration ENTER INTO GRANT AGREEMENTS with any province, for the costs associated with temporary housing for refugee protection claimants under the INTERIM HOUSING ASSISTANCE PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37572&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0252",
-  "htmlHash": "adc4c765eebaa929778ccfe1fd19b6c9"
+  "htmlHash": "adc4c765eebaa929778ccfe1fd19b6c9",
+  "attachments": [
+    "attachment.php?attach=37572&lang=en"
+  ]
 }

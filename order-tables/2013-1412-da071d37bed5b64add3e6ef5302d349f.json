@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1412</td><td>2013-12-17</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Historic Sites and Monuments Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BRIAN L. MacDONALD of Whitehorse, Yukon, to be a member of the Historic Sites and Monuments Board of Canada, as a representative of the Yukon, to hold office during pleasure for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28768&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1412",
-  "htmlHash": "da071d37bed5b64add3e6ef5302d349f"
+  "htmlHash": "da071d37bed5b64add3e6ef5302d349f",
+  "attachments": [
+    "attachment.php?attach=28768&lang=en"
+  ]
 }

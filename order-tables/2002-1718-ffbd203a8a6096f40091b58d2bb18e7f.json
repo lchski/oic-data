@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1718</td><td>2002-10-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CCRA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Refunding of the Goods and Services Tax paid by KAREN FRASER and\nIAN SCHOFIELD on the construction of a new residence.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0138  <strong>Publication Date:</strong> 2002-10-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1718",
-  "htmlHash": "ffbd203a8a6096f40091b58d2bb18e7f"
+  "htmlHash": "ffbd203a8a6096f40091b58d2bb18e7f",
+  "attachments": []
 }

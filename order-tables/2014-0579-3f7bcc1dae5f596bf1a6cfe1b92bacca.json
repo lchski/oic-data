@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0579</td><td>2014-05-15</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Order Declaring an Amnesty Period (2006)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ORDER DECLARING AN AMNESTY PERIOD (2006) in order to extend the firearms compliance measures until May 16, 2015 and help to increase and maintain compliance with federal firearms legislation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0123  <strong>Publication Date:</strong> 2014-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29393&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0579",
-  "htmlHash": "3f7bcc1dae5f596bf1a6cfe1b92bacca"
+  "htmlHash": "3f7bcc1dae5f596bf1a6cfe1b92bacca",
+  "attachments": [
+    "attachment.php?attach=29393&lang=en"
+  ]
 }

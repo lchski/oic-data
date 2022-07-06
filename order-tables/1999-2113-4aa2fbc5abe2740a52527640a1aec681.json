@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2113</td><td>1999-11-30</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of KENNETH W. RICHARD VOLLMAN, of Calgary, Alberta, as a\nmember of the National Energy Board to hold office during good behaviour\nfor a term of seven years; and designation of KENNETH W. RICHARD VOLLMAN\nas Chairman of the National Energy Board to hold office during pleasure,\neffective June 3, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2113",
-  "htmlHash": "4aa2fbc5abe2740a52527640a1aec681"
+  "htmlHash": "4aa2fbc5abe2740a52527640a1aec681",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0176</td><td>2009-02-05</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a REVOCATION OF SURRENDER and a DESIGNATION of reserve lands for leasing purposes of a portion of approximately 13.79 hectares of land on Burnt Church Indian Reserve No. 14 and approximately 4.05 hectares of land on Tabusintac Indian Reserve No. 9 of the BURNT CHURCH BAND, in New Brunswick.\n(LT-08-07)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20024&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0176",
-  "htmlHash": "9dce2b97cc323122e00e41b10ae7fc99"
+  "htmlHash": "9dce2b97cc323122e00e41b10ae7fc99",
+  "attachments": [
+    "attachment.php?attach=20024&lang=en"
+  ]
 }

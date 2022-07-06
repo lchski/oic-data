@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0128</td><td>2019-02-28</td><td>27</td><td>2018</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; ESDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order fixing March 17, 2019 as the day on which sections 303 to 307, and 310 and 311 of that Act come into force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing March 17, 2019 as the day on which sections 303 to 307, and 310 and 311 of the BUDGET IMPLEMENTATION ACT, 2018, NO. 2, chapter 27 of the Statutes of Canada, 2018, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0011  <strong>Publication Date:</strong> 2019-03-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0128",
-  "htmlHash": "3e6ca1fd9c9a888332f46eed1d12414a"
+  "htmlHash": "3e6ca1fd9c9a888332f46eed1d12414a",
+  "attachments": [
+    "attachment.php?attach=37447&lang=en"
+  ]
 }

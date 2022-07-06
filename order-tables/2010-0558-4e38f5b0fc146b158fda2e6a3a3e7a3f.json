@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0558</td><td>2010-04-29</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Magaret E. FANJOY  ** WIDOW'S ANNUITY ** The Hon. Edward O. Fanjoy</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to MARGARET E. FANJOY, widow of the Honourable Edward O. Fanjoy, a Judge of the Ontario Court (General Division), effective March 4, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22534&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0558",
-  "htmlHash": "4e38f5b0fc146b158fda2e6a3a3e7a3f"
+  "htmlHash": "4e38f5b0fc146b158fda2e6a3a3e7a3f",
+  "attachments": [
+    "attachment.php?attach=22534&lang=en"
+  ]
 }

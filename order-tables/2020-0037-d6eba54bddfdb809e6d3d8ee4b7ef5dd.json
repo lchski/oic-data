@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0037</td><td>2020-01-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">La Chambre de Commerce, d'Industrie et deTourisme de Cap St-Ignace (Quebec)  ** Dissolution **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the DISSOLUTION of LA CHAMBRE DE COMMERCE, D'INDUSTRIE ET DE TOURISME DE CAP ST-IGNACE, in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0037",
-  "htmlHash": "d6eba54bddfdb809e6d3d8ee4b7ef5dd"
+  "htmlHash": "d6eba54bddfdb809e6d3d8ee4b7ef5dd",
+  "attachments": [
+    "attachment.php?attach=38828&lang=en"
+  ]
 }

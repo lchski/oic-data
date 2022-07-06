@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1246</td><td>2015-11-04</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule l.1 of the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to SCHEDULE I.1 to the FINANCIAL ADMINISTRATION ACT by striking out the reference to the Minister of Canadian Heritage in column II of that Schedule opposite the name of the Public Service Commission in column I of that Schedule and by substituting for that reference a reference to the Minister of Public Works and Government Services in column II of that Schedule opposite that name, effective November 4, 2015.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31608&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1246",
-  "htmlHash": "c13907e1d02266c34073d18e8645605a"
+  "htmlHash": "c13907e1d02266c34073d18e8645605a",
+  "attachments": [
+    "attachment.php?attach=31608&lang=en"
+  ]
 }

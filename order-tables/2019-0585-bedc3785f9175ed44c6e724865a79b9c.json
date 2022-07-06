@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0585</td><td>2019-05-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Women Deliver 2019 Global Conference — Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">WOMEN DELIVER 2019 GLOBAL CONFERENCE – PRIVILEGES AND IMMUNITIES ORDER in order to (1) facilitate attendance and participation in the Women Deliver Ministerial; and (2) provide privileges and immunities to representatives of foreign states.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0151  <strong>Publication Date:</strong> 2019-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37909&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0585",
-  "htmlHash": "bedc3785f9175ed44c6e724865a79b9c"
+  "htmlHash": "bedc3785f9175ed44c6e724865a79b9c",
+  "attachments": [
+    "attachment.php?attach=37909&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1261</td><td>1992-06-11</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of BRITISH COLUMBIA of the\nadministration, control and benefit of a parcel of land situate at\nHOSPITAL BAY which contains an area of 0.5970 of a hectare and is to be\nused as a site for a public wharf and for float purposes.\n(Lot 5800, Group 1, New Westminster District)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1261",
-  "htmlHash": "2975563a305521f70c0c08b3fd421885"
+  "htmlHash": "2975563a305521f70c0c08b3fd421885",
+  "attachments": []
 }

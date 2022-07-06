@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0463</td><td>2017-05-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Weights and Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedules l and lV to the Weights and Measures Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULES I AND IV TO THE WEIGHTS AND MEASURES ACT in order to modify the classification of two units of measurement in Schedule I , and update the reference standards listed in Schedule IV of the Weights and Measures Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0080  <strong>Publication Date:</strong> 2017-05-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34424&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0463",
-  "htmlHash": "3599258a47f62aa367343de7b934472e"
+  "htmlHash": "3599258a47f62aa367343de7b934472e",
+  "attachments": [
+    "attachment.php?attach=34424&lang=en"
+  ]
 }

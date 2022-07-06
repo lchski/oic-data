@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1388</td><td>2004-11-23</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1242 - ERYTHRITOL) by making provision for the use of erythritol as a carrier for intense sweeteners in table-top sweeteners and as a sweetener in dietetic beverages, fat-based cream fillings and toppings, dietetic cookies and wafers, soft and hard candies, and in chewing gum.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0261  <strong>Publication Date:</strong> 2004-12-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8696&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1388",
-  "htmlHash": "d7a049d285a938a82d3ac9c33b17539a"
+  "htmlHash": "d7a049d285a938a82d3ac9c33b17539a",
+  "attachments": [
+    "attachment.php?attach=8696&lang=en"
+  ]
 }

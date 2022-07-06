@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1017</td><td>2019-07-08</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BRIAN MAYNARD of Calgary, Alberta, to be a member of the Canada–Newfoundland and Labrador Offshore Petroleum Board, to hold office during good behaviour for a term of six years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38345&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1017",
-  "htmlHash": "99aaf905213163dc436aaa9e91aced2d"
+  "htmlHash": "99aaf905213163dc436aaa9e91aced2d",
+  "attachments": [
+    "attachment.php?attach=38345&lang=en"
+  ]
 }

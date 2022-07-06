@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1553</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the NATIONAL PARKS WILDLIFE REGULATIONS revising the section\nof the regulations which specifies the open season dates for Eider and\nOldsquaw duck hunting in Mingan Archipelago National Park Reserve in\nQuebec, by making reference to the schedule of dates listed in the\nMigratory Birds Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0441  <strong>Publication Date:</strong> 1992-08-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1553",
-  "htmlHash": "7cb73e31ac93ce5996785860a19c5c89"
+  "htmlHash": "7cb73e31ac93ce5996785860a19c5c89",
+  "attachments": []
 }

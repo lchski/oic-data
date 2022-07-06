@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1474</td><td>1997-10-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment to Certificate of Public Convenience and Necessity\nNo. OC-41 that will allow INTERPROVINCIAL PIPE LINE INC. to revise the\ndesign of the pump motors, as set out in N.E.B. Order AO-1-OC-41.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1474",
-  "htmlHash": "e30c61a453367b091c38143daf695f19"
+  "htmlHash": "e30c61a453367b091c38143daf695f19",
+  "attachments": []
 }

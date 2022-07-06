@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0883</td><td>2016-10-19</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALAIN JOLICOEUR of Ottawa, Ontario, to be a temporary member of the National Energy Board for a term of two years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32579&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0883",
-  "htmlHash": "5e3d372b9d362cae0ba658b13ffa9555"
+  "htmlHash": "5e3d372b9d362cae0ba658b13ffa9555",
+  "attachments": [
+    "attachment.php?attach=32579&lang=en"
+  ]
 }

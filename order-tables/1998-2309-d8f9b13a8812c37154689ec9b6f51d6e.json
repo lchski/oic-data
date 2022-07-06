@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2309</td><td>1998-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the LOWER KOOTENAY (an Indian Band)\nsurrenders, for a term of 99 years, the whole of Lower Kootenay Indian\nReserve No. 2, in British Columbia, for leasing and ancillary purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2309",
-  "htmlHash": "d8f9b13a8812c37154689ec9b6f51d6e"
+  "htmlHash": "d8f9b13a8812c37154689ec9b6f51d6e",
+  "attachments": []
 }

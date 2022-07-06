@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1547</td><td>2009-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">A Kwis Ki Mahka Indian Reserve ** SETTING APART **  LED-09-06</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the the FOX LAKE First Nation, as A KWIS KI MAHKA Indian Reserve, of 1.29 hectares of land, (3.21 acres), including mines and minerals, situated in the District of Gillam and is approximately 300 kilometres from the City of Thompson, Manitoba.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21362&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1547",
-  "htmlHash": "d7f8d85746bb797c875a743ce7ec12f9"
+  "htmlHash": "d7f8d85746bb797c875a743ce7ec12f9",
+  "attachments": [
+    "attachment.php?attach=21362&lang=en"
+  ]
 }

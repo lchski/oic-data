@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0944</td><td>2009-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CFIA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Agricultural Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Organic Products Regulations, 2009</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">To facilitate international market access, to provide protection to consumers against deceptive and misleading labelling practices through a uniform approach to organic product certification and labelling, to support further development of the domestic market and to allow the preservation of the organic nature and integrity of organic products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0176  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0944",
-  "htmlHash": "17122439b78682ddb0ce9703c94ebf2c"
+  "htmlHash": "17122439b78682ddb0ce9703c94ebf2c",
+  "attachments": [
+    "attachment.php?attach=20795&lang=en"
+  ]
 }

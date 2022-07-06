@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0438</td><td>2015-04-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; PCA-OLD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the National Historic Sites of Canada Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the NATIONAL HISTORIC SITES OF CANADA ORDER in order to provide the wreck of HMS Erebus with legal protection provided by the Canada National Parks Act in order to prohibit unauthorised access to the national historic site, including the disturbance or removal of artifacts, or harmful activities in the area of the shipwreck, so that the heritage value of the shipwreck can be protected for present and future generations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0088  <strong>Publication Date:</strong> 2015-04-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30764&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0438",
-  "htmlHash": "b64a475697f96468a442b422ab698ea1"
+  "htmlHash": "b64a475697f96468a442b422ab698ea1",
+  "attachments": [
+    "attachment.php?attach=30764&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1559</td><td>2002-09-24</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or invest other\nofficials with full powers to sign the INTERNATIONAL CONVENTION ON CIVIL\nLIABILITY FOR BUNKER OIL POLLUTION DAMAGE, 2001, subject to ratification.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1559",
-  "htmlHash": "3c2cb6045af978726dab9dac39aeb433"
+  "htmlHash": "3c2cb6045af978726dab9dac39aeb433",
+  "attachments": []
 }

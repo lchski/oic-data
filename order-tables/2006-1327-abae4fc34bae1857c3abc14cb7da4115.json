@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1327</td><td>2006-11-10</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOSEPH SEAN MACDONALD of Markham, Ontario, to be Chairperson of the Boards of Referees for the Ontario Regional Division, and particularly for the District of Toronto, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15295&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1327",
-  "htmlHash": "abae4fc34bae1857c3abc14cb7da4115"
+  "htmlHash": "abae4fc34bae1857c3abc14cb7da4115",
+  "attachments": [
+    "attachment.php?attach=15295&lang=en"
+  ]
 }

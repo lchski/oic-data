@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1686</td><td>1992-07-23</td><td>0</td><td></td><td>PWC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL CAPITAL COMMISSION to enter into a lease\nagreement with CHAMBERS OTTAWA (1990) INC. for the occupancy of\napproximately 12,695 m² of office space located in the building known as\nthe CAPITAL CHAMBERS at 53 Queen Street, Ottawa, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1686",
-  "htmlHash": "a0767ffcecedda16de8844ba7989259b"
+  "htmlHash": "a0767ffcecedda16de8844ba7989259b",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0554</td><td>2003-04-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Hon. STEVEN W. MAHONEY, a Minister of State, to be known as Secretary of State (Selected Crown Corporations), to assist the Minister of Transport in the discharge of his responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0095  <strong>Publication Date:</strong> 2003-04-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2094&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0554",
-  "htmlHash": "f4bcbd950a52664222939ffc92703e3d"
+  "htmlHash": "f4bcbd950a52664222939ffc92703e3d",
+  "attachments": [
+    "attachment.php?attach=2094&lang=en"
+  ]
 }

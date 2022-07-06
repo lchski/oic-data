@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0172</td><td>2005-02-10</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of DAVID BARNARD of Regina, Saskatchewan, as a director of the Board of Directors of the Bank of Canada to hold office, during good behaviour, for a term ending February 28, 2007, in the place of Harold Hugh MacKay, who has resigned.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9503&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0172",
-  "htmlHash": "0e977d878216ee243990225f4f71dd3d"
+  "htmlHash": "0e977d878216ee243990225f4f71dd3d",
+  "attachments": [
+    "attachment.php?attach=9503&lang=en"
+  ]
 }

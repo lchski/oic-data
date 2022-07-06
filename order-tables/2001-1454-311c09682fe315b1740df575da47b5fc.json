@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1454</td><td>2001-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BARBARA J. CRAM, of Regina, Saskatchewan, as a full-time\nmember of the Canadian Radio-television and Telecommunications Commission\nto hold office during good behaviour for a term of three years;\ndesignation of BARBARA J. CRAM for the Manitoba/Saskatchewan region, as\nestablished under subsection 10(1.1) of that Act; and determines that\nBARBARA J. CRAM shall reside within 100 kilometres of the\nManitoba/Saskatchewan regional office; effective November 1, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1454",
-  "htmlHash": "311c09682fe315b1740df575da47b5fc"
+  "htmlHash": "311c09682fe315b1740df575da47b5fc",
+  "attachments": []
 }

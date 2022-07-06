@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0240</td><td>2020-04-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISC</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act<br>First Nations Elections Act</td></tr><tr><td>Subject</td><td colspan=\"5\">First Nations Election Cancellation and Postponement Regulations (Prevention of Diseases)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FIRST NATIONS ELECTION CANCELLATION AND POST-PONEMENT REGULATIONS (PREVENTION OF DISEASES) in order to provide First Nations councils whose mandates are to expire in the coming months with the possibility to extend their mandate for a limited period of time in order to avoid the spreading of disease.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0084  <strong>Publication Date:</strong> 2020-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39127&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0240",
-  "htmlHash": "8ca864c14e201102fc38ade63bbc82d1"
+  "htmlHash": "8ca864c14e201102fc38ade63bbc82d1",
+  "attachments": [
+    "attachment.php?attach=39127&lang=en"
+  ]
 }

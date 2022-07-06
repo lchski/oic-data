@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0644</td><td>2020-09-04</td><td></td><td></td><td>LAB,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Labour Standards Regulations (Number of Weeks)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADA LABOUR STANDARDS REGULATIONS in order to ensure that employees in the federally regulated sector that are unable or unavailable to work as a result of COVID-19 are able to continue to take job-protected leave without risking disciplinary action from their employer.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0191  <strong>Publication Date:</strong> 2020-09-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39623&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0644",
-  "htmlHash": "3928d30b74e1d219f51b7cf4d654cf96"
+  "htmlHash": "3928d30b74e1d219f51b7cf4d654cf96",
+  "attachments": [
+    "attachment.php?attach=39623&lang=en"
+  ]
 }

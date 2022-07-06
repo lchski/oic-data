@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1404</td><td>2011-12-01</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">** LETTERS PATENT ** Sept-Îles Port Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving SUPPLEMENTARY LETTERS PATENT, amending Article 9 of the letters patent issued to the SEPT-ÎLES PORT AUTHORITY, in order to increase the borrowing limit which will provide greater financial flexibility and facilitate the undertaking of essential capital projects at the port.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25086&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1404",
-  "htmlHash": "c24a4dce4a8eb512d3edee8b246870ba"
+  "htmlHash": "c24a4dce4a8eb512d3edee8b246870ba",
+  "attachments": [
+    "attachment.php?attach=25086&lang=en"
+  ]
 }

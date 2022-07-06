@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0924</td><td>1998-05-28</td><td>0</td><td></td><td>SLS,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE ST. LAWRENCE SEAWAY AUTHORITY to amend a Lease granted to\nthe Corporation of the CITY OF SALABERRY-DE-VALLEYFIELD in 1965 so that the\nsix-month cancellation clause only applies to the first 400 feet of land,\nas measured from the shore line of the Beauharnois Canal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0924",
-  "htmlHash": "83bdb73a377d2bf7d8a484e00a91ebdb"
+  "htmlHash": "83bdb73a377d2bf7d8a484e00a91ebdb",
+  "attachments": []
 }

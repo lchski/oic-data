@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0934</td><td>2016-10-21</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Standard 226)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (STANDARD 226) in order to (1) improve rollover protection in Canada by adopting the requirements of the United States Federal Motor Vehicle Safety Standard 226; and (2) fulfill Canada’s commitment to the Regulatory Cooperation Council and ensure alignment between Canada and the United States for ejection mitigation, thus minimizing cost to both manufacturers and consumers while providing a high level of safety.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0277  <strong>Publication Date:</strong> 2016-11-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32630&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0934",
-  "htmlHash": "513df44e8a92f4d6ed005eee69267b1a"
+  "htmlHash": "513df44e8a92f4d6ed005eee69267b1a",
+  "attachments": [
+    "attachment.php?attach=32630&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0527</td><td>1994-03-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">The ATOMIC ENERGY CONTROL BOARD COST RECOVERY FEES REMISSION ORDER - which\nprovides for the remission of a portion of the fees when a licence is\ncancelled prior to its expiry, where the status of a facility or its\nactivities change and the fees for that are lower, or where the fees for a\nlicence are reduced.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0039  <strong>Publication Date:</strong> 1994-04-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0527",
-  "htmlHash": "c37b5659e98ea3dbab546977b7ac41e4"
+  "htmlHash": "c37b5659e98ea3dbab546977b7ac41e4",
+  "attachments": []
 }

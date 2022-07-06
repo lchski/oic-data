@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0228</td><td>2004-03-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2003-2004</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHÈLE LÉVESQUE as Ambassador of Canada to the Republic of Liberia, with residence in Abidjan; and appointment of JULES SAVARIA as Ambassador of Canada to the Republic of Chad, with residence in Yaoundé.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6092&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0228",
-  "htmlHash": "8cbab08c14780b4b1c5260dd937cb777"
+  "htmlHash": "8cbab08c14780b4b1c5260dd937cb777",
+  "attachments": [
+    "attachment.php?attach=6092&lang=en"
+  ]
 }

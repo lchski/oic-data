@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0430</td><td>2015-04-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agri-Recovery - British Columbia Avian Influenza Assistance</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to enter into an AGREEMENT with BRITISH COLUMBIA and provide contributions of up to $1,350,000 in order to help poultry producers in the province manage the extraordinary recovery costs resulting from the AVIAN INFLUENZA OUTBREAK.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30756&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0430",
-  "htmlHash": "d300eb7e3cb7ef2471bde99bb3303b2f"
+  "htmlHash": "d300eb7e3cb7ef2471bde99bb3303b2f",
+  "attachments": [
+    "attachment.php?attach=30756&lang=en"
+  ]
 }

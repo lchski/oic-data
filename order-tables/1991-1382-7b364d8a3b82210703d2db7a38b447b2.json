@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1382</td><td>1991-07-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the rate of interest (11.875%) which is to be borne by every\nloan made pursuant to the Farm Syndicates Credit Act after August 1, 1991,\nas prescribed by Resolution of the Farm Credit Corporation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1382",
-  "htmlHash": "7b364d8a3b82210703d2db7a38b447b2"
+  "htmlHash": "7b364d8a3b82210703d2db7a38b447b2",
+  "attachments": []
 }

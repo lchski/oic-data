@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0030</td><td>2012-02-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Stamping and Marking of Tobacco Products Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the STAMPING AND MARKING OF TOBACCO PRODUCTS REGULATIONS (Miscellaneous Program), in order to update the French text of subsection 3.2(1) of the Regulations so that it is consistent with the English version.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0010  <strong>Publication Date:</strong> 2012-02-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0030",
-  "htmlHash": "3c09c414b08f4cabef97a412f144a2de"
+  "htmlHash": "3c09c414b08f4cabef97a412f144a2de",
+  "attachments": [
+    "attachment.php?attach=25448&lang=en"
+  ]
 }

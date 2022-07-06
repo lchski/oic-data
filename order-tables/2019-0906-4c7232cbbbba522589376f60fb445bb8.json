@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0906</td><td>2019-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; TBS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Official Languages Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Official Languages (Communications with and Services to the Public) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OFFICIAL LANGUAGES (COMMUNICATIONS WITH AND SERVICES TO THE PUBLIC) REGULATIONS in order to better reflect the new realities of Canadian society and to significantly improve them without calling into question their foundations and overall structure.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0242  <strong>Publication Date:</strong> 2019-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38231&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0906",
-  "htmlHash": "4c7232cbbbba522589376f60fb445bb8"
+  "htmlHash": "4c7232cbbbba522589376f60fb445bb8",
+  "attachments": [
+    "attachment.php?attach=38231&lang=en"
+  ]
 }

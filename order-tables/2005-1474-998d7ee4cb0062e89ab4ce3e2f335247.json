@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1474</td><td>2005-08-30</td><td></td><td></td><td>,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2002-1362 of August 7, 2002 which will extend the term of appointment of ROSS NICHOLLS as President and Chief Executive Officer of Defence Construction (1951) Limited until December 3, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13639&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1474",
-  "htmlHash": "998d7ee4cb0062e89ab4ce3e2f335247"
+  "htmlHash": "998d7ee4cb0062e89ab4ce3e2f335247",
+  "attachments": [
+    "attachment.php?attach=13639&lang=en"
+  ]
 }

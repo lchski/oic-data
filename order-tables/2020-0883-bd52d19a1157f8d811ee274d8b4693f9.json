@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0883</td><td>2020-11-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Veterans Ombudsperson</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order changing the English version of the name by which the special adviser to the Minister of Veterans Affairs, who may be appointed by the Governor in Council under paragraph 127.1(1)(c) of the Public Service Employment Act, is to be known to the Veterans Ombudsperson.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39889&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0883",
-  "htmlHash": "bd52d19a1157f8d811ee274d8b4693f9"
+  "htmlHash": "bd52d19a1157f8d811ee274d8b4693f9",
+  "attachments": [
+    "attachment.php?attach=39889&lang=en"
+  ]
 }

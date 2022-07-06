@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0709</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Order in Council P.C. 2007-281 of March 2, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SHANTHI JOHNSON of Regina, Saskatchewan, as a member of the National Seniors Council, to hold office during pleasure for a term of three years, effective June 21, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31031&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0709",
-  "htmlHash": "162a1bc864f975229619411f98f7646b"
+  "htmlHash": "162a1bc864f975229619411f98f7646b",
+  "attachments": [
+    "attachment.php?attach=31031&lang=en"
+  ]
 }

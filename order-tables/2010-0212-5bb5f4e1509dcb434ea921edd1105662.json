@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0212</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Payments Act</td></tr><tr><td>Subject</td><td colspan=\"5\">By-law Amending Certain By-laws Made Under the Canadian Payments Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">By-law Amending CERTAIN BY-LAWS MADE UNDER THE CANADIAN PAYMENTS ACT, in order to respond to questions and recommendations by the Standing Joint Committee for the Scrutiny of Regulations and to enhance clarity of some provisions and consistency between the French and English versions of the by-laws.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0043  <strong>Publication Date:</strong> 2010-03-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22184&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0212",
-  "htmlHash": "5bb5f4e1509dcb434ea921edd1105662"
+  "htmlHash": "5bb5f4e1509dcb434ea921edd1105662",
+  "attachments": [
+    "attachment.php?attach=22184&lang=en"
+  ]
 }

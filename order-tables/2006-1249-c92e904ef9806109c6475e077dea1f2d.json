@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1249</td><td>2006-10-30</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of FRANCINE GIRARD of Saint-Hyacinthe, Quebec, as a trustee of the Board of Trustees of the National Gallery of Canada to hold office during pleasure for a term of three years, in the place of Réjane Sanschagrin.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15219&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1249",
-  "htmlHash": "c92e904ef9806109c6475e077dea1f2d"
+  "htmlHash": "c92e904ef9806109c6475e077dea1f2d",
+  "attachments": [
+    "attachment.php?attach=15219&lang=en"
+  ]
 }

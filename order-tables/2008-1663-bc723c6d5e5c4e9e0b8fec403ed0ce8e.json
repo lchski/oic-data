@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1663</td><td>2008-09-05</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE CANADIAN AVIATION REGULATIONS (PART VI) setting the requirements for noise emission levels governing the operation of subsonic turbo-jet aeroplanes with a maximum certified take-off weight (MCTOW) of 34 000 kg or more.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0277  <strong>Publication Date:</strong> 2008-09-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19467&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1663",
-  "htmlHash": "bc723c6d5e5c4e9e0b8fec403ed0ce8e"
+  "htmlHash": "bc723c6d5e5c4e9e0b8fec403ed0ce8e",
+  "attachments": [
+    "attachment.php?attach=19467&lang=en"
+  ]
 }

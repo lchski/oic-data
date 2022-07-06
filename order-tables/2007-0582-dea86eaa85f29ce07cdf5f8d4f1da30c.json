@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0582</td><td>2007-04-19</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n  1. Staff Sergeant Joseph Albert Réal Robert Blondin\n  2. Sergeant Joseph Germain Denis Boucher\n  3. Staff Sergeant Dennis Allen Erickson\n  4. Staff Sergeant Mark Cornelis Van Schie</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16248&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0582",
-  "htmlHash": "dea86eaa85f29ce07cdf5f8d4f1da30c"
+  "htmlHash": "dea86eaa85f29ce07cdf5f8d4f1da30c",
+  "attachments": [
+    "attachment.php?attach=16248&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1490</td><td>1996-09-24</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the WITHDRAWAL FROM DISPOSAL ORDER (WAGER BAY NATIONAL PARK,\nN.W.T.) - which provides for the withdrawal from disposal of land in the\nNorthwest Territories in order to establish Wager Bay National Park.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0087  <strong>Publication Date:</strong> 1996-10-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1490",
-  "htmlHash": "0b64c0a0f0bc465b3ac751719f787b15"
+  "htmlHash": "0b64c0a0f0bc465b3ac751719f787b15",
+  "attachments": []
 }

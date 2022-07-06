@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1100</td><td>2020-12-18</td><td></td><td></td><td>AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANTHONY DOUGLAS CHORNEY of East Selkirk, Manitoba, to be a Commissioner of the Canadian Grain Commission, to hold office during good behaviour for a term of three years; and his designation as Chief Commissioner of the Canadian Grain Commission.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40112&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1100",
-  "htmlHash": "b2d297cf8eae1997b0f4e1967afbf812"
+  "htmlHash": "b2d297cf8eae1997b0f4e1967afbf812",
+  "attachments": [
+    "attachment.php?attach=40112&lang=en"
+  ]
 }

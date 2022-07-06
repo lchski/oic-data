@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1746</td><td>1991-09-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for William T. Delworth or Gary J. Smith to SIGN an Exchange of\nNotes constituting an Arrangement between the Governments of Canada, the\nKingdom of Belgium and the Kingdom of the Netherlands and the Government\nof the Federal Republic of Germany for the STATUS AND ACCESS of the\nCanadian, Belgian and Netherlands' Forces TO BERLIN.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1746",
-  "htmlHash": "9c286aadfcb036bdc315439a813d0973"
+  "htmlHash": "9c286aadfcb036bdc315439a813d0973",
+  "attachments": []
 }

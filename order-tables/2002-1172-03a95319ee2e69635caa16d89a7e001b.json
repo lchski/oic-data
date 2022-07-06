@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1172</td><td>2002-07-08</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CIFTA TARIFF PREFERENCE REGULATIONS by obliging\nimporters to provide documentary evidence, upon request, that goods shipped\nto Canada through the United States did not undergo any further processing\nwithin U.S. territory that would increase their value by more than 10%.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0251  <strong>Publication Date:</strong> 2002-07-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1172",
-  "htmlHash": "03a95319ee2e69635caa16d89a7e001b"
+  "htmlHash": "03a95319ee2e69635caa16d89a7e001b",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1288</td><td>2011-11-14</td><td></td><td></td><td>AAFC,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Wheat Board Contingency Fund Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD CONTINGENCY FUND REGULATIONS in order to increase the limit of the balance of the contingency fund to enable the Canadian Wheat Board to transfer more of the surplus from non-pool activities into the contingency fund.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0245  <strong>Publication Date:</strong> 2011-11-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24969&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1288",
-  "htmlHash": "a9c06d3649fcfa7c8b42bd168136f911"
+  "htmlHash": "a9c06d3649fcfa7c8b42bd168136f911",
+  "attachments": [
+    "attachment.php?attach=24969&lang=en"
+  ]
 }

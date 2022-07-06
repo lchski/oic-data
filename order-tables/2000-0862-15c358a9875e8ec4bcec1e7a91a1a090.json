@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0862</td><td>2000-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing THURSDAY, JUNE 15, 2000, as the day upon which sections 29 to\n29.15 (Grievances) of the National Defence Act, as enacted by section 7 of\nthis Act [BILL C-25], being chapter 35 of the Statutes of Canada, 1998,\nshall COME INTO FORCE, together with section 103 thereof.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0048  <strong>Publication Date:</strong> 2000-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0862",
-  "htmlHash": "15c358a9875e8ec4bcec1e7a91a1a090"
+  "htmlHash": "15c358a9875e8ec4bcec1e7a91a1a090",
+  "attachments": []
 }

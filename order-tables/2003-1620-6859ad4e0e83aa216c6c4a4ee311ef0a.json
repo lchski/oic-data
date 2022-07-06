@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1620</td><td>2003-10-23</td><td></td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">COIN-OPERATED DEVICES (STREAMLINED ACCOUNTING USERS) REMISSION ORDER which remits the Goods and Services Tax to operators of certain mechanical coin-operated devices from January 1, 1991 to April 24, 1996.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0166  <strong>Publication Date:</strong> 2003-11-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4424&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1620",
-  "htmlHash": "6859ad4e0e83aa216c6c4a4ee311ef0a"
+  "htmlHash": "6859ad4e0e83aa216c6c4a4ee311ef0a",
+  "attachments": [
+    "attachment.php?attach=4424&lang=en"
+  ]
 }

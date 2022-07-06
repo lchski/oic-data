@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0282</td><td>1991-02-14</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fix the salaries of:\n  Fixe les salaires de:\n.\n  CANADA MORTGAGE AND HOUSING CORPORATION/\n   Société canadienne d'hypothèques et de logement\n.\n   -  CLAUDE BENNETT            (Chairman of the Board of Directors/\n                                 président du Conseil d'administration\n.\n.\n  CANADIAN LIVESTOCK FEED BOARD/Office canadien des provendes\n.\n   -  GRIFFITH THOMAS MEREDITH  (Chairman/président)\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0282",
-  "htmlHash": "6b211b3f60edfe820a3f7627aa6e05ab"
+  "htmlHash": "6b211b3f60edfe820a3f7627aa6e05ab",
+  "attachments": []
 }

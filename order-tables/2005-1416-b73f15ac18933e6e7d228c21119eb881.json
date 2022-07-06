@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1416</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Social Sciences and Humanities Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of VIANNE TIMMONS of Charlottetown, Prince Edward Island, to be a member of the Social Sciences and Humanities Research Council to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12289&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1416",
-  "htmlHash": "b73f15ac18933e6e7d228c21119eb881"
+  "htmlHash": "b73f15ac18933e6e7d228c21119eb881",
+  "attachments": [
+    "attachment.php?attach=12289&lang=en"
+  ]
 }

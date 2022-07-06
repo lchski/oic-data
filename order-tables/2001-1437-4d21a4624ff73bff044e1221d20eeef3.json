@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1437</td><td>2001-08-20</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of FERRY de KERCKHOVE as Ambassador of Canada to the Republic\nof Indonesia; LOUISE LÉGER as Ambassador of Canada to the Republic of\nCosta Rica; PHILIP MacKINNON as Ambassador of Canada to the Islamic\nRepublic of Iran; ANDREW McALISTER as Ambassador of Canada to the Kingdom\nof Thailand, with concurrent accreditation to the Lao People's Democratic\nRepublic and the Union of Myanmar; KONRAD SIGURDSON as High Commissioner\nfor Canada in the Islamic Republic of Pakistan; HOWARD STRAUSS as High\nCommissioner for Canada in the Federal Republic of Nigeria; and\nDENIS THIBAULT as Ambassador of Canada to the Republic of Senegal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1437",
-  "htmlHash": "4d21a4624ff73bff044e1221d20eeef3"
+  "htmlHash": "4d21a4624ff73bff044e1221d20eeef3",
+  "attachments": []
 }

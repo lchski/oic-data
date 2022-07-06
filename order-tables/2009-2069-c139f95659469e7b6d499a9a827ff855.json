@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2069</td><td>2009-12-22</td><td></td><td></td><td>VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Veterans Review and Appeal Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RICHARD WOODFIELD of Stratford, Prince Edward Island, to be a permanent member of the Veterans Review and Appeal Board to hold office during good behaviour for a term of five years, effective March 5, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21971&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2069",
-  "htmlHash": "c139f95659469e7b6d499a9a827ff855"
+  "htmlHash": "c139f95659469e7b6d499a9a827ff855",
+  "attachments": [
+    "attachment.php?attach=21971&lang=en"
+  ]
 }

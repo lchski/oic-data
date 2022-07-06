@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1311</td><td>2001-07-31</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ROBERT F. NIXON, of St. George, Ontario, as\nChairman of the board of directors of Atomic Energy of Canada Limited, to\nhold office during pleasure for a term ending October 1. 2001 or until\nsuch time as a new Chairman is appointed, effective June 15, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1311",
-  "htmlHash": "50f26cc0b6afea79a40765104b03fa2a"
+  "htmlHash": "50f26cc0b6afea79a40765104b03fa2a",
+  "attachments": []
 }

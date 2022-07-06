@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2211</td><td>1991-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of MANITOBA which\nwill permit the Department of Natural Resources to make improvements to an\naccess road situated on the grounds of THE PAS AIRPORT, known as the Orok\nsiding road, and to use and maintain the road for a term of forty (40)\nyears, and thus provide them with easier access to their sewage lagoon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2211",
-  "htmlHash": "9324d0c5738c4dbc136d1584cefc1576"
+  "htmlHash": "9324d0c5738c4dbc136d1584cefc1576",
+  "attachments": []
 }

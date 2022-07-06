@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0452</td><td>2003-04-01</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Tourism Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the designation by the Board of Directors of the Canadian Tourism Commission of DOUGLAS E. FYFE of Stittsville, Ontario, to exercise the powers and perform the duties and functions of the President of the Canadian Tourism Commission, until such time as a new President is appointed, effective April 7, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1809&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0452",
-  "htmlHash": "392da39025ab9470cb9d5290583a1b64"
+  "htmlHash": "392da39025ab9470cb9d5290583a1b64",
+  "attachments": [
+    "attachment.php?attach=1809&lang=en"
+  ]
 }

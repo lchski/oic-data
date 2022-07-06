@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2136</td><td>1993-12-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of the entire interest of the Crown in 11.77 hectares of land\nsituated in the Village of HAINES JUNCTION, to be used as a site for a\ncommunity campus.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-2136",
-  "htmlHash": "348125a69a00c326523d2b473a606f11"
+  "htmlHash": "348125a69a00c326523d2b473a606f11",
+  "attachments": []
 }

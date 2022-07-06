@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1078</td><td>2015-07-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Marine Mammal Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MARINE MAMMAL REGULATIONS in order to increase the distance that an unlicensed observer must maintain from a person fishing for seals, except under the authority of a seal fishery observation licence, from one-half nautical mile (i.e., 926 meters) to one nautical mile (i.e., 1.852 km).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0188  <strong>Publication Date:</strong> 2015-07-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31409&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1078",
-  "htmlHash": "ff3dca89bf5fedcf114aef362bf99a59"
+  "htmlHash": "ff3dca89bf5fedcf114aef362bf99a59",
+  "attachments": [
+    "attachment.php?attach=31409&lang=en"
+  ]
 }

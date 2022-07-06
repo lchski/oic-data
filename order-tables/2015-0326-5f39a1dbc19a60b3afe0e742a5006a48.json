@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0326</td><td>2015-03-12</td><td></td><td></td><td>NR,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Dale Roberts Income Tax Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits a portion of the interest, and all relevant interest thereon, paid or payable by DALE ROBERTS for a pre-1986 taxation year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2015-0023  <strong>Publication Date:</strong> 2015-03-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30647&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0326",
-  "htmlHash": "5f39a1dbc19a60b3afe0e742a5006a48"
+  "htmlHash": "5f39a1dbc19a60b3afe0e742a5006a48",
+  "attachments": [
+    "attachment.php?attach=30647&lang=en"
+  ]
 }

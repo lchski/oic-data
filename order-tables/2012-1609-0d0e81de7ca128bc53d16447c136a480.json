@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1609</td><td>2012-11-29</td><td>19</td><td>2012</td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs, Growth and Long-term Prosperity Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 6, 2013 as the Day on which Sections 605 and 607 of the Act Come into Force\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 6, 2013 as the day on which sections 605 and 607 of the JOBS, GROWTH AND LONG-TERM PROSPERITY ACT, chapter 19 of the Statutes of Canada, 2012, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0098  <strong>Publication Date:</strong> 2012-12-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27060&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1609",
-  "htmlHash": "0d0e81de7ca128bc53d16447c136a480"
+  "htmlHash": "0d0e81de7ca128bc53d16447c136a480",
+  "attachments": [
+    "attachment.php?attach=27060&lang=en"
+  ]
 }

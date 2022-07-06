@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0512</td><td>2003-04-10</td><td></td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act<br>Coastal Fisheries Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF FISHERIES AND OCEANS REGULATIONS (MISCELLANEOUS PROGRAM) which correct errors, omissions and inconsistencies in the following Regulations:\n\n- Coastal Fisheries Protection\n   Regulations; \n- Northwest Territories Fishery\n  Regulations;\n- Atlantic Fishery Regulations, 1985;\n- Fish Toxicant Regulations; and\n- Pacific Fishery Regulations, 1993.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0137  <strong>Publication Date:</strong> 2003-04-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1916&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0512",
-  "htmlHash": "d45fad989354bdb8cf8929fe6eb29bca"
+  "htmlHash": "d45fad989354bdb8cf8929fe6eb29bca",
+  "attachments": [
+    "attachment.php?attach=1916&lang=en"
+  ]
 }

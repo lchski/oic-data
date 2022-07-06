@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0948</td><td>2014-09-18</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 171 - (British Columbia) Provincial Emergency Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 171 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of BRITISH COLUMBIA with respect to the RAINSTORM causing damage to the southeast region of the province from June 19 to 21, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0948",
-  "htmlHash": "8983a48ee5bb55a5bbfce90618546ec4"
+  "htmlHash": "8983a48ee5bb55a5bbfce90618546ec4",
+  "attachments": [
+    "attachment.php?attach=29762&lang=en"
+  ]
 }

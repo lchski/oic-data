@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1117</td><td>2018-09-07</td><td></td><td></td><td>,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KEN BRUNDLE as Honorary Consul of Canada at Belfast, United Kingdom of Great Britain and Northern Ireland, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36796&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1117",
-  "htmlHash": "f5c14b6e7a14b6c54c9806b26fc59cac"
+  "htmlHash": "f5c14b6e7a14b6c54c9806b26fc59cac",
+  "attachments": [
+    "attachment.php?attach=36796&lang=en"
+  ]
 }

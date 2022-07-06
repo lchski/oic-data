@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0889</td><td>2013-08-13</td><td>30</td><td>2013</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Civil Marriage of Non-residents Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing August 14, 2013 as the Day on which Section 4 of the Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing August 14, 2013 as the day on which section 4 of the CIVIL MARRIAGE OF NON-RESIDENTS ACT, chapter 30 of the Statutes of Canada, 2013, COMES INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28150&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0889",
-  "htmlHash": "e126fee605582166d585104541d6f65a"
+  "htmlHash": "e126fee605582166d585104541d6f65a",
+  "attachments": [
+    "attachment.php?attach=28150&lang=en"
+  ]
 }

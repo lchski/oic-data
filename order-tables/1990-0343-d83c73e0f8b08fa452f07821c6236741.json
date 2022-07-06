@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0343</td><td>1990-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for: (a) the withdrawal from disposal of various\nmineral rights affecting numerous tracts of so-called \"North Slave\" lands\nin the Northwest Territories, in order to facilitate the settlement of\nland claims by the Dene Nation and the N.W.T. Metis Association; and (b)\nthe revocation of Order in Council P.C.1989-624 in order to provide Echo\nBay Mines Limited with a winter access road to their Lupin Mine works.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0022  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0343",
-  "htmlHash": "d83c73e0f8b08fa452f07821c6236741"
+  "htmlHash": "d83c73e0f8b08fa452f07821c6236741",
+  "attachments": []
 }

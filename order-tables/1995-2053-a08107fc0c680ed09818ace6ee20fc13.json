@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2053</td><td>1995-12-07</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MEDICAL DEVICES REGULATIONS that will require anyone\nwho exports a medical device to complete an export certificate, and\ncorrect the reference to flammability performance standards for crib\nmattresses used in hospitals.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0577  <strong>Publication Date:</strong> 1995-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2053",
-  "htmlHash": "a08107fc0c680ed09818ace6ee20fc13"
+  "htmlHash": "a08107fc0c680ed09818ace6ee20fc13",
+  "attachments": []
 }

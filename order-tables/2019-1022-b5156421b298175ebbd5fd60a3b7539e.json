@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1022</td><td>2019-07-08</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending Orders in Council P.C. 2014-0740 (Yves Dupras) of June 13, 2014; P.C. 2015-0498 (Christopher P. MacDonald) of April 30, 2015;  P.C. 2015-0499 (Linda Vennard) of April 30, 2015;  P.C. 2017-1420 (Monique Lafontaine) of November 22, 2017; and P.C. 2018-0979 (Joanne T. Levy) of June 29, 2018, by deleting paragraph (c) therein.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38350&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1022",
-  "htmlHash": "b5156421b298175ebbd5fd60a3b7539e"
+  "htmlHash": "b5156421b298175ebbd5fd60a3b7539e",
+  "attachments": [
+    "attachment.php?attach=38350&lang=en"
+  ]
 }

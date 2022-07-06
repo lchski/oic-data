@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1444</td><td>2017-11-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED,&nbsp; NRC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Research Council of Canada - The Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the National Research Council Canada to ENTER INTO A COLLECTIVE AGREEMENT with The Professional Institute of the Public Service for all employees in the Translator Group for a four (4) year agreement expiring on 20 June 2018, pursuant to Section 112 of the FEDERAL PUBLIC SERVICE LABOUR RELATIONS ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35355&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1444",
-  "htmlHash": "4dd989b8ed17fab158f3bcd7e796a91f"
+  "htmlHash": "4dd989b8ed17fab158f3bcd7e796a91f",
+  "attachments": [
+    "attachment.php?attach=35355&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1312</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to GRENADA made by Mrs. JEAN M. AUGUSTINE and\nMr. GURMANT GREWAL, from May 11 to May 14, 1998, in order to attend the\nAnnual Meeting of the CARIBBEAN DEVELOPMENT BANK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1312",
-  "htmlHash": "e5cf6de969080f14b43bb068a1ed70a4"
+  "htmlHash": "e5cf6de969080f14b43bb068a1ed70a4",
+  "attachments": []
 }

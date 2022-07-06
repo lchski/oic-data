@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0939</td><td>2016-10-21</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Creston Indian Reserve No. 1 ** Absolute Surrender **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting the ABSOLUTE SURRENDER of approximately 8.28 hectares (20.46 acres) of lands on CRESTON INDIAN RESERVE NO.1, in British Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32635&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0939",
-  "htmlHash": "db191a524e22303768281aed851117b0"
+  "htmlHash": "db191a524e22303768281aed851117b0",
+  "attachments": [
+    "attachment.php?attach=32635&lang=en"
+  ]
 }

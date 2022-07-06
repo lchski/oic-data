@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0480</td><td>2016-06-10</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Confirmation of Kinistin Indian Reserve No. 91, Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order confirming that 63.940 hectares (158 acres) of surface land have been set apart on March 31, 1941 for the use and benefit of the Kinistin Saulteaux Nation (formerly known as Kinistino Band) as an addition to KINISTIN INDIAN RESERVE NO. 91 (formerly known as Kinistino Indian Reserve No. 91), located beside the Rural Municipality of Barrier Valley No. 397, immediately adjacent to Kinistin Indian Reserve No. 91, in Saskatchewan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32160&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0480",
-  "htmlHash": "2f602e8b71b573f458d1d287c99cc349"
+  "htmlHash": "2f602e8b71b573f458d1d287c99cc349",
+  "attachments": [
+    "attachment.php?attach=32160&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1582</td><td>1995-09-19</td><td>0</td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CAPTAIN BARRY F. McKAY, of Ottawa, Ontario, as a member of\nthe Merchant Seamen Compensation Board to hold office during pleasure;\nand designation of CAPTAIN BARRY F. McKAY as vice-chairman of the\nMerchant Seamen Compensation Board, vice Captain John G. Daniels, who\nhas resigned.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1582",
-  "htmlHash": "80dd9a9de8d9e65296efd120bed46dd0"
+  "htmlHash": "80dd9a9de8d9e65296efd120bed46dd0",
+  "attachments": []
 }

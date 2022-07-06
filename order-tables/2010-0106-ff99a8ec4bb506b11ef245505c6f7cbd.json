@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0106</td><td>2010-02-02</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian International Trade Tribunal Regulations\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL REGULATIONS in order to implement Canada's rights and obligations relating to the bilateral emergency action provisions under the Canada-EFTA Free Trade Agreement (CEFTA) and the Canada-Peru Free Trade Agreement (CPFTA).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0024  <strong>Publication Date:</strong> 2010-02-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22080&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0106",
-  "htmlHash": "ff99a8ec4bb506b11ef245505c6f7cbd"
+  "htmlHash": "ff99a8ec4bb506b11ef245505c6f7cbd",
+  "attachments": [
+    "attachment.php?attach=22080&lang=en"
+  ]
 }

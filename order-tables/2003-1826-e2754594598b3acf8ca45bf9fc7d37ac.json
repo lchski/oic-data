@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1826</td><td>2003-11-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Part I of the schedule of the ROYAL CANADIAN MINT ACT by adding the reference \"eight dollars\".</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0368  <strong>Publication Date:</strong> 2003-12-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4966&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1826",
-  "htmlHash": "e2754594598b3acf8ca45bf9fc7d37ac"
+  "htmlHash": "e2754594598b3acf8ca45bf9fc7d37ac",
+  "attachments": [
+    "attachment.php?attach=4966&lang=en"
+  ]
 }

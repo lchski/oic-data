@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0612</td><td>2013-05-30</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE MOTOR VEHICLE SAFETY ACT in order to (1) update the Canadian safety standard governing built-in restraint systems and built-in booster seats, as much as possible aligning the Canadian requirements more closely with those of the United States and maximizing flexibility in testing, and (2) address comments received from the Standing Joint Committee for the Scrutiny of Regulations about the interpretation and wording of certain requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0117  <strong>Publication Date:</strong> 2013-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27866&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0612",
-  "htmlHash": "f85d79a4fb08ca7f11094474f1d269f2"
+  "htmlHash": "f85d79a4fb08ca7f11094474f1d269f2",
+  "attachments": [
+    "attachment.php?attach=27866&lang=en"
+  ]
 }

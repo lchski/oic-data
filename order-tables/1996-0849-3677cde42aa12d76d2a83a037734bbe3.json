@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0849</td><td>1996-06-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to vary NATIONAL TRANSPORTATION\nAGENCY Decision 232-A-1996 and to rescind Decision 292-A-1996 respecting\nGreyhound Lines of Canada Ltd. and Kelowna Flightcraft Air Charter Ltd.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0849",
-  "htmlHash": "3677cde42aa12d76d2a83a037734bbe3"
+  "htmlHash": "3677cde42aa12d76d2a83a037734bbe3",
+  "attachments": []
 }

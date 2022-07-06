@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1063</td><td>1991-06-06</td><td>0</td><td></td><td>SGC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into INTERIM ARRANGEMENTS with the Governments of the\nProvinces and Territories (except Ontario and Quebec) respecting the\nprovision and financing of law enforcement services provided by the ROYAL\nCANADIAN MOUNTED POLICE force in those jurisdictions.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1063",
-  "htmlHash": "2444df8bac102d6cddb80a87f94d6eb5"
+  "htmlHash": "2444df8bac102d6cddb80a87f94d6eb5",
+  "attachments": []
 }

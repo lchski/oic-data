@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0567</td><td>1990-03-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Leasing to Boeing of Canada Ltd., for a term of five years (retroactively\neffective January 1, 1986), with a four-year renewal option, of certain\npremises (Plants Nos. 1 &amp; 2) situate at C.F.B. Toronto (Downsview), which\nare used by Boeing for the production of aircraft and aero engine parts.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0567",
-  "htmlHash": "34be6b2645cdd4910329d4c4537f617a"
+  "htmlHash": "34be6b2645cdd4910329d4c4537f617a",
+  "attachments": []
 }

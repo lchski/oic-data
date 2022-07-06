@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0641</td><td>2006-06-23</td><td></td><td></td><td>RESOURCES,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the CORPORATE PLAN of ATOMIC ENERGY OF CANADA LIMITED for the 2006-2007 to 2010-2011 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14551&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0641",
-  "htmlHash": "49b7003a143ccf5ab2b616de27864e16"
+  "htmlHash": "49b7003a143ccf5ab2b616de27864e16",
+  "attachments": [
+    "attachment.php?attach=14551&lang=en"
+  ]
 }

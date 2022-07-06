@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0457</td><td>1997-04-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Accept, effective on the date of the swearing-in of her successor, the\nresignation of the HONOURABLE MARGARET NORRIE McCAIN as Lieutenant Governor\nof the Province of New Brunswick, to which office she was appointed by\nCommission under the Great Seal of Canada, pursuant to Order in Council\nP.C. 1994-703 of April 28, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0457",
-  "htmlHash": "ed0a925de46020e8073ed00ae6a8cb53"
+  "htmlHash": "ed0a925de46020e8073ed00ae6a8cb53",
+  "attachments": []
 }

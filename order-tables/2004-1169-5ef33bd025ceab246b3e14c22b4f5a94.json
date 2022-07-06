@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1169</td><td>2004-10-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to Québec-Pabok taken on April 30, 2004 by the Hon. GEORGES FARRAH, P.C., former Member of Parliament, in order to represent the Minister of Fisheries and Oceans at a ceremony held by the Listuguj Mi'Gmaq Government to announce the purchase of a crab-fishing boat.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8181&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1169",
-  "htmlHash": "5ef33bd025ceab246b3e14c22b4f5a94"
+  "htmlHash": "5ef33bd025ceab246b3e14c22b4f5a94",
+  "attachments": [
+    "attachment.php?attach=8181&lang=en"
+  ]
 }

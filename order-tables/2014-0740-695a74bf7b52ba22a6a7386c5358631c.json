@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0740</td><td>2014-06-13</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of YVES DUPRAS of Montréal, Quebec, to be a full-time member of the Canadian Radio-television and Telecommunications Commission to hold office during good behaviour for a term of five years; designate YVES DUPRAS for the Quebec region, as established under subsection 10(1.1) of the Act; and determine that YVES DUPRAS shall reside within 100 kilometres of the Quebec regional office; effective August 11, 2014</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29584&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0740",
-  "htmlHash": "695a74bf7b52ba22a6a7386c5358631c"
+  "htmlHash": "695a74bf7b52ba22a6a7386c5358631c",
+  "attachments": [
+    "attachment.php?attach=29584&lang=en"
+  ]
 }

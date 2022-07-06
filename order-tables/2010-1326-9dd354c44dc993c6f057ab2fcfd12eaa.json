@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1326</td><td>2010-10-28</td><td>54</td><td>2005</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend certain Acts in relation to financial institutions</td></tr><tr><td>Subject</td><td colspan=\"5\">****CHANGE SOR/2010-229 of October 28, 2010 to SI/2010-86 of November 10, 2010 **** \nOrder Fixing June 1, 2011 as the Date of the Coming into Force of certain sections of An Act to amend certain Acts in relation to financial  institutions  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 1, 2011, as the day on which certain sections of the Act come into force.  The provisions amend the Bank Act, the Cooperative Credit Associations Act, the Insurance Companies Act and the Trust and Loan Companies Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0086  <strong>Publication Date:</strong> 2010-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23424&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1326",
-  "htmlHash": "9dd354c44dc993c6f057ab2fcfd12eaa"
+  "htmlHash": "9dd354c44dc993c6f057ab2fcfd12eaa",
+  "attachments": [
+    "attachment.php?attach=23424&lang=en"
+  ]
 }

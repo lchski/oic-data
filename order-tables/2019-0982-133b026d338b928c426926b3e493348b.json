@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0982</td><td>2019-07-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Asia-Pacific Foundation of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE PIERRE S. PETTIGREW, P.C., of Toronto, Ontario, to be Chairperson of the Board of Directors of the Asia-Pacific Foundation of Canada, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38311&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0982",
-  "htmlHash": "133b026d338b928c426926b3e493348b"
+  "htmlHash": "133b026d338b928c426926b3e493348b",
+  "attachments": [
+    "attachment.php?attach=38311&lang=en"
+  ]
 }

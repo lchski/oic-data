@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1585</td><td>2010-12-09</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\"> Exemption from residency requirements - HIV-infected persons and Thalidomide Victims Assistance</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which exempts an individual from the residency requirements of the HIV-INFECTED PERSONS AND THALIDOMIDE VICTIMS ASSISTANCE ORDER and thus renders him eligible to receive the benefits provided for therein.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24287&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1585",
-  "htmlHash": "d1c9cd91b431bb4502a0e65568324cba"
+  "htmlHash": "d1c9cd91b431bb4502a0e65568324cba",
+  "attachments": [
+    "attachment.php?attach=24287&lang=en"
+  ]
 }

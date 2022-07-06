@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1018</td><td>1997-07-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HEALTH OF ANIMALS REGULATIONS by prohibiting the\nuse of rendered ruminant tissue, including mink tissue, as an ingredient in\ncattle feed, and banning the importation of canned beef products from a\nnumber of European countries.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0362  <strong>Publication Date:</strong> 1997-08-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1018",
-  "htmlHash": "334f065f1481ef67323a2967c29dfa3f"
+  "htmlHash": "334f065f1481ef67323a2967c29dfa3f",
+  "attachments": []
 }

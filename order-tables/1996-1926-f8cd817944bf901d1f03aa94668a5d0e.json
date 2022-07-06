@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1926</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING THE SCHEDULE TO THE CUSTOMS DUTIES REDUCTION OR REMOVAL\nORDER, 1988 which introduces 6 new temporary tariff codes and amend one\nexisting code.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0027  <strong>Publication Date:</strong> 1997-01-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1926",
-  "htmlHash": "f8cd817944bf901d1f03aa94668a5d0e"
+  "htmlHash": "f8cd817944bf901d1f03aa94668a5d0e",
+  "attachments": []
 }

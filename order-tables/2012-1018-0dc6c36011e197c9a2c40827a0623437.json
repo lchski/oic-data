@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1018</td><td>2012-08-20</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Capital Commission ** Granting Renewal - Bridgehead **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant three renewal options of five years each, commencing on April 1, 2015, on April 1, 2020 and on April 1, 2025, to the existing five-year lease with BRIDGEHEAD (2000) Inc. for the operation of a coffee shop located at 96-100 Sparks Street in Ottawa.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26453&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1018",
-  "htmlHash": "0dc6c36011e197c9a2c40827a0623437"
+  "htmlHash": "0dc6c36011e197c9a2c40827a0623437",
+  "attachments": [
+    "attachment.php?attach=26453&lang=en"
+  ]
 }

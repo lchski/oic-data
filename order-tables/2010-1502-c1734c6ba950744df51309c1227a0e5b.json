@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1502</td><td>2010-12-01</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of HAROLD CALLA of North Vancouver, British Columbia, to be Chairperson of the board of directors of the First Nations Financial Management Board, to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1502",
-  "htmlHash": "c1734c6ba950744df51309c1227a0e5b"
+  "htmlHash": "c1734c6ba950744df51309c1227a0e5b",
+  "attachments": [
+    "attachment.php?attach=23448&lang=en"
+  ]
 }

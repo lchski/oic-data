@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2498</td><td>1991-12-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing the\nHon. Benoît Bouchard or the Hon. Monique Landry to sign a PROTOCOL to the\n1986 CONVENTION ON SOCIAL SECURITY between Canada and Luxembourg.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2498",
-  "htmlHash": "963c3fc2499d44f2a7513268b698cf89"
+  "htmlHash": "963c3fc2499d44f2a7513268b698cf89",
+  "attachments": []
 }

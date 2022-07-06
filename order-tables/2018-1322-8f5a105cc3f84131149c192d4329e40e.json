@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1322</td><td>2018-10-29</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Establishing The Leaders' Debate Commission</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Establishing THE LEADERS' DEBATE COMMISSION in order to contribute to the health of Canadian Democracy.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38858&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1322",
-  "htmlHash": "8f5a105cc3f84131149c192d4329e40e"
+  "htmlHash": "8f5a105cc3f84131149c192d4329e40e",
+  "attachments": [
+    "attachment.php?attach=38858&lang=en"
+  ]
 }

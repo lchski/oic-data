@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0489</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Pierre Dupuis Income Tax Remission Order, No. 2\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INDIVIDUAL REMISSION ORDER remits the tax paid or payable by PIERRE DUPUIS under Part I of the Income Tax Act in the amounts of $324.10, $298.72, $1,244.29, and $201.29, for the 1995, 1996, 1997 and 1999 taxation years, respectively, and a penalty of $16.76 paid or payable for the 1997 taxation year and all relevant interest on that tax and penalty.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0027  <strong>Publication Date:</strong> 2011-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0489",
-  "htmlHash": "e1f5a70338b6eda91a29ffba6ce5448c"
+  "htmlHash": "e1f5a70338b6eda91a29ffba6ce5448c",
+  "attachments": [
+    "attachment.php?attach=24158&lang=en"
+  ]
 }

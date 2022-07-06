@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0511</td><td>2004-04-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LAB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating the week beginning on October 3 and ending on October 9, 2004, as FIRE PREVENTION WEEK.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6745&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0511",
-  "htmlHash": "f06a69461444d837a5151f75cbbfe752"
+  "htmlHash": "f06a69461444d837a5151f75cbbfe752",
+  "attachments": [
+    "attachment.php?attach=6745&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0420</td><td>2018-04-10</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RAMONA LUMPKIN, C.M. , of Halifax, Nova Scotia, as a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments, to hold office during pleasure for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36090&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0420",
-  "htmlHash": "e731ba4899f8fa6bb113f3e88c74635f"
+  "htmlHash": "e731ba4899f8fa6bb113f3e88c74635f",
+  "attachments": [
+    "attachment.php?attach=36090&lang=en"
+  ]
 }

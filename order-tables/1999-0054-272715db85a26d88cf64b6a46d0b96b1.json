@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0054</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the CANADIAN GRAIN COMMISSION as a \"department\" for the\npurposes of the Public Service Employment Act, and the Chief Commissioner\nas \"deputy head\" thereof.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0007  <strong>Publication Date:</strong> 1999-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0054",
-  "htmlHash": "272715db85a26d88cf64b6a46d0b96b1"
+  "htmlHash": "272715db85a26d88cf64b6a46d0b96b1",
+  "attachments": []
 }

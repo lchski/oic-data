@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0209</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (1587 - Food Additives)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1587 - Food Additives) in order to enable the use of sodium hexametaphosphate, a food additive currently listed in the Tables to section B.16.100, as a sequestering agent in liquid whey during the evaporation process.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0040  <strong>Publication Date:</strong> 2010-03-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22181&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0209",
-  "htmlHash": "dd4124d818d85e76d0a486a195e25c02"
+  "htmlHash": "dd4124d818d85e76d0a486a195e25c02",
+  "attachments": [
+    "attachment.php?attach=22181&lang=en"
+  ]
 }

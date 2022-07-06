@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0369</td><td>2007-03-22</td><td>9</td><td>2006</td><td>,&nbsp; ,&nbsp; ,&nbsp; TBS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Accountability Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Bill C-2 - CiF -- s. 172.01\nFed Accountability Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 1, 2007 as the day upon which section 172.01 of the Federal Accountability Act, being chapter 9 of the Statutes of Canada, 2006, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0038  <strong>Publication Date:</strong> 2007-04-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16086&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0369",
-  "htmlHash": "03ff05ed02c04ee5bc089ed92a42ed7d"
+  "htmlHash": "03ff05ed02c04ee5bc089ed92a42ed7d",
+  "attachments": [
+    "attachment.php?attach=16086&lang=en"
+  ]
 }

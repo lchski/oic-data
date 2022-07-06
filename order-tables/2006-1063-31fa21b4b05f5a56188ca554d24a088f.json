@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1063</td><td>2006-09-28</td><td></td><td></td><td>,&nbsp; MINT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the minting of the 25¢ MEDAL OF BRAVERY CIRCULATION COIN to pay tribute to the enduring spirit of Canadians who are willing to help others in times of crisis.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0234  <strong>Publication Date:</strong> 2006-10-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15018&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1063",
-  "htmlHash": "31fa21b4b05f5a56188ca554d24a088f"
+  "htmlHash": "31fa21b4b05f5a56188ca554d24a088f",
+  "attachments": [
+    "attachment.php?attach=15018&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1432</td><td>2000-09-13</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2000-No. 1, YUKON AIRPORT LANDS AT MINTO, PELLY CROSSING AND\nMcQUESTEN, Y.T.) - which prohibits, until August 31, 2010, the staking of\nmineral claims or prospecting for precious minerals on specified tracts of\nland in the Yukon reserved for airport development.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0354  <strong>Publication Date:</strong> 2000-09-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1432",
-  "htmlHash": "255432680cefec68fc54ff6c3ae7da91"
+  "htmlHash": "255432680cefec68fc54ff6c3ae7da91",
+  "attachments": []
 }

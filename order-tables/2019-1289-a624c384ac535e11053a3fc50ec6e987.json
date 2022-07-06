@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1289</td><td>2019-08-28</td><td>23</td><td>2019</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Indigenous Languages Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the Day after the Day on which this Order is made as the Day on which Certain Provisions of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing (1) the day after the day on which this Order is made as the day on which sections 1 to 11, 13, 13.1, 16, 18 and 19 of the INDIGENOUS LANGUAGES ACT, chapter 23 of the Statutes of Canada, 2019, COME INTO FORCE; and (2) the earlier of October 1, 2020 and the day on which a Commissioner is appointed under section 13 of the INDIGENOUS LANGUAGES ACT as the day on which section 12, 14, 15, 17 and 20 to 49.1 of that Act COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0093  <strong>Publication Date:</strong> 2019-09-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38623&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1289",
-  "htmlHash": "a624c384ac535e11053a3fc50ec6e987"
+  "htmlHash": "a624c384ac535e11053a3fc50ec6e987",
+  "attachments": [
+    "attachment.php?attach=38623&lang=en"
+  ]
 }

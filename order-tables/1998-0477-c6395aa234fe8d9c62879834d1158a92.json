@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0477</td><td>1998-03-24</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CONDITIONS OF TRANSFERRING FIREARMS AND OTHER WEAPONS\nREGULATIONS which prescribe the conditions under which prohibited and non-\nprohibited weapons, devices and ammunition may be sold or transferred.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0202  <strong>Publication Date:</strong> 1998-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0477",
-  "htmlHash": "c6395aa234fe8d9c62879834d1158a92"
+  "htmlHash": "c6395aa234fe8d9c62879834d1158a92",
+  "attachments": []
 }

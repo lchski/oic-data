@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0635</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Vessel Operation Restriction Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the VESSEL OPERATION RESTRICTION REGULATIONS in order to (1) assist in the maintenance of an effective enforcement regime and promote the viable and effective use of Canadian waters; (2) increase safety and environmental protection for both recreational boaters and commercial operators; and (3) include updates, corrections and clarifications requested by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0123  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30956&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0635",
-  "htmlHash": "19657987cef6b98b94938512c32fe17b"
+  "htmlHash": "19657987cef6b98b94938512c32fe17b",
+  "attachments": [
+    "attachment.php?attach=30956&lang=en"
+  ]
 }

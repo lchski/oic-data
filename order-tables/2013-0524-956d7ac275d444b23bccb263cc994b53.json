@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0524</td><td>2013-05-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (1431 — Schedule F)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the FOOD AND DRUG REGULATIONS (1431 - SCHEDULE F) in order to add quinine, its salts and derivatives (except in oral dosage form that provides 50 mg or less of quinine base per dosage unit or per daily dose) to Part I of Schedule F to the Food and Drug Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0089  <strong>Publication Date:</strong> 2013-05-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27750&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0524",
-  "htmlHash": "956d7ac275d444b23bccb263cc994b53"
+  "htmlHash": "956d7ac275d444b23bccb263cc994b53",
+  "attachments": [
+    "attachment.php?attach=27750&lang=en"
+  ]
 }

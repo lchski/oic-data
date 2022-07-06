@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1201</td><td>2014-10-30</td><td></td><td></td><td>,&nbsp; DESD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANNE SHIRLEY CLARK of Mahone Bay, Nova Scotia, to be a part-time member of the Social Security Tribunal for the Income Security Section, to hold office during good behaviour for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30018&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1201",
-  "htmlHash": "2f4f846b37cd32ef2df44c153e3e7327"
+  "htmlHash": "2f4f846b37cd32ef2df44c153e3e7327",
+  "attachments": [
+    "attachment.php?attach=30018&lang=en"
+  ]
 }

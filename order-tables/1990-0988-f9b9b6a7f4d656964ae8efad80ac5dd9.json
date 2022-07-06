@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0988</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Canada Post Corporation of the title to four real\nproperties situate at various locations in Ontario and Manitoba,\nin exchange for the transfer to Her Majesty of the title to a property\nsituate at 1495 Heron Road, in the City of Ottawa, Ontario, known as\nPavillion \"M\".\n.\n     PROPERTIES to be acquired by the Canada Post Corporation:\n.\n  1. 2435/2439 Eglinton Avenue East, Scarborough, Ontario (vacant land)\n  2. Post Office, 139 Main Street, Ailsa Craig, Ontario\n  3. Post Office, Bay Street, Baysville, Ontario\n  4. Post Office Tower, 266 Graham Avenue, Winnipeg, Manitoba\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0988",
-  "htmlHash": "f9b9b6a7f4d656964ae8efad80ac5dd9"
+  "htmlHash": "f9b9b6a7f4d656964ae8efad80ac5dd9",
+  "attachments": []
 }

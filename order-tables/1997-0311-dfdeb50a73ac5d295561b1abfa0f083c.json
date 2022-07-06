@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0311</td><td>1997-03-04</td><td>0</td><td></td><td>,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the VANCOUVER PORT CORPORATION to grant a non-exclusive\nright-of-way to BURRARD IRON WORKS LIMITED over some 172 square metres of\nits property, IN EXCHANGE for a perpetual ENCROACHMENT EASEMENT required\nfor the Main Street viaduct.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0311",
-  "htmlHash": "dfdeb50a73ac5d295561b1abfa0f083c"
+  "htmlHash": "dfdeb50a73ac5d295561b1abfa0f083c",
+  "attachments": []
 }

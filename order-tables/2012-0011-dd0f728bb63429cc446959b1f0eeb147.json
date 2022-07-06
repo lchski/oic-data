@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0011</td><td>2012-02-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2011-12</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID COLLINS as Ambassador of Canada to the Arab Republic of South Sudan, resident in Nairobi; CHANTAL de VARENNES as Ambassador of Canada to the Republic of Liberia, with residence in Abidjan; KENNETH MACARTNEY as Ambassador of Canada to the Kingdom of Sweden; JOHN MORRISON as Ambassador of Canada to the Republic of Estonia and the Republic of Lithuania, with residence in Riga; and L. PHILIPPE RHEAULT as Consul General of Canada in Chongqing, People's Republic of China.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25484&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0011",
-  "htmlHash": "dd0f728bb63429cc446959b1f0eeb147"
+  "htmlHash": "dd0f728bb63429cc446959b1f0eeb147",
+  "attachments": [
+    "attachment.php?attach=25484&lang=en"
+  ]
 }

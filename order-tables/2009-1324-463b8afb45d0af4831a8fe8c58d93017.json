@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1324</td><td>2009-08-04</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ALINE ROULEAU of Sainte-Françoise, Quebec, as Chairperson of the Boards of Referees for the Quebec Regional Division, and particularly for the District of Rivière-du-Loup, for a term of three years, effective September 15, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21206&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1324",
-  "htmlHash": "463b8afb45d0af4831a8fe8c58d93017"
+  "htmlHash": "463b8afb45d0af4831a8fe8c58d93017",
+  "attachments": [
+    "attachment.php?attach=21206&lang=en"
+  ]
 }

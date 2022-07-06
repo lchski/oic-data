@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2170</td><td>2002-12-12</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Health of Animals Act<br>Plant Protection Act<br>Canada Agricultural Products Act<br>Food and Drugs Act<br>Meat Inspection Act<br>Seeds Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE CANADIAN FOOD INSPECTION AGENCY which make minor amendments of an editorial nature to each of the following regulations:\n.\n  1. Egg Regulations;\n  2. Fresh Fruit and Vegetable Regulations;\n  3. Maple Products Regulations;\n  4. Processed Egg Regulations;\n  5. Processed Products Regulations;\n  6. Licensing and Arbitration Regulations;\n  7. Fertilizers Regulations;\n  8. Food and Drug Regulations;\n  9. Health of Animals Regulations;\n10. Meat Inspection Regulations, 1990;\n11. Plant Protection Regulations; and\n12. Seeds Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0006  <strong>Publication Date:</strong> 2003-01-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=677&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2170",
-  "htmlHash": "b6c3bef89a47f3fb669516223451a86d"
+  "htmlHash": "b6c3bef89a47f3fb669516223451a86d",
+  "attachments": [
+    "attachment.php?attach=677&lang=en"
+  ]
 }

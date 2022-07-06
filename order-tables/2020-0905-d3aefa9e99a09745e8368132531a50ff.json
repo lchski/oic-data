@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0905</td><td>2020-11-20</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Divorce Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Guidelines Amending the Federal Child Support Guidelines</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Guidelines amending the FEDERAL CHILD SUPPORT GUIDELINES in order to make consequential amendments to include new terminology consistent with the amended DIVORCE ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0247  <strong>Publication Date:</strong> 2020-12-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39911&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0905",
-  "htmlHash": "d3aefa9e99a09745e8368132531a50ff"
+  "htmlHash": "d3aefa9e99a09745e8368132531a50ff",
+  "attachments": [
+    "attachment.php?attach=39911&lang=en"
+  ]
 }

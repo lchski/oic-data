@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1437</td><td>2006-11-28</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INSIDER REPORTS (INSURANCE COMPANIES AND INSURANCE HOLDING COMPANIES) REGULATIONS by repealing the existing regulations and by incorporating by reference provincial and territorial securities rules relating to insider reporting.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0312  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15409&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1437",
-  "htmlHash": "0383dcbc9ee22db589d5d218163d37a0"
+  "htmlHash": "0383dcbc9ee22db589d5d218163d37a0",
+  "attachments": [
+    "attachment.php?attach=15409&lang=en"
+  ]
 }

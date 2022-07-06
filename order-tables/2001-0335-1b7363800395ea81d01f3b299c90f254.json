@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0335</td><td>2001-03-02</td><td>0</td><td></td><td>,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1999-644 that increases the limit set\nforth in the Letters Patent issued to the ST. JOHN'S PORT AUTHORITY with\nrespect to its power to borrow money on its own credit.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0335",
-  "htmlHash": "1b7363800395ea81d01f3b299c90f254"
+  "htmlHash": "1b7363800395ea81d01f3b299c90f254",
+  "attachments": []
 }

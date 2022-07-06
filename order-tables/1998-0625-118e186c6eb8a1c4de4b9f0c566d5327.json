@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0625</td><td>1998-04-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ALBERTA FISHERY REGULATIONS, 1998 which reflect the coming\ninto force of provincial fisheries legislation in Alberta respecting\nmarketing, licencing, health and enforcement within the borders of this\nprovince, effective April 23, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0246  <strong>Publication Date:</strong> 1998-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0625",
-  "htmlHash": "118e186c6eb8a1c4de4b9f0c566d5327"
+  "htmlHash": "118e186c6eb8a1c4de4b9f0c566d5327",
+  "attachments": []
 }

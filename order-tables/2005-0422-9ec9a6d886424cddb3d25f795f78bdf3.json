@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0422</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of the ORDINANCES (Bills No. 7 to 10 and 12 to 14) made by the Commissioner in Council of the NORTHWEST TERRITORIES during the Third Session of the Fifteenth Council.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10027&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0422",
-  "htmlHash": "9ec9a6d886424cddb3d25f795f78bdf3"
+  "htmlHash": "9ec9a6d886424cddb3d25f795f78bdf3",
+  "attachments": [
+    "attachment.php?attach=10027&lang=en"
+  ]
 }

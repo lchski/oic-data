@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0746</td><td>2012-05-31</td><td></td><td></td><td>AANDC,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Relinquishment by the Commissioner of Nunavut (approximately .735 hectares)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order a) approving the relinquishment by the COMMISSIONER OF NUNAVUT, in perpetuity, of the administration and control of approximately .735 hectares of land located in Iqaluit, Nunavut; and b) transfering of the administration of the land to the Minister of Public Safety for the Royal Canadian Mounted Police.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26098&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0746",
-  "htmlHash": "31c064c93671fa108261ebd86d41929a"
+  "htmlHash": "31c064c93671fa108261ebd86d41929a",
+  "attachments": [
+    "attachment.php?attach=26098&lang=en"
+  ]
 }

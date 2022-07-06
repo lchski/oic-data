@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0731</td><td>2019-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing of a series of easement transactions and a lease extension **NCC**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving (1) a series of easement transactions in favour of the National Capital Commission (NCC) to facilitate public access to and connections between paths, parks, viewing areas, and improvements on Chaudières Island as well as along the shoreline of the Ottawa River, behind the Canadian War Museum, and (2) a series of easements transactions and a lease extension granted by the NCC, which would enable Chaudière Hydro L.P. and Energy Ottawa Inc. to continue to have access and maintain specified infrastructure for hydropower generation and electricity distribution, in the same vicinity in a way that benefits, and minimizes conflicts with, the public amenities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38056&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0731",
-  "htmlHash": "eff74085fce6c6e470115650deea7a39"
+  "htmlHash": "eff74085fce6c6e470115650deea7a39",
+  "attachments": [
+    "attachment.php?attach=38056&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1800</td><td>1993-09-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EMR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the URANIUM AND THORIUM MINING REGULATIONS which clarify the\nauthority of inspectors to issue a directive (sections 57 through 61) and\npermit the transmission of documents by facsimile (section 77).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0463  <strong>Publication Date:</strong> 1993-10-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1800",
-  "htmlHash": "33d4b4842f3d88e55dacd15fea3ff890"
+  "htmlHash": "33d4b4842f3d88e55dacd15fea3ff890",
+  "attachments": []
 }

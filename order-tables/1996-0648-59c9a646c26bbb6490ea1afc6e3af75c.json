@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0648</td><td>1996-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1995-919 which corrects the status of\nthe appointment of PATRICIA C. COURSEY, a Governor of the Canadian Centre\nfor Occupational Health and Safety, who should have been appointed as\n\"being the nominee of the Lieutenant Governor in Council of Ontario\"\ninstead of as \"a representative of Employer Organizations\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0648",
-  "htmlHash": "59c9a646c26bbb6490ea1afc6e3af75c"
+  "htmlHash": "59c9a646c26bbb6490ea1afc6e3af75c",
+  "attachments": []
 }

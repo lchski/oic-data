@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0942</td><td>2007-06-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the issuance to EMERA BRUNSWICK PIPELINE COMPANY LTD. of a Certificate of Public Convenience and Necessity (No. GC-110) for the construction of a pipeline connecting the Canaport Liquefied Natural Gas terminal at Mispec Point, New Brunswick, to the U.S. portion of the Maritimes and Northeast Pipeline near St. Stephen, New Brunswick.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16634&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0942",
-  "htmlHash": "f2b16481fb5e5a318c244e45514eca63"
+  "htmlHash": "f2b16481fb5e5a318c244e45514eca63",
+  "attachments": [
+    "attachment.php?attach=16634&lang=en"
+  ]
 }

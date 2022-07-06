@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0967</td><td>2001-05-31</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING CERTAIN CANADA CUSTOMS AND REVENUE AGENCY\nREGULATIONS (2001-1) (MISCELLANEOUS PROGRAM) which make a number of\namendments that will correct translation errors and minor inconsistencies,\nand make technical clarifications to the following Regulations:\n.\n  1. Special Services (Customs) Regulations\n  2. Accounting for Imported Goods and Payment of Duties Regulations\n  3. Transportation of Goods Regulations\n  4. Customs Sufferance Warehouses Regulations\n  5. Customs Brokers Licensing Regulations\n  6. Duty Free Shop Regulations\n  7. Exporters' and Producers' Records Regulations\n  8. Customs Bonded Warehouses Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0197  <strong>Publication Date:</strong> 2001-06-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0967",
-  "htmlHash": "e6b0a22a1ba2dbc3c622bb2c1a3ce11e"
+  "htmlHash": "e6b0a22a1ba2dbc3c622bb2c1a3ce11e",
+  "attachments": []
 }

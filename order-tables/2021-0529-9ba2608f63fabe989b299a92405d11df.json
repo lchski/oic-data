@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0529</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Contraventions Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CONTRAVENTIONS REGULATIONS in order to (1) increase fine amounts for contraventions of the Railway Safety Act currently listed under Schedule X to the Contraventions Regulations; and (2) update the short-form description for the contravention currently listed under item 3 of Part I.2 of Schedule 1 of the Contraventions Regulations to reflect the new wording of subsection 2(3) of the Vessel Operation Restriction Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0132  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40818&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0529",
-  "htmlHash": "9ba2608f63fabe989b299a92405d11df"
+  "htmlHash": "9ba2608f63fabe989b299a92405d11df",
+  "attachments": [
+    "attachment.php?attach=40818&lang=en"
+  ]
 }

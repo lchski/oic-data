@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1665</td><td>2007-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FIRST NATIONS LOCAL REVENUE LAW REVIEW REGULATIONS which will allow the First Nations Tax Commission to refer a property tax law or a local revenue law submitted for its approval to a Review Panel composed of one or more Commissioners.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0240  <strong>Publication Date:</strong> 2007-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17449&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1665",
-  "htmlHash": "b94c199eecb47af8a85fdfc1407db66d"
+  "htmlHash": "b94c199eecb47af8a85fdfc1407db66d",
+  "attachments": [
+    "attachment.php?attach=17449&lang=en"
+  ]
 }

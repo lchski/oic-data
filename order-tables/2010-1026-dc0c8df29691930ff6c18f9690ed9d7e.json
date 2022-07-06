@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1026</td><td>2010-08-06</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JANET DUDEK of Sarnia, Ontario, as Chairperson of the Boards of Referees for the Ontario Regional Division, and particularly for the District of Sarnia, for a term of three years, effective October 12, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23041&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1026",
-  "htmlHash": "dc0c8df29691930ff6c18f9690ed9d7e"
+  "htmlHash": "dc0c8df29691930ff6c18f9690ed9d7e",
+  "attachments": [
+    "attachment.php?attach=23041&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1737</td><td>2007-11-15</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the IMPORT CONTROL LIST by updating tariff item numbers for live fowl.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0261  <strong>Publication Date:</strong> 2007-11-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17504&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1737",
-  "htmlHash": "76e2863a6d721555e93ac78c1f6ed631"
+  "htmlHash": "76e2863a6d721555e93ac78c1f6ed631",
+  "attachments": [
+    "attachment.php?attach=17504&lang=en"
+  ]
 }

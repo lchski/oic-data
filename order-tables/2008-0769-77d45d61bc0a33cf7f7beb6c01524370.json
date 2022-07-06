@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0769</td><td>2008-04-17</td><td></td><td></td><td>,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LOBBYIST REGISTRATION REGULATIONS which will set out the form and manner in which lobbyists must file returns, disclose information, set time frames for responding to requests by the Commissioner for clarification and describe the type of communication that will trigger monthly returns.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0116  <strong>Publication Date:</strong> 2008-04-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18600&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0769",
-  "htmlHash": "77d45d61bc0a33cf7f7beb6c01524370"
+  "htmlHash": "77d45d61bc0a33cf7f7beb6c01524370",
+  "attachments": [
+    "attachment.php?attach=18600&lang=en"
+  ]
 }

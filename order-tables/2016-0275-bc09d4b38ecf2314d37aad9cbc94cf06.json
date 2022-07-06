@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0275</td><td>2016-04-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DIANE LAFLEUR of Ottawa, Ontario, to be Associate Deputy Minister of Indian Affairs and Northern Development, to be styled Associate Deputy Minister of Indigenous and Northern Affairs, to hold office during pleasure, effective May 9, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31952&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0275",
-  "htmlHash": "bc09d4b38ecf2314d37aad9cbc94cf06"
+  "htmlHash": "bc09d4b38ecf2314d37aad9cbc94cf06",
+  "attachments": [
+    "attachment.php?attach=31952&lang=en"
+  ]
 }

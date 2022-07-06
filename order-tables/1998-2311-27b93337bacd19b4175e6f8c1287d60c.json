@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2311</td><td>1998-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein ULKATCHO (an Indian Band) surrenders,\nfor a term of 99 years, some 35.3 hectares of land on Ulkatcho Indian\nReserve No. 14A, in British Columbia, for leasing and ancillary purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2311",
-  "htmlHash": "27b93337bacd19b4175e6f8c1287d60c"
+  "htmlHash": "27b93337bacd19b4175e6f8c1287d60c",
+  "attachments": []
 }

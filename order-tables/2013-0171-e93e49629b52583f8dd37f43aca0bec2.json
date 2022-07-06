@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0171</td><td>2013-02-28</td><td>27</td><td>2012</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Helping Families in Need Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing March 24, 2013 as the Day on which Certain Sections of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing March 24, 2013 as the date on which sections 15, 16 and 21 of the HELPING FAMILIES IN NEED ACT, chapter 27 of the Statutes of Canada, 2012, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0023  <strong>Publication Date:</strong> 2013-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27393&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0171",
-  "htmlHash": "e93e49629b52583f8dd37f43aca0bec2"
+  "htmlHash": "e93e49629b52583f8dd37f43aca0bec2",
+  "attachments": [
+    "attachment.php?attach=27393&lang=en"
+  ]
 }

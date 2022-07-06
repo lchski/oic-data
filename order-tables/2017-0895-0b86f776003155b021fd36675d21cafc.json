@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0895</td><td>2017-06-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; VAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Veterans Review and Appeal Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LAURIE BLAKEMAN of Edmonton, Alberta, to be a permanent member of the Veterans Review and Appeal Board, to hold office during good behaviour for a term of five years, effective August 1, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34801&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0895",
-  "htmlHash": "0b86f776003155b021fd36675d21cafc"
+  "htmlHash": "0b86f776003155b021fd36675d21cafc",
+  "attachments": [
+    "attachment.php?attach=34801&lang=en"
+  ]
 }

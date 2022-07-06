@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0608</td><td>2005-04-18</td><td></td><td></td><td>MINT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the minting of a FIVE-CENT CIRCULATION COIN, featuring the 1945 Torch &amp; V design, to commemorate the 60th Anniversary of the end of the SECOND WORLD WAR (V-E Day).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0104  <strong>Publication Date:</strong> 2005-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10461&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0608",
-  "htmlHash": "c00df3afdb05aca506802ae55fa8cd2a"
+  "htmlHash": "c00df3afdb05aca506802ae55fa8cd2a",
+  "attachments": [
+    "attachment.php?attach=10461&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0045</td><td>2005-02-01</td><td></td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the DENATURED AND SPECIALLY DENATURED ALCOHOL REGULATIONS which set out the compositional specifications for prescribed grades of denatured and specially denatured alcohol.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0022  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9296&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0045",
-  "htmlHash": "66c98591dec27d04cbeda63e637d02e7"
+  "htmlHash": "66c98591dec27d04cbeda63e637d02e7",
+  "attachments": [
+    "attachment.php?attach=9296&lang=en"
+  ]
 }

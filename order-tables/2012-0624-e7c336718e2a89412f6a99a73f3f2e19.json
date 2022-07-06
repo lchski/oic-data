@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0624</td><td>2012-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">P.C. 2006-1086 Little Pine Band, Saskatchewan ** Amendment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the schedule to Order in Council P.C. 2006-1086 of October 5, 2006, in order to amend the FIRSTLY, THIRDLY AND FIFTHLY paragraphs of the Schedule by replacing the Canada Lands Survey Records Plan No.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26006&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0624",
-  "htmlHash": "e7c336718e2a89412f6a99a73f3f2e19"
+  "htmlHash": "e7c336718e2a89412f6a99a73f3f2e19",
+  "attachments": [
+    "attachment.php?attach=26006&lang=en"
+  ]
 }

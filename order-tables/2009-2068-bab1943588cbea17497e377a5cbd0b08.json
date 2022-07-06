@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2068</td><td>2009-12-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARC LALIBERTÉ of Boucherville, Quebec, to be President and Chief Executive Officer of VIA Rail Canada Inc., to hold office during pleasure for a term of four years, effective January 4, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21970&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2068",
-  "htmlHash": "bab1943588cbea17497e377a5cbd0b08"
+  "htmlHash": "bab1943588cbea17497e377a5cbd0b08",
+  "attachments": [
+    "attachment.php?attach=21970&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0604</td><td>2013-05-30</td><td></td><td></td><td>AAFC,&nbsp; GRAIN COMM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Grain Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE CANADA GRAIN REGULATIONS in order to (1) establish new user fees which reflect the current role of the Canadian Grain Commission; (2) update existing fee amounts and provide for an annual adjustment of fees reflective of inflation; and (3) consolidate various existing user fees and establish a five year fee schedule.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0109  <strong>Publication Date:</strong> 2013-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27858&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0604",
-  "htmlHash": "f8482e8eeb7b9a35b306729e3e39eb22"
+  "htmlHash": "f8482e8eeb7b9a35b306729e3e39eb22",
+  "attachments": [
+    "attachment.php?attach=27858&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0302</td><td>2001-03-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the CANADIAN VOLUNTEER SERVICE MEDAL ORDER for the purpose\nof extending eligibility to people who voluntarily served during the Second\nWorld War as members of certain civilian groups that worked closely with\nthe Canadian Armed Forces or the merchant navy.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0040  <strong>Publication Date:</strong> 2001-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0302",
-  "htmlHash": "6f16400a4d1d9e612c4ea984871cdc19"
+  "htmlHash": "6f16400a4d1d9e612c4ea984871cdc19",
+  "attachments": []
 }

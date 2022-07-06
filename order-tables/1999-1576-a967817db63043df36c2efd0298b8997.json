@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1576</td><td>1999-09-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving the transfer by the COMMISSIONER OF THE YUKON TERRITORY\nto the Solicitor General of Canada of the entire interest of the Crown in\nLots 23 and 24 of Block 36, situate in the Town of WATSON LAKE, Yukon, in\norder to facilitate the operations of the ROYAL CANADIAN MOUNTED POLICE,\nand (b) IN EXCHANGE, to accept the transfer of the entire interest of the\nCrown in two other lots also situated in the Town of Watson Lake.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1576",
-  "htmlHash": "a967817db63043df36c2efd0298b8997"
+  "htmlHash": "a967817db63043df36c2efd0298b8997",
+  "attachments": []
 }

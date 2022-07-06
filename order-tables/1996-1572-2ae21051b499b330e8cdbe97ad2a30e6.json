@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1572</td><td>1996-10-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the TRANSLATION BUREAU of the Department of Public Works\nand Government Services to offer its services to the ORGANIZATION OF\nAMERICAN STATES.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1572",
-  "htmlHash": "2ae21051b499b330e8cdbe97ad2a30e6"
+  "htmlHash": "2ae21051b499b330e8cdbe97ad2a30e6",
+  "attachments": []
 }

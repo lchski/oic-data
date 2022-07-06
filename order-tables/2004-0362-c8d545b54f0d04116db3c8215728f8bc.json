@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0362</td><td>2004-03-30</td><td></td><td></td><td>FIN,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the five-year CORPORATE PLAN of FARM CREDIT CANADA for the 2004-2005 to 2008-2009 fiscal years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6394&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0362",
-  "htmlHash": "c8d545b54f0d04116db3c8215728f8bc"
+  "htmlHash": "c8d545b54f0d04116db3c8215728f8bc",
+  "attachments": [
+    "attachment.php?attach=6394&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0699</td><td>2008-04-11</td><td></td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">North American Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DANIEL PLOURDE of Vars, Ontario, as Secretary on an interim basis of the Canadian Section of the Secretariat established pursuant to section 14 of the North American Free Trade Agreement Implementation Act, to hold office for a term of six months or until such time as a Secretary is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18527&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0699",
-  "htmlHash": "232f7be2737635b4ee503a04c8a5c419"
+  "htmlHash": "232f7be2737635b4ee503a04c8a5c419",
+  "attachments": [
+    "attachment.php?attach=18527&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1653</td><td>2006-12-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of DELOITTE &amp; TOUCHE of Ottawa, Ontario, to be the auditor for the Chicken Farmers of Canada, to audit its accounts and financial transactions for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15627&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1653",
-  "htmlHash": "33896edada8474f47a960e32267aa077"
+  "htmlHash": "33896edada8474f47a960e32267aa077",
+  "attachments": [
+    "attachment.php?attach=15627&lang=en"
+  ]
 }

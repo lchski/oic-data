@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0482</td><td>1998-03-24</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the AUTHORIZATIONS TO CARRY RESTRICTED FIREARMS AND CERTAIN\nHANDGUNS REGULATIONS which prescribe the circumstances in which the Chief\nFirearms Officer may issue an authorization to carry a gun, etc., such as\nfor self-protection or to protect another individual, or when the\nindividual needs it for the purposes of a lawful profession or occupation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0207  <strong>Publication Date:</strong> 1998-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0482",
-  "htmlHash": "faf49157c70a1f56dcfc24ed0e9c7784"
+  "htmlHash": "faf49157c70a1f56dcfc24ed0e9c7784",
+  "attachments": []
 }

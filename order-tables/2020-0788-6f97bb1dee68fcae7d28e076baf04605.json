@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0788</td><td>2020-10-02</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Human Resources and Skills Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of PATRICK MICHAEL O'NEIL of Kingsville, Ontario, as a full-time member of the Social Security Tribunal for the Income Security Section, to hold office during good behaviour for a term of one year, effective October 26, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39769&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0788",
-  "htmlHash": "6f97bb1dee68fcae7d28e076baf04605"
+  "htmlHash": "6f97bb1dee68fcae7d28e076baf04605",
+  "attachments": [
+    "attachment.php?attach=39769&lang=en"
+  ]
 }

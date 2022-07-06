@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1202</td><td>2003-08-13</td><td></td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">STAMPING AND MARKING OF TOBACCO PRODUCTS REGULATIONS which set out the prescribed information that must appear on all tobacco product packages made in Canada and on commercial-sized importations of tobacco products and establishes the prescribed quantity limits for personal possession of imported products that are not stamped or that do not bear the prescribed information, effective July 1, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0288  <strong>Publication Date:</strong> 2003-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3491&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1202",
-  "htmlHash": "2b6a26957ad1e7173c2d7ca277094971"
+  "htmlHash": "2b6a26957ad1e7173c2d7ca277094971",
+  "attachments": [
+    "attachment.php?attach=3491&lang=en"
+  ]
 }

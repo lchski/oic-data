@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0177</td><td>2013-02-28</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Agreement to Amend the Free Trade Agreement (Chile)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada, the AGREEMENT TO AMEND THE FREE TRADE AGREEMENT between Canada and the REPUBLIC OF CHILE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27399&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0177",
-  "htmlHash": "0c3ade1e712f98b0bff33ab3a363ac15"
+  "htmlHash": "0c3ade1e712f98b0bff33ab3a363ac15",
+  "attachments": [
+    "attachment.php?attach=27399&lang=en"
+  ]
 }

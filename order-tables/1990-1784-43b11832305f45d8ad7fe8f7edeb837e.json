@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1784</td><td>1990-08-24</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Energy, Mines and\nResources of Lois DeGroot, of Scarborough, Ontario, as a director of\nAtomic Energy of Canada Limited to hold office during pleasure for a term\nof two years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1784",
-  "htmlHash": "43b11832305f45d8ad7fe8f7edeb837e"
+  "htmlHash": "43b11832305f45d8ad7fe8f7edeb837e",
+  "attachments": []
 }

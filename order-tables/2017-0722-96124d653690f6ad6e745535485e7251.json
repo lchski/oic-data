@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0722</td><td>2017-06-09</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. N. Victoria Gray ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. N. VICTORIA GRAY, a Judge of the Supreme Court of British Columbia, effective August 31, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34628&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0722",
-  "htmlHash": "96124d653690f6ad6e745535485e7251"
+  "htmlHash": "96124d653690f6ad6e745535485e7251",
+  "attachments": [
+    "attachment.php?attach=34628&lang=en"
+  ]
 }

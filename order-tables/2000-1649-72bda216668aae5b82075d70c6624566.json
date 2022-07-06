@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1649</td><td>2000-10-20</td><td>0</td><td></td><td>TB,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by extending the\nparental benefits entitlement period from 10 to 35 weeks and the maximum\nentitlement period for maternity, parental and sick leave combined from 30\nto 50 weeks, and by reducing, from 700 to 600, the number of hours of\ninsured employment that are required to receive special benefits, effective\nDecember 31, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0393  <strong>Publication Date:</strong> 2000-11-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1649",
-  "htmlHash": "72bda216668aae5b82075d70c6624566"
+  "htmlHash": "72bda216668aae5b82075d70c6624566",
+  "attachments": []
 }

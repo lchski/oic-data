@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0792</td><td>2018-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Subject</td><td colspan=\"5\">Proclamation Issued</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Proclamation be issued renaming National Aboriginal Day held on June 21 of each year as \"National Indigenous Peoples Day\".</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36621&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0792",
-  "htmlHash": "5073e0e0f1e542c2b42ac78eba75ade9"
+  "htmlHash": "5073e0e0f1e542c2b42ac78eba75ade9",
+  "attachments": [
+    "attachment.php?attach=36621&lang=en"
+  ]
 }

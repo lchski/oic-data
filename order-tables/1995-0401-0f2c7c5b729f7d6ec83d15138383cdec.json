@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0401</td><td>1995-03-14</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Acceptance of the\nAmendments to Articles 16, 17 and 19(b) of the CONVENTION ON THE\nINTERNATIONAL MARITIME ORGANIZATION, adopted on November 4, 1993 by\nthe Assembly of the Organization at its eighteenth session.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0401",
-  "htmlHash": "0f2c7c5b729f7d6ec83d15138383cdec"
+  "htmlHash": "0f2c7c5b729f7d6ec83d15138383cdec",
+  "attachments": []
 }

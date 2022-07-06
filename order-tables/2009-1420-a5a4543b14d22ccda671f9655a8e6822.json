@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1420</td><td>2009-08-13</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Canadian Security Intelligence Service Act Deputy Heads of the Public Service of Canada Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the CANADIAN SECURITY INTELLIGENCE SERVICE ACT DEPUTY HEADS OF THE PUBLIC SERVICE OF CANADA ORDER by adding the President of the Federal Economic Development Agency for Southern Ontario, effective August 13, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0079  <strong>Publication Date:</strong> 2009-09-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21304&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1420",
-  "htmlHash": "a5a4543b14d22ccda671f9655a8e6822"
+  "htmlHash": "a5a4543b14d22ccda671f9655a8e6822",
+  "attachments": [
+    "attachment.php?attach=21304&lang=en"
+  ]
 }

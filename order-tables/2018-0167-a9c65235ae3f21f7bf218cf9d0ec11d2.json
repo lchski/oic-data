@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0167</td><td>2018-02-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of HEATHER KENNEDY of Calgary, Alberta, to be a trustee of the Board of Trustees of the National Museum of Science and Technology, to hold office during pleasure for a term of three years, effective June 13, 2018, in the place of David James Cohen, whose term will expire.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0167",
-  "htmlHash": "a9c65235ae3f21f7bf218cf9d0ec11d2"
+  "htmlHash": "a9c65235ae3f21f7bf218cf9d0ec11d2",
+  "attachments": [
+    "attachment.php?attach=35828&lang=en"
+  ]
 }

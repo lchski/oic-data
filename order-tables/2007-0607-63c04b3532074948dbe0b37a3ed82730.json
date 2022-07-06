@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0607</td><td>2007-04-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSEP</td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Preparedness Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 93 - which authorizes the federal government to provide financial assistance to the Province of SASKATCHEWAN in respect of damage caused by flooding along the Saskatchewan River between April and September 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16389&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0607",
-  "htmlHash": "63c04b3532074948dbe0b37a3ed82730"
+  "htmlHash": "63c04b3532074948dbe0b37a3ed82730",
+  "attachments": [
+    "attachment.php?attach=16389&lang=en"
+  ]
 }

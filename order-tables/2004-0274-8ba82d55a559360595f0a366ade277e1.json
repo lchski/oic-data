@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0274</td><td>2004-03-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister to enter into the 2004 NEGOTIATION CONTRIBUTION AGREEMENT between Canada and British Columbia respecting the provision of contribution funding to support First Nation negotiations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6192&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0274",
-  "htmlHash": "8ba82d55a559360595f0a366ade277e1"
+  "htmlHash": "8ba82d55a559360595f0a366ade277e1",
+  "attachments": [
+    "attachment.php?attach=6192&lang=en"
+  ]
 }

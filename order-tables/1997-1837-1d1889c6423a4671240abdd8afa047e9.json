@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1837</td><td>1997-12-09</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer from the Province of BRITISH COLUMBIA of some 1,235.9 hectares of\nlands as identified in Provincial Orders No. 0380, dated March 23, 1994,\nand No. 1533, dated December 14, 1995 for the purpose of setting them\napart as reserve lands for the TSAWWASSEN Indian Band and the TSAY KEH DENE\nIndian Band.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1837",
-  "htmlHash": "1d1889c6423a4671240abdd8afa047e9"
+  "htmlHash": "1d1889c6423a4671240abdd8afa047e9",
+  "attachments": []
 }

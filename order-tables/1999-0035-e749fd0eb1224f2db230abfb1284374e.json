@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0035</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the RED PHEASANT BAND, of some\n1,216.9 hectares of land in Saskatchewan, mines and minerals included, as\nan addition to Red Pheasant Indian Reserve No. 108.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0035",
-  "htmlHash": "e749fd0eb1224f2db230abfb1284374e"
+  "htmlHash": "e749fd0eb1224f2db230abfb1284374e",
+  "attachments": []
 }

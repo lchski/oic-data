@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1343</td><td>2019-11-20</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Salaries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Department of (1) Canadian Heritage; (2) Industry to provide support to the Minister of Economic Development and Official Languages</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) designating the DEPARTMENT OF CANADIAN HERITAGE to provide support to the Minister of Economic Development and Official Languages in the carrying out of that Minister's responsibilities relating to official languages; and (2) designating the DEPARTMENT OF INDUSTRY to provide support to the Minister of Economic Development and Official Languages in the carrying out of all of the other responsibilities of that Minister.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0105  <strong>Publication Date:</strong> 2019-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1343",
-  "htmlHash": "f5f5799a451287cf128fbe3650b56147"
+  "htmlHash": "f5f5799a451287cf128fbe3650b56147",
+  "attachments": [
+    "attachment.php?attach=38678&lang=en"
+  ]
 }

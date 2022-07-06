@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1432</td><td>2018-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada National Park Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA NATIONAL PARKS ACT (MISCELLANEOUS PROGRAM) in order to (1) align the French and English versions; (2) update obsolete references; (3) add clarity to regulatory provisions; (4) correct regulatory authorities; and, (5) modify the name of a National Historic Site.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0250  <strong>Publication Date:</strong> 2018-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37110&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1432",
-  "htmlHash": "e77e1b2ff4c5174f540499c87733184d"
+  "htmlHash": "e77e1b2ff4c5174f540499c87733184d",
+  "attachments": [
+    "attachment.php?attach=37110&lang=en"
+  ]
 }

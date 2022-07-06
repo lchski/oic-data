@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0278</td><td>2011-03-03</td><td></td><td></td><td>,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Siksika Nation Bassano Dam Settlement Agreement </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Indian Affairs and Northern Development to execute the Siksika Nation Bassano Dam SETTLEMENT AGREEMENT amongst Canada, the Siksika Nation, the Eastern Irrigation District and the province of Alberta for the purpose of compensating the Siksika Nation for its specific claim with respect to the illegal disposition of reserve lands to the Canadian Pacific Railway.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24041&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0278",
-  "htmlHash": "7748bf36dd930551e66bfdc4648fa652"
+  "htmlHash": "7748bf36dd930551e66bfdc4648fa652",
+  "attachments": [
+    "attachment.php?attach=24041&lang=en"
+  ]
 }

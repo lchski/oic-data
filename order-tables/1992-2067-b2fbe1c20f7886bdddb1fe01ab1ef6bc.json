@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2067</td><td>1992-09-17</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to Bucharest, Romania, undertaken by the Hon.\nRev. WALTER FRANKLIN McLEAN, P.C., M.P. (Waterloo), from September 4 to\nSeptember 6, 1992, as the Special Representative of the Government of\nCanada to the UNITED NATIONS DEVELOPMENT PROGRAM ROUNDTABLE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2067",
-  "htmlHash": "b2fbe1c20f7886bdddb1fe01ab1ef6bc"
+  "htmlHash": "b2fbe1c20f7886bdddb1fe01ab1ef6bc",
+  "attachments": []
 }

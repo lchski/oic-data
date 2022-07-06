@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0811</td><td>2014-06-18</td><td>12</td><td>2013</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transboundary Waters Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 1, 2014 as the Day on which Sections 13 and 14 of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 1, 2014 as the day on which sections 13 and 14 of the TRANSBOUNDARY WATERS PROTECTION ACT, chapter 12 of the Statutes of Canada, 2013, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2014-0060  <strong>Publication Date:</strong> 2014-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29500&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0811",
-  "htmlHash": "af16061f3010ccfc4d847102a100fba9"
+  "htmlHash": "af16061f3010ccfc4d847102a100fba9",
+  "attachments": [
+    "attachment.php?attach=29500&lang=en"
+  ]
 }

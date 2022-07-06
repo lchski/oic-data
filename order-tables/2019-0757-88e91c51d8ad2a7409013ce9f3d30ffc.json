@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0757</td><td>2019-06-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding a Toxic Substance to Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ADDING A TOXIC SUBSTANCE TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (CEPA) in order to enable the Government to propose risk management measures for toxic substance under CEPA to manage environmental risks associated with 1,4-benzenediamine, N,N'-mixed phenyl and tolyl derivatives (i.e. BENPAT).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0198  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38084&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0757",
-  "htmlHash": "88e91c51d8ad2a7409013ce9f3d30ffc"
+  "htmlHash": "88e91c51d8ad2a7409013ce9f3d30ffc",
+  "attachments": [
+    "attachment.php?attach=38084&lang=en"
+  ]
 }

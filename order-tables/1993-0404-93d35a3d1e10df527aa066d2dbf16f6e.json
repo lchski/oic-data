@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0404</td><td>1993-03-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PENSION BENEFITS STANDARDS REGULATIONS, 1985 which exempt\ncertain pension plans and benefits from the application of this Act, more\nparticularly, plans established or created by a provincial statute, plans\nin respect of certain provincial telephone companies, as well as pension\nbenefit credits that exceed the maximum amount that may be transferred\nunder the Income Tax Act from one plan to another or to an R.R.S.P.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0109  <strong>Publication Date:</strong> 1993-03-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0404",
-  "htmlHash": "93d35a3d1e10df527aa066d2dbf16f6e"
+  "htmlHash": "93d35a3d1e10df527aa066d2dbf16f6e",
+  "attachments": []
 }

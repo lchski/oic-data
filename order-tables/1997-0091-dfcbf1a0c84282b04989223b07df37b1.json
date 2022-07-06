@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0091</td><td>1997-01-28</td><td>0</td><td></td><td>HRDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RAYMOND C. HOFMAN, of New Westminster, British Columbia, as\nChairperson of the Boards of Referees for the British Columbia Regional\nDivision, and particularly for the District of New Westminster, for a term\nof three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0091",
-  "htmlHash": "dfcbf1a0c84282b04989223b07df37b1"
+  "htmlHash": "dfcbf1a0c84282b04989223b07df37b1",
+  "attachments": []
 }

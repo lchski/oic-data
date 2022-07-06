@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0366</td><td>2021-05-05</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of FRANCE PÉGEOT of Ottawa, Ontario, to be a member of the Canadian Transportation Agency, to hold office during good behaviour for a term of five years; and her designation as Chairperson of the Canadian Transportation Agency, effective June 1, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40566&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0366",
-  "htmlHash": "b9410405646c2f7c7a06c93a8fdeadc7"
+  "htmlHash": "b9410405646c2f7c7a06c93a8fdeadc7",
+  "attachments": [
+    "attachment.php?attach=40566&lang=en"
+  ]
 }

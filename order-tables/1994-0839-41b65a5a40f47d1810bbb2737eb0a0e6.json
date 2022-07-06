@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0839</td><td>1994-05-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADIAN ENVIRONMENTAL PROTECTION ACT OMNIBUS AMENDMENT ORDER, 1993-1\namending the following Regulations:\n.\n 1. Asbestos Mines and Mills Release Regulations\n 2. Chlor-Alkali Mercury Release Regulations\n 3. PCB Waste Export Regulations\n 4. Pulp and Paper Mill Defoamer and Wood Chip Regulations\n 5. Secondary Lead Smelter Release Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0364  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0839",
-  "htmlHash": "41b65a5a40f47d1810bbb2737eb0a0e6"
+  "htmlHash": "41b65a5a40f47d1810bbb2737eb0a0e6",
+  "attachments": []
 }

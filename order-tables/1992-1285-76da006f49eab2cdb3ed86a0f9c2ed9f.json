@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1285</td><td>1992-06-16</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of certain\npersons as directors of the board of directors of the Halifax Port\nCorporation to hold office during pleasure for a term of three years.\n(George H. Briand, Lower Sackville, Nova Scotia, in the place of\nMichael Joseph Proude, whose term has expired; and Graham Lawson Thomas,\nHalifax, Nova Scotia, in the place of Florence Irwin, whose term\nhas expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1285",
-  "htmlHash": "76da006f49eab2cdb3ed86a0f9c2ed9f"
+  "htmlHash": "76da006f49eab2cdb3ed86a0f9c2ed9f",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1067</td><td>2015-07-08</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs and Economic Growth Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Dissolution of Atomic Energy of Canada Limited subsidiaries</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing ATOMIC ENERGY OF CANADA LIMITED to procure the dissolution of its wholly-owned subsidiaries, AECL TECHNOLOGIES INC. and AECL TECHNOLOGIES B.V., and do anything that is necessary for, or incidental to, procuring either or both of the dissolutions.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31401&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1067",
-  "htmlHash": "fd4d245cd36acf1c4dc139683ca288ab"
+  "htmlHash": "fd4d245cd36acf1c4dc139683ca288ab",
+  "attachments": [
+    "attachment.php?attach=31401&lang=en"
+  ]
 }

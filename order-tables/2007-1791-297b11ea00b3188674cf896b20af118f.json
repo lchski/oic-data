@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1791</td><td>2007-11-29</td><td></td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA OCCUPATIONAL HEALTH AND SAFETY REGULATIONS, to include provisions for ergonomics-related hazards to prevent accidents and injury to health arising out of, linked with, or occuring in the course of employment in the federal jurisdiction.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0271  <strong>Publication Date:</strong> 2007-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17615&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1791",
-  "htmlHash": "297b11ea00b3188674cf896b20af118f"
+  "htmlHash": "297b11ea00b3188674cf896b20af118f",
+  "attachments": [
+    "attachment.php?attach=17615&lang=en"
+  ]
 }

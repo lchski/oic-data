@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2068</td><td>2005-11-21</td><td></td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS RESPECTING EXCISE LICENCES AND REGISTRATIONS by making minor changes to the text which address concerns raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0355  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13452&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2068",
-  "htmlHash": "f252d0cb14b0540f7d04c72cb1dd859e"
+  "htmlHash": "f252d0cb14b0540f7d04c72cb1dd859e",
+  "attachments": [
+    "attachment.php?attach=13452&lang=en"
+  ]
 }

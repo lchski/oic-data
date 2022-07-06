@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0990</td><td>2020-12-04</td><td></td><td></td><td>FIN,&nbsp; OAG,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Inquire into and Report on the Determination of Amounts as Provided for in 12 Bilateral First Nations Goods and Services Tax Administration Agreements</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting that the AUDITOR GENERAL of Canada inquire into and Report on the Determination of Amounts as Provided for in 12 Bilateral First Nations Goods and Services Tax Administration Agreements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0990",
-  "htmlHash": "56a9505ae0eec28568ea2b95762fc079"
+  "htmlHash": "56a9505ae0eec28568ea2b95762fc079",
+  "attachments": [
+    "attachment.php?attach=40000&lang=en"
+  ]
 }

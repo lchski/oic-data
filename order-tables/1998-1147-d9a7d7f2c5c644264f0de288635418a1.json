@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1147</td><td>1998-06-18</td><td>0</td><td></td><td>,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCES\nwhich revise Article 2.10 by permitting the Chief of the Defence Staff to\nassign, for pay purposes, a trade group to military occupations performed\nby non-commissioned members of the Reserve Force, revise Article 203.065\nrespecting the payment of premiums in lieu of leave in the Reserve Force,\nand repeal Articles 210.50 and 210.51, effective April 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1147",
-  "htmlHash": "d9a7d7f2c5c644264f0de288635418a1"
+  "htmlHash": "d9a7d7f2c5c644264f0de288635418a1",
+  "attachments": []
 }

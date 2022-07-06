@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0512</td><td>2017-05-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; PCH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of ONTARIO the Hon. HEATHER J. SMITH from May 25 to 27, 2017, inclusive.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34418&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0512",
-  "htmlHash": "7c5b1434d2294d0a62542e2132bfd354"
+  "htmlHash": "7c5b1434d2294d0a62542e2132bfd354",
+  "attachments": [
+    "attachment.php?attach=34418&lang=en"
+  ]
 }

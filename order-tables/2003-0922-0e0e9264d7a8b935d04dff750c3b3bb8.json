@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0922</td><td>2003-06-12</td><td></td><td></td><td>,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for THE CANADIAN WHEAT BOARD to (a) enter into a contract with The Standard Life Assurance Company in order to provide its employees and their dependents with basic life insurance, optional life insurance and long-term disability insurance and (b) pay its portion of the premiums.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2873&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0922",
-  "htmlHash": "0e0e9264d7a8b935d04dff750c3b3bb8"
+  "htmlHash": "0e0e9264d7a8b935d04dff750c3b3bb8",
+  "attachments": [
+    "attachment.php?attach=2873&lang=en"
+  ]
 }

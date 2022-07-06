@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0796</td><td>2010-06-17</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the GASOLINE REGULATIONS </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GASOLINE REGULATIONS in order to exempt the use of leaded gasoline in competition vehicles indeterminately. This approach is aligned with that of the United States, which continues to exempt leaded fuel for use in competition vehicles and is not planning to ban or restrict such use. The current temporary exemption expired December 31, 2009.  Environment Canada, with the support of Health Canada, will conduct a five year review and will revisit this decision based on science, technology, and fuel replacement developments.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0134  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22771&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0796",
-  "htmlHash": "434cd11d176b80a2473ad3ced8c915e1"
+  "htmlHash": "434cd11d176b80a2473ad3ced8c915e1",
+  "attachments": [
+    "attachment.php?attach=22771&lang=en"
+  ]
 }

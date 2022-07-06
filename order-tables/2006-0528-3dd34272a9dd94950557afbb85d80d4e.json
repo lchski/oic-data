@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0528</td><td>2006-06-15</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign PROTOCOL III to the 1949 GENEVA CONVENTIONS concerning the adoption of an Additional Distinctive Emblem (the RED CRYSTAL), done at Geneva on December 8, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14462&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0528",
-  "htmlHash": "3dd34272a9dd94950557afbb85d80d4e"
+  "htmlHash": "3dd34272a9dd94950557afbb85d80d4e",
+  "attachments": [
+    "attachment.php?attach=14462&lang=en"
+  ]
 }

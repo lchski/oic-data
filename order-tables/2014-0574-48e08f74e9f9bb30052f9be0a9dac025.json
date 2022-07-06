@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0574</td><td>2014-05-15</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 1 to the First Nations Goods and Services Tax Act, \nNo. 2014-1 (Beecher Bay)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 1 TO THE FIRST NATIONS GOODS AND SERVICES TAX ACT, NO. 2014-1 (BEECHER BAY) in order to enable Beecher Bay, with the agreement of the Government of Canada, to implement the First Nations Goods and Services tax within its lands.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0119  <strong>Publication Date:</strong> 2014-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29388&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0574",
-  "htmlHash": "48e08f74e9f9bb30052f9be0a9dac025"
+  "htmlHash": "48e08f74e9f9bb30052f9be0a9dac025",
+  "attachments": [
+    "attachment.php?attach=29388&lang=en"
+  ]
 }

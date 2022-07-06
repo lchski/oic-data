@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1464</td><td>2005-08-30</td><td></td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the IMPORT CONTROL LIST by renewing the listing of specific carbon and specialty steel products on September 1, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0239  <strong>Publication Date:</strong> 2005-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12693&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1464",
-  "htmlHash": "cd20a8381f7f669248cfb88aab6738e5"
+  "htmlHash": "cd20a8381f7f669248cfb88aab6738e5",
+  "attachments": [
+    "attachment.php?attach=12693&lang=en"
+  ]
 }

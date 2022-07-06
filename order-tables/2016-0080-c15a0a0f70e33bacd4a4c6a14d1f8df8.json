@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0080</td><td>2016-02-19</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Ochapowace no 71-132, Saskatchewan ** Transfer **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the exercise of the power of Saskatchewan to take 10.94 hectares (27.03 acres) of lands in OCHAPOWACE INDIAN RESERVE NO. 71-132; and (2) authorizing, in lieu of such taking, the transfer of administration and control of these lands, for the purpose of constructing and operating a highway interchange at the junction of provincial Highway 1 and the Pilot Butte access road, a service road, and as a site for public utilities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31755&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0080",
-  "htmlHash": "c15a0a0f70e33bacd4a4c6a14d1f8df8"
+  "htmlHash": "c15a0a0f70e33bacd4a4c6a14d1f8df8",
+  "attachments": [
+    "attachment.php?attach=31755&lang=en"
+  ]
 }

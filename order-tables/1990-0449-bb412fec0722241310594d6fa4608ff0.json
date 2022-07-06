@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0449</td><td>1990-03-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to the Secretary of State for External Affairs to execute\nand issue an Instrument of Full Powers authorizing Alan Sullivan\nto sign an Agreement in the form of an Exchange of Notes with the\nMultinational Force and Observers on the participation of Canada in the\nSinai Multinational Force and Observers.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0449",
-  "htmlHash": "bb412fec0722241310594d6fa4608ff0"
+  "htmlHash": "bb412fec0722241310594d6fa4608ff0",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0788</td><td>1998-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to TORONTO made by Mr. GAR KNUTSON, M.P.\n(Elgin-Middlesex-London), on April 30 1998, for the purpose of\nrepresenting the Minister of Industry at the Annual Conference of the\nOntario Association of Community Development Corporations.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0788",
-  "htmlHash": "7ff325166adf88bede35bee9aee82d6a"
+  "htmlHash": "7ff325166adf88bede35bee9aee82d6a",
+  "attachments": []
 }

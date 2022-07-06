@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0278</td><td>2010-03-11</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator (NFL) \nOrsborn, David B. \nMarch 30 to April 6, 2010\nCameron, Margaret A.\nApril 7 to April  9, 2010\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following judges to serve as ADMINISTRATOR of the Government of NEWFOUNDLAND AND LABRADOR: \n\nThe Hon. DAVID B. ORSBORN from March 30 to April 6, 2010; and\nThe Hon. MARGARET A. CAMERON from April 7 to April  9, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22256&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0278",
-  "htmlHash": "eddda2cb2f644727a775dc04b08b1096"
+  "htmlHash": "eddda2cb2f644727a775dc04b08b1096",
+  "attachments": [
+    "attachment.php?attach=22256&lang=en"
+  ]
 }

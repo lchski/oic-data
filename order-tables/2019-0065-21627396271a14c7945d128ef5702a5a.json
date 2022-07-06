@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0065</td><td>2019-01-31</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Pacific Railway Limited station in Cartier, Ontario  ** Alterations **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the CANADIAN PACIFIC RAILWAY LIMITED to make ALTERATIONS to the exterior siding, soffit, fascia, windows and doors of its railway station in Cartier, Ontario, in accordance with the terms and conditions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37384&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0065",
-  "htmlHash": "21627396271a14c7945d128ef5702a5a"
+  "htmlHash": "21627396271a14c7945d128ef5702a5a",
+  "attachments": [
+    "attachment.php?attach=37384&lang=en"
+  ]
 }

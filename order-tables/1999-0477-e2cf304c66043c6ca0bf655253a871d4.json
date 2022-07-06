@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0477</td><td>1999-03-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-2123 of December 1, 1998 which\nwill change the name of the firm of accountants RAYMOND, CHABOT, MARTIN,\nPARÉ, to RAYMOND CHABOT GRANT THORNTON to audit the affairs and to\nperform the annual audits of the Bank of Canada for the five fiscal years\n1999 through 2003.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0477",
-  "htmlHash": "e2cf304c66043c6ca0bf655253a871d4"
+  "htmlHash": "e2cf304c66043c6ca0bf655253a871d4",
+  "attachments": []
 }

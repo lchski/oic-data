@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1530</td><td>1993-07-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">WITHDRAWAL FROM DISPOSAL ORDER (CONTWOYTO LAKE, N.W.T.) - which provides\nfor the withdrawal from disposal of some 57,510 hectares of land situated\nat Contwoyto Lake, in the Northwest Territories, in order to facilitate the\nthe settlement of native land claims.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0150  <strong>Publication Date:</strong> 1993-07-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1530",
-  "htmlHash": "f45e91cc8123bb15c885e0be1705c734"
+  "htmlHash": "f45e91cc8123bb15c885e0be1705c734",
+  "attachments": []
 }

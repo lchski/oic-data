@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1133</td><td>2005-06-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCRA</td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS which would permit Canadian military and police personnel deployed on a high-risk mission to deduct a portion of their wages from their taxable income.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0185  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11554&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1133",
-  "htmlHash": "351deb08ace7fe28a00892e019652f59"
+  "htmlHash": "351deb08ace7fe28a00892e019652f59",
+  "attachments": [
+    "attachment.php?attach=11554&lang=en"
+  ]
 }

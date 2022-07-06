@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0975</td><td>2014-09-25</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Implementing the United Nations Resolution on Yemen</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Implementing the UNITED NATIONS RESOLUTION ON YEMEN in order for Canada to fulfill its international legal obligation to implement the applicable decisions of the Security Council set out in Resolution 2140 (2014).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0213  <strong>Publication Date:</strong> 2014-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29782&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0975",
-  "htmlHash": "eb5536a991fcbca7d1987b36d693c07a"
+  "htmlHash": "eb5536a991fcbca7d1987b36d693c07a",
+  "attachments": [
+    "attachment.php?attach=29782&lang=en"
+  ]
 }

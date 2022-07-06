@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0350</td><td>2017-04-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANDREW P. MAYER of the City of Prince Rupert, Barrister-at-law, to be a Judge of the Supreme Court of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34257&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0350",
-  "htmlHash": "f4fbac8f5ffcf5b973f9bc63e56ea5cb"
+  "htmlHash": "f4fbac8f5ffcf5b973f9bc63e56ea5cb",
+  "attachments": [
+    "attachment.php?attach=34257&lang=en"
+  ]
 }

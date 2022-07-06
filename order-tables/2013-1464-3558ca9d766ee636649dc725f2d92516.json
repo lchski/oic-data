@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1464</td><td>2013-12-17</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Social Sciences and Humanities Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the election by the Social Sciences and Humanities Research Council of JACK MAURICE MINTZ of Calgary, Alberta, a member of the Social Sciences and Humanities Research Council, as Vice-President of the Social Sciences and Humanities Research Council.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28716&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1464",
-  "htmlHash": "3558ca9d766ee636649dc725f2d92516"
+  "htmlHash": "3558ca9d766ee636649dc725f2d92516",
+  "attachments": [
+    "attachment.php?attach=28716&lang=en"
+  ]
 }

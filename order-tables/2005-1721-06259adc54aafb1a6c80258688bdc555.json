@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1721</td><td>2005-10-04</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SULPHUR IN DIESEL FUEL REGULATIONS which place limits on sulphur in diesel fuel for engines and equipment used in off-road, rail and marine applications.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0305  <strong>Publication Date:</strong> 2005-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13168&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1721",
-  "htmlHash": "06259adc54aafb1a6c80258688bdc555"
+  "htmlHash": "06259adc54aafb1a6c80258688bdc555",
+  "attachments": [
+    "attachment.php?attach=13168&lang=en"
+  ]
 }

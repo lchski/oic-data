@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2148</td><td>2005-11-22</td><td></td><td></td><td>,&nbsp; RC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of National Revenue of RICHARD KWAN of Richmond Hill, Ontario, as a director of the Board of Directors of the Royal Canadian Mint to hold office during pleasure for a term of two years, in the place of Hilary Judith Goldenberg.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13842&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2148",
-  "htmlHash": "90565357c3b178f9f6175f15ec9be1de"
+  "htmlHash": "90565357c3b178f9f6175f15ec9be1de",
+  "attachments": [
+    "attachment.php?attach=13842&lang=en"
+  ]
 }

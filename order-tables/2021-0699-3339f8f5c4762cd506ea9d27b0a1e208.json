@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0699</td><td>2021-07-01</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Settlement of International Investment Disputes Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PIERRE BIENVENU of Montréal, Quebec, to the International Centre for the Settlement of Investment Disputes Panel of Arbitrators for a term of six years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41611&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0699",
-  "htmlHash": "3339f8f5c4762cd506ea9d27b0a1e208"
+  "htmlHash": "3339f8f5c4762cd506ea9d27b0a1e208",
+  "attachments": [
+    "attachment.php?attach=41611&lang=en"
+  ]
 }

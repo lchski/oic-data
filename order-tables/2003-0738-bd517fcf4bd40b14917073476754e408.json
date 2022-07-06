@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0738</td><td>2003-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID M. SCOTT of Saskatoon, Saskatchewan, and JOHN LINDSAY of Edmonton, Alberta, to be part-time members of the National Parole Board, Prairies Regional Division, to hold office during good behaviour for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2488&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0738",
-  "htmlHash": "bd517fcf4bd40b14917073476754e408"
+  "htmlHash": "bd517fcf4bd40b14917073476754e408",
+  "attachments": [
+    "attachment.php?attach=2488&lang=en"
+  ]
 }

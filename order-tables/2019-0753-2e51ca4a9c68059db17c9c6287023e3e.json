@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0753</td><td>2019-06-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Assisted Human Reproduction Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Assisted Human Reproduction (Section 8 Consent) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ASSISTED HUMAN REPRODUCTION (SECTION 8 CONSENT) REGULATIONS in order to help maintain donor anonymity for persons who choose to donate on the basis of anonymity, where the person making use of the donated sperm, ova or IVE is not the person who originally obtained the consent directly from the donor.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0195  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38080&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0753",
-  "htmlHash": "2e51ca4a9c68059db17c9c6287023e3e"
+  "htmlHash": "2e51ca4a9c68059db17c9c6287023e3e",
+  "attachments": [
+    "attachment.php?attach=38080&lang=en"
+  ]
 }

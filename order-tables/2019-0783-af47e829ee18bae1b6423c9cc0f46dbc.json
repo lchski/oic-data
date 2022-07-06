@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0783</td><td>2019-06-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TBS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Air Transport Security Authority's 2018-19 to 2022-23 Corporate Plan and 2018-19 Operating and Capital Budgets and exemption to the Pension Plan Reform Directive</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) amending Order in Council P.C. 2014-1382 of December 10, 2014 by striking out the references to the Canadian Air Transport Security Authority; and (2) directing the Canadian Air Transport Security Authority to the exemption of the Pension Plan Reform Directive.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38110&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0783",
-  "htmlHash": "af47e829ee18bae1b6423c9cc0f46dbc"
+  "htmlHash": "af47e829ee18bae1b6423c9cc0f46dbc",
+  "attachments": [
+    "attachment.php?attach=38110&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0044</td><td>2011-02-03</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Income Tax Regulations (Phase-out of the Accelerated Capital Cost Allowance for Oil Sands Projects)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (Phase-out of the Accelerated Capital Cost Allowance for Oil Sands Projects), in order to improve fairness and neutrality in the taxation of oil sands relative to other sectors - both within and outside the oil and gas industry - so that investment is allocated based on market signals rather than tax treatment.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0009  <strong>Publication Date:</strong> 2011-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23735&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0044",
-  "htmlHash": "2f9a558a685a706e7fbdc89591dceac2"
+  "htmlHash": "2f9a558a685a706e7fbdc89591dceac2",
+  "attachments": [
+    "attachment.php?attach=23735&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0082</td><td>2020-02-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; NA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Land Exchange Agreement between the Government of the Northwest Territories and the Government of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the relinquishment of the administration and control from the Commissioner of Northwest Territories, in perpetuity, of the public lands described in the Schedule I; and (2) transferring to the Commissioner of the Northwest Territories, in perpetuity, the administration and control of the public lands described in the Schedule II.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38869&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0082",
-  "htmlHash": "337b4304a8d7e907d3af4ca5d0558e10"
+  "htmlHash": "337b4304a8d7e907d3af4ca5d0558e10",
+  "attachments": [
+    "attachment.php?attach=38869&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0791</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Export Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING THE EXPORT CONTROL LIST in order to make various changes, including amending the definition of the “Guide”, and updating the various commitments made at the multilateral export control and non-proliferation regimes in which Canada participates.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0139  <strong>Publication Date:</strong> 2017-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34697&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0791",
-  "htmlHash": "64e06f734d7798fcba0db090aba70318"
+  "htmlHash": "64e06f734d7798fcba0db090aba70318",
+  "attachments": [
+    "attachment.php?attach=34697&lang=en"
+  ]
 }

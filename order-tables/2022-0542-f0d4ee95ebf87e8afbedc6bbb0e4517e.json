@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0542</td><td>2022-05-19</td><td></td><td></td><td>,&nbsp; TBS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Appointing Deloitte LLP as Auditor and the Auditor General of Canada as Joint Auditor of the Public Sector Pension Investment Board</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing (1) DELOITTE LLP of Montréal, Quebec, as AUDITOR; and (2) the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the PUBLIC SECTOR PENSION INVESTMENT BOARD for the fiscal year ending on March 31, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42081&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0542",
-  "htmlHash": "f0d4ee95ebf87e8afbedc6bbb0e4517e"
+  "htmlHash": "f0d4ee95ebf87e8afbedc6bbb0e4517e",
+  "attachments": [
+    "attachment.php?attach=42081&lang=en"
+  ]
 }

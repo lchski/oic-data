@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0720</td><td>2022-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; MINT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Issue of Two Two-dollar Commemorative Circulation Coins Specifying the Characteristics and Determining the Designs (The Series)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Royal Canadian Mint to produce TWO TWO-DOLLAR commemorative circulation coins, marking the 50th anniversary of the 1972 SUMMIT SERIES.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0155  <strong>Publication Date:</strong> 2022-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42266&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0720",
-  "htmlHash": "e49ec8cec823930208c0a66e778ae23f"
+  "htmlHash": "e49ec8cec823930208c0a66e778ae23f",
+  "attachments": [
+    "attachment.php?attach=42266&lang=en"
+  ]
 }

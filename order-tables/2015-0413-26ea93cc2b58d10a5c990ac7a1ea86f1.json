@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0413</td><td>2015-04-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Setting apart lands for the use and benefit of the Lax Kw'alaams Indian Band and the Metlakatla Indian Band in British Columbia </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart lands for the use and benefit of the Lax Kw’alaams Indian Band and Metlakatla Indian Band as follows: (1) 4,114 hectares (10,166 acres) as TSIMPSEAN INDIAN RESERVE No. 2A; (2) 6.19 hectares (15.30 acres) as POINT VEITCH INDIAN RESERVE No. 7; and (3) 2.10 hectares (5.19 acres) as an addition to KHYEX INDIAN RESERVE No. 8. All lands are located in the Skeena-Queen Charlotte Regional District, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30739&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0413",
-  "htmlHash": "26ea93cc2b58d10a5c990ac7a1ea86f1"
+  "htmlHash": "26ea93cc2b58d10a5c990ac7a1ea86f1",
+  "attachments": [
+    "attachment.php?attach=30739&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0321</td><td>2005-03-11</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Centre on Substance Abuse Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LEONARD BLUMENTHAL of Rolly View, Alberta, and ANNE M. LAVACK of Regina, Saskatchewan, to be directors of the Board of Directors of the Canadian Centre on Substance Abuse to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9833&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0321",
-  "htmlHash": "198955ef803171ebafdcf093cfa1f5ae"
+  "htmlHash": "198955ef803171ebafdcf093cfa1f5ae",
+  "attachments": [
+    "attachment.php?attach=9833&lang=en"
+  ]
 }

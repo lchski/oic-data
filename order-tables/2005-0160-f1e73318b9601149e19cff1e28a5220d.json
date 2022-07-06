@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0160</td><td>2005-02-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant three five-year lease renewal options to the CONSEIL DES ÉCOLES CATHOLIQUES DE LANGUE FRANÇAISE DU CENTRE-EST in respect of site located at 3781 Sixth Street in Gloucester.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9435&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0160",
-  "htmlHash": "f1e73318b9601149e19cff1e28a5220d"
+  "htmlHash": "f1e73318b9601149e19cff1e28a5220d",
+  "attachments": [
+    "attachment.php?attach=9435&lang=en"
+  ]
 }

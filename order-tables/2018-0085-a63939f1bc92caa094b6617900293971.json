@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0085</td><td>2018-02-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Natural Sciences and Engineering Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MISHECK MWABA of Calgary, Alberta, to be a member of the Natural Sciences and Engineering Research Council, to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35746&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0085",
-  "htmlHash": "a63939f1bc92caa094b6617900293971"
+  "htmlHash": "a63939f1bc92caa094b6617900293971",
+  "attachments": [
+    "attachment.php?attach=35746&lang=en"
+  ]
 }

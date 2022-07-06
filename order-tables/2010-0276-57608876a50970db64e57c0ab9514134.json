@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0276</td><td>2010-03-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">CFIA- Veterinary Medicine ** COLLECTIVE AGREEMENT ** \n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the entry by the CANADIAN FOOD INSPECTION AGENCY (CFIA) into a COLLECTIVE AGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA applicable to all employees in the Veterinary Medicine Group Bargaining Unit, which expires on September 30, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22254&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0276",
-  "htmlHash": "57608876a50970db64e57c0ab9514134"
+  "htmlHash": "57608876a50970db64e57c0ab9514134",
+  "attachments": [
+    "attachment.php?attach=22254&lang=en"
+  ]
 }

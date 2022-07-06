@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0107</td><td>2022-02-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Emergencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Emergency Measures Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EMERGENCY MEASURES REGULATIONS in order to 1) designate critical infrastructure and protected places; 2) prohibit public assembly expected to lead to a breach of the peace; 3) prohibit a person from causing a minor to be involved in such an assembly; 4) prohibit entry in Canada by a foreign national for the purposes of participating in such an assembly; and 5) direct that persons make available essential goods and services if directed to do so by the Commissioner of the Royal Canadian Mounted Police.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0021  <strong>Publication Date:</strong> 2022-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41566&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0107",
-  "htmlHash": "376e9c4397f52d876b7d0c3e0bebcc57"
+  "htmlHash": "376e9c4397f52d876b7d0c3e0bebcc57",
+  "attachments": [
+    "attachment.php?attach=41566&lang=en"
+  ]
 }

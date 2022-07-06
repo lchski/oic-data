@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0204</td><td>2011-02-10</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Adverse Drug Reaction Reporting)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (Adverse Drug Reaction Reporting), in order to strengthen the current adverse drug reaction reporting section of the Regulations in a way that benefits Canadians while also aligning with other regulatory jurisdictions.  Manufacturers will be required to notify the Minister when there has been a significant change in a drug's risk-benefit profile, which will permit the Minister to obtain manufacturers' analyses that led to these conclusions and to better monitor the safety of drug products in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0031  <strong>Publication Date:</strong> 2011-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23857&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0204",
-  "htmlHash": "e53ee81680061918f42d0ee4c6fa9791"
+  "htmlHash": "e53ee81680061918f42d0ee4c6fa9791",
+  "attachments": [
+    "attachment.php?attach=23857&lang=en"
+  ]
 }

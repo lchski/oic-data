@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1124</td><td>1992-05-21</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INCOME TAX REMISSION ORDER NO. 2 remitting the additional income taxes\nand interest thereon that became payable by certain taxpayers on lump-sum\npayments in respect of benefits that were earned over more than a year.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0104  <strong>Publication Date:</strong> 1992-06-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1124",
-  "htmlHash": "67a2610685c25fbca0e2206e09eb78ad"
+  "htmlHash": "67a2610685c25fbca0e2206e09eb78ad",
+  "attachments": []
 }

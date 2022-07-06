@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1447</td><td>2017-11-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of Amending AO-006-OC-29 to Kinder Morgan Cochin ULC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE by the National Energy Board to KINDER MORGAN COCHIN ULC of Amending Order AO-006-OC-29 in order to authorize the removal of (1) the Eastern Portion of the Cochin Pipeline form the CPCN to reflect the transfer of the 2.1 kilometre Eastern Portion of the pipeline located in Ontario from Cochin Morgan Utopia Ltd; and (2) a 1.6 kilometre segment of the Cochin Pipeline and associated piping and facilities (Western Portion) from the certificate to reflect the transfer of that segment, located near Fort Saskatchewan in Alberta, from Cochin to Plains Midstream Canada ULC.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35358&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1447",
-  "htmlHash": "27b82323f6025bcd860675814dc728a0"
+  "htmlHash": "27b82323f6025bcd860675814dc728a0",
+  "attachments": [
+    "attachment.php?attach=35358&lang=en"
+  ]
 }

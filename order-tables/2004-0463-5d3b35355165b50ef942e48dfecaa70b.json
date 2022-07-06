@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0463</td><td>2004-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2003-2004</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JUDI LONGFIELD of Whitby, Ontario, as Chairman of the Canadian Section of the Canada-United States Permanent Joint Board on Defence in the place of the Honourable Jacques Saada; and request that JUDI LONGFIELD, Member of Parliament for the electoral district of Whitby--Ajax, do undertake such travel as may be necessary for the purposes of the above appointment.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6541&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0463",
-  "htmlHash": "5d3b35355165b50ef942e48dfecaa70b"
+  "htmlHash": "5d3b35355165b50ef942e48dfecaa70b",
+  "attachments": [
+    "attachment.php?attach=6541&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1201</td><td>2001-07-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PHILIPPE S. RABOT of Ottawa, Ontario, as Chairman of the\nRoyal Canadian Mounted Police External Review Committee to hold office\nduring good behaviour for a term of five years, effective July 16, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1201",
-  "htmlHash": "5d7bf17d7d01a4c9747fa8740053b188"
+  "htmlHash": "5d7bf17d7d01a4c9747fa8740053b188",
+  "attachments": []
 }

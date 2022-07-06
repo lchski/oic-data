@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1102</td><td>2007-06-27</td><td></td><td></td><td>,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2006-1603 of December 18, 2006 concerning the appointment of MARGARET BLOODWORTH as a governor of the Board of Governors of the Canada School of Public Service.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16792&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1102",
-  "htmlHash": "a5bd7d414ef6734018ef9d5e86451653"
+  "htmlHash": "a5bd7d414ef6734018ef9d5e86451653",
+  "attachments": [
+    "attachment.php?attach=16792&lang=en"
+  ]
 }

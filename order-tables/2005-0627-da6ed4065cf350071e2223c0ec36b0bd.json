@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0627</td><td>2005-04-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the OCHAPOWACE BAND of some 57 hectares of land situated near Rocanville, Saskatchewan, mines and minerals included, as Ochapowace Indian Reserve No. 71-122.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10431&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0627",
-  "htmlHash": "da6ed4065cf350071e2223c0ec36b0bd"
+  "htmlHash": "da6ed4065cf350071e2223c0ec36b0bd",
+  "attachments": [
+    "attachment.php?attach=10431&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1965</td><td>2002-11-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act<br>Canada Shipping Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the COLLISION REGULATIONS by making them consistent with the Oceans Act, by replacing the references to \"Department\" with more specific information, and by correcting deficiencies identified by the Standing Joint Committee for the Scrutiny of Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0429  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=247&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1965",
-  "htmlHash": "3b3f5bbb3dc29608ae8ec8765a0ee246"
+  "htmlHash": "3b3f5bbb3dc29608ae8ec8765a0ee246",
+  "attachments": [
+    "attachment.php?attach=247&lang=en"
+  ]
 }

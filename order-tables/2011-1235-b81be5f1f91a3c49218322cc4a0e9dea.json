@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1235</td><td>2011-10-20</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Interest Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Prescribed Entities and Classes of Mortgages and Hypothecs Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PRESCRIBED ENTITIES AND CLASSES OF MORTGAGES AND HYPOTHECS REGULATIONS, in order to expand the list of business entities that can negotiate their own mortgage pre-payment terms and give all businesses an equal opportunity to access long-term financing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0230  <strong>Publication Date:</strong> 2011-11-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24870&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1235",
-  "htmlHash": "b81be5f1f91a3c49218322cc4a0e9dea"
+  "htmlHash": "b81be5f1f91a3c49218322cc4a0e9dea",
+  "attachments": [
+    "attachment.php?attach=24870&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1741</td><td>1998-09-29</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of INDIRA VASANTI SAMARASEKERA, of Vancouver, British\nColumbia, as a member of the National Research Council of Canada to hold\noffice during pleasure for a term of three years, effective October 3,\n1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1741",
-  "htmlHash": "f777a8c267c0160c444b1a1be81ee49c"
+  "htmlHash": "f777a8c267c0160c444b1a1be81ee49c",
+  "attachments": []
 }

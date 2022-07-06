@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0611</td><td>2017-06-05</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID COLE MOSHER of Halifax, Nova Scotia, to be the nominee of the Government of Canada to the Commission on the Limits of the Continental Shelf to hold office on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34469&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0611",
-  "htmlHash": "22423b2112a428457f274510ce6273f9"
+  "htmlHash": "22423b2112a428457f274510ce6273f9",
+  "attachments": [
+    "attachment.php?attach=34469&lang=en"
+  ]
 }

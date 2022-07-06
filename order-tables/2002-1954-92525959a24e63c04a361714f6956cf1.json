@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1954</td><td>2002-11-21</td><td>0</td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1251 - SCHEDULE F) by adding ten new medicines to Schedule F [Prescription Drugs].\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0418  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=225&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1954",
-  "htmlHash": "92525959a24e63c04a361714f6956cf1"
+  "htmlHash": "92525959a24e63c04a361714f6956cf1",
+  "attachments": [
+    "attachment.php?attach=225&lang=en"
+  ]
 }

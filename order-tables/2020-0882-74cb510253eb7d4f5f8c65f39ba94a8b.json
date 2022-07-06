@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0882</td><td>2020-11-07</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian High Arctic Research Station Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JENNIFER C. HUBBARD of Chelsea, Quebec, to be President of the Canadian High Arctic Research Station, to hold office during pleasure for a term of five years, on a full-time basis, effective December 10, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39887&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0882",
-  "htmlHash": "74cb510253eb7d4f5f8c65f39ba94a8b"
+  "htmlHash": "74cb510253eb7d4f5f8c65f39ba94a8b",
+  "attachments": [
+    "attachment.php?attach=39887&lang=en"
+  ]
 }

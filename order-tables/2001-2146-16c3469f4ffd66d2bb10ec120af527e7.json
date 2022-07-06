@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2146</td><td>2001-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS by designating selected\noffences under the Migratory Birds Convention Act, 1994, the Migratory\nBirds Regulations and the Wild Animal and Plant Protection and Regulation\nof International and Interprovincial Trade Act as contraventions, by\nrenumbering certain items as a result, and by repealing or updating others.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0517  <strong>Publication Date:</strong> 2001-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2146",
-  "htmlHash": "16c3469f4ffd66d2bb10ec120af527e7"
+  "htmlHash": "16c3469f4ffd66d2bb10ec120af527e7",
+  "attachments": []
 }

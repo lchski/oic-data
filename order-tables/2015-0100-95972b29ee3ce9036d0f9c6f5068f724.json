@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0100</td><td>2015-02-05</td><td></td><td></td><td>,&nbsp; TC,&nbsp; LPA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing the Laurentian Pilotage Authority District No. 3 Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing the LAURENTIAN PILOTAGE AUTHORITY DISTRICT NO. 3 REGULATIONS since they are no longer applicable or of any practical use.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0035  <strong>Publication Date:</strong> 2015-02-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30423&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0100",
-  "htmlHash": "95972b29ee3ce9036d0f9c6f5068f724"
+  "htmlHash": "95972b29ee3ce9036d0f9c6f5068f724",
+  "attachments": [
+    "attachment.php?attach=30423&lang=en"
+  ]
 }

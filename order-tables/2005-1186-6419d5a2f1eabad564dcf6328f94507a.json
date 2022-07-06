@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1186</td><td>2005-06-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the LAC LA RONGE BAND surrenders some 122 hectares of land within Bittern Lake Indian Reserve No. 218 in Saskatchewan, for land exchange purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11667&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1186",
-  "htmlHash": "6419d5a2f1eabad564dcf6328f94507a"
+  "htmlHash": "6419d5a2f1eabad564dcf6328f94507a",
+  "attachments": [
+    "attachment.php?attach=11667&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1214</td><td>2003-08-13</td><td>34</td><td>1999</td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Sector Pension Investment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing September 1st, 2003, as the day upon which section 178 and 179 of the Public Sector Pension Investment Board Act [Bill C-78] shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0145  <strong>Publication Date:</strong> 2003-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3515&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1214",
-  "htmlHash": "6966eeba3b4c70b5dbecbe0d6971d973"
+  "htmlHash": "6966eeba3b4c70b5dbecbe0d6971d973",
+  "attachments": [
+    "attachment.php?attach=3515&lang=en"
+  ]
 }

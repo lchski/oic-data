@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0064</td><td>2017-01-26</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SOPHIE MARCHILDON of Ottawa, Ontario, as a full-time member of the Canadian Human Rights Tribunal to hold office during good behaviour for a term beginning on June 6, 2017 and ending on September 29, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32976&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0064",
-  "htmlHash": "d0ad067c2c857aab7a4d694450da1b6c"
+  "htmlHash": "d0ad067c2c857aab7a4d694450da1b6c",
+  "attachments": [
+    "attachment.php?attach=32976&lang=en"
+  ]
 }

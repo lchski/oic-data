@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0633</td><td>1990-03-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Industry, Science and\nTechnology of John J. Bardswich, of Sydney Mines, Nova Scotia, as a\ndirector of the Board of Directors of the Cape Breton Development\nCorporation to hold office during pleasure for a term of one year.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0633",
-  "htmlHash": "c6fbe5a9994c68842aa16f495fa9b75e"
+  "htmlHash": "c6fbe5a9994c68842aa16f495fa9b75e",
+  "attachments": []
 }

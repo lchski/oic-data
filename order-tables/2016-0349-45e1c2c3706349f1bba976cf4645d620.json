@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0349</td><td>2016-05-13</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Dolores M. Hansen ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. DOLORES M. HANSEN, a Judge of the Federal Court, effective May 31, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32028&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0349",
-  "htmlHash": "45e1c2c3706349f1bba976cf4645d620"
+  "htmlHash": "45e1c2c3706349f1bba976cf4645d620",
+  "attachments": [
+    "attachment.php?attach=32028&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1417</td><td>1995-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STANLEY S. WOOD, of Winnipeg, Manitoba, as a director of\nthe Board of Directors of the International Centre for Human Rights and\nDemocratic Development to hold office during pleasure for a term of two\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1417",
-  "htmlHash": "c35d2c85afef5edd18a672a93b7d2d21"
+  "htmlHash": "c35d2c85afef5edd18a672a93b7d2d21",
+  "attachments": []
 }

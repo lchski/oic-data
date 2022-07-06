@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1897</td><td>2005-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; SOCIAL DEV,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the AGREEMENT ON SOCIAL SECURITY between Canada and ESTONIA, signed at Ottawa on February 21, 2005, shall enter into force in accordance with Article XXVIII thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13211&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1897",
-  "htmlHash": "7a83ddb922639909479ea4d4351f4e21"
+  "htmlHash": "7a83ddb922639909479ea4d4351f4e21",
+  "attachments": [
+    "attachment.php?attach=13211&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0708</td><td>2004-05-19</td><td>15</td><td>2004</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Public Safety Act, 2002</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JUNE 1, 2004 as the date on which sections 97, 100 and 101 of this Act [BILL C-7], being Chapter 15 of the Statutes of Canada, 2004, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0053  <strong>Publication Date:</strong> 2004-06-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7181&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0708",
-  "htmlHash": "bbca89453b260fdaa7d82ae1ba882526"
+  "htmlHash": "bbca89453b260fdaa7d82ae1ba882526",
+  "attachments": [
+    "attachment.php?attach=7181&lang=en"
+  ]
 }

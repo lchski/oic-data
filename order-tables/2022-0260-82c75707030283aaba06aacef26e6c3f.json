@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0260</td><td>2022-03-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declaring Part X of the FAA, other than sections 104.1, 105, 106, 107 and 108, apply to the Subsidiary of VIA Rail Canada Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that all provisions of PART X of the FINANCIAL ADMINISTRATION ACT, other than sections 104.1, 105, 106, 107 and 108, that apply only to parent Crown corporations, apply to the wholly-owned subsidiary of VIA Rail Canada Inc., that is yet to be named, as if it were a parent Crown corporation, effective on the day on which it is incorporated.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0260",
-  "htmlHash": "82c75707030283aaba06aacef26e6c3f"
+  "htmlHash": "82c75707030283aaba06aacef26e6c3f",
+  "attachments": [
+    "attachment.php?attach=41744&lang=en"
+  ]
 }

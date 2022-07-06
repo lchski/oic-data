@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0439</td><td>2004-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the SIX NATIONS OF THE GRAND RIVER BAND, of some 50 hectares of land in Ontario, as an addition to Six Nations Indian Reserve No. 40.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6605&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0439",
-  "htmlHash": "8e4ed90bcc36bb13cbbbd92ba074851d"
+  "htmlHash": "8e4ed90bcc36bb13cbbbd92ba074851d",
+  "attachments": [
+    "attachment.php?attach=6605&lang=en"
+  ]
 }

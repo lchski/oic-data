@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0412</td><td>2015-04-01</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Finlayson Island Indian Reserve No. 19, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 465 hectares (1,150 acres) of land for the use and benefit of the Lax Kw’alaams Indian Band  as an addiditon to FINLAYSON ISLAND INDIAN RESERVE NO. 19, in British Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30738&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0412",
-  "htmlHash": "a5da9c8fae226dac8beaf1ff7b75c031"
+  "htmlHash": "a5da9c8fae226dac8beaf1ff7b75c031",
+  "attachments": [
+    "attachment.php?attach=30738&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1097</td><td>2013-10-09</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. François M. Angers ** RESIGNATION AND ANNUITY **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. FRANÇOIS M. ANGERS, a Judge of the Tax Court of Canada, effective October 31, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28352&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1097",
-  "htmlHash": "e1b47712a70edbb308564c2420295b64"
+  "htmlHash": "e1b47712a70edbb308564c2420295b64",
+  "attachments": [
+    "attachment.php?attach=28352&lang=en"
+  ]
 }

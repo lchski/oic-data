@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0366</td><td>2004-03-31</td><td>22</td><td>2003</td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 1, 2004 as the date on which sections 21 to 35, 85 to 87 and 251 to 261 of this Act [Bill C-25], being Chapter 22 of the Statutes of Canada, 2003, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0042  <strong>Publication Date:</strong> 2004-04-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6321&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0366",
-  "htmlHash": "e0428e49f622629bf73755ea9622633b"
+  "htmlHash": "e0428e49f622629bf73755ea9622633b",
+  "attachments": [
+    "attachment.php?attach=6321&lang=en"
+  ]
 }

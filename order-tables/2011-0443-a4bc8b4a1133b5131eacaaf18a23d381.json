@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0443</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations \n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS, in order to remove the expiry of establishment licences on December 31 each year while maintaining a requirement for annual review of the establishment licence.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0081  <strong>Publication Date:</strong> 2011-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24111&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0443",
-  "htmlHash": "a4bc8b4a1133b5131eacaaf18a23d381"
+  "htmlHash": "a4bc8b4a1133b5131eacaaf18a23d381",
+  "attachments": [
+    "attachment.php?attach=24111&lang=en"
+  ]
 }

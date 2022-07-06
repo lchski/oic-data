@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0101</td><td>2018-02-06</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of MITCHELL LEVINE of Hamilton, Ontario, a member of the Patented Medicine Prices Review Board, as Chairperson of the Patented Medicine Prices Review Board, to hold office during pleasure for a term ending November 9, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0101",
-  "htmlHash": "4339faa269641bee4caad55b2f8b7c24"
+  "htmlHash": "4339faa269641bee4caad55b2f8b7c24",
+  "attachments": [
+    "attachment.php?attach=35762&lang=en"
+  ]
 }

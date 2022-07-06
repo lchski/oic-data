@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0987</td><td>2014-09-25</td><td></td><td></td><td>IC,&nbsp; CIPO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Industrial Design Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Industrial Design Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INDUSTRIAL DESIGN REGULATIONS (MISCELLANEOUS PROGRAM) in order to address the concerns raised by the Standing Joint Committee on the Scrutiny of Regulations and remove a section of the Regulations that is deemed invalid.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0225  <strong>Publication Date:</strong> 2014-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29794&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0987",
-  "htmlHash": "9aca3b46b24736d1670efb108014c8b4"
+  "htmlHash": "9aca3b46b24736d1670efb108014c8b4",
+  "attachments": [
+    "attachment.php?attach=29794&lang=en"
+  ]
 }

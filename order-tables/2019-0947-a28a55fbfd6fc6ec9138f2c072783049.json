@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0947</td><td>2019-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISC</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Lands Agreement (1986) Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chapleau Cree First Nation, Ontario ** Confirmation **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting to confirm Article 7 of the Chapleau Cree Treaty Land Entitlement Claim Settlement Agreement, dated November 27, 2015, among Chapleau Cree First Nation, Her Majesty the Queen in right of Ontario and Her Majesty the Queen in right of Canada as a SPECIFIC AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38272&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0947",
-  "htmlHash": "a28a55fbfd6fc6ec9138f2c072783049"
+  "htmlHash": "a28a55fbfd6fc6ec9138f2c072783049",
+  "attachments": [
+    "attachment.php?attach=38272&lang=en"
+  ]
 }

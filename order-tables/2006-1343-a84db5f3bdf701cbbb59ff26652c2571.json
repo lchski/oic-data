@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1343</td><td>2006-11-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MONIQUE LISE BROOKS to be Honorary Vice-Consul of Canada at Nassau, the Commonwealth of the Bahamas, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15311&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1343",
-  "htmlHash": "a84db5f3bdf701cbbb59ff26652c2571"
+  "htmlHash": "a84db5f3bdf701cbbb59ff26652c2571",
+  "attachments": [
+    "attachment.php?attach=15311&lang=en"
+  ]
 }

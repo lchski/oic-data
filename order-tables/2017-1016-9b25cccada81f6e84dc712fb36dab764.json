@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1016</td><td>2017-07-13</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Canada Agricultural Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order in Council P.C. 2017-923 of June 21, 2017, and appointing LUC BÉLANGER of Gatineau, Quebec, to be a full-time member and Chairperson of the Canada Agricultural Review Tribunal, to hold office during good behaviour for a term of five years, effective July 17, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34923&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1016",
-  "htmlHash": "9b25cccada81f6e84dc712fb36dab764"
+  "htmlHash": "9b25cccada81f6e84dc712fb36dab764",
+  "attachments": [
+    "attachment.php?attach=34923&lang=en"
+  ]
 }

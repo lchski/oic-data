@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0661</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; HRSDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BERNARD HAROLD LAW of Fonthill, Ontario, to be a member of the Review Tribunal for the region of St. Catharines for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24402&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0661",
-  "htmlHash": "89701b114e75c3662e5b5bdda24255c9"
+  "htmlHash": "89701b114e75c3662e5b5bdda24255c9",
+  "attachments": [
+    "attachment.php?attach=24402&lang=en"
+  ]
 }

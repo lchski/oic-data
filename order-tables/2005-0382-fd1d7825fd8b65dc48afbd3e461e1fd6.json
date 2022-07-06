@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0382</td><td>2005-03-22</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CANADA PRODUCTION INSURANCE REGULATIONS which are designed to give the provinces more flexibility in the design and administration of agricultural insurance plans and benefits that meet the needs of their crop and livestock producers.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0062  <strong>Publication Date:</strong> 2005-04-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9945&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0382",
-  "htmlHash": "fd1d7825fd8b65dc48afbd3e461e1fd6"
+  "htmlHash": "fd1d7825fd8b65dc48afbd3e461e1fd6",
+  "attachments": [
+    "attachment.php?attach=9945&lang=en"
+  ]
 }

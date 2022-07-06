@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0245</td><td>2007-03-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into the CANADA -- NOVA SCOTIA IMMIGRATION PORTAL CONTRIBUTION AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15997&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0245",
-  "htmlHash": "1cec0ee38943c3617a7b789629e872e4"
+  "htmlHash": "1cec0ee38943c3617a7b789629e872e4",
+  "attachments": [
+    "attachment.php?attach=15997&lang=en"
+  ]
 }

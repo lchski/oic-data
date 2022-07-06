@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2350</td><td>1998-12-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHELE A. PINEAU, of Ottawa, Ontario, as a\nVice-Chairperson of the Canada Industrial Relations Board, to hold office\nduring good behaviour for a term of four years; and order that\nMICHELE A. PINEAU be deemed to be employed in the Public Service for the\npurposes of the Public Service Superannuation Act, effective January 1,\n1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2350",
-  "htmlHash": "cc7c94b5dea4df0998bb0d5811777db9"
+  "htmlHash": "cc7c94b5dea4df0998bb0d5811777db9",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0877</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Bus Seat Belts and Other Amendments)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (BUS SEAT BELTS) in order to update sections 208, 210 and 222 of the Motor Vehicle Safety Regulations to address seat belts on various bus types with the aim of improving bus occupant safety and maintaining alignment with the United States where possible.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0143  <strong>Publication Date:</strong> 2018-07-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36585&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0877",
-  "htmlHash": "59820100a21a48b4b71728702eb1aa21"
+  "htmlHash": "59820100a21a48b4b71728702eb1aa21",
+  "attachments": [
+    "attachment.php?attach=36585&lang=en"
+  ]
 }

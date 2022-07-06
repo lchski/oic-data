@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0474</td><td>2019-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Order Imposing a Surtax on the Importation of Certain Steel Goods (Final Safeguards)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ORDER IMPOSING A SURTAX ON THE IMPORTATION OF CERTAIN STEEL GOODS (FINAL SAFEGUARDS) in order to implement the recommendations of the Canadian International Trade Tribunal in order to remedy the threat of serious injury to domestic producers of heavy plate and stainless steel wire caused by increased imports.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0127  <strong>Publication Date:</strong> 2019-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0474",
-  "htmlHash": "0e882f1cb8c7673274f8f61a090120a7"
+  "htmlHash": "0e882f1cb8c7673274f8f61a090120a7",
+  "attachments": [
+    "attachment.php?attach=37795&lang=en"
+  ]
 }

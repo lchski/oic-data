@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1726</td><td>2009-10-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator (MB)\nMichel Monnin\nFrom October 17 to October 19, 2009, incl. </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable MICHEL MONNIN to serve as ADMINISTRATOR of the Government of MANITOBA for the period of October 17 to October 19, 2009 inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21621&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1726",
-  "htmlHash": "b14fcc0b8c556be0947a4a627c3d1782"
+  "htmlHash": "b14fcc0b8c556be0947a4a627c3d1782",
+  "attachments": [
+    "attachment.php?attach=21621&lang=en"
+  ]
 }

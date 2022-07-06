@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1165</td><td>2012-10-04</td><td></td><td></td><td>DFO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID GILLIS of Ottawa, Ontario, to be a delegate to the International Council for the Exploration of the Sea, to hold office during pleasure.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26632&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1165",
-  "htmlHash": "6173748b1e06033a05c044c2f9e1bc41"
+  "htmlHash": "6173748b1e06033a05c044c2f9e1bc41",
+  "attachments": [
+    "attachment.php?attach=26632&lang=en"
+  ]
 }

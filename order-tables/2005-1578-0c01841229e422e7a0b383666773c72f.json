@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1578</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing Marine Surveyors employed by the Department of Transport as either a STEAMSHIP INSPECTOR or as an INSPECTOR OF SHIPS' TACKLE, or both, and (b) terminating previous appointments.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12640&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1578",
-  "htmlHash": "0c01841229e422e7a0b383666773c72f"
+  "htmlHash": "0c01841229e422e7a0b383666773c72f",
+  "attachments": [
+    "attachment.php?attach=12640&lang=en"
+  ]
 }

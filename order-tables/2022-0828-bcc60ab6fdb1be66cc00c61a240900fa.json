@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0828</td><td>2022-06-24</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Wildlife Act</td></tr><tr><td>Subject</td><td colspan=\"5\">For Migratory birds ** Acquisition of lands **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of the Environment (1) to acquire the lands for the purpose of research, conservation and interpretation in respect of migratory birds; and (2) to dispose of lands within 10 meters of the eastern boundary of the Big Creek National Wildlife Area in Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42382&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0828",
-  "htmlHash": "bcc60ab6fdb1be66cc00c61a240900fa"
+  "htmlHash": "bcc60ab6fdb1be66cc00c61a240900fa",
+  "attachments": [
+    "attachment.php?attach=42382&lang=en"
+  ]
 }

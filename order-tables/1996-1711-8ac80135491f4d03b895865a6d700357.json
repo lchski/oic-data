@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1711</td><td>1996-11-05</td><td>0</td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Public Works and Government\nServices of BRIAN STECK, of North York, Ontario, as a director of the\nBoard of Directors of the Canada Post Corporation to hold office during\npleasure for a term of three years, in the place of Julia E. Foster,\nwhose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1711",
-  "htmlHash": "8ac80135491f4d03b895865a6d700357"
+  "htmlHash": "8ac80135491f4d03b895865a6d700357",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0532</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Ferry Services Contribution Program</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order in Council P.C. 2011-31 of January 28, 2011; and approving that the Minister of Transport enter into contribution agreements for the purpose of implementing the Ferry Services Contribution Program.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24201&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0532",
-  "htmlHash": "38a5d850a6db310dde7d4b8f8dbfc797"
+  "htmlHash": "38a5d850a6db310dde7d4b8f8dbfc797",
+  "attachments": [
+    "attachment.php?attach=24201&lang=en"
+  ]
 }

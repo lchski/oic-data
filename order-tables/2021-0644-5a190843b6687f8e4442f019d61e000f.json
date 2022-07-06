@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0644</td><td>2021-06-24</td><td></td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Centre for Occupational Health and Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TIMOTHY OSCAR PETERSEN of Saint John, New Brunswick, to be a governor of the Council of the Canadian Centre for Occupational Health and Safety, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40925&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0644",
-  "htmlHash": "5a190843b6687f8e4442f019d61e000f"
+  "htmlHash": "5a190843b6687f8e4442f019d61e000f",
+  "attachments": [
+    "attachment.php?attach=40925&lang=en"
+  ]
 }

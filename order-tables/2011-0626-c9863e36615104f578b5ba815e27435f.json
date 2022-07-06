@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0626</td><td>2011-06-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SCOTT HALDANE of Toronto, Ontario to the position of special adviser to the Minister of Indian Affairs and Northern Development, to be known as Chair of the National Panel on First Nation Elementary and Secondary Education to hold office during pleasure for a term of seven months.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24469&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0626",
-  "htmlHash": "c9863e36615104f578b5ba815e27435f"
+  "htmlHash": "c9863e36615104f578b5ba815e27435f",
+  "attachments": [
+    "attachment.php?attach=24469&lang=en"
+  ]
 }

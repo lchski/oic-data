@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0749</td><td>2010-06-10</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Rescinding Canadian Transportation Agency Decision Nº 392-R-2008 and directing that the CTA reconsider Peace River Coal Inc.'s application of April 22, 2008.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Rescinding CANADIAN TRANSPORTATION AGENCY DECISION Nº 392-R-2008 of July 31, 2008, therefore returning Peace River Coal Incorporated's application dated April 22, 2008 to the Agency for determination.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22726&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0749",
-  "htmlHash": "b6473dd9ac8d73b426e35ab6edad3a01"
+  "htmlHash": "b6473dd9ac8d73b426e35ab6edad3a01",
+  "attachments": [
+    "attachment.php?attach=22726&lang=en"
+  ]
 }

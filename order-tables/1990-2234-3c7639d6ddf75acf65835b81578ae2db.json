@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2234</td><td>1990-10-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment of some of the terms and conditions of the 1984/85 Series,\n1985/86 Series, 1986/87 Series, 1987/88 Series, 1988/89 Series and 1989\nSeries of CANADA SAVINGS BONDS in order to adjust the yield of each such\nSeries.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2234",
-  "htmlHash": "3c7639d6ddf75acf65835b81578ae2db"
+  "htmlHash": "3c7639d6ddf75acf65835b81578ae2db",
+  "attachments": []
 }

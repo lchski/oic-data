@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1954</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Proposed FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 2007 which would prescribe the formula for calculating Equalization and Territorial Formula Financing (TFF) payments for the 2007-2014 period.  The proposal would also stipulate the timing and manner for which Equalization and TFF payments will be determined and made, such as the timing of the calculation of payments would be changed from 42 months after the start of the fiscal year to 3 months before the start of the fiscal year, in order to increase predictability of payments.\n.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0303  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17724&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1954",
-  "htmlHash": "059f661329bd569b1d66ebff170ac7bc"
+  "htmlHash": "059f661329bd569b1d66ebff170ac7bc",
+  "attachments": [
+    "attachment.php?attach=17724&lang=en"
+  ]
 }

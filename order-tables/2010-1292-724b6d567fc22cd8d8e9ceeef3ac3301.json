@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1292</td><td>2010-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrative Discharge (Voluntary Retirement) RCMP\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting the administrative discharge (voluntary retirement) of 5 officers of the Royal Canadian Mounted Police.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23278&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1292",
-  "htmlHash": "724b6d567fc22cd8d8e9ceeef3ac3301"
+  "htmlHash": "724b6d567fc22cd8d8e9ceeef3ac3301",
+  "attachments": [
+    "attachment.php?attach=23278&lang=en"
+  ]
 }

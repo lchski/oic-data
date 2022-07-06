@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1924</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval (a) to enter into an AGREEMENT with THE NORFOLK FRUIT GROWERS'\nASSOCIATION which provides for the implementation of a cooperative plan for\nthe marketing of fresh EXTRA FANCY or FANCY GRADE APPLES produced in\nONTARIO during 1992, and (b) to appoint MILLAD, ROUSE &amp; ROSEBRUGH,\nchartered accountants, to inspect and audit the books and accounts of the\naforementioned cooperative association.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1924",
-  "htmlHash": "1d54cb0a91665e16c84a6a49e2473f9b"
+  "htmlHash": "1d54cb0a91665e16c84a6a49e2473f9b",
+  "attachments": []
 }

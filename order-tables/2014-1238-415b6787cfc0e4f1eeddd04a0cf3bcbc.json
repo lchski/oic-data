@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1238</td><td>2014-11-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; PHAC</td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to Ebola Virus Disease in Canada Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO EBOLA VIRUS DISEASE IN CANADA ORDER in order to further protect the health and safety of the public by ensuring that all travellers arriving to Canada from Guinea, Liberia and Sierra Leone are identified and monitored by public health authorities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30107&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1238",
-  "htmlHash": "415b6787cfc0e4f1eeddd04a0cf3bcbc"
+  "htmlHash": "415b6787cfc0e4f1eeddd04a0cf3bcbc",
+  "attachments": [
+    "attachment.php?attach=30107&lang=en"
+  ]
 }

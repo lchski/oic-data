@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0963</td><td>2016-10-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Brian Frank William Jones as Acting Commanding Officer — RCMP - Yukon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating BRIAN FRANK WILLIAM JONES of the Royal canadian Mounted Police as Acting Commanding Officer , \"M\" Division, for the Yukon Territory, for a period exceeding 180 days.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32658&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0963",
-  "htmlHash": "ee633e5c90cef402d89a503399e0176e"
+  "htmlHash": "ee633e5c90cef402d89a503399e0176e",
+  "attachments": [
+    "attachment.php?attach=32658&lang=en"
+  ]
 }

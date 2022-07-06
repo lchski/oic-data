@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0881</td><td>2006-09-15</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Business Development Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Industry of JEAN MARTEL of Île Bizard, Quebec, as a director of the Board of Directors of the Business Development Bank of Canada to hold office during pleasure for a term of three years, in the place of Louis J. Duhamel.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14827&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0881",
-  "htmlHash": "7e8c7989572b55d959b3760cc7c9f155"
+  "htmlHash": "7e8c7989572b55d959b3760cc7c9f155",
+  "attachments": [
+    "attachment.php?attach=14827&lang=en"
+  ]
 }

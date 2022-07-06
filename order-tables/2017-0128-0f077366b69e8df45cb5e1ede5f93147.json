@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0128</td><td>2017-02-13</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Development Investment Corporation ** Corporate Plans **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Corporate Plans of the CANADA DEVELOPMENT INVESTMENT CORPORATION for the 2016-2020 and 2017-2021 planning periods.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33040&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0128",
-  "htmlHash": "0f077366b69e8df45cb5e1ede5f93147"
+  "htmlHash": "0f077366b69e8df45cb5e1ede5f93147",
+  "attachments": [
+    "attachment.php?attach=33040&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0510</td><td>2006-06-08</td><td></td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to HAMILTON made on March 9, 2006 by Dr. GARY GOODYEAR, M.P., in order to speak at the debut of a new air-handling system developed by Ecologix Heating Technologies Inc. (Zone Comfort System).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14423&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0510",
-  "htmlHash": "b92f96326c1a8cd25203f9608ffd6096"
+  "htmlHash": "b92f96326c1a8cd25203f9608ffd6096",
+  "attachments": [
+    "attachment.php?attach=14423&lang=en"
+  ]
 }

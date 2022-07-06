@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1643</td><td>1996-10-28</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as directors of the Board of\nDirectors of the Canadian Race Relations Foundation to hold office during\npleasure for a term of two years.\n(YVON FONTAINE, of Moncton, New Brunswick; FO NIEMI, of Montreal, Quebec;\nSUBHAS RAMCHARAN, of Tecumseh, Ontario; PANA MERCHANT, of Regina,\nSaskatchewan; ANN D. ENGE, of Yellowknife, Northwest Territories;\nPEGGY J. JOHNSON, of St. John's, Newfoundland; FRANK J. ZAKEM, of\nCharlottetown, Prince Edward Island; MARIA AUSILIA MORELLATO, of\nVancouver, British Columbia; and ANDREW J. HLADYSHEVSKY, of Edmonton,\nAlberta)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1643",
-  "htmlHash": "550e21a936a888a5f8d7907b7d0e94d9"
+  "htmlHash": "550e21a936a888a5f8d7907b7d0e94d9",
+  "attachments": []
 }

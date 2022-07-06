@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0732</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SIMON HÉBERT, of the City of Québec, in the Province of Quebec, to be a Puisne Judge of the Superior Court for the district of Québec, in the Province of Quebec, with residence in the territory of Ville de Québec or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31054&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0732",
-  "htmlHash": "a4815b91fe72277eea710f79350b4115"
+  "htmlHash": "a4815b91fe72277eea710f79350b4115",
+  "attachments": [
+    "attachment.php?attach=31054&lang=en"
+  ]
 }

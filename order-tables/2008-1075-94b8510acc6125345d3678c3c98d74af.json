@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1075</td><td>2008-06-12</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">JUDGES ACT (ANNUITIES TO SURVIVORS)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a lifelong annuity to MARGARET J. HIRSCHFIELD, widow of the Honourable A. Aubrey Hirschfield commencing on April 29, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18909&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1075",
-  "htmlHash": "94b8510acc6125345d3678c3c98d74af"
+  "htmlHash": "94b8510acc6125345d3678c3c98d74af",
+  "attachments": [
+    "attachment.php?attach=18909&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0988</td><td>1994-06-14</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Arthur William Sterritt, of Prince Rupert, British Columbia,\nas a British Columbia Treaty Commissioner, to hold office during pleasure\ncommencing on the date of the present Order in Council, or the date of\nthe Order issued by the Provincial Government, or the date of the\nResolution of the First Nations Summit and ending April 14, 1995 or the\ndate on which the appointemnt is revoked by resolution of the Summit.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0988",
-  "htmlHash": "a888743e42ce8e449b6bbd885950f3db"
+  "htmlHash": "a888743e42ce8e449b6bbd885950f3db",
+  "attachments": []
 }

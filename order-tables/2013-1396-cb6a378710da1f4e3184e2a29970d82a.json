@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1396</td><td>2013-12-12</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Mary Kathleen Barry ** ANNUITY **  The Hon. Kevin Barry **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to MARY KATHLEEN BARRY, survivor of the Hon. Kevin Barry, a Judge of the Trial Division of the Supreme Court of Newfoundland and Labrador, effective October 19, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28660&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1396",
-  "htmlHash": "cb6a378710da1f4e3184e2a29970d82a"
+  "htmlHash": "cb6a378710da1f4e3184e2a29970d82a",
+  "attachments": [
+    "attachment.php?attach=28660&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0844</td><td>2011-07-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority<br>Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Fort William First Nation\nSPECIFIC CLAIM SETTLEMENT AGREEMENT - Execution</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order a) authorizing the Minister of Indian Affairs and Northern Development to execute the FORT WILLIAM FIRST NATION BOUNDARY SPECIFIC CLAIM SETTLEMENT AGREEMENT for the purpose of compensation; b) accepting an absolute surrender of the lands.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24521&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0844",
-  "htmlHash": "ab7bd97cac4e3b413347609a5bae5547"
+  "htmlHash": "ab7bd97cac4e3b413347609a5bae5547",
+  "attachments": [
+    "attachment.php?attach=24521&lang=en"
+  ]
 }

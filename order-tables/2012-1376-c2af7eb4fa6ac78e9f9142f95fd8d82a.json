@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1376</td><td>2012-10-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Reservation to the Crown Waiver Order (Great Slave Lake, N.W.T.)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order waiving the reservation to the Crown of certain territorial lands lying with 30.48 metres (100 feet) of the ordinary high water mark along the shoreline of GREAT SLAVE LAKE in the City of Yellowknife, in the Northwest Territories.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0082  <strong>Publication Date:</strong> 2012-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26819&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1376",
-  "htmlHash": "c2af7eb4fa6ac78e9f9142f95fd8d82a"
+  "htmlHash": "c2af7eb4fa6ac78e9f9142f95fd8d82a",
+  "attachments": [
+    "attachment.php?attach=26819&lang=en"
+  ]
 }

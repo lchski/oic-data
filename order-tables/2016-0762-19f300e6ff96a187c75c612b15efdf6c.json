@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0762</td><td>2016-08-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of ONTARIO (1) the Hon. ROBERT J. SHARPE on September 8, 2016; (2) the Hon. HEATHER J. SMITH from September 15 to 17, inclusive; and (3) the Hon. KATHRYN N. FELDMAN from September 20 to 24, 2016, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32457&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0762",
-  "htmlHash": "19f300e6ff96a187c75c612b15efdf6c"
+  "htmlHash": "19f300e6ff96a187c75c612b15efdf6c",
+  "attachments": [
+    "attachment.php?attach=32457&lang=en"
+  ]
 }

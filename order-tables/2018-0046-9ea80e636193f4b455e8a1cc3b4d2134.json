@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0046</td><td>2018-01-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation Appeal Tribunal of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of CHARLES STANLEY SULLIVAN, full-time member of the Transportation Appeal Tribunal of Canada, effective October 31, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35707&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0046",
-  "htmlHash": "9ea80e636193f4b455e8a1cc3b4d2134"
+  "htmlHash": "9ea80e636193f4b455e8a1cc3b4d2134",
+  "attachments": [
+    "attachment.php?attach=35707&lang=en"
+  ]
 }

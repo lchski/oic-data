@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0567</td><td>2016-06-17</td><td></td><td></td><td>ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Multi-Sector Air Pollutants Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MULTI-SECTOR AIR POLLUTANTS REGULATIONS in order to impose mandatory performance standards and subject regulated facilities to enforcement and compliance requirements and penalties.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0151  <strong>Publication Date:</strong> 2016-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32251&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0567",
-  "htmlHash": "22dda2f621da7a19fa89622b1e29cdc0"
+  "htmlHash": "22dda2f621da7a19fa89622b1e29cdc0",
+  "attachments": [
+    "attachment.php?attach=32251&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1351</td><td>2006-11-22</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, from the Department of Industry to Department of Indian Affairs and Northern Development, of the ABORIGINAL BUSINESS CANADA, FIRST NATIONS SCHOOLNET AND THE ABORIGINAL ECONONIC  DEVELOPMENT BOARD, effective December 1, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0135  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15362&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1351",
-  "htmlHash": "51b422ce8f91c338efb9715f525dd35b"
+  "htmlHash": "51b422ce8f91c338efb9715f525dd35b",
+  "attachments": [
+    "attachment.php?attach=15362&lang=en"
+  ]
 }

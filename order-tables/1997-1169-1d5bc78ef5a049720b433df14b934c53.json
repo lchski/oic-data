@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1169</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRDC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Proclamation do issue giving notice that the SECOND SUPPLEMENTARY\nAGREEMENT ON SOCIAL SECURITY between CANADA and the UNITED STATES OF\nAMERICA signed on May 28, 1996, will be in force as of October 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1169",
-  "htmlHash": "1d5bc78ef5a049720b433df14b934c53"
+  "htmlHash": "1d5bc78ef5a049720b433df14b934c53",
+  "attachments": []
 }

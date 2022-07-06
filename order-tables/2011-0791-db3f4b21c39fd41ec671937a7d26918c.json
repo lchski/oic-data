@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0791</td><td>2011-06-27</td><td></td><td></td><td>OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Amendment of  Order in Council P.C. 2011-450 of March 25, 2011 \nFort William First Nation (ON)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending Order in Council P.C. 2011-450 of March 25, 2011 by replacing “Registry Act, R.S.O. 1990, c. R. 20” with “Land Titles Act, R.S.O. 1990, c. L.5” related toe the FORT WILLIAM INDIAN RESERVE No. 52.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0791",
-  "htmlHash": "db3f4b21c39fd41ec671937a7d26918c"
+  "htmlHash": "db3f4b21c39fd41ec671937a7d26918c",
+  "attachments": [
+    "attachment.php?attach=24359&lang=en"
+  ]
 }

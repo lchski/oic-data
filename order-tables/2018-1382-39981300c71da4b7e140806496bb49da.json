@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1382</td><td>2018-11-08</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHAEL JAMES GARDINER of Vancouver, British Columbia, to be a part-time member of the Immigration and Refugee Board (Vancouver Regional Office), to hold office during good behaviour for a term of three years, effective January 3, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37059&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1382",
-  "htmlHash": "39981300c71da4b7e140806496bb49da"
+  "htmlHash": "39981300c71da4b7e140806496bb49da",
+  "attachments": [
+    "attachment.php?attach=37059&lang=en"
+  ]
 }

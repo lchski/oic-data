@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0914</td><td>2007-06-07</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SAFETY OF HUMAN CELLS, TISSUES AND ORGANS FOR TRANSPLANTATION REGULATIONS by addressing safety in the processing and handling of these products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0118  <strong>Publication Date:</strong> 2007-06-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16571&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0914",
-  "htmlHash": "264a4444ad27849df907cb8c0fc6e85e"
+  "htmlHash": "264a4444ad27849df907cb8c0fc6e85e",
+  "attachments": [
+    "attachment.php?attach=16571&lang=en"
+  ]
 }

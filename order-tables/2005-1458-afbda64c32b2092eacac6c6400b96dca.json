@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1458</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JUDITH ANN GELBER of Toronto, Ontario, to be Chairperson of the Boards of Referees for the Ontario Regional Division, and particularly for the District of Toronto, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12249&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1458",
-  "htmlHash": "afbda64c32b2092eacac6c6400b96dca"
+  "htmlHash": "afbda64c32b2092eacac6c6400b96dca",
+  "attachments": [
+    "attachment.php?attach=12249&lang=en"
+  ]
 }

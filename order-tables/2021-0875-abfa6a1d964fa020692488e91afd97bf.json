@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0875</td><td>2021-08-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Interim Order Modifying the Operation of the Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the INTERIM ORDER MODIFYING THE OPERATION OF THE PASSENGER AUTOMOBILE AND LIGHT TRUCK GREENHOUSE GAS EMISSION REGULATIONS, made by Minister of the Environment on July 30, 2021, in order to correct the multiplier formula used to determine the carbon dioxide equivalent emission credits for advanced technology vehicles found in the Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations for an additional year to provide time for the Department of the Environment to complete the development of a regulatory amendment that is needed to permanently correct the formula in the longer term.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41184&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0875",
-  "htmlHash": "abfa6a1d964fa020692488e91afd97bf"
+  "htmlHash": "abfa6a1d964fa020692488e91afd97bf",
+  "attachments": [
+    "attachment.php?attach=41184&lang=en"
+  ]
 }

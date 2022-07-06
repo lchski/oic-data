@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-1057</td><td>2021-12-20</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">None</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WENDY NIXON, of the City of Ottawa, in the Province of Ontario, to be Assistant Clerk of the Queen's Privy Council for Canada (Orders in Council), effective December 13, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41422&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-1057",
-  "htmlHash": "d77ea62fde310cbbd6717a1d156f1655"
+  "htmlHash": "d77ea62fde310cbbd6717a1d156f1655",
+  "attachments": [
+    "attachment.php?attach=41422&lang=en"
+  ]
 }

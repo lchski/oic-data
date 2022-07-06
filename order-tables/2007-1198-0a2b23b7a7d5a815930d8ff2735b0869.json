@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1198</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the amounts to be deducted by The Canadian Wheat Board from initial payments for BARLEY and DESIGNATED BARLEY delivered in the 2007-2008 crop year, effective August 1, 2007 (FREIGHT ADJUSTMENT FACTORS).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16902&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1198",
-  "htmlHash": "0a2b23b7a7d5a815930d8ff2735b0869"
+  "htmlHash": "0a2b23b7a7d5a815930d8ff2735b0869",
+  "attachments": [
+    "attachment.php?attach=16902&lang=en"
+  ]
 }

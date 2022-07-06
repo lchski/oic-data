@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1074</td><td>2020-12-14</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce du grand Châteauguay, Quebec  ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of the CHAMBRE DE COMMERCE DU GRAND CHÂTEAUGUAY, in Quebec, TO CHANGE ITS NAME to the “CHAMBRE DE COMMERCE ET D'INDUSTRIE DU GRAND ROUSSILLON”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40086&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1074",
-  "htmlHash": "85af20414de5599b64f2b95b8bac03b9"
+  "htmlHash": "85af20414de5599b64f2b95b8bac03b9",
+  "attachments": [
+    "attachment.php?attach=40086&lang=en"
+  ]
 }

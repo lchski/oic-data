@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1944</td><td>2005-11-15</td><td>27</td><td>2005</td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Labrador Inuit Land Claims Agreement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 1, 2005 as the day on which this Act [BILL C-56], being chapter 27 of the Statutes of Canada, 2005, COMES INTO FORCE, other than sections 22 through 26, inclusive, which came into force upon Royal Assent.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0117  <strong>Publication Date:</strong> 2005-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13357&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1944",
-  "htmlHash": "f5796442989c74051ae029f708900754"
+  "htmlHash": "f5796442989c74051ae029f708900754",
+  "attachments": [
+    "attachment.php?attach=13357&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0120</td><td>2001-01-23</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the Province of BRITISH COLUMBIA of its\nstatutory power to expropriate some 0.7 hectares of SOOWAHLIE INDIAN\nRESERVE No. 14, for highways and public utility purposes, and (b) in lieu\nthereof, transferring those lands to B.C. for those purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0120",
-  "htmlHash": "2f51141dc00a1eacd89841f5f7d50e91"
+  "htmlHash": "2f51141dc00a1eacd89841f5f7d50e91",
+  "attachments": []
 }

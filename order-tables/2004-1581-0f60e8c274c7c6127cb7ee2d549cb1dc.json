@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1581</td><td>2004-12-16</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of AIMABLE NDEJURU of Montréal, Quebec, to be a part-time member of the Canadian Human Rights Commission to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8995&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1581",
-  "htmlHash": "0f60e8c274c7c6127cb7ee2d549cb1dc"
+  "htmlHash": "0f60e8c274c7c6127cb7ee2d549cb1dc",
+  "attachments": [
+    "attachment.php?attach=8995&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0466</td><td>1999-03-18</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating two Judges of the Federal Court of Canada as JUDGES of\nthe COURT MARTIAL APPEAL COURT OF CANADA, as follows:\n.\n  1. Hon. J. François Lemieux (Trial Division/Section de première instance)\n  2. Hon. Karen R. Sharlow (Trial Division/Section de première instance)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0466",
-  "htmlHash": "266ab3e4f524c451ba3906375a9083d2"
+  "htmlHash": "266ab3e4f524c451ba3906375a9083d2",
+  "attachments": []
 }

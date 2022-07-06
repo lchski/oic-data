@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0340</td><td>2016-05-13</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing the Vinyl Chloride Release Regulations, 1992</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing the VINYL CHLORIDE RELEASE REGULATIONS, 1992 in order to eliminate federal-provincial regulatory duplication and reduce the administrative burden in the polyvinyl chloride manufacturing sector, without compromising human health.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0096  <strong>Publication Date:</strong> 2016-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32019&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0340",
-  "htmlHash": "6c737777191b2fd28c9554772dfa6bc6"
+  "htmlHash": "6c737777191b2fd28c9554772dfa6bc6",
+  "attachments": [
+    "attachment.php?attach=32019&lang=en"
+  ]
 }

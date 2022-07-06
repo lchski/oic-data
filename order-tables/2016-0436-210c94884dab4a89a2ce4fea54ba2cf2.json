@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0436</td><td>2016-06-03</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 183 (Northwest Territories)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 183 which makes a declaration of federal concern and authorizes the provision of financial assistance to the province of NORTHWEST TERRITORIES, with respect to the WILDFIRES, that affected the province, from May 31 to August 19, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32116&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0436",
-  "htmlHash": "210c94884dab4a89a2ce4fea54ba2cf2"
+  "htmlHash": "210c94884dab4a89a2ce4fea54ba2cf2",
+  "attachments": [
+    "attachment.php?attach=32116&lang=en"
+  ]
 }

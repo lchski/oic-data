@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2275</td><td>1992-11-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Maurice Blanchard, of Portage La Prairie, Manitoba, as\nChairman of the Board of Directors of the Freshwater Fish Marketing\nCorporation to hold office during pleasure for a term of three years,\neffective September 6, 1992,\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2275",
-  "htmlHash": "003e43b9cff6cc62d626c920659ae9c8"
+  "htmlHash": "003e43b9cff6cc62d626c920659ae9c8",
+  "attachments": []
 }

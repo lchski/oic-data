@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0080</td><td>2020-02-29</td><td></td><td></td><td>,&nbsp; CIRNAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority<br>Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Whitefish River First Nation Boundaries Specific Claim Settlement ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the Minister of Crown-Indigenous Relations to ENTER INTO and EXECUTE, on behalf of Her Majesty in Right of Canada, the WHITEFISH RIVER FIRST NATION BOUNDARIES SPECIFIC CLAIM SETTLEMENT AGREEMENT; and (2) accepting the assent to release and relinquish absolutely to Canada all rights and interests in the lands as forming part of the Whitefish River Indian Reserve.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38867&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0080",
-  "htmlHash": "4416066131ac2843c9284cc944275177"
+  "htmlHash": "4416066131ac2843c9284cc944275177",
+  "attachments": [
+    "attachment.php?attach=38867&lang=en"
+  ]
 }

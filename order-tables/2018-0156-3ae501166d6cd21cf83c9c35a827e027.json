@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0156</td><td>2018-02-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation Appeal Tribunal of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SARAH MARGARET KIRBY of Halifax, Nova Scotia, as a part-time member of the Transportation Appeal Tribunal of Canada, to hold office during good behaviour for a term of three years, effective February 15, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35817&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0156",
-  "htmlHash": "3ae501166d6cd21cf83c9c35a827e027"
+  "htmlHash": "3ae501166d6cd21cf83c9c35a827e027",
+  "attachments": [
+    "attachment.php?attach=35817&lang=en"
+  ]
 }

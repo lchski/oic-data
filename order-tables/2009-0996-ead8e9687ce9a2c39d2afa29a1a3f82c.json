@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0996</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Act</td><td colspan=\"5\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Migratory Birds Regulations\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the Migratory Birds Regulations, in order to change some hunting season dates for the 2009-2010 hunting season and to set daily bag limits and possession limits for migratory game birds to ensure the sustainable harvest of migratory game bird populations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0190  <strong>Publication Date:</strong> 2009-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20868&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0996",
-  "htmlHash": "ead8e9687ce9a2c39d2afa29a1a3f82c"
+  "htmlHash": "ead8e9687ce9a2c39d2afa29a1a3f82c",
+  "attachments": [
+    "attachment.php?attach=20868&lang=en"
+  ]
 }

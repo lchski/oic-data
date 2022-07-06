@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0173</td><td>2004-03-08</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL PARKS COTTAGES REGULATIONS by increasing the allowable floor space for the construction of cottages in the Riding Mountain National Park of Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0035  <strong>Publication Date:</strong> 2004-03-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5981&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0173",
-  "htmlHash": "4ec07d61a9d2a36f66583fb9a7ae3234"
+  "htmlHash": "4ec07d61a9d2a36f66583fb9a7ae3234",
+  "attachments": [
+    "attachment.php?attach=5981&lang=en"
+  ]
 }

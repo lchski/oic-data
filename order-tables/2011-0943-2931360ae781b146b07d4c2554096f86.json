@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0943</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; MINT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Issue and Determining the Composition, Dimensions and Designs of Various Circulation Coins</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the issue of eight circulation coins with designs that would represent Canadian ecology, conservation of the natural environment and iconic Canadian wildlife.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0193  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24621&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0943",
-  "htmlHash": "2931360ae781b146b07d4c2554096f86"
+  "htmlHash": "2931360ae781b146b07d4c2554096f86",
+  "attachments": [
+    "attachment.php?attach=24621&lang=en"
+  ]
 }

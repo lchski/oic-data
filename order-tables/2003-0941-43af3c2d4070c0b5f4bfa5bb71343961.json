@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0941</td><td>2003-06-12</td><td>2</td><td>2003</td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Physical Activity and Sport Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JUNE 15, 2003, as the day upon which of this Act [BILL C-12], being chapter 2 of the Statutes of Canada, 2003, shall COME INTO FORCE, with the exception of section 38.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0129  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2914&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0941",
-  "htmlHash": "43af3c2d4070c0b5f4bfa5bb71343961"
+  "htmlHash": "43af3c2d4070c0b5f4bfa5bb71343961",
+  "attachments": [
+    "attachment.php?attach=2914&lang=en"
+  ]
 }

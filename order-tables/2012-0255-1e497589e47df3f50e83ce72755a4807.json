@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0255</td><td>2012-03-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Syria) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (SYRIA) REGULATIONS in order to add one entity and new names to the list of designated persons as well as introduce a complete ban on the provision or acquisition of financial or other related services to, from or for the benefit of, or on the direction or order of, Syria or any person in Syria.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0035  <strong>Publication Date:</strong> 2012-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0255",
-  "htmlHash": "1e497589e47df3f50e83ce72755a4807"
+  "htmlHash": "1e497589e47df3f50e83ce72755a4807",
+  "attachments": [
+    "attachment.php?attach=25678&lang=en"
+  ]
 }

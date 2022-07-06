@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0710</td><td>2018-06-06</td><td></td><td></td><td>PSPC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES ROBERT KNOPP of Ottawa, Ontario, to be a full-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of five years, effective September 4, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36378&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0710",
-  "htmlHash": "40b8e419377a3654d35d1a810fac18b8"
+  "htmlHash": "40b8e419377a3654d35d1a810fac18b8",
+  "attachments": [
+    "attachment.php?attach=36378&lang=en"
+  ]
 }

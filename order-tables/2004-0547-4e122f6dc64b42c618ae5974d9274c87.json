@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0547</td><td>2004-05-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. SIDNEY I. SCHWARTZ, a Judge of the Court of Queen's Bench of Manitoba, effective April 5, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6845&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0547",
-  "htmlHash": "4e122f6dc64b42c618ae5974d9274c87"
+  "htmlHash": "4e122f6dc64b42c618ae5974d9274c87",
+  "attachments": [
+    "attachment.php?attach=6845&lang=en"
+  ]
 }

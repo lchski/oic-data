@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1201</td><td>1993-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the NATIONAL HISTORIC PARKS ADMISSION FEES REGULATIONS, 1989\ndeleting from the short title the date \"1989\", clarifying the definition\nof \"sponsored group\", raising admission fees at Fort George, Battle of\nthe Restigouche and Fort Chambly National Historic Parks, bringing\nthem closer to the higher fees charged at similar attractions in the\nregion.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0291  <strong>Publication Date:</strong> 1993-06-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1201",
-  "htmlHash": "9d51d4f6e97ece36e9b5b946f2cbd70f"
+  "htmlHash": "9d51d4f6e97ece36e9b5b946f2cbd70f",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0168</td><td>2005-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BERND CHRISTMAS of Halifax, Nova Scotia, to be a director of the Board of Directors of the Canadian Broadcasting Corporation to hold office during good behaviour for a term of three years, in the place of Clarence LeBreton, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9495&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0168",
-  "htmlHash": "62ad760e3e213abd753ce4d1f0841a82"
+  "htmlHash": "62ad760e3e213abd753ce4d1f0841a82",
+  "attachments": [
+    "attachment.php?attach=9495&lang=en"
+  ]
 }

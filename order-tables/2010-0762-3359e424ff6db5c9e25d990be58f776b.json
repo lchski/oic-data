@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0762</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Health of Animals Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Health of Animals Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HEALTH OF ANIMALS REGULATIONS in order to clarify the regulatory framework for de-listing a previously-approved bar-coded dangle identification tag.  This will help to ensure that valuable traceability information is not lost.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0137  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22737&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0762",
-  "htmlHash": "3359e424ff6db5c9e25d990be58f776b"
+  "htmlHash": "3359e424ff6db5c9e25d990be58f776b",
+  "attachments": [
+    "attachment.php?attach=22737&lang=en"
+  ]
 }

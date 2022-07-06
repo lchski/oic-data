@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0207</td><td>2011-02-10</td><td></td><td></td><td>EC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding Toxic Substances to Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order ADDING TOXIC SUBSTANCES TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 - which adds Sulfuric acid (diethyl sulfate), Sulfuric acid (dimethyl sulfate); and Benzenamine (BNST) to the List of Toxic Substances in Schedule 1 of the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0034  <strong>Publication Date:</strong> 2011-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23860&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0207",
-  "htmlHash": "f0eb820e9bf4421b796d2da4e6aa4aed"
+  "htmlHash": "f0eb820e9bf4421b796d2da4e6aa4aed",
+  "attachments": [
+    "attachment.php?attach=23860&lang=en"
+  ]
 }

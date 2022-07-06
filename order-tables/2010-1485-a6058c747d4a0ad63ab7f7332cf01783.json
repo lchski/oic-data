@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1485</td><td>2010-11-25</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Coordination of Icebreaking Activities - Canada and U.S.A. Exchange of Notes \nAdditional 5-year period beginning December 5, 2010</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign the EXCHANGE OF NOTES between the Government of Canada and the Government of the United States of America constituting an agreement extending the AGREEMENT between the Government of Canada and the Government of the United States of America PROVIDING for COORDINATION of the ICEBREAKING ACTIVITIES of Canada and the United States on the GREAT LAKES, done at Ottawa on December 5, 1980.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23430&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1485",
-  "htmlHash": "a6058c747d4a0ad63ab7f7332cf01783"
+  "htmlHash": "a6058c747d4a0ad63ab7f7332cf01783",
+  "attachments": [
+    "attachment.php?attach=23430&lang=en"
+  ]
 }

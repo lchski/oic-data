@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0935</td><td>1994-06-02</td><td>0</td><td></td><td>FIN,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXPORT DEVELOPMENT CORPORATION EXERCISE OF CERTAIN POWERS REGULATIONS\ngoverning the disposal by lease of certain property, the entering into\nof certain arrangements and the acquisition of certain interests by the\nExport Development Corporation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0410  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0935",
-  "htmlHash": "a9622449382220733bb71400dc54d2ca"
+  "htmlHash": "a9622449382220733bb71400dc54d2ca",
+  "attachments": []
 }

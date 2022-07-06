@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0827</td><td>2001-05-10</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PLACE OF SUPPLY (GST/HST) REGULATIONS which establish rules for determining\nin which province a transaction is considered to have been undertaken for\nthe purposes of applying the appropriate tax rate under the Harmonized\nSales Tax.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0170  <strong>Publication Date:</strong> 2001-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0827",
-  "htmlHash": "f180b58f7dd97de79b7e58acb1c5a29a"
+  "htmlHash": "f180b58f7dd97de79b7e58acb1c5a29a",
+  "attachments": []
 }

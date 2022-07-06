@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1135</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing the PRESIDENT of the CANADIAN NUCLEAR SAFETY\nCOMMISSION to exercise and perform the powers and functions of the Treasury\nBoard in the field of PERSONNEL MANAGEMENT with respect to employees of the\nCommission, and (b) repealing Order in Council P.C. 1968-26/230 of\nFebruary 8, 1968.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1135",
-  "htmlHash": "3722730d69ee0d5483052f80c1267506"
+  "htmlHash": "3722730d69ee0d5483052f80c1267506",
+  "attachments": []
 }

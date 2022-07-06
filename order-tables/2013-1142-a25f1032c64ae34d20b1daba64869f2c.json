@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1142</td><td>2013-10-25</td><td>31</td><td>2012</td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs and Growth Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing October 30, 2013 as the Day on which Division 11 of Part 4 of the Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing October 30, 2013, as the day on which Division 11 of Part 4 of the JOBS AND GROWTH ACT, 2012, chapter 31 of the Statutes of Canada, 2012, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0117  <strong>Publication Date:</strong> 2013-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28376&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1142",
-  "htmlHash": "a25f1032c64ae34d20b1daba64869f2c"
+  "htmlHash": "a25f1032c64ae34d20b1daba64869f2c",
+  "attachments": [
+    "attachment.php?attach=28376&lang=en"
+  ]
 }

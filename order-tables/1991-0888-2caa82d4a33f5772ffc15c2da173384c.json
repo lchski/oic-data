@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0888</td><td>1991-05-16</td><td>0</td><td></td><td>,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of ALBERTA of the administration and control of\na parcel of vacant land (1.086 hec) situate near FORT VERMILION, Alberta,\nfor road widening purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0888",
-  "htmlHash": "2caa82d4a33f5772ffc15c2da173384c"
+  "htmlHash": "2caa82d4a33f5772ffc15c2da173384c",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0910</td><td>2019-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ESDC,&nbsp; TC,&nbsp; LAB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under Part II of the Canada Labour Code (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending CERTAIN REGULATIONS MADE UNDER PART II OF THE CANADA LABOUR CODE (MISCELLANEOUS PROGRAM) in order to (1) correct references to section numbering, typographical or grammatical errors; (2) correct discrepancies between the English and the French versions; (3) add clarity or ensure enforceability of regulatory provisions; (4) improve consistency or harmonize terms with other provisions within or among the regulations; and (5) repeal obsolete or unnecessary regulatory provisions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0246  <strong>Publication Date:</strong> 2019-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38235&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0910",
-  "htmlHash": "37398033d44651d1e764faed979cc17f"
+  "htmlHash": "37398033d44651d1e764faed979cc17f",
+  "attachments": [
+    "attachment.php?attach=38235&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1546</td><td>2017-12-11</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILTON LITTLECHILD, C.M., Q.C., of Maskwacis, Alberta as a special adviser to the Minister of Indian Affairs and Northern Development, to serve as Chairperson of the Interim Board for the establishment of the National Council for Reconciliation, to hold office during pleasure, on a part-time basis, for a term of six months, effective December 11, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35457&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1546",
-  "htmlHash": "ac71a1200790282ed3e74022deb0d973"
+  "htmlHash": "ac71a1200790282ed3e74022deb0d973",
+  "attachments": [
+    "attachment.php?attach=35457&lang=en"
+  ]
 }

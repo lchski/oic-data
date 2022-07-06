@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1115</td><td>2011-09-29</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Transportation of Dangerous Goods Regulations (Amendment 10) </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS (Amendment 10), in order to update Part 7, Emergency Response Assistance Plan, of the Transportation of Dangerous Goods Regulations by adding four new sections (7.10, 7.11, 7.12 and 7.13).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0210  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24791&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1115",
-  "htmlHash": "294cc602c16057868467d609a9661891"
+  "htmlHash": "294cc602c16057868467d609a9661891",
+  "attachments": [
+    "attachment.php?attach=24791&lang=en"
+  ]
 }

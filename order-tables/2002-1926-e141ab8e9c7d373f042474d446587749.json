@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1926</td><td>2002-11-19</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of DONALD R. SOBEY of Trenton, Nova Scotia, as a trustee of the Board of Trustees of the National Gallery of Canada to hold office during pleasure for a term of three years. \n</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=151&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1926",
-  "htmlHash": "e141ab8e9c7d373f042474d446587749"
+  "htmlHash": "e141ab8e9c7d373f042474d446587749",
+  "attachments": [
+    "attachment.php?attach=151&lang=en"
+  ]
 }

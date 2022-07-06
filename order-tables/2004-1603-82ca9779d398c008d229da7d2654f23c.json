@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1603</td><td>2004-12-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCRA</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Customs and Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment of LINDA YVONNE IVANY of Fall River, Nova Scotia, a director of the Board of Management of the Canada Customs and Revenue Agency, to exercise the powers and perform the duties and functions of the Chair of the Board of Management of the Canada Customs and Revenue Agency, until such time as a new Chair is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1603",
-  "htmlHash": "82ca9779d398c008d229da7d2654f23c"
+  "htmlHash": "82ca9779d398c008d229da7d2654f23c",
+  "attachments": [
+    "attachment.php?attach=9114&lang=en"
+  ]
 }

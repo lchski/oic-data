@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1029</td><td>2014-10-09</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">The Brantford Regional Chamber of Commerce (Ontario) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by THE BRANTFORD REGIONAL CHAMBER OF COMMERCE, in Ontario, TO CHANGE THE BOUNDARIES OF ITS DISTRICT from the City of Brantford, in the County of Brant to the limits of the City of Brantford, and the municipality of the County of Brant except the geographic Town of Paris.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29846&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1029",
-  "htmlHash": "acf0093599d7e558fb93af9a872231f9"
+  "htmlHash": "acf0093599d7e558fb93af9a872231f9",
+  "attachments": [
+    "attachment.php?attach=29846&lang=en"
+  ]
 }

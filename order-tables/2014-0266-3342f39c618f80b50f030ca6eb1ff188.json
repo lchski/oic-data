@@ -1,5 +1,10 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0266</td><td>2014-03-06</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority<br>Other Than Statutory Authority<br>Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Salary Order (Crown Corporations).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29273&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=29274&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=29275&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0266",
-  "htmlHash": "3342f39c618f80b50f030ca6eb1ff188"
+  "htmlHash": "3342f39c618f80b50f030ca6eb1ff188",
+  "attachments": [
+    "attachment.php?attach=29273&lang=en",
+    "attachment.php?attach=29274&lang=en",
+    "attachment.php?attach=29275&lang=en"
+  ]
 }

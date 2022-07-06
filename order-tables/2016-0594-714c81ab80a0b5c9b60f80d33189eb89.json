@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0594</td><td>2016-06-21</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Carriages and Strollers Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CARRIAGES AND STROLLERS REGULATIONS in order to build on the 2011 regulatory revisions and make non-substantive administrative changes to the Carriages and Strollers Regulations under the CANADA CONSUMER PRODUCT SAFETY ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0167  <strong>Publication Date:</strong> 2016-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32278&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0594",
-  "htmlHash": "714c81ab80a0b5c9b60f80d33189eb89"
+  "htmlHash": "714c81ab80a0b5c9b60f80d33189eb89",
+  "attachments": [
+    "attachment.php?attach=32278&lang=en"
+  ]
 }

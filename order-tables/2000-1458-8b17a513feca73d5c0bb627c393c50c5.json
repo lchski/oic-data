@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1458</td><td>2000-09-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following OFFICERS of the Royal Canadian Mounted Police:\n.\n    OFFICER                                         NEW RANK\n    -------------------------------------------     ----------------------\n.\n 1. Inspector Joseph Denis André CONSTANT           Superintendent\n 2. Superintendent Randy Starrett ROBAR             Chief Superintendent\n 3. Chief Superintendent\n         Robert Bruce Patrick ROGERSON              Assistant Commissioner\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1458",
-  "htmlHash": "8b17a513feca73d5c0bb627c393c50c5"
+  "htmlHash": "8b17a513feca73d5c0bb627c393c50c5",
+  "attachments": []
 }

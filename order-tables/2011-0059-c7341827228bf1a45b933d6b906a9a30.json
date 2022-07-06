@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0059</td><td>2011-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Asbestos Products Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ASBESTOS PRODUCTS REGULATIONS, in order to make them consistent with the new Canada Consumer Product Safety Act, which comes into force on June 20, 2011.  Section 2 will be replaced and sections 3 and 4 amended.  Other amendments are included as requested by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0023  <strong>Publication Date:</strong> 2011-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23709&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0059",
-  "htmlHash": "c7341827228bf1a45b933d6b906a9a30"
+  "htmlHash": "c7341827228bf1a45b933d6b906a9a30",
+  "attachments": [
+    "attachment.php?attach=23709&lang=en"
+  ]
 }

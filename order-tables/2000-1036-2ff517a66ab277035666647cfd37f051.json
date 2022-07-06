@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1036</td><td>2000-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; HRDC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by modifying\nregional boundaries, where necessary, in response to changes in labour\nmarket conditions, effective July 9, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0268  <strong>Publication Date:</strong> 2000-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1036",
-  "htmlHash": "2ff517a66ab277035666647cfd37f051"
+  "htmlHash": "2ff517a66ab277035666647cfd37f051",
+  "attachments": []
 }

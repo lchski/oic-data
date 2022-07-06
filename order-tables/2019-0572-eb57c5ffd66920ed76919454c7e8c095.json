@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0572</td><td>2019-05-21</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Currency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Calling in Certain Notes</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Calling in CERTAIN NOTES in order to (1) contribute to the reduction of illicit transactions using Canadian bank notes; (2) reduce counterfeiting of Canadian bank notes; and (3) increase confidence in the integrity and security of Canadian bank notes in circulation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0146  <strong>Publication Date:</strong> 2019-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37912&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0572",
-  "htmlHash": "eb57c5ffd66920ed76919454c7e8c095"
+  "htmlHash": "eb57c5ffd66920ed76919454c7e8c095",
+  "attachments": [
+    "attachment.php?attach=37912&lang=en"
+  ]
 }

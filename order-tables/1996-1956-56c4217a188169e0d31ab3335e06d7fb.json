@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1956</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the LISTUGUJ MI'GMAQ FIRST NATION\nBAND, of some 3,131 square metres of land situated in Mann Township, in the\nProvince of Quebec, as an addition to Listuguj Indian Reserve No. 1.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1956",
-  "htmlHash": "56c4217a188169e0d31ab3335e06d7fb"
+  "htmlHash": "56c4217a188169e0d31ab3335e06d7fb",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0613</td><td>2022-06-02</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Explosives Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Explosives Regulations, 2013 (Restricted Components)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EXPLOSIVES REGULATIONS, 2013 (RESTRICTED COMPONENTS) in order to (1) change the structure of Part 20 of the regulation to create a three-tiered layout; (2) update the list of restricted components to include calcium ammonium nitrate (CAN), hexamine, aluminum powder and acetone; (3) add ammonium nitrate and calcium ammonium nitrate contained in cold packs as Tier 3 restricted components; (4) use Chemical Abstracts Service Registry Numbers and concentration limits to define restricted components; and (5) make administrative changes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0121  <strong>Publication Date:</strong> 2022-06-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42154&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0613",
-  "htmlHash": "4f2a3577fd9dc445d5ff618250f3d979"
+  "htmlHash": "4f2a3577fd9dc445d5ff618250f3d979",
+  "attachments": [
+    "attachment.php?attach=42154&lang=en"
+  ]
 }

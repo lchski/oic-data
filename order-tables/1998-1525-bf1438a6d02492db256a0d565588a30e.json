@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1525</td><td>1998-08-26</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to that portion of\nLot 1047, Quad 96 E/07 in the Town of NORMAN WELLS, in the Northwest\nTerritories, lying within 30.48 metres (100 feet) of the Ordinary High\nWater Mark of SEEPAGE LAKE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0092  <strong>Publication Date:</strong> 1998-09-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1525",
-  "htmlHash": "bf1438a6d02492db256a0d565588a30e"
+  "htmlHash": "bf1438a6d02492db256a0d565588a30e",
+  "attachments": []
 }

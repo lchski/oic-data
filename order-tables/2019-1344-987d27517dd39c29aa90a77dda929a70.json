@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1344</td><td>2019-11-20</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Assigning the Honourable Bardish Chagger, Minister of State (Diversity and Inclusion and Youth), to assist the Minister of Canadian Heritage</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Honourable BARDISH CHAGGER, Minister of State (Diversity and Inclusion and Youth) to be styled Minister of Diversity and Inclusion and Youth, to assist the Minister of Canadian Heritage in the carrying out of that Minister's responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0106  <strong>Publication Date:</strong> 2019-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38679&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1344",
-  "htmlHash": "987d27517dd39c29aa90a77dda929a70"
+  "htmlHash": "987d27517dd39c29aa90a77dda929a70",
+  "attachments": [
+    "attachment.php?attach=38679&lang=en"
+  ]
 }

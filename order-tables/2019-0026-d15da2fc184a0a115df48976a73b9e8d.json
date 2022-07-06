@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0026</td><td>2019-01-22</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Finance of MONIQUE JÉRÔME-FORGET, C.M., O.Q., of Montréal, Quebec, as a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term commencing on March 1, 2019 and ending on February 28, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37343&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0026",
-  "htmlHash": "d15da2fc184a0a115df48976a73b9e8d"
+  "htmlHash": "d15da2fc184a0a115df48976a73b9e8d",
+  "attachments": [
+    "attachment.php?attach=37343&lang=en"
+  ]
 }

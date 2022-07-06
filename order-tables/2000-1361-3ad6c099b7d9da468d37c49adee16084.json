@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1361</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to the COMMISSIONER of the YUKON TERRITORY, of the administration\nand control of the entire interest of the Crown in a total of some 408\nhectares of land situated in various locations throughout the Territory,\nfor agricultural purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1361",
-  "htmlHash": "3ad6c099b7d9da468d37c49adee16084"
+  "htmlHash": "3ad6c099b7d9da468d37c49adee16084",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1511</td><td>2011-12-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RICHARD THORPE of Penticton, British Columbia, selected from a list of nominees submitted by the Province of British Columbia, to be a director of the Board of Management of the Canada  Revenue Agency, to hold office during pleasure for a term of three years, in the place of James J. Hewitt.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25193&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1511",
-  "htmlHash": "5369608cc82a4b66c66cc71be5c0a3f3"
+  "htmlHash": "5369608cc82a4b66c66cc71be5c0a3f3",
+  "attachments": [
+    "attachment.php?attach=25193&lang=en"
+  ]
 }

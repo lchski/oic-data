@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0935</td><td>2019-06-24</td><td></td><td></td><td>,&nbsp; CIRNAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Pheasant Rump Nakota Indian Reserve No. 68, Saskatchewan ** Grant of Easement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the exercise by SASKATCHEWAN POWER CORPORATION of the power to take an interest in lands in an Indian reserve without the consent of the owner, and to authorize, in lieu of such taking, the grant of the required easement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38260&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0935",
-  "htmlHash": "5897e0da90b75b0515bb0c1962a1983f"
+  "htmlHash": "5897e0da90b75b0515bb0c1962a1983f",
+  "attachments": [
+    "attachment.php?attach=38260&lang=en"
+  ]
 }

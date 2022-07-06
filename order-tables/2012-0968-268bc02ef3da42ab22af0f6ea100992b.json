@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0968</td><td>2012-07-05</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Syria) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (SYRIA) REGULATIONS in order to (1) prohibit the export, sale, supply or shipment to Syria of any goods that can be used in the manufacture and maintenance of items that may be used for internal repression, as well as goods that can be used in the production of chemical and biological weapons in addition to the transfer, provision or communication of technical data related to any of those goods; and (2) add two entities to the list of designated persons subject to an assets freeze and a prohibition on dealings.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0145  <strong>Publication Date:</strong> 2012-07-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26393&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0968",
-  "htmlHash": "268bc02ef3da42ab22af0f6ea100992b"
+  "htmlHash": "268bc02ef3da42ab22af0f6ea100992b",
+  "attachments": [
+    "attachment.php?attach=26393&lang=en"
+  ]
 }

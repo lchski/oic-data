@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1775</td><td>2007-11-22</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE RESTRAINT SYSTEMS AND BOOSTER CUSHIONS SAFETY REGULATIONS by modifying the width standard for seat belt webbing used in systems designed for disabled persons so that it is the same and the U.S. standard.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0268  <strong>Publication Date:</strong> 2007-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17542&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1775",
-  "htmlHash": "4ab72f7b7e9edaeb8e34c61f11095142"
+  "htmlHash": "4ab72f7b7e9edaeb8e34c61f11095142",
+  "attachments": [
+    "attachment.php?attach=17542&lang=en"
+  ]
 }

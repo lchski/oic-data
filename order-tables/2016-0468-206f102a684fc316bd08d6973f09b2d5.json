@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0468</td><td>2016-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Mackenzie Valley Resource Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Mackenzie Valley Land Use Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MACKENZIE VALLEY LAND USE REGULATIONS in order to (1) Provide consistency with the provisions of the Act; (2) address discrepancies between the French and English versions of the Regulations, clarify imprecisions and ambiguities and address inconsistencies with the Act; (3) reflect current departmental policies on fees and security which were identified through an internal review of the Regulations; (4) reflect provisions of the Déline Final Self-Government Agreement Act; and (5) update the “Information in Support of an Application for a Land-Use Permit” Form.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0128  <strong>Publication Date:</strong> 2016-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32148&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0468",
-  "htmlHash": "206f102a684fc316bd08d6973f09b2d5"
+  "htmlHash": "206f102a684fc316bd08d6973f09b2d5",
+  "attachments": [
+    "attachment.php?attach=32148&lang=en"
+  ]
 }

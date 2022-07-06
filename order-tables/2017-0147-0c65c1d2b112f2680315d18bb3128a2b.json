@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0147</td><td>2017-02-17</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of COMMANDER SANDRA SUKSTORF of Vancouver, British Columbia, to be a military judge, to hold office during good behaviour.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33059&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0147",
-  "htmlHash": "0c65c1d2b112f2680315d18bb3128a2b"
+  "htmlHash": "0c65c1d2b112f2680315d18bb3128a2b",
+  "attachments": [
+    "attachment.php?attach=33059&lang=en"
+  ]
 }

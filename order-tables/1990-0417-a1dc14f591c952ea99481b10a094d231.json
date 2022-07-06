@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0417</td><td>1990-03-02</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mararida Almeida, of Mississauga, Ontario, as a full-time\ntemporary member of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Toronto Regional Office) to hold office\nduring good behaviour for a term of two years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0417",
-  "htmlHash": "a1dc14f591c952ea99481b10a094d231"
+  "htmlHash": "a1dc14f591c952ea99481b10a094d231",
+  "attachments": []
 }

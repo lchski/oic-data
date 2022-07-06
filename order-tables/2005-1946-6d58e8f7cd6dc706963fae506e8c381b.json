@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1946</td><td>2005-11-15</td><td></td><td></td><td>ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN FORCES OVERSEAS SCHOOLS REGULATIONS by extending the benefits of the Foreign Service Allowance to Canadian teachers.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1946",
-  "htmlHash": "6d58e8f7cd6dc706963fae506e8c381b"
+  "htmlHash": "6d58e8f7cd6dc706963fae506e8c381b",
+  "attachments": [
+    "attachment.php?attach=13359&lang=en"
+  ]
 }

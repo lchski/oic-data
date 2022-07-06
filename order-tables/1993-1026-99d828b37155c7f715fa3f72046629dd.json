@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1026</td><td>1993-05-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of certain persons as members of the National Advisory\nPanel on Advanced Industrial Materials to hold office during pleasure for\na term ending Deember 31, 1993, effective June 7, 1993.\n(Gerald Benjamin Dyer, Kingston, Ontario; Mary Macdonald, Toronto,\nOntario; Stuart C. McCormack, Ottawa, Ontario; Leslie Clayton Mclean,\nBurlington, Ontario; Martha Salcudean, Vancouver, British Columbia;\nJ. Laurent Thibault, Georgetown, Ontario; D.R. (Robert) Weir, Edmonton,\nAlberta; Derek W. Jones, Halifax, Nova Scotia; Raymond Roberge,\nBoucherville, Quebec; Colin Cooper, St-Mathias, Quebec; Robert H.\nMarchessault, Montreal, Quebec; and Angus A. Bruneau, St. John's,\nNewfoundland)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1026",
-  "htmlHash": "99d828b37155c7f715fa3f72046629dd"
+  "htmlHash": "99d828b37155c7f715fa3f72046629dd",
+  "attachments": []
 }

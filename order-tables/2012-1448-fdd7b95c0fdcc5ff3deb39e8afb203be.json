@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1448</td><td>2012-11-01</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Subject</td><td colspan=\"5\">New Classes of Practitioners Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NEW CLASSES OF PRACTITIONERS REGULATIONS to designate midwives, nurse practitioners and podiatrists as practitioners under the Controlled Drugs and Substances Act in order to authorize them to conduct activities with controlled substances provided they are already authorized to do so within their scope of practice as set out in the provincial or territorial legislation or regulation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0230  <strong>Publication Date:</strong> 2012-11-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26852&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1448",
-  "htmlHash": "fdd7b95c0fdcc5ff3deb39e8afb203be"
+  "htmlHash": "fdd7b95c0fdcc5ff3deb39e8afb203be",
+  "attachments": [
+    "attachment.php?attach=26852&lang=en"
+  ]
 }

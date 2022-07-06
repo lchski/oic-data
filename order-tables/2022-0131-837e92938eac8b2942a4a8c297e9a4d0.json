@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0131</td><td>2022-02-18</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Vessel Operation Restriction Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the VESSEL OPERATION RESTRICTION REGULATIONS in order to (1) expand the scope of activities for which permits may be granted, provide for ministerial discretion, and specify factors that must be considered before issuing permits; (2) apply a Schedule 2 restriction of motorized vessels for a new portion of the Don River, Toronto; (3) apply a Schedule 6 speed restriction of 10 km/h within 100 metres of the shore of Portage Lake, Quebec; (4) authorize local enforcement personnel (peace officers) in Edmonton to enforce the Regulations in the City of Edmonton; and (5) make minor administrative corrections in the Regulatory text.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0024  <strong>Publication Date:</strong> 2022-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41592&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0131",
-  "htmlHash": "837e92938eac8b2942a4a8c297e9a4d0"
+  "htmlHash": "837e92938eac8b2942a4a8c297e9a4d0",
+  "attachments": [
+    "attachment.php?attach=41592&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0629</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Income Tax Regulations (Accelerated Capital Cost Allowance for Facilities Used to Liquefy Natural Gas)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending THE INCOME TAX REGULATIONS (ACCELERATED CAPITAL COST ALLOWANCE FOR FACILITIES USED TO LIQUEFY NATURAL GAS) in order to build on existing advantages and make it more attractive to build facilities that liquefy natural gas in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0117  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30951&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0629",
-  "htmlHash": "a1359199e90acdf997353fcf4e334736"
+  "htmlHash": "a1359199e90acdf997353fcf4e334736",
+  "attachments": [
+    "attachment.php?attach=30951&lang=en"
+  ]
 }

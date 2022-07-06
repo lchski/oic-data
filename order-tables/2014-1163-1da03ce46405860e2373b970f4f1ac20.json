@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1163</td><td>2014-10-30</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Richard Mongeau ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. RICHARD MONGEAU, a Judge of the Superior Court of Quebec, effective January 13, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29980&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1163",
-  "htmlHash": "1da03ce46405860e2373b970f4f1ac20"
+  "htmlHash": "1da03ce46405860e2373b970f4f1ac20",
+  "attachments": [
+    "attachment.php?attach=29980&lang=en"
+  ]
 }

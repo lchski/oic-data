@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0363</td><td>2011-03-03</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BRENT W. MONTGOMERY of Valcartier, Quebec, as a member of the National Farm Products Council to hold office during pleasure for a term of four years, effective April 30, 2011 and designation of BRENT W. MONTGOMERY as Vice-Chairman of the National Farm Products Council.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23949&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0363",
-  "htmlHash": "a3fa869224e5fb0714953c92cbc11dd7"
+  "htmlHash": "a3fa869224e5fb0714953c92cbc11dd7",
+  "attachments": [
+    "attachment.php?attach=23949&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0724</td><td>1997-05-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the dates on which certain sections of this Act (S.C. 1997,\nc. 18) shall COME INTO FORCE (Bill C-17).\n.\nWEDNESDAY, MAY 14, 1997 -\nsections 1, 23, 27 to 39, 99, 100, 109, 119 to 122 and 135 to 140.\n.\nMONDAY, JUNE 16, 1997\nsections 2 to 22, 24 to 26, 40 to 98, 101 to 108, 110 to 118, 123 to 134\nand 141.\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0062  <strong>Publication Date:</strong> 1997-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0724",
-  "htmlHash": "e5416e27a5fb72c48ec4d5ca59ed07c8"
+  "htmlHash": "e5416e27a5fb72c48ec4d5ca59ed07c8",
+  "attachments": []
 }

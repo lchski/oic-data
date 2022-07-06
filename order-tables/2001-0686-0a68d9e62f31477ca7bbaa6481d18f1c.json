@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0686</td><td>2001-04-26</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING THE REMISSION OF A PORTION OF THE TAX PAID\nBY PATRICIA MERKEL UNDER PART IX OF THE EXCISE TAX ACT IN RESPECT OF HER\nPURCHASE OF A BARE LAND UNIT.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0056  <strong>Publication Date:</strong> 2001-05-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0686",
-  "htmlHash": "0a68d9e62f31477ca7bbaa6481d18f1c"
+  "htmlHash": "0a68d9e62f31477ca7bbaa6481d18f1c",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1666</td><td>2011-12-15</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Freezing Assets of Corrupt Foreign Officials Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Freezing Assets of Corrupt Foreign Officials (Tunisia and Egypt) Regulations\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FREEZING ASSETS OF CORRUPT FOREIGN OFFICIALS (Tunisia and Egypt) REGULATIONS in order to add new names to the list of designated persons subject to sanctions under those Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0316  <strong>Publication Date:</strong> 2012-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25348&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1666",
-  "htmlHash": "0457d589b18906fc55e01e09643aadc2"
+  "htmlHash": "0457d589b18906fc55e01e09643aadc2",
+  "attachments": [
+    "attachment.php?attach=25348&lang=en"
+  ]
 }

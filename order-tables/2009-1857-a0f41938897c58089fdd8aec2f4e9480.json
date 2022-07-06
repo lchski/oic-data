@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1857</td><td>2009-11-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Respecting the Immediate Distribution of the Vaccine for the Novel Influenza A H1N1 Virus\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Interim Order Respecting the Immediate Distribution of the Vaccine for the Novel Influenza A H1N1 Virus, made by the Minister of Health on October 23, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21747&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1857",
-  "htmlHash": "a0f41938897c58089fdd8aec2f4e9480"
+  "htmlHash": "a0f41938897c58089fdd8aec2f4e9480",
+  "attachments": [
+    "attachment.php?attach=21747&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1266</td><td>2010-10-21</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Parts I and VI - Airspeed Limitations on Take-off)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I AND VI - AIRSPEED LIMITATIONS ON TAKE-OFF) in order to remove the possibility to operate an aircraft on departure at an indicated airspeed greater than 250 knots below 10,000 feet above sea level, and, unless authorized to do so by an air traffic control clearance, at indicated airspeeds greater than 200 knots, below 3,000 feet above ground level within 10 nautical miles of a controlled aerodrome.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0219  <strong>Publication Date:</strong> 2010-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23252&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1266",
-  "htmlHash": "9fb331cc73ef682475b1aa1e951a4a85"
+  "htmlHash": "9fb331cc73ef682475b1aa1e951a4a85",
+  "attachments": [
+    "attachment.php?attach=23252&lang=en"
+  ]
 }

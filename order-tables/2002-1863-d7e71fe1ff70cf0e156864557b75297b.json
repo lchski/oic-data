@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1863</td><td>2002-10-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the IMPORTS OF CERTAIN TEXTILE AND APPAREL GOODS FROM COSTA RICA CUSTOMS DUTY REMISSION ORDER which sets out the maximum quantities of textile and apparel goods that may be eligible for the benefits of the Canada-Costa Rica Free Trade Agreement.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0399  <strong>Publication Date:</strong> 2002-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1863",
-  "htmlHash": "d7e71fe1ff70cf0e156864557b75297b"
+  "htmlHash": "d7e71fe1ff70cf0e156864557b75297b",
+  "attachments": []
 }

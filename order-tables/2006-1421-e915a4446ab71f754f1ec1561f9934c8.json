@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1421</td><td>2006-11-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Hon. PETER VAN LOAN, a Minister of State to be styled MINISTER FOR SPORT, to assist the Minister of Canadian Heritage in the carrying out of that Minister's responsibilities, effective November 27, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0139  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15422&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1421",
-  "htmlHash": "e915a4446ab71f754f1ec1561f9934c8"
+  "htmlHash": "e915a4446ab71f754f1ec1561f9934c8",
+  "attachments": [
+    "attachment.php?attach=15422&lang=en"
+  ]
 }

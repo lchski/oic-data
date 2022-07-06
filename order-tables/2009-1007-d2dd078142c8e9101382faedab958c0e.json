@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1007</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the amount determined and fixed by the Canadian Wheat Board for each tonne of each grade of barley to be distributed by the Canadian Wheat Board to producers for the pool period that began on August 1, 2008 and ended on January 31, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20879&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1007",
-  "htmlHash": "d2dd078142c8e9101382faedab958c0e"
+  "htmlHash": "d2dd078142c8e9101382faedab958c0e",
+  "attachments": [
+    "attachment.php?attach=20879&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0442</td><td>2010-03-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable ANDROMAHI KARAKATSANIS to be a Justice of Appeal of the Court of Appeal of Ontario, and a member ex officio of the Superior Court of Justice in and for the Province of Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22418&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0442",
-  "htmlHash": "f65f878a44f4bd3d8fd9183b96c393c6"
+  "htmlHash": "f65f878a44f4bd3d8fd9183b96c393c6",
+  "attachments": [
+    "attachment.php?attach=22418&lang=en"
+  ]
 }

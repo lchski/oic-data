@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1016</td><td>1992-05-13</td><td>0</td><td></td><td>,&nbsp; ISTC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Western Aboriginal\nEconomic Development Board for a term of three years.\n(Florence Gaucher, St. Albert, Alberta; Roy H. Louis, Hobbema, Alberta;\nand Winnifred Giesbrecht, Winnipeg, Manitoba)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1016",
-  "htmlHash": "da549a0aeeaf5cb0a0370fb14dfb3247"
+  "htmlHash": "da549a0aeeaf5cb0a0370fb14dfb3247",
+  "attachments": []
 }

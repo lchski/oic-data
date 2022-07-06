@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0823</td><td>2014-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGSC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Parc Downsview Park Inc.-Stanley Greene Neighbourhood ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing PARC DOWNSVIEW PARK INC. to dispose by way of transfer, at no cost, all property that it holds in the Stanley Greene neighbourhood, Downsview Park, in Toronto, Ontario, required for public purposes to the City of Toronto.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29513&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0823",
-  "htmlHash": "956e1c51b8ee7c8b6a33f0b2bcc940db"
+  "htmlHash": "956e1c51b8ee7c8b6a33f0b2bcc940db",
+  "attachments": [
+    "attachment.php?attach=29513&lang=en"
+  ]
 }

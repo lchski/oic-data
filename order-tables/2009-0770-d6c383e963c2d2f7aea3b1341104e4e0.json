@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0770</td><td>2009-05-20</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE J.D. BRUCE McDONALD to be a Justice of Appeal of the Court of Appeal of Alberta, and a member ex officio of the Court of Queen's Bench of Alberta; and a Judge of the Court of Appeal for the Northwest Territories and a Judge of the Court of Appeal of Nunavut during his tenure of office as a Justice of Appeal of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0770",
-  "htmlHash": "d6c383e963c2d2f7aea3b1341104e4e0"
+  "htmlHash": "d6c383e963c2d2f7aea3b1341104e4e0",
+  "attachments": [
+    "attachment.php?attach=20637&lang=en"
+  ]
 }

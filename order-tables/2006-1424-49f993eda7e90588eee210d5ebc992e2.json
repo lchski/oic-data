@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1424</td><td>2006-11-28</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CIVIL REMEDIES (BANKS AND BANK HOLDING COMPANIES) REGULATIONS which, inter alia, establish the definition of « take-over bid ».</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0299  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1424",
-  "htmlHash": "49f993eda7e90588eee210d5ebc992e2"
+  "htmlHash": "49f993eda7e90588eee210d5ebc992e2",
+  "attachments": [
+    "attachment.php?attach=15396&lang=en"
+  ]
 }

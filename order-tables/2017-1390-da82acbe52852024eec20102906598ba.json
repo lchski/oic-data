@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1390</td><td>2017-11-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Copyright Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of the HONOURABLE ROBERT A. BLAIR, Part-time Chairman of the Copyright Board, effective October 30, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35300&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1390",
-  "htmlHash": "da82acbe52852024eec20102906598ba"
+  "htmlHash": "da82acbe52852024eec20102906598ba",
+  "attachments": [
+    "attachment.php?attach=35300&lang=en"
+  ]
 }

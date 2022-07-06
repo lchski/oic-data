@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1610</td><td>2011-12-15</td><td></td><td></td><td>,&nbsp; HRSDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of LORRAINE PEARLE ROBINSON of Tyne Valley, Prince Edward Island, as a member of the Review Tribunal for the region of Charlottetown for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25291&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1610",
-  "htmlHash": "4e5d6d27b4437270f2837bd7b044119a"
+  "htmlHash": "4e5d6d27b4437270f2837bd7b044119a",
+  "attachments": [
+    "attachment.php?attach=25291&lang=en"
+  ]
 }

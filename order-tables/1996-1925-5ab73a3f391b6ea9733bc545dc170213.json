@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1925</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">TECHNICAL AMENDMENTS ORDER (CUSTOMS TARIFF), NO. 7 correcting minor\ntechnical errors (i.e. numerical, typographical, translation or\ntransposition errors), in the following regulations:\n.\n- Schedule I and II of the Customs Tariff\n- Customs Duties Reduction or Removal Order, 1988\n- Chemicals and Plastics Duties Reduction or Removal Order, 1988\n- Harmonized System Conversion Order, 1996\n- Canadian Retailers Duty Remission Order, 1993\n- Safeguard Surtax Regulations, 1995-1\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0026  <strong>Publication Date:</strong> 1997-01-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1925",
-  "htmlHash": "5ab73a3f391b6ea9733bc545dc170213"
+  "htmlHash": "5ab73a3f391b6ea9733bc545dc170213",
+  "attachments": []
 }

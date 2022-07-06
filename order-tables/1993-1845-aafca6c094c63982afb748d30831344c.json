@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1845</td><td>1993-09-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of taxes, other debts, interest or penalties payable by three\n(3) individuals (John P. Gorman, George Kachuk and Robert C. Pritchard), on\nthe basis of extreme hardship.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0193  <strong>Publication Date:</strong> 1993-10-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1845",
-  "htmlHash": "aafca6c094c63982afb748d30831344c"
+  "htmlHash": "aafca6c094c63982afb748d30831344c",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1646</td><td>2008-09-05</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n  1. Staf Sergeant JOSEPH RÉMY ALAIN BOUCHARD\n  2. Staf Sergeant JOSEPH GÉRARD ANDRÉ DROUIN\n  3. Staf Sergeant JOSEPH ACHILLE RAYMOND DUQUETTE\n  4. Staf Sergeant RICHARD EMERY\n  5. Staf Sergeant JOHN FITZGERALD KEUPER\n  6. Staf Sergeant JOSEPH EUTIME KIMPAN\n  7. Staf Sergeant MERLIN ST. CLAIR MCCARTHY\n  8. Staff Sergeant TRENT CLAIR ROLFE\n  9. Staf Sergeant STEVEN ANDREW WADE\n  10. Sergeant DAVID BENTON ATTFIELD\n  11. Sergeant LARRY RALPH BROOKSON\n  12. Sergeant BIAGIO CARRESE\n  13. Sergeant CONSTANTINE DIMOPOULOS\n  14. Sergeant JOHN GIBSON GLAVIN\n  15. Sergeant PHILIP ALLAN LUCIER\n  16. Sergeant KERRY FRANCIS PETRYSHYN</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1646",
-  "htmlHash": "376e9187bd36695c4a1ce722ace3b17f"
+  "htmlHash": "376e9187bd36695c4a1ce722ace3b17f",
+  "attachments": [
+    "attachment.php?attach=19447&lang=en"
+  ]
 }

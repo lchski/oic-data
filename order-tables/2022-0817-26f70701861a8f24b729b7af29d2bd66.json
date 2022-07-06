@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0817</td><td>2022-06-24</td><td></td><td></td><td>ISI,&nbsp; IT, EP, SB &amp; ED,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Small Business Financing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Small Business Financing Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA SMALL BUSINESS FINANCING REGULATIONS in order to (1) establish parameters for a new line of credit financing product; (2) expand the loan classes; (3) increase the maximum loan amount and coverage period for equipment and leasehold improvements; (4) establish maximum amounts for loan products and loan classes; and (5) make other minor technical, consequential and administrative changes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0157  <strong>Publication Date:</strong> 2022-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42371&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0817",
-  "htmlHash": "26f70701861a8f24b729b7af29d2bd66"
+  "htmlHash": "26f70701861a8f24b729b7af29d2bd66",
+  "attachments": [
+    "attachment.php?attach=42371&lang=en"
+  ]
 }

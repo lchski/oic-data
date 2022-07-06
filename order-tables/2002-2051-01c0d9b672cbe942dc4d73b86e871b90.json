@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2051</td><td>2002-12-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of GERARD J. FITZPATRICK of York, Prince Edward Island, as a member of the Atlantic Pilotage Authority, to hold office during pleasure for a term of two years, in the place of Blanche M. Keats, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=534&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2051",
-  "htmlHash": "01c0d9b672cbe942dc4d73b86e871b90"
+  "htmlHash": "01c0d9b672cbe942dc4d73b86e871b90",
+  "attachments": [
+    "attachment.php?attach=534&lang=en"
+  ]
 }

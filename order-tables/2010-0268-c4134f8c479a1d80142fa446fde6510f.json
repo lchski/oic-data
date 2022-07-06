@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0268</td><td>2010-03-11</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">G20 Summit Privileges and Immunities Order, 2010\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">G20 SUMMIT PRIVILEGES AND IMMUNITIES ORDER, 2010, in order to grant privileges and immunities to the Organization, to the representatives of the member states that make up the G20, to the representatives of other countries invited to participate in the G20 and to the experts performing missions during the G20 Summit 2010 and its preparatory meetings.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0062  <strong>Publication Date:</strong> 2010-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22246&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0268",
-  "htmlHash": "c4134f8c479a1d80142fa446fde6510f"
+  "htmlHash": "c4134f8c479a1d80142fa446fde6510f",
+  "attachments": [
+    "attachment.php?attach=22246&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1218</td><td>2005-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating June 23 of each year as NATIONAL DAY OF REMEMBRANCE FOR VICTIMS OF TERRORISM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11797&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1218",
-  "htmlHash": "ff9fc7632a5606313356f93be9917ac0"
+  "htmlHash": "ff9fc7632a5606313356f93be9917ac0",
+  "attachments": [
+    "attachment.php?attach=11797&lang=en"
+  ]
 }

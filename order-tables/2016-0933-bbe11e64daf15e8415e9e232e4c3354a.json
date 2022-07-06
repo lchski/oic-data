@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0933</td><td>2016-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Income Tax Regulations\n(Canadian Oil and Gas Exploration Expense)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (CANADIAN OIL AND GAS EXPLORATION EXPENSE) in order to (1) address the Standing Joint Committee for the Scrutiny of Regulations recommendation; and (2) ensure consistency in the wording of the definition of “Canadian oil and gas exploration expense” in both the English and the French versions of the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0276  <strong>Publication Date:</strong> 2016-11-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32629&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0933",
-  "htmlHash": "bbe11e64daf15e8415e9e232e4c3354a"
+  "htmlHash": "bbe11e64daf15e8415e9e232e4c3354a",
+  "attachments": [
+    "attachment.php?attach=32629&lang=en"
+  ]
 }

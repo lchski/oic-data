@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0421</td><td>2019-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedules I and VI to the Controlled Drugs and Substances Act (Fentanyls and Amphetamines)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Schedules I and VI to the CONTROLLED DRUGS AND SUBSTANCES ACT (FENTANYLS AND AMPHETAMINES) to include certain chemicals used in the illegal production of fentanyls and amphetamines.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0121  <strong>Publication Date:</strong> 2019-05-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37738&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0421",
-  "htmlHash": "59d7d210f597ac782fae5c5e14bea48d"
+  "htmlHash": "59d7d210f597ac782fae5c5e14bea48d",
+  "attachments": [
+    "attachment.php?attach=37738&lang=en"
+  ]
 }

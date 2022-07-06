@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0275</td><td>1990-02-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">BER-VAC INCORPORATED REMISSION ORDER - which provides for the remission\nof customs duties and sales and excise taxes payable on tractors which are\ntemporarily imported by BER-VAC Incorporated, of Thetford Mines, Quebec,\nfor use in the design, development and production of tractor accessories.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0017  <strong>Publication Date:</strong> 1990-02-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0275",
-  "htmlHash": "06bcd88fdf79c210d3bf30c1c05c4fa6"
+  "htmlHash": "06bcd88fdf79c210d3bf30c1c05c4fa6",
+  "attachments": []
 }

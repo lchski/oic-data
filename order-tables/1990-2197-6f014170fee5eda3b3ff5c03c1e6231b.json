@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2197</td><td>1990-10-05</td><td>0</td><td></td><td>AGR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of Deloitte &amp; Touche, of Ottawa, Ontario, as the\nauditors for the Canadian Chicken Marketing Agency, to audit its accounts\nand financial transactions for the fiscal period ending December 31,\n1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2197",
-  "htmlHash": "6f014170fee5eda3b3ff5c03c1e6231b"
+  "htmlHash": "6f014170fee5eda3b3ff5c03c1e6231b",
+  "attachments": []
 }

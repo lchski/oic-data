@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1127</td><td>2017-08-31</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Defining \"EU country or other CETA beneficiary\"</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Defining \"EU COUNTRY OR OTHER CETA BENEFICIARY\" in order to fully implement Canada's tariff commitments under the CANADA-EUROPEAN UNION (EU) COMPREHENSIVE ECONOMIC AND TRADE AGREEMENT so that Canada and EU can proceed with implementation of the AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0178  <strong>Publication Date:</strong> 2017-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35034&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1127",
-  "htmlHash": "3599b0244aaa62dd9f68c435da4ca3b4"
+  "htmlHash": "3599b0244aaa62dd9f68c435da4ca3b4",
+  "attachments": [
+    "attachment.php?attach=35034&lang=en"
+  ]
 }

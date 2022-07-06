@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0573</td><td>2010-05-13</td><td></td><td></td><td>NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Safety and Control Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Class II Nuclear Facilities and Prescribed Equipment Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CLASS II NUCLEAR FACILITIES AND PRESCRIBED EQUIPMENT REGULATIONS, in order to formalize the current regulatory practice of an approval process for prospective Radiation Safety Officers (RSOs) of service providers of Class II prescribed equipment and of Class II nuclear facilities, to ensure that RSOs are adequately qualified and trained to perform their duties.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0107  <strong>Publication Date:</strong> 2010-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22548&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0573",
-  "htmlHash": "5ff4362378ed6520874724bb4e013ad7"
+  "htmlHash": "5ff4362378ed6520874724bb4e013ad7",
+  "attachments": [
+    "attachment.php?attach=22548&lang=en"
+  ]
 }

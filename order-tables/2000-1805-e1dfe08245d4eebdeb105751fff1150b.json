@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1805</td><td>2000-12-18</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing TUESDAY, JANUARY 2, 2001, as the day upon which the Canadian\nTourism Commission Act [BILL C-5], being chapter 28 of the Statutes of\nCanada, 2000, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0005  <strong>Publication Date:</strong> 2001-01-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1805",
-  "htmlHash": "e1dfe08245d4eebdeb105751fff1150b"
+  "htmlHash": "e1dfe08245d4eebdeb105751fff1150b",
+  "attachments": []
 }

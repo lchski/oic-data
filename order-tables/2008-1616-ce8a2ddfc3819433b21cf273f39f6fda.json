@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1616</td><td>2008-09-05</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Industrial Design Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE INDUSTRIAL DESIGN REGULATIONS which will improve the industrial designs regulatory regime, making it more user-friendly, cost-effective and responsive to clients' needs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0268  <strong>Publication Date:</strong> 2008-09-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19392&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1616",
-  "htmlHash": "ce8a2ddfc3819433b21cf273f39f6fda"
+  "htmlHash": "ce8a2ddfc3819433b21cf273f39f6fda",
+  "attachments": [
+    "attachment.php?attach=19392&lang=en"
+  ]
 }

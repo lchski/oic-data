@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0144</td><td>2009-01-29</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing additional periods during which certain RELOCATION EXPENSES may be reimbursed to The Hon. GEOFFREY R.J. GAUL, who was required to relocate to the city of New Westminster in British Columbia following his appointment as a Judge of the Supreme Court of British Columbia on January 31, 2008.  This Order prescribes: the period from August 1, 2008 to January 30, 2009, as an additional period during which the travelling and lodging costs shall be reimbursed; the period from December 3, 2008 to June 1, 2009, as an additional period during which the difference between the sale price of the former residence and its fair market value shall be reimbursed should he be unable to sell the former residence at a price that is equal to or greater than the fair market value.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19991&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0144",
-  "htmlHash": "612a015d4cb80ea11d35d757b62ff7f2"
+  "htmlHash": "612a015d4cb80ea11d35d757b62ff7f2",
+  "attachments": [
+    "attachment.php?attach=19991&lang=en"
+  ]
 }

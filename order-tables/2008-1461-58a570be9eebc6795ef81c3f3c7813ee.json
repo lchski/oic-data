@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1461</td><td>2008-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSD</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOYCE MAUREEN SMITH of Halifax, Nova Scotia, to be a member of the Review Tribunal for the region of Halifax for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19311&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1461",
-  "htmlHash": "58a570be9eebc6795ef81c3f3c7813ee"
+  "htmlHash": "58a570be9eebc6795ef81c3f3c7813ee",
+  "attachments": [
+    "attachment.php?attach=19311&lang=en"
+  ]
 }

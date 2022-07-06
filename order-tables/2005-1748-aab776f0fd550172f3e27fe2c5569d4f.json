@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1748</td><td>2005-10-04</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) terminating the assigment conferred on The Hon. TONY IANNO by Order in Council P.C. 2004-845; and (b) assigning him to assist the Minister of Social Development in the carrying out of that Minister's responsibilities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0098  <strong>Publication Date:</strong> 2005-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13147&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1748",
-  "htmlHash": "aab776f0fd550172f3e27fe2c5569d4f"
+  "htmlHash": "aab776f0fd550172f3e27fe2c5569d4f",
+  "attachments": [
+    "attachment.php?attach=13147&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1652</td><td>2007-10-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS by adding CZECH REPUBLIC and the REPUBLIC OF LATVIA to the list of countries in section 190(1)(a) whose citizens do not require a temporary resident visa (visitor visa) to enter Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0238  <strong>Publication Date:</strong> 2007-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17442&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1652",
-  "htmlHash": "db40e26bfef8931820d93e181105164a"
+  "htmlHash": "db40e26bfef8931820d93e181105164a",
+  "attachments": [
+    "attachment.php?attach=17442&lang=en"
+  ]
 }

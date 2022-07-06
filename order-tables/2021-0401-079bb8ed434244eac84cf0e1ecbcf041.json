@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0401</td><td>2021-05-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order Modifying the Operation of the Heavy-Duty Vehicle and Engine Greenhouse Gas Emission Regulations (Trailer Standards)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INTERIM ORDER MODIFYING THE OPERATION OF THE HEAVY-DUTY VEHICLE AND ENGINE GREENHOUSE GAS (GHG) EMISSION REGULATIONS (TRAILER STANDARDS), made by the Minister of the Environment on May 3, 2021, in order to extend the suspension of the application of the trailer GHG emission standards by up to another year in Canada to provide additional time for the outcome of the ongoing litigation before te court in the United States regarding the trailer standards to be known.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40604&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0401",
-  "htmlHash": "079bb8ed434244eac84cf0e1ecbcf041"
+  "htmlHash": "079bb8ed434244eac84cf0e1ecbcf041",
+  "attachments": [
+    "attachment.php?attach=40604&lang=en"
+  ]
 }

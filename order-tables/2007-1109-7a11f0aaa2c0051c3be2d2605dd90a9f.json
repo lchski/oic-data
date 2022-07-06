@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1109</td><td>2007-06-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUZANNE VINET of Ottawa, Ontario, to be Associate Deputy Minister of Health, to hold office during pleasure, effective July 16, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16800&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1109",
-  "htmlHash": "7a11f0aaa2c0051c3be2d2605dd90a9f"
+  "htmlHash": "7a11f0aaa2c0051c3be2d2605dd90a9f",
+  "attachments": [
+    "attachment.php?attach=16800&lang=en"
+  ]
 }

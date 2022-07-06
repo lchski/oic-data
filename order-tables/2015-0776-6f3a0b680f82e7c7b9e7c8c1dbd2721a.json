@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0776</td><td>2015-06-04</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Jacques Babin ** Removal Allowance **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing an ADDITIONAL REIMBURSEMENT PERIOD FROM AUGUST 26, 2014 TO FEBRUARY 25, 2015 FOR THE HON. JACQUES BABIN, a Judge of the Superior Court of Quebec for the district of Chicoutimi, further to his relocation from Chicoutimi, Quebec to Québec, Quebec for TRAVELLING AND LODGING COSTS, including amounts expended for meals, incurred before the establishment of the permanent new residence, or in order to visit from time to time members of the household still residing in the former residence.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31098&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0776",
-  "htmlHash": "6f3a0b680f82e7c7b9e7c8c1dbd2721a"
+  "htmlHash": "6f3a0b680f82e7c7b9e7c8c1dbd2721a",
+  "attachments": [
+    "attachment.php?attach=31098&lang=en"
+  ]
 }

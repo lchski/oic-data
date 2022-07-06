@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0298</td><td>2020-05-01</td><td></td><td></td><td>JUS,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Prescribing Certain Firearms and Other Weapons, Components and Parts of Weapons, Accessories, Cartridge Magazines, Ammunition and Projectiles as Prohibited, Restricted or Non-Restricted</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the REGULATIONS PRESCRIBING CERTAIN FIREARMS AND OTHER WEAPONS, COMPONENTS AND PARTS OF WEAPONS, ACCESSORIES, CARTRIDGE MAGAZINES, AMMUNITION AND PROJECTILES AS PROHIBITED, RESTRICTED OR NON-RESTRICTED in order to (1) limit the access to firearms that are characterised by their design and capability of inflicting significant harm to Canadians; (2) reduce the number and availability of assault-style firearms and any other firearms that exceed safe civilian use in Canada; and (3) reduce the possibility of these firearms being diverted to the illicit market.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0096  <strong>Publication Date:</strong> 2020-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39208&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0298",
-  "htmlHash": "e63cf6510e3f4d4758e0a19e2e5dd9df"
+  "htmlHash": "e63cf6510e3f4d4758e0a19e2e5dd9df",
+  "attachments": [
+    "attachment.php?attach=39208&lang=en"
+  ]
 }

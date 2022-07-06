@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1476</td><td>2000-09-19</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CINDY GRAUER, of Vancouver, British Columbia, as a full-\ntime member of the Canadian Radio-television and Telecommunications\nCommission to hold office during good behaviour for a term of three years;\ndesignation of CINDY GRAUER for the Pacific region, as established under\nsubsection 10(1.1) of that Act; and determining that CINDY GRAUER shall\nreside within 100 kilometres of the Pacific regional office; effective\nOctober 27, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1476",
-  "htmlHash": "74f6c3fe01a3525892a5613543114bed"
+  "htmlHash": "74f6c3fe01a3525892a5613543114bed",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1746</td><td>2012-12-13</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan Investment  Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Pension Plan Investment Board Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA PENSION PLAN INVESTMENT BOARD REGULATIONS in order to align the investment rules that apply to the Canada Pension Plan Investment Board Regulations with the recent change to the Pension Benefits Standards Regulations, 1985.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0296  <strong>Publication Date:</strong> 2013-01-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27137&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1746",
-  "htmlHash": "d57713e5a5b4df28bf60a62654e79da7"
+  "htmlHash": "d57713e5a5b4df28bf60a62654e79da7",
+  "attachments": [
+    "attachment.php?attach=27137&lang=en"
+  ]
 }

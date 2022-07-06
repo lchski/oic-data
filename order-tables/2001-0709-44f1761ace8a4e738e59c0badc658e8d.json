@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0709</td><td>2001-04-26</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign a CONVENTION\nbetween Canada and the CZECH REPUBLIC for the AVOIDANCE OF DOUBLE TAXATION\nand the PREVENTION of FISCAL EVASION with respect to TAXES ON INCOME, or\n(b) to issue an Instrument of Full Powers investing other representatives\nwith full power to sign the Convention for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0709",
-  "htmlHash": "44f1761ace8a4e738e59c0badc658e8d"
+  "htmlHash": "44f1761ace8a4e738e59c0badc658e8d",
+  "attachments": []
 }

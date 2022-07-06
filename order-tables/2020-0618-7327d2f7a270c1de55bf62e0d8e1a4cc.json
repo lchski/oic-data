@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0618</td><td>2020-08-31</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Natural Resources of MARTHA TORY of Toronto, Ontario, as a director of Atomic Energy of Canada Limited, to hold office during pleasure for a term of four years, effective October 5, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0618",
-  "htmlHash": "7327d2f7a270c1de55bf62e0d8e1a4cc"
+  "htmlHash": "7327d2f7a270c1de55bf62e0d8e1a4cc",
+  "attachments": [
+    "attachment.php?attach=39593&lang=en"
+  ]
 }

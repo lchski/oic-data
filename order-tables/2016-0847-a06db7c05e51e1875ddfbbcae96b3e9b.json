@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0847</td><td>2016-09-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to the Lennox Island Indian Reserve No. 1, Prince Edward Island</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 0.85 hectare (2.1 acres) of land for the use and benefit of the Lennox Island Band as an addition to LENNOX ISLAND INDIAN RESERVE NO. 1, located in Prince County, approximately 50 kilometres from the City of Summerside, Prince Edward Island.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32543&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0847",
-  "htmlHash": "a06db7c05e51e1875ddfbbcae96b3e9b"
+  "htmlHash": "a06db7c05e51e1875ddfbbcae96b3e9b",
+  "attachments": [
+    "attachment.php?attach=32543&lang=en"
+  ]
 }

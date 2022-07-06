@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1080</td><td>2016-12-02</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Nutrition Labelling, Other Labelling Provisions and Food Colours)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS – NUTRITION LABELLING, OTHER LABELLING PROVISIONS AND FOOD COLOURS in order to make the information in labels on prepackaged products more useful and easier to read and based on the latest science, so that Canadians are better able to maintain or improve their health.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0305  <strong>Publication Date:</strong> 2016-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32777&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1080",
-  "htmlHash": "858d2fc65de316f512a27ea3d0464ccc"
+  "htmlHash": "858d2fc65de316f512a27ea3d0464ccc",
+  "attachments": [
+    "attachment.php?attach=32777&lang=en"
+  ]
 }

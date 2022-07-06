@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1685</td><td>2011-12-15</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">National Judicial Study Leave Fellowship Program  ** LEAVE ** Sept. 1, 2012 to April 30, 2013</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order granting a LEAVE OF ABSENCE to seven Judges from September 1, 2012 to April 30, 2013, in order to allow them to participate in the NATIONAL JUDICIAL STUDY LEAVE FELLOWSHIP PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25367&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1685",
-  "htmlHash": "6e66a61b918bb72a8c937d5f6c384c78"
+  "htmlHash": "6e66a61b918bb72a8c937d5f6c384c78",
+  "attachments": [
+    "attachment.php?attach=25367&lang=en"
+  ]
 }

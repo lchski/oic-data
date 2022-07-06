@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0635</td><td>2018-05-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Development Investment Corporation  - 10804126 Canada Inc (TM Holding Co) ** Acquisition **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Canada Development Investment Corporation to acquire the shares of 10804126 CANADA INC. (TM HOLDING CO.) that, on acquisition, would be held by, on behalf of or in trust for the CANADA DEVELOPMENT INVESTMENT CORPORATION in order to enter into a PURCHASE AND SALE AGREEMENT to acquire the Trans Mountain Pipeline and related assets and the Trans Mountain Expansion project.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36290&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0635",
-  "htmlHash": "d7c6b6303f2754216c27f4861f6dcfe9"
+  "htmlHash": "d7c6b6303f2754216c27f4861f6dcfe9",
+  "attachments": [
+    "attachment.php?attach=36290&lang=en"
+  ]
 }

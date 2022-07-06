@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1607</td><td>2012-11-29</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Commissions dedimus potestatem - authorizing certain judges (Oath of Allegiance)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION DEDIMUS POTESTATEM under the Great Seal of Canada do issue to certain Federal, Provincial and Territorial Judges authorizing them to tender and administer the Oath of Allegiance and any such other oath or oaths as may from time to time be prescribed by any law or statute made in that behalf.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27058&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1607",
-  "htmlHash": "a88fc67724c7d5c3e9b4d49245ed53f0"
+  "htmlHash": "a88fc67724c7d5c3e9b4d49245ed53f0",
+  "attachments": [
+    "attachment.php?attach=27058&lang=en"
+  ]
 }

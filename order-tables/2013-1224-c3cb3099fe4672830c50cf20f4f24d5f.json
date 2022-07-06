@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1224</td><td>2013-11-07</td><td></td><td></td><td>,&nbsp; DFO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Convention for the Conservation of Salmon in the North Atlantic Ocean</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CARL McLEAN of Happy Valley-Goose Bay, Newfoundland and Labrador, for a term of two years, to be a Canadian representative to the Council of the North Atlantic Salmon Conservation Organization; to the North American Commission of the North Atlantic Salmon Conservation Organization; and to the West Greenland Commission of the North Atlantic Salmon Conservation Organization; effective March 1, 2014, in the place of Serge Tremblay, whose term will expire.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28485&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1224",
-  "htmlHash": "c3cb3099fe4672830c50cf20f4f24d5f"
+  "htmlHash": "c3cb3099fe4672830c50cf20f4f24d5f",
+  "attachments": [
+    "attachment.php?attach=28485&lang=en"
+  ]
 }

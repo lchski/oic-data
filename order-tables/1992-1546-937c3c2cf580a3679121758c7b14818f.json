@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1546</td><td>1992-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Ercel J. Baker as a member and Chairman of the Advisory\nCommittee on the Public Service Superannuation Act for a term ending\nMay 4, 1995; reappointment effective May 16, 1992 of certain persons as\nmembers of the said Committee for a term ending May 4, 1995; and\nappointment of certain persons as members of the said Committee for a\nterm ending May 4, 1995. (James Livingston; Gary Myers; Daryl Bean; Iris\nCraig; Jean-Claude Bouchard; Martha Hynna; Harold Dunstan; Susan\nGiampietri; Lorraine Bazinet; and Claude Edwards)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1546",
-  "htmlHash": "937c3c2cf580a3679121758c7b14818f"
+  "htmlHash": "937c3c2cf580a3679121758c7b14818f",
+  "attachments": []
 }

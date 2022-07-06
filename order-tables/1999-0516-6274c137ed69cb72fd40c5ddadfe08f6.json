@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0516</td><td>1999-03-23</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE DARRYL W. WILSON, Judge of the Family Court\nfor the Province of Nova Scotia, as Judge of the Supreme Court of Nova\nScotia (Family Division), and as a Judge ex officio of the Nova Scotia\nCourt of Appeal, effective March 30, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0516",
-  "htmlHash": "6274c137ed69cb72fd40c5ddadfe08f6"
+  "htmlHash": "6274c137ed69cb72fd40c5ddadfe08f6",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0385</td><td>2010-03-25</td><td>32</td><td>2000</td><td>,&nbsp; EC,&nbsp; PC-OLD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada National Parks Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing March 26, 2010 as the Date of the Coming into Force of Certain Sections of the Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing March 26, 2010 as the day on which the description of Wapusk National Park of Canada, contained in Part 4 of Schedule 1 to the Canada National Parks Act, comes into force.  This will create Wapusk National Park of Canada.  The Order also fixes March 26, 2010 as the day on which paragraph 17(1)(b) of the Act comes into force, which empowers the Governor in Council to make regulations respecting the exercise of traditional renewable resource harvesting activities in Wapusk National Park of Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0030  <strong>Publication Date:</strong> 2010-04-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22358&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0385",
-  "htmlHash": "25635de987e0501b710e462ca617e807"
+  "htmlHash": "25635de987e0501b710e462ca617e807",
+  "attachments": [
+    "attachment.php?attach=22358&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0168</td><td>2014-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Post Corporation Pension Plan Funding Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADA POST CORPORATION PENSION PLAN FUNDING REGULATIONS in order to provide the Corporation with temporary relief from making special payments to its pension plan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0038  <strong>Publication Date:</strong> 2014-03-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28946&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0168",
-  "htmlHash": "6c3f36f5ac4d576069f188831649b968"
+  "htmlHash": "6c3f36f5ac4d576069f188831649b968",
+  "attachments": [
+    "attachment.php?attach=28946&lang=en"
+  ]
 }

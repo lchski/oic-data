@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0077</td><td>2012-02-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AANDC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Muskowekwan Indian Reserve No. 85-59, in the Province of Saskatchewan ** Amending P.C. 2009-1028 **\n\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the amount of hectares stated in Order in Council P.C. 2009-1028 dated June 18, 2009, as well as in the Schedule, related to the MUSKOWEKWAN INDIAN RESERVE No. 85-59, in Saskatchewan, from 191.723 to 191.732.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25499&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0077",
-  "htmlHash": "6dd907d6557d12b1390e4914fb765b0e"
+  "htmlHash": "6dd907d6557d12b1390e4914fb765b0e",
+  "attachments": [
+    "attachment.php?attach=25499&lang=en"
+  ]
 }

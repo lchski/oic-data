@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1042</td><td>2008-06-12</td><td></td><td></td><td>TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to grant a five-year renewal option, starting October 1, 2011, to an existing five-year lease with 6539050 CANADA LTD, carrying on business as Terence Robert Gallery at 531 Sussex Drive in Ottawa.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18926&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1042",
-  "htmlHash": "4ad46e6e57ef27506b241f1be97dea35"
+  "htmlHash": "4ad46e6e57ef27506b241f1be97dea35",
+  "attachments": [
+    "attachment.php?attach=18926&lang=en"
+  ]
 }

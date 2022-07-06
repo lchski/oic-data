@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1121</td><td>2020-12-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; APA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Atlantic Pilotage Authority's borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2020-33 of January 30, 2020; and (2) fixing the maximum amount of money that can be borrowed by the ATLANTIC PILOTAGE AUTHORITY, in Canada or elsewhere for the purpose of defraying its expenses at $20,000,000.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40132&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1121",
-  "htmlHash": "b3ab43b7e54f67c41c9e68178e8a060b"
+  "htmlHash": "b3ab43b7e54f67c41c9e68178e8a060b",
+  "attachments": [
+    "attachment.php?attach=40132&lang=en"
+  ]
 }

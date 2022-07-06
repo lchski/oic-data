@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0153</td><td>2021-03-17</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Radiocommunication Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Radiocommunication Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RADIOCOMMUNICATION REGULATIONS in order to change the current capacity-based fee model for point-to-point systems in the fixed service to a consumption-based fee model with differential pricing for urban, rural, and remote areas.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0040  <strong>Publication Date:</strong> 2021-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40335&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0153",
-  "htmlHash": "8f9e010b767acd67c05c2e813604c80d"
+  "htmlHash": "8f9e010b767acd67c05c2e813604c80d",
+  "attachments": [
+    "attachment.php?attach=40335&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1202</td><td>1998-06-29</td><td>0</td><td></td><td>FIN,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN C. MONTY, of Outremont, Quebec, as Chairperson of the\nBoard of Directors of the Canada Millennium Scholarship Foundation, to hold\noffice during pleasure for a term of four years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1202",
-  "htmlHash": "e5097cedb00b9b302d658e0cb7c4ba7d"
+  "htmlHash": "e5097cedb00b9b302d658e0cb7c4ba7d",
+  "attachments": []
 }

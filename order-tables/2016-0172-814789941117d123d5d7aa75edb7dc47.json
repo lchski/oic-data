@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0172</td><td>2016-03-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">United States Enforcement Officers Exemption Order, 2016 (Transportation of Firearms)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2004-422 of April 22, 2004, as amended by Order in Council P.C. 2009-461 of March 26, 2009 and Order in Council P.C. 2011-486 of March 25, 2011; and (2) making the annexed UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER, 2016 (TRANSPORTATION OF FIREARMS).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31849&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0172",
-  "htmlHash": "814789941117d123d5d7aa75edb7dc47"
+  "htmlHash": "814789941117d123d5d7aa75edb7dc47",
+  "attachments": [
+    "attachment.php?attach=31849&lang=en"
+  ]
 }

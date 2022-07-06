@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1276</td><td>2014-11-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act<br>Cooperative Credit Associations Act<br>Trust and Loan Companies Act<br>Insurance Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Finance Regulations (Miscellaneous Program)\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF FINANCE REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct linguistic disagreements to allow for clear and coherent regulations and consistency in English and French versions of regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0273  <strong>Publication Date:</strong> 2014-12-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30093&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1276",
-  "htmlHash": "f8b15571a2923885e0c2ff0a98f049f5"
+  "htmlHash": "f8b15571a2923885e0c2ff0a98f049f5",
+  "attachments": [
+    "attachment.php?attach=30093&lang=en"
+  ]
 }

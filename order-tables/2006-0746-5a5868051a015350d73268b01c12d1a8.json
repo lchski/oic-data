@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0746</td><td>2006-08-02</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to UPHOLD the Canadian Radio-television and Telecommunications Commission DECISION CRTC 2006-193 respecting the issuance of a licence to ALLARCO ENTERTAINMENT INC. to operate a new national English-language general-interest pay television service.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0108  <strong>Publication Date:</strong> 2006-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14683&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0746",
-  "htmlHash": "5a5868051a015350d73268b01c12d1a8"
+  "htmlHash": "5a5868051a015350d73268b01c12d1a8",
+  "attachments": [
+    "attachment.php?attach=14683&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0100</td><td>2004-02-16</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amalgamation of Communication Canada with the Department of Public Works and Government Services under the Minister and Deputy Minister of Public Works and Government Services, effective April 1, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0016  <strong>Publication Date:</strong> 2004-02-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5813&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0100",
-  "htmlHash": "c1085e0c7d74c6c604e9b7c4775a088c"
+  "htmlHash": "c1085e0c7d74c6c604e9b7c4775a088c",
+  "attachments": [
+    "attachment.php?attach=5813&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1538</td><td>1995-09-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ACQUISITION AND HOLDING AUTHORIZATION ORDER -\nINTERNATIONALE NEDERLANDEN GROEP N.V. - which authorizes the\naforementioned, a foreign bank, to indirectly acquire or hold shares in\nboth Wellington Insurance Company and The Insurance Company of Prince\nEdward Island.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1538",
-  "htmlHash": "49bb40ed3e2d1b21bd7a3293edbb11b1"
+  "htmlHash": "49bb40ed3e2d1b21bd7a3293edbb11b1",
+  "attachments": []
 }

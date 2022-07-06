@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0506</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN CLAUDE BOYER of Longueuil, Quebec, to be a full-time member of the National Parole Board, Quebec Regional Division, to hold office during good behaviour for a period of three years, effective July 3, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25930&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0506",
-  "htmlHash": "a0e8863ca16da7c4434a91ebd2fab7bf"
+  "htmlHash": "a0e8863ca16da7c4434a91ebd2fab7bf",
+  "attachments": [
+    "attachment.php?attach=25930&lang=en"
+  ]
 }

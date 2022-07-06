@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0524</td><td>1990-03-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Montreal Port Corporation to purchase a real property of\nirregular figure from the City of Montreal, which property is situate to\nthe south-east of rue Notre Dame (Street), behind Maisonneuve Terminal, and\ncontains some 9,732 square metres (Lot 35-771).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0524",
-  "htmlHash": "1f6e995430d0a5f7a3a358faaa54024c"
+  "htmlHash": "1f6e995430d0a5f7a3a358faaa54024c",
+  "attachments": []
 }

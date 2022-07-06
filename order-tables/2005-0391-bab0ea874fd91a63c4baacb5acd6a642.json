@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0391</td><td>2005-03-22</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1392 - ISOXADIFEN-ETHYL) by setting a maximum limit on residues of isoxadifen-ethyl resulting from its use on field corn grain.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0068  <strong>Publication Date:</strong> 2005-04-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0391",
-  "htmlHash": "bab0ea874fd91a63c4baacb5acd6a642"
+  "htmlHash": "bab0ea874fd91a63c4baacb5acd6a642",
+  "attachments": [
+    "attachment.php?attach=9965&lang=en"
+  ]
 }

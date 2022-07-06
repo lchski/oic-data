@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1294</td><td>2010-10-21</td><td></td><td></td><td>,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Royal Canadian Mint  Corporate Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the corporate plan of the Royal Canadian Mint for the 2010 to 2014 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23280&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1294",
-  "htmlHash": "cbe02df51c1e7622dec9bd30a7f2c8e8"
+  "htmlHash": "cbe02df51c1e7622dec9bd30a7f2c8e8",
+  "attachments": [
+    "attachment.php?attach=23280&lang=en"
+  ]
 }

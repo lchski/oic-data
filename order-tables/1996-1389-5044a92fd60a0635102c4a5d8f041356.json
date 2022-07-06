@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1389</td><td>1996-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NATIONAL ENERGY BOARD VOLUNTARY LEAVE WITHOUT PAY PROGRAMS ORDER which\namends terms and conditions of existing compensation plans in order to\nimplement voluntary leave without pay programs.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1389",
-  "htmlHash": "5044a92fd60a0635102c4a5d8f041356"
+  "htmlHash": "5044a92fd60a0635102c4a5d8f041356",
+  "attachments": []
 }

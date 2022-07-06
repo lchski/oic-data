@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0340</td><td>2012-03-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Inquiries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Directs that a commission do issue under Part I of the Inquiries Act and under the Great Seal of Canada amending the commission in relation to the Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River, issued pursuant to Order in Council P.C. 2009-1860 of November 5, 2009, as amended by P.C. 2010-0954 of July 23, 2010 and by Order in Council P.C. 2011-23 of January 24, 2011, by replacing paragraph (s) with the following:\nOur Commissioner to submit, on or before September 30, 2012, one or more reports, simultaneously in both official languages, to the Governor in Council.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25811&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0340",
-  "htmlHash": "7e857e230b4200cf33077eb5a5f8cfc4"
+  "htmlHash": "7e857e230b4200cf33077eb5a5f8cfc4",
+  "attachments": [
+    "attachment.php?attach=25811&lang=en"
+  ]
 }

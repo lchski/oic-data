@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0922</td><td>2005-05-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CWB</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to make a further contribution towards the funding of a FUSARIUM HEAD BLIGHT RESEARCH PROJECT FOR BARLEY.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11284&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0922",
-  "htmlHash": "a6e4182e2a1386e4bd978c8612db326d"
+  "htmlHash": "a6e4182e2a1386e4bd978c8612db326d",
+  "attachments": [
+    "attachment.php?attach=11284&lang=en"
+  ]
 }

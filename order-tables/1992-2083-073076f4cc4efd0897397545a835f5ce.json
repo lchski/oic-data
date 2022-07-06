@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2083</td><td>1992-09-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control over some 12.37 hectares of land situated in the Village of\nTESLIN, together with the utility easements, walkways and roads which\nencumber those lands. (Lots 28 to 32, Quad 105 C/2, C.L.S.R. Plan 65434)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2083",
-  "htmlHash": "073076f4cc4efd0897397545a835f5ce"
+  "htmlHash": "073076f4cc4efd0897397545a835f5ce",
+  "attachments": []
 }

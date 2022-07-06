@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1967</td><td>1991-10-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Termination of the appointment of Dorothy Dobbie as Parliamentary\nSecretary to the Minister of Consumer and Corporate Affairs and Minister\nof State (Agriculture), effective October 7, 1991; and appointment of\nJames Stewart Edwards as Parliamentary Secretary to the Minister of\nConsumer and Corporate Affairs and Minister of State (Agriculture),\neffective October 8, 1991 and terminating May 7, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1967",
-  "htmlHash": "b1b9844ec2f011fdc177daaf1f389c6e"
+  "htmlHash": "b1b9844ec2f011fdc177daaf1f389c6e",
+  "attachments": []
 }

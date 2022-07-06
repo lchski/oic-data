@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0287</td><td>2013-03-07</td><td></td><td></td><td>,&nbsp; HRSDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan<br>Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agreement on Social Security and Implementing Agreement on Social Security ** France **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the terms and conditions of the revised AGREEMENT between the Government of Canada and the Government of the FRENCH REPUBLIC ON SOCIAL SECURITY and the terms and conditions of the IMPLEMENTING AGREEMENT concerning the AGREEMENT between the Government of Canada and the Government of the FRENCH REPUBLIC on SOCIAL SECURITY.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27511&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0287",
-  "htmlHash": "febe0749914d6adcbbf7c355e5132261"
+  "htmlHash": "febe0749914d6adcbbf7c355e5132261",
+  "attachments": [
+    "attachment.php?attach=27511&lang=en"
+  ]
 }

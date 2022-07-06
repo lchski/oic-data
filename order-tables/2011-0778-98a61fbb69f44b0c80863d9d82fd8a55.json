@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0778</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act<br>Federal Real Property and Federal Immovables Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Prince Rupert Port Authority Agreement \n(Coast Tsimshian)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to enter into and implement the Prince Rupert Port Authority Phase I, Phase II, Terminal 2, and Ancillary Services Final Agreement with the Lax Kw'alaams Indian Band and with the Metlakatla Indian Band, together known as the Coast Tsimshian, and to dispose of the portion of the federal real property located at Aero Point in Seal Cove of Prince Rupert Harbour, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24352&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0778",
-  "htmlHash": "98a61fbb69f44b0c80863d9d82fd8a55"
+  "htmlHash": "98a61fbb69f44b0c80863d9d82fd8a55",
+  "attachments": [
+    "attachment.php?attach=24352&lang=en"
+  ]
 }

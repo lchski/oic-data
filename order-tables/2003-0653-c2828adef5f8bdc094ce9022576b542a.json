@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0653</td><td>2003-05-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to extend AGREEMENTS FOR THE NET INCOME STABILIZATION ACCOUNT PROGRAM 2002 with New Brunswick, Nova Scotia, Ontario, Newfoundland and Labrador and Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2292&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0653",
-  "htmlHash": "c2828adef5f8bdc094ce9022576b542a"
+  "htmlHash": "c2828adef5f8bdc094ce9022576b542a",
+  "attachments": [
+    "attachment.php?attach=2292&lang=en"
+  ]
 }

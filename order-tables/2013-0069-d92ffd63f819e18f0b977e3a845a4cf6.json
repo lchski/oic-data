@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0069</td><td>2013-02-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Matsqui First Nation - Government of Canada Tax Administration Agreement \n\n\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Minister of Finance to enter into a TAX ADMINISTRATION AGREEMENT with the MATSQUI FIRST NATION.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27292&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0069",
-  "htmlHash": "d92ffd63f819e18f0b977e3a845a4cf6"
+  "htmlHash": "d92ffd63f819e18f0b977e3a845a4cf6",
+  "attachments": [
+    "attachment.php?attach=27292&lang=en"
+  ]
 }

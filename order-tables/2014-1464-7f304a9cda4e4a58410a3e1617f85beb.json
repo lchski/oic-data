@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1464</td><td>2014-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CIC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Passport and Other Travel Document Services Fees Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PASSPORT AND OTHER TRAVEL DOCUMENT SERVICES FEES REGULATIONS (MISCELLANEOUS PROGRAM) in order to align the Regulations with the July 2013 Orders in Council, transferring the authority previously granted to Passport Canada to the Minister of Citizenship and Immigration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0309  <strong>Publication Date:</strong> 2014-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30288&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1464",
-  "htmlHash": "7f304a9cda4e4a58410a3e1617f85beb"
+  "htmlHash": "7f304a9cda4e4a58410a3e1617f85beb",
+  "attachments": [
+    "attachment.php?attach=30288&lang=en"
+  ]
 }

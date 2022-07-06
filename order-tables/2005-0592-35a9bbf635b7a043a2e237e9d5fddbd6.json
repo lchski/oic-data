@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0592</td><td>2005-04-14</td><td></td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GARY FANE of Montréal, Quebec, to be a full-time member of the Canada Industrial Relations Board, to hold office during good behaviour for a term of three years; and order that GARY FANE be deemed to be employed in the Public Service for the purposes of the Public Service Superannuation Act; effective August 2, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10344&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0592",
-  "htmlHash": "35a9bbf635b7a043a2e237e9d5fddbd6"
+  "htmlHash": "35a9bbf635b7a043a2e237e9d5fddbd6",
+  "attachments": [
+    "attachment.php?attach=10344&lang=en"
+  ]
 }

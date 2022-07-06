@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0523</td><td>2021-06-10</td><td>27</td><td>2018</td><td>,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing April 1, 2022 as the Day on Which Sections 656 and 657 of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing April 1, 2022 as the day on which sections 656 and 657 of the of the Budget Implementation Act, 2018, No. 2, chapter 27 of the Statutes of Canada, 2018, COME INTO FORCE in order to (1) establish a definition of \"official development assistance\" in regulations; and (2) update the outdated definition of official development assistance currently contained in the Official Development Assistance Accountability Act and facilitate future updates as needed.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0029  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40921&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0523",
-  "htmlHash": "98073ced28b8f9a02d5919365f1bce2e"
+  "htmlHash": "98073ced28b8f9a02d5919365f1bce2e",
+  "attachments": [
+    "attachment.php?attach=40921&lang=en"
+  ]
 }

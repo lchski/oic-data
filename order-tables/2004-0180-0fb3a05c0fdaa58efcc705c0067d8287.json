@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0180</td><td>2004-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Minister of Foreign Affairs or other signatories to sign an EXCHANGE OF NOTES between Canada and the Government of the State of KUWAIT constituting an Agreement concerning the status of Canadian Forces in Kuwait.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6036&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0180",
-  "htmlHash": "0fb3a05c0fdaa58efcc705c0067d8287"
+  "htmlHash": "0fb3a05c0fdaa58efcc705c0067d8287",
+  "attachments": [
+    "attachment.php?attach=6036&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2063</td><td>2009-12-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">International Carriage by Air, Convention for the Unification of Certain Rules for .... **RATIFICATION OF REVISIONS TO ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to ratify the revisions to the limits of liability in the CONVENTION FOR THE UNIFICATION OF CERTAIN RULES FOR INTERNATIONAL AIR CARRIAGE BY AIR, done at Montréal on 28 May 1999, set out in State Letter LE 3/38.1-09/47, dated June 30, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2063",
-  "htmlHash": "3a2ecb68b92117266ecb4dabf8ed7318"
+  "htmlHash": "3a2ecb68b92117266ecb4dabf8ed7318",
+  "attachments": [
+    "attachment.php?attach=21965&lang=en"
+  ]
 }

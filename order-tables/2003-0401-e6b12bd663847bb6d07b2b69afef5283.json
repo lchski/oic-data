@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0401</td><td>2003-03-27</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Placer Mining Act<br>Yukon Quartz Mining Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY (2003, No. 4, WHITE RIVER FIRST NATION, Y.T.) - which (a) prohibits, until February 1, 2008, the staking of mineral claims or prospecting for precious minerals on lands in the Yukon, and (b) repeals the Prohibition of Entry Order made in 2002.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0120  <strong>Publication Date:</strong> 2003-04-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0401",
-  "htmlHash": "e6b12bd663847bb6d07b2b69afef5283"
+  "htmlHash": "e6b12bd663847bb6d07b2b69afef5283",
+  "attachments": [
+    "attachment.php?attach=1763&lang=en"
+  ]
 }

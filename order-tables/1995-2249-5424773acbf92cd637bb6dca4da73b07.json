@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2249</td><td>1995-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of the following Regulations made under the Customs Act:\n.\n- Joint Canada-United States Projects Drawback Regulations\n- Canadian Commercial Corporation Goods Exported Drawback Regulations\n- Goods Imported and Exported Drawback Regulations\n- Goods for Ships and Aircraft Drawback Regulations\n- Canadian Manufactured Goods Exported Drawback Regulations\n- Canadian Textile Goods Exported Drawback Regulationns\n- Canadian Manufactured Tires and Tubes (Exported Vehicles) Drawback\n    Regulations\n- CIDA Goods Drawback Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0041  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2249",
-  "htmlHash": "5424773acbf92cd637bb6dca4da73b07"
+  "htmlHash": "5424773acbf92cd637bb6dca4da73b07",
+  "attachments": []
 }

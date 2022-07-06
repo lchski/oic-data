@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1388</td><td>2018-11-08</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the First Nations Property Assessment and Taxation (Railway Rights-of-Way) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FIRST NATIONS PROPERTY ASSESSMENT AND TAXATION (RAILWAY RIGHTS-OF-WAY) REGULATIONS in order to (1) remove Cook’s Ferry Indian Band and Little Shuswap Lake Indian Band from the Property Assessment and Taxation (Railway Right-of-Way) Regulations (made under the Indian Act); and, (2) add Cook’s Ferry and Little Shuswap Lake Indian Band to the First Nations Property Assessment and Taxation (Railway Rights-of-Way) Regulations (made under the FIRST NATIONS FISCAL MANAGEMENT ACT).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0238  <strong>Publication Date:</strong> 2018-11-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37068&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1388",
-  "htmlHash": "4d3230f56723902250eb0005251365f7"
+  "htmlHash": "4d3230f56723902250eb0005251365f7",
+  "attachments": [
+    "attachment.php?attach=37068&lang=en"
+  ]
 }

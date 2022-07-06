@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2186</td><td>2002-12-12</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the Hon. Madam Justice JUDITH A. SNIDER, a Judge of the Federal Court of Canada - Trial Division, as a JUDGE of the COURT MARTIAL APPEAL COURT OF CANADA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=657&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2186",
-  "htmlHash": "ffd3bfe35349e252c82d6c12569730dc"
+  "htmlHash": "ffd3bfe35349e252c82d6c12569730dc",
+  "attachments": [
+    "attachment.php?attach=657&lang=en"
+  ]
 }

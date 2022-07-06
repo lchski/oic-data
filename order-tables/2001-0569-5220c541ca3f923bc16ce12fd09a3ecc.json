@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0569</td><td>2001-04-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Commission under Part I of the Inquiries Act and under the Great Seal of\nCanada appointing ROY J. ROMANOW, Q.C., as Commissioner to inquire into\nand undertake dialogue with Canadians on the future of Canada's public\nhealth care system.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0569",
-  "htmlHash": "5220c541ca3f923bc16ce12fd09a3ecc"
+  "htmlHash": "5220c541ca3f923bc16ce12fd09a3ecc",
+  "attachments": []
 }

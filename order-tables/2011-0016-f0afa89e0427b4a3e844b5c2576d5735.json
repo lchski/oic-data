@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0016</td><td>2011-01-24</td><td></td><td></td><td>AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Wheat Board Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS to adjust the initial payments for the base grade of wheat, for the pool period 2010-11.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0003  <strong>Publication Date:</strong> 2011-02-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23668&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0016",
-  "htmlHash": "f0afa89e0427b4a3e844b5c2576d5735"
+  "htmlHash": "f0afa89e0427b4a3e844b5c2576d5735",
+  "attachments": [
+    "attachment.php?attach=23668&lang=en"
+  ]
 }

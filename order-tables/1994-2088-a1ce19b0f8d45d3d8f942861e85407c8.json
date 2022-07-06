@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2088</td><td>1994-12-14</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1992-2722 which reappointed\nDr. HARRY C. EASTMAN of Toronto, Ontario, to be Chairman of the Patented\nMedicine Prices Review Board, by revoking the words \"for a term of two\nyears\" and substituting therefor the words \"FOR A TERM ENDING MARCH 7,\n1995\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2088",
-  "htmlHash": "a1ce19b0f8d45d3d8f942861e85407c8"
+  "htmlHash": "a1ce19b0f8d45d3d8f942861e85407c8",
+  "attachments": []
 }

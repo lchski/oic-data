@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0426</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce et d'industrie de Vaudreuil-Dorion (Quebec) ** CHANGE OF BOUNDARIES **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE ET D'INDUSTRIE DE VAUDREUIL-DORION IN QUEBEC TO CHANGE THE BOUNDARIES OF ITS DISTRICT to include Vaudreuil-Dorion, Terrasse-Vaudreuil, Vaudreuil-sur-le-Lac, L’Île Cadieux, Pincourt, L’Île-Perrot, Notre-Dame-de-l’Île-Perrot, Pointe-des-Cascades, Les Cèdres, Coteau-du-Lac, Les Coteaux, Saint-Zotique, Rivière Beaudette, Saint-Télesphore, Saint-Polycarpe, Saint-Clet, Saint-Lazare, Hudson, Sainte-Marthe, Pointe-Fortune, Rigaud, Très-Saint-Rédempteur and Sainte-Justine-de-Newton.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0426",
-  "htmlHash": "283e32a72d33890a85f7fe922dd381d1"
+  "htmlHash": "283e32a72d33890a85f7fe922dd381d1",
+  "attachments": [
+    "attachment.php?attach=25850&lang=en"
+  ]
 }

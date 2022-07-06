@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0484</td><td>2015-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Vessels Registry Fees Tariff and the Vessel Registration and Tonnage Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending THE VESSELS REGISTRY FEES TARIFF AND THE VESSEL REGISTRATION AND TONNAGE REGULATIONS in order to reduce the administrative burden on small vessel owners and operators, small businesses, charitable organizations, and governments.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0099  <strong>Publication Date:</strong> 2015-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30810&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0484",
-  "htmlHash": "035c5a3c6229beab40f70c968892c8a2"
+  "htmlHash": "035c5a3c6229beab40f70c968892c8a2",
+  "attachments": [
+    "attachment.php?attach=30810&lang=en"
+  ]
 }

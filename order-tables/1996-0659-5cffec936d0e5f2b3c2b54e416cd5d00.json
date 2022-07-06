@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0659</td><td>1996-05-07</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of FRANÇOIS ROLLAND, of Montreal, Quebec, as a Puisne Judge of\nthe Superior Court for the District of Montreal in the Province of\nQuebec, with residence in the City of Montreal or in the immediate\nvicinity thereof, effective May 9, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0659",
-  "htmlHash": "5cffec936d0e5f2b3c2b54e416cd5d00"
+  "htmlHash": "5cffec936d0e5f2b3c2b54e416cd5d00",
+  "attachments": []
 }

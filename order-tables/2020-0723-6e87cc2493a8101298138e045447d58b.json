@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0723</td><td>2020-09-30</td><td></td><td></td><td>,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of THÉODORE LAWSON as Honorary Consul of Canada in Bangui, Central African Republic, to hold office during pleasure for a period of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39693&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0723",
-  "htmlHash": "6e87cc2493a8101298138e045447d58b"
+  "htmlHash": "6e87cc2493a8101298138e045447d58b",
+  "attachments": [
+    "attachment.php?attach=39693&lang=en"
+  ]
 }

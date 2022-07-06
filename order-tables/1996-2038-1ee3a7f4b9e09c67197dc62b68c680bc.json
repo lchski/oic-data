@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-2038</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRDC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KAREN VIOLA CURTIS, of Joyceville, Ontario, as a member of\nthe Review Tribunal for the region of Kingston to hold office during\npleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-2038",
-  "htmlHash": "1ee3a7f4b9e09c67197dc62b68c680bc"
+  "htmlHash": "1ee3a7f4b9e09c67197dc62b68c680bc",
+  "attachments": []
 }

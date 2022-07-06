@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0991</td><td>2019-07-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SYLVAIN RICARD of Gatineau, Quebec, to be the Auditor General of Canada on an interim basis, to hold office during good behaviour for a term of six months, effective September 28, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38320&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0991",
-  "htmlHash": "0c72781e7e463241fd613a2a9cb2b144"
+  "htmlHash": "0c72781e7e463241fd613a2a9cb2b144",
+  "attachments": [
+    "attachment.php?attach=38320&lang=en"
+  ]
 }

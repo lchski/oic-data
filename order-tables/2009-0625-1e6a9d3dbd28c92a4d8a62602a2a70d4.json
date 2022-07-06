@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0625</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the YORK NORTH CHAMBER OF COMMERCE, in New Brunswick (a) to change its name to the MACTAQUAC COUNTRY CHAMBER OF COMMERCE; and (b) to change the boundaries of its district to the Northern York County, including Temple, Campbell Settlement, Temperance Vale, Nackawic, Clarksville, Millville, Lower Hainesville, Upper Hainesville, Burtts Corner, Zealand, Hawkshaw, Pokiok, Dumfries, Prince William and the Village of Harvey.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0625",
-  "htmlHash": "1e6a9d3dbd28c92a4d8a62602a2a70d4"
+  "htmlHash": "1e6a9d3dbd28c92a4d8a62602a2a70d4",
+  "attachments": [
+    "attachment.php?attach=20447&lang=en"
+  ]
 }

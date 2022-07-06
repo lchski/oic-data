@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1404</td><td>2017-11-17</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the persons occupying any of the following positions (a) Clerk of the Senate and Clerk of the Parliaments; and (b) Law Clerk and Parliamentary Counsel, to administer the OATH OF ALLEGIANCE contained in the Fifth Schedule to the Constitution Act, 1867 to every member of the Senate of Canada and to receive the Declaration of Qualification contained in that Schedule, and to have that power during their tenure of office.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35314&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1404",
-  "htmlHash": "292c6cf30ec981eafdc6e9d1402f7365"
+  "htmlHash": "292c6cf30ec981eafdc6e9d1402f7365",
+  "attachments": [
+    "attachment.php?attach=35314&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0596</td><td>2017-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Gregory Shean as Commanding Officer — RCMP - Alberta</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating GREGORY SHEAN of the Royal Canadian Mounted Police as Commanding Officer, \"K\" Division, in Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34514&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0596",
-  "htmlHash": "f4b95abf8f7de77b7abbb20fb09ad0bb"
+  "htmlHash": "f4b95abf8f7de77b7abbb20fb09ad0bb",
+  "attachments": [
+    "attachment.php?attach=34514&lang=en"
+  ]
 }

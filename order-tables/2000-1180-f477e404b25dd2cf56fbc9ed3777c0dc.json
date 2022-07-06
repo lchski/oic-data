@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1180</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING THE WITHDRAWAL FROM DISPOSAL OF CERTAIN\nLANDS IN THE NORTHWEST TERRITORIES (DOGRIB SETTLEMENT AGREEMENT, NORTH\nSLAVE REGION, N.W.T.) which (a) provides for the withdrawal from disposal\nof land in the Northwest Territory, until September 30, 2001, and\n(b) repeals the Withdrawal from Disposal of Certain Lands Order (North\nSlave Region, N.W.T.), made by Order in Council P.C. 1997-595.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0077  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1180",
-  "htmlHash": "f477e404b25dd2cf56fbc9ed3777c0dc"
+  "htmlHash": "f477e404b25dd2cf56fbc9ed3777c0dc",
+  "attachments": []
 }

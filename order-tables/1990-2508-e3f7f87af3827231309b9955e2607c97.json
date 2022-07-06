@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2508</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of NEWFOUNDLAND, of the transfer of the\nadministration and control of six parcels of vacant land (9183 m²) situated\nat ROSE BLANCHE, Newfoundland, for marine related purposes including wharf\nconstruction and access road.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2508",
-  "htmlHash": "e3f7f87af3827231309b9955e2607c97"
+  "htmlHash": "e3f7f87af3827231309b9955e2607c97",
+  "attachments": []
 }

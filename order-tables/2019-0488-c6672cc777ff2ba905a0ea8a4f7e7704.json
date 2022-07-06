@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0488</td><td>2019-05-09</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agreement with British-Columbia in order to assist financially agricultural producers</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Minister of Agriculture and Agri-Food to ENTER INTO AN AGREEMENT with BRITISH-COLUMBIA and provide up to $600,000 in federal contributions to assist agricultural producers with the extraordinary costs to mitigate, or to recover from the adverse effects of 2018 bovine tuberculosis outbreak in British-Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37809&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0488",
-  "htmlHash": "c6672cc777ff2ba905a0ea8a4f7e7704"
+  "htmlHash": "c6672cc777ff2ba905a0ea8a4f7e7704",
+  "attachments": [
+    "attachment.php?attach=37809&lang=en"
+  ]
 }

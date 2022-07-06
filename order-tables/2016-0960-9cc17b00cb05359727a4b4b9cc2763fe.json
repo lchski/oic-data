@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0960</td><td>2016-10-28</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to the Five Mile Indian Reserve No. 3, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 0.305 hectares (0.754 acres) of land for the use and benefit of the Williams Lake Indian Band as an addition to FIVE MILE INDIAN RESERVE NO. 3, located in the Cariboo Regional District at approximately 13 kilometres east from the City of Williams Lake, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32655&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0960",
-  "htmlHash": "9cc17b00cb05359727a4b4b9cc2763fe"
+  "htmlHash": "9cc17b00cb05359727a4b4b9cc2763fe",
+  "attachments": [
+    "attachment.php?attach=32655&lang=en"
+  ]
 }

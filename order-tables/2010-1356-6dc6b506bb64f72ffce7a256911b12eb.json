@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1356</td><td>2010-10-28</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Barbara Hinkson ** WIDOW'S ANNUITY ** The Hon. Ernest Edward Hinkson</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to BARBARA HINKSON, widow of the Hon. Ernest Edward Hinkson, a Justice of Appeal of the Court of Appeal for British Columbia, effective September 7, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23341&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1356",
-  "htmlHash": "6dc6b506bb64f72ffce7a256911b12eb"
+  "htmlHash": "6dc6b506bb64f72ffce7a256911b12eb",
+  "attachments": [
+    "attachment.php?attach=23341&lang=en"
+  ]
 }

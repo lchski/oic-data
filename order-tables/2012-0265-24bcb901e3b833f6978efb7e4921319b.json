@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0265</td><td>2012-03-08</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Onion Lake Indian Reserve No. 119-2, in the Province of Saskatchewan ** DESIGNATION **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a DESIGNATION for any interests, including, but not limited to,  leases, permits, grants, licenses and contracts, required for or necessarily incidental to exploration, exploitation and/or disposition, including the sale of capital assets, of any oil and gas and other mines and minerals purposes of approximately 316.70 hectares (782.49 acres) of land on ONION LAKE  INDIAN RESERVE No. 119-2, in Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25688&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0265",
-  "htmlHash": "24bcb901e3b833f6978efb7e4921319b"
+  "htmlHash": "24bcb901e3b833f6978efb7e4921319b",
+  "attachments": [
+    "attachment.php?attach=25688&lang=en"
+  ]
 }

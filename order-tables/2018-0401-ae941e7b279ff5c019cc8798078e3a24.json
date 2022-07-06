@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0401</td><td>2018-04-03</td><td></td><td></td><td>NR,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Insurable Earnings and Collection of Premiums Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INSURABLE EARNINGS AND COLLECTION OF PREMIUMS REGULATIONS in order to (1) exclude from insurable earnings top-ups to the benefits for family members who care for a critically ill adult and for parents of a critically ill child; (2) respect the intent that the benefits for family members caring for a critically ill adult and for parents of a critically ill child be administered in the same manner as the other special benefits; and (3) bridge the existing legislative gap since 2013 with respect to the benefits for parents of a critically ill child.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0071  <strong>Publication Date:</strong> 2018-04-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36070&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0401",
-  "htmlHash": "ae941e7b279ff5c019cc8798078e3a24"
+  "htmlHash": "ae941e7b279ff5c019cc8798078e3a24",
+  "attachments": [
+    "attachment.php?attach=36070&lang=en"
+  ]
 }

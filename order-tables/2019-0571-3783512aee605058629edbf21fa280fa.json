@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0571</td><td>2019-05-21</td><td></td><td></td><td>ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 1 to the Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 1 TO THE SPECIES AT RISK ACT (SARA) in order to (1) help maintain Canada’s biodiversity and the health of Canadian ecosystems by preventing wildlife species from becoming extirpated, endangered or threatened in Canada; (2) contribute to their recovery or their management; and (3) respond to Committee on the Status of Endangered Wildlife in Canada’s recommendations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0145  <strong>Publication Date:</strong> 2019-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37896&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0571",
-  "htmlHash": "3783512aee605058629edbf21fa280fa"
+  "htmlHash": "3783512aee605058629edbf21fa280fa",
+  "attachments": [
+    "attachment.php?attach=37896&lang=en"
+  ]
 }

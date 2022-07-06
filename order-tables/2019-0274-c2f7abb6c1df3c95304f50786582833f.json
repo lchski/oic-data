@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0274</td><td>2019-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Via Rail Canada  - Alterations to its railway station in Halifax, Nova Scotia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing VIA RAIL CANADA to undertake masonry repairs and brick re-pointing, repair and replacement of windows, and replacement of platform and basement doors at its railway station located at 1161 Hollis Street, Halifax, Nova Scotia, in order to protect and preserve the heritage character of the station.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37597&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0274",
-  "htmlHash": "c2f7abb6c1df3c95304f50786582833f"
+  "htmlHash": "c2f7abb6c1df3c95304f50786582833f",
+  "attachments": [
+    "attachment.php?attach=37597&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1615</td><td>1991-08-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EIC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ANDREW WITER, of the City of Toronto, Ontario, as a full-\ntime temporary member of the Convention Refugee Determination Division of\nthe IMMIGRATION AND REFUGEE BOARD (Toronto Regional Office) who shall hold\noffice during good behaviour for a further term of two years beginning\nSeptember 7, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1615",
-  "htmlHash": "7d2d27fd6259edd1c8d8bf1ca6089a01"
+  "htmlHash": "7d2d27fd6259edd1c8d8bf1ca6089a01",
+  "attachments": []
 }

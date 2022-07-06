@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1730</td><td>1998-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing THURSDAY, OCTOBER 1, 1998, as the day upon which this Act\n[Bill S-3] shall COME INTO FORCE, except for subsection 1(4) thereof and\nsection 9.2 of the Pension Benefits Standards Act, 1985 {as enacted by\nsection 9}, which shall come into force on THURSDAY, APRIL 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0096  <strong>Publication Date:</strong> 1998-10-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1730",
-  "htmlHash": "99edcf0600f87dbe3c33ad9c32dc7130"
+  "htmlHash": "99edcf0600f87dbe3c33ad9c32dc7130",
+  "attachments": []
 }

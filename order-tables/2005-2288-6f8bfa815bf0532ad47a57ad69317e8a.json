@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2288</td><td>2005-12-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCES which provide for the electronic notification and publication of all future amendments to these Regulations, effective January 1, 2006 (Article 1.22).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13393&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2288",
-  "htmlHash": "6f8bfa815bf0532ad47a57ad69317e8a"
+  "htmlHash": "6f8bfa815bf0532ad47a57ad69317e8a",
+  "attachments": [
+    "attachment.php?attach=13393&lang=en"
+  ]
 }

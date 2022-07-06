@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0510</td><td>2009-04-02</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing Canadians to accept and wear the UNITED NATIONS INTEGRATED MISSION IN TIMOR-LESTE (UNMIT) MEDAL in recognition of at least 90 days continuous honourable service with that peacekeeping mission; and (b) establishing its order of precedence in the Canadian Honours System.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0027  <strong>Publication Date:</strong> 2009-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20370&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0510",
-  "htmlHash": "0987d365ff9f4f723525c3155a1800bb"
+  "htmlHash": "0987d365ff9f4f723525c3155a1800bb",
+  "attachments": [
+    "attachment.php?attach=20370&lang=en"
+  ]
 }

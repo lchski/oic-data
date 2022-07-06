@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0081</td><td>1996-01-23</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment (SCHEDULE No. 946) to SCHEDULE B to the FOOD AND DRUGS ACT which\nadds the \"European Pharmacopoeia\" to the list of official publications\nwhich prescribe standards with which drugs must comply if no other\nstandards are prescribed in these Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0096  <strong>Publication Date:</strong> 1996-02-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0081",
-  "htmlHash": "74f4bcb4304ff2864f8ba9df244a46ed"
+  "htmlHash": "74f4bcb4304ff2864f8ba9df244a46ed",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0625</td><td>2015-05-25</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">None</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing employment conditions of LINDA GOBEIL, former Vice-Chairperson of the Public Service Labour Relations Board.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31541&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0625",
-  "htmlHash": "5c9d50852e3efabdaaf2eada6263a3c5"
+  "htmlHash": "5c9d50852e3efabdaaf2eada6263a3c5",
+  "attachments": [
+    "attachment.php?attach=31541&lang=en"
+  ]
 }

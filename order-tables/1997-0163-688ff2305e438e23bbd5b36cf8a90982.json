@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0163</td><td>1997-02-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADIAN NATIONAL RAILWAY COMPANY to sell its\nrailway station in McBRIDE, BRITISH COLUMBIA, to the VILLAGE OF McBRIDE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0163",
-  "htmlHash": "688ff2305e438e23bbd5b36cf8a90982"
+  "htmlHash": "688ff2305e438e23bbd5b36cf8a90982",
+  "attachments": []
 }

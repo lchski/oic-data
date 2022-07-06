@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0410</td><td>2021-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LILIAN CHATTERJEE as High Commissioner for Canada in Antigua and Barbuda, with concurrent accreditations as High Commissioner for Canada in Saint Lucia, as High Commissioner for Canada in the Federation of Saint Kitts and Nevis, as High Commissioner for Canada in Saint Vincent and the Grenadines, as non-resident Consul General of Canada in Montserrat and as non-resident Consul General of Canada in Anguilla, with residence in Bridgetown; ALAIN GENDRON as Ambassador Extraordinary and Plenipotentiary of Canada to the Grand Duchy of Luxembourg, with residence in Brussels; STÉPHANE JOBIN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Djibouti, with residence in Addis Ababa; and ALISON LECLAIRE as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Uzbekistan, with residence in Moscow.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40631&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0410",
-  "htmlHash": "f53da2c690306ed7bffb2d7823b061d3"
+  "htmlHash": "f53da2c690306ed7bffb2d7823b061d3",
+  "attachments": [
+    "attachment.php?attach=40631&lang=en"
+  ]
 }

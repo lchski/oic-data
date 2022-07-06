@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0581</td><td>2012-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Historic Sites and Monuments Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of RICHARD M. ALWAY of Toronto, Ontario, as a member of the Historic Sites and Monuments Board of Canada, as a representative of the Province of Ontario to hold office during pleasure for a period of five years; and designation of RICHARD M. ALWAY to be Chairman of the Historic Sites and Monuments Board of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26040&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0581",
-  "htmlHash": "b20ba07f9e41516fd72eba37e2ac812e"
+  "htmlHash": "b20ba07f9e41516fd72eba37e2ac812e",
+  "attachments": [
+    "attachment.php?attach=26040&lang=en"
+  ]
 }

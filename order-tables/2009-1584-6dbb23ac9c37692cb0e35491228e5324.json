@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1584</td><td>2009-09-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Exchange of Letters - Canada - European Community</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign, an exchange of letters concerning the amendment of ANNEX V to the Agreement between the European Community and the Government of Canada on SANITARY MEASURES TO PROTECT PUBLIC AND ANIMAL HEALTH in respect of trade in live animals and animal products.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21465&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1584",
-  "htmlHash": "6dbb23ac9c37692cb0e35491228e5324"
+  "htmlHash": "6dbb23ac9c37692cb0e35491228e5324",
+  "attachments": [
+    "attachment.php?attach=21465&lang=en"
+  ]
 }

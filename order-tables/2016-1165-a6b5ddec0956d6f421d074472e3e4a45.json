@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1165</td><td>2016-12-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; NEB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act<br>National Energy Board Act Part VI (Oil and Gas) Regulations</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of Licence GL-338 - AltaGas LPG General Partner Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE OF LICENCE GL-338 by the National Energy Board to AltaGas LPG General Partner Inc. on behalf of AltaGas LPG Limited Partnership Ltd. to export propane at the outlet of a marine export terminal located near Prince Rupert, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32857&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1165",
-  "htmlHash": "a6b5ddec0956d6f421d074472e3e4a45"
+  "htmlHash": "a6b5ddec0956d6f421d074472e3e4a45",
+  "attachments": [
+    "attachment.php?attach=32857&lang=en"
+  ]
 }

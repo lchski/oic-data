@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1596</td><td>2018-12-14</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Deputy Judge of the Supreme Court of Yukon ** Appointment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Appointing the Hon. FREDERICK P. FERGUSON, a judge of the Court of Queen's Bench of New Brunswick, Trial Division, as a DEPUTY JUDGE OF THE SUPREME COURT OF YUKON.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37283&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1596",
-  "htmlHash": "6bcd345bb0aca5d1a9a40e4bed160b3b"
+  "htmlHash": "6bcd345bb0aca5d1a9a40e4bed160b3b",
+  "attachments": [
+    "attachment.php?attach=37283&lang=en"
+  ]
 }

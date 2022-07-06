@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1144</td><td>2005-06-07</td><td>29</td><td>2001</td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation Appeal Tribunal of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JUNE 30, 2005 as the day on which sections 55 to 59 of this Act [BILL C-34], being chapter 29 of the Statutes of Canada, 2001, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0061  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11532&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1144",
-  "htmlHash": "9c10541c85fb269284431b4771d72232"
+  "htmlHash": "9c10541c85fb269284431b4771d72232",
+  "attachments": [
+    "attachment.php?attach=11532&lang=en"
+  ]
 }

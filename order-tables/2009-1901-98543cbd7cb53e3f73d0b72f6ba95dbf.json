@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1901</td><td>2009-11-26</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">DUFRESNE, Robert ** Approval of his residence ** Val d'Or </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the residence of the Hon. ROBERT DUFRESNE, a Puisne Judge of the Superior Court for the Districts of Abitibi, Rouyn-Noranda and Témiscamingue in the Province of Quebec, in the Town of Val-d'Or.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21789&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1901",
-  "htmlHash": "98543cbd7cb53e3f73d0b72f6ba95dbf"
+  "htmlHash": "98543cbd7cb53e3f73d0b72f6ba95dbf",
+  "attachments": [
+    "attachment.php?attach=21789&lang=en"
+  ]
 }

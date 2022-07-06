@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0584</td><td>2013-05-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce d'Amos-région (Quebec) ** CHANGE OF NAME **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE D'AMOS-RÉGION, in Quebec, TO CHANGE ITS NAME to the \"Chambre de commerce et d'industrie du Centre-Abitibi\".</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27832&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0584",
-  "htmlHash": "5b42e130c0661b04e8e6ec214f889e1c"
+  "htmlHash": "5b42e130c0661b04e8e6ec214f889e1c",
+  "attachments": [
+    "attachment.php?attach=27832&lang=en"
+  ]
 }

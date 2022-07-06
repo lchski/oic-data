@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0027</td><td>2007-01-15</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RUTH ARCHIBALD as High Commissioner for Canada to the Kingdom of Lesotho, with residence in Pretoria; DENIS KINGSLEY as Commissioner for Canada to the British Territories of the Cayman Islands and to the Turks and Caicos Islands, with residence in Kingston; JEAN-PIERRE LAVOIE as Ambassador Extraordinary and Plenipotentiary of Canada to the Central African Republic and to the Republic of Chad, with residence in Yaounde; and MARIE-ISABELLE MASSIP as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Liberia and as High Commissioner for Canada to the Republic of Sierra Leone, with residence in Abidjan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15677&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0027",
-  "htmlHash": "5f4de8dce4f527f396ed51b396af7cf9"
+  "htmlHash": "5f4de8dce4f527f396ed51b396af7cf9",
+  "attachments": [
+    "attachment.php?attach=15677&lang=en"
+  ]
 }

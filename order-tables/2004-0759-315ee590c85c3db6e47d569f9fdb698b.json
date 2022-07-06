@@ -1,5 +1,10 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0759</td><td>2004-06-17</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act<br>Arctic Waters Pollution Prevention Act<br>Arctic Waters Pollution Prevention Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order updating the list of employees of the Department of Transport or the Department of Fisheries and Oceans (Canadian Coast Guard) who are designated as POLLUTION PREVENTION OFFICERS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7250&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=7252&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=7254&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0759",
-  "htmlHash": "315ee590c85c3db6e47d569f9fdb698b"
+  "htmlHash": "315ee590c85c3db6e47d569f9fdb698b",
+  "attachments": [
+    "attachment.php?attach=7250&lang=en",
+    "attachment.php?attach=7252&lang=en",
+    "attachment.php?attach=7254&lang=en"
+  ]
 }

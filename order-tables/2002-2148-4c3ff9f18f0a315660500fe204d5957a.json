@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2148</td><td>2002-12-10</td><td></td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of KAREN VIOLA CURTIS of Joyceville, Ontario, to be a member of the Review Tribunal for the region of Kingston for a term of three years, effective February 15, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=791&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2148",
-  "htmlHash": "4c3ff9f18f0a315660500fe204d5957a"
+  "htmlHash": "4c3ff9f18f0a315660500fe204d5957a",
+  "attachments": [
+    "attachment.php?attach=791&lang=en"
+  ]
 }

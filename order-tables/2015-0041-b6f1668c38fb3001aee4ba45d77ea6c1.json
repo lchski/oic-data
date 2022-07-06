@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0041</td><td>2015-01-29</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Materials Information  Review Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Hazardous Materials Information Review Regulations and the Hazardous Materials Information Review Act Appeal Board Procedures Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HAZARDOUS MATERIALS INFORMATION REVIEW REGULATIONS AND THE HAZARDOUS MATERIALS INFORMATION REVIEW ACT APPEAL BOARD PROCEDURES REGULATIONS in order to align and synchronize Canada’s application of the Globally Harmonized System for the classification and Labelling of Chemicals for its workplace hazardous chemicals system with the approach taken in the U.S. to (1) facilitate trade; (2) lower costs for businesses and consumers; and (3) increase worker protections.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0018  <strong>Publication Date:</strong> 2015-02-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30365&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0041",
-  "htmlHash": "b6f1668c38fb3001aee4ba45d77ea6c1"
+  "htmlHash": "b6f1668c38fb3001aee4ba45d77ea6c1",
+  "attachments": [
+    "attachment.php?attach=30365&lang=en"
+  ]
 }

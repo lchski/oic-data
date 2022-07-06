@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1261</td><td>2014-11-06</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Tsuu T'ina Nation Reserve No. 145, Alberta</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart lands that follow the Elbow River and extend from the middle thread to the left bank of the river for the use and benefit of the TSUU T'INA NATION as an addition to TSUU T'INA NATION RESERVE NO. 145, located within the boundaries of the First Nation's existing reserve, just outside Calgary, Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1261",
-  "htmlHash": "e79c4d56c41c235cdc49eca40bd1c6c7"
+  "htmlHash": "e79c4d56c41c235cdc49eca40bd1c6c7",
+  "attachments": [
+    "attachment.php?attach=30075&lang=en"
+  ]
 }

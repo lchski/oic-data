@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0272</td><td>1994-02-16</td><td>0</td><td></td><td>ISTC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the TAX REBATE DISCOUNTING REGULATIONS which replaces the form\nintitled \"Statement of Discounting Transaction\" with a newer version that\nincludes separate itemized entries for calculating both the GST and\nprovincial sales taxes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0190  <strong>Publication Date:</strong> 1994-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0272",
-  "htmlHash": "df07fa53913b51381d88da43f9b29330"
+  "htmlHash": "df07fa53913b51381d88da43f9b29330",
+  "attachments": []
 }

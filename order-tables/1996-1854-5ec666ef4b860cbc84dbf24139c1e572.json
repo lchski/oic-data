@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1854</td><td>1996-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING THE SCHEDULE TO THE PRIVACY ACT which inserts the Human\nRights Tribunal Panel under the heading of \"Other Government Institutions\"\nthat are subject to this Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0539  <strong>Publication Date:</strong> 1996-12-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1854",
-  "htmlHash": "5ec666ef4b860cbc84dbf24139c1e572"
+  "htmlHash": "5ec666ef4b860cbc84dbf24139c1e572",
+  "attachments": []
 }

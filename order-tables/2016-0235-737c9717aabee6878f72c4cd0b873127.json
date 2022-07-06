@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0235</td><td>2016-04-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Treaty Four Reserve Grounds No. 77, Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 40.667 hectares (100.49 acres) of land for the use and benefit of the Treaty Four First Nations as an addition to TREATY FOUR RESERVE GROUNDS NO. 77, located in the Town of Fort Qu’Appelle, Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31912&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0235",
-  "htmlHash": "737c9717aabee6878f72c4cd0b873127"
+  "htmlHash": "737c9717aabee6878f72c4cd0b873127",
+  "attachments": [
+    "attachment.php?attach=31912&lang=en"
+  ]
 }

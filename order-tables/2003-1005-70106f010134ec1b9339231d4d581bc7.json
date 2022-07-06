@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1005</td><td>2003-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the issuance of non-circulation coins having face values of three dollars and four dollars (Silver Maple Leaf Coin 15th Anniversary series).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0251  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3023&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1005",
-  "htmlHash": "70106f010134ec1b9339231d4d581bc7"
+  "htmlHash": "70106f010134ec1b9339231d4d581bc7",
+  "attachments": [
+    "attachment.php?attach=3023&lang=en"
+  ]
 }

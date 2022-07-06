@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0134</td><td>2018-02-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Privacy Act Heads of Government Institutions Designation Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER in order to designate the Administrator of the Fund for Railway Accidents Involving Designated Goods as the head of the Office for the purposes of the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0022  <strong>Publication Date:</strong> 2018-02-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0134",
-  "htmlHash": "80b760ba1e0f58d23749fff925d49042"
+  "htmlHash": "80b760ba1e0f58d23749fff925d49042",
+  "attachments": [
+    "attachment.php?attach=35795&lang=en"
+  ]
 }

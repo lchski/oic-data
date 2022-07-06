@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1352</td><td>2007-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS IMPLEMENTING THE UNITED NATIONS RESOLUTION ON LEBANON - which impose an embargo on the sale or supply of arms or related materials and the provision of technical training or assistance.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0204  <strong>Publication Date:</strong> 2007-10-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17056&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1352",
-  "htmlHash": "5346474f633d5d6e71b32a51503dcf83"
+  "htmlHash": "5346474f633d5d6e71b32a51503dcf83",
+  "attachments": [
+    "attachment.php?attach=17056&lang=en"
+  ]
 }

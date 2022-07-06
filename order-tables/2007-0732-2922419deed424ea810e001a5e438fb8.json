@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0732</td><td>2007-05-10</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ORDER DECLARING AN AMNESTY PERIOD (2006) - which extends the amnesty period protecting individuals from incurring criminal liability under the Criminal Code as a result of the illegal possession of unregistered non-restricted firearms, for one year, i.e., from May 16, 2007 to May 16, 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0101  <strong>Publication Date:</strong> 2007-05-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16495&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0732",
-  "htmlHash": "2922419deed424ea810e001a5e438fb8"
+  "htmlHash": "2922419deed424ea810e001a5e438fb8",
+  "attachments": [
+    "attachment.php?attach=16495&lang=en"
+  ]
 }

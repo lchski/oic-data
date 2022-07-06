@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0910</td><td>2020-11-20</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Vessel Operation Restriction Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the VESSEL OPERATION RESTRICTION REGULATIONS in order to (1) include a maximum 7.5kW aggregate power for electric motors on vessels in waters where power-driven vessels are prohibited; (2) add the kilowatt power limit to the signage requirements; and (3) update the geographical coordinates for certain bodies of water.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0252  <strong>Publication Date:</strong> 2020-12-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39916&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0910",
-  "htmlHash": "a0bab0a976180aec3a64eb9af1150439"
+  "htmlHash": "a0bab0a976180aec3a64eb9af1150439",
+  "attachments": [
+    "attachment.php?attach=39916&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1482</td><td>2009-09-09</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Natural Sciences and Engineering Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CHRISTOPHER ESSEX of London, Ontario, to be a member of the Natural Sciences and Engineering Research Council to hold office during pleasure for a term of three years, effective October 30, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21399&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1482",
-  "htmlHash": "7d70b21e44eadb6ba0f3111171fdbe70"
+  "htmlHash": "7d70b21e44eadb6ba0f3111171fdbe70",
+  "attachments": [
+    "attachment.php?attach=21399&lang=en"
+  ]
 }

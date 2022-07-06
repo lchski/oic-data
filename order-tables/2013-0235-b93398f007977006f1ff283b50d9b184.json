@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0235</td><td>2013-03-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of KEN LANGILLE of New Glasgow, Nova Scotia, as a trustee of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27460&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0235",
-  "htmlHash": "b93398f007977006f1ff283b50d9b184"
+  "htmlHash": "b93398f007977006f1ff283b50d9b184",
+  "attachments": [
+    "attachment.php?attach=27460&lang=en"
+  ]
 }

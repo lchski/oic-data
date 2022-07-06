@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1115</td><td>2005-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARGARET M. THOM of Fort Providence, Northwest Territories, to be Deputy Commissioner of the Northwest Territories to execute the office and functions of the Commissioner during his absence or illness or other inability or when the office of Commissioner is vacant, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11408&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1115",
-  "htmlHash": "9b500a1a90893cd755b039fb2fa7bfde"
+  "htmlHash": "9b500a1a90893cd755b039fb2fa7bfde",
+  "attachments": [
+    "attachment.php?attach=11408&lang=en"
+  ]
 }

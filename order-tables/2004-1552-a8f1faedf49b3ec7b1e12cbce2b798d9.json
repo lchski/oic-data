@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1552</td><td>2004-12-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing Canadians who have participated in crisis-management operations led by the European Union to accept and wear of the EUROPEAN SECURITY AND DEFENCE POLICY SERVICE MEDAL.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0162  <strong>Publication Date:</strong> 2004-12-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9021&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1552",
-  "htmlHash": "a8f1faedf49b3ec7b1e12cbce2b798d9"
+  "htmlHash": "a8f1faedf49b3ec7b1e12cbce2b798d9",
+  "attachments": [
+    "attachment.php?attach=9021&lang=en"
+  ]
 }

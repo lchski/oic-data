@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1061</td><td>2005-05-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; VAC,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Children of Deceased Veterans Education Assistance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CHILDREN OF DECEASED VETERANS EDUCATION ASSISTANCE REGULATIONS by increasing the amount that may be granted in any 12-month period for tuition and registation fees, and by making provision for an annual adjustment to that amount.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0171  <strong>Publication Date:</strong> 2005-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11472&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1061",
-  "htmlHash": "d54570b42b4b9dc3ec0b197f002ab8f3"
+  "htmlHash": "d54570b42b4b9dc3ec0b197f002ab8f3",
+  "attachments": [
+    "attachment.php?attach=11472&lang=en"
+  ]
 }

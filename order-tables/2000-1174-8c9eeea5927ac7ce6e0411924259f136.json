@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1174</td><td>2000-07-27</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion to the rank of INSPECTOR of the following Non-Commissioned\nOfficers of the Royal Canadian Mounted Police:\n.\n  1. Sergeant/le sergent Lawrence David AIMOE\n  2. Sergeant/le sergent Joseph François DESCHÊNES\n  3. Sergeant/le sergent Douglas William KILOH\n  4. Sergeant/le sergent Joseph Gilles Bernard MICHAUD\n  5. Staff Sergeant/le sergent d'état-major Richard Thomas NOBLE\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1174",
-  "htmlHash": "8c9eeea5927ac7ce6e0411924259f136"
+  "htmlHash": "8c9eeea5927ac7ce6e0411924259f136",
+  "attachments": []
 }

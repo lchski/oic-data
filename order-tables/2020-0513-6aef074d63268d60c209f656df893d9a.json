@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0513</td><td>2020-06-29</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">CUSMA Tariff Preference Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CUSMA TARIFF PREFERENCE REGULATIONS in order to (1) replace the NAFTA Tariff Preference Regulations, (2) link Canada-United States-Mexico Agreement (CUSMA) originating goods to their entitlement to the preferential tariff treatment of the CUSMA; and (3) establish entitlement to preferential tariff for originating goods that are not shipped directly from another CUSMA country to Canada, provided the goods remain under customs control while in transit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0157  <strong>Publication Date:</strong> 2020-07-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39470&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0513",
-  "htmlHash": "6aef074d63268d60c209f656df893d9a"
+  "htmlHash": "6aef074d63268d60c209f656df893d9a",
+  "attachments": [
+    "attachment.php?attach=39470&lang=en"
+  ]
 }

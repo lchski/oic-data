@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0772</td><td>2009-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Appoint an administrator - government of PRINCE EDWARD ISLAND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable JOHN A. MCQUAID to serve  for the period of May 28 to May 31, 2009 inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20686&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0772",
-  "htmlHash": "bdc644238b9ccd5ecbb49cac39891d3c"
+  "htmlHash": "bdc644238b9ccd5ecbb49cac39891d3c",
+  "attachments": [
+    "attachment.php?attach=20686&lang=en"
+  ]
 }

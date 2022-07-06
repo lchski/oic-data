@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0426</td><td>2007-03-23</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the REGISTRAR of the REGISTRY OF THE PUBLIC SERVANTS DISCLOSURE PROTECTION TRIBUNAL as Deputy Head in respect of that Registry, effective April 15, 2007.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0044  <strong>Publication Date:</strong> 2007-04-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16026&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0426",
-  "htmlHash": "26c48ea9e55d067b03a85cd374132edd"
+  "htmlHash": "26c48ea9e55d067b03a85cd374132edd",
+  "attachments": [
+    "attachment.php?attach=16026&lang=en"
+  ]
 }

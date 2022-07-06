@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0093</td><td>2005-02-01</td><td></td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of the following OFFICERS of the Royal Canadian Mounted Police, as set out hereunder:\n\nTo the rank of SUPERINTENDENT\n\n- Inspector A.D. BOLAND\n- Inspector J.J.P. GIGUÈRE\n- Inspector T.D.T. HEAD\n- Inspector R.B. MIRASTY\n- Inspector J.P.M. MORIN</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0093",
-  "htmlHash": "2fbf20bdfcf25538b8217238417c8758"
+  "htmlHash": "2fbf20bdfcf25538b8217238417c8758",
+  "attachments": [
+    "attachment.php?attach=9396&lang=en"
+  ]
 }

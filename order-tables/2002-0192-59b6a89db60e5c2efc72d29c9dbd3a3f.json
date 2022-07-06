@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0192</td><td>2002-02-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PTB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RETIREMENT COMPENSATION ARRANGEMENTS REGULATIONS,\nNO. 1 by, inter alia, ensuring that survivor benefits provided under the\nmilitary and RCMP pension plans comply with the requirements of the Income\nTax Act and Regulations and by updating provisions affected by the\nenactment of the Public Sector Pension Investment Board Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0073  <strong>Publication Date:</strong> 2002-02-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0192",
-  "htmlHash": "59b6a89db60e5c2efc72d29c9dbd3a3f"
+  "htmlHash": "59b6a89db60e5c2efc72d29c9dbd3a3f",
+  "attachments": []
 }

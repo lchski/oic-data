@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2505</td><td>1991-12-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which consents to the exercise by the Province of SASKATCHEWAN of its\npower to take certain interests in land without the consent of the owners,\nthe land in question being a small portion (0.73 hectares) of SAULTEAUX\nINDIAN RESERVE No. 159B which is required for public road purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2505",
-  "htmlHash": "45fa6bd4e79969b521f0faf0f92e496c"
+  "htmlHash": "45fa6bd4e79969b521f0faf0f92e496c",
+  "attachments": []
 }

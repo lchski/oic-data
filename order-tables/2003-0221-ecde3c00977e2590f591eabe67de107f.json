@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0221</td><td>2003-02-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or invest other officials with full powers to sign an EXCHANGE OF NOTES to extend the AGREEMENT between Canada and the UNITED KINGDOM of GREAT BRITAIN AND NORTHERN IRELAND Regarding the SHARING OF FORFEITED OR CONFISCATED ASSETS OR THEIR EQUIVALENT FUNDS, done at London on February 21, 2001, to the United Kingdom's Overseas Territories of ANGUILLA, the BRITISH VIRGIN ISLANDS, the CAYMAN ISLANDS, GIBRALTAR, MONTSERRAT and the TURKS AND CAICOS ISLANDS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1409&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0221",
-  "htmlHash": "ecde3c00977e2590f591eabe67de107f"
+  "htmlHash": "ecde3c00977e2590f591eabe67de107f",
+  "attachments": [
+    "attachment.php?attach=1409&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0024</td><td>2010-01-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">G8 Summit Privileges and Immunities Order, No. 2010-2\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">G8 SUMMIT PRIVILEGES AND IMMUNITIES ORDER, No. 2-2010 - which grants privileges and immunities to the participants of the G8 Summit (2010) and its preparatory meetings.  The Order exclusively provides for these privileges and immunities between January 15 and July 4, 2010, in order to accommodate the arrivals and departures of organizers and participants to the G8 Summit and the associated preparatory meetings for operational and security reasons.  The G8 Summit Privileges and Immunities Order, 2010 is repealed.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0013  <strong>Publication Date:</strong> 2010-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22051&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0024",
-  "htmlHash": "88e77439e57c783b512d948bbe468433"
+  "htmlHash": "88e77439e57c783b512d948bbe468433",
+  "attachments": [
+    "attachment.php?attach=22051&lang=en"
+  ]
 }

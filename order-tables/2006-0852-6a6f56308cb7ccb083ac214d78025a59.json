@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0852</td><td>2006-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 1974 (S.C. 1974, c.2)<br>Appropriation Act No. 1, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the ANTHRAX COMPENSATION TERMS AND CONDITIONS, NO. 2 which provide for the payment of compensation to the owners of animals who died as a result of anthrax.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14782&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0852",
-  "htmlHash": "6a6f56308cb7ccb083ac214d78025a59"
+  "htmlHash": "6a6f56308cb7ccb083ac214d78025a59",
+  "attachments": [
+    "attachment.php?attach=14782&lang=en"
+  ]
 }

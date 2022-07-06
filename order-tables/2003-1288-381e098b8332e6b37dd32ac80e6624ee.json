@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1288</td><td>2003-08-13</td><td></td><td></td><td>HRDC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by raising the threshold of earnings on a \"small week\" from $150 to $225, effective September 7, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0306  <strong>Publication Date:</strong> 2003-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1288",
-  "htmlHash": "381e098b8332e6b37dd32ac80e6624ee"
+  "htmlHash": "381e098b8332e6b37dd32ac80e6624ee",
+  "attachments": [
+    "attachment.php?attach=3684&lang=en"
+  ]
 }

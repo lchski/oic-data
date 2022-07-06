@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1065</td><td>2008-06-12</td><td>18</td><td>2008</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Subject</td><td colspan=\"5\">Bill C-13  ** COMING INTO FORCE **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing OCTOBER 1, 2008 as the day on which sections 7, 8, 18 to 21.1, 29, 35, 37 to 40, 42 and 44 of this Act [BILL C-13], being chapter 18 of the Statutes of Canada, 2008, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0071  <strong>Publication Date:</strong> 2008-06-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18899&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1065",
-  "htmlHash": "058fb7e06db9b0be84a66d34a40e0908"
+  "htmlHash": "058fb7e06db9b0be84a66d34a40e0908",
+  "attachments": [
+    "attachment.php?attach=18899&lang=en"
+  ]
 }

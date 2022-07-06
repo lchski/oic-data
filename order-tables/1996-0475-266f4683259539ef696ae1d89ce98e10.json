@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0475</td><td>1996-03-29</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into AGREEMENTS with the Province of QUEBEC to amend\nsome of the financial terms and conditions of three EXCHANGE OF SERVICES\nAGREEMENTS respecting the incarceration of male and female prisoners in\nfederal and provincial penal institutions.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0475",
-  "htmlHash": "266f4683259539ef696ae1d89ce98e10"
+  "htmlHash": "266f4683259539ef696ae1d89ce98e10",
+  "attachments": []
 }

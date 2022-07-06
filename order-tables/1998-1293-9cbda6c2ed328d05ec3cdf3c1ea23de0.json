@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1293</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to CANADA LANDS COMPANY (CLC) LIMITED, of the title to some 9.52\nhectares of land situate at 363 Smyth Road, in the City of Ottawa, Ontario,\ntogether with the 13 buildings erected thereon, being the site of the\nformer RIDEAU VETERANS HOME operated by the Department of Veterans Affairs.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1293",
-  "htmlHash": "9cbda6c2ed328d05ec3cdf3c1ea23de0"
+  "htmlHash": "9cbda6c2ed328d05ec3cdf3c1ea23de0",
+  "attachments": []
 }

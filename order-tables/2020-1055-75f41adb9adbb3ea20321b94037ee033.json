@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1055</td><td>2020-12-14</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Parts I and X — Offsetting of CO2 Emissions — CORSIA)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADIAN AVIATION REGULATIONS (PARTS I AND X - OFFSETTING OF CO2 EMISSIONS - CORSIA) in order to add the specific requirements for private operators or air operators who fly internationally to offset their assigned share of the increase in global Greenhouse gas emissions from the international aviation sector beyond 2020 levels by using CORSIA Eligible Fuels (CEF) or acquiring and cancelling emissions units on the international carbon market.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0275  <strong>Publication Date:</strong> 2020-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40067&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1055",
-  "htmlHash": "75f41adb9adbb3ea20321b94037ee033"
+  "htmlHash": "75f41adb9adbb3ea20321b94037ee033",
+  "attachments": [
+    "attachment.php?attach=40067&lang=en"
+  ]
 }

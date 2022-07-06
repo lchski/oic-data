@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1301</td><td>2009-08-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUSAN J. MCARTHUR of Toronto, Ontario, to be Chair of the Board of Management of the Canada Revenue Agency, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21182&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1301",
-  "htmlHash": "67b454fbce6a3aee43e1eed62bb05774"
+  "htmlHash": "67b454fbce6a3aee43e1eed62bb05774",
+  "attachments": [
+    "attachment.php?attach=21182&lang=en"
+  ]
 }

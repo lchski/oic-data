@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0965</td><td>2012-06-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Consolidation of Internal Services between the Department of Health and the Public Health Agency of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consolidating the Internal Services between the Department of Health and the Public Health Agency of Canada</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26391&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0965",
-  "htmlHash": "2fa476bd9cd938c1a80164e1a2a0bf72"
+  "htmlHash": "2fa476bd9cd938c1a80164e1a2a0bf72",
+  "attachments": [
+    "attachment.php?attach=26391&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0392</td><td>2012-04-05</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the General Pilotage Regulations\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GENERAL PILOTAGE REGULATIONS in order to (1) ensure consistency with the Marine Personnel Regulations and their associated marine medical examination standards and certificate of competency nomenclature, and (2) help solve the “exemptions” issue raised by the Auditor General in the Great Lakes Pilotage Authority Special Report of April 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0080  <strong>Publication Date:</strong> 2012-04-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25816&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0392",
-  "htmlHash": "df162124a231de9accc8ac3da6f2f97a"
+  "htmlHash": "df162124a231de9accc8ac3da6f2f97a",
+  "attachments": [
+    "attachment.php?attach=25816&lang=en"
+  ]
 }

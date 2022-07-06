@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1507</td><td>2012-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cree-Naskapi (of Quebec) Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RICHARD SAUNDERS of Renfrew, Ontario, as a member of the Cree-Naskapi Commission for a term of two years; and designation of RICHARD SAUNDERS as the Chairman of the Cree-Naskapi Commission.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26983&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1507",
-  "htmlHash": "20cb98bbf8969b5fcc61f23c6cc29c71"
+  "htmlHash": "20cb98bbf8969b5fcc61f23c6cc29c71",
+  "attachments": [
+    "attachment.php?attach=26983&lang=en"
+  ]
 }

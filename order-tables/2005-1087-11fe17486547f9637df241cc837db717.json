@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1087</td><td>2005-06-01</td><td>7</td><td>2004</td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Parliament of Canada Act (Ethics Commissioner and Senate Ethics Officer) and other Acts in consequence</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JUNE 1, 2005 as the date on which sections 1 and 3 of this Act [Bill C-4], being chapter 7 of the Statutes of Canada, 2004, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0057  <strong>Publication Date:</strong> 2005-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11352&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1087",
-  "htmlHash": "11fe17486547f9637df241cc837db717"
+  "htmlHash": "11fe17486547f9637df241cc837db717",
+  "attachments": [
+    "attachment.php?attach=11352&lang=en"
+  ]
 }

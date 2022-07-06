@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0354</td><td>2014-04-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AANDC</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the First Nations Fiscal Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE FIRST NATIONS FISCAL MANAGEMENT ACT in order to add the following sixteen First Nations: Bear River First Nation (NS), Buctouche Mic Mac Band (NB), Chippewas of Kettle and Stony Point First Nation (ON), Mohawks of Akwesasne (ON), Peter Ballantyne Cree Nation (SK), Long Plain First Nation (MB), Misipawistik Cree Nation (MB), Pauingassi First Nation (MB), Red Sucker Lake First Nation (MB), Beecher Bay (BC), Cayoose Creek Indian Band (BC), Kanaka Bar (BC), Kwantlen First Nation (BC), Skwah (BC), Soowahlie (BC), Williams Lake (BC).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0077  <strong>Publication Date:</strong> 2014-04-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29140&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0354",
-  "htmlHash": "97a5669caa03a55d92cb2f539f709e17"
+  "htmlHash": "97a5669caa03a55d92cb2f539f709e17",
+  "attachments": [
+    "attachment.php?attach=29140&lang=en"
+  ]
 }

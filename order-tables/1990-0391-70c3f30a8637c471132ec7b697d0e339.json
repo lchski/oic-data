@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0391</td><td>1990-02-23</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of the Minister Designation Order (Science Council of Canada\nAct); designation of the Minister of Industry, Science and Technology as\nthe Minister for the purposes of the Science Council of Canada Act; and\ndesignation of the Minister of Industry, Science and Technology as the\nappropriate Minister with respect to the Science Council of Canada for\nthe purposes of the Financial Administration Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0032  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0391",
-  "htmlHash": "70c3f30a8637c471132ec7b697d0e339"
+  "htmlHash": "70c3f30a8637c471132ec7b697d0e339",
+  "attachments": []
 }

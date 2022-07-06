@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0455</td><td>1998-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SEIZED PROPERTY DISPOSITION REGULATIONS by\nclarifying that property may be disposed of in any manner, including by\npublic tender or public auction, or by signing a release or discharge.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0190  <strong>Publication Date:</strong> 1998-04-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0455",
-  "htmlHash": "acdf9feecd6c59c812c8fc58e96783d8"
+  "htmlHash": "acdf9feecd6c59c812c8fc58e96783d8",
+  "attachments": []
 }

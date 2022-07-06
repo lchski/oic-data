@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1372</td><td>1991-07-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ALAN VANCE, of the City of Nanaimo, British Columbia, as\na member of the Nanaimo Harbour Commission who shall hold office during\npleasure for a further term of three years beginning July 21, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1372",
-  "htmlHash": "b2c158cc9cadc9e87d816b37e35c478b"
+  "htmlHash": "b2c158cc9cadc9e87d816b37e35c478b",
+  "attachments": []
 }

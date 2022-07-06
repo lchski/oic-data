@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1298</td><td>2007-08-13</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2007-2008</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of I. DAVID MARSHALL as High Commissioner for Canada to Barbados, with concurrent accreditation to the Commonwealth of Dominica, Grenada, Antigua and Barbuda, Saint Lucia, the Federation of Saint Kitts and Nevis, and Saint Vincent and the Grenadines.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17019&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1298",
-  "htmlHash": "bfbc197a0b4002a64b3d4ddfa67fb644"
+  "htmlHash": "bfbc197a0b4002a64b3d4ddfa67fb644",
+  "attachments": [
+    "attachment.php?attach=17019&lang=en"
+  ]
 }

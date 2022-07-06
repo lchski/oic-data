@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0191</td><td>1992-02-06</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">USED RAILWAY PASSENGER CAR REMISSION ORDER remitting the customs duty on\n32 used passenger railcars which VIA Rail imported during the period of\nJanuary 1, 1989 to June 30, 1991.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0104  <strong>Publication Date:</strong> 1992-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0191",
-  "htmlHash": "8a83b0f6c7da7cc60b2ce2f04985aef6"
+  "htmlHash": "8a83b0f6c7da7cc60b2ce2f04985aef6",
+  "attachments": []
 }

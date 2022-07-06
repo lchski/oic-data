@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0791</td><td>2015-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Divorce Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Yukon’s Child Support Administrative Recalculation Service ** Memorandum of Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Justice, on behalf of the Government of Canada, enter into an AGREEMENT with the Government of YUKON, authorizing the provincial child support service designated in the agreement, namely the Child Support Administrative Recalculation Service, to carry out the activities set out in paragraphs 25.1(1)(a) and (b) of the Divorce Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0791",
-  "htmlHash": "da9ac7ea31fab6f3c7dfa4d7b3a5419c"
+  "htmlHash": "da9ac7ea31fab6f3c7dfa4d7b3a5419c",
+  "attachments": [
+    "attachment.php?attach=31114&lang=en"
+  ]
 }

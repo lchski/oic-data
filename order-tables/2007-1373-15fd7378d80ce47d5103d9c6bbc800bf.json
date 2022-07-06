@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1373</td><td>2007-09-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION EXPENSES may be reimbursed to The Hon. ROBERT F. SCOTT, a Judge of the Superior Court of Justice (Ontario), who was required to relocate from Cobourg to Belleville following his reassignment from the Central East Region to the East Region, effective March 2, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17077&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1373",
-  "htmlHash": "15fd7378d80ce47d5103d9c6bbc800bf"
+  "htmlHash": "15fd7378d80ce47d5103d9c6bbc800bf",
+  "attachments": [
+    "attachment.php?attach=17077&lang=en"
+  ]
 }

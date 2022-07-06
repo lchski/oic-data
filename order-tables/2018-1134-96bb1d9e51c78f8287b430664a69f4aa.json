@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1134</td><td>2018-09-07</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of C. RYAN COMBS to be Honorary Consul of Canada at Raleigh-Durham, North Carolina, United States of America, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36813&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1134",
-  "htmlHash": "96bb1d9e51c78f8287b430664a69f4aa"
+  "htmlHash": "96bb1d9e51c78f8287b430664a69f4aa",
+  "attachments": [
+    "attachment.php?attach=36813&lang=en"
+  ]
 }

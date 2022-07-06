@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0456</td><td>2011-03-25</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FISHERIES ACT remove the current notification requirements in the Metal Mining Effluent Regulations (MMER) and the Pulp and Paper Effluent Regulations (PPER), thereby preventing a duplication of these requirements.  In addition, the Amendments update the existing Schedules in the MMER and the PPER which prescribe persons to whom written reports regarding deposits out of the normal course of events must be submitted, in accordance with the provisions of these Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0092  <strong>Publication Date:</strong> 2011-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24124&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0456",
-  "htmlHash": "4440aadf79140edd20cd07ab902cac50"
+  "htmlHash": "4440aadf79140edd20cd07ab902cac50",
+  "attachments": [
+    "attachment.php?attach=24124&lang=en"
+  ]
 }

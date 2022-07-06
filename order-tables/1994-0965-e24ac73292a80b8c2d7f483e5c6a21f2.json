@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0965</td><td>1994-06-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as governors of the Board of Governors of\nthe International Development Research Centre to hold office during\npleasure for a term of four years.\n(Herb Breau, Ottawa, Ontario; Jacques Gérin, Montreal, Quebec;\nOlav Slaymaker, Vancouver, British Columbia; Donna Soble Kaufman,\nWestmount, Quebec; and Albert J. Butros, London, England)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0965",
-  "htmlHash": "e24ac73292a80b8c2d7f483e5c6a21f2"
+  "htmlHash": "e24ac73292a80b8c2d7f483e5c6a21f2",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1392</td><td>2001-08-01</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion to the rank of INSPECTOR of the following Non-Commissioned\nOfficers of the Royal Canadian Mounted Police:\n.\n  1. Staff Sergeant/sergent d'état-major STANISLAW B. BURKE\n  2. Corporal/caporal JOHN W.K. COLEMAN\n  3. Sergeant/sergent WILLIAM A. MacKINNON\n  4. Corporal/caporal J.A. MARC PARENT\n  5. Sergeant/sergent BRIAN C. REDMOND\n  6. Sergeant/sergent DALE L. SHEEHAN\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1392",
-  "htmlHash": "093859bf561c460ac2065331eb33c507"
+  "htmlHash": "093859bf561c460ac2065331eb33c507",
+  "attachments": []
 }

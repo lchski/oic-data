@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1248</td><td>2018-10-04</td><td></td><td></td><td>NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Energy Efficiency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Energy Efficiency Regulations, 2016</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ENERGY EFFICIENCY REGULATIONS, 2016 in order to (1) introduce or improve minimum energy performance standards across 17 product categories; (2) reduce green house gas emissions and energy consumption associated with using those products; and (3) reduce unnecessary regulatory differences between Canadian and United States regulations across new and existing product categories to support cross-border trade.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0201  <strong>Publication Date:</strong> 2018-10-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36929&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1248",
-  "htmlHash": "efb22d7a7290d1da716b8b9eb032a9ec"
+  "htmlHash": "efb22d7a7290d1da716b8b9eb032a9ec",
+  "attachments": [
+    "attachment.php?attach=36929&lang=en"
+  ]
 }

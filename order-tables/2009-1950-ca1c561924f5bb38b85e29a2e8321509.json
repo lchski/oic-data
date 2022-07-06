@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1950</td><td>2009-12-03</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Space Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the remuneration of CHRIS HADFIELD, Astronaut, as established by the Canadian Space Agency, effective April 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21859&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1950",
-  "htmlHash": "ca1c561924f5bb38b85e29a2e8321509"
+  "htmlHash": "ca1c561924f5bb38b85e29a2e8321509",
+  "attachments": [
+    "attachment.php?attach=21859&lang=en"
+  ]
 }

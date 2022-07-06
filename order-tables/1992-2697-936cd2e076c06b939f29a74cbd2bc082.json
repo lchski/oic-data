@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2697</td><td>1992-12-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the President of the Treasury Board to exercise the\npowers of the Treasury Board in relation to the allocation of funding in\nrespect of the implementation of the Gwich'in Comprehensive Land Claim\nAgreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2697",
-  "htmlHash": "936cd2e076c06b939f29a74cbd2bc082"
+  "htmlHash": "936cd2e076c06b939f29a74cbd2bc082",
+  "attachments": []
 }

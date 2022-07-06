@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1442</td><td>2012-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Industry Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Howard Alper of Ottawa, Ontario, as Chairperson of the Science, Technology and Innovation Council, to hold office during pleasure on a part-time basis for a term of two years, effective December 9, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26906&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1442",
-  "htmlHash": "0e66b871b1c37307f89cd3f44d6aad47"
+  "htmlHash": "0e66b871b1c37307f89cd3f44d6aad47",
+  "attachments": [
+    "attachment.php?attach=26906&lang=en"
+  ]
 }

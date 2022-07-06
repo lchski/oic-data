@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0208</td><td>1991-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Southern Panel, for a\nterm of two years.\n(William Greene, Port Alberni, British Columbia; John Legate,\nWest Vancouver, British Columbia; and Ron Fowler, Vancouver,\nBritish Columbia)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0208",
-  "htmlHash": "3ed4f88acfc51c0dae8e2f708d9095db"
+  "htmlHash": "3ed4f88acfc51c0dae8e2f708d9095db",
+  "attachments": []
 }

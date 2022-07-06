@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0286</td><td>2009-02-18</td><td></td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PIERRE DAIGLE of Saint-Jean-sur-Richelieu, Quebec, to the position of special adviser to the Minister of National Defence, as Ombudsperson for the Department of National Defence and the Canadian Forces, to hold office during good behaviour for a term of five years, effective February 23, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20167&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0286",
-  "htmlHash": "aa360a64b931889eaae99a7ff0e9bebb"
+  "htmlHash": "aa360a64b931889eaae99a7ff0e9bebb",
+  "attachments": [
+    "attachment.php?attach=20167&lang=en"
+  ]
 }

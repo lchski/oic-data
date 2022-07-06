@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0009</td><td>2018-01-11</td><td></td><td></td><td>,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Implementing the United Nations Resolutions on the Democratic People's Republic of Korea (DPRK)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS IMPLEMENTING THE UNITED NATIONS RESOLUTIONS ON THE DEMOCRATIC PEOPLE’S REPUBLIC OF KOREA (DPRK) in order to implement the decisions of United Nations Security Council Resolutions 2321 (2016), 2356 (2017), 2371 (2017), and 2375 (2017) not already incorporated in Canadian domestic legislation adopted on September 11, 2017.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0001  <strong>Publication Date:</strong> 2018-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35671&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0009",
-  "htmlHash": "6a8d3b9f9fcc9debe74176550ebb9109"
+  "htmlHash": "6a8d3b9f9fcc9debe74176550ebb9109",
+  "attachments": [
+    "attachment.php?attach=35671&lang=en"
+  ]
 }

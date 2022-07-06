@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0181</td><td>2006-03-31</td><td>9</td><td>2005</td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 1, 2006 as the day on which this Act [Bill C-20], being chapter 9 of the Statutes of Canada, 2005, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0059  <strong>Publication Date:</strong> 2006-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14083&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0181",
-  "htmlHash": "4de0533f8c92151cf3f11526fe14c716"
+  "htmlHash": "4de0533f8c92151cf3f11526fe14c716",
+  "attachments": [
+    "attachment.php?attach=14083&lang=en"
+  ]
 }

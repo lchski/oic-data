@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1297</td><td>2007-08-11</td><td></td><td></td><td>PCO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a WRIT OF ELECTION do issue in order to fill the vacancy in the House of Commons for the electoral district of Roberval-Lac-Saint-Jean, Quebec, with polling to take place on September 17, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16998&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1297",
-  "htmlHash": "e851c44598c01009872ee59b97b17448"
+  "htmlHash": "e851c44598c01009872ee59b97b17448",
+  "attachments": [
+    "attachment.php?attach=16998&lang=en"
+  ]
 }

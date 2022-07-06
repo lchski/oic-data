@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0310</td><td>2016-05-06</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Property Assessment and Taxation (Railway Right-of-Way) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PROPERTY ASSESSMENT AND TAXATION (RAILWAY RIGHT-OF-WAY) REGULATIONS in order to (1) remove the KANAKA BAR INDIAN BAND; and (2) address one concern raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0091  <strong>Publication Date:</strong> 2016-05-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31987&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0310",
-  "htmlHash": "902743b4748739c7a2e719856972cd32"
+  "htmlHash": "902743b4748739c7a2e719856972cd32",
+  "attachments": [
+    "attachment.php?attach=31987&lang=en"
+  ]
 }

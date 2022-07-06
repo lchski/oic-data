@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1192</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the POLLUTANT DISCHARGE REPORTING REGULATIONS, 1995 which\nrequire the master or owner of a ship or the operator of an oil handling\nfacility to report any discharge or probable discharge of a marine\npollutant to a Canadian pollution prevention officer or to an appropriate\nofficial of the nearest coastal state.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0351  <strong>Publication Date:</strong> 1995-08-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1192",
-  "htmlHash": "cbf133d510818ae619713b432ef023f5"
+  "htmlHash": "cbf133d510818ae619713b432ef023f5",
+  "attachments": []
 }

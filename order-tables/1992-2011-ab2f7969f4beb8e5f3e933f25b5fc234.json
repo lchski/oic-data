@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2011</td><td>1992-09-14</td><td>0</td><td></td><td>,&nbsp; PCO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Réal Fournier, of Nepean, Ontario, as Special Returning\nOfficer for the voting territory of the Provinces of Ontario and Quebec,\nwith headquarters at Ottawa.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2011",
-  "htmlHash": "ab2f7969f4beb8e5f3e933f25b5fc234"
+  "htmlHash": "ab2f7969f4beb8e5f3e933f25b5fc234",
+  "attachments": []
 }

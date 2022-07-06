@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0353</td><td>2013-03-28</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Youth Criminal Justice Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Youth Criminal Justice Act ** Agreements **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Justice to enter into AGREEMENTS with the governments of the provinces and territories in order to continue to financially assist the provinces and territories in their delivery of a range of YOUTH SERVICES AND PROGRAMS that are consistent with federal policy objectives.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27582&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0353",
-  "htmlHash": "8dc54357ba0f75d35815a1b63687aab5"
+  "htmlHash": "8dc54357ba0f75d35815a1b63687aab5",
+  "attachments": [
+    "attachment.php?attach=27582&lang=en"
+  ]
 }

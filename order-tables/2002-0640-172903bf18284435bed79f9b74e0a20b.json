@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0640</td><td>2002-04-18</td><td>4</td><td>2002</td><td>,&nbsp; ,&nbsp; ,&nbsp; IT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, APRIL 19, 2002, as the day upon which An Act to amend\nthe Canadian Commercial Corporation Act [BILL C-41], being chapter 4 of the\nStatutes of Canada, 2002, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0077  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0640",
-  "htmlHash": "172903bf18284435bed79f9b74e0a20b"
+  "htmlHash": "172903bf18284435bed79f9b74e0a20b",
+  "attachments": []
 }

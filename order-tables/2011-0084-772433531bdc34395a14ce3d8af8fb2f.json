@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0084</td><td>2011-02-03</td><td></td><td></td><td>OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws - Nunavut\nBills # 35, 37 to 46  and 51\nSecond Session of the Third Legislative Assembly </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmittal of a copy of a number of LAWS (Bill Nos. 35, 37 to 46 and 51) made by the Legislature of NUNAVUT during the Second Session of the Third Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23733&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0084",
-  "htmlHash": "772433531bdc34395a14ce3d8af8fb2f"
+  "htmlHash": "772433531bdc34395a14ce3d8af8fb2f",
+  "attachments": [
+    "attachment.php?attach=23733&lang=en"
+  ]
 }

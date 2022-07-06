@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1261</td><td>1990-06-21</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Howard C. Jamieson, of Winsloe, Prince Edward Island, as a\ngovernor representing the Government of Prince Edward Island at the\nCouncil of the Hazardous Materials Information Review Commission to hold\noffice during good behaviour for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1261",
-  "htmlHash": "45bd8bcf43624f5671d4e2a6d15e0739"
+  "htmlHash": "45bd8bcf43624f5671d4e2a6d15e0739",
+  "attachments": []
 }

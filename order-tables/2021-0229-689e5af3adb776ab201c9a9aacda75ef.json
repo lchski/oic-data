@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0229</td><td>2021-03-26</td><td></td><td></td><td>,&nbsp; ISED,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Stony Plain &amp; District Chamber of Commerce, Alberta  ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of the STONY PLAIN &amp; DISTRICT CHAMBER OF COMMERCE, in Alberta, TO CHANGE ITS NAME to the “GREATER PARKLAND REGIONAL CHAMBER OF COMMERCE”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40412&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0229",
-  "htmlHash": "689e5af3adb776ab201c9a9aacda75ef"
+  "htmlHash": "689e5af3adb776ab201c9a9aacda75ef",
+  "attachments": [
+    "attachment.php?attach=40412&lang=en"
+  ]
 }

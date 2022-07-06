@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0367</td><td>2008-02-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TBS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Tabling in Parliament of the MAIN ESTIMATES for the fiscal year 2008-2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18200&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0367",
-  "htmlHash": "3304c241ec3c4f87df7f0e98d05ec3f9"
+  "htmlHash": "3304c241ec3c4f87df7f0e98d05ec3f9",
+  "attachments": [
+    "attachment.php?attach=18200&lang=en"
+  ]
 }

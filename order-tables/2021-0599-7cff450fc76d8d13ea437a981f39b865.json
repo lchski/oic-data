@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0599</td><td>2021-06-17</td><td>9</td><td>2019</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend certain Acts and Regulations in relation to Firearms</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 7, 2021 as the Day on Which Section 2, Subsection 4(3) and Sections 6, 8 and 15 of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 7, 2021 as the day on which certain provisions of AN ACT TO AMEND CERTAIN ACTS AND REGULATIONS IN RELATION TO FIREARMS (Bill C-71) related to enhanced background checks and safeguards related to the transportation of restricted prohibited firearms, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0035  <strong>Publication Date:</strong> 2021-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40908&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0599",
-  "htmlHash": "7cff450fc76d8d13ea437a981f39b865"
+  "htmlHash": "7cff450fc76d8d13ea437a981f39b865",
+  "attachments": [
+    "attachment.php?attach=40908&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1387</td><td>1995-08-16</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of the MACKENZIE DELTA WITHDRAWAL FROM DISPOSAL ORDER, which is\nno longer required since the implementation of the Sahtu Dene and Metis\nComprehensive Land Claim Agreement was passed.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0095  <strong>Publication Date:</strong> 1995-09-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1387",
-  "htmlHash": "05c95541ef51621ce85a10aeec4fb76a"
+  "htmlHash": "05c95541ef51621ce85a10aeec4fb76a",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1944</td><td>1994-11-22</td><td>0</td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCES\nwhich amend articles 19.26 (Redress of Grievance) and 19.27 (Rules for\nStating Grievances) in order to streamline the military grievance process.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1944",
-  "htmlHash": "8bb1a83cb9eb5a861536a1b0343987d7"
+  "htmlHash": "8bb1a83cb9eb5a861536a1b0343987d7",
+  "attachments": []
 }

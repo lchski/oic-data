@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1743</td><td>2012-12-13</td><td>16</td><td>2012</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Pooled Registered Pension Plans Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing December 14, 2012 as the Day on which the Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing December 14, 2012 as the day on which the POOLED REGISTERED PENSION PLANS ACT,chapter 16 of the Statutes of Canada, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0102  <strong>Publication Date:</strong> 2013-01-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27134&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1743",
-  "htmlHash": "f24234e7b988606dc963b30b8a154298"
+  "htmlHash": "f24234e7b988606dc963b30b8a154298",
+  "attachments": [
+    "attachment.php?attach=27134&lang=en"
+  ]
 }

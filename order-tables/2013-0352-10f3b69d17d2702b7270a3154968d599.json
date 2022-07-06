@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0352</td><td>2013-03-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Space Agency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Ontario Agreement on Geospatial Data Exchange\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Industry to enter into an AGREEMENT with Ontario in order to allow the Canadian Space Agency to become a member of the ONTARIO GEOSPATIAL DATA EXCHANGE in order to gain free access to the digital geographic data of Ontario required to implement the Canadian Space Agency‘s Stratospheric Balloon Initiative.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27581&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0352",
-  "htmlHash": "10f3b69d17d2702b7270a3154968d599"
+  "htmlHash": "10f3b69d17d2702b7270a3154968d599",
+  "attachments": [
+    "attachment.php?attach=27581&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0720</td><td>2015-05-28</td><td></td><td></td><td>DFO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ARRAN A. MCPHERSON of Ottawa, Ontario, to be a Canadian delegate to the International Council for the Exploration of the Sea, to hold office during pleasure.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31042&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0720",
-  "htmlHash": "c3fdb0a9e811072195f5be37fd761278"
+  "htmlHash": "c3fdb0a9e811072195f5be37fd761278",
+  "attachments": [
+    "attachment.php?attach=31042&lang=en"
+  ]
 }

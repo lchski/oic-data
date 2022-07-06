@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0337</td><td>2014-03-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AANDC</td></tr><tr><td>Act</td><td colspan=\"5\">Mackenzie Valley Resource Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Preliminary Screening Requirement Regulations and the Exemption List Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PRELIMINARY SCREENING REQUIREMENT REGULATIONS and the EXEMPTION LIST REGULATIONS in order to make technical amendments to the Regulations to maintain the existing requirements for preliminary screenings in the Mackenzie Valley of the Northwest Territories, despite legislative and regulatory changes made to implement the Northwest Territories Devolution Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0073  <strong>Publication Date:</strong> 2014-04-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29119&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0337",
-  "htmlHash": "aac5effa97a8fef3759c106c5d238c4a"
+  "htmlHash": "aac5effa97a8fef3759c106c5d238c4a",
+  "attachments": [
+    "attachment.php?attach=29119&lang=en"
+  ]
 }

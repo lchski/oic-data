@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0167</td><td>1992-01-23</td><td>0</td><td></td><td>,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the exchange of lands situated at ST. JOHN'S, NEWFOUNDLAND,\nbetween Her Majesty in right of Canada and the Province of Newfoundland.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0167",
-  "htmlHash": "e3ee37442ae83c3bc152a6fd9f2e618c"
+  "htmlHash": "e3ee37442ae83c3bc152a6fd9f2e618c",
+  "attachments": []
 }

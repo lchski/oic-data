@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0217</td><td>2012-03-01</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act<br>Cooperative Credit Associations Act<br>Trust and Loan Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Access to Funds Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ACCESS TO FUNDS REGULATIONS in order to reduce the maximum cheque hold period for retail depositors and small and medium sized enterprises and provide retail depositors with timelier access to the first $100 deposited by cheque.  The Cheque Holding Policy Disclosure Regulations are repealed with the coming into force of these regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0024  <strong>Publication Date:</strong> 2012-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25522&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0217",
-  "htmlHash": "dad72a5524ef4da91613fab4941c57c1"
+  "htmlHash": "dad72a5524ef4da91613fab4941c57c1",
+  "attachments": [
+    "attachment.php?attach=25522&lang=en"
+  ]
 }

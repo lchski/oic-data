@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0048</td><td>2011-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing the Reinsurance (Canadian Companies) Regulations and the Reinsurance (Foreign Companies) Regulations\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing the REINSURANCE (CANADIAN COMPANIES) REGULATIONS AND THE REINSURANCE (FOREIGN COMPANIES) REGULATIONS, in order to provide the Office of the Superintendant of Financial Institutions (OSFI) with an improved capability to address financial institutions’ risks through guidance and supervisory tools and to give greater flexibility for industry to structure operations and compete globally.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0013  <strong>Publication Date:</strong> 2011-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23698&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0048",
-  "htmlHash": "b9299e75dad8842e0509ee95459650c9"
+  "htmlHash": "b9299e75dad8842e0509ee95459650c9",
+  "attachments": [
+    "attachment.php?attach=23698&lang=en"
+  ]
 }

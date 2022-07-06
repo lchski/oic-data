@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0465</td><td>2013-04-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2013-2014</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SHIRLEY ANN BALL as Honorary Consul of Canada at Helena, Montana, United States of America, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27693&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0465",
-  "htmlHash": "2fd9aaee453f5f31c05802bb425b1e56"
+  "htmlHash": "2fd9aaee453f5f31c05802bb425b1e56",
+  "attachments": [
+    "attachment.php?attach=27693&lang=en"
+  ]
 }

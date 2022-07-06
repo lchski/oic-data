@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1304</td><td>2008-06-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Assigning the Honourable James Moore, a Minister of State to be styled Secretary of State (Asia-Pacific Gateway) (2010 Olympics) (Official Languages),  to assist the Minister of Transport with respect to the Asia-Pacific Gateway and the Minister of Canadian Heritage with respect to the 2010 Olympics and the Official Languages.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0077  <strong>Publication Date:</strong> 2008-07-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19152&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1304",
-  "htmlHash": "4575eef41435694c04fe92687111c81d"
+  "htmlHash": "4575eef41435694c04fe92687111c81d",
+  "attachments": [
+    "attachment.php?attach=19152&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0024</td><td>2021-01-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; IT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Part III of Schedule VI to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending Part III of Schedule VI to the FINANCIAL ADMINISTRATION ACT by designating Invest in Canada Hub's Chief Executive Officer as its accounting officer.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0007  <strong>Publication Date:</strong> 2021-02-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40191&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0024",
-  "htmlHash": "15e06043d67f9a33facbdcccbb47292c"
+  "htmlHash": "15e06043d67f9a33facbdcccbb47292c",
+  "attachments": [
+    "attachment.php?attach=40191&lang=en"
+  ]
 }

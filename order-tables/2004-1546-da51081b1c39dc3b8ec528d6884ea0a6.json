@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1546</td><td>2004-12-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the signature of an EXCHANGE OF LETTERS constituting an Agreement amending Annexes V and VIII of the CANADA-EUROPEAN COMMUNITY AGREEMENT ON SANITARY MEASURES TO PROTECT PUBLIC AND ANIMAL HEALTH IN RESPECT OF TRADE IN LIVE ANIMALS AND ANIMAL PRODUCTS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9009&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1546",
-  "htmlHash": "da51081b1c39dc3b8ec528d6884ea0a6"
+  "htmlHash": "da51081b1c39dc3b8ec528d6884ea0a6",
+  "attachments": [
+    "attachment.php?attach=9009&lang=en"
+  ]
 }

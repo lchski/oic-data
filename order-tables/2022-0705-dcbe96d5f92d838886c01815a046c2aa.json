@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0705</td><td>2022-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Student Financial Assistance Act<br>Apprentice Loans Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Student Financial Assistance Regulations and the Apprentice Loans Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS and the APPRENTICE LOANS REGULATIONS in order to (1) increase the Repayment Assistance Plan (RAP) zero payment threshold for family size of one from $25,000 to $40,000; (2) increase RAP zero payment thresholds for other family sizes to align with the thresholds used for Canada Student Grants for Full-Time Students; (3) index all thresholds (including the $40,000 threshold for family size of one) to the Consumer Price Index; (4) reduce the cap on the monthly affordable payment while on RAP from 20% to 10% of a borrower’s family income; and (5) align Apprentice Loan Regulations provisions with the two-year interest waiver legislation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0141  <strong>Publication Date:</strong> 2022-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42251&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0705",
-  "htmlHash": "dcbe96d5f92d838886c01815a046c2aa"
+  "htmlHash": "dcbe96d5f92d838886c01815a046c2aa",
+  "attachments": [
+    "attachment.php?attach=42251&lang=en"
+  ]
 }

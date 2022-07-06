@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1318</td><td>2011-11-17</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Interpretation and Standards 207 and 210)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (Interpretation and Standards 207 and 210), in order to 1) update the Canadian safety standards for Anchorages of Seats and Seat Belt Anchorages and amend the definition for designated seating position including wheelchair locations to improve the safety of vehicles by ensuring that occupants are provided with seat belts in all intended seating locations, 2) address comments received from the Standing Joint Committee for the scrutiny of Regulations, 3) harmonize with the requirements published in the United States on October 8, 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0264  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1318",
-  "htmlHash": "426b761e903436cef956cb72e08f5c28"
+  "htmlHash": "426b761e903436cef956cb72e08f5c28",
+  "attachments": [
+    "attachment.php?attach=25000&lang=en"
+  ]
 }

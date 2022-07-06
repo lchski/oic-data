@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1252</td><td>2001-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the SASKATCHEWAN POWER CORPORATION and\nby THE RURAL MUNICIPALITY OF BIG QUILL NO. 308 of their statutory power to\nacquire a right-of-way on BEARDY'S AND OKEMASIS INDIAN RESERVE NO. 96 &amp;\n97-A, for the purposes of power lines and for sloping and backsloping, and\n(b) granting them each an Easement for those purposes, in lieu thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1252",
-  "htmlHash": "df53c0917914d17710866f93520c6b2a"
+  "htmlHash": "df53c0917914d17710866f93520c6b2a",
+  "attachments": []
 }

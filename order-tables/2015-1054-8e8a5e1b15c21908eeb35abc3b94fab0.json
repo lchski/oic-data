@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1054</td><td>2015-06-30</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Secure Air Travel Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Secure Air Travel Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SECURE AIR TRAVEL REGULATIONS in order to ensure that Public Safety and Transport Canada can administer and enforce the Passenger Protect Program under the SECURE AIR TRAVEL ACT with respect to the verification of air passenger identity; and the use and protection of information provided to air carriers and operators of aviation reservation systems.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0181  <strong>Publication Date:</strong> 2015-07-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31382&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1054",
-  "htmlHash": "8e8a5e1b15c21908eeb35abc3b94fab0"
+  "htmlHash": "8e8a5e1b15c21908eeb35abc3b94fab0",
+  "attachments": [
+    "attachment.php?attach=31382&lang=en"
+  ]
 }

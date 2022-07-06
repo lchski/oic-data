@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0138</td><td>1999-02-04</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue giving notice that the\nPROTOCOL TO THE CONVENTION BETWEEN THE GOVERNMENT OF CANADA AND THE\nGOVERNMENT OF THE FRENCH REPUBLIC SIGNED ON MAY 2, 1975 AND AMENDED BY\nTHE PROTOCOL OF JANUARY 17, 1987, came INTO FORCE on September 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0138",
-  "htmlHash": "0b62cb59aa5c828fa925571eef751e07"
+  "htmlHash": "0b62cb59aa5c828fa925571eef751e07",
+  "attachments": []
 }

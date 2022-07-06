@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0952</td><td>2014-09-18</td><td></td><td></td><td>CRA,&nbsp; TB,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Yolande Laurence Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits the Canada child tax benefits for the 2004, 2005 and 2006 taxation years and the energy cost benefit for the 2004 taxation year to YOLANDE LAURENCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2014-0077  <strong>Publication Date:</strong> 2014-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29766&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0952",
-  "htmlHash": "fa904d530987c0a91c182e2b327f7285"
+  "htmlHash": "fa904d530987c0a91c182e2b327f7285",
+  "attachments": [
+    "attachment.php?attach=29766&lang=en"
+  ]
 }

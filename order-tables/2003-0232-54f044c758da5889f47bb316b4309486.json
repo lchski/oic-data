@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0232</td><td>2003-02-20</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1971-856 which deletes the references to Parcels A and B in Block 50, in the City of Yellowknife, N.W.T., from the description of the lands whose administration and control was thereby transferred to the Department of National Defence.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1387&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0232",
-  "htmlHash": "54f044c758da5889f47bb316b4309486"
+  "htmlHash": "54f044c758da5889f47bb316b4309486",
+  "attachments": [
+    "attachment.php?attach=1387&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0272</td><td>2017-03-24</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada – Guinea ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the AGREEMENT FOR THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS between Canada and the REPUBLIC OF GUINEA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34178&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0272",
-  "htmlHash": "df65eef59395e0e2749ede7452df7a12"
+  "htmlHash": "df65eef59395e0e2749ede7452df7a12",
+  "attachments": [
+    "attachment.php?attach=34178&lang=en"
+  ]
 }

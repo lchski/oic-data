@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1489</td><td>2018-11-29</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Enoch Cree Nation ** Set aside Election **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting aside the election held on July 25, 2017, of KELLY MORIN as councillor of the ENOCH CREE NATION in Alberta.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37168&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1489",
-  "htmlHash": "8efeecb6a8ee7cd3065ebd771a4638a6"
+  "htmlHash": "8efeecb6a8ee7cd3065ebd771a4638a6",
+  "attachments": [
+    "attachment.php?attach=37168&lang=en"
+  ]
 }

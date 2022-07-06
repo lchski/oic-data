@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0820</td><td>2010-06-18</td><td></td><td></td><td>ACOA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Atlantic Canada Opportunities Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ROSS McNEIL of Halifax, Nova Scotia, as a member of the Atlantic Canada Opportunities Board to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22800&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0820",
-  "htmlHash": "bb15961ba16fb058a2cb0efb2ea7d405"
+  "htmlHash": "bb15961ba16fb058a2cb0efb2ea7d405",
+  "attachments": [
+    "attachment.php?attach=22800&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0328</td><td>2001-03-01</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN D. MURPHY, of Halifax, Nova Scotia, as a Judge of the\nSupreme Court of Nova Scotia, and a Judge ex officio of the Nova Scotia\nCourt of Appeal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0328",
-  "htmlHash": "f2c08d7b3b8e3f261bba2c3569ca02a6"
+  "htmlHash": "f2c08d7b3b8e3f261bba2c3569ca02a6",
+  "attachments": []
 }

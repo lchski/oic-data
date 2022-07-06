@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0649</td><td>2014-06-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DESD,&nbsp; LAB,&nbsp; TC,&nbsp; NRCAN,&nbsp; AANDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to align these regulations which are the Canada Occupational Health and Safety Regulations, the Aviation Occupational Health and Safety Regulations, the Maritime Occupational Health and Safety Regulations, the On-Board Trains Occupational Safety and Health Regulations, the Oil and Gas Occupational Safety and Health Regulations and the Safety and Health Committees and Representatives Regulations with the amendments made to Part II of the Code, in order to avoid: (1) inconsistencies between the Code and the regulations; (2) a risk of confusion amongst stakeholders; and (3) undermining the Minister’s ability to delegate powers, duties and functions to qualified persons or class of persons.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0148  <strong>Publication Date:</strong> 2014-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0649",
-  "htmlHash": "fee21312f226c820c91cb4a03597cdb5"
+  "htmlHash": "fee21312f226c820c91cb4a03597cdb5",
+  "attachments": [
+    "attachment.php?attach=29464&lang=en"
+  ]
 }

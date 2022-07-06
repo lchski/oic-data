@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0013</td><td>2019-01-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ESDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SHIRLEY LYNN NETTEN of Ottawa, Ontario, as a part-time member of the Social Security Tribunal for the Appeal Division, to hold office during good behaviour for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37330&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0013",
-  "htmlHash": "1796f60afad05f6c6fbe5c304dd59b80"
+  "htmlHash": "1796f60afad05f6c6fbe5c304dd59b80",
+  "attachments": [
+    "attachment.php?attach=37330&lang=en"
+  ]
 }

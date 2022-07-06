@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0801</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order confirming a request made to three Members of Parliament to travel to\nKiev, Ukraine, from November 28th to December 5th, 1991, in order to\nobserve the unfolding of the referendum on the question of independence and\nthe presidential elections.\n (1) PATRICK BOYER, (2) ROSS HARVEY, and (3) Dr. REY PAGTAKHAN\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0801",
-  "htmlHash": "49ceb00a08c3795ef2752faa8dd3417a"
+  "htmlHash": "49ceb00a08c3795ef2752faa8dd3417a",
+  "attachments": []
 }

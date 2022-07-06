@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1467</td><td>2002-08-16</td><td>0</td><td></td><td>EC,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the EXPORT OF SUBSTANCES UNDER THE ROTTERDAM CONVENTION\nREGULATIONS - which are designed to ensure that chemicals and pesticides\nsubject to the Prior Informed Consent (PIC) procedure are not exported to a\nParty to the Rotterdam Convention unless it has provided its consent to the\nshipment, and establish the conditions applicable to the exportation of\nsubstances listed on Schedule 3 to the Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0317  <strong>Publication Date:</strong> 2002-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1467",
-  "htmlHash": "b0b200cc61734d9de83ff1deb5627fee"
+  "htmlHash": "b0b200cc61734d9de83ff1deb5627fee",
+  "attachments": []
 }

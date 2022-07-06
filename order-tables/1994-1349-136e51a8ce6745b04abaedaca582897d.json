@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1349</td><td>1994-08-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to sign an AGREEMENT ON TRADE AND COMMERCE between the\nCanada and the REPUBLIC OF LITHUANIA or (b) to execute and issue an\nInstrument of Full Powers authorizing either the Hon. Roy MacLaren,\nAmbassador Michael B. Phillips, or Mr. Jesse P. Flis, M.P., to sign\nthe said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1349",
-  "htmlHash": "136e51a8ce6745b04abaedaca582897d"
+  "htmlHash": "136e51a8ce6745b04abaedaca582897d",
+  "attachments": []
 }

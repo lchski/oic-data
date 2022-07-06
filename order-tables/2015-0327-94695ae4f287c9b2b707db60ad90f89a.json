@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0327</td><td>2015-03-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. NEAL W. CALDWELL to serve as ADMINISTRATOR of the Government of SASKATCHEWAN from March 28 to April 12, 2015, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30648&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0327",
-  "htmlHash": "94695ae4f287c9b2b707db60ad90f89a"
+  "htmlHash": "94695ae4f287c9b2b707db60ad90f89a",
+  "attachments": [
+    "attachment.php?attach=30648&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0270</td><td>2008-02-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MARINE MAMMAL REGULATIONS which will clarify sections 32 and 33 regarding seal fishery observation licences.  The amendments would allow additional criteria to be applied by the Minister when issuing the licenses, clarify license conditions and exceptions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0038  <strong>Publication Date:</strong> 2008-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18082&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0270",
-  "htmlHash": "bc1b6a2b96c7ecd19642fd568704681b"
+  "htmlHash": "bc1b6a2b96c7ecd19642fd568704681b",
+  "attachments": [
+    "attachment.php?attach=18082&lang=en"
+  ]
 }

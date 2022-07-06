@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1172</td><td>2005-06-09</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of FRIEDA MARTSELOS of Fort Smith, Northwest Territories, as a member of the National Capital Commission to hold office during pleasure for a term of three years, in the place of Ruth A. Spence.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11624&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1172",
-  "htmlHash": "5e87ed1f3797a2b92844b274c11b8217"
+  "htmlHash": "5e87ed1f3797a2b92844b274c11b8217",
+  "attachments": [
+    "attachment.php?attach=11624&lang=en"
+  ]
 }

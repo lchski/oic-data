@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1138</td><td>1993-06-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for the conclusion of a number of transactions\npertaining to the transfer from the CANADIAN NATIONAL RAILWAY COMPANY to\nthe ONTARIO NORTHLAND TRANSPORTATION COMMISSION (ONTC) of that portion of\nthe National Transcontinental Railway between Cochrane and Calstock in\nNorthern Ontario, commonly known as the \"NORTHLINE\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1138",
-  "htmlHash": "031b1e4c46210e71fff497d017b70775"
+  "htmlHash": "031b1e4c46210e71fff497d017b70775",
+  "attachments": []
 }

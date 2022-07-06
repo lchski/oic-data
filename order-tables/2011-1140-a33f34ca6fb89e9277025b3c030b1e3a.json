@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1140</td><td>2011-09-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CRA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act<br>Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Bela Revi Tax Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits a portion of income tax and all relevant interest paid or payable thereon, by BELA REVI in respect of the 2008 taxation year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0083  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24816&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1140",
-  "htmlHash": "a33f34ca6fb89e9277025b3c030b1e3a"
+  "htmlHash": "a33f34ca6fb89e9277025b3c030b1e3a",
+  "attachments": [
+    "attachment.php?attach=24816&lang=en"
+  ]
 }

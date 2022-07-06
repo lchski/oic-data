@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1137</td><td>1999-06-17</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 107.5 hectares of land situated in Saskatchewan,\nmines and minerals included, for the use and benefit of the WITCHEKAN LAKE\nBAND as an addition to Witchekan Lake Indian Reserve No. 117.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1137",
-  "htmlHash": "c9b1cff6244259d16ae5b807dd50e5fd"
+  "htmlHash": "c9b1cff6244259d16ae5b807dd50e5fd",
+  "attachments": []
 }

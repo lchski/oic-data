@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0760</td><td>1992-04-14</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of William M.\nThompson, of Saint John, New Brunswick, as a director of the board of\ndirectors of the Saint John Port Corporation to hold office during\npleasure for a term of three years, in the place of Edgar R. Cohen,\nwhose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0760",
-  "htmlHash": "9c047f832a0639f4ffd973915aa3a1e7"
+  "htmlHash": "9c047f832a0639f4ffd973915aa3a1e7",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0057</td><td>2005-02-01</td><td></td><td></td><td>,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Personal Information Protection and Electronic Documents Act<br>Canada Evidence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SECURE ELECTRONIC SIGNATURE REGULATIONS which prescribe the digital signature technology and the processes that meet the characteristics of secure electronic signatures under the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0030  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9318&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0057",
-  "htmlHash": "055d4ef5fdfad95a12b0ec5f4ec35d76"
+  "htmlHash": "055d4ef5fdfad95a12b0ec5f4ec35d76",
+  "attachments": [
+    "attachment.php?attach=9318&lang=en"
+  ]
 }

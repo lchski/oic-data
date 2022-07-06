@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0215</td><td>2014-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KEITH IAN MUNRO HEMING, C.M., Q.C. of Winnipeg, Manitoba, as a part-time member of the Prairies Regional Division of the Parole Board of Canada to hold office during good behaviour for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29013&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0215",
-  "htmlHash": "dc4d4587b8ec06168a8025bd6f85fdd6"
+  "htmlHash": "dc4d4587b8ec06168a8025bd6f85fdd6",
+  "attachments": [
+    "attachment.php?attach=29013&lang=en"
+  ]
 }

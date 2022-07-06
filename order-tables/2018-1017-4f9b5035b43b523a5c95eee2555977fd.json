@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1017</td><td>2018-07-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Duties Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Transferring from the Minister of Canadian Heritage to the Minister of La Francophonie the powers, duties and functions of the Minister of Canadian Heritage under the OFFICIAL LANGUAGES ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0072  <strong>Publication Date:</strong> 2018-08-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36703&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1017",
-  "htmlHash": "4f9b5035b43b523a5c95eee2555977fd"
+  "htmlHash": "4f9b5035b43b523a5c95eee2555977fd",
+  "attachments": [
+    "attachment.php?attach=36703&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1036</td><td>2007-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act (Removal Allowance) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION EXPENSES may be reimbursed to The Hon. WYMAN W. WEBB, who was required to relocate following his appointment to the Tax Court of Canada on November 22, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16720&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1036",
-  "htmlHash": "e78894540b1eb9bc6b502d55f4b8668c"
+  "htmlHash": "e78894540b1eb9bc6b502d55f4b8668c",
+  "attachments": [
+    "attachment.php?attach=16720&lang=en"
+  ]
 }

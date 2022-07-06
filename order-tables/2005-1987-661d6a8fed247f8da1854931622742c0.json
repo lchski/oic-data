@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1987</td><td>2005-11-15</td><td></td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PRICE WATERHOUSE COOPERS, CHARTERED ACCOUNTANTS, of Ottawa, Ontario, as auditor of Atomic Energy of Canada Limited for the year beginning April 1, 2006; and appointment of the AUDITOR GENERAL OF CANADA as joint auditor of Atomic Energy of Canada Limited for the year beginning April 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13769&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1987",
-  "htmlHash": "661d6a8fed247f8da1854931622742c0"
+  "htmlHash": "661d6a8fed247f8da1854931622742c0",
+  "attachments": [
+    "attachment.php?attach=13769&lang=en"
+  ]
 }

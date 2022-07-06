@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0055</td><td>2018-02-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Relinquishement of the administration and control from the Commissioner of Northwest Territories</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the RELINQUISHMENT in perpetuity, by the Commissioner of Northwest Territories, of the administration and control of the surface and subsurface rights of 46 parcels of land and 3 unnumbered roads, being reserve lands associated with the Salt River First Nation located in the community of Fort Smith in the Northwest Territories, pursuant to section 53 of the NORTHWEST TERRITORIES ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35716&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0055",
-  "htmlHash": "38ca72b2458400f0dd59eb78663645f0"
+  "htmlHash": "38ca72b2458400f0dd59eb78663645f0",
+  "attachments": [
+    "attachment.php?attach=35716&lang=en"
+  ]
 }

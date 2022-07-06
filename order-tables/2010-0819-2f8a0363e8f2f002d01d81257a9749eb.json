@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0819</td><td>2010-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS</td></tr><tr><td>Act</td><td colspan=\"5\">Payments in Lieu of Taxes Act<br>Payments in Lieu of Taxes Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN ERIC JACOBSEN of Iqaluit, Nunavut, JIM WHITE of Yellowknife, Northwest Territories and LAUCHLIN R. MacDONALD of Yellowknife, Northwest Territories as members of the Payments in Lieu of Taxes Dispute Advisory Panel to hold office during good behaviour for a term of three years, and appointment of JACQUES LAFLAMME of Ottawa, Ontario, ROBERT PAUL TCHEGUS of Kingston, Ontario, JOEL W. LAPOINTE of Fredericton, New Brunswick, NEIL K. TEDSTONE of St. John's, Newfoundland and Labrador, JAMES H. YAMADA of Whitehorse, Yukon and ALETTA ANNE KING of Whitehorse, Yukon, to be members of the Payments in Lieu of Taxes Dispute Advisory Panel to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22798&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=22799&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0819",
-  "htmlHash": "2f8a0363e8f2f002d01d81257a9749eb"
+  "htmlHash": "2f8a0363e8f2f002d01d81257a9749eb",
+  "attachments": [
+    "attachment.php?attach=22798&lang=en",
+    "attachment.php?attach=22799&lang=en"
+  ]
 }

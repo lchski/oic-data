@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0710</td><td>2007-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GREAT LAKES PILOTAGE  REGULATIONS by making it compulsory for slow-moving ships passing through International District No. 1 to exchange pilots at Iroquois Lock, and by capitalizing the letter L in all references to the Grands Lacs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0095  <strong>Publication Date:</strong> 2007-05-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16405&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0710",
-  "htmlHash": "0fb00f6f3cffffc11f1154c5a8479aa2"
+  "htmlHash": "0fb00f6f3cffffc11f1154c5a8479aa2",
+  "attachments": [
+    "attachment.php?attach=16405&lang=en"
+  ]
 }

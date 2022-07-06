@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1240</td><td>2009-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Chipewyan First Nation - Alberta ** Setting Apart of Lands ** 13.562 hectares\n LED-08-87</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of 13.562 hectares of land, mines and minerals included, for the use and benefit of the Athabasca Chipewyan First Nation, as additions to Chipewyan Indian Reserve No. 201A and Chipewyan Indian Reserve No. 201E, in Alberta</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21095&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1240",
-  "htmlHash": "7ca48689fa608e9c2cb50626a2ddef84"
+  "htmlHash": "7ca48689fa608e9c2cb50626a2ddef84",
+  "attachments": [
+    "attachment.php?attach=21095&lang=en"
+  ]
 }

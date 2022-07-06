@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1086</td><td>2009-06-19</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN WALTER of Toronto, Ontario, to be Executive Director of the Standards Council of Canada to hold office during pleasure for a term of four years, effective September 21, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20958&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1086",
-  "htmlHash": "b65642d39741fb90981eacdc6260e53d"
+  "htmlHash": "b65642d39741fb90981eacdc6260e53d",
+  "attachments": [
+    "attachment.php?attach=20958&lang=en"
+  ]
 }

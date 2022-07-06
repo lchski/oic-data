@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2059</td><td>2002-12-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ANDRÉ GOSSELIN of Sainte-Foy, Quebec, to be a member of the National Research Council of Canada to hold office during pleasure for a term of three years, effective February 1, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=524&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2059",
-  "htmlHash": "074b7ad04f281ac084af67f5ee534016"
+  "htmlHash": "074b7ad04f281ac084af67f5ee534016",
+  "attachments": [
+    "attachment.php?attach=524&lang=en"
+  ]
 }

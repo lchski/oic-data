@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0675</td><td>2015-05-28</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DEBORAH ANN GRACE MORRISH of Toronto, Ontario, as a full-time member of the Immigration and Refugee Board of Canada (Toronto Regional Office), to hold office during good behaviour for a term of four years; and designation of DEBORAH ANN GRACE MORRISH to be Assistant Deputy Chairperson of the Immigration and Refugee Board of Canada (Toronto Regional Office), effective September 1, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30996&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0675",
-  "htmlHash": "d630eb91aaeded543c8f994df0272695"
+  "htmlHash": "d630eb91aaeded543c8f994df0272695",
+  "attachments": [
+    "attachment.php?attach=30996&lang=en"
+  ]
 }

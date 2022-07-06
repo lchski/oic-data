@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0132</td><td>2001-01-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a SUPPLEMENTARY AGREEMENT to amend the CANADA -\nSASKATCHEWAN IMMIGRATION AGREEMENT in order to extend the duration of the\nProvincial Nominee Pilot Project and to increase the number of people that\ncan be nominated by the province over the term of the extension.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0132",
-  "htmlHash": "ff0c5c8f358b1791026f893c9a7d6247"
+  "htmlHash": "ff0c5c8f358b1791026f893c9a7d6247",
+  "attachments": []
 }

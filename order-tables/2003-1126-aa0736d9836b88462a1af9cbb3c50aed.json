@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1126</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister for International Trade, the Minister of Agriculture and Agri-Food, or other officials with full powers to sign an AGREEMENT between CANADA and the EUROPEAN COMMUNITY on TRADE IN WINES AND SPIRIT DRINKS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3240&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1126",
-  "htmlHash": "aa0736d9836b88462a1af9cbb3c50aed"
+  "htmlHash": "aa0736d9836b88462a1af9cbb3c50aed",
+  "attachments": [
+    "attachment.php?attach=3240&lang=en"
+  ]
 }

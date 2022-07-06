@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0970</td><td>2002-06-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or to invest\nother officials with full powers and authority to sign the INTERNATIONAL\nTREATY ON PLANT GENETIC RESOURCES FOR FOOD AND AGRICULTURE, done at Rome on\nNovember 3, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0970",
-  "htmlHash": "27600c7b0033f85044f9cb9942ecaed1"
+  "htmlHash": "27600c7b0033f85044f9cb9942ecaed1",
+  "attachments": []
 }

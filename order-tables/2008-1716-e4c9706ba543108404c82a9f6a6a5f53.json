@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1716</td><td>2008-10-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Honourable ROB MERRIFIELD, MINISTER OF STATE (TRANSPORT), to assist the Minister of Transport with his responsibilities in respect of Crown Corporations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0122  <strong>Publication Date:</strong> 2008-11-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19590&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1716",
-  "htmlHash": "e4c9706ba543108404c82a9f6a6a5f53"
+  "htmlHash": "e4c9706ba543108404c82a9f6a6a5f53",
+  "attachments": [
+    "attachment.php?attach=19590&lang=en"
+  ]
 }

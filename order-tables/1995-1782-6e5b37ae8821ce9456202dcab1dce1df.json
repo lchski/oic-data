@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1782</td><td>1995-10-24</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1995-1317 which will make DR. NILO JOHN\nFABBRO a member of the medical panel of the CANADA PENSION PLAN REVIEW\nTRIBUNAL for the region of Sault Ste. Marie, instead of a general panel\nmember.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1782",
-  "htmlHash": "6e5b37ae8821ce9456202dcab1dce1df"
+  "htmlHash": "6e5b37ae8821ce9456202dcab1dce1df",
+  "attachments": []
 }

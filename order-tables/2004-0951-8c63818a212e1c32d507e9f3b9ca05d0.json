@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0951</td><td>2004-09-01</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the CANADIAN PASSPORT ORDER by making provision (a) for the Passport Office to implement a new biometric identification system; and (b) for the Minister to revoke a passport in the interests of national security or to refuse to issue one on that basis.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0113  <strong>Publication Date:</strong> 2004-09-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7718&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0951",
-  "htmlHash": "8c63818a212e1c32d507e9f3b9ca05d0"
+  "htmlHash": "8c63818a212e1c32d507e9f3b9ca05d0",
+  "attachments": [
+    "attachment.php?attach=7718&lang=en"
+  ]
 }

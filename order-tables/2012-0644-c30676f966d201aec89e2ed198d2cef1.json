@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0644</td><td>2012-05-17</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">No. 148 - (Yukon - Village of Mayo) Provincial Emergencies Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER N° 148 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the territory of YUKON with respect to the FLOOD that affected the village of Mayo between December 13 and 20, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26070&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0644",
-  "htmlHash": "c30676f966d201aec89e2ed198d2cef1"
+  "htmlHash": "c30676f966d201aec89e2ed198d2cef1",
+  "attachments": [
+    "attachment.php?attach=26070&lang=en"
+  ]
 }

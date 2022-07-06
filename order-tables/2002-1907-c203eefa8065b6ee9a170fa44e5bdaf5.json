@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1907</td><td>2002-11-07</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to JOAN COLLINS WARREN, widow of the Hon. Ronald Bartlett Warren, a retired Judge of the Ontario Court of Justice (General Division), who died on September 8, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=337&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1907",
-  "htmlHash": "c203eefa8065b6ee9a170fa44e5bdaf5"
+  "htmlHash": "c203eefa8065b6ee9a170fa44e5bdaf5",
+  "attachments": [
+    "attachment.php?attach=337&lang=en"
+  ]
 }

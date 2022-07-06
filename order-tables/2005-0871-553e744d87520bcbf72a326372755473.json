@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0871</td><td>2005-05-12</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of KATHERINE JOYCE SCHULTZ of Stratford, Prince Edward Island, to be a member of the National Research Council of Canada to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10849&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0871",
-  "htmlHash": "553e744d87520bcbf72a326372755473"
+  "htmlHash": "553e744d87520bcbf72a326372755473",
+  "attachments": [
+    "attachment.php?attach=10849&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0268</td><td>2011-03-03</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Patent Rules</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the PATENT RULES, to accelerate the prosecution of patent applications relating to ENVIRONMENTAL (GREEN) TECHNOLOGIES within the Canadian intellectual property system in order to expedite commercialization of technologies that could help to resolve or mitigate environmental impacts or to conserve the natural environment and resources (green technologies).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0061  <strong>Publication Date:</strong> 2011-03-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24031&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0268",
-  "htmlHash": "ce7eef5bf281f9f2d8a070aef6833d57"
+  "htmlHash": "ce7eef5bf281f9f2d8a070aef6833d57",
+  "attachments": [
+    "attachment.php?attach=24031&lang=en"
+  ]
 }

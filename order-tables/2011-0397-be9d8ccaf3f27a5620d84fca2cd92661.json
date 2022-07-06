@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0397</td><td>2011-03-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2009</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Extending Export Development Canada's Temporary Domestic Powers</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order extending EXPORT DEVELOPMENT CANADA'S TEMPORARY DOMESTIC POWERS until March 12, 2012.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0066  <strong>Publication Date:</strong> 2011-03-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24059&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0397",
-  "htmlHash": "be9d8ccaf3f27a5620d84fca2cd92661"
+  "htmlHash": "be9d8ccaf3f27a5620d84fca2cd92661",
+  "attachments": [
+    "attachment.php?attach=24059&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0098</td><td>1997-01-28</td><td>0</td><td></td><td>,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE CROWN CORPORATION GRANTS REGULATIONS which\nauthorize Crown Corporations to retroactively implement the principles of\nthe Economic and Fiscal Statement tabled in Parliament on December 2, 1992,\nwhich froze grants-in-lieu of taxes for 1993 at the level for 1992.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0103  <strong>Publication Date:</strong> 1997-02-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0098",
-  "htmlHash": "3f0ef08203bd2d9e92b8c2f932486bb5"
+  "htmlHash": "3f0ef08203bd2d9e92b8c2f932486bb5",
+  "attachments": []
 }

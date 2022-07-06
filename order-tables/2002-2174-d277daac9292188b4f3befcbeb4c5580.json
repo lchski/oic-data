@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2174</td><td>2002-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue giving notice that the AGREEMENT ON SOCIAL SECURITY between Canada and the CZECH REPUBLIC is in force as of January 1, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=669&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2174",
-  "htmlHash": "d277daac9292188b4f3befcbeb4c5580"
+  "htmlHash": "d277daac9292188b4f3befcbeb4c5580",
+  "attachments": [
+    "attachment.php?attach=669&lang=en"
+  ]
 }

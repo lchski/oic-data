@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0537</td><td>2004-05-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Agriculture and Agri-Food Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA - NUNAVUT IMPLEMENTATION AGREEMENT for the purpose of implementing the Federal-Provincial-Territorial Framework Agreement on Agricultural and Agri-Food Policy for the Twenty-First Century.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6825&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0537",
-  "htmlHash": "03e10e75e39af685c375f98bcb2c8ffa"
+  "htmlHash": "03e10e75e39af685c375f98bcb2c8ffa",
+  "attachments": [
+    "attachment.php?attach=6825&lang=en"
+  ]
 }

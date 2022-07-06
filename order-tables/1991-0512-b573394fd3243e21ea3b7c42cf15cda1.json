@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0512</td><td>1991-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for Ambassador MARY VANDENHOFF or Mr. C.C. CHARLAND, Counsellor\nand Consul, to sign an EXCHANGE OF NOTES with the Government of the\nRepublic of FINLAND constituting an Agreement regarding the retransfer of\nspecified nuclear material.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0512",
-  "htmlHash": "b573394fd3243e21ea3b7c42cf15cda1"
+  "htmlHash": "b573394fd3243e21ea3b7c42cf15cda1",
+  "attachments": []
 }

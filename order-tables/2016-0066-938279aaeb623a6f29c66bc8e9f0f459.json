@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0066</td><td>2016-02-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISED,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Small Business Financing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Small Business Financing Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA SMALL BUSINESS FINANCING REGULATIONS in order to (1) extend the term of Canada Small Business Financing Program loans for real property from 10 to 15 years; (2) extend the claim submission deadline from 36 to 60 months; (3) simplify leasehold improvement loans where the borrower and landlord are not at arm’s length; (4) amend the Canada Small Business Financing Regulations to reflect recent changes to the Canada Small Business Financing Act with respect to the maximum loan amount for real property; and (5) correct an existing reference error.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0018  <strong>Publication Date:</strong> 2016-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31741&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0066",
-  "htmlHash": "938279aaeb623a6f29c66bc8e9f0f459"
+  "htmlHash": "938279aaeb623a6f29c66bc8e9f0f459",
+  "attachments": [
+    "attachment.php?attach=31741&lang=en"
+  ]
 }

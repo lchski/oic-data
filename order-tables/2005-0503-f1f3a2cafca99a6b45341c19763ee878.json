@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0503</td><td>2005-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be conducted of the investment by Dr. GUNNAR K.A. NJALSSON to establish a new Canadian business carried on by SPACEPOL Éditeurs Universitaires Academic Publishers Co., in Québec, Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10214&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0503",
-  "htmlHash": "f1f3a2cafca99a6b45341c19763ee878"
+  "htmlHash": "f1f3a2cafca99a6b45341c19763ee878",
+  "attachments": [
+    "attachment.php?attach=10214&lang=en"
+  ]
 }

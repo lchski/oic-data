@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1532</td><td>2000-10-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the issuance by the National Energy Board of a Certificate of\nPublic Convenience and Necessity (No. GC-103) to AEC SUFFIELD GAS PIPELINE\nINC. for the construction and operation of a natural gas pipeline system in\nAlberta.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1532",
-  "htmlHash": "351602f5940c5c0dd38d2b613870a428"
+  "htmlHash": "351602f5940c5c0dd38d2b613870a428",
+  "attachments": []
 }

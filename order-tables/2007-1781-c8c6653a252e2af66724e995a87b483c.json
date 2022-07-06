@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1781</td><td>2007-11-22</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a CONTRIBUTION AGREEMENT WITH THE GOVERNMENT OF NUNAVUT FOR THE IMMIGRATION PORTAL for the purpose of facilitating and co-ordinating the implementation of on-line information, tools and services for immigrants.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17548&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1781",
-  "htmlHash": "c8c6653a252e2af66724e995a87b483c"
+  "htmlHash": "c8c6653a252e2af66724e995a87b483c",
+  "attachments": [
+    "attachment.php?attach=17548&lang=en"
+  ]
 }

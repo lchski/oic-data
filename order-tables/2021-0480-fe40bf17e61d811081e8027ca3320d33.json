@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0480</td><td>2021-06-01</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DENIS LÉVESQUE of Dollard-des-Ormeaux, Quebec, as a part-time member of the Quebec Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective July 3, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40688&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0480",
-  "htmlHash": "fe40bf17e61d811081e8027ca3320d33"
+  "htmlHash": "fe40bf17e61d811081e8027ca3320d33",
+  "attachments": [
+    "attachment.php?attach=40688&lang=en"
+  ]
 }

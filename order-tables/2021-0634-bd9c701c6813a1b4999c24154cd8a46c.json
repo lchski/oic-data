@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0634</td><td>2021-06-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Labour Standards Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA LABOUR STANDARDS REGULATIONS in order to increase the maximum length of the leave related to COVID-19 under the Canada Labour Code to align with the changes to the Canada Recovery Caregiving Benefit (CRCB).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0163  <strong>Publication Date:</strong> 2021-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40933&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0634",
-  "htmlHash": "bd9c701c6813a1b4999c24154cd8a46c"
+  "htmlHash": "bd9c701c6813a1b4999c24154cd8a46c",
+  "attachments": [
+    "attachment.php?attach=40933&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1378</td><td>1992-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to extend the duration of the SPECIALIZED COUNSELLING ASSISTANCE\nGRANT PROGRAM until March 31, 1994, in order to continue to assist farmers\nin financial difficulty.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1378",
-  "htmlHash": "f52cec6ad26175a0ac9bc33ae48035cb"
+  "htmlHash": "f52cec6ad26175a0ac9bc33ae48035cb",
+  "attachments": []
 }

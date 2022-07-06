@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1585</td><td>2012-11-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Firearms Marking Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the FIREARMS MARKING REGULATIONS in order communicate that the existing Firearms Marking Regulations under the Firearms Act, scheduled to COME INTO FORCE on December 1, 2012, are being deferred.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0251  <strong>Publication Date:</strong> 2012-12-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27036&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1585",
-  "htmlHash": "f43e712d733cb3312f16a1720283549a"
+  "htmlHash": "f43e712d733cb3312f16a1720283549a",
+  "attachments": [
+    "attachment.php?attach=27036&lang=en"
+  ]
 }

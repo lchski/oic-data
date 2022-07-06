@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0534</td><td>1991-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement with the GOVERNMENT OF NEWFOUNDLAND\nconcerning the funding of a cost-shared research study into the movement of\ncaribou herds in Labrador.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0534",
-  "htmlHash": "aca0046b7878427e6c2af22ec32a57c4"
+  "htmlHash": "aca0046b7878427e6c2af22ec32a57c4",
+  "attachments": []
 }

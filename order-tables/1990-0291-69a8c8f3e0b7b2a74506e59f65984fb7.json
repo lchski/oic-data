@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0291</td><td>1990-02-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of New Brunswick of the\nadministration and control over a piece of land situate in the Village\nof Doaktown that contains an area of some 4,025 square metres, together\nwith the one-storey building erected thereon, which are to be used as an\nR.C.M.P. detachment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0291",
-  "htmlHash": "69a8c8f3e0b7b2a74506e59f65984fb7"
+  "htmlHash": "69a8c8f3e0b7b2a74506e59f65984fb7",
+  "attachments": []
 }

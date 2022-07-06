@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1253</td><td>2019-08-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GRAEME CLARK as Ambassador Extraordinary and Plenipotentiary of Canada to the United Mexican States; MICHAEL ELLIOTT as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Mali; RALPH JANSEN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Peru, with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Plurinational State of Bolivia, with residence in Lima; CAROL MCQUEEN as Ambassador Extraordinary and Plenipotentiary of Canada to Burkina Faso; and AYESHA REKHI as Ambassador Extraordinary and Plenipotentiary of Canada to the Czech Republic.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38598&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1253",
-  "htmlHash": "d1b40dd4117cc9e65bc0560629e442e9"
+  "htmlHash": "d1b40dd4117cc9e65bc0560629e442e9",
+  "attachments": [
+    "attachment.php?attach=38598&lang=en"
+  ]
 }

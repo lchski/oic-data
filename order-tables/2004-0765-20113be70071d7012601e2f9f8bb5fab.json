@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0765</td><td>2004-06-18</td><td></td><td></td><td>TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the CORPORATE PLAN of PARC DOWNSVIEW PARK INC. for the 2003-2004 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7267&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0765",
-  "htmlHash": "20113be70071d7012601e2f9f8bb5fab"
+  "htmlHash": "20113be70071d7012601e2f9f8bb5fab",
+  "attachments": [
+    "attachment.php?attach=7267&lang=en"
+  ]
 }

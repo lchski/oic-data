@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0509</td><td>2005-04-05</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the HAMPTON AREA CHAMBER OF COMMERCE, Province of New Brunswick, to change the boundaries of its district.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10228&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0509",
-  "htmlHash": "f0ad389ab64fc2c0ab43fca273e8096c"
+  "htmlHash": "f0ad389ab64fc2c0ab43fca273e8096c",
+  "attachments": [
+    "attachment.php?attach=10228&lang=en"
+  ]
 }

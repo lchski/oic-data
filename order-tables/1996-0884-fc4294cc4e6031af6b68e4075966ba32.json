@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0884</td><td>1996-06-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer of food inspection activities from the Dept. of National Health\nand Welfare to the Dept. of Agriculture and Agri-Food and transfer of food\nsafety policy activities from the Dept. of Agriculture and Agri-Food to the\nDept. of National Health and Welfare.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0052  <strong>Publication Date:</strong> 1996-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0884",
-  "htmlHash": "fc4294cc4e6031af6b68e4075966ba32"
+  "htmlHash": "fc4294cc4e6031af6b68e4075966ba32",
+  "attachments": []
 }

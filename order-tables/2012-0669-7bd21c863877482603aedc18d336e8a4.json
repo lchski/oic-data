@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0669</td><td>2012-05-31</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KENNETH MARSH of Okotoks, Alberta, a taxpayer using reserve lands for utility purposes, as a commissioner of the First Nations Tax Commission, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26121&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0669",
-  "htmlHash": "7bd21c863877482603aedc18d336e8a4"
+  "htmlHash": "7bd21c863877482603aedc18d336e8a4",
+  "attachments": [
+    "attachment.php?attach=26121&lang=en"
+  ]
 }

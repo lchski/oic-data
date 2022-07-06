@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1390</td><td>2004-11-23</td><td>10</td><td>2004</td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Sex Offender Information Registration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 15, 2004 as the day on which this Act [BILL C-16], being chapter 10 of the Statutes of Canada, 2004, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0157  <strong>Publication Date:</strong> 2004-12-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8692&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1390",
-  "htmlHash": "3e43be4c76fc0cc5a12f206c5ea5dcec"
+  "htmlHash": "3e43be4c76fc0cc5a12f206c5ea5dcec",
+  "attachments": [
+    "attachment.php?attach=8692&lang=en"
+  ]
 }

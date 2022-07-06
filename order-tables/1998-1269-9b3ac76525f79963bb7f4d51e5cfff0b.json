@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1269</td><td>1998-07-15</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order exempting two provincial and one territorial government employees\nfrom the application of a number of provisions in the Public Service\nEmployment Act upon their appointment to positions in the Department of\nJustice as CHIEF FIREARMS OFFICER for Manitoba, the Northwest Territories\nand Saskatchewan.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0084  <strong>Publication Date:</strong> 1998-08-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1269",
-  "htmlHash": "9b3ac76525f79963bb7f4d51e5cfff0b"
+  "htmlHash": "9b3ac76525f79963bb7f4d51e5cfff0b",
+  "attachments": []
 }

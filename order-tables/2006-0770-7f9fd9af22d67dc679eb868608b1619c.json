@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0770</td><td>2006-08-15</td><td></td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXEMPTION ORDER FOR CERTAIN LICENCES, AUTHORIZATIONS AND DOCUMENTS (WHITE STURGEON) by providing that prohibitions under the Act do not apply to existing licences, authorizations and documents currently authorizing activities affecting the Kootenay River, Nechako River, Upper Columbia River and Upper Fraser River populations of white sturgeon for one year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0190  <strong>Publication Date:</strong> 2006-09-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14712&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0770",
-  "htmlHash": "7f9fd9af22d67dc679eb868608b1619c"
+  "htmlHash": "7f9fd9af22d67dc679eb868608b1619c",
+  "attachments": [
+    "attachment.php?attach=14712&lang=en"
+  ]
 }

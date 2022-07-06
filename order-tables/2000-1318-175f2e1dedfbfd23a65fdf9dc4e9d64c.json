@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1318</td><td>2000-08-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE CAROLE M. CONRAD, the HONOURABLE\nADELLE FRUMAN, the HONOURABLE PETER T. COSTIGAN and the HONOURABLE\nRONALD S. VEALE as Judges of the Court of Appeal of Nunavut during their\ntenure of office as Judges of their respective Court.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1318",
-  "htmlHash": "175f2e1dedfbfd23a65fdf9dc4e9d64c"
+  "htmlHash": "175f2e1dedfbfd23a65fdf9dc4e9d64c",
+  "attachments": []
 }

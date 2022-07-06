@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0489</td><td>2020-06-25</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Student Financial Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Student Financial Assistance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS in order to (1) support low and middle-income students to better afford the cost of post-secondary education for the 2020-21 loan year (August 1, 2020 – July 31, 2021) given the immediate economic impacts they are facing from the COVID-19 pandemic; and (2) ensure that borrowers who are resuming their regular repayment arrangements at the end of the repayment moratorium will not be adversely impacted.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0144  <strong>Publication Date:</strong> 2020-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39440&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0489",
-  "htmlHash": "9caf1b550ee012836f26dbd048f64572"
+  "htmlHash": "9caf1b550ee012836f26dbd048f64572",
+  "attachments": [
+    "attachment.php?attach=39440&lang=en"
+  ]
 }

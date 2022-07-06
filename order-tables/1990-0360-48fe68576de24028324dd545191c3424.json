@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0360</td><td>1990-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to John A. Clarke and Darlene P.M. Clarke of a surplus real property\nsituate at 58 Leddy Crescent, in the City of Saskatoon, Saskatchewan,\nwhich consists of some 625.52 square metres of land and the former\nR.C.M.P. residential quarters erected thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0360",
-  "htmlHash": "48fe68576de24028324dd545191c3424"
+  "htmlHash": "48fe68576de24028324dd545191c3424",
+  "attachments": []
 }

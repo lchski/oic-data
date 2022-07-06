@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1424</td><td>2003-09-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be undertaken of the investment by Investima 10 to acquire control of the Canadian business carried on by VUP Services Canada Inc. at Montréal, Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4032&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1424",
-  "htmlHash": "5b45e1669a4fb64094d5e249ef3b448a"
+  "htmlHash": "5b45e1669a4fb64094d5e249ef3b448a",
+  "attachments": [
+    "attachment.php?attach=4032&lang=en"
+  ]
 }

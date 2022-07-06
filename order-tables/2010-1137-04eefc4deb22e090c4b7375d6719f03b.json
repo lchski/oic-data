@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1137</td><td>2010-09-23</td><td>28</td><td>2008</td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2008</td></tr><tr><td>Subject</td><td colspan=\"5\">Order briging into force paragraph 4(a) of the Canada Employment Insurance Financing Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order bringing INTO FORCE paragraph 4(a) of the Canada Employment Insurance Financing Board Act, as enacted by section 121 of the Budget Implementation Act, 2008, and sections 122, 124, 126 to 128, 130 132, and 133 of the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0074  <strong>Publication Date:</strong> 2010-10-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23118&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1137",
-  "htmlHash": "04eefc4deb22e090c4b7375d6719f03b"
+  "htmlHash": "04eefc4deb22e090c4b7375d6719f03b",
+  "attachments": [
+    "attachment.php?attach=23118&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1934</td><td>2008-12-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the PROVINCE OF BRITISH COLUMBIA of the entire residual interest held by Canada in certain federal Crown land, including former Tsawwassen Indian Reserve land.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19808&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1934",
-  "htmlHash": "7f9485e2abce1c3ff841e088e927a895"
+  "htmlHash": "7f9485e2abce1c3ff841e088e927a895",
+  "attachments": [
+    "attachment.php?attach=19808&lang=en"
+  ]
 }

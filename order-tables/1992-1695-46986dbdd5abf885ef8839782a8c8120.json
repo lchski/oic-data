@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1695</td><td>1992-07-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PCO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mr. PERRY BARNHART, of R.R. 2 Lakeshore Road, Lowbanks,\nOntario, as the RETURNING OFFICER for the electoral district of\nHALDIMAND -- NORFOLK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1695",
-  "htmlHash": "46986dbdd5abf885ef8839782a8c8120"
+  "htmlHash": "46986dbdd5abf885ef8839782a8c8120",
+  "attachments": []
 }

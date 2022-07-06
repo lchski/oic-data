@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0037</td><td>2012-02-02</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Tsahaheh Indian Reserve No. 1, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart for the use and benefit of the TSESHAHT INDIAN BAND as an addition to TSAHAHEH INDIAN RESERVE No. 1, of approximately 9.181 hectares (22.686 acres) of land in British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0037",
-  "htmlHash": "2f1bb1eb327061343ae9bfe4b1640f64"
+  "htmlHash": "2f1bb1eb327061343ae9bfe4b1640f64",
+  "attachments": [
+    "attachment.php?attach=25455&lang=en"
+  ]
 }

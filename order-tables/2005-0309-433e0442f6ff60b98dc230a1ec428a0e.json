@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0309</td><td>2005-03-08</td><td></td><td></td><td>TB,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer from Her Majesty in Right of the PROVINCE OF QUEBEC, of the administration and control of seven beach and deep water lots for the operation and maintenance of exiting small craft harbours facilities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9809&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0309",
-  "htmlHash": "433e0442f6ff60b98dc230a1ec428a0e"
+  "htmlHash": "433e0442f6ff60b98dc230a1ec428a0e",
+  "attachments": [
+    "attachment.php?attach=9809&lang=en"
+  ]
 }

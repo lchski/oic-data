@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0751</td><td>2017-06-15</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MICHAEL F. CROWLEY of Kingston, Ontario as a part-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of six months.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34657&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0751",
-  "htmlHash": "cf564afff371e4ad66af81899fa0c193"
+  "htmlHash": "cf564afff371e4ad66af81899fa0c193",
+  "attachments": [
+    "attachment.php?attach=34657&lang=en"
+  ]
 }

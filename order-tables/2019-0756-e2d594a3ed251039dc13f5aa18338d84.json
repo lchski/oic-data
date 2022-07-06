@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0756</td><td>2019-06-09</td><td></td><td></td><td>ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding a Toxic Substance to Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ADDING A TOXIC SUBSTANCE TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (CEPA) in order to enable the Government to propose risk management measures under CEPA to manage potential environmental risks associated with cobalt and soluble cobalt compounds.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0197  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38083&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0756",
-  "htmlHash": "e2d594a3ed251039dc13f5aa18338d84"
+  "htmlHash": "e2d594a3ed251039dc13f5aa18338d84",
+  "attachments": [
+    "attachment.php?attach=38083&lang=en"
+  ]
 }

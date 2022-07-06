@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2054</td><td>1990-09-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Leasing to OMNI BUSINESS PARK INC., for a term of forty (40) years, of\nsome 26,110 square metres of land situate on the grounds of Regina\nAirport, in the City of Regina, Saskatchewan, which are to be used as the\nsite for the construction of industrial buildings and office buildings.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2054",
-  "htmlHash": "86911c3a41e0178a88a1d89e628451f4"
+  "htmlHash": "86911c3a41e0178a88a1d89e628451f4",
+  "attachments": []
 }

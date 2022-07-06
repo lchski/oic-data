@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0261</td><td>2009-02-12</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">*** LOW **\nREGULATIONS AMENDING THE GREAT LAKES PILOTAGE REGULATIONS to allow the Authority to increase is raising its current tonnage requirement for Canadian ships subject to compulsory pilotage from 300 gross registered tons (GRT) to 1 500 GRT, commensurate with other Canadian pilotage authorities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0064  <strong>Publication Date:</strong> 2009-03-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20109&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0261",
-  "htmlHash": "fb4c343fe9066bb8eecde10609bb1dd6"
+  "htmlHash": "fb4c343fe9066bb8eecde10609bb1dd6",
+  "attachments": [
+    "attachment.php?attach=20109&lang=en"
+  ]
 }

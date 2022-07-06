@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0926</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Tobacco Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Promotion of Tobacco Products and Accessories Regulations (Prohibited Terms) </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION OF TOBACCO PRODUCTS AND ACCESSORIES REGULATIONS (Prohibited Terms), in order to prohibit the use of the terms “light” and “mild”, and variations thereof, from various tobacco products, their packaging, advertising, promotions, retail displays, as well as from tobacco accessories.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0178  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24604&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0926",
-  "htmlHash": "e935c21ced509750c69a34b4e6452942"
+  "htmlHash": "e935c21ced509750c69a34b4e6452942",
+  "attachments": [
+    "attachment.php?attach=24604&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1258</td><td>2017-10-19</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Broadcasting Corporation ** purchase and sale **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the CANADIAN BROADCASTING CORPORATION, as vendor, enter into an agreement of purchase and sale with Her Majesty The Queen, in right of the Province of Nova Scotia, as represented by the Minister of Transportation and Infrastructure Renewal, as purchaser, to dispose of real property located at 1840 Bell Road, Halifax, Nova Scotia, for a total consideration in excess of $4,000,000.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35169&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1258",
-  "htmlHash": "feb54654226dd07b2c43a579982e48b0"
+  "htmlHash": "feb54654226dd07b2c43a579982e48b0",
+  "attachments": [
+    "attachment.php?attach=35169&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1010</td><td>1999-06-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign an AGREEMENT\nconcerning the establishing of GLOBAL TECHNICAL REGULATIONS for WHEELED\nVEHICLES, EQUIPMENT AND PARTS which can be FITTED AND/OR BE USED ON WHEELED\nVEHICLES, done at Geneva on June 25, 1998, or (b) to issue an Instrument of\nFull Powers authorizing other representatives to sign the Agreement on\nbehalf of the Government of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1010",
-  "htmlHash": "4f78ca83d13305ff5574ab5fb25c8fbb"
+  "htmlHash": "4f78ca83d13305ff5574ab5fb25c8fbb",
+  "attachments": []
 }

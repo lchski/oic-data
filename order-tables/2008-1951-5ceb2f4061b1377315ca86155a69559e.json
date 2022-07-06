@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1951</td><td>2008-12-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order providing authority for the Minister of Foreign Affairs to sign, or invest others with full power and authority to sign, an EXCHANGE OF NOTES between the Government of Canada and the Government of the United States of America relating to Annex IV of the Treaty between the Government of Canada and the Government of the United States of America concerning Pacific Salmon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19836&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1951",
-  "htmlHash": "5ceb2f4061b1377315ca86155a69559e"
+  "htmlHash": "5ceb2f4061b1377315ca86155a69559e",
+  "attachments": [
+    "attachment.php?attach=19836&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1736</td><td>1994-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the leasing to ANVIL RANGE MINING CORPORATION of some 1,877\nhectares of land situated near Rose Creek and Faro Creek, in the Yukon\nTerritory, for a mine site, mill buildings and disposal grounds for waste\nrock and mill tailings.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1736",
-  "htmlHash": "d060e48709b4de30e8e3ce441d170e74"
+  "htmlHash": "d060e48709b4de30e8e3ce441d170e74",
+  "attachments": []
 }

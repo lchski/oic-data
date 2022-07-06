@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1897</td><td>1991-10-03</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of QUEBEC of the transfer of the use of two\nbeach and deep water lots (4,403.8 m²) situated at PORT-DANIEL-EST, Quebec,\nfor the maintenance of a wharf.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1897",
-  "htmlHash": "032603c482768dcd1390e8017a9f64a1"
+  "htmlHash": "032603c482768dcd1390e8017a9f64a1",
+  "attachments": []
 }

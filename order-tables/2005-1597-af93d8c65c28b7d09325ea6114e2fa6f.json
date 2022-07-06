@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1597</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to ratify the OPTIONAL PROTOCOL (ON THE SALE OF CHILDREN, CHILD PROSTITUTION AND CHILD PORNOGRAPHY) to the CONVENTION ON THE RIGHTS OF THE CHILD.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1597",
-  "htmlHash": "af93d8c65c28b7d09325ea6114e2fa6f"
+  "htmlHash": "af93d8c65c28b7d09325ea6114e2fa6f",
+  "attachments": [
+    "attachment.php?attach=12678&lang=en"
+  ]
 }

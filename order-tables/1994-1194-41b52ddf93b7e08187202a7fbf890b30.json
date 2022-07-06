@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1194</td><td>1994-07-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of four members of the ATLANTIC PILOTAGE AUTHORITY, each of\nwhom shall hold office during pleasure for a term of three years.\n.\n  1. John Ferguson Aspin\n     Belle River (P.E.I./Î.-P.-É,)\n  2. Captain/Le capitaine Edward Frank Anthony\n     Mount Pearl (Newfoundland/Terre-Neuve)\n  3. George W. Brown\n     Grand Manan (New Brunswick/Nouveau-Brunswick)\n  4. Captain/Le capitaine Ralph Wood\n     Quispamsis (New Brunswick/Nouveau-Brunswick)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1194",
-  "htmlHash": "41b52ddf93b7e08187202a7fbf890b30"
+  "htmlHash": "41b52ddf93b7e08187202a7fbf890b30",
+  "attachments": []
 }

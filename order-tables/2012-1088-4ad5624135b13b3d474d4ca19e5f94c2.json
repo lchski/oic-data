@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1088</td><td>2012-09-20</td><td></td><td></td><td>EC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding Toxic Substances to Schedule 1 to the Canadian Environmental Protection Act, 1999\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ADDING TOXIC SUBSTANCES TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 in order to include polychlorinated naphthalenes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0187  <strong>Publication Date:</strong> 2012-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26524&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1088",
-  "htmlHash": "4ad5624135b13b3d474d4ca19e5f94c2"
+  "htmlHash": "4ad5624135b13b3d474d4ca19e5f94c2",
+  "attachments": [
+    "attachment.php?attach=26524&lang=en"
+  ]
 }

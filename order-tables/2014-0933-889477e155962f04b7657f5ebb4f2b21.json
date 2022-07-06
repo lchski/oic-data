@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0933</td><td>2014-09-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Queen's Regulations and Orders for the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCE in order to enhance Treasury Board’s authority to deal with payments to non-members and facilitate a coherent and consolidated policy for all relocation benefits located within a single instrument, the existing Canadian Forces Integrated Relocation Program.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0933",
-  "htmlHash": "889477e155962f04b7657f5ebb4f2b21"
+  "htmlHash": "889477e155962f04b7657f5ebb4f2b21",
+  "attachments": [
+    "attachment.php?attach=29744&lang=en"
+  ]
 }

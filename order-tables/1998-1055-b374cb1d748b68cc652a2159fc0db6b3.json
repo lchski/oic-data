@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1055</td><td>1998-06-11</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1996-1523 of October 1, 1996,\nconcerning the appointment of SHERRY WIEBE as a full-time member of the\nConvention Refugee Determination Division of the Immigration and Refugee\nBoard (Calgary District Office); and designation of SHERRY WIEBE as a\ncoordinating member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Calgary District Office), effective\nJuly 6, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1055",
-  "htmlHash": "b374cb1d748b68cc652a2159fc0db6b3"
+  "htmlHash": "b374cb1d748b68cc652a2159fc0db6b3",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0914</td><td>2016-10-19</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LORE M. MIRWALDT, of the City of Winnipeg, in the Province of Manitoba, one of Her Majesty's Counsel learned in the law, to be a Judge of Her Majesty's Court of Queen's Bench for Manitoba.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32610&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0914",
-  "htmlHash": "7c7c1e9d6e83ef52f3a4db6d5dc49e5a"
+  "htmlHash": "7c7c1e9d6e83ef52f3a4db6d5dc49e5a",
+  "attachments": [
+    "attachment.php?attach=32610&lang=en"
+  ]
 }

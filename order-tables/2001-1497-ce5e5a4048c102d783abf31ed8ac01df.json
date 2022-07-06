@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1497</td><td>2001-08-28</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ORDER AMENDING CERTAIN REMISSION ORDERS MADE UNDER THE\nCUSTOMS TARIFF (MISCELLANEOUS PROGRAM) to update the list of eligible\nclaimants, increase the claim period and correct typographical errors in\nthe following Orders:\n.\n1. Tailored Collar Shirts Remission Order, 1997\n2. Shirting Fabrics Remission Order, 1998;\n3. Outerwear Apparel Remission Order, 1998; and\n4. Blouses, Shirts and Co-ordinates Remission Order, 1998.\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0315  <strong>Publication Date:</strong> 2001-09-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1497",
-  "htmlHash": "ce5e5a4048c102d783abf31ed8ac01df"
+  "htmlHash": "ce5e5a4048c102d783abf31ed8ac01df",
+  "attachments": []
 }

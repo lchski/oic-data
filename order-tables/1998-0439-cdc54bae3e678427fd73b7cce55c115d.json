@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0439</td><td>1998-03-19</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to RAY EDWARD BRODHAGEN, of the Town of Watson Lake, Yukon Territory,\nof some 3.07 hectares of land situated near Windid Lake, adjoining Lot\n1011-1 in Quad 105 A/02, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0439",
-  "htmlHash": "cdc54bae3e678427fd73b7cce55c115d"
+  "htmlHash": "cdc54bae3e678427fd73b7cce55c115d",
+  "attachments": []
 }

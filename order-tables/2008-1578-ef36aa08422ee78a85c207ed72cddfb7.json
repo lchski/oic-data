@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1578</td><td>2008-09-04</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RONALD DANIEL GREGOR of Halifax, Nova Scotia, to be a member of the Review Tribunal for the region of Halifax for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19536&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1578",
-  "htmlHash": "ef36aa08422ee78a85c207ed72cddfb7"
+  "htmlHash": "ef36aa08422ee78a85c207ed72cddfb7",
+  "attachments": [
+    "attachment.php?attach=19536&lang=en"
+  ]
 }

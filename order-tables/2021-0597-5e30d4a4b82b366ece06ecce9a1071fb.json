@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0597</td><td>2021-06-17</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Subject</td><td colspan=\"5\">List of Wildlife Species at Risk (referral back to COSEWIC) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order referring the matter of the assessment of the Striped Bass, St. Lawrence River population, back to the Committee on the Status of Endangered Wildlife in Canada for further consideration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0033  <strong>Publication Date:</strong> 2021-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40906&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0597",
-  "htmlHash": "5e30d4a4b82b366ece06ecce9a1071fb"
+  "htmlHash": "5e30d4a4b82b366ece06ecce9a1071fb",
+  "attachments": [
+    "attachment.php?attach=40906&lang=en"
+  ]
 }

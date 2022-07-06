@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1351</td><td>2013-12-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFATD,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Export Development Canada and Exinvest Inc. ** Corporate Plan **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the 2014-2018 Corporate Plan of the EXPORT DEVELOPMENT CANADA and EXINVEST INC.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28616&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1351",
-  "htmlHash": "af421ef7dbb132ea15d93ba3d7b4e3eb"
+  "htmlHash": "af421ef7dbb132ea15d93ba3d7b4e3eb",
+  "attachments": [
+    "attachment.php?attach=28616&lang=en"
+  ]
 }

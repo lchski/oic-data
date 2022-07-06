@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2149</td><td>2001-11-22</td><td>0</td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING THE ONTARIO HYDRO NUCLEAR FACILITIES\nEXCLUSION FROM PART I OF THE CANADA LABOUR CODE REGULATIONS (INDUSTRIAL\nRELATIONS)(MISCELLANEOUS PROGRAM) by replacing therein the outdated\nreferences to the Atomic Energy Control Act with references to the new\nNuclear Safety and Control Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0519  <strong>Publication Date:</strong> 2001-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2149",
-  "htmlHash": "c674e453feab626c5f7f83d65b229713"
+  "htmlHash": "c674e453feab626c5f7f83d65b229713",
+  "attachments": []
 }

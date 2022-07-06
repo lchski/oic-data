@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0707</td><td>2006-07-07</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE CHARLES DOHERTY GONTHIER of Montréal, Quebec, as Commissioner of the Communications Security Establishment, to hold office, during good behaviour, for a term of three years, effective August 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0707",
-  "htmlHash": "ae1adb0c09755c201bfdb397f517ccdc"
+  "htmlHash": "ae1adb0c09755c201bfdb397f517ccdc",
+  "attachments": [
+    "attachment.php?attach=14644&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0273</td><td>2008-02-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CRA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax and interest paid or payable by Mr. SCOTT MITCHELL for the years of 1978 to 1985.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0022  <strong>Publication Date:</strong> 2008-03-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18085&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0273",
-  "htmlHash": "92c1e7b3811e51c89905435494df7215"
+  "htmlHash": "92c1e7b3811e51c89905435494df7215",
+  "attachments": [
+    "attachment.php?attach=18085&lang=en"
+  ]
 }

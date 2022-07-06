@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0574</td><td>2016-06-17</td><td></td><td></td><td>CBSA,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Smelted Jewellery Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SMELTED JEWELLERY REMISSION ORDER in order to remit to the five companies listed in the Schedule the customs duties paid or payable in respect of importations of jewellery that were erroneously certified as “destroyed” by Canada Border Services Agency officials.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0157  <strong>Publication Date:</strong> 2016-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32258&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0574",
-  "htmlHash": "8657f8a323694e995da115b83795dd1b"
+  "htmlHash": "8657f8a323694e995da115b83795dd1b",
+  "attachments": [
+    "attachment.php?attach=32258&lang=en"
+  ]
 }

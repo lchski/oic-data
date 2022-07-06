@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0935</td><td>2004-08-26</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARK ANTHONY PROVENCHER of Boucherville, Quebec, to be Chairperson of the Boards of Referees for the Quebec Regional Division, and particularly for the District of Longueuil, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7694&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0935",
-  "htmlHash": "a9f3940b2b232a73569fc8e0c84a726b"
+  "htmlHash": "a9f3940b2b232a73569fc8e0c84a726b",
+  "attachments": [
+    "attachment.php?attach=7694&lang=en"
+  ]
 }

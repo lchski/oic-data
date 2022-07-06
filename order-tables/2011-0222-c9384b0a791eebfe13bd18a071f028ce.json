@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0222</td><td>2011-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Medical Devices Regulations (1592 — Canada's Access to Medicines Regime)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MEDICAL DEVICES REGULATIONS (1592 - Canada's Access to Medicines Regime), to clarify that sections 43.3 to 43.6 are in place to enable the implementation of the General Council Decision, as requested by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0042  <strong>Publication Date:</strong> 2011-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23875&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0222",
-  "htmlHash": "c9384b0a791eebfe13bd18a071f028ce"
+  "htmlHash": "c9384b0a791eebfe13bd18a071f028ce",
+  "attachments": [
+    "attachment.php?attach=23875&lang=en"
+  ]
 }

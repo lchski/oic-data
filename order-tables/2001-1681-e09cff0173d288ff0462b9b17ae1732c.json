@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1681</td><td>2001-09-25</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Natural Resources of\nJ. RAYMOND FRENETTE, of Pointe-Du-Chêne, New Brunswick, as a director of\nAtomic Energy of Canada Limited, to hold office during pleasure, for a\nterm of three years, effective October 27, 2001; and appointment of\nJ. RAYMOND FRENETTE as Acting Chairman of the Board of Directors of\nAtomic Energy of Canada Limited, to hold office during pleasure until\nsuch time as a new Chairman is appointed, effective October 2, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1681",
-  "htmlHash": "e09cff0173d288ff0462b9b17ae1732c"
+  "htmlHash": "e09cff0173d288ff0462b9b17ae1732c",
+  "attachments": []
 }

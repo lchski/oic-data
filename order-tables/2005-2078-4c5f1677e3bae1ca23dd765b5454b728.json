@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2078</td><td>2005-11-21</td><td></td><td></td><td>,&nbsp; INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to Kenya undertaken by DAVID KILGOUR, M.P., from September 17 to 24, 2004, to meet with African MPs under the aegis of the Canada Fund for Africa's Pan-African Parliamentary Strengthening Program.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13461&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2078",
-  "htmlHash": "4c5f1677e3bae1ca23dd765b5454b728"
+  "htmlHash": "4c5f1677e3bae1ca23dd765b5454b728",
+  "attachments": [
+    "attachment.php?attach=13461&lang=en"
+  ]
 }

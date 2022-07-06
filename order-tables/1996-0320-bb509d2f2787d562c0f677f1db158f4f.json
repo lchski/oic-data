@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0320</td><td>1996-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INT'L TRADE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to WASHINGTON made by Mr. RON MacDONALD, M.P.,\nfrom March 2 to March 6, 1996, in order to represent the Minister for\nInternational Trade at the fourth West-East Conference of Ministers of\nEconomy, Industry and Trade.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0320",
-  "htmlHash": "bb509d2f2787d562c0f677f1db158f4f"
+  "htmlHash": "bb509d2f2787d562c0f677f1db158f4f",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0421</td><td>2004-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Solicitor General of Canada to enter into an AGREEMENTS with the provinces of ONTARIO, QUEBEC, NOVA SCOTIA, NEW BRUNSWICK and PRINCE EDWARD ISLAND providing for payment of compensation in respect of administrative costs incurred by the processing of licences and authorizations and applications for licences.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6570&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0421",
-  "htmlHash": "3ec77e3a3896b4cf07dec5d42938fa94"
+  "htmlHash": "3ec77e3a3896b4cf07dec5d42938fa94",
+  "attachments": [
+    "attachment.php?attach=6570&lang=en"
+  ]
 }

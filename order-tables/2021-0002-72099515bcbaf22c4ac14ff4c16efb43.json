@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0002</td><td>2021-01-08</td><td></td><td></td><td>CIRC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARY CULBERTSON of Saskatoon, Saskatchewan, to be a Treaty Commissioner of the Office of the Treaty Commissioner in Saskatchewan, to hold office during pleasure for a term of two years, effective January 29, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40161&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0002",
-  "htmlHash": "72099515bcbaf22c4ac14ff4c16efb43"
+  "htmlHash": "72099515bcbaf22c4ac14ff4c16efb43",
+  "attachments": [
+    "attachment.php?attach=40161&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0401</td><td>2009-03-12</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement and granting of a lifelong annuity to the Hon. DENNIS G. HART, a Justice of the Court of Queen’s Bench of Alberta, commencing on April 2, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20252&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0401",
-  "htmlHash": "5d777bd47cc227c1a4af7815960b318f"
+  "htmlHash": "5d777bd47cc227c1a4af7815960b318f",
+  "attachments": [
+    "attachment.php?attach=20252&lang=en"
+  ]
 }

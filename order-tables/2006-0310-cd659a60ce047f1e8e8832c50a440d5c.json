@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0310</td><td>2006-05-04</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2005-2006</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KONSTANTINOS YAKOUMIS to be Honorary Consul of Canada at Thessaloniki, Hellenic Republic, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14219&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0310",
-  "htmlHash": "cd659a60ce047f1e8e8832c50a440d5c"
+  "htmlHash": "cd659a60ce047f1e8e8832c50a440d5c",
+  "attachments": [
+    "attachment.php?attach=14219&lang=en"
+  ]
 }

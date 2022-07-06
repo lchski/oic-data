@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1191</td><td>2010-09-30</td><td></td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Status of the Artist Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ROBERT A. BECCAREA of Miller Lake, Ontario, as a part-time member of the Canadian Artists and Producers Professional Relations Tribunal to hold office during good behaviour for a term of one year, effective October 1, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23178&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1191",
-  "htmlHash": "0555670717603032fd11bcf8f2d3bf7f"
+  "htmlHash": "0555670717603032fd11bcf8f2d3bf7f",
+  "attachments": [
+    "attachment.php?attach=23178&lang=en"
+  ]
 }

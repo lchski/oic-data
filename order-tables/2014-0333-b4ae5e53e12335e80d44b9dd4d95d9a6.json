@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0333</td><td>2014-03-27</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">The Perth Chamber of Commerce (Ontario) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the PERTH CHAMBER OF COMMERCE, in Ontario, TO CHANGE THE BOUNDARIES OF ITS DISTRICT from the Town of Perth to the Town of Perth, the Townships of Drummond/North Elmsley, Lanark Higlands and the Tay Valley Township.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29115&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0333",
-  "htmlHash": "b4ae5e53e12335e80d44b9dd4d95d9a6"
+  "htmlHash": "b4ae5e53e12335e80d44b9dd4d95d9a6",
+  "attachments": [
+    "attachment.php?attach=29115&lang=en"
+  ]
 }

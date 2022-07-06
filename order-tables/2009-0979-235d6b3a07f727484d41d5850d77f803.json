@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0979</td><td>2009-06-12</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable BEVERLEY A. BROWNE, as a Justice of the Court of Queen's Bench of Alberta, and a member ex officio of the Court of Appeal of Alberta, effective October 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0979",
-  "htmlHash": "235d6b3a07f727484d41d5850d77f803"
+  "htmlHash": "235d6b3a07f727484d41d5850d77f803",
+  "attachments": [
+    "attachment.php?attach=20850&lang=en"
+  ]
 }

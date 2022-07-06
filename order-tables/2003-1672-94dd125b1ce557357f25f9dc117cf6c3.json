@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1672</td><td>2003-10-28</td><td></td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARY WANDA DAWE of Bay Roberts, Newfoundland and Labrador, to be Chairperson of the Boards of Referees for the Newfoundland and Labrador Regional Division, and particularly for the District of St. John's, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4516&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1672",
-  "htmlHash": "94dd125b1ce557357f25f9dc117cf6c3"
+  "htmlHash": "94dd125b1ce557357f25f9dc117cf6c3",
+  "attachments": [
+    "attachment.php?attach=4516&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1100</td><td>2010-09-09</td><td></td><td></td><td>,&nbsp; TBS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Lobbying Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Designated Public Office Holder Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DESIGNATED PUBLIC OFFICE HOLDER REGULATIONS to ensure that the transparency and accountability goals of the designated public office holder category apply to MPs, Senators and exempt staff working in the office of the Leader of the Opposition in the House and in the Senate.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0192  <strong>Publication Date:</strong> 2010-09-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23082&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1100",
-  "htmlHash": "5eaeb817fb9bd8e5a684b686bc4d7130"
+  "htmlHash": "5eaeb817fb9bd8e5a684b686bc4d7130",
+  "attachments": [
+    "attachment.php?attach=23082&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0394</td><td>2018-04-03</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID E. PLATTS, to be a puisne Judge of the Superior Court for the district of Montréal, in and for the Province of Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36063&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0394",
-  "htmlHash": "7624edaa85c0e4f30f87fd9d4594018a"
+  "htmlHash": "7624edaa85c0e4f30f87fd9d4594018a",
+  "attachments": [
+    "attachment.php?attach=36063&lang=en"
+  ]
 }

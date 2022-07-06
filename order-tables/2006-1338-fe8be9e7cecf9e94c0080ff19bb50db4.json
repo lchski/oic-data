@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1338</td><td>2006-11-10</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Asia-Pacific Foundation of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CAROL ANNE LEE of Vancouver, British Columbia, to be a director of the Board of Directors of the Asia-Pacific Foundation of Canada to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15306&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1338",
-  "htmlHash": "fe8be9e7cecf9e94c0080ff19bb50db4"
+  "htmlHash": "fe8be9e7cecf9e94c0080ff19bb50db4",
+  "attachments": [
+    "attachment.php?attach=15306&lang=en"
+  ]
 }

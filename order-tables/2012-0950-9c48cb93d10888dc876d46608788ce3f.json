@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0950</td><td>2012-06-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring to the Public Health Agency of Canada the Control and Supervision of Certain  Portions of the Federal Public Administration in the Department of Health known as the International Affairs Directorate and the Emergency Preparedness and Response Unit</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transfering to the Public Health Agency of Canada, the control and supervision of the portions of the federal public administration in the Department of Health known as the International Affairs Directorate and the Emergency Preparedness and Response Unit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0050  <strong>Publication Date:</strong> 2012-07-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26377&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0950",
-  "htmlHash": "9c48cb93d10888dc876d46608788ce3f"
+  "htmlHash": "9c48cb93d10888dc876d46608788ce3f",
+  "attachments": [
+    "attachment.php?attach=26377&lang=en"
+  ]
 }

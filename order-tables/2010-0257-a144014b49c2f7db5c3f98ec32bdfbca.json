@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0257</td><td>2010-03-11</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (Unreliable Travel Documents)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (Unreliable Travel Documents) in order to enhance the integrity of the immigration system as well as protect the safety of Canadians by ensuring that travel documents issued by foreign countries contain acceptable security features, and are sufficiently resistant to fraud and counterfeiting and constitute reliable proof of identity or nationality.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0054  <strong>Publication Date:</strong> 2010-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22235&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0257",
-  "htmlHash": "a144014b49c2f7db5c3f98ec32bdfbca"
+  "htmlHash": "a144014b49c2f7db5c3f98ec32bdfbca",
+  "attachments": [
+    "attachment.php?attach=22235&lang=en"
+  ]
 }

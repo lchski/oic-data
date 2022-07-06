@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1177</td><td>1993-06-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; HON. ANDRE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADA POST CORPORATION to procure the incorporation of a\nwholly-owned subsidiary under the laws of Canada to be known as CPC\nComputers and Communications Inc. and to hold shares thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1177",
-  "htmlHash": "9bfd613bbc709c3a5ada5a471124cb85"
+  "htmlHash": "9bfd613bbc709c3a5ada5a471124cb85",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1130</td><td>2005-06-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CBSA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DUTY FREE SHOP REGULATIONS by specifying that shares in a corporation licensed to operate a duty-free shop may be held by another corporation whose shareholders would be required to meet the same citizenship, residency and good character requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0182  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11560&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1130",
-  "htmlHash": "8acb2d65fb2c0c3f8adf46b6b9a98a59"
+  "htmlHash": "8acb2d65fb2c0c3f8adf46b6b9a98a59",
+  "attachments": [
+    "attachment.php?attach=11560&lang=en"
+  ]
 }

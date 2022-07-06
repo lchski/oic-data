@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0662</td><td>2016-06-30</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Subject</td><td colspan=\"5\">Pension plan of the Caisse populaire acadienne ltée ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Finance enter into an AGREEMENT with the Government of New Brunswick regarding the PENSION PLAN OF THE CAISSE POPULAIRE ACADIENNE LTÉE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32346&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0662",
-  "htmlHash": "8db4c113c573ab62b5559290a5fbf7ef"
+  "htmlHash": "8db4c113c573ab62b5559290a5fbf7ef",
+  "attachments": [
+    "attachment.php?attach=32346&lang=en"
+  ]
 }

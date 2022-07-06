@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0386</td><td>2018-04-03</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Marine Liability Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARK A. M. GAUTHIER of Gatineau, Quebec, to be the Deputy Administrator of the Ship-source Oil Pollution Fund, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36055&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0386",
-  "htmlHash": "d4ec96809a341a152aaf6a30eb0f8a8b"
+  "htmlHash": "d4ec96809a341a152aaf6a30eb0f8a8b",
+  "attachments": [
+    "attachment.php?attach=36055&lang=en"
+  ]
 }

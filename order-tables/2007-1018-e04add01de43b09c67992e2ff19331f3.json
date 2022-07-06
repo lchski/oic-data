@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1018</td><td>2007-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the Minister of Foreign Affairs to sign or invest other officials with Full Powers to sign, subject to ratification, the FINAL ACTS of the WORLD RADIOCOMMUNICATION CONFERENCE of the International Telecommunication Union at a conference to be held in Geneva, Switzerland, between October 22 and November 16, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16732&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1018",
-  "htmlHash": "e04add01de43b09c67992e2ff19331f3"
+  "htmlHash": "e04add01de43b09c67992e2ff19331f3",
+  "attachments": [
+    "attachment.php?attach=16732&lang=en"
+  ]
 }

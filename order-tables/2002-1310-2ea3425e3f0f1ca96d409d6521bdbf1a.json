@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1310</td><td>2002-08-01</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID ADAM as Ambassador of Canada to the Republic of\nPanama; GERALD K. CAMPBELL as High Commissioner for Canada in the\nPeople's Republic of Bangladesh; RONALD DAVIDSON as Consul General of\nCanada at Sao Paulo (Federative Republic of Brazil); MICHEL DUVAL as\nAmbassador of Canada to the Lebanese Republic; JAMES FEIR as Consul\nGeneral of Canada at Guangzhou (People's Republic of China); JAMES HILL\nas Consul General of Canada at Rio de Janeiro (Federative Republic of\nBrazil); JEREMY K.B. KINSMAN as Ambassador of Canada to the European\nUnion; RICHARD LECOQ as Ambassador of Canada to the Socialist Republic of\nVietnam; ROSALINE MURRAY as Ambassador of Canada to the Federal\nDemocratic Republic of Ethiopia; and PHILIP SOMERVILLE as Ambassador of\nCanada to the Hellenic Republic.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1310",
-  "htmlHash": "2ea3425e3f0f1ca96d409d6521bdbf1a"
+  "htmlHash": "2ea3425e3f0f1ca96d409d6521bdbf1a",
+  "attachments": []
 }

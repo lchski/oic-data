@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0136</td><td>2019-02-28</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Family Orders and Agreements Enforcement Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Family Support Orders and Agreements Garnishment Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FAMILY SUPPORT ORDERS AND AGREEMENTS GARNISHMENT REGULATIONS in order to provide a better balance between the objective of government cost recovery and that of reducing the potential financial hardship faced by certain support payors.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0065  <strong>Publication Date:</strong> 2019-03-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0136",
-  "htmlHash": "743cbaec6876dccab5b822fcea25bdd8"
+  "htmlHash": "743cbaec6876dccab5b822fcea25bdd8",
+  "attachments": [
+    "attachment.php?attach=37455&lang=en"
+  ]
 }

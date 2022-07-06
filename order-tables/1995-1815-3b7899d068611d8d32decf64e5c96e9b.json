@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1815</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FARO AIRPORT ZONING REGULATIONS imposing restrictions on the use and\ndevelopment of land situated within a four-kilometre radius of Faro\nAirport, in the Yukon Territory.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0508  <strong>Publication Date:</strong> 1995-11-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1815",
-  "htmlHash": "3b7899d068611d8d32decf64e5c96e9b"
+  "htmlHash": "3b7899d068611d8d32decf64e5c96e9b",
+  "attachments": []
 }

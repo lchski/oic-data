@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0845</td><td>1999-05-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the OCEAN MAN BAND surrenders some\n1,826 hectares of land on Ocean Man Indian Reserves No. 69, 69A, 69C,\n69E, 69G, 69H and 69I in Saskatchewan, for oil and gas exploration and\ndevelopment purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0845",
-  "htmlHash": "eb92ffa0397074d2b2b4c119e9ecc237"
+  "htmlHash": "eb92ffa0397074d2b2b4c119e9ecc237",
+  "attachments": []
 }

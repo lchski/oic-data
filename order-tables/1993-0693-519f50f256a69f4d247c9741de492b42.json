@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0693</td><td>1993-03-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of THE ST. LAWRENCE SEAWAY AUTHORITY Corporate Plan for the next\nfive-year fiscal period (1993-1998), as well as the associated Plans for\nThe Seaway International Bridge Corporation, Ltd., The Jacques Cartier and\nChamplain Bridges Incorporated, and The Thousand Islands Bridge.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0693",
-  "htmlHash": "519f50f256a69f4d247c9741de492b42"
+  "htmlHash": "519f50f256a69f4d247c9741de492b42",
+  "attachments": []
 }

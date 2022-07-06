@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0123</td><td>2009-01-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign a PROTOCOL AMENDING THE AGREEMENT between Canada and the PEOPLE'S REPUBLIC OF CHINA ON MARITIME TRANSPORT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19969&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0123",
-  "htmlHash": "b25e183851382f36562ca8b8b17b4426"
+  "htmlHash": "b25e183851382f36562ca8b8b17b4426",
+  "attachments": [
+    "attachment.php?attach=19969&lang=en"
+  ]
 }

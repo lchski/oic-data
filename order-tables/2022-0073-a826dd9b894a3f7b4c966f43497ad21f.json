@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0073</td><td>2022-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; CNSC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Safety and Control Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Class II Nuclear Facilities and Prescribed Equipment Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CLASS II NUCLEAR FACILITIES AND PRESCRIBED EQUIPMENT REGULATIONS (MISCELLANEOUS PROGRAM), made by the Canadian Nuclear Safety Commission, in order to correct the discrepancies between the French and English versions of the Regulations that were identified by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0015  <strong>Publication Date:</strong> 2022-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41527&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0073",
-  "htmlHash": "a826dd9b894a3f7b4c966f43497ad21f"
+  "htmlHash": "a826dd9b894a3f7b4c966f43497ad21f",
+  "attachments": [
+    "attachment.php?attach=41527&lang=en"
+  ]
 }

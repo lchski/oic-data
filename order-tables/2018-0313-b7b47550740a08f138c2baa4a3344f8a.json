@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0313</td><td>2018-03-26</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ANNE MARIE FLORENCE LEGARS of Montréal, Quebec, as the Administrator of the Fund for Railway Accidents Involving Designated Goods, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36026&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0313",
-  "htmlHash": "b7b47550740a08f138c2baa4a3344f8a"
+  "htmlHash": "b7b47550740a08f138c2baa4a3344f8a",
+  "attachments": [
+    "attachment.php?attach=36026&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0196</td><td>2005-02-15</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the CANOE LAKE CREE FIRST NATION of approximately 0.36 hectares of land, mines and minerals included, as Roadside Indian Reserve No. 165F, in Saskatchewan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9599&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0196",
-  "htmlHash": "98d0aa2f428af6741158b8823232235e"
+  "htmlHash": "98d0aa2f428af6741158b8823232235e",
+  "attachments": [
+    "attachment.php?attach=9599&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0245</td><td>2004-03-23</td><td>5</td><td>2003</td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Canada Pension Plan and the Canada Pension Plan Investment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 1, 2004 as the date on which various sections of this Act, being Chapter 5 of the Statutes of Canada 2003 [Bill C-3], COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0031  <strong>Publication Date:</strong> 2004-04-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6110&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0245",
-  "htmlHash": "775883bc73e2a3db63cd96e4c05cb904"
+  "htmlHash": "775883bc73e2a3db63cd96e4c05cb904",
+  "attachments": [
+    "attachment.php?attach=6110&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1079</td><td>2014-10-09</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Finance of SUSAN DUJMOVIC of Vancouver, British Columbia, as a director of the Board of Directors of the Royal Canadian Mint to hold office during pleasure for a term of two years; and appointment of SUSAN DUJMOVIC of Vancouver, British Columbia, as Chairperson of the Board of Directors of the Royal Canadian Mint on an interim basis to hold office during pleasure until such time as a new Chairperson is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29896&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1079",
-  "htmlHash": "c7cf765dd82b7394fd82867149f8554e"
+  "htmlHash": "c7cf765dd82b7394fd82867149f8554e",
+  "attachments": [
+    "attachment.php?attach=29896&lang=en"
+  ]
 }

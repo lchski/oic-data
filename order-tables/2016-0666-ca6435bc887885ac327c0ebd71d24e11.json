@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0666</td><td>2016-06-30</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Employment Insurance Regulations and the Employment Insurance (Fishing) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS AND THE EMPLOYMENT INSURANCE (FISHING) REGULATIONS in order to end the different treatment of the New Entrants and Re-Entrants and ensure that they will have the same access to Employment Insurance benefits as the rest of the workforce.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0206  <strong>Publication Date:</strong> 2016-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32350&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0666",
-  "htmlHash": "ca6435bc887885ac327c0ebd71d24e11"
+  "htmlHash": "ca6435bc887885ac327c0ebd71d24e11",
+  "attachments": [
+    "attachment.php?attach=32350&lang=en"
+  ]
 }

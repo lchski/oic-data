@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-1022</td><td>2021-12-13</td><td></td><td></td><td>,&nbsp; IRCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BIANCA ELEONORA SUCIU of Montréal, Quebec, as a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41388&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-1022",
-  "htmlHash": "e38df0b93f2950171a21a6eace3ded41"
+  "htmlHash": "e38df0b93f2950171a21a6eace3ded41",
+  "attachments": [
+    "attachment.php?attach=41388&lang=en"
+  ]
 }

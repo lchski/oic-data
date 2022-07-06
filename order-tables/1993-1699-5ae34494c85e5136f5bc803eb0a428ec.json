@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1699</td><td>1993-08-26</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to the Republic of Nauru undertaken by the Hon.\nRev. WALTER FRANKLIN McLEAN, from August 5 to August 16, 1993, in order to\nparticipate in the South Pacific Forum.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1699",
-  "htmlHash": "5ae34494c85e5136f5bc803eb0a428ec"
+  "htmlHash": "5ae34494c85e5136f5bc803eb0a428ec",
+  "attachments": []
 }

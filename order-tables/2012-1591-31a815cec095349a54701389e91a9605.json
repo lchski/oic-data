@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1591</td><td>2012-11-29</td><td>24</td><td>2011</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Keeping Canada's Economy and Jobs Growing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2013 as the Day on which Certain Sections of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2013 as the day on which sections 152 and 153, subsections 155(1) and (2) and sections 157 and 158 of the KEEPING CANADA'S ECONOMY AND JOBS GROWING ACT, chapter 24 of the Statutes of Canada, 2011, COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27042&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1591",
-  "htmlHash": "31a815cec095349a54701389e91a9605"
+  "htmlHash": "31a815cec095349a54701389e91a9605",
+  "attachments": [
+    "attachment.php?attach=27042&lang=en"
+  ]
 }

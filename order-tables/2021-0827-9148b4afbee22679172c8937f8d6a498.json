@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0827</td><td>2021-08-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule I.1 to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE I.1 TO THE FINACIAL ADMINISTRATION ACT in order to add the Pacific Economic Development Agency of Canada as a department for the purposes of that Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0185  <strong>Publication Date:</strong> 2021-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41137&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0827",
-  "htmlHash": "9148b4afbee22679172c8937f8d6a498"
+  "htmlHash": "9148b4afbee22679172c8937f8d6a498",
+  "attachments": [
+    "attachment.php?attach=41137&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1230</td><td>2007-08-01</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment of ROBERT B. PLETCH, Q.C. of Regina, Saskatchewan, as a director of the Board of Directors of the Canada Post Corporation, to hold office during pleasure for a term of four years, in the place of Gavin Semple, effective August 23, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16929&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1230",
-  "htmlHash": "5eea6b9005a76c4d8fc9bd99db2da794"
+  "htmlHash": "5eea6b9005a76c4d8fc9bd99db2da794",
+  "attachments": [
+    "attachment.php?attach=16929&lang=en"
+  ]
 }

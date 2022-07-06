@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0881</td><td>2018-06-22</td><td>10</td><td>2018</td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation Modernization Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing June 27, 2018 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 27, 2018, as the day on which Sections 15, 16, 90 and 91 of the TRANSPORTATION MODERNIZATION ACT, chapter 10 of the Statutes of Canada, 2018, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0050  <strong>Publication Date:</strong> 2018-07-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36589&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0881",
-  "htmlHash": "e454d0e2dde46d2b60d0b7a8a9c5de8c"
+  "htmlHash": "e454d0e2dde46d2b60d0b7a8a9c5de8c",
+  "attachments": [
+    "attachment.php?attach=36589&lang=en"
+  ]
 }

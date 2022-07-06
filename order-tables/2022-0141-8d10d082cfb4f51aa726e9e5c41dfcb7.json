@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0141</td><td>2022-02-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Net-Zero Emissions Accountability Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DANIEL WICKLUM of Calgary, Alberta, to be a member and co-chair of the Net-Zero Advisory Body, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41601&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0141",
-  "htmlHash": "8d10d082cfb4f51aa726e9e5c41dfcb7"
+  "htmlHash": "8d10d082cfb4f51aa726e9e5c41dfcb7",
+  "attachments": [
+    "attachment.php?attach=41601&lang=en"
+  ]
 }

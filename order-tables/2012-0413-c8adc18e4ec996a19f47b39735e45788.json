@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0413</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Cote First Nation 1905, 1907, 1913 and 1914 ** Surrenders Settlement Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order compensating the COTE FIRST NATION for its 1905, 1907, 1913 and 1914 Surrenders Specific Claims with respect to the surrender of 35,563 acres of reserve land from Reserve No. 64 in the Povince of SASKATCHEWAN.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25837&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0413",
-  "htmlHash": "c8adc18e4ec996a19f47b39735e45788"
+  "htmlHash": "c8adc18e4ec996a19f47b39735e45788",
+  "attachments": [
+    "attachment.php?attach=25837&lang=en"
+  ]
 }

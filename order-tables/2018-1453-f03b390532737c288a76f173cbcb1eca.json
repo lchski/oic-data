@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1453</td><td>2018-11-22</td><td></td><td></td><td>,&nbsp; ISED,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce et d'industrie Magog-Orford - Quebec  ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE ET D'INDUSTRIE MAGOG-ORFORD, in Quebec, TO CHANGE ITS NAME to the “CHAMBRE DE COMMERCE MEMPHRÉMAGOG”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37131&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1453",
-  "htmlHash": "f03b390532737c288a76f173cbcb1eca"
+  "htmlHash": "f03b390532737c288a76f173cbcb1eca",
+  "attachments": [
+    "attachment.php?attach=37131&lang=en"
+  ]
 }

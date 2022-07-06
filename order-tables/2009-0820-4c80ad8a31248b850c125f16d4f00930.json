@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0820</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Oil and Gas and Moneys Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the First Nations Oil and Gas and Moneys Management Voting Regulations (Miscellaneous Program).\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to sections 1 and 15 of the Regulations with respect to the purpose of the definition of an “eligible voter” and the clarity of the method for sealing a ballot box.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0150  <strong>Publication Date:</strong> 2009-06-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20649&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0820",
-  "htmlHash": "4c80ad8a31248b850c125f16d4f00930"
+  "htmlHash": "4c80ad8a31248b850c125f16d4f00930",
+  "attachments": [
+    "attachment.php?attach=20649&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0032</td><td>2016-01-29</td><td>2</td><td>2015</td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Agricultural Growth Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing February 5, 2016 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing February 5, 2016 as the day on which subsections 120(2) and (5), 124(1), 127(2) and 128(3) and (7), section 130, subsections 132(3) and (4) and 133(2) and 139 and 140 of the AGRICULTURAL GROWTH ACT, chapter 2 of the Statutes of Canada 2015, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0003  <strong>Publication Date:</strong> 2016-02-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31707&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0032",
-  "htmlHash": "a8d11f7e1d255f9bf61f8b49630d588d"
+  "htmlHash": "a8d11f7e1d255f9bf61f8b49630d588d",
+  "attachments": [
+    "attachment.php?attach=31707&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0310</td><td>2008-02-18</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DONALD McQUEEN SHAVER, of Cambridge, Ontario, to be a Chairman of the Canada Development Investment Corporation, to hold office during pleasure for a term ending December 5, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18122&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0310",
-  "htmlHash": "60eeb392cd91fc81abf572e4a654c17a"
+  "htmlHash": "60eeb392cd91fc81abf572e4a654c17a",
+  "attachments": [
+    "attachment.php?attach=18122&lang=en"
+  ]
 }

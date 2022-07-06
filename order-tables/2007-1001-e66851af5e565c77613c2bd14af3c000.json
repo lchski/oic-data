@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1001</td><td>2007-06-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSEP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n 1. Sergeant Jeffrey André Beaulac\n 2. Sergeant David Brent Burrows\n 3. Corporal Joseph Jean Michel Paul Douaire\n 4. Staff Sergeant Peter Hassan Kirchberger\n 5. Staff Sergeant Joseph Robert Serge Lauzon\n 6. Sergeant Joseph André Jean-Marc Nadeau\n 7. Sergeant Joseph Jacques Guy Parent\n 8. Staff Sergeant James Riley Stiles\n 9. Staff Sergeant James Ross Taplin</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16689&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1001",
-  "htmlHash": "e66851af5e565c77613c2bd14af3c000"
+  "htmlHash": "e66851af5e565c77613c2bd14af3c000",
+  "attachments": [
+    "attachment.php?attach=16689&lang=en"
+  ]
 }

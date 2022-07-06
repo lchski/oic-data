@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0803</td><td>2004-07-07</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. J.S. ARMAND DesROCHES, Chief Justice of the Trial Division of the Supreme Court of Prince Edward Island, effective September 4, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7357&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0803",
-  "htmlHash": "2a6fd8ced3ecb6d092236fb8d43306a9"
+  "htmlHash": "2a6fd8ced3ecb6d092236fb8d43306a9",
+  "attachments": [
+    "attachment.php?attach=7357&lang=en"
+  ]
 }

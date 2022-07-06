@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1367</td><td>2019-11-20</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act<br>Business Development Bank of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister for International Trade (1) as the Designated Minister for the purposes of the Business Development Bank of Canada Act; and (2) as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2018-1020 of July 18, 2018; (2) designating the MINISTER OF INTERNATIONAL TRADE, a member of the Queen’s Privy Council for Canada, as the Designated Minister for the purposes of the BUSINESS DEVELOPMENT BANK OF CANADA ACT; and (3) designating the MINISTER OF INTERNATIONAL TRADE, a member of the Queen’s Privy Council for Canada, as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the FINANCIAL ADMINISTRATION ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0129  <strong>Publication Date:</strong> 2019-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38702&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1367",
-  "htmlHash": "10e70935619e89f34644fe77477549d7"
+  "htmlHash": "10e70935619e89f34644fe77477549d7",
+  "attachments": [
+    "attachment.php?attach=38702&lang=en"
+  ]
 }

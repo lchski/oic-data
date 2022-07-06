@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1594</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of OFFICERS. \n\nTO THE RANK OF\n  DEPUTY COMMISSIONER\n \nAssistant Commissioner T.G. KILLAM\n\nTO THE RANK OF\n  ASSISTANT COMMISSIONER\n\nChief Superintendent A.D. MACINTYRE\nChief Superintendent D.W. McFADYEN\nChief Superintendent R. SOUCCAR\n\nTO THE RANK OF\n  CHIEF SUPERINTENDENT\n\nSuperintendent P.D.F. HENSCHEL\nSuperintendent P.W. HOURIHAN\n\nTO THE RANK OF SUPERINTENDENT\n\nInspector J.D.B.P. LAVOIE\nInspector G.P. MORROW\nInspector J.J. WHITE</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12669&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1594",
-  "htmlHash": "898cd3f94f391dbf82283bfed55c95ad"
+  "htmlHash": "898cd3f94f391dbf82283bfed55c95ad",
+  "attachments": [
+    "attachment.php?attach=12669&lang=en"
+  ]
 }

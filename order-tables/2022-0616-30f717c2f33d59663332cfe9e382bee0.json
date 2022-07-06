@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0616</td><td>2022-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISI,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the National Security Review of Investments Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL SECURITY REVIEW OF INVESTMENTS REGULATIONS in order to (1) create a voluntary filing option for foreign investors which do not require a filing under the Investment Canada Act; and (2) provide the Government 45 days to initiate review of investments for investors who file voluntarily, and up to five years for investors who do not file voluntarily.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0124  <strong>Publication Date:</strong> 2022-06-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42157&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0616",
-  "htmlHash": "30f717c2f33d59663332cfe9e382bee0"
+  "htmlHash": "30f717c2f33d59663332cfe9e382bee0",
+  "attachments": [
+    "attachment.php?attach=42157&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1009</td><td>2009-06-18</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">North American Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the action necessary to bring into force for Canada the EXCHANGE OF LETTERS constituting an Agreement between the Government of Canada, the Government of the UNITED MEXICAN STATES and the Government of the UNITED STATES OF AMERICA rectifying Annex 300-B, Annex 308.1, Annex 401, Annex 403.1 and the Uniform Regulations for Chapter Four of the North American Free Trade Agreement (NAFTA), to take into account changes in the 2007 Tariff Schedules of Canada, the United States and Mexico.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20881&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1009",
-  "htmlHash": "12aa27fa5b592f3df7ba73e0481c9515"
+  "htmlHash": "12aa27fa5b592f3df7ba73e0481c9515",
+  "attachments": [
+    "attachment.php?attach=20881&lang=en"
+  ]
 }

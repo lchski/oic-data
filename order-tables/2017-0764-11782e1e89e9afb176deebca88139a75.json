@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0764</td><td>2017-06-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JUDITH ANNE LAROCQUE of Hawkesbury, Ontario, as a full-time member of the Canadian Radio-television and Telecommunications Commission on an interim basis, to hold office during good behaviour for a term of four months; and designation of JUDITH ANNE LAROCQUE as Chairperson of the Canadian Radio-television and Telecommunications Commission on an interim basis, for a term of four months.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34670&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0764",
-  "htmlHash": "11782e1e89e9afb176deebca88139a75"
+  "htmlHash": "11782e1e89e9afb176deebca88139a75",
+  "attachments": [
+    "attachment.php?attach=34670&lang=en"
+  ]
 }

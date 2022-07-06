@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0632</td><td>2015-05-28</td><td></td><td></td><td>,&nbsp; DESD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Student Financial Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Student Financial Assistance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS in order to (1) ensure that Canada Student Grants (CSGs) and Part-Time Canada Student Loans (PT-CSLs) continue to target students from Low-Income (LI) and Middle-Income (MI) families; and (2) ensure that the Low-Income and Middle-Income Thresholds align with inflation so that CSGs and PT-CSLs remain available to LI and MI students to assist with the cost of their post-secondary education.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0120  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30954&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0632",
-  "htmlHash": "fb98fa764f09a6359cfcdb6f296ce44b"
+  "htmlHash": "fb98fa764f09a6359cfcdb6f296ce44b",
+  "attachments": [
+    "attachment.php?attach=30954&lang=en"
+  ]
 }

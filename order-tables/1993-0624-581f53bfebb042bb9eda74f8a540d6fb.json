@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0624</td><td>1993-03-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADIAN FORCES ARMED ASSISTANCE DIRECTIONS - which set out the procedures\nfor the provision of armed assistance by the Canadian Armed Forces to the\nRoyal Canadian Mounted Police in order to deal with disturbances of the\npeace affecting the national interest, effective April 1, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0624",
-  "htmlHash": "581f53bfebb042bb9eda74f8a540d6fb"
+  "htmlHash": "581f53bfebb042bb9eda74f8a540d6fb",
+  "attachments": []
 }

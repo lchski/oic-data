@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0060</td><td>2019-01-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Rouge National Urban Park Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Rouge National Urban Park Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE ROUGE NATIONAL URBAN PARK ACT  in order to add lands to the Park, and thereby enhance the ecological, agricultural and cultural protection of these lands as afforded by the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0039  <strong>Publication Date:</strong> 2019-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37379&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0060",
-  "htmlHash": "720559f052ac20781f4067be3bc988e8"
+  "htmlHash": "720559f052ac20781f4067be3bc988e8",
+  "attachments": [
+    "attachment.php?attach=37379&lang=en"
+  ]
 }

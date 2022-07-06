@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1412</td><td>2019-12-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSPC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the International Letter-Post Items Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the INTERNATIONAL LETTER-POST ITEMS REGULATIONS, made on August 22, 2019 by the Canadian Post Corporation, in order to help Canada Post continue to meet its universal service obligation, to offer an accessible, affordable and cost-effective postal service to all Canadians no matter where they live and to operate on a self-sustaining financial basis.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0006  <strong>Publication Date:</strong> 2020-01-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38748&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1412",
-  "htmlHash": "2f26b1477a51bcddc2dfae1775b98421"
+  "htmlHash": "2f26b1477a51bcddc2dfae1775b98421",
+  "attachments": [
+    "attachment.php?attach=38748&lang=en"
+  ]
 }

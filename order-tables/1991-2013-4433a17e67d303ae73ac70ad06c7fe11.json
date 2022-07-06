@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2013</td><td>1991-10-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to (a) execute and issue an Instrument of Full Powers authorizing\nJean-Paul Hubert to sign the INTER-AMERICAN CONVENTION ON THE GRANTING OF\nCIVIL RIGHTS TO WOMEN and the INTER-AMERICAN CONVENTION ON THE GRANTING OF\nPOLITICAL RIGHTS TO WOMEN, done at Bogata on May 2, 1948, and (b) to bring\nthose conventions, as well as the CONVENTION ON THE NATIONALITY OF WOMEN,\ndone at Montevideo on December 26, 1933, into force for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2013",
-  "htmlHash": "4433a17e67d303ae73ac70ad06c7fe11"
+  "htmlHash": "4433a17e67d303ae73ac70ad06c7fe11",
+  "attachments": []
 }

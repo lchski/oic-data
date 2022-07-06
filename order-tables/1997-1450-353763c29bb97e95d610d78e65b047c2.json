@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1450</td><td>1997-10-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NELSON KIM JOANNETTE, of Waterloo, Ontario, as a member of\nthe Review Tribunal for the region of Kitchener to hold office during\npleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1450",
-  "htmlHash": "353763c29bb97e95d610d78e65b047c2"
+  "htmlHash": "353763c29bb97e95d610d78e65b047c2",
+  "attachments": []
 }

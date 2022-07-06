@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0088</td><td>2019-02-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Banff National Park of Canada Siksika Nation Castle Mountain Land and Timber Claim Settlement Agreement Rent and Fee Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the BANFF NATIONAL PARK OF CANADA SIKSIKA NATION CASTLE MOUNTAIN LAND AND TIMBER CLAIM SETTLEMENT AGREEMENT RENT AND FEE REMISSION ORDER in order to correct the definition of \"entité siksika\" in the French version of the Order to align with English version of the definition of \"Siksika entity\".</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0008  <strong>Publication Date:</strong> 2019-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37407&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0088",
-  "htmlHash": "0066972d179573b4dd050cb47239ffc3"
+  "htmlHash": "0066972d179573b4dd050cb47239ffc3",
+  "attachments": [
+    "attachment.php?attach=37407&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0744</td><td>2015-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PHILIPPE LAGASSÉ of Ottawa, Ontario, to the position of special adviser to the Minister of National Defence, to serve as a member of the Independent Review Panel for Defence Acquisition, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31066&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0744",
-  "htmlHash": "9c15b691f3aa66a8f5c88e1e34fb5d68"
+  "htmlHash": "9c15b691f3aa66a8f5c88e1e34fb5d68",
+  "attachments": [
+    "attachment.php?attach=31066&lang=en"
+  ]
 }

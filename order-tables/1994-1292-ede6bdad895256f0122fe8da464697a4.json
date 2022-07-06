@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1292</td><td>1994-08-03</td><td>0</td><td></td><td>,&nbsp; AGR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the QUEBEC WOOD ORDER, 1983 which update the definitions of\n\"Act\" and \"Plan\" in section 2 so that they correspond to a new enactment\nof the Legislature of Quebec, and update the list of wood producers' boards\nand their marketing plans.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0526  <strong>Publication Date:</strong> 1994-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1292",
-  "htmlHash": "ede6bdad895256f0122fe8da464697a4"
+  "htmlHash": "ede6bdad895256f0122fe8da464697a4",
+  "attachments": []
 }

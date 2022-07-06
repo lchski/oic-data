@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0951</td><td>2019-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Large Diameter Line Pipe Anti-dumping Duty Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LARGE DIAMETER LINE PIPE ANTI-DUMPING DUTY REMISSION ORDER in order to provide a remedy in response to the short supply of large diameter line pipe in the Canadian market for certain specific projects.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0261  <strong>Publication Date:</strong> 2019-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38277&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0951",
-  "htmlHash": "e01fc36fb358caca6ea1bf46fea6d2a5"
+  "htmlHash": "e01fc36fb358caca6ea1bf46fea6d2a5",
+  "attachments": [
+    "attachment.php?attach=38277&lang=en"
+  ]
 }

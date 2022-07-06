@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0365</td><td>2004-03-30</td><td></td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the Minister to enter into the AGREEMENT for CANADA-BRITISH COLUMBIA CO-OPERATION ON IMMIGRATION.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6420&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0365",
-  "htmlHash": "1f9f216019d109ba6dd7d741965f02f1"
+  "htmlHash": "1f9f216019d109ba6dd7d741965f02f1",
+  "attachments": [
+    "attachment.php?attach=6420&lang=en"
+  ]
 }

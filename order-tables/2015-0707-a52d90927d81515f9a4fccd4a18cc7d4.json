@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0707</td><td>2015-05-28</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of JEAN SIMON of Saint-David-de-Falardeau, Quebec, to be a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending February 28, 2017, in the place of Brian A. Henley.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31029&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0707",
-  "htmlHash": "a52d90927d81515f9a4fccd4a18cc7d4"
+  "htmlHash": "a52d90927d81515f9a4fccd4a18cc7d4",
+  "attachments": [
+    "attachment.php?attach=31029&lang=en"
+  ]
 }

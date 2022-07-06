@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0403</td><td>2006-05-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CROWN CORPORATIONS INVOLVED IN THE PROVISION OF COMMERCIAL LOANS ENVIRONMENTAL ASSESSMENT REGULATIONS which establish a modified environmental assessment process that would apply to two Crown corporations (Business Development Bank of Canada and Farm Credit Canada) involved in the making of commercial loans , effective June 11, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0104  <strong>Publication Date:</strong> 2006-05-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14325&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0403",
-  "htmlHash": "05fc48a0602bbcd70f7f9e6fb4a124a0"
+  "htmlHash": "05fc48a0602bbcd70f7f9e6fb4a124a0",
+  "attachments": [
+    "attachment.php?attach=14325&lang=en"
+  ]
 }

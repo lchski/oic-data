@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0225</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Pincher Creek and District Chambre de commerce Nouvelle-Beauce\n**CHANGE OF NAME**\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE NOUVELLE-BEAUCE in Quebec to change its name to the CHAMBRE DE COMMERCE ET D'INDUSTRIE NOUVELLE-BEAUCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0225",
-  "htmlHash": "6331dd29e26fe6bbb0c337d094d466ff"
+  "htmlHash": "6331dd29e26fe6bbb0c337d094d466ff",
+  "attachments": [
+    "attachment.php?attach=22197&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1587</td><td>2006-12-15</td><td>5</td><td>2006</td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Health Agency of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 15, 2006 as the day on which this Act [BILL C-5], being chapter 5 of Statutes of Canada, 2006, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0145  <strong>Publication Date:</strong> 2006-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1587",
-  "htmlHash": "1bb40899d14ce98c1a8e8c605faad2e8"
+  "htmlHash": "1bb40899d14ce98c1a8e8c605faad2e8",
+  "attachments": [
+    "attachment.php?attach=15637&lang=en"
+  ]
 }

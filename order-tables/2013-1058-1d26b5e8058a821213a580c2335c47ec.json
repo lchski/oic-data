@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1058</td><td>2013-10-07</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Newfoundland and Labrador</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of NEWFOUNDLAND AND LABRADOR (1) the Hon. DAVID B. ORSBORN from October 9 to 11, 2013, inclusive and on October 28, 2013; and (2) the Hon. B. GALE WELSH from October 12 to 15, 2013, inclusive and from October 22 to 27, 2013, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28313&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1058",
-  "htmlHash": "1d26b5e8058a821213a580c2335c47ec"
+  "htmlHash": "1d26b5e8058a821213a580c2335c47ec",
+  "attachments": [
+    "attachment.php?attach=28313&lang=en"
+  ]
 }

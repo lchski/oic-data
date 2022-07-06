@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1310</td><td>2014-11-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFATD</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Government of Canada and the European Space Agency ** Commitment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing designated officials to commit the Government of Canada, including through a vote, at the 2014 Ministerial Council and subsequent related meetings, on the declarations of the EUROPEAN SPACE AGENCY relating to several programs.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30130&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1310",
-  "htmlHash": "f243e176c2d4528ffe9df214dd3bf3cc"
+  "htmlHash": "f243e176c2d4528ffe9df214dd3bf3cc",
+  "attachments": [
+    "attachment.php?attach=30130&lang=en"
+  ]
 }

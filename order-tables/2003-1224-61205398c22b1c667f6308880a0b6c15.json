@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1224</td><td>2003-08-13</td><td></td><td></td><td>TB,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order providing for the discontinuance of certain statutory reports that contain information that is the same or less than the Estimates or Public Accounts.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0146  <strong>Publication Date:</strong> 2003-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3646&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1224",
-  "htmlHash": "61205398c22b1c667f6308880a0b6c15"
+  "htmlHash": "61205398c22b1c667f6308880a0b6c15",
+  "attachments": [
+    "attachment.php?attach=3646&lang=en"
+  ]
 }

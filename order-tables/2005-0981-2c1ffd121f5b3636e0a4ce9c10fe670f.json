@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0981</td><td>2005-05-19</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Air Transport Security Authority Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOSEPH MAURICE GÉRARD BARIL of Ottawa, Ontario, to be Chairperson of the Canadian Air Transport Security Authority, to hold office during pleasure for a term of three years, in the place of Brian Flemming, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10777&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0981",
-  "htmlHash": "2c1ffd121f5b3636e0a4ce9c10fe670f"
+  "htmlHash": "2c1ffd121f5b3636e0a4ce9c10fe670f",
+  "attachments": [
+    "attachment.php?attach=10777&lang=en"
+  ]
 }

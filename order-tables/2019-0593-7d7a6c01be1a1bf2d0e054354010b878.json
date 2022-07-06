@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0593</td><td>2019-05-23</td><td></td><td></td><td>,&nbsp; DFO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KEITH SULLIVAN of Bay Bulls, Newfoundland and Labrador, to be a Canadian representative to the General Council and to the Fisheries Commission of the Northwest Atlantic Fisheries Organization, to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37917&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0593",
-  "htmlHash": "7d7a6c01be1a1bf2d0e054354010b878"
+  "htmlHash": "7d7a6c01be1a1bf2d0e054354010b878",
+  "attachments": [
+    "attachment.php?attach=37917&lang=en"
+  ]
 }

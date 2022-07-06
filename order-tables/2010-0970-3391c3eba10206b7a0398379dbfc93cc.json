@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0970</td><td>2010-08-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">S.C.1974-75-76, c.104</td></tr><tr><td>Subject</td><td colspan=\"5\">Double Taxation - Canada/France ** Declaration **  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the SUPPLEMENTARY AGREEMENT intended to amend the CANADA-FRANCE CONVENTION for the AVOIDANCE OF DOUBLE TAXATION and the PREVENTION OF FISCAL EVASION with respect to TAXES ON INCOME AND ON CAPITAL, signed in Paris on February 2, 2010, is approved by Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22951&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0970",
-  "htmlHash": "3391c3eba10206b7a0398379dbfc93cc"
+  "htmlHash": "3391c3eba10206b7a0398379dbfc93cc",
+  "attachments": [
+    "attachment.php?attach=22951&lang=en"
+  ]
 }

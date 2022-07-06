@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-2024</td><td>2003-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Hon. JEAN AUGUSTINE, a Minister of State to be styled Minister of State (Multiculturalism and Status of Women), to assist the Minister of Canadian Heritage.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0194  <strong>Publication Date:</strong> 2003-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5434&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-2024",
-  "htmlHash": "20234742f1fcf7c06ad331a91fdcba5a"
+  "htmlHash": "20234742f1fcf7c06ad331a91fdcba5a",
+  "attachments": [
+    "attachment.php?attach=5434&lang=en"
+  ]
 }

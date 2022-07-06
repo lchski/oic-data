@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1328</td><td>2011-11-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">AGREEMENT - Bring into force the Promotion and Protection of Investments \nSlovak Republic</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Agreement between Canada and the SLOVAQ REPUBLIC  for the PROMOTION AND PROTECTION OF INVESTMENTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25010&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1328",
-  "htmlHash": "5b60a93270c5f76bfe2feb00df96e0a9"
+  "htmlHash": "5b60a93270c5f76bfe2feb00df96e0a9",
+  "attachments": [
+    "attachment.php?attach=25010&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1449</td><td>2018-11-22</td><td></td><td></td><td>,&nbsp; ISED,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce et d'industrie Magog-Orford (Quebec) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE ET D'INDUSTRIE DE MAGOG-ORFORD, in Quebec, to CHANGE THE BOUNDARIES OF ITS DISTRICT, namely the City and the Township of Magog, to Austin, Ayer's Cliff, Bolton-Est, Eastman, Hatley, Township of Hatley, Ogden, Township of Orford, Township of Potton, Saint-Benoît-du-Lac, Sainte-Étenne-de-Bolton, Sainte-Catherine-de-Hatley, Township of Stanstead, Town of Stanstead et Village of Stukely-Sud.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37127&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1449",
-  "htmlHash": "a9a46cc5cf7ef1237689f193dad305ec"
+  "htmlHash": "a9a46cc5cf7ef1237689f193dad305ec",
+  "attachments": [
+    "attachment.php?attach=37127&lang=en"
+  ]
 }

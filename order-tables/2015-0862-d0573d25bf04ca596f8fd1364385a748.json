@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0862</td><td>2015-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Income Tax Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending THE INCOME TAX REGULATIONS in order to (1) add new reporting requirements in respect of payments from the Apprenticeship Incentive Grant program, the Apprentice Completion Grant program and the Universal Child Care Benefit program; (2) prescribe two additional information returns for purposes of the graduated late filing penalty in the Income Tax Act; (3) prescribe the distribution of shares in three distinct scenarios for purposes of the foreign spin-off tax deferral rules; and (4) amend the list of foreign universities to which a Canadian may donate and receive tax relief in respect of that donation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0170  <strong>Publication Date:</strong> 2015-07-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31192&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0862",
-  "htmlHash": "d0573d25bf04ca596f8fd1364385a748"
+  "htmlHash": "d0573d25bf04ca596f8fd1364385a748",
+  "attachments": [
+    "attachment.php?attach=31192&lang=en"
+  ]
 }

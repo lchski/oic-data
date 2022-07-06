@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0438</td><td>2016-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 185 (Manitoba)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 185 which makes a declaration of federal concern and authorizes the provision of financial assistance to the province of MANITOBA, with respect to the HEAVY RAINFALL AND HIGH WINDS, that affected the province, from June 27 to 30, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32118&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0438",
-  "htmlHash": "aa8f3bff34dce7d055a3ed17195f9d85"
+  "htmlHash": "aa8f3bff34dce7d055a3ed17195f9d85",
+  "attachments": [
+    "attachment.php?attach=32118&lang=en"
+  ]
 }

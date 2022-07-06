@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0607</td><td>2015-05-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFATD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Colombia Free Trade Agreement </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the measures necessary to modify Canada's lists of covered entities in the government procurement market access schedule, as to reflect entity name changes and governmental reorganization, in the CANADA-COLOMBIA FREE TRADE AGREEMENT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0607",
-  "htmlHash": "c6a2715164ecdf31a11cece9432b3803"
+  "htmlHash": "c6a2715164ecdf31a11cece9432b3803",
+  "attachments": [
+    "attachment.php?attach=30931&lang=en"
+  ]
 }

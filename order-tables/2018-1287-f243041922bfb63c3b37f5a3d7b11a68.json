@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1287</td><td>2018-10-17</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PETER D. ROUTLEDGE of Ottawa, Ontario, to be President and Chief Executive Officer of the Canada Deposit Insurance Corporation, to hold office during pleasure for a term of five years, effective November 12, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36967&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1287",
-  "htmlHash": "f243041922bfb63c3b37f5a3d7b11a68"
+  "htmlHash": "f243041922bfb63c3b37f5a3d7b11a68",
+  "attachments": [
+    "attachment.php?attach=36967&lang=en"
+  ]
 }

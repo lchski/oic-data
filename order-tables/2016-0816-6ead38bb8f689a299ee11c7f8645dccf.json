@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0816</td><td>2016-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Prohibition of Certain Toxic Substances Regulations, 2012</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PROHIBITION OF CERTAIN TOXIC SUBSTANCES REGULATIONS, 2012 in order to (1) address different issues with respect to Canada’s management of five toxic substances which are hexabromocyclododecane (HBCD), perfluorooctanoic acid, its salts, and its precursors (collectively referred to as PFOA), long-chain perfluorocarboxylic acids, their salts, and their precursors (collectively referred to as LC-PFCAs), polybrominated diphenyl ethers (PBDEs); and, perfluorooctane sulfonate (PFOS); and (2) address some administrative changes to the Regulations, some of which were requested by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0252  <strong>Publication Date:</strong> 2016-10-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32511&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0816",
-  "htmlHash": "6ead38bb8f689a299ee11c7f8645dccf"
+  "htmlHash": "6ead38bb8f689a299ee11c7f8645dccf",
+  "attachments": [
+    "attachment.php?attach=32511&lang=en"
+  ]
 }

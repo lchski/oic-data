@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0462</td><td>2015-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGSC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Lands Company Ltd.  ** Corporate Plan **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) approving the CORPORATE PLAN of the CANADA LANDS COMPANY LIMITED for the 2015-16 to 2019-20 planning period; (2) authorizing the OLD PORT OF MONTRÉAL CORPORATION INC. to enter into up to 100 leases in 2015-16; (3) authorizing PARC DOWNSVIEW PARK INC. to enter into up to 60 leases in 2015-16; and (4) repealing Order in Council P.C. 2014-0822 of June 18, 2014, and authorizing PARC DOWNSVIEW PARK INC. to lease to the CENTENNIAL COLLEGE OF APPLIED ARTS AND TECHNOLOGY the property of approximately four acres held by PARC DOWNSVIEW PARK INC. at 65 Carl Hall Road, Toronto, Ontario.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30788&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0462",
-  "htmlHash": "0f05ef8bbb26d05b56a227423a2eb3f4"
+  "htmlHash": "0f05ef8bbb26d05b56a227423a2eb3f4",
+  "attachments": [
+    "attachment.php?attach=30788&lang=en"
+  ]
 }

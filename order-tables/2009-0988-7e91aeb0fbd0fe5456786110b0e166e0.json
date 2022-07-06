@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0988</td><td>2009-06-16</td><td></td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Queen's Regulations and Orders for the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of members of the Appeal Committee, effective April 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20859&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0988",
-  "htmlHash": "7e91aeb0fbd0fe5456786110b0e166e0"
+  "htmlHash": "7e91aeb0fbd0fe5456786110b0e166e0",
+  "attachments": [
+    "attachment.php?attach=20859&lang=en"
+  ]
 }

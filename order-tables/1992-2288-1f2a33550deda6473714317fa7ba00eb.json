@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2288</td><td>1992-11-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Accession to the Protocol\nof 1978, as amended, Relating to the INTERNATIONAL CONVENTION FOR THE\nPREVENTION OF POLLUTION FROM SHIPS, 1973 (MARPOL 73/78).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2288",
-  "htmlHash": "1f2a33550deda6473714317fa7ba00eb"
+  "htmlHash": "1f2a33550deda6473714317fa7ba00eb",
+  "attachments": []
 }

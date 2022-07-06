@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1129</td><td>2020-12-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Milton Logistics Hub project in Milton, Ontario ** Extension **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order extending the time limit for the issuing a decision statement to the Canadian National Railway Company with respect to the MILTON LOGISTICS HUB PROJECT in Milton, Ontario by an additional 30 days.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1129",
-  "htmlHash": "59e263ca243dbf77e650932a6c78279f"
+  "htmlHash": "59e263ca243dbf77e650932a6c78279f",
+  "attachments": [
+    "attachment.php?attach=40159&lang=en"
+  ]
 }

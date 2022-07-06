@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1186</td><td>2019-08-07</td><td>28</td><td>2019</td><td>ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing August 28, 2019 as the Day on which that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing August 28, 2019 as the day on which AN ACT TO ENACT THE IMPACT ASSESSMENT ACT AND THE CANADIAN ENERGY REGULATOR ACT, TO AMEND THE NAVIGATION PROTECTON ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS, other than sections 2 to 8, subsection 47(4), sections 55 and 60, subsection 61(5) and sections 62, 74 and 189 to 195, chapter 28 of the Statutes of Canada, 2019, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0086  <strong>Publication Date:</strong> 2019-08-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38524&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1186",
-  "htmlHash": "a8601c5c01b2ac8a3d01e2330fe92ad8"
+  "htmlHash": "a8601c5c01b2ac8a3d01e2330fe92ad8",
+  "attachments": [
+    "attachment.php?attach=38524&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2150</td><td>1998-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PERSONS AND POSITIONS EXCLUSION APPROVAL ORDER (PERSONS\nEMPLOYED FIVE YEARS OR MORE) NO. 39 - which exempts 89 term employees, each\nof whom has been employed by the same department in the federal Public\nService for five or more years, from the application of specific provisions\nof the Public Service Employment Act upon their assignment to positions of\nindeterminate duration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0125  <strong>Publication Date:</strong> 1998-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2150",
-  "htmlHash": "7a01f3a6242a60695603e7fb44b12ca6"
+  "htmlHash": "7a01f3a6242a60695603e7fb44b12ca6",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0932</td><td>1995-06-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the STATISTICS CANADA 1996 CENSUS OF POPULATION TERMS\nEXCLUSION APPROVAL ORDER amending the definition of \"persons\" to facilitate\nthe hiring of persons employed in the Statistics Survey Operations whose\nemployment is not subject to the Public Service Employment Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0072  <strong>Publication Date:</strong> 1995-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0932",
-  "htmlHash": "5ce8b004f37da1daeb43c5bedbdeb2bb"
+  "htmlHash": "5ce8b004f37da1daeb43c5bedbdeb2bb",
+  "attachments": []
 }

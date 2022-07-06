@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0323</td><td>2019-04-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; HC,&nbsp; CFIA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Beer)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (BEER) in order to modernize the compositional standards for beer and ale, stout, porter and malt liquor by: (1) reducing duplication by having one compositional standard for all types of beers regardless of style, and one source of information for food additives relating to beer; (2) allowing for the use of new ingredients and flavouring preparations to enable innovation and better reflect market developments; (3) maintaining the integrity of beer by setting a maximum level of residual sugar; and, (4) clarifying existing requirements to reduce inconsistencies.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0098  <strong>Publication Date:</strong> 2019-05-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0323",
-  "htmlHash": "3dbd6de863a1a77ca3eb4b2d968219b7"
+  "htmlHash": "3dbd6de863a1a77ca3eb4b2d968219b7",
+  "attachments": [
+    "attachment.php?attach=37644&lang=en"
+  ]
 }

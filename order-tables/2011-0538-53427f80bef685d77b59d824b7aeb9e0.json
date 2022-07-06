@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0538</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws - Northwest Territories Bills #s 8, 9, 12, 13 and 21-24 - 5th Session of the Sixteenth Legislative Assembly </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of a number of LAWS (Bill Nos. 8, 9, 12, 13 and 21-24) made by the Legislature of the Northwest Territories during the Fifth Session of the Sixteenth Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24207&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0538",
-  "htmlHash": "53427f80bef685d77b59d824b7aeb9e0"
+  "htmlHash": "53427f80bef685d77b59d824b7aeb9e0",
+  "attachments": [
+    "attachment.php?attach=24207&lang=en"
+  ]
 }

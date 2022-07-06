@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0934</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Trust and Loan Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Insurance Business (Trust and Loan Companies) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INSURANCE BUSINESS (TRUST AND LOAN COMPANIES) REGULATIONS, in order to extend existing policy to the web pages of deposit-taking financial institutions, in order to help ensure a greater consistency between the promotion of insurance products permitted on the web pages of deposit-taking financial institutions and the promotion that is permitted in their branches.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0186  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24612&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0934",
-  "htmlHash": "43cb13ca4e1c799a5574cb3e5deaf43f"
+  "htmlHash": "43cb13ca4e1c799a5574cb3e5deaf43f",
+  "attachments": [
+    "attachment.php?attach=24612&lang=en"
+  ]
 }

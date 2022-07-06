@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0160</td><td>2006-03-23</td><td></td><td></td><td>PMO,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2005-541 of April 7, 2005 concerning the appointment of HELEN RAY DEL VAL as a full-time member of the Canadian Radio-television and Telecommunications Commissiion.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14032&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0160",
-  "htmlHash": "4dfd1036c583434aeeff65a7fa7f2cc8"
+  "htmlHash": "4dfd1036c583434aeeff65a7fa7f2cc8",
+  "attachments": [
+    "attachment.php?attach=14032&lang=en"
+  ]
 }

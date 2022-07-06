@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1332</td><td>2019-10-15</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KAROLINA GUAY as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of El Salvador; and JEAN-PHILIPPE LINTEAU as Consul General of Canada in Dubai (United Arab Emirates).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38670&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1332",
-  "htmlHash": "efcf9d5111ef83ade49cfe717c13b535"
+  "htmlHash": "efcf9d5111ef83ade49cfe717c13b535",
+  "attachments": [
+    "attachment.php?attach=38670&lang=en"
+  ]
 }

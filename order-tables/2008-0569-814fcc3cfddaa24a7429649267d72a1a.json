@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0569</td><td>2008-03-11</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following judges to serve as ADMINISTRATOR of the Government of  NEWFOUNDLAND AND LABRADOR:\n\n- The Hon. J. DEREK GREEN - from March 17, 2008 to March 29, 2008, inclusive.\n- The Hon. MARGARET CAMERON - from March 30, 2008 to April 6, 2008, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18385&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0569",
-  "htmlHash": "814fcc3cfddaa24a7429649267d72a1a"
+  "htmlHash": "814fcc3cfddaa24a7429649267d72a1a",
+  "attachments": [
+    "attachment.php?attach=18385&lang=en"
+  ]
 }

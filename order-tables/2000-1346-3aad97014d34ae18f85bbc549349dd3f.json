@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1346</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to issue an INSTRUMENT OF\nACCESSION with respect to the PROTOCOL OF AMENDMENT to the International\nConvention on the Simplification and Harmonization of Customs Procedures,\ndone at Brussels on June 26, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1346",
-  "htmlHash": "3aad97014d34ae18f85bbc549349dd3f"
+  "htmlHash": "3aad97014d34ae18f85bbc549349dd3f",
+  "attachments": []
 }

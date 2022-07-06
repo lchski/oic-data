@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1148</td><td>2011-09-29</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Tourism Commission 2011-2015 **CORPORATE  PLAN **  AMENDMENT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Amended Corporate Plan of the CANADIAN TOURISM COMMISSION for the period beginning January 1, 2011, and ending                                                                           December 31, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24824&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1148",
-  "htmlHash": "3da7c5a9eb02da7e831ff280189153b0"
+  "htmlHash": "3da7c5a9eb02da7e831ff280189153b0",
+  "attachments": [
+    "attachment.php?attach=24824&lang=en"
+  ]
 }

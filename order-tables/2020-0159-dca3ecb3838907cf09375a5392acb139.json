@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0159</td><td>2020-03-18</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Maintaining the Safety of Persons in Ports and the Seaway</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations maintaining the SAFETY OF PERSONS IN PORTS AND THE SEAWAY in order to minimize the risk of COVID-19 spreading to port and Seaway workers who directly interact with cruise ship crew and passengers during regular operations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0054 </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38954&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0159",
-  "htmlHash": "dca3ecb3838907cf09375a5392acb139"
+  "htmlHash": "dca3ecb3838907cf09375a5392acb139",
+  "attachments": [
+    "attachment.php?attach=38954&lang=en"
+  ]
 }

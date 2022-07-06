@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0967</td><td>2020-11-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; PHAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to COVID-19 in Canada Order (Mandatory Isolation), No. 8</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO COVID-19 IN CANADA ORDER (MANDATORY ISOLATION), NO. 8  in order to (1) support Canada’s continued focus on reducing the introduction and further spread of COVID-19 by decreasing the risk of importing cases from outside the country; (2) maintain the previous requirements that all persons who have reasonable grounds to suspect they have COVID-19, have signs and symptoms of COVID-19, or know they have COVID-19 upon entry into Canada are required to quarantine or isolate for 14 days, including asymptomatic persons, with limited exceptions; (3) exempt athletes and support personnel participating in or engaging in certain high-performance international single sport events from the requirement to quarantine under specified conditions; (4) remove clauses that are expired, and update clause references accordingly; and (5) make minor edits for improved readability.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39976&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0967",
-  "htmlHash": "c699ff0233a2a26c30942d68fc057f1d"
+  "htmlHash": "c699ff0233a2a26c30942d68fc057f1d",
+  "attachments": [
+    "attachment.php?attach=39976&lang=en"
+  ]
 }

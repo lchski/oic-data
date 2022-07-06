@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1288</td><td>2014-11-20</td><td></td><td></td><td>AANDC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Tla'amin Final Agreement ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring in perpetuity, to HER MAJESTY IN RIGHT OF THE PROVINCE OF BRITISH COLUMBIA the administration and control of the entire residual interest, if any, of Her Majesty in right of Canada in the former federal lands, including the Former Sliammon Indian Reserves, as set out in the TLA'AMIN FINAL AGREEMENT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30105&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1288",
-  "htmlHash": "60826eca1d5311da7e333909602b9a11"
+  "htmlHash": "60826eca1d5311da7e333909602b9a11",
+  "attachments": [
+    "attachment.php?attach=30105&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0578</td><td>2010-05-13</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Mexico  - Protocol amending the Air Transport Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs or other signatories to sign, on behalf of the Government of Canada, subject to ratification, the PROTOCOL AMENDING THE AIR TRANSPORT AGREEMENT between Canada and the UNITED MEXICAN STATES.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22553&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0578",
-  "htmlHash": "a6fdaa8279930b10edfc070bbc692cfe"
+  "htmlHash": "a6fdaa8279930b10edfc070bbc692cfe",
+  "attachments": [
+    "attachment.php?attach=22553&lang=en"
+  ]
 }

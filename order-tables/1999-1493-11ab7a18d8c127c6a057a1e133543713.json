@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1493</td><td>1999-08-26</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL PARKS FISHING REGULATIONS by adjusting\nopen season dates, species, catch and possession limits and the schedule of\nclosed waters, by establishing a mandatory lake trout tagging and catch\nreporting system at Prince Albert National Park, and by amending the salmon\nlicensing and reporting requirements at National Parks in the Atlantic\nRegion (Cape Breton Highlands, Kouchibouguac and Terra Nova).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0352  <strong>Publication Date:</strong> 1999-09-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1493",
-  "htmlHash": "11ab7a18d8c127c6a057a1e133543713"
+  "htmlHash": "11ab7a18d8c127c6a057a1e133543713",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1068</td><td>1998-06-11</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of TOM BECK, of Calgary, Alberta, as Chairman of the\nEnvironmental Impact Screening Committee for a term of three years,\neffective June 9, 1998; re-appointment of TOM BUTTERS, of Inuvik,\nNorthwest Territories, as a permanent member of the Environmental Impact\nScreening Committee for a term of three years, effective July 6, 1998;\nand appointment of MARSHA BRANIGAN, of Inuvik, Northwest Terrritories, as\na permanent member of the Environmental Impact Screening Committee, for a\nterm of three years, effective June 12, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1068",
-  "htmlHash": "eb3a2806e3280f8604e962e183cc55bf"
+  "htmlHash": "eb3a2806e3280f8604e962e183cc55bf",
+  "attachments": []
 }

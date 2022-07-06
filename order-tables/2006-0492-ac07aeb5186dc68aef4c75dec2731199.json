@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0492</td><td>2006-06-08</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of the AIDS TO NAVIGATION PROTECTION REGULATIONS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0126  <strong>Publication Date:</strong> 2006-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14404&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0492",
-  "htmlHash": "ac07aeb5186dc68aef4c75dec2731199"
+  "htmlHash": "ac07aeb5186dc68aef4c75dec2731199",
+  "attachments": [
+    "attachment.php?attach=14404&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0762</td><td>2014-06-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Office of the Superintendent of Financial Institutions Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEREMY RUDIN of Ottawa, Ontario, to be the Superintendent of Financial Institutions to hold office during good behaviour for a term of seven years effective June 29, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29606&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0762",
-  "htmlHash": "f4dc1b70959376819a8524d72dd10e65"
+  "htmlHash": "f4dc1b70959376819a8524d72dd10e65",
+  "attachments": [
+    "attachment.php?attach=29606&lang=en"
+  ]
 }

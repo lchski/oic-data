@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0867</td><td>2009-06-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Contraventions Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Schedule II.1 in order to ensure that the existing short-form descriptions of the contraventions already found in Schedule II.1 are in step with the wording and numbering of the offences under the new Ontario Fishery Regulations, 2007.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0166  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20731&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0867",
-  "htmlHash": "d9542fdfedce6961130d5033cc27fbca"
+  "htmlHash": "d9542fdfedce6961130d5033cc27fbca",
+  "attachments": [
+    "attachment.php?attach=20731&lang=en"
+  ]
 }

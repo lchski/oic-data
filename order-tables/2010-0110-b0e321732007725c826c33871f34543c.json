@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0110</td><td>2010-02-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Pacific Coast Albacore Tuna Vessels and Port Privileges - Exchange of Notes.  **RATIFICATION**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the necessary action to bring into force for Canada the EXCHANGE OF NOTES between the Government of Canada and the Government of the United States of America CONCLUDING AMENDMENTS TO THE TREATY between the Government of Canada and the Government of the United States of America ON PACIFIC COAST ALBACORE TUNA VESSELS AND PORT PRIVILEGES.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22084&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0110",
-  "htmlHash": "b0e321732007725c826c33871f34543c"
+  "htmlHash": "b0e321732007725c826c33871f34543c",
+  "attachments": [
+    "attachment.php?attach=22084&lang=en"
+  ]
 }

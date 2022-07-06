@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1907</td><td>2008-12-12</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Business Corporations Act<br>Canada Cooperatives Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN DEPARTMENT OF INDUSTRY REGULATIONS to ensure that the Canada Business Corporations Regulations, 2001 and Canada Cooperatives Regulations (Coop Regulations) requirements for forms of proxy and proxy circulars are aligned with provincial and territorial corporate and securities law requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0315  <strong>Publication Date:</strong> 2008-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19780&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1907",
-  "htmlHash": "d29def851d04759a993d209e3aca862b"
+  "htmlHash": "d29def851d04759a993d209e3aca862b",
+  "attachments": [
+    "attachment.php?attach=19780&lang=en"
+  ]
 }

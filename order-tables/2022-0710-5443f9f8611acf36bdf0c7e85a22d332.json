@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0710</td><td>2022-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Natural Health Products Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATURAL HEALTH PRODUCTS REGULATIONS (NHPR) in order to (1) require important product information be presented in a standardized facts table; (2) require labelling of food allergens, gluten, added sulphites and aspartame; (3) subject regulatory text to legibility requirements; (4) require a manufacturer or importer to display an e-mail address, telephone number, or website address within an NHP’s Product Facts.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0146  <strong>Publication Date:</strong> 2022-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42256&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0710",
-  "htmlHash": "5443f9f8611acf36bdf0c7e85a22d332"
+  "htmlHash": "5443f9f8611acf36bdf0c7e85a22d332",
+  "attachments": [
+    "attachment.php?attach=42256&lang=en"
+  ]
 }

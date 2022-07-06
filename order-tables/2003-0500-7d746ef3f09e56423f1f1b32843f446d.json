@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0500</td><td>2003-04-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PATRICK JOSEPH DUNNE of London, Ontario, to be a member of the Review Tribunal for the region of London for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1976&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0500",
-  "htmlHash": "7d746ef3f09e56423f1f1b32843f446d"
+  "htmlHash": "7d746ef3f09e56423f1f1b32843f446d",
+  "attachments": [
+    "attachment.php?attach=1976&lang=en"
+  ]
 }

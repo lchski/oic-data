@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0470</td><td>2015-04-30</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Exemption Regulations (Consumer Products)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXEMPTION REGULATIONS (CONSUMER PRODUCTS) in order to exempt retailers from the requirements to prepare and maintain documents established under subparagraph 13(1)(a)(i) of the Canada Consumer Product Safety Act in respect of a consumer product they obtain by donation from persons other than those who are or were engaged in the business of manufacturing, importing or selling of such consumer products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0097  <strong>Publication Date:</strong> 2015-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30796&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0470",
-  "htmlHash": "d28ea918c09baee12802b94f057865a6"
+  "htmlHash": "d28ea918c09baee12802b94f057865a6",
+  "attachments": [
+    "attachment.php?attach=30796&lang=en"
+  ]
 }

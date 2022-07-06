@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1796</td><td>2007-11-29</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to CLAUDE de BROIN, widow of the Hon. Pierre C. Fournier, a Puisne Judge of the Superior Court for the Districts Mégantic and Saint-François in the Province of Quebec, effective October 17, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17620&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1796",
-  "htmlHash": "03d0a0454b92c9370da0527d96860ba3"
+  "htmlHash": "03d0a0454b92c9370da0527d96860ba3",
+  "attachments": [
+    "attachment.php?attach=17620&lang=en"
+  ]
 }

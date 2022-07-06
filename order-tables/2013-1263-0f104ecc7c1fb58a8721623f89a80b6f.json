@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1263</td><td>2013-11-21</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Frampton (Quebec) ** DISSOLUTION **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the DISSOLUTION OF LA CHAMBRE DE COMMERCE DE FRAMPTON, in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28528&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1263",
-  "htmlHash": "0f104ecc7c1fb58a8721623f89a80b6f"
+  "htmlHash": "0f104ecc7c1fb58a8721623f89a80b6f",
+  "attachments": [
+    "attachment.php?attach=28528&lang=en"
+  ]
 }

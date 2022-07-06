@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1526</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment to the Certificate of Public Convenience and Necessity OC-5 that was issued to MONTREAL PIPE LINE LIMITED which provides for the removal of three delivery lines servicing the Shell refinery in Montréal-Est, Quebec, following their sale to Shell Canada Products Limited.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12454&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1526",
-  "htmlHash": "412f7885a08efe6adba55a5f2b356c95"
+  "htmlHash": "412f7885a08efe6adba55a5f2b356c95",
+  "attachments": [
+    "attachment.php?attach=12454&lang=en"
+  ]
 }

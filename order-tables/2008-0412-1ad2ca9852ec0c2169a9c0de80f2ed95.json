@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0412</td><td>2008-02-28</td><td>11</td><td>2007</td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to Amend the Canada Pension Plan and the Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">**COMING INTO FORCE ** \nVarious Sections Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing March 3, 2008 as the date on which sections 2, 12 to 14, and 36 of AN ACT TO AMEND THE CANADA PENSION PLAN AND THE OLD AGE SECURITY ACT, being Chapter 11 of the Statutes of Canada 2007, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0030  <strong>Publication Date:</strong> 2008-03-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0412",
-  "htmlHash": "1ad2ca9852ec0c2169a9c0de80f2ed95"
+  "htmlHash": "1ad2ca9852ec0c2169a9c0de80f2ed95",
+  "attachments": [
+    "attachment.php?attach=18218&lang=en"
+  ]
 }

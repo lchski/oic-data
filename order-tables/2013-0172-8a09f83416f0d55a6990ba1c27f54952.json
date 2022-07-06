@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0172</td><td>2013-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Employment Insurance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the EMPLOYMENT INSURANCE REGULATIONS in order to support full implementation of the amendments to the Employment Insurance Act to provide enhanced access to Employment Insurance sickness benefits for claimants in receipt of Employment Insurance parental benefits.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0026  <strong>Publication Date:</strong> 2013-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27394&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0172",
-  "htmlHash": "8a09f83416f0d55a6990ba1c27f54952"
+  "htmlHash": "8a09f83416f0d55a6990ba1c27f54952",
+  "attachments": [
+    "attachment.php?attach=27394&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1909</td><td>2008-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Business Corporations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing certain orders made under the CANADA BUSINESS CORPORATIONS ACT: this order repeals the following orders under the Canada Business Corporations Act (CBCA) because they are spent (i.e. no longer enforced):Order in Council P.C. 1980-2057 of July 31, 1980 (SOR/80-629); and Order in Council P.C. 1980-3378 of December 11, 1980 (SOR/80-957).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0317  <strong>Publication Date:</strong> 2008-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19782&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1909",
-  "htmlHash": "0ded16660a84f0fee4bbc76bedb1d482"
+  "htmlHash": "0ded16660a84f0fee4bbc76bedb1d482",
+  "attachments": [
+    "attachment.php?attach=19782&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0897</td><td>2014-07-31</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (2015 Pan American and Parapan American Games)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (2015 PAN AMERICAN AND PARAPAN AMERICAN GAMES) in order to accept a varied application type, thereby facilitating entry for foreign national Pan American Family Members and Parapan American Family Members without compromising the integrity of the immigration system, or the health and safety of Canadians, and to waive fees for the issuance of a multiple entry temporary resident visa or temporary resident permit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0185  <strong>Publication Date:</strong> 2014-08-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29714&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0897",
-  "htmlHash": "2b952dc2f5d635c99e7f443a98dfaaa8"
+  "htmlHash": "2b952dc2f5d635c99e7f443a98dfaaa8",
+  "attachments": [
+    "attachment.php?attach=29714&lang=en"
+  ]
 }

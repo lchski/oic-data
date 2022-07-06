@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0343</td><td>2013-03-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring to the Minister of Health the powers, duties and functions of the Minister of Agriculture and Agri-Food and from the Canadian Food Inspection Agency to the Public Health Agency of Canada the control and supervision of that portion of the Federal Public Administration known as the Domestic Terrestrial Animal Pathogen Unit\n \n </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring (1) to the Minister of Health certain powers, duties and functions of the Minister of Agriculture and Agri-Food set out in section 160 of the Health of Animals Regulations; and (2) from the Canadian Food Inspection Agency to the Public Health Agency of Canada the control and supervision of that portion of the federal public administration in the Canadian Food Inspection Agency known as the Domestic Terrestrial Animal Pathogen Unit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0041  <strong>Publication Date:</strong> 2013-04-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27569&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0343",
-  "htmlHash": "ed3a6081132f931594e418a4615d7f7d"
+  "htmlHash": "ed3a6081132f931594e418a4615d7f7d",
+  "attachments": [
+    "attachment.php?attach=27569&lang=en"
+  ]
 }

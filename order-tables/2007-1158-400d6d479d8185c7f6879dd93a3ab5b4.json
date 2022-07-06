@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1158</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Request to the AUDITOR GENERAL OF CANADA to inquire into and make annual reports on the reconciliation or the determination of amounts referred to or provided for in the sales tax administration agreements between the Crown and the LITTLE SHUSWAP LAKE INDIAN BAND and the TSAWOUT FIRST NATION.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16849&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1158",
-  "htmlHash": "400d6d479d8185c7f6879dd93a3ab5b4"
+  "htmlHash": "400d6d479d8185c7f6879dd93a3ab5b4",
+  "attachments": [
+    "attachment.php?attach=16849&lang=en"
+  ]
 }

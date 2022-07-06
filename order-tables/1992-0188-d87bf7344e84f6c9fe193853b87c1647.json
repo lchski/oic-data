@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0188</td><td>1992-02-06</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMMIGRATION REGULATIONS, 1978 extending eligibility as a\nfamily member for purposes of immigration to children who are dependent on\ntheir parents while excluding adult non-dependent children.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0101  <strong>Publication Date:</strong> 1992-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0188",
-  "htmlHash": "d87bf7344e84f6c9fe193853b87c1647"
+  "htmlHash": "d87bf7344e84f6c9fe193853b87c1647",
+  "attachments": []
 }

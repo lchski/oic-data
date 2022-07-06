@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2126</td><td>1991-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of John Anderson, of St. Andrews, New Brunswick, as a\nmember of the Science Council of Canada, to hold office for a term of two\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2126",
-  "htmlHash": "56a8dcc6cb6ec2e05b2e0be7d2643d1c"
+  "htmlHash": "56a8dcc6cb6ec2e05b2e0be7d2643d1c",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0982</td><td>2020-12-04</td><td></td><td></td><td>ISED,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Copyright Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Establishing Time Limits in Relation to Matters Before the Copyright Board</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS ESTABLISHING TIME LIMITS IN RELATION TO MATTERS BEFORE THE COPYRIGHT BOARD in order to specify time limits by which the Board must render final decisions in its proceedings, varying according to the types of such proceedings.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0264  <strong>Publication Date:</strong> 2020-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39992&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0982",
-  "htmlHash": "e21d5d20169bf2650e3e9fc21338c6a7"
+  "htmlHash": "e21d5d20169bf2650e3e9fc21338c6a7",
+  "attachments": [
+    "attachment.php?attach=39992&lang=en"
+  ]
 }

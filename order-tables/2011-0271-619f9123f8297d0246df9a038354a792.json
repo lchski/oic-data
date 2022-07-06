@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0271</td><td>2011-03-03</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">** ANTI-DOPING CONVENTION ** Amendments to Annex I and Annex II</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to accept, on behalf of the Government of Canada, the amendments to Annex I and Annex II of the INTERNATIONAL CONVENTION AGAINST DOPING IN SPORT.  The purpose of the amendments was to update the Prohibited List – International Standard and the Standards for Granting Therapeutic Use Exemptions, both of which are annexed to the Convention.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24034&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0271",
-  "htmlHash": "619f9123f8297d0246df9a038354a792"
+  "htmlHash": "619f9123f8297d0246df9a038354a792",
+  "attachments": [
+    "attachment.php?attach=24034&lang=en"
+  ]
 }

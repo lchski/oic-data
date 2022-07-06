@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1561</td><td>2002-09-24</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CHARGES FOR SERVICES PROVIDED BY THE OFFICE OF THE\nSUPERINTENDENT OF FINANCIAL INSTITUTIONS REGULATIONS 2002 which prescribe\nthe fees to be paid for certain documents or services provided by the\nOffice of the Superintendent, which now include user fees payable by bank\nand insurance holding companies.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0337  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1561",
-  "htmlHash": "581790b5b1675d0ce7aee59128b0ad31"
+  "htmlHash": "581790b5b1675d0ce7aee59128b0ad31",
+  "attachments": []
 }

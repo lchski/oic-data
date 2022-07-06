@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1026</td><td>2007-06-22</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act<br>Cooperative Credit Associations Act<br>Trust and Loan Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN DEPARTMENT OF FINANCE REGULATIONS (MISCELLANEOUS PROGRAM) which will remove the expression « selon le cas » from the French version of the Support Orders and Support Provisions Regulations made under each of these three Acts, so that the notification requirements are the same as the ones in the English version.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0158  <strong>Publication Date:</strong> 2007-07-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16710&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1026",
-  "htmlHash": "da0e3ef302f3664b16d19a9e9bba24d1"
+  "htmlHash": "da0e3ef302f3664b16d19a9e9bba24d1",
+  "attachments": [
+    "attachment.php?attach=16710&lang=en"
+  ]
 }

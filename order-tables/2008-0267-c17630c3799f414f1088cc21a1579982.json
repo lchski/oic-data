@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0267</td><td>2008-02-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSEP,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the entry by the Minister of Public Safety and Emergency Preparedness, on behalf of Canada, into a new EXCHANGE OF SERVICES AGREEMENT with the province of PRINCE EDWARD ISLAND for the transfers and accomodation of their offenders.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18102&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0267",
-  "htmlHash": "c17630c3799f414f1088cc21a1579982"
+  "htmlHash": "c17630c3799f414f1088cc21a1579982",
+  "attachments": [
+    "attachment.php?attach=18102&lang=en"
+  ]
 }

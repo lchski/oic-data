@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0937</td><td>2008-05-15</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE NAME USE BY NON-FINANCIAL BUSINESSES (EXCLUDED ENTITIES) REGULATIONS by amending the descriptions of foreign banks and entities associated with a foreign bank to reflect corresponding changes to the Bank Act under Bill C-37.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0157  <strong>Publication Date:</strong> 2008-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18778&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0937",
-  "htmlHash": "53c98d7ba2c4ea739042ad63f88544c9"
+  "htmlHash": "53c98d7ba2c4ea739042ad63f88544c9",
+  "attachments": [
+    "attachment.php?attach=18778&lang=en"
+  ]
 }

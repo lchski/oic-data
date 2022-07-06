@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1632</td><td>2006-12-18</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Assisted Human Reproduction Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THERESA E. KENNEDY of South Surrey, British Columbia, to be a member of the board of directors of the Assisted Human Reproduction Agency of Canada to hold office during pleasure for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15606&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1632",
-  "htmlHash": "f80585741de3c9c3b09664809eb99be2"
+  "htmlHash": "f80585741de3c9c3b09664809eb99be2",
+  "attachments": [
+    "attachment.php?attach=15606&lang=en"
+  ]
 }

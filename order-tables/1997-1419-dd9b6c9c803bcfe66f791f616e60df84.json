@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1419</td><td>1997-10-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving and giving effect to the LITTLE SALMON/CARMACKS LAND\nCLAIM AGREEMENT and declaring it valid as of October 1, 1997, and (b)\nbringing the SELF-GOVERNMENT AGREEMENT into effect as of October 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1419",
-  "htmlHash": "dd9b6c9c803bcfe66f791f616e60df84"
+  "htmlHash": "dd9b6c9c803bcfe66f791f616e60df84",
+  "attachments": []
 }

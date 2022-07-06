@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1401</td><td>2008-07-30</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Institutes of Health Research Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of PATRICK JOHN McGRATH of Halifax, Nova Scotia, to be a member of the Governing Council of the Canadian Institutes of Health Research to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19253&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1401",
-  "htmlHash": "68b47f5099cc9179715521bf0e18d7d4"
+  "htmlHash": "68b47f5099cc9179715521bf0e18d7d4",
+  "attachments": [
+    "attachment.php?attach=19253&lang=en"
+  ]
 }

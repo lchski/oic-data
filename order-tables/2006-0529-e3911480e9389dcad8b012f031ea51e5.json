@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0529</td><td>2006-06-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the CANADIAN PASSPORT ORDER by substituting references to Passport Canada where its previous name</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0095  <strong>Publication Date:</strong> 2006-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14463&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0529",
-  "htmlHash": "e3911480e9389dcad8b012f031ea51e5"
+  "htmlHash": "e3911480e9389dcad8b012f031ea51e5",
+  "attachments": [
+    "attachment.php?attach=14463&lang=en"
+  ]
 }

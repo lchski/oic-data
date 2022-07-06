@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0208</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (1437 - Maximum Residue Limits for Veterinary Drugs)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1437 - Maximum Residue Limits for Veterinary Drugs) to ensure that the French interpretation of the word is consistent with the English use of the word \"kidneys\".</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0039  <strong>Publication Date:</strong> 2010-03-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22180&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0208",
-  "htmlHash": "4d68ddd3371492f2da06cb0b7d9b7f80"
+  "htmlHash": "4d68ddd3371492f2da06cb0b7d9b7f80",
+  "attachments": [
+    "attachment.php?attach=22180&lang=en"
+  ]
 }

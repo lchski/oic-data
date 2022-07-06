@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0292</td><td>2006-04-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of YVON BUREAU of Charlesbourg, Quebec, to be a director of the Quebec Port Authority, to hold office during pleasure for a term of three years, effective May 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14141&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0292",
-  "htmlHash": "4bc8c0b5621cae99d356f4807eb91cd2"
+  "htmlHash": "4bc8c0b5621cae99d356f4807eb91cd2",
+  "attachments": [
+    "attachment.php?attach=14141&lang=en"
+  ]
 }

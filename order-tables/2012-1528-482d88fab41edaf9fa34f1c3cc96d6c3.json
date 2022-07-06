@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1528</td><td>2012-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CH</td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of MICHAEL J. TIMS of Calgary, Alberta, to be Chairperson of the Board of Trustees of the National Gallery of Canada to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27005&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1528",
-  "htmlHash": "482d88fab41edaf9fa34f1c3cc96d6c3"
+  "htmlHash": "482d88fab41edaf9fa34f1c3cc96d6c3",
+  "attachments": [
+    "attachment.php?attach=27005&lang=en"
+  ]
 }

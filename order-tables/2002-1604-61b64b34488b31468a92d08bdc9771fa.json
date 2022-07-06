@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1604</td><td>2002-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE MARIEVILLE in Quebec to change the\nboundaries of its district to include the municipalities of Rougemont and\nSte-Angèle-de-Monnoir.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1604",
-  "htmlHash": "61b64b34488b31468a92d08bdc9771fa"
+  "htmlHash": "61b64b34488b31468a92d08bdc9771fa",
+  "attachments": []
 }

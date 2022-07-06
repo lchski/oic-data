@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0509</td><td>1995-03-28</td><td>0</td><td></td><td>ISTC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Industry, Science and\nTechnology of certain persons as directors of the Board of Directors of\nthe Federal Business Development Bank to hold office during pleasure for\na term of three years.\n(ELIZABETH ANN CARMICHAEL, Glace Bay, Nova Scotia, in the place of\nRobert E. Stafford, whose term has expired; DOREEN BRAVERMAN, Vancouver,\nBritish Columbia, in the place of Bill Tsakumis, whose term has expired;\nand RITA DE SANTIS, Montreal, Quebec, in the place of Rinaldo Canonico,\nwhose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0509",
-  "htmlHash": "57470513bfd691c56a1a8f0ecd4f624b"
+  "htmlHash": "57470513bfd691c56a1a8f0ecd4f624b",
+  "attachments": []
 }

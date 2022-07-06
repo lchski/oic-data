@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0900</td><td>1990-05-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the GENERAL REVOCATION ORDER (INDIAN ACT) - which provides for\nthe revocation of 13 Regulations concerning Indian Band revenue moneys.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0298  <strong>Publication Date:</strong> 1990-06-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0900",
-  "htmlHash": "f7c722e5bf10ec28baae5da30ee2b56b"
+  "htmlHash": "f7c722e5bf10ec28baae5da30ee2b56b",
+  "attachments": []
 }

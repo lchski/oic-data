@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1572</td><td>2012-11-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of LARRY JAMES CAMPBELL as acting Assistant Deputy Chairperson of the Immigration and Refugee Board, commencing on May 22, 2012 and until such time as an Assistant Deputy Chairperson is designated.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27022&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1572",
-  "htmlHash": "f17f6b258539d0e6defa9bc5d622afb5"
+  "htmlHash": "f17f6b258539d0e6defa9bc5d622afb5",
+  "attachments": [
+    "attachment.php?attach=27022&lang=en"
+  ]
 }

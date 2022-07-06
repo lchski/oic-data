@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0796</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of SHARI A. STEIN of Toronto, Ontario, a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to be Deputy Chairperson of the Immigration and Appeal Division of the Immigration and Refugee Board of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20703&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0796",
-  "htmlHash": "56ed67f158e2e83f99c42d138a86417c"
+  "htmlHash": "56ed67f158e2e83f99c42d138a86417c",
+  "attachments": [
+    "attachment.php?attach=20703&lang=en"
+  ]
 }

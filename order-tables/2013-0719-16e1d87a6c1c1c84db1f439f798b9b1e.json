@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0719</td><td>2013-06-06</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Arts Centre Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of YULANDA FARIS of West Vancouver, British Columbia, to be a member of the Board of Trustees of the National Arts Centre Corporation to hold office during pleasure for a term of four years, in the place of Christopher Donison, effective June 27, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27973&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0719",
-  "htmlHash": "16e1d87a6c1c1c84db1f439f798b9b1e"
+  "htmlHash": "16e1d87a6c1c1c84db1f439f798b9b1e",
+  "attachments": [
+    "attachment.php?attach=27973&lang=en"
+  ]
 }

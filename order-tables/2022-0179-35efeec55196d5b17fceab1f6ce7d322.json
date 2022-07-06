@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0179</td><td>2022-02-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bretton Woods and Related Agreements Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing Export Development Canada to act as an Agent for the Minister of Finance  to Provide Financial Assistance to Ukraine</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing EXPORT DEVELOPMENT CANADA TO ACT AS AN AGENT for the Minister of Finance in order to provide FINANCIAL ASSISTANCE TO UKRAINE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41656&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0179",
-  "htmlHash": "35efeec55196d5b17fceab1f6ce7d322"
+  "htmlHash": "35efeec55196d5b17fceab1f6ce7d322",
+  "attachments": [
+    "attachment.php?attach=41656&lang=en"
+  ]
 }

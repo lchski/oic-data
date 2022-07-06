@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0594</td><td>2021-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Miscellaneous Program, 2021-1)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADIAN AVIATION REGULATIONS (MISCELLANEOUS PROGRAM, 2021-1) (CARs) in order to align the English and French versions of the CARs and correct references to names, eliminate spent regulations and correct grammatical errors.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0152  <strong>Publication Date:</strong> 2021-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40903&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0594",
-  "htmlHash": "e1ff27b5ac4355be5579b268b46b4c81"
+  "htmlHash": "e1ff27b5ac4355be5579b268b46b4c81",
+  "attachments": [
+    "attachment.php?attach=40903&lang=en"
+  ]
 }

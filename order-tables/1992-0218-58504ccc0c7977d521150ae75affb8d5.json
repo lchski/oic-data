@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0218</td><td>1992-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for (a) the WITHDRAWAL FROM DISPOSAL of those lands\nidentified as the SOUTH BAFFIN WITHDRAWAL AREA in order to facilitate the\nsettlement of land claims made by the Tungavik Federation of Nunavut (TFN),\nand (b) the revocation of a previous Order in Council having much the same\neffect (P.C. 1990-2266).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0031  <strong>Publication Date:</strong> 1992-02-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0218",
-  "htmlHash": "58504ccc0c7977d521150ae75affb8d5"
+  "htmlHash": "58504ccc0c7977d521150ae75affb8d5",
+  "attachments": []
 }

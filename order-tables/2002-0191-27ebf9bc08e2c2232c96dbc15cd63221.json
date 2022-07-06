@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0191</td><td>2002-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REPEAL of Order in Council P.C. 1998-334 of March 12, 1998, which\ndesignated the Deputy Prime Minister as Minister responsible for matters\nrelating to the federal government's planning and activities with respect\nto THE MILLENNIUM, effective March 31, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0191",
-  "htmlHash": "27ebf9bc08e2c2232c96dbc15cd63221"
+  "htmlHash": "27ebf9bc08e2c2232c96dbc15cd63221",
+  "attachments": []
 }

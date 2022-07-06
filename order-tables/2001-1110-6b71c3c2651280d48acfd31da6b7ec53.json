@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1110</td><td>2001-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NORTHWEST TERRITORIES ARCHAEOLOGICAL SITES REGULATIONS\nwhich set out detailed instructions with respect to the excavation and\nrestoration of archaeological sites, the terms and conditions of permits,\nthe filing of reports on work undertaken and the deposit of specimens\nrecovered, and come into force on June 15, 2001.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0219  <strong>Publication Date:</strong> 2001-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1110",
-  "htmlHash": "6b71c3c2651280d48acfd31da6b7ec53"
+  "htmlHash": "6b71c3c2651280d48acfd31da6b7ec53",
+  "attachments": []
 }

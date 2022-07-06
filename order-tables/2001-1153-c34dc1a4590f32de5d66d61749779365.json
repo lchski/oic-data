@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1153</td><td>2001-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of The Honourable LANCE S.G. FINCH, Chief Justice of British\nColumbia, as ADMINISTRATOR of the Government of BRITISH COLUMBIA, who\nshall, during pleasure, execute the office and functions of the Lieutenant\nGovernor of British Columbia during the absence, illness or other inability\nof the latter.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1153",
-  "htmlHash": "c34dc1a4590f32de5d66d61749779365"
+  "htmlHash": "c34dc1a4590f32de5d66d61749779365",
+  "attachments": []
 }

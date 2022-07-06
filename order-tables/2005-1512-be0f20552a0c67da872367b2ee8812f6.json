@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1512</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">S.C.1974-75-76, c.104</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue giving notice of the COMING INTO FORCE on October 6, 2004, of the CONVENTION between Canada and BELGIUM for the AVOIDANCE OF DOUBLE TAXATION, etc.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12429&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1512",
-  "htmlHash": "be0f20552a0c67da872367b2ee8812f6"
+  "htmlHash": "be0f20552a0c67da872367b2ee8812f6",
+  "attachments": [
+    "attachment.php?attach=12429&lang=en"
+  ]
 }

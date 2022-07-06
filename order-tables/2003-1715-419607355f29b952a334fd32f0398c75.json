@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1715</td><td>2003-11-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAULE ROBITAILLE of Québec, Quebec, to be a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years, effective January 5, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4614&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1715",
-  "htmlHash": "419607355f29b952a334fd32f0398c75"
+  "htmlHash": "419607355f29b952a334fd32f0398c75",
+  "attachments": [
+    "attachment.php?attach=4614&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0325</td><td>2000-03-16</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Board of Trustees of the Canadian Museum\nof Civilization of VICTOR RABINOVITCH, of Ottawa, Ontario, as Director of\nthe Canadian Museum of Civilization, to hold office during pleasure for a\nterm of five years, effective April 3, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0325",
-  "htmlHash": "b9df0f3b4399ac938d00c4a5c01f3fc4"
+  "htmlHash": "b9df0f3b4399ac938d00c4a5c01f3fc4",
+  "attachments": []
 }

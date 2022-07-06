@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0900</td><td>2015-06-18</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HILARY McCORMACK of Ottawa, Ontario, to be full-time Chairperson of the Military Police Complaints Commission, to hold office during good behaviour for a term of five years, effective October 5, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31230&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0900",
-  "htmlHash": "55b9b96886fae848f88917836eab9afa"
+  "htmlHash": "55b9b96886fae848f88917836eab9afa",
+  "attachments": [
+    "attachment.php?attach=31230&lang=en"
+  ]
 }

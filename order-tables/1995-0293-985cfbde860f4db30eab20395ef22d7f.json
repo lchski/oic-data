@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0293</td><td>1995-02-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADA PORTS CORPORATION (a) to acquire title from the\nCrown with respect to a maritime structure located in the City of La Baie,\nQuebec, known as the SAINT-ALEXIS DE GRANDE-BAIE WHARF, and (b) to transfer\nthe wharf to the City, for tourism and recreational purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0293",
-  "htmlHash": "985cfbde860f4db30eab20395ef22d7f"
+  "htmlHash": "985cfbde860f4db30eab20395ef22d7f",
+  "attachments": []
 }

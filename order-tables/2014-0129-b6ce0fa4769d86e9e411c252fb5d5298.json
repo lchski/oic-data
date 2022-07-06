@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0129</td><td>2014-02-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; IC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Mont-Tremblant (Quebec) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE DE MONT-TREMBLANT, in Quebec, TO CHANGE THE BOUNDARIES OF ITS DISTRICT from the City of Mont-Tremblant to the Municipalities of Mont-Tremblant, Saint-Faustin-Lac-Carré, Brébeuf and La Conception.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28908&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0129",
-  "htmlHash": "b6ce0fa4769d86e9e411c252fb5d5298"
+  "htmlHash": "b6ce0fa4769d86e9e411c252fb5d5298",
+  "attachments": [
+    "attachment.php?attach=28908&lang=en"
+  ]
 }

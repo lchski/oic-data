@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0240</td><td>2017-03-10</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. GEOFFREY R.J. GAUL to serve as ADMINISTRATOR of the Government of BRITISH COLUMBIA (1) from April 4 to 7, 2017, inclusive; (2) from April 30 to May 2, 2017, inclusive; and (3) from May 14 to 19, 2017, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34144&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0240",
-  "htmlHash": "f4b622aa8726bf9e020c8b6668c9be9e"
+  "htmlHash": "f4b622aa8726bf9e020c8b6668c9be9e",
+  "attachments": [
+    "attachment.php?attach=34144&lang=en"
+  ]
 }

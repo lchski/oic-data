@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1971</td><td>2005-11-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SOCIAL DEV</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of RONALD ERNEST MASOTTI of Kingston, Ontario, to be a member of the Review Tribunal for the region of KIngston for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13754&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1971",
-  "htmlHash": "53aa36912635d003518a22e04ffb801a"
+  "htmlHash": "53aa36912635d003518a22e04ffb801a",
+  "attachments": [
+    "attachment.php?attach=13754&lang=en"
+  ]
 }

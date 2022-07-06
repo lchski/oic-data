@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2807</td><td>1990-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to enter into a number of\nreal estate transactions and agreements with the CITY of OTTAWA which, in\nsummary, provide for: (a) the sale or transfer to the City of several\npieces of land (including the baseball stadium lands at Coventry Road and\nVanier Parkway), several streets, parks or bridges, namely Clemow Avenue,\nLinden Terrace, Central Park, Minto Bridges, Echo Drive and The Driveway;\nas well as the perpetual responsibility for the maintenance of several\nmajor public boulevards, local streets, structures and parks, namely\nLakeside Avenue, Heron Road Bridge, Bronson/Heron interchange, Vanier\nParkway, Bronson Park, Island Park Drive, Queen Elizabeth Drive, Colonel\nBy Drive and Experimental Farm Drive; and (b) the transfer to the N.C.C.\nof some 1.03 hectares of land situated at Lansdowne Park.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2807",
-  "htmlHash": "e88f21f18256d52c8f9e29df19b3db49"
+  "htmlHash": "e88f21f18256d52c8f9e29df19b3db49",
+  "attachments": []
 }

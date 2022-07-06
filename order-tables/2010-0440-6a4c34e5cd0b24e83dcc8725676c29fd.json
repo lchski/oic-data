@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0440</td><td>2010-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Settlement and Release Agreement Canada-Alberta\nTransfer of mines and minerals</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the transfer of administration and control to the Government of Alberta over certain mines and minerals as provided for in a settlement agreement in relation to a constitutional dispute between the Government of Canada and the Government of Alberta concerning ownership over certain of those mines and minerals which are situated within Alberta but held by Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22416&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0440",
-  "htmlHash": "6a4c34e5cd0b24e83dcc8725676c29fd"
+  "htmlHash": "6a4c34e5cd0b24e83dcc8725676c29fd",
+  "attachments": [
+    "attachment.php?attach=22416&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0575</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ABANDONMENT OF BRANCH LINES PROHIBITION ORDER NO. 3 which\nterminates the protection from abandonment affecting a 15.5 mile section\nof the CN PADDOCKWOOD SUBDIVISION in Saskatchewan, between White Star and\nPaddockwood, since there is no longer any traffic originating or\nterminating on this segment.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0178  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0575",
-  "htmlHash": "18122e0384ca9c558a94424ff14b85f3"
+  "htmlHash": "18122e0384ca9c558a94424ff14b85f3",
+  "attachments": []
 }

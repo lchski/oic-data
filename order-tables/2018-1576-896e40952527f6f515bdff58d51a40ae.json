@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1576</td><td>2018-12-14</td><td>39</td><td>2016</td><td>,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An act to amend the Food and Drugs Act, the Hazardous Products Act, the Radiation Emitting Devices Act, the Canadian Environmental Protection Act, 1999, the Pest Control Products Act and the Canada Consumer Products Safety Act and to make related amendments to another Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the 210th day after the day this Order is made as the day on which section 39 of that Act comes into force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing the 210th day after the day this Order is made as the day on which section 39 of the FOOD AND DRUGS ACT, the HAZARDOUS PRODUCTS ACT, the RADIATION EMITTING DEVICES ACT, the CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999, the PEST CONTROL PRODUCTS ACT and the CANADA CONSUMER PRODUCT SAFETY ACT and to make related amendments to another Act, chapter 9 of the Statutes of Canada, 2016, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0113  <strong>Publication Date:</strong> 2018-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37263&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1576",
-  "htmlHash": "896e40952527f6f515bdff58d51a40ae"
+  "htmlHash": "896e40952527f6f515bdff58d51a40ae",
+  "attachments": [
+    "attachment.php?attach=37263&lang=en"
+  ]
 }

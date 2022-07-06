@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1126</td><td>2012-09-20</td><td></td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Proclamation Designating the \"Fire Prevention Week\"</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION be issued designating the week commencing on OCTOBER 7 to 13, 2012, as FIRE PREVENTION WEEK.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26562&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1126",
-  "htmlHash": "8b57b2f21b9f49061353808bfbd531aa"
+  "htmlHash": "8b57b2f21b9f49061353808bfbd531aa",
+  "attachments": [
+    "attachment.php?attach=26562&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1912</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order, under subsection 27(1.1) of the SPECIES AT RISK ACT, deciding not to add the Bering Cisco and the Black Redhorse to Schedule 1 and to refer the assessment of the ghost antler back to the Committee on the Status of Endangered Wildlife in Canada for further information or consideration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0115  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17668&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1912",
-  "htmlHash": "25f6c98dc5f5b45454cec3e939e97bd5"
+  "htmlHash": "25f6c98dc5f5b45454cec3e939e97bd5",
+  "attachments": [
+    "attachment.php?attach=17668&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0966</td><td>2007-06-14</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER RESPECTING THE WITHDRAWAL FROM DISPOSAL OF CERTAIN LANDS IN THE NORTHWEST TERRITORIES  (DEH CHO FIRST NATIONS, N.W.T.) - which provides for (a) the repeal of Order in Council P.C. 2003-1230 of August 13, 2003, and (b) the withdrawal from disposal of certain lands in order to facilitate the conclusion of the Deh Cho First Nations Final Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0068  <strong>Publication Date:</strong> 2007-06-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16654&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0966",
-  "htmlHash": "87955c2b79d3a5628190683e57efb307"
+  "htmlHash": "87955c2b79d3a5628190683e57efb307",
+  "attachments": [
+    "attachment.php?attach=16654&lang=en"
+  ]
 }

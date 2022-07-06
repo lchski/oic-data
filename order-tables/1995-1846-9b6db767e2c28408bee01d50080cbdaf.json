@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1846</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into SUPPLEMENTARY AGREEMENTS with CANADIAN BEEF\nIMPROVEMENT INC., the CANADIAN CENTER FOR SWINE IMPROVEMENT, the CANADIAN\nSHEEP FEDERATION and the CANADIAN GOAT SOCIETY which provide for the\ntransfer of responsibility for the development of relational performance\ndatabases related to each species group.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1846",
-  "htmlHash": "9b6db767e2c28408bee01d50080cbdaf"
+  "htmlHash": "9b6db767e2c28408bee01d50080cbdaf",
+  "attachments": []
 }

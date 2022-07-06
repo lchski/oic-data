@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0872</td><td>2003-06-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or to invest other officials with full powers to sign an ARRANGEMENT, constituting an AGREEMENT between CANADA and the EUROPEAN SPACE AGENCY, concerning participation by Canada in the INFOTERRA/TERRASAR ELEMENT of the EUROPEAN EARTH WATCH PROGRAMME.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2734&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0872",
-  "htmlHash": "bb84beb6d68a4a693aa8b19898dfc6f4"
+  "htmlHash": "bb84beb6d68a4a693aa8b19898dfc6f4",
+  "attachments": [
+    "attachment.php?attach=2734&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0446</td><td>2011-03-25</td><td></td><td></td><td>HC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Establishment Licensing Fees Regulations (1056)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ESTABLISHMENT LICENSING FEES REGULATIONS (1056), in order to limit the application of the regulations to establishment licences for which the activities relate to drugs for veterinary use only.  These Regulations will exempt publicly-funded health care facilities or any branch or agency of federal and provincial governments from fees for drug establishment.  Additionally, persons or organizations solely conducting scientific investigations will also be excluded from fees associated with dealer’s licences.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0084  <strong>Publication Date:</strong> 2011-04-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0446",
-  "htmlHash": "0e1b062a173c9137a3e4e66ce306c0be"
+  "htmlHash": "0e1b062a173c9137a3e4e66ce306c0be",
+  "attachments": [
+    "attachment.php?attach=24114&lang=en"
+  ]
 }

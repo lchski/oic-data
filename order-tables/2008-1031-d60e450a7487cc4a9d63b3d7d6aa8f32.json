@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1031</td><td>2008-06-11</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to complete the schedule of violations under the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations and to make some amendments, largely technical, to the other three sets of regulations under the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0194  <strong>Publication Date:</strong> 2008-06-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18932&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1031",
-  "htmlHash": "d60e450a7487cc4a9d63b3d7d6aa8f32"
+  "htmlHash": "d60e450a7487cc4a9d63b3d7d6aa8f32",
+  "attachments": [
+    "attachment.php?attach=18932&lang=en"
+  ]
 }

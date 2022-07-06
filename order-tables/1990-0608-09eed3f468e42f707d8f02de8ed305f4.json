@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0608</td><td>1990-03-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of NOVA SCOTIA, of the administration and\ncontrol of a parcel of land (2.07acres) with a small steel building\nand 150 foot tower erected thereon, together with an easement for access\npurposes (7168 f²), situate at NORTH RANGE, Nova Scotia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0608",
-  "htmlHash": "09eed3f468e42f707d8f02de8ed305f4"
+  "htmlHash": "09eed3f468e42f707d8f02de8ed305f4",
+  "attachments": []
 }

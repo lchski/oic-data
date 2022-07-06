@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0232</td><td>2011-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Alfred R. Landry **RETIREMENT AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement and granting of a lifelong annuity to the Hon. ALFRED R. LANDRY, a Judge of the Court of Queen's Bench of New Brunswick, effective April 21, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23885&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0232",
-  "htmlHash": "b7deb8ad089734a20cde3dd6d99b738e"
+  "htmlHash": "b7deb8ad089734a20cde3dd6d99b738e",
+  "attachments": [
+    "attachment.php?attach=23885&lang=en"
+  ]
 }

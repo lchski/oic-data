@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1542</td><td>2004-12-14</td><td></td><td></td><td>EC,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OZONE-DEPLETING SUBSTANCES REGULATIONS, 1998 to ensure that users unable to switch to non-ozone depleting substance alternatives have access to consumption allowances of hydrobromofluoricarbons.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0315  <strong>Publication Date:</strong> 2004-12-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8987&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1542",
-  "htmlHash": "cb243a2ea8ead194afdfeff62979c148"
+  "htmlHash": "cb243a2ea8ead194afdfeff62979c148",
+  "attachments": [
+    "attachment.php?attach=8987&lang=en"
+  ]
 }

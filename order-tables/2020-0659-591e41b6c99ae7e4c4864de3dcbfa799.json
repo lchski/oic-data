@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0659</td><td>2020-09-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; OAG,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of  Price Waterhouse Coopers as auditor and of the Auditor General of Canada as joint auditor of the Canada Development Investment Corporation and its wholly-owned subsidiaries for a the 2020 fiscal year.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing PRICE WATERHOUSE COOPERS as AUDITOR and the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the CANADA DEVELOPMENT INVESTMENT CORPORATION for the fiscal year ending on December 31, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39641&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0659",
-  "htmlHash": "591e41b6c99ae7e4c4864de3dcbfa799"
+  "htmlHash": "591e41b6c99ae7e4c4864de3dcbfa799",
+  "attachments": [
+    "attachment.php?attach=39641&lang=en"
+  ]
 }

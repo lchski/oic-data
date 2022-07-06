@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0801</td><td>2016-09-15</td><td></td><td></td><td>ESDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of PIERRE LALIBERTÉ of Gatineau Quebec, to act as commissioner of the Canada Employment Insurance Commission representing workers, to fill a vacancy in that office for a term of one year or until a commissioner is appointed, whichever is earlier, effective October 3, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32496&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0801",
-  "htmlHash": "e040208b98e2d75a97efa2a2f09b08c9"
+  "htmlHash": "e040208b98e2d75a97efa2a2f09b08c9",
+  "attachments": [
+    "attachment.php?attach=32496&lang=en"
+  ]
 }

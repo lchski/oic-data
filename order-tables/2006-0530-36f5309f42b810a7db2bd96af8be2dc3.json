@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0530</td><td>2006-06-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSD</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the COAL MINING OCCUPATIONAL HEALTH AND SAFETY REGULATIONS by requiring employers who propose to enter a closed mine to adopt and implement a safety code.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0138  <strong>Publication Date:</strong> 2006-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0530",
-  "htmlHash": "36f5309f42b810a7db2bd96af8be2dc3"
+  "htmlHash": "36f5309f42b810a7db2bd96af8be2dc3",
+  "attachments": [
+    "attachment.php?attach=14464&lang=en"
+  ]
 }

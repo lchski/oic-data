@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0379</td><td>2007-03-22</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS by updating the Short-Form Descriptions for two offences under the Ontario Fishery Regulations, 1989, so that they are consistent with those Regulations, and by designating a new offence under those same Regulations and setting the fine associated therewith.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0057  <strong>Publication Date:</strong> 2007-04-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16022&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0379",
-  "htmlHash": "4e6e1426acfcbe7f1504fb4c9430087a"
+  "htmlHash": "4e6e1426acfcbe7f1504fb4c9430087a",
+  "attachments": [
+    "attachment.php?attach=16022&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1599</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to renew the COLLECTIVE AGREEMENT between for the CANADIAN FOOD INSPECTION AGENCY and THE PROFESSIONAL INSTITUTE OF THE \nPUBLIC SERVICE OF CANADA which is applicable to employees in the Scientific and Analytical Group, and will expire on June 13, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12682&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1599",
-  "htmlHash": "1fb8b7070c1032bc07acf8051d04f323"
+  "htmlHash": "1fb8b7070c1032bc07acf8051d04f323",
+  "attachments": [
+    "attachment.php?attach=12682&lang=en"
+  ]
 }

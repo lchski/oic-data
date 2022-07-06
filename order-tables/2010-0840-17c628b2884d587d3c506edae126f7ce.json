@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0840</td><td>2010-06-18</td><td></td><td></td><td>TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Sector Pension Investment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DIANE BEAN of Toronto, Ontario, to be a director of the Public Sector Pension Investment Board to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22820&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0840",
-  "htmlHash": "17c628b2884d587d3c506edae126f7ce"
+  "htmlHash": "17c628b2884d587d3c506edae126f7ce",
+  "attachments": [
+    "attachment.php?attach=22820&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0975</td><td>2010-08-04</td><td>12</td><td>2010</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CRA</td></tr><tr><td>Act</td><td colspan=\"5\">Softwood Lumber Products Export Charge Act, 2006</td></tr><tr><td>Subject</td><td colspan=\"5\">Coming into force September 1, 2010 as the Date of the Coming into Force of Certain Sections of the Act </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing September 1, 2010 as the day on which sections 99 to 102 of the Jobs and Economic Growth Act, chapter 12 of the Statutes of Canada, 2010, come into force. These sections amend the Softwood Lumber Products Export Charge Act, 2006 to provide for an additional 10% charge on the export of softwood lumber products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22956&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0975",
-  "htmlHash": "663c6524cef5b864c3db993eb3ff7e15"
+  "htmlHash": "663c6524cef5b864c3db993eb3ff7e15",
+  "attachments": [
+    "attachment.php?attach=22956&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0499</td><td>1991-03-19</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of the following members of the HUMAN RIGHTS TRIBUNAL PANEL\nwho shall hold office during good behaviour for a term of five months,\neffective January 19, 1991.\n.\n  1. Michael Gilbert Baker, Lunenburg (Nova Scotia/Nouvelle-Écosse)\n  2. Paula Tippett, Saint John (New Brunswick/Nouveau-Brunswick)\n  3. Peter L. Bortolussi, Sault Ste. Marie (Ontario)\n  4. Dudley Campbell, Don Mills (Ontario)\n  5. Joanne A.M. DeLaurentiis, Toronto (Ontario)\n  6. Judith R. Dohnberg, St. Catharines (Ontario)\n  7. Maurice Bernatchez, Quebec (Quebec/Québec)\n  8. Jacques Chiasson, Sept-Îles (Quebec/Québec)\n  9. Henriette Guérin, Outremont (Quebec/Québec)\n 10. Goldie Hershon, Hampstead (Quebec/Québec)\n 11. Antonio De Michele, Anjou (Quebec/Québec)\n 12. Richard I. Hornung, Yorkton (Saskatchewan)\n 13. Norma G. McLeod, Redville (Saskatchewan)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0499",
-  "htmlHash": "fa376fdab9a3c00b4aa10f53e099c5d0"
+  "htmlHash": "fa376fdab9a3c00b4aa10f53e099c5d0",
+  "attachments": []
 }

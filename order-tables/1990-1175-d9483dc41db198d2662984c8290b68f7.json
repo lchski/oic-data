@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1175</td><td>1990-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the EXTRA-PROVINCIAL TRUCK UNDERTAKING LICENCING REGULATIONS\nrelating to the administration of the fitness test and designed to\neliminate administrative problems without diminishing its effectiveness\nas a regulatory tool.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0364  <strong>Publication Date:</strong> 1990-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1175",
-  "htmlHash": "d9483dc41db198d2662984c8290b68f7"
+  "htmlHash": "d9483dc41db198d2662984c8290b68f7",
+  "attachments": []
 }

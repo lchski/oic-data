@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2612</td><td>1992-12-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CCAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Consumer and Corporate\nAffairs of Yvan Dupont, of Westmount, Quebec, as a member of the Standards\nCouncil of Canada to hold office during pleasure for a term of three\nyears, in the place of Bertrand Laforte, who has resigned.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2612",
-  "htmlHash": "625dd80e0aa19e24eb4784badf7eb5af"
+  "htmlHash": "625dd80e0aa19e24eb4784badf7eb5af",
+  "attachments": []
 }

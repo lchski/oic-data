@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1065</td><td>2006-09-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be carried out of an investment by HACHETTE DISTRIBUTION SERVICES (CANADA), INC. to establish a new business at Toronto, Ontario, operating under the Virgin banner.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15020&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1065",
-  "htmlHash": "f5da002d76956e3b76c7dce7899d0d7a"
+  "htmlHash": "f5da002d76956e3b76c7dce7899d0d7a",
+  "attachments": [
+    "attachment.php?attach=15020&lang=en"
+  ]
 }

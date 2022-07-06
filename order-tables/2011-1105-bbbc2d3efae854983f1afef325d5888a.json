@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1105</td><td>2011-09-29</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Financing Secured by Other Revenues Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FINANCING SECURED BY OTHER REVENUES REGULATIONS, in order to support the First Nations Finance Authority and the First Nations Fiscal and Statistical Management Act regime, Regulations have been made which will allow for the securitization of various other revenue streams in addition to the property tax revenues currently permitted for this purpose under the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0201  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1105",
-  "htmlHash": "bbbc2d3efae854983f1afef325d5888a"
+  "htmlHash": "bbbc2d3efae854983f1afef325d5888a",
+  "attachments": [
+    "attachment.php?attach=24781&lang=en"
+  ]
 }

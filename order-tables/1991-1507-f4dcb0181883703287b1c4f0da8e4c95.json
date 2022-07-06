@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1507</td><td>1991-08-13</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of administration\nand control over several parcels of land situate at FORT FRANKLIN, HALL\nBEACH and CAPE DORSET, which consist of the beds of ponds located within\ntracts of land previously transferred to the Commissioner.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1507",
-  "htmlHash": "f4dcb0181883703287b1c4f0da8e4c95"
+  "htmlHash": "f4dcb0181883703287b1c4f0da8e4c95",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1440</td><td>2005-08-29</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2005-2006</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of REX D. K. SEYMOUR to be Honorary Consul of Canada at San Juan, Commonwealth of Puerto Rico, United States of America, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12042&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1440",
-  "htmlHash": "6437672c91d261634d67187432e038bc"
+  "htmlHash": "6437672c91d261634d67187432e038bc",
+  "attachments": [
+    "attachment.php?attach=12042&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1782</td><td>1992-08-07</td><td>0</td><td></td><td>,&nbsp; AGR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of certain persons as members of the Farm Debt Review\nBoard for the region of Manitoba North to hold office during pleasure for\na term of three years, effective August 13, 1992.\n(James Robert Ferguson; R. Harold Ross; Susan Van de Velde; Beverley\nLoreath Prestayko; Verna C. Fulton; and Albert Bilodeau)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1782",
-  "htmlHash": "be9a5adcd2892d843a6615d737a5313a"
+  "htmlHash": "be9a5adcd2892d843a6615d737a5313a",
+  "attachments": []
 }

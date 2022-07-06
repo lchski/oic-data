@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0433</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Respecting the Interim Federal Health Program, 2012</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Respecting the INTERIM FEDERAL HEALTH PROGRAM, 2012 to (1) repeal Order in Council P.C. 157-11/848 of June 20, 1957; (2) provide either health care coverage or public health or public safety health care coverage, on a temporary basis, to persons including: refugee claimants, protected persons, persons detained under the Immigration and Refugee Protection Act, and rejected refugee claimants; (3) provide coverage that is not more generous than what Canadians receive through government-funded benefit programs; and (4) protect public health or public safety.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0026  <strong>Publication Date:</strong> 2012-04-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25857&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0433",
-  "htmlHash": "8ec8463d5254edb961b5a00d015cd918"
+  "htmlHash": "8ec8463d5254edb961b5a00d015cd918",
+  "attachments": [
+    "attachment.php?attach=25857&lang=en"
+  ]
 }

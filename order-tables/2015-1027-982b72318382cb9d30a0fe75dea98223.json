@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1027</td><td>2015-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Property Associated with the Port Hope Area Initiative to Atomic Energy of Canada Limited</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transfering the administration of the real property associated with the Port Hope area initiative from the Minister of Natural Resources to Atomic Energy of Canada Limited.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31354&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1027",
-  "htmlHash": "982b72318382cb9d30a0fe75dea98223"
+  "htmlHash": "982b72318382cb9d30a0fe75dea98223",
+  "attachments": [
+    "attachment.php?attach=31354&lang=en"
+  ]
 }

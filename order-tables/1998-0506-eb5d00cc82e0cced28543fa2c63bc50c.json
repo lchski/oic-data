@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0506</td><td>1998-03-26</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of a Variation Order (AO-1-GL-197) made by the NATIONAL ENERGY\nBOARD which changes the name of the holder of Gas Export Licence GL-197\nFROM Shell Canada Limited and Saranac Power Partners, L.P. TO Coral Energy\nCanada Inc. and Saranac Power Partners, L.P.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0506",
-  "htmlHash": "eb5d00cc82e0cced28543fa2c63bc50c"
+  "htmlHash": "eb5d00cc82e0cced28543fa2c63bc50c",
+  "attachments": []
 }

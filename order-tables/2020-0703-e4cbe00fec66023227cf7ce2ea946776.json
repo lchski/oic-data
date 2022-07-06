@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0703</td><td>2020-09-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Taxpayers’ Ombudsperson - Special Adviser to the Minister of National Revenue</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) changing the English version of the name by which the special adviser to the Minister of National Revenue, who may be appointed by the Governor in Council under paragraph 127.1(1)(c) of the Public Service Employment Act, is to be known to the Taxpayers’ Ombudsperson; and (2) replacing the schedule to Order in Council P.C. 2007-828 of May 24, 2007, as amended by Orders in Council P.C. 2007-1117 of June 29, 2007 and P.C. 2011-33 of February 1, 2011.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39673&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0703",
-  "htmlHash": "e4cbe00fec66023227cf7ce2ea946776"
+  "htmlHash": "e4cbe00fec66023227cf7ce2ea946776",
+  "attachments": [
+    "attachment.php?attach=39673&lang=en"
+  ]
 }

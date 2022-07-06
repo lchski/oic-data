@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0743</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Withdrawal from Disposal of Certain Tracts of Territorial Lands in the Northwest Territories (Tuktut Nogait National Park) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order 1) repealing the Order Respecting the Withdrawal from Disposal of Certain Tracts of Territorial Lands (Tuktut Nogait National Park, in the Northwest Territories and Nunavut), made by Order in Council P.C. 2008-384 dated February 26, 2008; 2) making the WITHDRAWAL FROM DISPOSAL OF CERTAIN TRACTS OF TERRITORIAL LANDS IN THE NORTHWEST TERRITORIES AND NUNAVUT (TUKTUT NOGAIT NATIONAL PARK ) ORDER to support the proposed future expansion of Tuktut Nogait National Park in the Northwest Territories and Nunavut for the period beginning on the day on which the Order is made and ending on January 31, 2013.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0058  <strong>Publication Date:</strong> 2011-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24316&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0743",
-  "htmlHash": "a54d8cb19e0a082760d22beb0b32543e"
+  "htmlHash": "a54d8cb19e0a082760d22beb0b32543e",
+  "attachments": [
+    "attachment.php?attach=24316&lang=en"
+  ]
 }

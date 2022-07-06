@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1399</td><td>2013-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Philomena Stratton ** ANNUITY **  The Hon. Joseph John Stratton **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to PHILOMENA STRATTON, survivor of the Hon. Joseph John Stratton, a Judge of Appeal of the Court of Appeal of Alberta, effective November 9, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28663&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1399",
-  "htmlHash": "435cc555b29ffa3b95991ceb27641261"
+  "htmlHash": "435cc555b29ffa3b95991ceb27641261",
+  "attachments": [
+    "attachment.php?attach=28663&lang=en"
+  ]
 }

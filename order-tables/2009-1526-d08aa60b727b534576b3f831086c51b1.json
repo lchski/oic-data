@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1526</td><td>2009-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Migratory Birds Regulations (Mobility-impaired Hunting)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the Migratory Birds Regulations, in order to relieve an unnecessary burden on mobility-impaired hunters of migratory birds, in recognition of their need to have use of a motorized vehicle to move to a location from which they can hunt.  This regulation complements existing provincial and territorial hunting regulations, which have in most cases been amended to provide similar exceptions to the general prohibition against hunting wildlife from a vehicle.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0255  <strong>Publication Date:</strong> 2009-09-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21341&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1526",
-  "htmlHash": "d08aa60b727b534576b3f831086c51b1"
+  "htmlHash": "d08aa60b727b534576b3f831086c51b1",
+  "attachments": [
+    "attachment.php?attach=21341&lang=en"
+  ]
 }

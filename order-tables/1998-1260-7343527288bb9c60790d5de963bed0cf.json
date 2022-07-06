@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1260</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving consent to CITIGROUP, INC., a foreign bank, to acquire shares\nin PFSL Investments Canada Ltd., Salomon Smith Barney Canada Inc.,\nTravelers Casualty &amp; Surety Company of Canada and in Primerica Life\nInsurance Company of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1260",
-  "htmlHash": "7343527288bb9c60790d5de963bed0cf"
+  "htmlHash": "7343527288bb9c60790d5de963bed0cf",
+  "attachments": []
 }

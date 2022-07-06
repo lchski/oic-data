@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1083</td><td>2012-09-20</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian International Trade\nTribunal Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL REGULATIONS in order to implement Canada’s rights and obligations relating to the bilateral emergency action provisions under the Canada-Jordan Free Trade Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0182  <strong>Publication Date:</strong> 2012-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26520&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1083",
-  "htmlHash": "7335811ab6dabd633b89a15cbe6dd719"
+  "htmlHash": "7335811ab6dabd633b89a15cbe6dd719",
+  "attachments": [
+    "attachment.php?attach=26520&lang=en"
+  ]
 }

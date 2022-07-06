@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0358</td><td>2021-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSPC,&nbsp; CPC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Post Corporation Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending CERTAIN REGULATIONS MADE UNDER THE CANADA POST CORPORATION ACT (MISCELLANEOUS PROGRAM) in order to (1) correct discrepancies between the French and English versions; (2) add clarity to certain regulatory provisions; and (3) harmonize terms used in the regulations with those used in related regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0091  <strong>Publication Date:</strong> 2021-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40558&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0358",
-  "htmlHash": "e17663fb75d73c37b7c0a8b8a43fdd59"
+  "htmlHash": "e17663fb75d73c37b7c0a8b8a43fdd59",
+  "attachments": [
+    "attachment.php?attach=40558&lang=en"
+  ]
 }

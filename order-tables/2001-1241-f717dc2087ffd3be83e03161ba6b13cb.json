@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1241</td><td>2001-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER AUTHORIZING FEDERAL EMPLOYEES TO ACQUIRE INTERESTS IN\nCERTAIN LANDS IN THE YUKON TERRITORY (ORDER NO. 2, 2001) - which authorizes\nNorman Andrew Lawrence, of Haines Junction, Yukon, to acquire some 0.76\nhectares of land situated near Bear Creek.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0259  <strong>Publication Date:</strong> 2001-08-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1241",
-  "htmlHash": "f717dc2087ffd3be83e03161ba6b13cb"
+  "htmlHash": "f717dc2087ffd3be83e03161ba6b13cb",
+  "attachments": []
 }

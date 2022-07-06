@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0628</td><td>2008-04-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSEP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n  1. Sergeant JOANNE GRACE CRAMPTON\n  2. Sergeant DAVID JOHN FLEUGEL\n  3. Sergeant BRADLEY JOHN MUELLER</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18451&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0628",
-  "htmlHash": "ccfcbd4afc3b170e0519f55f0dd52cde"
+  "htmlHash": "ccfcbd4afc3b170e0519f55f0dd52cde",
+  "attachments": [
+    "attachment.php?attach=18451&lang=en"
+  ]
 }

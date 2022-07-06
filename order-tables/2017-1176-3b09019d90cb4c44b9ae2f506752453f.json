@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1176</td><td>2017-09-22</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">John C. Munro Hamilton International Airport Zoning Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">JOHN C. MUNRO HAMILTON INTERNATIONAL AIRPORT ZONING REGULATIONS in order to limit the height of new buildings, structures, and objects, including trees, or any additions to existing buildings, structures, and objects on lands adjacent to or in the vicinity of the John C. Munro Hamilton International Airport.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0200  <strong>Publication Date:</strong> 2017-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35081&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1176",
-  "htmlHash": "3b09019d90cb4c44b9ae2f506752453f"
+  "htmlHash": "3b09019d90cb4c44b9ae2f506752453f",
+  "attachments": [
+    "attachment.php?attach=35081&lang=en"
+  ]
 }

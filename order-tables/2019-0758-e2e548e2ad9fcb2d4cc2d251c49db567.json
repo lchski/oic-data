@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0758</td><td>2019-06-09</td><td></td><td></td><td>TBS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Government Contracts Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GOVERNMENT CONTRACTS REGULATIONS in order to (1) reduce the risk of corruption and collusion in the bidding process for goods and services contracts; (2) reduce the risk of confusion and misinterpretation of the Regulations; and (3) modernize the content of the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0199  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38085&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0758",
-  "htmlHash": "e2e548e2ad9fcb2d4cc2d251c49db567"
+  "htmlHash": "e2e548e2ad9fcb2d4cc2d251c49db567",
+  "attachments": [
+    "attachment.php?attach=38085&lang=en"
+  ]
 }

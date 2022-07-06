@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2039</td><td>1999-11-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing the transfer to be made by the Province of QUEBEC to\nthe TOWN OF MIRABEL of some of the land transferred to that Province by\nOrder in Council P.C. 1995-50, in particular, Lot 15-1815 of the Official\nCadastre of Mirabel, and (b) waiving the proviso with respect to the use of\nthat land for a road network.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2039",
-  "htmlHash": "0a997f3f59715aa1fe25d29878b5078b"
+  "htmlHash": "0a997f3f59715aa1fe25d29878b5078b",
+  "attachments": []
 }

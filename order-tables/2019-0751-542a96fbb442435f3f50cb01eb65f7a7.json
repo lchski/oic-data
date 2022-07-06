@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0751</td><td>2019-06-09</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Assisted Human Reproduction Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Reimbursement Related to Assisted Human Reproduction Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REIMBURSEMENT RELATED TO ASSISTED HUMAN REPRODUCTION REGULATIONS in order to provide clarity to stakeholders on the allowable reimbursements for certain expenditures involved in Assisted Human Reproduction.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0193  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38078&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0751",
-  "htmlHash": "542a96fbb442435f3f50cb01eb65f7a7"
+  "htmlHash": "542a96fbb442435f3f50cb01eb65f7a7",
+  "attachments": [
+    "attachment.php?attach=38078&lang=en"
+  ]
 }

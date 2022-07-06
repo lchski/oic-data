@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1254</td><td>1994-07-19</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">TEMPORARY ENTRY REMISSION ORDER, NO. 40 respecting the remission of a\nportion of the customs duties, sales tax and excise taxes paid or payable\nin respect of certain goods that are temporarily imported into Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0097  <strong>Publication Date:</strong> 1994-08-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1254",
-  "htmlHash": "41faaea0a624e098ace524022bc8619f"
+  "htmlHash": "41faaea0a624e098ace524022bc8619f",
+  "attachments": []
 }

@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1014</td><td>2003-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Agriculture and Agri-Food Act<br>Farm Income Protection Act<br>Department of Agriculture and Agri-Food Act<br>Farm Income Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a number of AGREEMENTS with the Province of SASKATCHEWAN which provide for the implementation of the commitments set out in the Framework Agreement on Agriculture and Agri-Food Policy for the Twenty-First Century.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2980&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=2981&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1014",
-  "htmlHash": "dfd2cf1da9f3534b77b7a76ba6b769ea"
+  "htmlHash": "dfd2cf1da9f3534b77b7a76ba6b769ea",
+  "attachments": [
+    "attachment.php?attach=2980&lang=en",
+    "attachment.php?attach=2981&lang=en"
+  ]
 }

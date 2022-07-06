@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0489</td><td>1997-04-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INT'L COOP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving the consolidation and new repayment schedule of four\nloans made to the Government of MOROCCO, and (b) designating Ambassador\nJean-Guy Saint-Martin to sign the amendments to the Loan Agreements.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0489",
-  "htmlHash": "96419eaabe7e8a8908487a5d32b0f08b"
+  "htmlHash": "96419eaabe7e8a8908487a5d32b0f08b",
+  "attachments": []
 }

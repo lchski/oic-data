@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0875</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TBS,&nbsp; PTB</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Superannuation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Portions of the Public Service General Divestiture Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Divestiture Regulations for the CANADIAN NUCLEAR LABORATORIES EMPLOYEES in order to protect pension entitlements that would otherwise be adversely impacted due to the termination of an employee’s active participation in the public service pension plan as a result of a government divestiture.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0143  <strong>Publication Date:</strong> 2018-07-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36583&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0875",
-  "htmlHash": "bf236fa7ebbe2f4dc72d8e14f86e9ea4"
+  "htmlHash": "bf236fa7ebbe2f4dc72d8e14f86e9ea4",
+  "attachments": [
+    "attachment.php?attach=36583&lang=en"
+  ]
 }

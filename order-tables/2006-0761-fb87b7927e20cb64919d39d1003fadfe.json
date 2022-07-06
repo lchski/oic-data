@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0761</td><td>2006-08-11</td><td></td><td></td><td>PMO,&nbsp; PSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Special Appointment Regulations, No. 2006-19. (GEORGE DA PONT)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0185  <strong>Publication Date:</strong> 2006-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14702&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0761",
-  "htmlHash": "fb87b7927e20cb64919d39d1003fadfe"
+  "htmlHash": "fb87b7927e20cb64919d39d1003fadfe",
+  "attachments": [
+    "attachment.php?attach=14702&lang=en"
+  ]
 }

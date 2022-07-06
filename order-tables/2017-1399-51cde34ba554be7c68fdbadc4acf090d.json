@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1399</td><td>2017-11-16</td><td></td><td></td><td>INFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Infrastructure Bank Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CHRISTOPHER JOHN HICKMAN of St. John's, Newfoundland and Labrador, to be a director of the board of directors of the Canada Infrastructure Bank, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35309&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1399",
-  "htmlHash": "51cde34ba554be7c68fdbadc4acf090d"
+  "htmlHash": "51cde34ba554be7c68fdbadc4acf090d",
+  "attachments": [
+    "attachment.php?attach=35309&lang=en"
+  ]
 }

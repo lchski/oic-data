@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2220</td><td>1995-12-20</td><td>0</td><td></td><td>,&nbsp; SSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting unto THE CORPORATION OF THE CITY OF SARNIA of all rights or\nprivileges of the Crown with respect to some 0.87 acres of land situated\nbetween the shores of the St. Clair River and Front Street, at the corner\nof George Street, in the City of Sarnia, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2220",
-  "htmlHash": "6af120a46f31e0376dc07e76230422de"
+  "htmlHash": "6af120a46f31e0376dc07e76230422de",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0956</td><td>2003-06-18</td><td></td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS ESTABLISHING A LIST OF ENTITIES by adding more entities to the list of organizations believed to have knowingly carried out, attempted to carry out, participated in or facilitated a terrorist activity; or is knowingly acting on behalf of, at the direction of or in association with an entity that has knowingly carried out, attempted to carry out, participated in or facilitated a terrorist activity.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0235  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3129&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0956",
-  "htmlHash": "079a9f077c6cbcaac44af4a9771249f3"
+  "htmlHash": "079a9f077c6cbcaac44af4a9771249f3",
+  "attachments": [
+    "attachment.php?attach=3129&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0126</td><td>1990-01-25</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Further leave be granted to Mr. Justice Charles Joseph Doherty Gonthier, a\nPuisne Judge of the Supreme Court of Canada, to reside in the City of\nMontreal, Quebec, until January 31, 1991, for travelling allowance\npurposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0126",
-  "htmlHash": "d756d3ca3b2e9f3d3ceb4db31e2d93e3"
+  "htmlHash": "d756d3ca3b2e9f3d3ceb4db31e2d93e3",
+  "attachments": []
 }

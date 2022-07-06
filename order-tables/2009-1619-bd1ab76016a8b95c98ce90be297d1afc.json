@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1619</td><td>2009-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hog Industry  Loan Loss Reserve Program </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to establish the Hog Industry Loan Loss Reserve Program and to provide for federal contributions to financial institutions to increase the availability of loans to Canadian hog producers.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21502&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1619",
-  "htmlHash": "bd1ab76016a8b95c98ce90be297d1afc"
+  "htmlHash": "bd1ab76016a8b95c98ce90be297d1afc",
+  "attachments": [
+    "attachment.php?attach=21502&lang=en"
+  ]
 }

@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0615</td><td>2014-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority<br>Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Federal Ombudsman for Victims of Crime</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order in Council P.C. 2007-355 of March 15, 2007 and setting out certain terms and conditions of employment of the special adviser to the Minister of Justice, known as the FEDERAL OMBUDSMAN FOR VICTIMS OF CRIME.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29429&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=32918&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0615",
-  "htmlHash": "e2b15dec7de54ca857650bf1d7967faa"
+  "htmlHash": "e2b15dec7de54ca857650bf1d7967faa",
+  "attachments": [
+    "attachment.php?attach=29429&lang=en",
+    "attachment.php?attach=32918&lang=en"
+  ]
 }

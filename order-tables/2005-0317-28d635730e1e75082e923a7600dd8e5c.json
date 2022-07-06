@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0317</td><td>2005-03-11</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of PAUL GROARKE of Fredericton, New Brunswick, to be a full-time member of the Canadian Human Rights Tribunal to hold office during good behaviour for a term commencing on April 2, 2005 and terminating on April 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9823&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0317",
-  "htmlHash": "28d635730e1e75082e923a7600dd8e5c"
+  "htmlHash": "28d635730e1e75082e923a7600dd8e5c",
+  "attachments": [
+    "attachment.php?attach=9823&lang=en"
+  ]
 }

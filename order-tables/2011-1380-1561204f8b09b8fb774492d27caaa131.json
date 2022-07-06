@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1380</td><td>2011-11-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Operational Service Medal Regulations\nLETTERS PATENT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that Letters Patent do issue amending the purpose of the OPERATIONAL SERVICE MEDAL, in order to accord recognition to any person who at the initiative, by the nomination or with the agreement of the Government of Canada, outside Canada, served in a theatre of operations, provided direct support on a full-time basis to operations conducted in such a theatre or served under dangerous circumstances.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25064&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1380",
-  "htmlHash": "1561204f8b09b8fb774492d27caaa131"
+  "htmlHash": "1561204f8b09b8fb774492d27caaa131",
+  "attachments": [
+    "attachment.php?attach=25064&lang=en"
+  ]
 }

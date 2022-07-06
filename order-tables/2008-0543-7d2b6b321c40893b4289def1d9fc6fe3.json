@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0543</td><td>2008-03-11</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE MOTOR VEHICLE SAFETY REGULATIONS (DOOR LOCKS AND DOOR RETENTION COMPONENTS) to incorporate by reference the substance of the Economic Commission for Europe respecting door locks and door retention components as an alternative to the existing requirements of TSD 206.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0073  <strong>Publication Date:</strong> 2008-04-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18360&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0543",
-  "htmlHash": "7d2b6b321c40893b4289def1d9fc6fe3"
+  "htmlHash": "7d2b6b321c40893b4289def1d9fc6fe3",
+  "attachments": [
+    "attachment.php?attach=18360&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0918</td><td>2008-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of ANDRÉ E. AUDET of Westmount, Quebec, as Vice-Chairperson of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of four years, in the place of Pierre Dufour.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18761&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0918",
-  "htmlHash": "b641f199665dc768a6f41a6b8569f532"
+  "htmlHash": "b641f199665dc768a6f41a6b8569f532",
+  "attachments": [
+    "attachment.php?attach=18761&lang=en"
+  ]
 }

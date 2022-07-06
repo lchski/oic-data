@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0020</td><td>2019-01-22</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BRENDA LePAGE of Christopher Lake, Saskatchewan, to be a part-time member of the Prairie Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective March 18, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37337&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0020",
-  "htmlHash": "94f7f165f1e0234c5f79bdaf204c762c"
+  "htmlHash": "94f7f165f1e0234c5f79bdaf204c762c",
+  "attachments": [
+    "attachment.php?attach=37337&lang=en"
+  ]
 }

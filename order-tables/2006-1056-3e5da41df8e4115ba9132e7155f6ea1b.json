@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1056</td><td>2006-09-28</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INTEREST RATES (EXCISE ACT, 2001) REGULATIONS which prescribe the interest rates applicable to amounts owing to or by the Government of Canada under this Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0229  <strong>Publication Date:</strong> 2006-10-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15011&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1056",
-  "htmlHash": "3e5da41df8e4115ba9132e7155f6ea1b"
+  "htmlHash": "3e5da41df8e4115ba9132e7155f6ea1b",
+  "attachments": [
+    "attachment.php?attach=15011&lang=en"
+  ]
 }

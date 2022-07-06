@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0274</td><td>2017-03-24</td><td></td><td></td><td>INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to the Enderby Indian Reserve No. 2, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 4.53 hectares (11.194 acres) of land for the use and benefit of the Splatsin Indian Band as an addition to ENDERBY INDIAN RESERVE NO. 2, located in the Regional District of North Okanagan at approximately two kilometres from the Town of Enderby, in British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34180&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0274",
-  "htmlHash": "6a3a058b594f2ff5b801a4317a15f6ee"
+  "htmlHash": "6a3a058b594f2ff5b801a4317a15f6ee",
+  "attachments": [
+    "attachment.php?attach=34180&lang=en"
+  ]
 }

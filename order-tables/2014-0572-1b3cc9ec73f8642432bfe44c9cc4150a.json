@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0572</td><td>2014-05-15</td><td></td><td></td><td>DESD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Electronic Documents and Electronic Information Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ELECTRONIC DOCUMENTS AND INFORMATION REGULATIONS in order to set out specific parameters for (1) sending and receiving electronic documents or information; (2) electronic signature; and (3) conversion, retention, alteration and destruction of documents or information.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0117  <strong>Publication Date:</strong> 2014-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29386&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0572",
-  "htmlHash": "1b3cc9ec73f8642432bfe44c9cc4150a"
+  "htmlHash": "1b3cc9ec73f8642432bfe44c9cc4150a",
+  "attachments": [
+    "attachment.php?attach=29386&lang=en"
+  ]
 }

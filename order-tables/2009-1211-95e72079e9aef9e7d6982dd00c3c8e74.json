@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1211</td><td>2009-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Federal Halocarbon Regulations, 2003\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE FEDERAL HALOCARBON REGULATIONS, 2003 address the comments and recommendations of the Standing Joint Committee for the Scrutiny of Regulations (SJCSR), update the references to two Underwriters' Laboritories of Canada (ULC) standards that were revised and translated in 2004 and correct editorial oversights that were identified in the Federal Halocarbon Regulations, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0221  <strong>Publication Date:</strong> 2009-08-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21135&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1211",
-  "htmlHash": "95e72079e9aef9e7d6982dd00c3c8e74"
+  "htmlHash": "95e72079e9aef9e7d6982dd00c3c8e74",
+  "attachments": [
+    "attachment.php?attach=21135&lang=en"
+  ]
 }

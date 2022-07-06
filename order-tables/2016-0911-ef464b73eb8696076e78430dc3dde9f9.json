@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0911</td><td>2016-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE D. TIMOTHY GABRIEL, to be a Judge of the Supreme Court of Nova Scotia, and a Judge ex officio of the Nova Scotia Court of Appeal.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32607&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0911",
-  "htmlHash": "ef464b73eb8696076e78430dc3dde9f9"
+  "htmlHash": "ef464b73eb8696076e78430dc3dde9f9",
+  "attachments": [
+    "attachment.php?attach=32607&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0402</td><td>2015-04-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; CFIA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Agricultural Products Act<br>Fish Inspection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Administered and Enforced by the Canadian Food Inspection Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE  CANADIAN FOOD INSPECTION AGENCY in order to repeal the regulatory requirements concerning standard weights and container sizes under the Dairy Products Regulations, Maple Products Regulations, and the Fish Inspection Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0078  <strong>Publication Date:</strong> 2015-04-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30728&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0402",
-  "htmlHash": "ee1557048fc5dc4ffd094a5af4de03ae"
+  "htmlHash": "ee1557048fc5dc4ffd094a5af4de03ae",
+  "attachments": [
+    "attachment.php?attach=30728&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0295</td><td>2015-02-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHEL PENNOU, of the City of Montréal, in the Province of Quebec, to be a Puisne Judge of the Superior Court for the district of Montréal, in the Province of Quebec, with residence in the territory of Ville de Montréal or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30620&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0295",
-  "htmlHash": "a3ef7985188aa4c3e7d6eb6cbd29e21b"
+  "htmlHash": "a3ef7985188aa4c3e7d6eb6cbd29e21b",
+  "attachments": [
+    "attachment.php?attach=30620&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0508</td><td>2016-06-14</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Shortages of Drugs and Discontinuation of Sale of Drugs)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (SHORTAGES AND DISCONTINUATION OF SALE OF DRUGS) in order to (1) introduce a mandatory reporting scheme for drug manufacturers to publicly report shortages and discontinuations of drugs; and (2) address the information gaps in the current voluntary drug shortage reporting system created by drug supply disruptions and ensure the accuracy, timeliness and reliability of publicly available drug shortage and discontinuation information for Canadian patients and healthcare practitioners.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0139  <strong>Publication Date:</strong> 2016-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32189&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0508",
-  "htmlHash": "54f30e61002f7ccaa5a6a59479350f46"
+  "htmlHash": "54f30e61002f7ccaa5a6a59479350f46",
+  "attachments": [
+    "attachment.php?attach=32189&lang=en"
+  ]
 }

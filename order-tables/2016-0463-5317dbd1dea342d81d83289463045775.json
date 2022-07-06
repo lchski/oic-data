@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0463</td><td>2016-06-10</td><td></td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MIREILLE A. SAULNIER of Tracadie-Sheila, New Brunswick, to be a director of the Board of Management of the Canada Revenue Agency, to hold office during pleasure for a term of three years, in the place of Robert M. Manning.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32143&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0463",
-  "htmlHash": "5317dbd1dea342d81d83289463045775"
+  "htmlHash": "5317dbd1dea342d81d83289463045775",
+  "attachments": [
+    "attachment.php?attach=32143&lang=en"
+  ]
 }

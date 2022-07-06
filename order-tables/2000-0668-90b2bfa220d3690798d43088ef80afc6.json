@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0668</td><td>2000-05-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN BORST, of Vancouver, British Columbia, as a member of\nthe Immigration Appeal Division of the Immigration and Refugee Board\n(Vancouver Regional Office), to hold office during good behaviour for a\nterm of five years, effective May 24, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0668",
-  "htmlHash": "90b2bfa220d3690798d43088ef80afc6"
+  "htmlHash": "90b2bfa220d3690798d43088ef80afc6",
+  "attachments": []
 }

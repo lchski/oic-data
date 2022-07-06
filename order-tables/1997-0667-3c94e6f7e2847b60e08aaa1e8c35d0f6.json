@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0667</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of the\nfollowing persons as trustees of the Board of Trustees of the National\nGallery of Canada, to hold office during pleasure for a term of two\nyears.\n(JEAN H. PICARD, of Montreal, Quebec, in the place of Bertrand Morin,\nwhose term has expired; and TONY TASCONA, of Winnipeg, Manitoba, in the\nplace of David Mirvish, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0667",
-  "htmlHash": "3c94e6f7e2847b60e08aaa1e8c35d0f6"
+  "htmlHash": "3c94e6f7e2847b60e08aaa1e8c35d0f6",
+  "attachments": []
 }

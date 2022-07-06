@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1930</td><td>2007-12-13</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE to the CUSTOMS TARIFF, 2007-2 by removing the tariffs on certain dried mushrooms, certain fruit flavored powders, certain leathers, certain yarns, certain single yarn, certain woven fabrics, submarine cables, articles and materials, excluding anti-freezing preparations (for use in the manufacture of three-wheeled motorcycles), and apparel samples (for the development of sketches or patterns).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0300  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17702&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1930",
-  "htmlHash": "7d3b5fe2a1358ee4a35dcd1327ec6f0d"
+  "htmlHash": "7d3b5fe2a1358ee4a35dcd1327ec6f0d",
+  "attachments": [
+    "attachment.php?attach=17702&lang=en"
+  ]
 }

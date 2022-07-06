@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0030</td><td>2011-01-28</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Board of Trustees of the Canadian Museum of Nature of MICHEL HOULE of Ottawa, Ontario, as Acting Director of the Canadian Museum of Nature to hold office during pleasure, effective January 29, 2011, in the place of Maureen Dougan, until such time as a Director is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23682&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0030",
-  "htmlHash": "3418513957e41df35415c60945038cc1"
+  "htmlHash": "3418513957e41df35415c60945038cc1",
+  "attachments": [
+    "attachment.php?attach=23682&lang=en"
+  ]
 }

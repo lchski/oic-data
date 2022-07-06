@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1149</td><td>2001-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCRA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the JEUX DE LA FRANCOPHONIE REMISSION ORDER - which remits\ncustoms duties, excise taxes and all or a portion of the Goods and Services\nTax paid or payable on personal effects, goods for free distribution, etc.,\nimported in connection with these games.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0228  <strong>Publication Date:</strong> 2001-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1149",
-  "htmlHash": "4adcf2ec9c01291c52d1b9b8ef905fee"
+  "htmlHash": "4adcf2ec9c01291c52d1b9b8ef905fee",
+  "attachments": []
 }

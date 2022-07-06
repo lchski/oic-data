@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0553</td><td>1999-03-25</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving consent to MAPLE PARTNERS BANKHAUS GmbH, a foreign bank, to\nacquire shares in London Trust &amp; Savings Corporation and in Maple Partners\nFinancial Products Limited.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0553",
-  "htmlHash": "a54c33d7c3da80ac9b90f146185c94a9"
+  "htmlHash": "a54c33d7c3da80ac9b90f146185c94a9",
+  "attachments": []
 }

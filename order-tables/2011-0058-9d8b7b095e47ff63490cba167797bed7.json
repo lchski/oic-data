@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0058</td><td>2011-02-03</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Textile Flammability Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">TEXTILE FLAMMABILITY REGULATIONS - will be made from Items 4 and 13 of Part I of Schedule I to the Hazardous Products Act in order to continue regulating the flammability of general textiles and bedding and to address gaps that otherwise would have been created by the coming into force of the Canada Consumer Product Safety Act on June 20, 2011.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0022  <strong>Publication Date:</strong> 2011-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23708&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0058",
-  "htmlHash": "9d8b7b095e47ff63490cba167797bed7"
+  "htmlHash": "9d8b7b095e47ff63490cba167797bed7",
+  "attachments": [
+    "attachment.php?attach=23708&lang=en"
+  ]
 }

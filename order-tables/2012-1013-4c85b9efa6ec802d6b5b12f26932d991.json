@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1013</td><td>2012-08-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO,&nbsp; PMO</td></tr><tr><td>Subject</td><td colspan=\"5\">Commission do issue under the Great Seal of Canada.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue under the Great Seal of Canada empowering JOANNE SLED to administer an Oath of Allegiance and the Oath of Office, or any other oath, in the event that the Assistant Clerk of the Queen’s Privy Council for Canada (Orders In Council) is unable to perform the functions of his office.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1013",
-  "htmlHash": "4c85b9efa6ec802d6b5b12f26932d991"
+  "htmlHash": "4c85b9efa6ec802d6b5b12f26932d991",
+  "attachments": [
+    "attachment.php?attach=26448&lang=en"
+  ]
 }

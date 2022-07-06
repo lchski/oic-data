@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0317</td><td>2017-04-07</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Community Participation Funding Program ** Funding Agreements **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2015-1019 of June 19, 2015; and (2) approving that the Minister of Transport enter into FUNDING AGREEMENTS with Indigenous groups, local communities and not-for-profit organizations that are eligible recipients under the COMMUNITY PARTICIPATION FUNDING PROGRAM in order to encourage effective participation of Indigenous and local communities as well as increase their capacity to engage and share their knowledge and expertise in the development and improvement of CANADA'S MARINE TRANSPORTATION SYSTEM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34222&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0317",
-  "htmlHash": "a12d03fb8ff4f8f0c3dd35c061ac908a"
+  "htmlHash": "a12d03fb8ff4f8f0c3dd35c061ac908a",
+  "attachments": [
+    "attachment.php?attach=34222&lang=en"
+  ]
 }

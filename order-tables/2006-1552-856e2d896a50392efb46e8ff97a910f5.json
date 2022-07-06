@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1552</td><td>2006-12-14</td><td></td><td></td><td>,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to adjust its accounts by transferring all the unsold BARLEY in last year's pool account to the 2006-2007 account.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15541&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1552",
-  "htmlHash": "856e2d896a50392efb46e8ff97a910f5"
+  "htmlHash": "856e2d896a50392efb46e8ff97a910f5",
+  "attachments": [
+    "attachment.php?attach=15541&lang=en"
+  ]
 }

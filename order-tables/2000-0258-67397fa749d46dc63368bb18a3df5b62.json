@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0258</td><td>2000-02-28</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HENRI TOUSIGNANT, of Saint-Ours, Quebec, as an assistant\ncommissioner of the Canadian Grain Commission to hold office during good\nbehaviour for a term of five years, effective March 6, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0258",
-  "htmlHash": "67397fa749d46dc63368bb18a3df5b62"
+  "htmlHash": "67397fa749d46dc63368bb18a3df5b62",
+  "attachments": []
 }

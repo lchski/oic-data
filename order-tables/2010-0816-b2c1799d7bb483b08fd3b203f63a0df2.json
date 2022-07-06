@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0816</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">TRILLIUM BEVERAGES INC. \nFive year renewal options\n555 Wellington Street\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION enter into a ten-year lease beginning no later than November 1st, 2010 and with three renewal options of 5 years each, with TRILLIUM BEVERAGES INC. operating as the Mill Street Brewery (Trillium) for a property located at 555 Wellington Street, in Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22791&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0816",
-  "htmlHash": "b2c1799d7bb483b08fd3b203f63a0df2"
+  "htmlHash": "b2c1799d7bb483b08fd3b203f63a0df2",
+  "attachments": [
+    "attachment.php?attach=22791&lang=en"
+  ]
 }

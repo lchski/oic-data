@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0233</td><td>1997-02-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOEL MOSS, of Montreal, Quebec, as a full-time member of\nthe Convention Refugee Determination Division of the Immigration and\nRefugee Board (Montreal Regional Office), to hold office during good\nbehaviour for a term of three years, effective April 7, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0233",
-  "htmlHash": "6000598c750f1e96822007d6d5ad6425"
+  "htmlHash": "6000598c750f1e96822007d6d5ad6425",
+  "attachments": []
 }

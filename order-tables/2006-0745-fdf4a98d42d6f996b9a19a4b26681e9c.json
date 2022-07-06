@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0745</td><td>2006-08-01</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of Inspector JOSEPH GILLES LARRY TREMBLAY to the rank of Superintendent, effective June 1, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14687&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0745",
-  "htmlHash": "fdf4a98d42d6f996b9a19a4b26681e9c"
+  "htmlHash": "fdf4a98d42d6f996b9a19a4b26681e9c",
+  "attachments": [
+    "attachment.php?attach=14687&lang=en"
+  ]
 }

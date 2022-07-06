@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1394</td><td>2004-11-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Regulations, 1988</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement of Superintendent J.G.R.A. DION, effective December 9, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1394",
-  "htmlHash": "be2eb4ecff30c5b7fd12c439d5824521"
+  "htmlHash": "be2eb4ecff30c5b7fd12c439d5824521",
+  "attachments": [
+    "attachment.php?attach=8684&lang=en"
+  ]
 }

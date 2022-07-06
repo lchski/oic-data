@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0942</td><td>2001-05-29</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DONALD J. SAVOIE, of Moncton, New Brunswick, as a governor\nof the Canadian Centre for Management Development, to hold office during\npleasure for a term effective May 18, 2001 and ending December 31, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0942",
-  "htmlHash": "1674bc5eabdbd5724a893a89d21855c3"
+  "htmlHash": "1674bc5eabdbd5724a893a89d21855c3",
+  "attachments": []
 }

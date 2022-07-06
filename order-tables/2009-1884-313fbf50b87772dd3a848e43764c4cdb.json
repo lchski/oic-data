@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1884</td><td>2009-11-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Designation of Judges as Judges of the Court Martial Appeal Court of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the following judges as Judges of the Court Martial Appeal Court of Canada:\n\n  - The Honourable Richard Boivin of the Federal Court;\n  - The Honourable David Near of the Federal Court; \n  - The Honourable Robert Mainville of the Federal Court.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21772&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1884",
-  "htmlHash": "313fbf50b87772dd3a848e43764c4cdb"
+  "htmlHash": "313fbf50b87772dd3a848e43764c4cdb",
+  "attachments": [
+    "attachment.php?attach=21772&lang=en"
+  ]
 }

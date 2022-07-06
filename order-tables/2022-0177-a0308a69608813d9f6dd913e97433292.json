@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0177</td><td>2022-02-26</td><td></td><td></td><td>HC,&nbsp; PHAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to COVID-19 in Canada Order (Prohibition of Entry into Canada)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO COVID-19 IN CANADA ORDER (PROHIBITION OF ENTRY INTO CANADA) in order to (1) support Canada’s continued focus on reducing the introduction and further spread of COVID-19 by decreasing the risk of importing cases from outside the country; (2) continue to prohibit entry of foreign nationals, with some limited exceptions, and if they have reasonable grounds to suspect they have COVID-19, if they have signs and symptoms of COVID-19, or if they know they have COVID-19; (3) permit entry of unvaccinated children and dependent persons entering Canada with a parent or guardian with a medical contraindication to vaccination; (4) include entry via British Columbia in the pre-existing exemption for habitual residents of Alaska who enter Canada via Yukon to access another place in Alaska or to return to their place of residence; and (5) extend the restrictions on entry into Canada until March 31, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41626&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0177",
-  "htmlHash": "a0308a69608813d9f6dd913e97433292"
+  "htmlHash": "a0308a69608813d9f6dd913e97433292",
+  "attachments": [
+    "attachment.php?attach=41626&lang=en"
+  ]
 }

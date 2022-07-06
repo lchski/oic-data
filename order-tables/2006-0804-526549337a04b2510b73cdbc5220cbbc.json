@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0804</td><td>2006-08-29</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MEDICAL DEVICES REGULATIONS (1484) by updating the name of the referenced standard to correspond with the CAN/CSA-ISO 13485:03 quality standard.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0197  <strong>Publication Date:</strong> 2006-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0804",
-  "htmlHash": "526549337a04b2510b73cdbc5220cbbc"
+  "htmlHash": "526549337a04b2510b73cdbc5220cbbc",
+  "attachments": [
+    "attachment.php?attach=14744&lang=en"
+  ]
 }

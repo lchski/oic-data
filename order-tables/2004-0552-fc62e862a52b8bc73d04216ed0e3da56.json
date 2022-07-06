@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0552</td><td>2004-05-04</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act<br>Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the PROVINCE OF ONTARIO of its statutory power to acquire a right-of-way on BIG GRASSY RIVER INDIAN RESERVE NO. 35G, for the purposes of Seconday Highway No. 621; and (b) transferring the lands required for those purposes to the Province, in lieu thereof.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6908&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=6909&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0552",
-  "htmlHash": "fc62e862a52b8bc73d04216ed0e3da56"
+  "htmlHash": "fc62e862a52b8bc73d04216ed0e3da56",
+  "attachments": [
+    "attachment.php?attach=6908&lang=en",
+    "attachment.php?attach=6909&lang=en"
+  ]
 }

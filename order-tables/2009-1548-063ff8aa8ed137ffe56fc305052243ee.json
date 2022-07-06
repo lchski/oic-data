@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1548</td><td>2009-09-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">SETTING APART\nPIAPOT INDIAN RESERVE No 75 (SK)  \nLED-09-14\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of 31.826 hectares (78.645 acres) of surface lands, and 0.486 hectares (1.20 acres) of mines and minerals and 31.343 hectares (77.45 acres) of all coal and an undivided one-half interest in all mines and minerals other than coal for the use and benefit of the Piapot Band as an addition to PIAPOT Indian Reserve No. 75, Saskatchewan.  The land is located in the Rural Municipality of Cupar No. 218 at approximately 13 kilometres from the village of Markinch, Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21363&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1548",
-  "htmlHash": "063ff8aa8ed137ffe56fc305052243ee"
+  "htmlHash": "063ff8aa8ed137ffe56fc305052243ee",
+  "attachments": [
+    "attachment.php?attach=21363&lang=en"
+  ]
 }

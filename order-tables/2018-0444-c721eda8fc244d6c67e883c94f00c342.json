@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0444</td><td>2018-04-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Credit to the Fund for Railway Accidents Involving Designated Goods</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting out the rate and the method of calculation of the interest that the Minister of Finance must cause to be credited to the Fund for Railway Accidents Involving Designated Goods, pursuant to section 153.5 of the Canada Transportation Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36113&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0444",
-  "htmlHash": "c721eda8fc244d6c67e883c94f00c342"
+  "htmlHash": "c721eda8fc244d6c67e883c94f00c342",
+  "attachments": [
+    "attachment.php?attach=36113&lang=en"
+  ]
 }

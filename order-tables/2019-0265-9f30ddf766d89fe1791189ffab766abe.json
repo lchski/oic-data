@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0265</td><td>2019-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing the Chlor-Alkali Mercury Release Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing the CHLOR-ALKALI MERCURY RELEASE REGULATIONS allowing the application of the general prohibition under the Fisheries Act effectively preventing any future operation of chlor-alkali mercury cell facilities in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0088  <strong>Publication Date:</strong> 2019-04-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37588&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0265",
-  "htmlHash": "9f30ddf766d89fe1791189ffab766abe"
+  "htmlHash": "9f30ddf766d89fe1791189ffab766abe",
+  "attachments": [
+    "attachment.php?attach=37588&lang=en"
+  ]
 }

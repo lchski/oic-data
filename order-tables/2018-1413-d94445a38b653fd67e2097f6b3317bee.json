@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1413</td><td>2018-11-21</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOLYANE LEFEBVRE of Laval, Quebec, to be a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years, effective January 3, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37092&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1413",
-  "htmlHash": "d94445a38b653fd67e2097f6b3317bee"
+  "htmlHash": "d94445a38b653fd67e2097f6b3317bee",
+  "attachments": [
+    "attachment.php?attach=37092&lang=en"
+  ]
 }

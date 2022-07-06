@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0232</td><td>2020-04-03</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE STEVE A. COROZA, a Judge of the Superior Court of Justice of Ontario, to be a Justice of Appeal of the Court of Appeal for Ontario, and a Judge ex officio of the Superior Court of Justice of Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0232",
-  "htmlHash": "52ff4af4e75d618c6077de82bcdabc33"
+  "htmlHash": "52ff4af4e75d618c6077de82bcdabc33",
+  "attachments": [
+    "attachment.php?attach=39074&lang=en"
+  ]
 }

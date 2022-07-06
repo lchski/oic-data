@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0616</td><td>2008-04-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CONFERENCE OF DEFENCE MINISTERS OF THE AMERICAS (CDMA) PRIVILEGES AND IMMUNITIES ORDER, 2008, respecting the privileges and immunities in Canada of the participants in the conference of Ministers of the Americas.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0102  <strong>Publication Date:</strong> 2008-04-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18438&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0616",
-  "htmlHash": "924bb66ec72472c5891d2a2c89151883"
+  "htmlHash": "924bb66ec72472c5891d2a2c89151883",
+  "attachments": [
+    "attachment.php?attach=18438&lang=en"
+  ]
 }

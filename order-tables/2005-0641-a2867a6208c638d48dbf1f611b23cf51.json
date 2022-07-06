@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0641</td><td>2005-04-19</td><td></td><td></td><td>INDUSTRY,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Statistics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the remuneration or allowances payable to enumerators and other persons employed by Statistics Canada in connection with the 2006 CENSUSES of population and agriculture.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10403&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0641",
-  "htmlHash": "a2867a6208c638d48dbf1f611b23cf51"
+  "htmlHash": "a2867a6208c638d48dbf1f611b23cf51",
+  "attachments": [
+    "attachment.php?attach=10403&lang=en"
+  ]
 }

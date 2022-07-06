@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1117</td><td>2013-10-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Cathy McLeod ** MP Travel **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Hon. CATHY MCLEOD, Member of Parliament, to travel to HELLS GATE 43111 TRANS CANADA HWY, BOSTON BAR, BRITISH COLUMBIA, on August 22, 2013, to attend an event commemorating the 100th anniversary of the Hells Gate rockslides, organized by the Pacific Salmon Commission, on behalf of the Minister of Fisheries and Oceans.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28391&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1117",
-  "htmlHash": "cb011414fce8f1c6ecb660840f553d35"
+  "htmlHash": "cb011414fce8f1c6ecb660840f553d35",
+  "attachments": [
+    "attachment.php?attach=28391&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1128</td><td>2017-08-31</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Customs Tariff (Extension of the Canada-European Union Tariff)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE CUSTOMS TARIFF (EXTENSION OF THE CANADA-EUROPEAN UNION TARIFF) in order to fully implement Canada's tariff commitments under the CANADA-EUROPEAN UNION (EU) COMPREHENSIVE ECONOMIC AND TRADE AGREEMENT so that Canada and EU can proceed with implementation of the AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0179  <strong>Publication Date:</strong> 2017-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35035&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1128",
-  "htmlHash": "ece8617ed88151cb98e4a9381d07e72e"
+  "htmlHash": "ece8617ed88151cb98e4a9381d07e72e",
+  "attachments": [
+    "attachment.php?attach=35035&lang=en"
+  ]
 }

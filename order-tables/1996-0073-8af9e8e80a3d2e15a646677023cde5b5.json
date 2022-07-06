@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0073</td><td>1996-01-23</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the GOVERNMENT AIRPORT CONCESSION OPERATIONS REGULATIONS that\nauthorize the manager of a non-designated airport to issue licences\nauthorizing people who operate a passenger-carrying business (taxicabs,\nlimousines, courtesy vehicles) from a location other than the airport to\npick up customers who have made advance arrangements with them.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0088  <strong>Publication Date:</strong> 1996-02-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0073",
-  "htmlHash": "8af9e8e80a3d2e15a646677023cde5b5"
+  "htmlHash": "8af9e8e80a3d2e15a646677023cde5b5",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1066</td><td>2017-08-15</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of PAUL THOMAS (TOM) JENKINS of Canmore, Alberta, as Chairperson of the National Research Council of Canada, to hold office during pleasure for a term of nine months, effective February 5, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34973&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1066",
-  "htmlHash": "0911e1b00734a86b871c7befe3dba45a"
+  "htmlHash": "0911e1b00734a86b871c7befe3dba45a",
+  "attachments": [
+    "attachment.php?attach=34973&lang=en"
+  ]
 }

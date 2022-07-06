@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0127</td><td>2010-02-02</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">PIAPOT BAND\n** SETTING APART **\n(LED-09-27)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of 254.142 hectares (627.99 acres) of surface land and 259 hectares (640 acres) of an undivided one- half interest in all mines and minerals except:\na) an undivided one-eighth interest in all petroleum and natural gas and all other hydrocarbons other than coal and valuable stone; and b) an undivided one-half interest in all mines and minerals other than petroleum and natural gas and all other hydrocarbons but including coal and valuable stone, for the use and benefit of the Piapot Band, located in the Rural Municipality of Elmsthorpe No. 100, near the village of Truax, Saskatchewan, as an addition to PIAPOT INDIAN RESERVE No. 75.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22100&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0127",
-  "htmlHash": "83cb3ab2ba293168a9c5a6d441cc2598"
+  "htmlHash": "83cb3ab2ba293168a9c5a6d441cc2598",
+  "attachments": [
+    "attachment.php?attach=22100&lang=en"
+  ]
 }

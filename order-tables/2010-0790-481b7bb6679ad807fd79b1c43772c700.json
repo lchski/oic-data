@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0790</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">New Harmonized Value-added Tax System Regulations, No. 2 (Special Edition-2010-06-30)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NEW HARMONIZED VALUE-ADDED TAX SYSTEM REGULATIONS, No. 2 are required as a consequence of Canada’s Comprehensive Integrated Tax Co-ordination Agreements (CITCAs) with Ontario and British Columbia.  The Regulations formalize and give legal force to the previously released real property, ITC recapture and HST self-assessment and rebate rules as well as introduce other rules to ensure that the provincial component of the HST applies properly.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0151  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22765&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0790",
-  "htmlHash": "481b7bb6679ad807fd79b1c43772c700"
+  "htmlHash": "481b7bb6679ad807fd79b1c43772c700",
+  "attachments": [
+    "attachment.php?attach=22765&lang=en"
+  ]
 }

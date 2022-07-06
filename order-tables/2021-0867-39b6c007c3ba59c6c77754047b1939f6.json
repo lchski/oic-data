@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0867</td><td>2021-08-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Greenhouse Gas Pollution Pricing Act<br>Environmental Violations Administrative Monetary Penalties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Output-Based Pricing System Regulations and the Environmental Violations Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OUTPUT-BASED PRICING SYSTEM REGULATIONS in order to (1) ensure that the incentive to reduce GHG emissions in the federal Output-Based Pricing System (OPBS) is maintained by adding rules respecting transitional matters related to the deletion of the name of a province or territory from Part 2 of Schedule 1 to the Greenhouse Gas Pollution Pricing Act (GGPPA) and related to circumstances in which a facility ceases to be a covered facility; (2) increase the accuracy of the values of output, GHG emissions and emissions limits calculated by covered facilities by adjusting quantification rules; and (3) clarify various provisions of the regulatory text.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0197  <strong>Publication Date:</strong> 2021-09-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41176&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0867",
-  "htmlHash": "39b6c007c3ba59c6c77754047b1939f6"
+  "htmlHash": "39b6c007c3ba59c6c77754047b1939f6",
+  "attachments": [
+    "attachment.php?attach=41176&lang=en"
+  ]
 }

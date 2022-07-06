@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0234</td><td>1995-02-14</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the variation (Order No. AO-7-GL-98) made by the NATIONAL\nENERGY BOARD to correct a clerical error in Licence GL-98 issued to\nProGAS LIMITED for the exportation of natural gas to the United States.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0234",
-  "htmlHash": "75442acb9865d9f933cb6eedecfbc886"
+  "htmlHash": "75442acb9865d9f933cb6eedecfbc886",
+  "attachments": []
 }

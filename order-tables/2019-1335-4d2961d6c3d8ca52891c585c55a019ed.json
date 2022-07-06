@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1335</td><td>2019-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARK GLAUSER as Ambassador Extraordinary and Plenipotentiary of Canada to the Federated States of Micronesia, with residence in Canberra; JAMAL KHOKHAR as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Azerbaijan, with residence in Ankara; FRANÇOIS LAFRENIÈRE as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of the Union of Myanmar; CAMERON MACKAY as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Indonesia; CAROL MCQUEEN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Benin, with residence in Ouagadougou; DAVID MURPHY as Consul General of Canada in Shanghai (People's Republic of China); PHILIPPE RHEAULT as Consul General of Canada in Guangzhou (People’s Republic of China); ULRIC SHANNON as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Iraq; and CHRISTOPHER WILKIE as Ambassador Extraordinary and Plenipotentiary of Canada to the People’s Democratic Republic of Algeria.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38672&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1335",
-  "htmlHash": "4d2961d6c3d8ca52891c585c55a019ed"
+  "htmlHash": "4d2961d6c3d8ca52891c585c55a019ed",
+  "attachments": [
+    "attachment.php?attach=38672&lang=en"
+  ]
 }

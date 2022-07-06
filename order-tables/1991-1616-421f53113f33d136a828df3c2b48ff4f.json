@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1616</td><td>1991-08-29</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CESAR A.N. De MORAIS, of the City of Toronto, Ontario, as\na full-time permanent member of the Convention Refugee Determination\nDivision of the IMMIGRATION AND REFUGEE BOARD (Toronto Regional Office)\nwho shall hold office during good behavour for a term of five years\nbeginning January 1, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1616",
-  "htmlHash": "421f53113f33d136a828df3c2b48ff4f"
+  "htmlHash": "421f53113f33d136a828df3c2b48ff4f",
+  "attachments": []
 }

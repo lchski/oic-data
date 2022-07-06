@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0858</td><td>2007-05-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Judges to serve as ADMINISTRATOR of the Government of ONTARIO on the following dates:\n\nThe Hon. DENNIS R. O'CONNOR\n- June 1 - June 30, 2007, inclusive\n\nThe Hon. HEATHER FORSTER SMITH\n- From July 1, 2007 until another person or a new Chief Justice has been appointed</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16615&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0858",
-  "htmlHash": "018a8535579e6298b0677a1fe7ec9d4b"
+  "htmlHash": "018a8535579e6298b0677a1fe7ec9d4b",
+  "attachments": [
+    "attachment.php?attach=16615&lang=en"
+  ]
 }

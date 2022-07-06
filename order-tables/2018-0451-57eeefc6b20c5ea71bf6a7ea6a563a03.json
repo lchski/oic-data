@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0451</td><td>2018-04-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; PCH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Momentous Corporation ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant one option of five years, commencing on September 1, 2018, to renew an existing five-year lease with MOMENTOUS CORPORATION to occupy third floor office space and lower level storage space in the building located at 12-18 York Street, in Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36120&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0451",
-  "htmlHash": "57eeefc6b20c5ea71bf6a7ea6a563a03"
+  "htmlHash": "57eeefc6b20c5ea71bf6a7ea6a563a03",
+  "attachments": [
+    "attachment.php?attach=36120&lang=en"
+  ]
 }

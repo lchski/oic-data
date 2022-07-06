@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0719</td><td>2007-05-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PRINCE ALBERT NATIONAL PARK OF CANADA LAND RENTS REMISSION ORDER - which provides for the remission of a portion of the rent that is to be paid by holders of a leasehold interest in public lands located in the seasonal campground area at the Waskesiu Visitor Centre, for the period beginning on April 1, 2007 and ending on March 31, 2010.\n.\nTREASURY BOARD (PART A)  --  MAY 3, 2007</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0061  <strong>Publication Date:</strong> 2007-05-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16482&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0719",
-  "htmlHash": "5a8435f2bde8385f5a79f94f43b58cc5"
+  "htmlHash": "5a8435f2bde8385f5a79f94f43b58cc5",
+  "attachments": [
+    "attachment.php?attach=16482&lang=en"
+  ]
 }

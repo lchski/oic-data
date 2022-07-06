@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1249</td><td>2010-10-07</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Patented Medicines (Notice of Compliance) Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PATENTED MEDICINES (NOTICE OF COMPLIANCE) REGULATIONS (Miscellaneous Program) which corrects language and grammatical inconsistencies in the English and French versions noted by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0212  <strong>Publication Date:</strong> 2010-10-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23236&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1249",
-  "htmlHash": "dcbcaab109b7d9553002728bc7c8afc8"
+  "htmlHash": "dcbcaab109b7d9553002728bc7c8afc8",
+  "attachments": [
+    "attachment.php?attach=23236&lang=en"
+  ]
 }

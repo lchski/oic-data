@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0027</td><td>2004-01-23</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, from the Department of Transport to the Department of the Environment, of the portion of the public service in the Department of Transport known as the Crown Corporation Secretariat relating to Canada Mortgage and Housing Corporation, Canada Lands Company Limited and Queens Quay West Land Corporation, effective January 24, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0008  <strong>Publication Date:</strong> 2004-02-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5651&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0027",
-  "htmlHash": "fcc4934e0a9b2125a9f3e5aaf2c04df9"
+  "htmlHash": "fcc4934e0a9b2125a9f3e5aaf2c04df9",
+  "attachments": [
+    "attachment.php?attach=5651&lang=en"
+  ]
 }

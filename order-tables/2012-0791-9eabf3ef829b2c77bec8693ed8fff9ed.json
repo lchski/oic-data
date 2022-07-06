@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0791</td><td>2012-06-07</td><td></td><td></td><td>,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Repeal of P.C. 1972-14/2307  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing Order-in-Council P.C. 1972-14/2307 of September 21, 1972 which authorized the Minister of National Defence to enter into arrangements with NATO and other states regarding the provision of logistic support to Canadian Forces that are deployed outside Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0791",
-  "htmlHash": "9eabf3ef829b2c77bec8693ed8fff9ed"
+  "htmlHash": "9eabf3ef829b2c77bec8693ed8fff9ed",
+  "attachments": [
+    "attachment.php?attach=26216&lang=en"
+  ]
 }

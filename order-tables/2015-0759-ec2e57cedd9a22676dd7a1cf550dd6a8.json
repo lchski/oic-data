@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0759</td><td>2015-06-04</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Narcotic Control Regulations and the Marihuana for Medical Purposes Regulations (Communication of Information)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NARCOTIC CONTROL REGULATIONS AND THE MARIHUANA FOR MEDICAL PURPOSES REGULATIONS (COMMUNICATION OF INFORMATION) in order to (1) enhance the role of healthcare practitioners by requiring licensed producers to share transactional information with their healthcare licensing authorities; and (2) enable Health Canada to proactively share healthcare practitioner information.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0132  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31081&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0759",
-  "htmlHash": "ec2e57cedd9a22676dd7a1cf550dd6a8"
+  "htmlHash": "ec2e57cedd9a22676dd7a1cf550dd6a8",
+  "attachments": [
+    "attachment.php?attach=31081&lang=en"
+  ]
 }

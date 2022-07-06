@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1121</td><td>1993-06-01</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Commissioner of the Northwest Territories of the\nadministration and control over some 4.54 hectares of land situated in the\nHamlet of RANKIN INLET, being the beds of three ponds which have now been\npartially filled-in.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1121",
-  "htmlHash": "b51263597545ee0a58b8ab356e91a025"
+  "htmlHash": "b51263597545ee0a58b8ab356e91a025",
+  "attachments": []
 }

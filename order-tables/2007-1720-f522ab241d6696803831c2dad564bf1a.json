@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1720</td><td>2007-11-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to P.C. 2007-1719 of November 14, 2007 by replacing in paragraph c) of the French version the word horaire with the word journalier.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17484&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1720",
-  "htmlHash": "f522ab241d6696803831c2dad564bf1a"
+  "htmlHash": "f522ab241d6696803831c2dad564bf1a",
+  "attachments": [
+    "attachment.php?attach=17484&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0408</td><td>2016-05-20</td><td></td><td></td><td>NRCAN,&nbsp; NEB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of Licence GL-334 - Kitsault Energy Ltd.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE OF LICENCE GL-334 to Kitsault Energy Ltd. to export liquefied natural gas, from the outlet of the loading arm of the natural gas liquefaction terminal to be located near Kitsault, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32088&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0408",
-  "htmlHash": "fbc42224e5d01935cc73fd240fc58702"
+  "htmlHash": "fbc42224e5d01935cc73fd240fc58702",
+  "attachments": [
+    "attachment.php?attach=32088&lang=en"
+  ]
 }

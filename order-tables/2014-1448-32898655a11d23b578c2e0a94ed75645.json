@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1448</td><td>2014-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Economic Action Plan 2013 Act, No. 2</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing employment conditions of GUY GIGUÈRE, former Chairperson of the Public Service Staffing Tribunal.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30272&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1448",
-  "htmlHash": "32898655a11d23b578c2e0a94ed75645"
+  "htmlHash": "32898655a11d23b578c2e0a94ed75645",
+  "attachments": [
+    "attachment.php?attach=30272&lang=en"
+  ]
 }

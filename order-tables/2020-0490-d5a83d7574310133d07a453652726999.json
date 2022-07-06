@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0490</td><td>2020-06-25</td><td></td><td></td><td>ESDC,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Standards for Work-Integrated Learning Activities Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">STANDARDS FOR WORK-INTEGRATED LEARNING ACTIVITIES REGULATIONS in order to (1) ensure that students in work-integrated learning receive certain labour standards protections; and (2) foster an environment where employers, students and educational institutions can leverage work-integrated learning opportunities more confidently.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0145  <strong>Publication Date:</strong> 2020-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39441&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0490",
-  "htmlHash": "d5a83d7574310133d07a453652726999"
+  "htmlHash": "d5a83d7574310133d07a453652726999",
+  "attachments": [
+    "attachment.php?attach=39441&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0220</td><td>2011-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Fishing and Recreational Harbours Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Fishing and Recreational Harbours Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FISHING AND RECREATIONAL HARBOURS REGULATIONS by removing 128 harbour locations that have already been legally transferred/divested to other organizations from Schedule I.  The amendments will also change the name of one harbour in Quebec from “Havre-St-Pierre - Fishermen’s Section and Ramp” to “Havre-St-Pierre”.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0040  <strong>Publication Date:</strong> 2011-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23873&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0220",
-  "htmlHash": "765f152caf7c31ad11e225fae74125fa"
+  "htmlHash": "765f152caf7c31ad11e225fae74125fa",
+  "attachments": [
+    "attachment.php?attach=23873&lang=en"
+  ]
 }

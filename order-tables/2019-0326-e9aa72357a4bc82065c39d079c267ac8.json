@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0326</td><td>2019-04-12</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Transportation of Dangerous Goods Regulations (Emergency Response Assistance Plan)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS (EMERGENCY RESPONSE ASSISTANCE PLAN) in order to address the recommendations of the EMERGENCY RESPONSE TASK FORCE to improve the EMERGENCY ASSISTANCE RESPONSE PLAN PROGRAM and enhance public safety in the event of an incident during the transportation of dangerous goods.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0101  <strong>Publication Date:</strong> 2019-05-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37647&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0326",
-  "htmlHash": "e9aa72357a4bc82065c39d079c267ac8"
+  "htmlHash": "e9aa72357a4bc82065c39d079c267ac8",
+  "attachments": [
+    "attachment.php?attach=37647&lang=en"
+  ]
 }

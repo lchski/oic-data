@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0367</td><td>2014-04-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; PCA-OLD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Pacific Railway (Lacolle Station) ** Sale **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADIAN PACIFIC RAILWAY COMPANY to sell its station building in LACOLLE, Quebec, to the Municipality of Lacolle in a manner that provides for continuing protection of the heritage character of the station once it is no longer under the protection of the Heritage Railway Stations Protection Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29153&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0367",
-  "htmlHash": "096fd347dc290325647f3867aab03cca"
+  "htmlHash": "096fd347dc290325647f3867aab03cca",
+  "attachments": [
+    "attachment.php?attach=29153&lang=en"
+  ]
 }

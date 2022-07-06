@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0985</td><td>2016-11-18</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Office of the Superintendent of Financial Institutions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Assessment of Financial Institutions Regulations, 2017</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ASSESSMENT OF FINANCIAL INSTITUTIONS REGULATIONS, 2017 in order to address three issues: (1) Best Proxy – implement a better proxy by which to measure Office of the Superintendent of Financial Institutions (OSFI) time and resource expenditures to ensure a fair and accurate distribution of OSFI’s expenses across FRFIs; (2) Greater Stability – revise the assessment methodologies to make them less prone to major impacts resulting from future accounting and other changes to international standards; and (3) Update Minimum Assessments – update the minimum amounts assessed, ensure that they remain up-to-date over time, and reduce unnecessary complexity.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0297  <strong>Publication Date:</strong> 2016-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32680&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0985",
-  "htmlHash": "7aaf4f4cc7aac3bc659ffb18ed4102d2"
+  "htmlHash": "7aaf4f4cc7aac3bc659ffb18ed4102d2",
+  "attachments": [
+    "attachment.php?attach=32680&lang=en"
+  ]
 }

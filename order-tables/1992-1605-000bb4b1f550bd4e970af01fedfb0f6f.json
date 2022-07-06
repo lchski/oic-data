@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1605</td><td>1992-07-16</td><td>0</td><td></td><td>FIN,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the EXPORT DEVELOPMENT CORPORATION to make a loan to the\nBANK OF CHINA in order to finance the purchase of equipment and services\nfor making pulp and paper to be supplied by CIC CANADIAN INDUSTRIAL\nCONSORTIUM INC. in connection with the Shaowu Paper Mill in Fujian\nProvince, China.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1605",
-  "htmlHash": "000bb4b1f550bd4e970af01fedfb0f6f"
+  "htmlHash": "000bb4b1f550bd4e970af01fedfb0f6f",
+  "attachments": []
 }

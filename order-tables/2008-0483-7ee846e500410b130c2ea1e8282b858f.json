@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0483</td><td>2008-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PHILIPPE GÉRARD HÉNAULT of Ottawa, Ontario, to be Chairperson of the Boards of Referees for the Ontario Regional Division, and particularly for the District of Ottawa, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18303&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0483",
-  "htmlHash": "7ee846e500410b130c2ea1e8282b858f"
+  "htmlHash": "7ee846e500410b130c2ea1e8282b858f",
+  "attachments": [
+    "attachment.php?attach=18303&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0668</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of the\nfollowing persons as trustees of the Board of Trustees of the National\nGallery of Canada, to hold office during pleasure for a term of three\nyears.\n(JUDY MacDONALD, of Charlottetown, Prince Edward Island, in the place of\nMichael Hornstein, whose term has expired; and IRENE SZYLINGER, of\nToronto, Ontario, in the place of Janice E. Dymond, whose term has\nexpired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0668",
-  "htmlHash": "e5e276d9c5f1efdbf1a25a82a862e062"
+  "htmlHash": "e5e276d9c5f1efdbf1a25a82a862e062",
+  "attachments": []
 }

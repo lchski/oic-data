@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1352</td><td>1992-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; IT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the EXPORT DEVELOPMENT CORPORATION to enter into insurance\ncontracts in order to provide CANADIAN FRACMASTER LTD. and PanCANADIAN\nPETROLEUM LIMITED with protection against certain financial risks\nassociated with or resulting from their investment in a joint venture\ninvolved in oil and gas operations in the RUSSIAN FEDERATION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1352",
-  "htmlHash": "b3b7e41361c9e6a7d212af9e09aa4d8c"
+  "htmlHash": "b3b7e41361c9e6a7d212af9e09aa4d8c",
+  "attachments": []
 }

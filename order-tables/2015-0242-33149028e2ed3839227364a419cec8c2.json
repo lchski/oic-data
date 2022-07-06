@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0242</td><td>2015-02-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CH</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Newfoundland and Labrador</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of NEWFOUNDLAND AND LABRADOR of the (1) Hon. B. GALE WELSH from March 11 to 15, 2015, inclusive; from March 21 to April 2, 2015; inclusive; and from June 2 to 5, 2015, inclusive; and (2) Hon. RAYMOND P. WHALEN from March 16 to 20, 2015, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30567&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0242",
-  "htmlHash": "33149028e2ed3839227364a419cec8c2"
+  "htmlHash": "33149028e2ed3839227364a419cec8c2",
+  "attachments": [
+    "attachment.php?attach=30567&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1244</td><td>2017-10-18</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SERGE FALARDEAU of Sainte-Marie de Beauce, Quebec, to be a director of the Board of Directors of the Royal Canadian Mint, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35155&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1244",
-  "htmlHash": "9dede4c3be52c91b1f1b417d24e2c165"
+  "htmlHash": "9dede4c3be52c91b1f1b417d24e2c165",
+  "attachments": [
+    "attachment.php?attach=35155&lang=en"
+  ]
 }

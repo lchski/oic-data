@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0789</td><td>2000-05-31</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NUCLEAR SECURITY REGULATIONS which require licensees to\npermanently maintain, and in some cases, install additional remote alarm\nsurveillance equipment in order to quickly and accurately assess the cause\nof the alarm, and to search or otherwise monitor persons without a security\nclearance when they enter and leave a protected area.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0209  <strong>Publication Date:</strong> 2000-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0789",
-  "htmlHash": "314c2ec827d53cbcbd9b351433f75aa1"
+  "htmlHash": "314c2ec827d53cbcbd9b351433f75aa1",
+  "attachments": []
 }

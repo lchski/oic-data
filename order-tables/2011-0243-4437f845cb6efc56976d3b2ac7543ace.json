@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0243</td><td>2011-02-17</td><td></td><td></td><td>AAFC,&nbsp; GRAIN COMM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Grain Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA GRAIN REGULATIONS in order to increase grain price transparency for producers by eliminating charges that are not included on the elevator receipt, cash purchase ticket or schedule of elevator tariffs and thereby enabling producers to more easily determine their final grain price.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0045  <strong>Publication Date:</strong> 2011-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23896&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0243",
-  "htmlHash": "4437f845cb6efc56976d3b2ac7543ace"
+  "htmlHash": "4437f845cb6efc56976d3b2ac7543ace",
+  "attachments": [
+    "attachment.php?attach=23896&lang=en"
+  ]
 }

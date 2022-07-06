@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0404</td><td>2004-04-08</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Appointment Regulations, No. 2004-5</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUZANNE TINING of Montréal, Quebec, to be Associate Deputy Minister of Indian Affairs and Northern Development, to hold office during pleasure, effective June 14, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6460&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0404",
-  "htmlHash": "bf7a0cca1b2b9db08245eec2ff156fdc"
+  "htmlHash": "bf7a0cca1b2b9db08245eec2ff156fdc",
+  "attachments": [
+    "attachment.php?attach=6460&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0746</td><td>1996-05-28</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Agriculture and Agri-Food of\nEDWARD WILLIAM CLARK, of Miscouche, Prince Edward Island, as a director of\nthe Board of Directors of the Farm Credit Corporation for a term of three\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0746",
-  "htmlHash": "db523218be3a1c6aa40358c7002c7504"
+  "htmlHash": "db523218be3a1c6aa40358c7002c7504",
+  "attachments": []
 }

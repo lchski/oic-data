@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0991</td><td>2008-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, 1,491 hectares (3,684 acres), more or less, of land, including mines and minerals, for the use and benefit of the BUNIBONIBEE CREE NATION AS MUNRO LAKE INDIAN RESERVE, in Manitoba.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18835&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0991",
-  "htmlHash": "01d04aa38c87fcf782709506dfbaaf38"
+  "htmlHash": "01d04aa38c87fcf782709506dfbaaf38",
+  "attachments": [
+    "attachment.php?attach=18835&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0410</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the FLYING DUST FIRST NATION surrenders, for leasing purposes, approximately 67 hectares of land on Flying Dust Indian Reserve No. 105, in Saskatchewan, and the whole of Meadow Lake Indian Reserve No. 105C, comprising only 0.2 hectares.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10003&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0410",
-  "htmlHash": "dc3b864f41af2853903541be937aa73a"
+  "htmlHash": "dc3b864f41af2853903541be937aa73a",
+  "attachments": [
+    "attachment.php?attach=10003&lang=en"
+  ]
 }

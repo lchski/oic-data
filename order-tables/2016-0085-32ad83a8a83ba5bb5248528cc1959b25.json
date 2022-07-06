@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0085</td><td>2016-02-26</td><td></td><td></td><td>,&nbsp; VAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Veterans Review and Appeal Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DENISE SHERRY DIETRICH of Waterloo, Ontario, to be a temporary member of the Veterans Review and Appeal Board, to hold office during good behaviour for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31760&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0085",
-  "htmlHash": "32ad83a8a83ba5bb5248528cc1959b25"
+  "htmlHash": "32ad83a8a83ba5bb5248528cc1959b25",
+  "attachments": [
+    "attachment.php?attach=31760&lang=en"
+  ]
 }

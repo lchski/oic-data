@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2180</td><td>1999-12-09</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to that part of Lot\n568, Group 814, in the Town of HAY RIVER, Northwest Territories, as shown\non CLSR Plan 52195, lying within 30.48 metres (100 feet) of the Ordinary\nHigh Water Mark of the shoreline.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0139  <strong>Publication Date:</strong> 1999-12-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2180",
-  "htmlHash": "ee72b70aeedc621fcc3befbf810ece99"
+  "htmlHash": "ee72b70aeedc621fcc3befbf810ece99",
+  "attachments": []
 }

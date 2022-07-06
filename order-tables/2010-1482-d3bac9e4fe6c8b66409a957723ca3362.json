@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1482</td><td>2010-11-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Consular Services Fees Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONSULAR SERVICES FEES REGULATIONS, in order to allow for the refund of the consular services fee to applicants whose applications for travel documents were refused.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0271  <strong>Publication Date:</strong> 2010-12-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23427&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1482",
-  "htmlHash": "d3bac9e4fe6c8b66409a957723ca3362"
+  "htmlHash": "d3bac9e4fe6c8b66409a957723ca3362",
+  "attachments": [
+    "attachment.php?attach=23427&lang=en"
+  ]
 }

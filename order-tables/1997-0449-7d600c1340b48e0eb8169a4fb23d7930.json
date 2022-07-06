@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0449</td><td>1997-03-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Minister of HUMAN RESOURCES DEVELOPMENT and to his\nDepartment of the responsabilities of the Minister of FINANCE and of the\nOffice of the Superintendent of Financial Institution under the CIVIL\nSERVICE INSURANCE ACT.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0039  <strong>Publication Date:</strong> 1997-04-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0449",
-  "htmlHash": "7d600c1340b48e0eb8169a4fb23d7930"
+  "htmlHash": "7d600c1340b48e0eb8169a4fb23d7930",
+  "attachments": []
 }

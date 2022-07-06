@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0923</td><td>2015-06-18</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Development Research  Centre Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of URIEL ROSENTHAL of Rotterdam, Netherlands, to be a Governor of the Board of Governors of the International Development Research Centre, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31253&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0923",
-  "htmlHash": "d4aef2522d7b32f4ce242b610b614df8"
+  "htmlHash": "d4aef2522d7b32f4ce242b610b614df8",
+  "attachments": [
+    "attachment.php?attach=31253&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1263</td><td>2019-08-27</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Gwich'in Land Claim Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RONALD ALLEN of Yellowknife, Northwest Territories, as an alternate member to the Gwich'in Renewable Resources Board, for a term of five years, effective on the date of this Order in Council or the Order of the Executive Council, whichever is later.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38605&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1263",
-  "htmlHash": "6045d3a0b570e25552ed30f307319d00"
+  "htmlHash": "6045d3a0b570e25552ed30f307319d00",
+  "attachments": [
+    "attachment.php?attach=38605&lang=en"
+  ]
 }

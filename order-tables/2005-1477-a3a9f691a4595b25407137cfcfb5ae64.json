@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1477</td><td>2005-08-30</td><td></td><td></td><td>PMO,&nbsp; PSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Special Appointment Regulations, No. 2005-9. (DORIENNE ROWAN-CAMPBELL)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0244  <strong>Publication Date:</strong> 2005-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12335&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1477",
-  "htmlHash": "a3a9f691a4595b25407137cfcfb5ae64"
+  "htmlHash": "a3a9f691a4595b25407137cfcfb5ae64",
+  "attachments": [
+    "attachment.php?attach=12335&lang=en"
+  ]
 }

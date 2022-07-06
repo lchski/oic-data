@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0184</td><td>1999-02-09</td><td>0</td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT GORDON KING, of Sudbury, Ontario, as a member of the\nReview Tribunal for the region of Sudbury to hold office during pleasure\nfor a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0184",
-  "htmlHash": "7c66194efa5b0b0174a947b6994da968"
+  "htmlHash": "7c66194efa5b0b0174a947b6994da968",
+  "attachments": []
 }

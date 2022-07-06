@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1314</td><td>2011-11-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Customs Tariff, 2011-3</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the Schedule to the CUSTOMS TARIFF, 2011-3, in order to eliminate tariffs on certain goods used by Canadian manufacturers in their operations.  This is consistent with longstanding tariff policy and the government’s commitment to make Canada a tariff-free zone for industrial manufacturers.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0260  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24996&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1314",
-  "htmlHash": "dcc679f87353b97c9e3bd338374b2d30"
+  "htmlHash": "dcc679f87353b97c9e3bd338374b2d30",
+  "attachments": [
+    "attachment.php?attach=24996&lang=en"
+  ]
 }

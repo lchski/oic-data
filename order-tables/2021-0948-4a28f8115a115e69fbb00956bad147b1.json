@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0948</td><td>2021-10-26</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Housing Strategy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Housing and Diversity and Inclusion as the Minister for the Purposes of that Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the MINISTER OF HOUSING AND DIVERSITY AND INCLUSION for the purposes of the NATIONAL HOUSING STRATEGY ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0093  <strong>Publication Date:</strong> 2021-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41309&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0948",
-  "htmlHash": "4a28f8115a115e69fbb00956bad147b1"
+  "htmlHash": "4a28f8115a115e69fbb00956bad147b1",
+  "attachments": [
+    "attachment.php?attach=41309&lang=en"
+  ]
 }

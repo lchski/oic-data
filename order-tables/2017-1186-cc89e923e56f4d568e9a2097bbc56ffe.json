@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1186</td><td>2017-09-22</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Cape Mudge Indian Reserve No. 10, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) consenting to the exercise of the power of the Province of British Columbia to take administration and control of 0.785 hectare (1.940 acre) of lands in CAPE MUDGE INDIAN RESERVE NO. 10, British Columbia; and (2) authorizing, in lieu of such taking, the transfer of administration and control of the required lands.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35091&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1186",
-  "htmlHash": "cc89e923e56f4d568e9a2097bbc56ffe"
+  "htmlHash": "cc89e923e56f4d568e9a2097bbc56ffe",
+  "attachments": [
+    "attachment.php?attach=35091&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1366</td><td>2019-11-20</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Shared Services Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of State (Digital Government), to be the Minister for the purposes of that Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2012-959 of June 29, 2012; and (2) designating the MINISTER OF STATE (DIGITAL GOVERNMENT), a member of the Queen’s Privy Council for Canada, to be the Minister for the purposes of the SHARED SERVICES CANADA ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0128  <strong>Publication Date:</strong> 2019-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38701&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1366",
-  "htmlHash": "1cbcf7fec087d103f53d3ba4e6434182"
+  "htmlHash": "1cbcf7fec087d103f53d3ba4e6434182",
+  "attachments": [
+    "attachment.php?attach=38701&lang=en"
+  ]
 }

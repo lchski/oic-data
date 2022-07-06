@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1412</td><td>2003-09-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SULPHUR IN GASOLINE REGULATIONS by replacing the test method for measuring sulphur content with a recently developed method that provides for more accurate measurement of sulphur at low levels.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0319  <strong>Publication Date:</strong> 2003-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4006&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1412",
-  "htmlHash": "bafb2d6fe54272d3b8f10a066b7c337d"
+  "htmlHash": "bafb2d6fe54272d3b8f10a066b7c337d",
+  "attachments": [
+    "attachment.php?attach=4006&lang=en"
+  ]
 }

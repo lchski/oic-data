@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1530</td><td>2018-12-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RONALD PARKER of Ottawa, Ontario, to be Senior Advisor to the Privy Council Office, to hold office during pleasure, effective December 17, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1530",
-  "htmlHash": "53d4e5ce1f535d5e22f466cdd6150a5f"
+  "htmlHash": "53d4e5ce1f535d5e22f466cdd6150a5f",
+  "attachments": [
+    "attachment.php?attach=37216&lang=en"
+  ]
 }

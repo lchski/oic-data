@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0118</td><td>2019-02-27</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHANNE CÔTÉ-GALARNEAU of Montréal, Quebec, to be a part-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37437&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0118",
-  "htmlHash": "59a9825bea8b58d6b72ef6b0ede8028c"
+  "htmlHash": "59a9825bea8b58d6b72ef6b0ede8028c",
+  "attachments": [
+    "attachment.php?attach=37437&lang=en"
+  ]
 }

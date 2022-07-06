@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0421</td><td>2015-04-01</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Terrebonne / Lachenaie (Quebec) ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE DE TERREBONNE / LACHENAIE, in Quebec, TO CHANGE ITS NAME to “CHAMBRE DE COMMERCE ET D'INDUSTRIE LES MOULINS”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30747&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0421",
-  "htmlHash": "6badec3b452eb527e69d151c5517a531"
+  "htmlHash": "6badec3b452eb527e69d151c5517a531",
+  "attachments": [
+    "attachment.php?attach=30747&lang=en"
+  ]
 }

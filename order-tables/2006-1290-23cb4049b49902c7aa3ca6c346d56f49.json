@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1290</td><td>2006-11-07</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SOLVENCY FUNDING RELIEF REGULATIONS which give effect to the funding relief measures announced in the 2006 Budget for federally-regulated Defined Benefit Pension Plans.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0275  <strong>Publication Date:</strong> 2006-11-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15260&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1290",
-  "htmlHash": "23cb4049b49902c7aa3ca6c346d56f49"
+  "htmlHash": "23cb4049b49902c7aa3ca6c346d56f49",
+  "attachments": [
+    "attachment.php?attach=15260&lang=en"
+  ]
 }

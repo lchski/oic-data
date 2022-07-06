@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0062</td><td>2007-01-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Freshwater Fish Marketing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Fisheries and Oceans of ROBERT L. PATERSON of the Town of Sioux Lookout in the Territorial District of Kenora, Ontario, as a director of the Board of Directors of the Freshwater Fish Marketing Corporation to hold office during pleasure for a term of three years, effective May 13, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15714&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0062",
-  "htmlHash": "030498a747d007354e74ec7b96249eec"
+  "htmlHash": "030498a747d007354e74ec7b96249eec",
+  "attachments": [
+    "attachment.php?attach=15714&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0186</td><td>2018-02-26</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Ontario Immigration Agreement ** Amendment **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Citizenship and Immigration, to enter into an agreement with Ontario to amend the CANADA-ONTARIO IMMIGRATION AGREEMENT to add three new annexes concerning French-Speaking Immigrants, Partnership with Municipalities, and International Students.  The 2017 Agreement was signed on November 24, 2017.  The three new annexes will be valid for the duration of the 2017 Agreement, which will expire in November 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35847&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0186",
-  "htmlHash": "573df099f6afb5e1616056cd53d68999"
+  "htmlHash": "573df099f6afb5e1616056cd53d68999",
+  "attachments": [
+    "attachment.php?attach=35847&lang=en"
+  ]
 }

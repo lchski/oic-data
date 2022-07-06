@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0462</td><td>1996-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EIC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter an ALCOHOL AND DRUG TREATMENT AND REHABILITATION\nAGREEMENT with each of the Provinces and Territories in order to particpate\nin the sharing of costs associated with the provisions of these services in\nthe 1995-1996 and 1996-1997 fiscal years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0462",
-  "htmlHash": "340efc5b3ae0b1cc86cab16380532107"
+  "htmlHash": "340efc5b3ae0b1cc86cab16380532107",
+  "attachments": []
 }

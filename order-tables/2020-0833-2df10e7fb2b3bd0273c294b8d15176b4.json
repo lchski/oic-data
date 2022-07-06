@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0833</td><td>2020-10-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order Respecting the Prevention and Alleviation of Shortages of Drugs in Relation to COVID-19</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the INTERIM ORDER RESPECTING THE PREVENTION AND ALLEVIATION OF SHORTAGES OF DRUGS IN RELATION TO COVID 19, made by the Minister of Health on October 16, 2020 in order to put in place new measures to help prevent or alleviate drugs shortages, and the risk of drug shortages, caused or exacerbated, directly or indirectly, by COVID-19.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39821&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0833",
-  "htmlHash": "2df10e7fb2b3bd0273c294b8d15176b4"
+  "htmlHash": "2df10e7fb2b3bd0273c294b8d15176b4",
+  "attachments": [
+    "attachment.php?attach=39821&lang=en"
+  ]
 }

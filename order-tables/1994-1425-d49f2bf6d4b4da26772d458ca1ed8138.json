@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1425</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of the NATIONAL HISTORIC PARKS ADMISSION FEES REGULATIONS\nthat set admission fees for the National Historic Parks, which fees from\nthen on, will be set by the Minister of Canadian Heritage.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0579  <strong>Publication Date:</strong> 1994-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1425",
-  "htmlHash": "d49f2bf6d4b4da26772d458ca1ed8138"
+  "htmlHash": "d49f2bf6d4b4da26772d458ca1ed8138",
+  "attachments": []
 }

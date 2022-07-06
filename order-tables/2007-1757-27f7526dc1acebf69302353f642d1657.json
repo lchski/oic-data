@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1757</td><td>2007-11-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CWB</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending SECTION 26 of the CANADIAN WHEAT BOARD REGULATIONS to establish INITIAL PAYMENTS for the 2007-2008 pool period.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0265  <strong>Publication Date:</strong> 2007-11-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17532&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1757",
-  "htmlHash": "27f7526dc1acebf69302353f642d1657"
+  "htmlHash": "27f7526dc1acebf69302353f642d1657",
+  "attachments": [
+    "attachment.php?attach=17532&lang=en"
+  ]
 }

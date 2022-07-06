@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2054</td><td>1990-09-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to enter into Agreements with either the Provinces, private\nindustry livestock associations, or both, which provide for the making of\nfinancial contributions which will offset the data processing costs\nassociated with the R.O.P. (Record of Production) Programs; and (b) to\ntransfer the ownership of Crown property, namely certain computer\nequipment and software, to those parties.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2054",
-  "htmlHash": "738d8f48bb6f6f9ca31c8941effc5513"
+  "htmlHash": "738d8f48bb6f6f9ca31c8941effc5513",
+  "attachments": []
 }

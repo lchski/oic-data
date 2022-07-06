@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0286</td><td>2013-03-07</td><td></td><td></td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Employment Insurance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the EMPLOYMENT INSURANCE REGULATIONS in order to align the Regulations with specific amendments to the Employment Insurance Act brought by the Government's Jobs, Growth and Long-term Prosperity Act in June 2012 to ensure correct implementation of the Variable Best Weeks approach used to calculate a claimant’s EI benefit rate.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0045  <strong>Publication Date:</strong> 2013-03-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27510&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0286",
-  "htmlHash": "e057d97593c5798637ca7ebefd2b4c3d"
+  "htmlHash": "e057d97593c5798637ca7ebefd2b4c3d",
+  "attachments": [
+    "attachment.php?attach=27510&lang=en"
+  ]
 }

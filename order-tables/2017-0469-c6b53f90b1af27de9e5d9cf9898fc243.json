@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0469</td><td>2017-05-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to the Fort Hope Indian Reserve No. 64, Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 0.186 hectare (0.46 acre) of land including mines and minerals for the use and benefit of the Eabametoong First Nation as an addition to FORT HOPE INDIAN RESERVE NO. 64, is located in the Kenora District approximately 300 kilometres north of Thunder Bay, in Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34372&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0469",
-  "htmlHash": "c6b53f90b1af27de9e5d9cf9898fc243"
+  "htmlHash": "c6b53f90b1af27de9e5d9cf9898fc243",
+  "attachments": [
+    "attachment.php?attach=34372&lang=en"
+  ]
 }

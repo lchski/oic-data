@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1642</td><td>2005-09-14</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be undertaken of the investment by Mr. Franck Nicolas to establish a new business at Montréal, Quebec, that would conduct its business under the name Media Max Center.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1642",
-  "htmlHash": "8bd9f540baf4bdebd0f1e8b04fcad1e7"
+  "htmlHash": "8bd9f540baf4bdebd0f1e8b04fcad1e7",
+  "attachments": [
+    "attachment.php?attach=13593&lang=en"
+  ]
 }

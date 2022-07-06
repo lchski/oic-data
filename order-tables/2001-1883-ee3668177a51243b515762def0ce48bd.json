@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1883</td><td>2001-10-18</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of VARIATIONS made by the NATIONAL ENERGY BOARD to 21 Gas Export\nLicences which change the name by which the authorized holder is known to\neither TRANSCANADA ENERGY LIMITED, TRANSCANADA ENERGY LIMITED/TRANSCANADA\nPIPELINES LIMITED or TRANSCANADA ENERGY LIMITED AND TEMCO (Licences GL-83,\nGL-110, GL-121, GL-122, GL-128, GL-136, GL-137, GL-141, GL-163, GL-167,\nGL-169, GL-175, GL-200, GL-242, GL-243, GL-244, GL-245, GL-246, GL-248,\nGL-249 and GL-254).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1883",
-  "htmlHash": "ee3668177a51243b515762def0ce48bd"
+  "htmlHash": "ee3668177a51243b515762def0ce48bd",
+  "attachments": []
 }

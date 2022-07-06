@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1751</td><td>1992-07-31</td><td>0</td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Jean Guilbeault, of St-Mathias, Quebec, as Vice-Chairman\nof the Canada Labour Relations Board to hold office during good behaviour\nfor a term of ten years, effective September 1, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1751",
-  "htmlHash": "3efbb31ab599593fc72681efcc1a48dd"
+  "htmlHash": "3efbb31ab599593fc72681efcc1a48dd",
+  "attachments": []
 }

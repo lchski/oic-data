@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0929</td><td>2019-06-22</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Duty Free Shop Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DUTY FREE SHOP REGULATIONS in order to (1) formally include the modifications announced in the Customs Notice 14-031 in the Regulations; and (2) repeal the Summary of Monthly Sales and the Annual Report requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0259  <strong>Publication Date:</strong> 2019-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38254&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0929",
-  "htmlHash": "70aa71702f23031fcb5b687c25fbce9a"
+  "htmlHash": "70aa71702f23031fcb5b687c25fbce9a",
+  "attachments": [
+    "attachment.php?attach=38254&lang=en"
+  ]
 }

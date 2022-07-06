@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0925</td><td>2000-06-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to CANADA LANDS COMPANY (CLC) LIMITED, of the title to some\n62 hectares of land situated at the former Canadian Forces Base CHILLIWACK,\nin the province of British Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0925",
-  "htmlHash": "f3583bab62a8bdf5e6544687269ff3db"
+  "htmlHash": "f3583bab62a8bdf5e6544687269ff3db",
+  "attachments": []
 }

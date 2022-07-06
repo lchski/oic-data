@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0784</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws - Yukon\nBill #s 23-24 and 94-95\n1st Session of the thirty-second Legislative Assembly  \n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of a number of LAWS (Bill Nos. 23-24 and 94-95) made by the Legislature of YUKON during the First Session of the Thirty-second Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24358&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0784",
-  "htmlHash": "b0a3826c9bb89847f1d8b14036180429"
+  "htmlHash": "b0a3826c9bb89847f1d8b14036180429",
+  "attachments": [
+    "attachment.php?attach=24358&lang=en"
+  ]
 }

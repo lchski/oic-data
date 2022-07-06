@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1249</td><td>2013-11-21</td><td>19</td><td>2012</td><td>,&nbsp; HRSDC,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs, Growth and Long-term Prosperity Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2014 as the Day on which Sections 441 to 443 of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2014, as the day on which sections 441 to 443 of the JOBS GROWTH AND LONG-TERM PROSPERITY ACT, chapter 19 of the Statutes of Canada, 2012, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0121  <strong>Publication Date:</strong> 2013-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28514&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1249",
-  "htmlHash": "20abadbea6cb6e75282ef89c8a66d2b2"
+  "htmlHash": "20abadbea6cb6e75282ef89c8a66d2b2",
+  "attachments": [
+    "attachment.php?attach=28514&lang=en"
+  ]
 }

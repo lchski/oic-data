@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1548</td><td>1995-09-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the TEMPORARY ENTRY REMISSION ORDER, NO. 42 - which provides\nfor the remission of customs duties, sales tax and excise taxes on various\ngoods not available from domestic sources that were temporarily imported\nfor specific commercial, industrial or charitable purposes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0106  <strong>Publication Date:</strong> 1995-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1548",
-  "htmlHash": "3b5fbae987a6afe75134fdb90a7784ca"
+  "htmlHash": "3b5fbae987a6afe75134fdb90a7784ca",
+  "attachments": []
 }

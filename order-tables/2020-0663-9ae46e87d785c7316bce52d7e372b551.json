@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0663</td><td>2020-09-20</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Government of the Yukon Borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) repealing Order in Council P.C. 2012-280 of March 8, 2012; and (b) setting the maximum amount of the aggregate of all borrowings at $800 million for the Government of Yukon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39645&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0663",
-  "htmlHash": "9ae46e87d785c7316bce52d7e372b551"
+  "htmlHash": "9ae46e87d785c7316bce52d7e372b551",
+  "attachments": [
+    "attachment.php?attach=39645&lang=en"
+  ]
 }

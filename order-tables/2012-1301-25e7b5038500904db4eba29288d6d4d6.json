@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1301</td><td>2012-10-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PHILIP H. DAVIES of Calgary, Alberta, to be a permanent member of the National Energy Board for a term of seven years, on a full-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26769&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1301",
-  "htmlHash": "25e7b5038500904db4eba29288d6d4d6"
+  "htmlHash": "25e7b5038500904db4eba29288d6d4d6",
+  "attachments": [
+    "attachment.php?attach=26769&lang=en"
+  ]
 }

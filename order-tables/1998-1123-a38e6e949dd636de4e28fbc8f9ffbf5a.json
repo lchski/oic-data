@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1123</td><td>1998-06-18</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN POWER CORPORATION of its\nstatutory power to expropriate land on COWESSESS INDIAN RESERVE NO. 73, for\nelectrical power transmission system purposes, and (b) in lieu of\nexpropriation, granting an easement to the corporation for those purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1123",
-  "htmlHash": "a38e6e949dd636de4e28fbc8f9ffbf5a"
+  "htmlHash": "a38e6e949dd636de4e28fbc8f9ffbf5a",
+  "attachments": []
 }

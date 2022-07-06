@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2374</td><td>1991-11-28</td><td>0</td><td></td><td>,&nbsp; ANDRE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for CINA HOLDINGS B.V., a wholly-owned subsidiary of the Canada\nPost Corporation, to sell some of its shares in itself to other postal\nadministrations, or to otherwise dispose of them in their favour, provided\nthat the Canada Post Corporation, either directly or indirectly, continues\nto hold five per cent (5%) or more of the issued shares of GD Net B.V.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2374",
-  "htmlHash": "08b97567fe3e62f3a803e1fc32a8a935"
+  "htmlHash": "08b97567fe3e62f3a803e1fc32a8a935",
+  "attachments": []
 }

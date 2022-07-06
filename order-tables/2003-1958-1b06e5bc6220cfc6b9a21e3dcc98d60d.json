@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1958</td><td>2003-12-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PUBLIC AGENTS FIREARMS REGULATIONS which amend the coming into force of various sections from January 1, 2004 to January 1, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0401  <strong>Publication Date:</strong> 2003-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5193&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1958",
-  "htmlHash": "1b06e5bc6220cfc6b9a21e3dcc98d60d"
+  "htmlHash": "1b06e5bc6220cfc6b9a21e3dcc98d60d",
+  "attachments": [
+    "attachment.php?attach=5193&lang=en"
+  ]
 }

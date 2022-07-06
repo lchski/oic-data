@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1427</td><td>2017-11-23</td><td></td><td></td><td>ECCC,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Prohibition of Certain Toxic Substances Regulations, 2012</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PROHIBITION OF CERTAIN TOXIC SUBSTANCES REGULATIONS, 2012 in order to update the Prohibition Regulations, 2012 to reflect new information on Benzenamine, N-phenyl-, reaction products with styrene and 2,4,4-trimethylpentene (BNST) from the final screening assessment for SDPAs, which concluded that it does not pose a risk to the environment or to human health.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0247  <strong>Publication Date:</strong> 2017-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35338&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1427",
-  "htmlHash": "57e495a93c0044a5e7420169d7b4904c"
+  "htmlHash": "57e495a93c0044a5e7420169d7b4904c",
+  "attachments": [
+    "attachment.php?attach=35338&lang=en"
+  ]
 }

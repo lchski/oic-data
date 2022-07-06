@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0334</td><td>1999-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into SUPPLEMENTARY AGREEMENTS to delay the expiration of\nthe BEEF INDUSTRY DEVELOPMENT FUND and another 12 Companion Program\nAgreements in order to give the implementation committees more time to\nidentify, evaluate, audit and review long-term projects intended to benefit\nthe agricultural and livestock industries.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0334",
-  "htmlHash": "a9e9652e8b7c7c3233d385ac960bc6cd"
+  "htmlHash": "a9e9652e8b7c7c3233d385ac960bc6cd",
+  "attachments": []
 }

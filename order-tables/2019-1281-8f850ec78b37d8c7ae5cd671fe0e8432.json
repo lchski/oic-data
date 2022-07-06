@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1281</td><td>2019-08-27</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE STEPHEN D. HILLIER, a Justice of the Court of Queen's Bench of Alberta, to be a member of the Independent Judicial Advisory Committee for the Province of Alberta, to hold office during pleasure for a term ending on August 1, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38615&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1281",
-  "htmlHash": "8f850ec78b37d8c7ae5cd671fe0e8432"
+  "htmlHash": "8f850ec78b37d8c7ae5cd671fe0e8432",
+  "attachments": [
+    "attachment.php?attach=38615&lang=en"
+  ]
 }

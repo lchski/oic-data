@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0477</td><td>2014-04-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of KENNETH ATKINSON, a full-time member (Toronto) of the Immigration and Refugee Board, acting as Assistant Deputy Chairperson, Refugee Appeal Divison, effective November 4, 2013 until such time as he is no longer required to act as Assistant Deputy Chairperson.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29289&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0477",
-  "htmlHash": "5409ce9a98d1ecc9f89de870c8169960"
+  "htmlHash": "5409ce9a98d1ecc9f89de870c8169960",
+  "attachments": [
+    "attachment.php?attach=29289&lang=en"
+  ]
 }

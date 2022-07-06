@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0228</td><td>2020-04-03</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Distribution of Drugs as Samples)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (DISTRIBUTION OF DRUGS AS SAMPLES) in order to (1) fully implement Canada’s Canada-United States-Mexico Agreement (CUSMA) commitment to permit the distribution of certain low risk Non-prescription drugs (NPDs) and natural health products (NHPs) as samples, under certain conditions; (2) allow Health Canada to consider other NPDs for distribution as samples to the general public after further analysis and to respond to health and safety risks; (3) update the list of practitioners to whom samples of drugs may be distributed, in order to align federal law with the various practitioners’ scope of practice under provincial and territorial law; and (4) replace a reference to Article 1711 of North American Free Trade Agreement (NAFTA) in the Food and Drug Regulations (FDR) with a reference to Articles 20.48 and 20.49 of the CUSMA.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0074  <strong>Publication Date:</strong> 2020-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39070&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0228",
-  "htmlHash": "ab63a88eb3b0aac3c816cd4320200e9b"
+  "htmlHash": "ab63a88eb3b0aac3c816cd4320200e9b",
+  "attachments": [
+    "attachment.php?attach=39070&lang=en"
+  ]
 }

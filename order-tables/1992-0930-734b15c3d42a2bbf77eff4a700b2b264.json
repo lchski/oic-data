@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0930</td><td>1992-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of a plan for organizing a canvass within the Public Service of\nCanada in connection with the 1992 CANADA SAVINGS BONDS payroll savings\ncampaign.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0930",
-  "htmlHash": "734b15c3d42a2bbf77eff4a700b2b264"
+  "htmlHash": "734b15c3d42a2bbf77eff4a700b2b264",
+  "attachments": []
 }

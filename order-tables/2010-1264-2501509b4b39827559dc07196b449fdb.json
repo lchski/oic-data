@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1264</td><td>2010-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Swiss Federal Council - Double taxation with respect to taxes on income and on capital - AMENDMENT\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing 1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the PROTOCOL amending the Convention between the Government of Canada and the Swiss Federal Council for the avoidance of  DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL and 2) the Minister of Foreign Affairs to sign, or to delegate authority to sign, on behalf of the Government of Canada, the AGREEMENT concerning the Protocol Amending the Convention between the Government of Canada and the Swiss Federal Council for the avoidance of DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL, done at Berne on 5 May 1997.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23283&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1264",
-  "htmlHash": "2501509b4b39827559dc07196b449fdb"
+  "htmlHash": "2501509b4b39827559dc07196b449fdb",
+  "attachments": [
+    "attachment.php?attach=23283&lang=en"
+  ]
 }

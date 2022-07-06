@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1062</td><td>2013-10-09</td><td>24</td><td>2013</td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Strengthening Military Justice in the Defence of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing October 18, 2013 as the Day on which Certain Sections of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing October 18, 2013 as the day on which sections 17, 97 and 104 of the STRENGTHENING MILITARY JUSTICE IN THE DEFENCE OF CANADA ACT, chapter 24 of the Statutes of Canada 2013, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0113  <strong>Publication Date:</strong> 2013-10-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28317&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1062",
-  "htmlHash": "3b371499f79f43e308c6ab3c414df917"
+  "htmlHash": "3b371499f79f43e308c6ab3c414df917",
+  "attachments": [
+    "attachment.php?attach=28317&lang=en"
+  ]
 }

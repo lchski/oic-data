@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0852</td><td>2001-05-15</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DAVID J. McGUINTY, of Ottawa, Ontario, as the Executive\nDirector of the National Round Table on the Environment and the Economy to\nbe styled President of the National Round Table on the Environment and the\nEconomy, to hold office duirng pleasure for a term of three years,\neffective August 7, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0852",
-  "htmlHash": "c66dbeec85498a63719163ba30157e84"
+  "htmlHash": "c66dbeec85498a63719163ba30157e84",
+  "attachments": []
 }

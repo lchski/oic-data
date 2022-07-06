@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0772</td><td>2012-06-07</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 149 - (British Columbia) Provincial Emergencies Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER N° 149 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of BRITISH COLUMBIA with respect to the RAINSTORM AND OVERLAND FLOODING that affected the Regional Districts of Peace River and Bulkley-Nechako from June 23 to 25, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0772",
-  "htmlHash": "8ebde7f679f674817e9e58abfb9dedbb"
+  "htmlHash": "8ebde7f679f674817e9e58abfb9dedbb",
+  "attachments": [
+    "attachment.php?attach=26197&lang=en"
+  ]
 }

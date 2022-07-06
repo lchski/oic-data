@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1044</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; CIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the Minister of Citizenship and Immigration to enter into a CONTRIBUTION AGREEMENT with the Province of Saskatchewan to provide funding to the Province to help it to deliver the Enhanced Language Training (ELT) Initiative to assist immigrants and refugees to access and remain in the labour market at levels commensurate with their skills and qualifications</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20916&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1044",
-  "htmlHash": "e6483f0efd201b4348f03150b7bab635"
+  "htmlHash": "e6483f0efd201b4348f03150b7bab635",
+  "attachments": [
+    "attachment.php?attach=20916&lang=en"
+  ]
 }

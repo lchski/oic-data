@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0836</td><td>2019-06-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC</td></tr><tr><td>Act</td><td colspan=\"5\">Statistics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CÉLINE LE BOURDAIS of Montréal, Quebec, to be a member of the Canadian Statistics Advisory Council, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38164&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0836",
-  "htmlHash": "9c82425e682a534c68ad389663bd07ad"
+  "htmlHash": "9c82425e682a534c68ad389663bd07ad",
+  "attachments": [
+    "attachment.php?attach=38164&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0368</td><td>2018-03-26</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Personal Information Protection and Electronic Documents Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Breach of Security Safeguards Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">BREACH OF SECURITY SAFEGUARDS REGULATIONS in order to ensure that (1) all Canadians will receive consistent information about data breaches that pose a risk of significant harm to them; (2) data breach notifications contain sufficient information to enable individuals to understand the significance and potential impact of the breach; (3) the Commissioner receives consistent and comparable information about data breaches that pose a risk of significant harm; and (4) the Commissioner is able to provide effective oversight and verify organizations are complying with the requirements to notify and report data breach.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0064  <strong>Publication Date:</strong> 2018-04-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36008&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0368",
-  "htmlHash": "3301f6767960873d8022d5b8947c5763"
+  "htmlHash": "3301f6767960873d8022d5b8947c5763",
+  "attachments": [
+    "attachment.php?attach=36008&lang=en"
+  ]
 }

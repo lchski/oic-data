@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1161</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a NOTICE be published in Part I of the Canada Gazette\nindicating that the Minister of the Environment has formulated a REVISED\nCODE OF PRACTICE FOR THE ELIMINATION OF FLUOROCARBON EMISSIONS FROM\nREFRIGERATION AND AIR-CONDITIONING SYSTEMS.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1161",
-  "htmlHash": "9ce3654341318f331426f8ade28d6634"
+  "htmlHash": "9ce3654341318f331426f8ade28d6634",
+  "attachments": []
 }

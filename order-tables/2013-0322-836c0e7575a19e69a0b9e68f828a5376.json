@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0322</td><td>2013-03-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Conservation and Management of High Seas Fisheries Resources in the North Pacific Ocean ** Convention **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing for the Minister of Foreign Affairs to sign, or delegate the authority to sign, on behalf of Canada, subject to ratification, the CONVENTION on the CONSERVATION AND MANAGEMENT OF HIGH SEAS FISHERIES RESOURCES IN THE NORTH PACIFIC OCEAN.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27542&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0322",
-  "htmlHash": "836c0e7575a19e69a0b9e68f828a5376"
+  "htmlHash": "836c0e7575a19e69a0b9e68f828a5376",
+  "attachments": [
+    "attachment.php?attach=27542&lang=en"
+  ]
 }

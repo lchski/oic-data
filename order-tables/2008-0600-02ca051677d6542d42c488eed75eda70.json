@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0600</td><td>2008-03-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID JOHNSTON, of St. Clements, Ontario, to the position of special advisor to the Prime Minister as Independent Adviser to conduct an independent review of allegations respecting financial dealings between Karlheinz Schreiber and the Right Honourable Brian Mulroney, P.C., during pleasure for a term ending on April 4, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18423&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0600",
-  "htmlHash": "02ca051677d6542d42c488eed75eda70"
+  "htmlHash": "02ca051677d6542d42c488eed75eda70",
+  "attachments": [
+    "attachment.php?attach=18423&lang=en"
+  ]
 }

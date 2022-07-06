@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0086</td><td>2017-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order approving the Proclamation the Entry into Force of the Convention on Social Security between Canada and the Republic of Peru</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the PROCLAMATION the ENTRY INTO FORCE of the  CONVENTION ON SOCIAL SECURITY between Canada and the REPUBLIC OF PERU and the ADMINISTRATIVE AGREEMENT between the Government of Canada and the GOVERNMENT OF THE REPUBLIC OF PERU for the Implementation of the Convention on Social Security between Canada and the Republic of Peru signed in Ottawa, on April 10, 2014.  Both the Convention and the Administrative Agreement will enter into force on March 1, 2017.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32998&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0086",
-  "htmlHash": "604c6dd9c4772867865be1c1c638abfb"
+  "htmlHash": "604c6dd9c4772867865be1c1c638abfb",
+  "attachments": [
+    "attachment.php?attach=32998&lang=en"
+  ]
 }

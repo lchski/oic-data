@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1597</td><td>1997-11-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1993-927 of May 6, 1993 as amended by\nOrder in Council P.C. 1997-709 of April 29, 1997 which will extend the\nterm of appointment of BRIGADIER-GENERAL PIERRE G. BOUTET, C.D., as Judge\nAdvocate General of the Canadian Forces until February 2, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1597",
-  "htmlHash": "56245c776ab72a549b219b5b8cfb424d"
+  "htmlHash": "56245c776ab72a549b219b5b8cfb424d",
+  "attachments": []
 }

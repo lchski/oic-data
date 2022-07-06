@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1325</td><td>1991-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the leasing to AIR CANADA, for a term of sixty (60)\nyears, of some 609,646 square metres of land situate on the grounds of\nMONTREAL INTERNATIONAL AIRPORT in the City of Dorval, Quebec, which are\nto be used as the site for its aircraft maintenance base and for the\nconstruction of its new corporate headquarters and training complex, and\n(b) to accept the surrender of its current lease (No. 111346).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1325",
-  "htmlHash": "c6229b640d60bc4f8b61fede2bcd7ff3"
+  "htmlHash": "c6229b640d60bc4f8b61fede2bcd7ff3",
+  "attachments": []
 }

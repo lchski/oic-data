@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0378</td><td>2016-05-20</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - Mongolia ** Promotion and Protection of Investments **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the AGREEMENT between the Government of Canada and the GOVERNMENT OF MONGOLIA for the Promotion and Protection of INVESTMENTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32058&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0378",
-  "htmlHash": "84dd295d62b62c9cec06be6aec4a568a"
+  "htmlHash": "84dd295d62b62c9cec06be6aec4a568a",
+  "attachments": [
+    "attachment.php?attach=32058&lang=en"
+  ]
 }

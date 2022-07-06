@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1493</td><td>2011-12-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CANDICE J. MOLNAR of Regina, Saskatchewan, as a full-time member of the Canadian Radio-television and Telecommunications Commission to hold office during good behaviour for a term of five years, effective January 7, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25175&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1493",
-  "htmlHash": "84eb013c6e2ddf05f5392ef4548f1073"
+  "htmlHash": "84eb013c6e2ddf05f5392ef4548f1073",
+  "attachments": [
+    "attachment.php?attach=25175&lang=en"
+  ]
 }

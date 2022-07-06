@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1450</td><td>2014-12-12</td><td>31</td><td>2012</td><td>,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Jobs and Growth Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing March 16, 2015 as the Day on which Sections 220 to 222 of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing March 16, 2015, as the day on which sections 220 to 222 of the JOBS AND GROWTH ACT, 2012, chapter 31 of the Statutes of Canada, 2012, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2014-0106  <strong>Publication Date:</strong> 2014-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30274&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1450",
-  "htmlHash": "2de56d87b459730bbb5b659aada3eff5"
+  "htmlHash": "2de56d87b459730bbb5b659aada3eff5",
+  "attachments": [
+    "attachment.php?attach=30274&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-2132</td><td>2003-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2003-2004</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE ALLAN ROCK, P.C., as Ambassador and Permanent Representative of Canada to the United Nations in New York, effective January 5, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5403&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-2132",
-  "htmlHash": "5fe8068f1985dcacba90d3bfa63726dc"
+  "htmlHash": "5fe8068f1985dcacba90d3bfa63726dc",
+  "attachments": [
+    "attachment.php?attach=5403&lang=en"
+  ]
 }

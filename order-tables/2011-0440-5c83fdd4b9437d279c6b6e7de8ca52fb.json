@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0440</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order N° 11 Respecting Mail, Cargo and Baggage</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving INTERIM ORDER NO. 11 RESPECTING MAIL, CARGO AND BAGGAGE, made by the Minister of Transport on March 16, 2011, in order to protect the security of Canada's skies and to allow Canada to fulfill its international and departmental responsibility to establish and implement regulations to safeguard aviation operations against acts of unlawful interference.  Interim Order N° 11 bans all mail and cargo from Yemen and Somalia as well as bans or limits the carriage of large printer/toner cartridges on flights departing designated aerodromes in Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24108&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0440",
-  "htmlHash": "5c83fdd4b9437d279c6b6e7de8ca52fb"
+  "htmlHash": "5c83fdd4b9437d279c6b6e7de8ca52fb",
+  "attachments": [
+    "attachment.php?attach=24108&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1032</td><td>2006-09-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to The Hon. RONALD D. BELL, a Judge of the Tax Court of Canada, effective November 1, 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14975&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1032",
-  "htmlHash": "f995ccba8eb05e423d2000da3cd89be3"
+  "htmlHash": "f995ccba8eb05e423d2000da3cd89be3",
+  "attachments": [
+    "attachment.php?attach=14975&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0604</td><td>2021-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Pest Control Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order Respecting Ultraviolet Radiation-emitting Devices and Ozone-generating Devices</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the INTERIM ORDER RESPECTING ULTRAVIOLET RADIATION-EMITTING DEVICES AND OZONE-GENERATING DEVICES, made by the Minister of Health on June 7, 2021, in order to ensure that certain ultraviolet radiation-emitting and ozone-generating devices are registered or authorized for Canadian market under the Pest Control Products Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40913&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0604",
-  "htmlHash": "f8fb1cac312e6fb9ef404bf37ac2442d"
+  "htmlHash": "f8fb1cac312e6fb9ef404bf37ac2442d",
+  "attachments": [
+    "attachment.php?attach=40913&lang=en"
+  ]
 }

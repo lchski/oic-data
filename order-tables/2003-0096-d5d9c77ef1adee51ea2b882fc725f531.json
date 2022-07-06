@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0096</td><td>2003-01-30</td><td></td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Refunding of the GST paid by Ms MERRIL McEVOY-HALSTON on the construction of a residential unit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0030  <strong>Publication Date:</strong> 2003-02-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1027&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0096",
-  "htmlHash": "d5d9c77ef1adee51ea2b882fc725f531"
+  "htmlHash": "d5d9c77ef1adee51ea2b882fc725f531",
+  "attachments": [
+    "attachment.php?attach=1027&lang=en"
+  ]
 }

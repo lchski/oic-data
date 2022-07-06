@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0026</td><td>2004-01-23</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, from the Department of Transport to the Department of National Revenue, of the portion of the public service in the Department of Transport known as the Crown Corporation Secretariat relating to the Royal Canadian Mint and Canada Post Corporation, effective January 24, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0007  <strong>Publication Date:</strong> 2004-02-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5649&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0026",
-  "htmlHash": "855eb46ffb78c36a76c2e64b62d11281"
+  "htmlHash": "855eb46ffb78c36a76c2e64b62d11281",
+  "attachments": [
+    "attachment.php?attach=5649&lang=en"
+  ]
 }

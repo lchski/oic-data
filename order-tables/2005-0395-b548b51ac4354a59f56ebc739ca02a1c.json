@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0395</td><td>2005-03-22</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Statistics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) fixing MAY in the year 2006 as the month in which a CENSUS OF POPULATION shall be undertaken by STATISTICS CANADA, and (b) prescribing the questions to be asked in that census.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0034  <strong>Publication Date:</strong> 2005-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9973&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0395",
-  "htmlHash": "b548b51ac4354a59f56ebc739ca02a1c"
+  "htmlHash": "b548b51ac4354a59f56ebc739ca02a1c",
+  "attachments": [
+    "attachment.php?attach=9973&lang=en"
+  ]
 }

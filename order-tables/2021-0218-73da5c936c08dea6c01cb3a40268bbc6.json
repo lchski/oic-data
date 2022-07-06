@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0218</td><td>2021-03-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; NRCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Shipping Act, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending CERTAIN REGULATIONS MADE UNDER THE CANADA SHIPPING ACT, 2001 in order to make clarifying and consequential amendments to regulations related to the proposed Marine Safety Fees Regulations that include reference to the inspection services and their associated fees.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0060  <strong>Publication Date:</strong> 2021-04-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40401&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0218",
-  "htmlHash": "73da5c936c08dea6c01cb3a40268bbc6"
+  "htmlHash": "73da5c936c08dea6c01cb3a40268bbc6",
+  "attachments": [
+    "attachment.php?attach=40401&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1984</td><td>2009-12-10</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (standards 106, 108, 114, 122 and 217)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (standards 106, 108, 114, 122 and 217) to clarify, update and correct the existing Regulations and to re-enact three sections of the Regulations to extend their application beyond their current expiration dates.  This ensures that the safety requirements contained in these sections will not cease to have the force and effect of law before upcoming amendments to these safety standards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0330  <strong>Publication Date:</strong> 2009-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21872&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1984",
-  "htmlHash": "3aa9d10e65b79ebf20fd623c1b4441d8"
+  "htmlHash": "3aa9d10e65b79ebf20fd623c1b4441d8",
+  "attachments": [
+    "attachment.php?attach=21872&lang=en"
+  ]
 }

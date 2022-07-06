@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2278</td><td>1992-11-04</td><td>0</td><td></td><td>,&nbsp; ISTC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1992-2085 which authorized the EXPORT\nDEVELOPMENT CORPORATION to make a loan to the BANK OF CHINA in order to\nfinance the purchase of equipment and services to be supplied by\nSNC-LAVALIN INTERNATIONAL INC. for the construction of a styrene monomer\nplant at the Panjin Natural Gas Chemical Plant.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2278",
-  "htmlHash": "0abcd9d1a069e03022424742d7f78f1d"
+  "htmlHash": "0abcd9d1a069e03022424742d7f78f1d",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-2034</td><td>1997-12-29</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending Certain Instruments Made under the Customs Tariff\n(Tariff Simplification - Miscellaneous Program):\n.\n1. Importation of Periodicals Regulations\n2. Tariff Item No. 9805.00.00 Exemption Order\n3. Temporary Importation of Conveyances by Residents of Canada\n   Regulations\n4. Non-residents' Temporary Importation of Baggage and Conveyances\n   Regulations\n5. Tariff Item No. 9807.00.00 Exemption Order\n6. Definition of \"Settler\" for the Purpose of Tariff Item No. 9807.00.00\n   Regulations\n7. Manufactured Tobacco Imported for Further Manufacture Remission Order\n8. Exported Motor Vehicles Drawback Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0062  <strong>Publication Date:</strong> 1998-01-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-2034",
-  "htmlHash": "1ac13876b5f7d78d8bd7127fcc0055ae"
+  "htmlHash": "1ac13876b5f7d78d8bd7127fcc0055ae",
+  "attachments": []
 }

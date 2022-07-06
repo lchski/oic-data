@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0816</td><td>2003-06-03</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of RONALD S. (RON) BREMNER of Toronto, Ontario, to be a member of Telefilm Canada to hold office during pleasure for a term of five years, effective June 16, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2640&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0816",
-  "htmlHash": "52b0b17fdf432ddd2f47b5e00a2eca02"
+  "htmlHash": "52b0b17fdf432ddd2f47b5e00a2eca02",
+  "attachments": [
+    "attachment.php?attach=2640&lang=en"
+  ]
 }

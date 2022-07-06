@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1141</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT to the rank of INSPECTOR of the following NON-COMMISSIONED OFFICERS of the Royal Canadian Mounted Police:\n\n  1. Staff Sergeant T.E. GRAY\n  2. Corporal B.M. LUCKI\n  3. Sergeant D.J.M. WENDELL</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3287&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1141",
-  "htmlHash": "7e74144a39d537b3ab1b648b13137937"
+  "htmlHash": "7e74144a39d537b3ab1b648b13137937",
+  "attachments": [
+    "attachment.php?attach=3287&lang=en"
+  ]
 }

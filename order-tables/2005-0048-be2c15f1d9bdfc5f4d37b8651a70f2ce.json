@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0048</td><td>2005-02-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INVESTMENT LIMITS (BANK HOLDING COMPANIES) REGULATIONS by exempting certain medium-sized bank holding companies from the application of sections 938 to 940 of the Bank Act (investment limits).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0025  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9302&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0048",
-  "htmlHash": "be2c15f1d9bdfc5f4d37b8651a70f2ce"
+  "htmlHash": "be2c15f1d9bdfc5f4d37b8651a70f2ce",
+  "attachments": [
+    "attachment.php?attach=9302&lang=en"
+  ]
 }

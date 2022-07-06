@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0782</td><td>2007-05-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of MARGARET E. SMITH of Amherst, Nova Scotia, as a trustee of the Board of Trustees of the National Museum of Science and Technology to hold office during pleasure for a term ending June 29, 2008, in the place of Paul Benoit, who has resigned.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0782",
-  "htmlHash": "e94f0db052c713d5335fa8a9ae743355"
+  "htmlHash": "e94f0db052c713d5335fa8a9ae743355",
+  "attachments": [
+    "attachment.php?attach=16464&lang=en"
+  ]
 }

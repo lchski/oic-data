@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0770</td><td>2004-06-21</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">INTERNATIONAL CRIMINAL COURT PRIVILEGES AND IMMUNITIES ORDER which grants certain privileges and immunities to the office of the International Criminal Court should it be necessary that one be set up in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0156  <strong>Publication Date:</strong> 2004-06-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7277&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0770",
-  "htmlHash": "2c8e354e5fa4cb0f73713d57a22719cb"
+  "htmlHash": "2c8e354e5fa4cb0f73713d57a22719cb",
+  "attachments": [
+    "attachment.php?attach=7277&lang=en"
+  ]
 }

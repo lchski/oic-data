@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1892</td><td>2005-10-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing CERTAIN PERSONS TO BE A PARTY TO CERTAIN COMMERCIAL ARRANGEMENTS AND PROVIDING SPECIFIC DIRECTIVES TO THE VANCOUVER PORT AUTHORITY AND THE FRASER RIVER PORT AUTHORITY by authorizing the for-hire truck operators, shippers and brokers of these ports to adhere to the Memorandum of Agreement in respect of rates, charges and terms and conditions without the constraints imposed under the Competition Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0328  <strong>Publication Date:</strong> 2005-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13596&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1892",
-  "htmlHash": "15f59240498a01b3689a9be2af8f7650"
+  "htmlHash": "15f59240498a01b3689a9be2af8f7650",
+  "attachments": [
+    "attachment.php?attach=13596&lang=en"
+  ]
 }

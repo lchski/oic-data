@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1205</td><td>2003-08-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to make specified amendments to the terms and conditions of CANADA SAVINGS BOND Series' 46 to 59 and to CANADA PREMIUM BOND Series' 1 to 8.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3497&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1205",
-  "htmlHash": "af2769dedafdda0bbdd0bd95a7754949"
+  "htmlHash": "af2769dedafdda0bbdd0bd95a7754949",
+  "attachments": [
+    "attachment.php?attach=3497&lang=en"
+  ]
 }

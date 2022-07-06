@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0192</td><td>2008-01-31</td><td>17</td><td>2007</td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the First Nations Land Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">ACT to amend the FIRST NATIONS LAND MANAGEMENT ACT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER fixing February 1, 2008 as the day on which AN ACT TO AMEND THE FIRST NATIONS LAND MANAGEMENT ACT, assented to on June 22, 2007, comes into force.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0019  <strong>Publication Date:</strong> 2008-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18004&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0192",
-  "htmlHash": "880767470ad8229c3626f3db51c4e4b3"
+  "htmlHash": "880767470ad8229c3626f3db51c4e4b3",
+  "attachments": [
+    "attachment.php?attach=18004&lang=en"
+  ]
 }

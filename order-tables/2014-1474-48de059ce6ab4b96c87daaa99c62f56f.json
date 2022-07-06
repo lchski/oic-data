@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1474</td><td>2014-12-12</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 178 - (Saskatchewan) Provincial Emergency Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 178 which makes a declaration of federal concern and authorizes the provision financial assistance to the province of SASKATCHEWAN with respect to the RAINSTORM, that affected the Province, South of Meadow Lake, from June 26, 2014 to June 30, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30298&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1474",
-  "htmlHash": "48de059ce6ab4b96c87daaa99c62f56f"
+  "htmlHash": "48de059ce6ab4b96c87daaa99c62f56f",
+  "attachments": [
+    "attachment.php?attach=30298&lang=en"
+  ]
 }

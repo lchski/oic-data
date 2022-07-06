@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1121</td><td>2013-10-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IC</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de Commerce de Fabre (Quebec) ** DISSOLUTION **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the DISSOLUTION OF THE CHAMBRE DE COMMERCE DE FABRE, in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28395&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1121",
-  "htmlHash": "c0917407642e9077f34f9869d107bea3"
+  "htmlHash": "c0917407642e9077f34f9869d107bea3",
+  "attachments": [
+    "attachment.php?attach=28395&lang=en"
+  ]
 }

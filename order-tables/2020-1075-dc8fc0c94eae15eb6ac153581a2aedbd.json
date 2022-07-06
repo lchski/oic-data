@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1075</td><td>2020-12-14</td><td></td><td></td><td>,&nbsp; ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">La Chambre de Commerce de Sept-Iles, Quebec  ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of LA CHAMBRE DE COMMERCE DE SEPT-ÎLES, in Quebec, TO CHANGE ITS NAME to the “LA CHAMBRE DE COMMERCE DE SEPT-ÎLES ET UASHAT MAK MANI-UTENAM”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40087&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1075",
-  "htmlHash": "dc8fc0c94eae15eb6ac153581a2aedbd"
+  "htmlHash": "dc8fc0c94eae15eb6ac153581a2aedbd",
+  "attachments": [
+    "attachment.php?attach=40087&lang=en"
+  ]
 }

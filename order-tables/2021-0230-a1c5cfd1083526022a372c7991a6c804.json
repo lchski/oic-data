@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0230</td><td>2021-03-26</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Aboriginal Chamber of Commerce, Manitoba  ** Change of name **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of the ABORIGINAL CHAMBER OF COMMERCE - GRAND RAPIDS, in Manitoba, TO CHANGE ITS NAME to the “INDIGENOUS CHAMBER OF COMMERCE - GRAND RAPIDS”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40413&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0230",
-  "htmlHash": "a1c5cfd1083526022a372c7991a6c804"
+  "htmlHash": "a1c5cfd1083526022a372c7991a6c804",
+  "attachments": [
+    "attachment.php?attach=40413&lang=en"
+  ]
 }

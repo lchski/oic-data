@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0734</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">CCOFTA Rules of Origin for Casual Goods Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CCOFTA RULES OF ORIGIN FOR CASUAL GOODS REGULATIONS which set out the origin requirements for low-value shipments and for goods imported by travellers to ensure that eligible goods qualify without onerous documentation requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0132  <strong>Publication Date:</strong> 2011-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24307&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0734",
-  "htmlHash": "22c81a458ecf290cf7cb2931df5c1df5"
+  "htmlHash": "22c81a458ecf290cf7cb2931df5c1df5",
+  "attachments": [
+    "attachment.php?attach=24307&lang=en"
+  ]
 }

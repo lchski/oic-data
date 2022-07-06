@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0840</td><td>2016-09-30</td><td></td><td></td><td>ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Saguenay-St. Lawrence Marine Park Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Marine Activities in the Saguenay-St. Lawrence Marine Park Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MARINE ACTIVITIES IN THE SAGUENAY-ST. LAWRENCE MARINE PARK REGULATIONS in order to (1) update the standards governing the management of the marine park and the activities carried out there; (2) respond to the recommendations of the Harmonization Committee and the Coordinating Commitee; and (3) respond to the recommendation of the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0257  <strong>Publication Date:</strong> 2016-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32536&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0840",
-  "htmlHash": "ee2143a85c3802d609539e1fc41277bc"
+  "htmlHash": "ee2143a85c3802d609539e1fc41277bc",
+  "attachments": [
+    "attachment.php?attach=32536&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0735</td><td>2004-05-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">James Bay and Northern Quebec Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the President of the Canadian Environmental Assessment Agency and in the event of the absence or incapacity of the President or a vacancy in that office, any person acting as the President for the time being pursuant to subsection 65(4) or 65(5) of the Canadian Environmental Assessment Act, to the position of Administrator in matters involving federal jurisdiction for the purposes of sections 22 and 23 of the James Bay and Northern Quebec Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7175&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0735",
-  "htmlHash": "39694a37c424b9314ac926bb2342fa9a"
+  "htmlHash": "39694a37c424b9314ac926bb2342fa9a",
+  "attachments": [
+    "attachment.php?attach=7175&lang=en"
+  ]
 }

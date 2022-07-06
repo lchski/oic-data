@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0944</td><td>2012-06-28</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Decline to vary or rescind Telecom Decision CRTC 2011-733</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to vary, rescind or refer back to the Canadian Radio-television and Telecommunications Commission (CRTC) Telecom Decision CRTC 2011-733, thereby letting it stand.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26372&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0944",
-  "htmlHash": "2b31db59001dfc3667fdddaedba91807"
+  "htmlHash": "2b31db59001dfc3667fdddaedba91807",
+  "attachments": [
+    "attachment.php?attach=26372&lang=en"
+  ]
 }

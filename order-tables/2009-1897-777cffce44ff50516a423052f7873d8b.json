@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1897</td><td>2009-11-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Designation - Leasing purposes\nPeter Ballantyne Cree Nation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION for commercial leasing purposes of approximately 7,588.321 hectares (18,750.74 acres) of Chief Joseph Custer Indian Reserve, Kiskaciwan Indian Reserve No. 208, McKay Indian Reserve No. 209, Kistapinan Indian Reserve No. 211, Kistapinânihk Indian Reserve No. 231, Pelican Narrows Indian Reserve No. 184B, Nakiskatowaneek Indian Reserve No. 227, Deschambault Lake Indian Settlement, Kimosom Pwatinakh Indian Reserve No. 203, Sturgeon Weir Indian Reserve No. 205, Amiskosakahikan Indian Reserve No. 210, and Wapaskokimaw Indian Reserve No. 202, in the Province of Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21785&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1897",
-  "htmlHash": "777cffce44ff50516a423052f7873d8b"
+  "htmlHash": "777cffce44ff50516a423052f7873d8b",
+  "attachments": [
+    "attachment.php?attach=21785&lang=en"
+  ]
 }

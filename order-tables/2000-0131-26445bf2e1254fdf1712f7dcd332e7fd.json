@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0131</td><td>2000-02-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SALES OR TRADES (AUTHORIZED FOREIGN BANKS) REGULATIONS\nwhich set out the conditions applicable to the subsequent sale or trading\nof debt obligations and banker's acceptances or guarantees issued by\nlending branches of foreign banks operating in Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0052  <strong>Publication Date:</strong> 2000-03-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0131",
-  "htmlHash": "26445bf2e1254fdf1712f7dcd332e7fd"
+  "htmlHash": "26445bf2e1254fdf1712f7dcd332e7fd",
+  "attachments": []
 }

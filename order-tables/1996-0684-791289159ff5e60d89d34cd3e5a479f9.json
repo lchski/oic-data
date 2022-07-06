@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0684</td><td>1996-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PROCESSING AND DISTRIBUTION OF SEMEN FOR ASSISTED\nCONCEPTION REGULATIONS respecting the processing and distribution of semen\nthat is used or intended for use in assisted conception.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0254  <strong>Publication Date:</strong> 1996-05-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0684",
-  "htmlHash": "791289159ff5e60d89d34cd3e5a479f9"
+  "htmlHash": "791289159ff5e60d89d34cd3e5a479f9",
+  "attachments": []
 }

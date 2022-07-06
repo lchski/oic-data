@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0231</td><td>2011-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Anthony E. Cusinato  ** RETIREMENTAND ANNUITY **\nSuperior Court of Justice </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement and granting of a lifelong annuity to the Hon. ANTHONY E. CUSINATO, a Judge of the Superior Court of Justice in and for the Province of Ontario, effective March 25, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23884&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0231",
-  "htmlHash": "f5a66536088a09797765ca50e759d0d8"
+  "htmlHash": "f5a66536088a09797765ca50e759d0d8",
+  "attachments": [
+    "attachment.php?attach=23884&lang=en"
+  ]
 }

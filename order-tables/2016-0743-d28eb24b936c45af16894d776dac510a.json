@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0743</td><td>2016-08-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Access to Cannabis for Medical Purposes Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ACCESS TO CANNABIS FOR MEDICAL PURPOSES REGULATIONS in order to provide Canadians with a greater range of options to access cannabis for medical purposes in order to address the issue of reasonable access as identified by the court.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0230  <strong>Publication Date:</strong> 2016-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32438&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0743",
-  "htmlHash": "d28eb24b936c45af16894d776dac510a"
+  "htmlHash": "d28eb24b936c45af16894d776dac510a",
+  "attachments": [
+    "attachment.php?attach=32438&lang=en"
+  ]
 }

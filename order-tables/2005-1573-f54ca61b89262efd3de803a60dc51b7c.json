@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1573</td><td>2005-08-31</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to JEAN MacPHERSON, widow of the Hon. Hugh J. MacPherson, a retired Judge of the County Court of District Number Six (Nova Scotia), effective May 22, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12626&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1573",
-  "htmlHash": "f54ca61b89262efd3de803a60dc51b7c"
+  "htmlHash": "f54ca61b89262efd3de803a60dc51b7c",
+  "attachments": [
+    "attachment.php?attach=12626&lang=en"
+  ]
 }

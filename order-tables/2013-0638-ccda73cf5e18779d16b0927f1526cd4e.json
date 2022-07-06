@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0638</td><td>2013-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Government of Canada and the Government of  the Kingdom of Bahrain ** Agreement for the exchange of information on tax matters **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the AGREEMENT between the Government of Canada and the GOVERNMENT OF THE KINGDOM OF BAHRAIN for the exchange of information on TAX MATTERS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0638",
-  "htmlHash": "ccda73cf5e18779d16b0927f1526cd4e"
+  "htmlHash": "ccda73cf5e18779d16b0927f1526cd4e",
+  "attachments": [
+    "attachment.php?attach=27850&lang=en"
+  ]
 }

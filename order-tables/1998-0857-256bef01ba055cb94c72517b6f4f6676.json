@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0857</td><td>1998-05-14</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order PROHIBITING ENTRY ON CERTAIN LANDS in the YUKON TERRITORY (1998-\nNo.3, LITTLE SALMON/CARMACKS FIRST NATION, Y.T.) - which prohibits the\nstaking of mineral claims or prospecting for precious minerals on certain\ntracts of land in the Yukon Territory, and provides for the repeal of the\nProhibition Order made by Order in Council P.C. 1996-1845.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0289  <strong>Publication Date:</strong> 1998-05-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0857",
-  "htmlHash": "256bef01ba055cb94c72517b6f4f6676"
+  "htmlHash": "256bef01ba055cb94c72517b6f4f6676",
+  "attachments": []
 }

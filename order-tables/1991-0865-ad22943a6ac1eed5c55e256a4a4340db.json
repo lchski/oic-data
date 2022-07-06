@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0865</td><td>1991-05-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMMIGRATION REGULATIONS, 1978 removing Tonga from\nSchedule II. Nationals of this South Pacific island nation will require a\nvisitor's visa to enter Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0323  <strong>Publication Date:</strong> 1991-06-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0865",
-  "htmlHash": "ad22943a6ac1eed5c55e256a4a4340db"
+  "htmlHash": "ad22943a6ac1eed5c55e256a4a4340db",
+  "attachments": []
 }

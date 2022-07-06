@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1371</td><td>1995-08-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of ALBERTA of the administration and control over\n7.11 hectares of land situated on GREGOIRE LAKE INDIAN RESERVE NO. 176A,\nfor public road purposes, IN LIEU OF their expropriation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1371",
-  "htmlHash": "e274c9551d8eef63b4f917ec785470b7"
+  "htmlHash": "e274c9551d8eef63b4f917ec785470b7",
+  "attachments": []
 }

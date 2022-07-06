@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0507</td><td>1992-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Merrill T. Whelan, of Charlottetown, Prince Edward\nIsland, as Chairperson of the Boards of Referees for the Prince Edward\nIsland Regional Division, and particularly for the District of\nCharlottetown, for a term of three years, effective April 28, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0507",
-  "htmlHash": "345d7b5e6573c72d6b3fc035ec44e87b"
+  "htmlHash": "345d7b5e6573c72d6b3fc035ec44e87b",
+  "attachments": []
 }

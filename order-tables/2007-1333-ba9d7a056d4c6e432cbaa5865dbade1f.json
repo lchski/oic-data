@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1333</td><td>2007-09-14</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Salaries/Remuneration</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the remuneration payable to certain persons appointed by the Governor in Council.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17032&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=27028&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1333",
-  "htmlHash": "ba9d7a056d4c6e432cbaa5865dbade1f"
+  "htmlHash": "ba9d7a056d4c6e432cbaa5865dbade1f",
+  "attachments": [
+    "attachment.php?attach=17032&lang=en",
+    "attachment.php?attach=27028&lang=en"
+  ]
 }

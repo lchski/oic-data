@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0494</td><td>2020-06-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cannabis Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Cannabis Regulations (Additional Period of Validity of a Medical Document)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANNABIS REGULATIONS (ADDITIONAL PERIOD OF VALIDITY OF A MEDICAL DOCUMENT) in order to support the Government of Canada’s efforts to reduce the risk of community spread of, and mortality rate due to, COVID-19, while helping to maintain reasonable access to cannabis for medical purposes for patients by facilitating patients’ ability to adhere to public health guidance to practise physical distancing by reducing their need to leave their home to obtain a new medical document from their health care practitioner for a certain period of time.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0149  <strong>Publication Date:</strong> 2020-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39445&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0494",
-  "htmlHash": "6ecd0e25c00120a3f91cbb7a7ff27799"
+  "htmlHash": "6ecd0e25c00120a3f91cbb7a7ff27799",
+  "attachments": [
+    "attachment.php?attach=39445&lang=en"
+  ]
 }

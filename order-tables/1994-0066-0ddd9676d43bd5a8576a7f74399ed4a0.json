@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0066</td><td>1994-01-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; COM,&nbsp; PSC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the revocation by the Public Service Commission of the\nTransfer Exclusion Approval Order and of the Transfer Regulations, made by\nOrder in Council P.C. 1990-513 of March 15, 1990.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0087  <strong>Publication Date:</strong> 1994-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0066",
-  "htmlHash": "0ddd9676d43bd5a8576a7f74399ed4a0"
+  "htmlHash": "0ddd9676d43bd5a8576a7f74399ed4a0",
+  "attachments": []
 }

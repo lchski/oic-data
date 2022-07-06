@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1696</td><td>1990-08-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the election by the Canada Employment and Immigration\nAdvisory Council of Kevin Hayes, of Ottawa, Ontario, as Vice-Chairman of\nthe Canada Employment and Immigration Advisory Council for a term ending\nJune 4, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1696",
-  "htmlHash": "6447751bbea07e575c8d28a61005646a"
+  "htmlHash": "6447751bbea07e575c8d28a61005646a",
+  "attachments": []
 }

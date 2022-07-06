@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0989</td><td>2016-11-18</td><td>23</td><td>2015</td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Tougher Penalties for Child Predators Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order fixing December 1, 2016, as the day on which sections 21 to 28 of the Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing December 1, 2016, as the day on which sections 21 to 28 of the TOUGHER PENALTIES FOR CHILD PREDATORS ACT, chapter 23 of the Statutes of Canada, 2015, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0062  <strong>Publication Date:</strong> 2016-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0989",
-  "htmlHash": "263560fb142f10527a4bf5175b937811"
+  "htmlHash": "263560fb142f10527a4bf5175b937811",
+  "attachments": [
+    "attachment.php?attach=32684&lang=en"
+  ]
 }

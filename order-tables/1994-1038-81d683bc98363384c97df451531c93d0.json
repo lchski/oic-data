@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1038</td><td>1994-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ACOA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for the Atlantic Canada\nOpportunities Agency of Gregory MacKenzie, of Sydney, Nova Scotia, as a\ndirector of the Board of Directors of the Enterprise Cape Breton\nCorporation to hold office during pleasure for a term of three years, in\nthe place of Barry Martin, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1038",
-  "htmlHash": "81d683bc98363384c97df451531c93d0"
+  "htmlHash": "81d683bc98363384c97df451531c93d0",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0230</td><td>1999-02-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the YUKON TERRITORY FISHERY REGULATIONS in order to\nimprove the administration of the fishery, provide for more effective\nenforcement of the regulations and promote increased compliance with the\nregulations, effective April 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0098  <strong>Publication Date:</strong> 1999-03-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0230",
-  "htmlHash": "0d599f72356bc29d1200258a429c27f6"
+  "htmlHash": "0d599f72356bc29d1200258a429c27f6",
+  "attachments": []
 }

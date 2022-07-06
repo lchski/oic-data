@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0231</td><td>2016-04-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Certain Unauthorized Payments in Respect of Travel Expenses and Other Expenses, Allowances and Benefits (Canadian Forces) Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CERTAIN UNAUTHORIZED PAYMENTS IN RESPECT OF TRAVEL EXPENSES AND OTHER EXPENSES, ALLOWANCES AND BENEFITS (CANADIAN FORCES) REMISSION ORDER in order to remit debts incurred from unauthorized payments made in respect of certain travel or other expenses, allowances or benefits, resulting from a misinterpretation of the National Defence Act or regulations or instructions made under that Act, during the period beginning on April 1, 1999, and ending on January 31, 2011.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0021  <strong>Publication Date:</strong> 2016-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31908&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0231",
-  "htmlHash": "fdcb086eff782840a52adc58187399c3"
+  "htmlHash": "fdcb086eff782840a52adc58187399c3",
+  "attachments": [
+    "attachment.php?attach=31908&lang=en"
+  ]
 }

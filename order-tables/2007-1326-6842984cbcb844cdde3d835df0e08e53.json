@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1326</td><td>2007-09-10</td><td></td><td></td><td>,&nbsp; VAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">TESTING OF UNREGISTERED US MILITARY HERBICIDES, INCLUDING AGENT ORANGE, AT CFB GAGETOWN EX GRATIA PAYMENTS ORDER - which authorizes the making of ex gratia payments to compensate individuals who meet the eligibility criteria set out in the Order.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0087  <strong>Publication Date:</strong> 2007-10-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17015&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1326",
-  "htmlHash": "6842984cbcb844cdde3d835df0e08e53"
+  "htmlHash": "6842984cbcb844cdde3d835df0e08e53",
+  "attachments": [
+    "attachment.php?attach=17015&lang=en"
+  ]
 }

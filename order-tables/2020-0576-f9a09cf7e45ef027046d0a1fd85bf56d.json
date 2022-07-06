@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0576</td><td>2020-08-25</td><td></td><td></td><td>,&nbsp; DND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Subject</td><td colspan=\"5\">The Royal Military College Saint-Jean in Saint-Jean-sur-Richelieu, Quebec ** No longer necessary for the defence of Canada **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the Federal immovable property The Royal Military College Saint-Jean located in Saint-Jean-sur-Richelieu, Quebec, is no longer necessary for the defence of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39564&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0576",
-  "htmlHash": "f9a09cf7e45ef027046d0a1fd85bf56d"
+  "htmlHash": "f9a09cf7e45ef027046d0a1fd85bf56d",
+  "attachments": [
+    "attachment.php?attach=39564&lang=en"
+  ]
 }

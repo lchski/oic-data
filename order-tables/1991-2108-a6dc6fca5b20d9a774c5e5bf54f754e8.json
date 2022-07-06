@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2108</td><td>1991-10-31</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of Orders in Council P.C. 2959 of 24 October, 1912, P.C. 154\nof 23 January 1932, P.C. 4005 of 26 May, 1944, P.C. 1958-792 of 5 June,\n1958 and P.C. 1960-336 of 17 March, 1960, authorizing aquaculture\nagreements with New-Brunswick, for reasons of clarity.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2108",
-  "htmlHash": "a6dc6fca5b20d9a774c5e5bf54f754e8"
+  "htmlHash": "a6dc6fca5b20d9a774c5e5bf54f754e8",
+  "attachments": []
 }

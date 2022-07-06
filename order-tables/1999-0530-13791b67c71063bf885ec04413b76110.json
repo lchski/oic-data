@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0530</td><td>1999-03-25</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL PARKS WATER AND SEWER REGULATIONS which\nincrease water meter rates at Lake Louise, in Banff National Park, remove\nthe provision pertaining to the administration of Prince Albert National\nPark, and replace the water and sewer fee schedule for the community of\nWasagaming, in Riding Mountain National Park.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0149  <strong>Publication Date:</strong> 1999-04-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0530",
-  "htmlHash": "13791b67c71063bf885ec04413b76110"
+  "htmlHash": "13791b67c71063bf885ec04413b76110",
+  "attachments": []
 }

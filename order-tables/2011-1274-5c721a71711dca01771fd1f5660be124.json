@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1274</td><td>2011-10-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Withdrawal from Disposal of Certain Tracts of Territorial Lands in the Northwest Territories (Ts’ude niline Tu’eyeta (Ramparts River and Wetlands)) Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">WITHDRAWAL FROM DISPOSAL OF CERTAIN TRACTS OF TERRITORIAL LANDS IN THE NORTHWEST TERRITORIES (TS'UDE NILINE TU'EYETA (RAMPARTS RIVER AND WETLANDS)) ORDER which withdraws from disposal the surface and subsurface rights of certain tracts of territorial lands (approximately 15,087.47 square kilometres), in order to facilitate the establishment of the Ts'ude niline Tu'eyeta (Ramparts River and Wetlands), in the Northwest Territories, as a national wildlife area, through the Northwest Territories Protected Areas Strategy.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0093  <strong>Publication Date:</strong> 2011-11-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24955&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1274",
-  "htmlHash": "5c721a71711dca01771fd1f5660be124"
+  "htmlHash": "5c721a71711dca01771fd1f5660be124",
+  "attachments": [
+    "attachment.php?attach=24955&lang=en"
+  ]
 }

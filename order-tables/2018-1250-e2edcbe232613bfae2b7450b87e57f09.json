@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1250</td><td>2018-10-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Implementing the United Nations Resolutions on Mali</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Implementing the UNITED NATIONS RESOLUTIONS ON MALI in order to fulfill its international legal obligation to implement the applicable decisions of the Security Council set out in Resolution 2374 (2017). The Regulations will implement the asset freeze and dealings prohibition imposed by the Security Council into Canadian domestic law under section 2 of the United Nations Act; and the travel ban is implemented in Canadian domestic law through the application of the existing provisions of the Immigration and Refugee Protection Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0203  <strong>Publication Date:</strong> 2018-10-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1250",
-  "htmlHash": "e2edcbe232613bfae2b7450b87e57f09"
+  "htmlHash": "e2edcbe232613bfae2b7450b87e57f09",
+  "attachments": [
+    "attachment.php?attach=36931&lang=en"
+  ]
 }

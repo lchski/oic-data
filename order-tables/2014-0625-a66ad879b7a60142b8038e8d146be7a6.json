@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0625</td><td>2014-05-29</td><td></td><td></td><td>,&nbsp; CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct technical inconsistencies, including those identified by the Standing Joint Committee on the Scrutiny of Regulations in 2006 and others identified by Citizenship and Immigration Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0139  <strong>Publication Date:</strong> 2014-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29439&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0625",
-  "htmlHash": "a66ad879b7a60142b8038e8d146be7a6"
+  "htmlHash": "a66ad879b7a60142b8038e8d146be7a6",
+  "attachments": [
+    "attachment.php?attach=29439&lang=en"
+  ]
 }

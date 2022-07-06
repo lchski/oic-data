@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2105</td><td>2005-11-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 1 to the FIRST NATIONS GOODS AND SERVICES TAX ACT (TLICHO) by adding Tlicho to the list of First Nations with whom the Government of Canada may enter into a Tax Administration Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0363  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13495&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2105",
-  "htmlHash": "33ea8cf8a71675ee57b542e77ef3dbc0"
+  "htmlHash": "33ea8cf8a71675ee57b542e77ef3dbc0",
+  "attachments": [
+    "attachment.php?attach=13495&lang=en"
+  ]
 }

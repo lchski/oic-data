@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1425</td><td>2019-12-18</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Finance of ROBERT MALCOLM CAMPBELL, C.M., of Montréal, Quebec, as a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term commencing on March 1, 2020 and ending on February 28, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38741&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1425",
-  "htmlHash": "88234a18a5961c3efab191f02ad52c77"
+  "htmlHash": "88234a18a5961c3efab191f02ad52c77",
+  "attachments": [
+    "attachment.php?attach=38741&lang=en"
+  ]
 }

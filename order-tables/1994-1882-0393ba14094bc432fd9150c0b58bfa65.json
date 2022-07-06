@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1882</td><td>1994-11-15</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FAMILY SUPPORT ORDERS AND AGREEMENTS GARNISHMENT\nREGULATIONS which adds income support payments made under the Atlantic\nGroundfish Strategy to the list of garnishable funds.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0725  <strong>Publication Date:</strong> 1994-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1882",
-  "htmlHash": "0393ba14094bc432fd9150c0b58bfa65"
+  "htmlHash": "0393ba14094bc432fd9150c0b58bfa65",
+  "attachments": []
 }

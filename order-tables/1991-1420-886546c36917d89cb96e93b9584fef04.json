@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1420</td><td>1991-08-01</td><td>0</td><td></td><td>AGR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Griffith Thomas Meredith, of Great Village, Colchester\nCounty, Nova Scotia, as Chairman of the Canadian Livestock Feed Board to\nhold office during good behaviour for a term ending December 31, 1991,\nor until the said Board is dissolved, whichever is earlier, effective\nJuly 1, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1420",
-  "htmlHash": "886546c36917d89cb96e93b9584fef04"
+  "htmlHash": "886546c36917d89cb96e93b9584fef04",
+  "attachments": []
 }

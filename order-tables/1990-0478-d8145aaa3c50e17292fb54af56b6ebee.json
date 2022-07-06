@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0478</td><td>1990-03-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NCC,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order providing authority (a) for the National Capital Commission to\nlease a tract of land containing some 121 hectares to Bell Northern\nResearch Limited for a term of ninety-nine years, the site in question\nbeing situate next to Bell Northern's property at Carling Ave. and Moodie\nDrive, in the City of Nepean, Ontario; (b) for the N.C.C. to use the\nproceeds to acquire environmentally sensitive lands elsewhere in the\nCapital region; and (c) to revoke Order in Council P.C. 1988-2351.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0478",
-  "htmlHash": "d8145aaa3c50e17292fb54af56b6ebee"
+  "htmlHash": "d8145aaa3c50e17292fb54af56b6ebee",
+  "attachments": []
 }

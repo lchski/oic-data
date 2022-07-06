@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1749</td><td>2005-10-04</td><td>34</td><td>2005</td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Human Resources and Skills Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing OCTOBER 5, 2005, as the day on which this Act, being chapter 34 of the Statutes of Canada, 2005, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0099  <strong>Publication Date:</strong> 2005-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13149&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1749",
-  "htmlHash": "3689e072a99d3c71bb0c8d21cbbff5d8"
+  "htmlHash": "3689e072a99d3c71bb0c8d21cbbff5d8",
+  "attachments": [
+    "attachment.php?attach=13149&lang=en"
+  ]
 }

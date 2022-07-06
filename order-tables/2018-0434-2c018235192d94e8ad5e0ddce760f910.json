@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0434</td><td>2018-04-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Repealing the Chlor-Alkali Mercury Liquid Effluent Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Repealing the CHLOR-ALKALI MERCURY LIQUID EFFLUENT REGULATIONS in order to remove (1) the exemption from the general prohibition under the Fisheries Act with respect to the deposit of mercury effluent into water frequented by fish; and (2) one regulatory title from the Minister of the Environment’s portfolio.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0080  <strong>Publication Date:</strong> 2018-05-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36103&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0434",
-  "htmlHash": "2c018235192d94e8ad5e0ddce760f910"
+  "htmlHash": "2c018235192d94e8ad5e0ddce760f910",
+  "attachments": [
+    "attachment.php?attach=36103&lang=en"
+  ]
 }

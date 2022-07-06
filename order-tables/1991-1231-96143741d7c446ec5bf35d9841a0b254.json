@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1231</td><td>1991-07-10</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">BLAIR BROKERAGE LTD. REMISSION ORDER respecting the remission of the\ncustoms duties paid on fresh pears imported into Canada by Blair Brokerage\nLtd.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0456  <strong>Publication Date:</strong> 1991-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1231",
-  "htmlHash": "96143741d7c446ec5bf35d9841a0b254"
+  "htmlHash": "96143741d7c446ec5bf35d9841a0b254",
+  "attachments": []
 }

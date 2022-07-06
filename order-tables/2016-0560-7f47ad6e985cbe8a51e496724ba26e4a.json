@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0560</td><td>2016-06-16</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DOUGLAS R. MAH, of the City of Edmonton, in the Province of Alberta, one of Her Majesty's Counsel learned in the law, to be a Justice of the Court of Queen's Bench of Alberta, and a member ex officio of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32244&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0560",
-  "htmlHash": "7f47ad6e985cbe8a51e496724ba26e4a"
+  "htmlHash": "7f47ad6e985cbe8a51e496724ba26e4a",
+  "attachments": [
+    "attachment.php?attach=32244&lang=en"
+  ]
 }

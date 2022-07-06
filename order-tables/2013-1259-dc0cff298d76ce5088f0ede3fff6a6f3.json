@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1259</td><td>2013-11-21</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Grand Duchy of Luxembourg - Avoidance of Double Taxation with respect to Taxes on Income and on Capital ** Convention **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take, on behalf of Canada, the measures necessary to BRING INTO FORCE the Protocol amending the CONVENTION between the Government of Canada and the Government of the GRAND DUCHY OF LUXEMBOURG for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital, done at Luxembourg on September 10, 1999.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28524&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1259",
-  "htmlHash": "dc0cff298d76ce5088f0ede3fff6a6f3"
+  "htmlHash": "dc0cff298d76ce5088f0ede3fff6a6f3",
+  "attachments": [
+    "attachment.php?attach=28524&lang=en"
+  ]
 }

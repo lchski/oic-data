@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1573</td><td>2011-12-15</td><td></td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister for International Trade of ADAM CHOWANIEC of Ottawa, Ontario, as a director of the Board of Directors of Export Development Canada, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25255&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1573",
-  "htmlHash": "9239a2f167d19e44fe3cd26535262488"
+  "htmlHash": "9239a2f167d19e44fe3cd26535262488",
+  "attachments": [
+    "attachment.php?attach=25255&lang=en"
+  ]
 }

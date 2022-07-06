@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0866</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INFC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BRYCE STEPHEN PHILLIPS of Leamington, Ontario, to be Chief Executive Officer of the Windsor-Detroit Bridge Authority, to hold office during pleasure for a term of five years, effective July 16, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36575&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0866",
-  "htmlHash": "ab826efe5fa067ef91f92e21933ad4b8"
+  "htmlHash": "ab826efe5fa067ef91f92e21933ad4b8",
+  "attachments": [
+    "attachment.php?attach=36575&lang=en"
+  ]
 }

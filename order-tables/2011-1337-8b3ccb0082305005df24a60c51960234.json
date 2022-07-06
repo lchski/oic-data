@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1337</td><td>2011-11-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">No. 143 - (Nova Scotia) Provincial Emergencies Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER N° 143 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of NOVA SCOTIA with respect to the STORM that affected the region from December 20, 2010, to December 22, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25019&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1337",
-  "htmlHash": "8b3ccb0082305005df24a60c51960234"
+  "htmlHash": "8b3ccb0082305005df24a60c51960234",
+  "attachments": [
+    "attachment.php?attach=25019&lang=en"
+  ]
 }

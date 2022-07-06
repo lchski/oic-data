@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0534</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IRCC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2019, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the Date of Continuance as the Day on Which Section 293 and Subsections 296(1) to (3) of that Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the “date of continuance”, as defined in section 83 of the College of Immigration and Citizenship Consultants Act, as the day on which section 293 and subsections 296(1) to (3) of the BUDGET IMPLEMENTATION ACT, 2019, NO. 1, chapter 29 of the Statutes of Canada, 2019, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0031  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40923&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0534",
-  "htmlHash": "e8c1b81b70c1136de392d3e70b7c102e"
+  "htmlHash": "e8c1b81b70c1136de392d3e70b7c102e",
+  "attachments": [
+    "attachment.php?attach=40923&lang=en"
+  ]
 }

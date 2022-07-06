@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1597</td><td>2008-09-04</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE REGULATIONS RESPECTING THE ELECTION OF DIRECTORS OF THE CANADIAN WHEAT BOARD which remove the spending limit on third-party advertising during the period candidates are seeking election as Directors of The Canadian Wheat Board.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0255  <strong>Publication Date:</strong> 2008-09-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19499&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1597",
-  "htmlHash": "23aac8978d47140ea8e114782b2582a6"
+  "htmlHash": "23aac8978d47140ea8e114782b2582a6",
+  "attachments": [
+    "attachment.php?attach=19499&lang=en"
+  ]
 }

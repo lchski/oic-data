@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0176</td><td>2004-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; EC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of the Environment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Ministers to enter into a Memorandum of Understanding with the Government of MANITOBA regarding cooperation on addressing CLIMATE CHANGE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5987&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0176",
-  "htmlHash": "fa33822041eb0e2ef329db8b223d5863"
+  "htmlHash": "fa33822041eb0e2ef329db8b223d5863",
+  "attachments": [
+    "attachment.php?attach=5987&lang=en"
+  ]
 }

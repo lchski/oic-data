@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0549</td><td>2020-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; PHAC</td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to COVID-19 in Canada Order (Prohibition of Entry into Canada from any Country other than the United States)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO COVID-19 IN CANADA ORDER (PROHIBITION OF ENTRY INTO CANADA FROM ANY COUNTRY OTHER THAN THE UNITED STATES) in order to (1) support Canada’s continued focus on reducing the introduction and further spread of COVID-19 by decreasing the risk of importing cases from outside the country; (2) continue to restrict entry into Canada of foreign nationals arriving from countries other than the United States, with some limited exemptions, by extending the effective date of the previous Order to August 31, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39518&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0549",
-  "htmlHash": "162472943bb5a39ea0acbcba2fb276df"
+  "htmlHash": "162472943bb5a39ea0acbcba2fb276df",
+  "attachments": [
+    "attachment.php?attach=39518&lang=en"
+  ]
 }

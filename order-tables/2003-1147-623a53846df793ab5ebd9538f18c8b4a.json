@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1147</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION add an additional 17 years to an existing 20-year lease with KINGSWAY ARMS OTTAWA INC., in respect of certain real property located in the City of Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3371&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1147",
-  "htmlHash": "623a53846df793ab5ebd9538f18c8b4a"
+  "htmlHash": "623a53846df793ab5ebd9538f18c8b4a",
+  "attachments": [
+    "attachment.php?attach=3371&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0552</td><td>2016-06-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SHARON E. LAVINE, of the City of Toronto, in the Province of Ontario, Barrister-at-law, to be a Judge of the Superior Court of Justice in and for the Province of Ontario, and a Judge ex officio of the Court of Appeal for Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32236&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0552",
-  "htmlHash": "9487685bf31cfee9c19c1134be978b9f"
+  "htmlHash": "9487685bf31cfee9c19c1134be978b9f",
+  "attachments": [
+    "attachment.php?attach=32236&lang=en"
+  ]
 }

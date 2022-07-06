@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1174</td><td>2003-08-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SYLVIE LEDUC to be Honorary Consul of Canada at Varadero, the Republic of Cuba, for a period of three years, effective September 2, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3432&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1174",
-  "htmlHash": "78035dbb333fd1c7f0c35f61a5a1f2da"
+  "htmlHash": "78035dbb333fd1c7f0c35f61a5a1f2da",
+  "attachments": [
+    "attachment.php?attach=3432&lang=en"
+  ]
 }

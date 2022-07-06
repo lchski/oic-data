@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0003</td><td>2014-01-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending P.C. 2013-909, which appoints individuals to serve as ADMINISTRATOR of the Government of ONTARIO, by (1) extending the Hon. Heather J. Smith's appointment from January 5, 2014 to January 10, 2014 inclusive; (2) appointing the Hon. Kathryn N. Feldman from January 11 to 30, 2014 inclusive; and (3) appointing the Hon. Robert J. Sharpe effective January 31, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0003",
-  "htmlHash": "d0c4a76d64ba76fd038f7a13a04703c4"
+  "htmlHash": "d0c4a76d64ba76fd038f7a13a04703c4",
+  "attachments": [
+    "attachment.php?attach=28781&lang=en"
+  ]
 }

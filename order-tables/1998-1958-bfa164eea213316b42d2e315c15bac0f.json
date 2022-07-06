@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1958</td><td>1998-11-03</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILLIAM THORNTON TWEED, of Winnipeg, Manitoba, and\nWILLIAM G. (BILL) McDONALD, of Winnipeg, Manitoba, as part-time members\nof the Civil Aviation Tribunal, to hold office during good behaviour for\na term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1958",
-  "htmlHash": "bfa164eea213316b42d2e315c15bac0f"
+  "htmlHash": "bfa164eea213316b42d2e315c15bac0f",
+  "attachments": []
 }

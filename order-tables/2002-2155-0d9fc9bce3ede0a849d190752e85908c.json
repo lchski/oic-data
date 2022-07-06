@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2155</td><td>2002-12-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the UNITED NATIONS SUPPRESSION OF TERRORISM REGULATIONS by adding to the list of individuals and entities for which there are reasonable grounds to believe that they may be or are involved in or associated with terrorist activities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0455  <strong>Publication Date:</strong> 2002-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=875&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2155",
-  "htmlHash": "0d9fc9bce3ede0a849d190752e85908c"
+  "htmlHash": "0d9fc9bce3ede0a849d190752e85908c",
+  "attachments": [
+    "attachment.php?attach=875&lang=en"
+  ]
 }

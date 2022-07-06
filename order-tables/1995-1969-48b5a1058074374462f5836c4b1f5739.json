@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1969</td><td>1995-11-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating the following\ncountries as \"designated states\" for the purposes of the Visiting Forces\nAct, and declaring that the Act, except Part VI, shall apply to them.\n.\n  1. Republic of Benin        -  République du Bénin\n  2. Republic of El Salvador  -  République d'El Salvador\n  3. Republic of Estonia      -  République d'Estonie\n  4. Republic of Latvia       -  République de Lettonie\n  5. Republic of Lithuania    -  République de Lituanie\n  6. Republic of Nicaragua    -  République du Nicaragua\n  7. Romania                  -  Roumanie\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0078  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1969",
-  "htmlHash": "48b5a1058074374462f5836c4b1f5739"
+  "htmlHash": "48b5a1058074374462f5836c4b1f5739",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0287</td><td>2014-03-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; NEB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of License GL-303 - Pacific NorthWest LNG Ltd.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE OF LICENCE GL-303 in order to authorize the exportation of liquefied natural gas by Pacific NorthWest LNG Ltd. from a terminal to be located on Lelu Island within the District of Port Edward, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29066&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0287",
-  "htmlHash": "6bf12e473a8a961ce78a22fa0866efb7"
+  "htmlHash": "6bf12e473a8a961ce78a22fa0866efb7",
+  "attachments": [
+    "attachment.php?attach=29066&lang=en"
+  ]
 }

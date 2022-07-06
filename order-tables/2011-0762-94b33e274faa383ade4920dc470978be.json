@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0762</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Hiawatha First Nation (ON)\nSETTING APART\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the HIAWATHA FIRST NATION, of 77.75 hectares (192.1 acres) of land, including mines and minerals, in the Township of Otonabee-South Monaghan, Ontario, as an addition to Hiawatha First Nation Reserve No. 36</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24336&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0762",
-  "htmlHash": "94b33e274faa383ade4920dc470978be"
+  "htmlHash": "94b33e274faa383ade4920dc470978be",
+  "attachments": [
+    "attachment.php?attach=24336&lang=en"
+  ]
 }

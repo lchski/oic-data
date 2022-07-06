@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1173</td><td>2014-10-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Center of Excellence for Marine Transportation of Oil and LNG Commodities in Canada Society ** Contribution Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to enter into a CONTRIBUTION AGREEMENT for the purpose of implementing the Contribution Program for the Centre of Excellence for the Marine Transportation of Oil and Liquefied Natural Gas, as part of the World-Class Tanker Safety System.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29990&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1173",
-  "htmlHash": "3e2839b25ccf391b49f32bf63b9f5719"
+  "htmlHash": "3e2839b25ccf391b49f32bf63b9f5719",
+  "attachments": [
+    "attachment.php?attach=29990&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0875</td><td>2020-11-06</td><td></td><td></td><td>,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order authorizing the Minister of Foreign Affairs to sign the Convention on Social Security between Canada and the Republic of Tunisia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate the authority to sign, on behalf of the Government of Canada, subject to ratification, the CONVENTION ON SOCIAL SECURITY BETWEEN CANADA AND THE REPUBLIC OF TUNISIA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39880&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0875",
-  "htmlHash": "1070deedbf3cf90c8827a3cb5fe63034"
+  "htmlHash": "1070deedbf3cf90c8827a3cb5fe63034",
+  "attachments": [
+    "attachment.php?attach=39880&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2359</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the application made by the Chambre de Commerce d'Amos to (a)\nchange its name to \"Chambre de Commerce d'Amos-Région\", and (b) to change\nthe boundaries of its territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2359",
-  "htmlHash": "8b49eb56456f1e887cb2fa1b794bdc13"
+  "htmlHash": "8b49eb56456f1e887cb2fa1b794bdc13",
+  "attachments": []
 }

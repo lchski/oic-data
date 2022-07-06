@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0599</td><td>2003-05-01</td><td>0</td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1326 - METHOXYFENOZIDE) by setting maximum limits on residues (MRLs) of this product (a) resulting from its use as an insecticide on apples, crabapples, loquats, mayhaws, oriental pears, pears and quinces, or (b) which may remain in the fat, meat and by-products of certain animals and in certain animal organs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0157  <strong>Publication Date:</strong> 2003-05-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2187&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0599",
-  "htmlHash": "9fa34f4c26c610c80d1b04d7c9bb70b1"
+  "htmlHash": "9fa34f4c26c610c80d1b04d7c9bb70b1",
+  "attachments": [
+    "attachment.php?attach=2187&lang=en"
+  ]
 }

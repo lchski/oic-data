@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0941</td><td>2005-05-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to extend the term of a lease held by 1292485 Ontario Inc., Michel Quesnel, Charles Hamway and Bianca Hamway, with respect to the lands and premises used for the operation of the ORLEANS GOLF ACADEMY at 1705 St. Joseph Blvd. in Orléans, and to enlarge the area demised thereunder.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11324&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0941",
-  "htmlHash": "f98204ccd91e54b38880ea35c347ad62"
+  "htmlHash": "f98204ccd91e54b38880ea35c347ad62",
+  "attachments": [
+    "attachment.php?attach=11324&lang=en"
+  ]
 }

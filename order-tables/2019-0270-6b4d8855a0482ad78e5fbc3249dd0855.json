@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0270</td><td>2019-04-05</td><td></td><td></td><td>CRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lazarus Family Trust Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Remitting tax paid or payable under Part I of the INCOME TAX, by the LAZARUS FAMILY TRUST for the 2002, 2003, 2004 and 2005 Taxation years, respectively, and all relevant interest.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0018  <strong>Publication Date:</strong> 2019-04-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0270",
-  "htmlHash": "6b4d8855a0482ad78e5fbc3249dd0855"
+  "htmlHash": "6b4d8855a0482ad78e5fbc3249dd0855",
+  "attachments": [
+    "attachment.php?attach=37593&lang=en"
+  ]
 }

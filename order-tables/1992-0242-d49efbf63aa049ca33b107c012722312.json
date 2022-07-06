@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0242</td><td>1992-02-06</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADIAN NATIONAL RAILWAY COMPANY to enter into an\nAGREEMENT with ALBERTA-PACIFIC FOREST INDUSTRIES INC. which provides for\nthe design, construction, ownership, operation and maintenance of a spur\nline to a pulp mill on the Athabasca River near Grassland, Alberta.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0242",
-  "htmlHash": "d49efbf63aa049ca33b107c012722312"
+  "htmlHash": "d49efbf63aa049ca33b107c012722312",
+  "attachments": []
 }

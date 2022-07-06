@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0115</td><td>2007-02-01</td><td></td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ATLANTIC FISHERY REGULATIONS, 1985 by repealing section 67.1 [and a reference to it in subsection 3(5)] respecting advance notification of the offloading of scallop catches; and by revising section 93.3 to the extent that the holder of a commercial groundfish licence would be required to retain all incidental catches for inspection except when specifically authorized or required under the terms of the licence to immediately return certain species to the water.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0020  <strong>Publication Date:</strong> 2007-02-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15777&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0115",
-  "htmlHash": "289ab3fa3c60725414ad9f354a93d7c9"
+  "htmlHash": "289ab3fa3c60725414ad9f354a93d7c9",
+  "attachments": [
+    "attachment.php?attach=15777&lang=en"
+  ]
 }

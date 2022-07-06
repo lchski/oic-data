@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1363</td><td>1996-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ORDER OF CONSENT - BARCLAYS BANK PLC - which authorizes\nthe aforementioned, a foreign bank, to hold directly or indirectly shares\nof BZW Canada Limited, BZW Barclays Global Investors Canada Limited and\nBarclays Corporation Limited.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1363",
-  "htmlHash": "5e332aab386d97f74f2d3a9258669fac"
+  "htmlHash": "5e332aab386d97f74f2d3a9258669fac",
+  "attachments": []
 }

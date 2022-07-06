@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0515</td><td>2011-03-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to implement conventions between Canada and Morocco, Canada and Pakistan, Canada and Singapore, Canada and the Philippines, Canada and the Dominican Republic and Canada and Switzerland for the avoidance of double taxation with respect to income tax</td></tr><tr><td>Subject</td><td colspan=\"5\">Protocol amending the 1997 Convention for the avoidance of double taxation\nSwiss Federal Council</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the PROTOCOL signed in Berne on October 22, 2010 AMENDING THE CONVENTION between the Government of Canada and the SWISS FEDERAL COUNCIL for the Avoidance of Double Taxation with respect to Taxes on Income and on Capital, done at Berne on 5 May 1997.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24184&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0515",
-  "htmlHash": "487179e707dbbfd6f4d68f4dbba5c6f4"
+  "htmlHash": "487179e707dbbfd6f4d68f4dbba5c6f4",
+  "attachments": [
+    "attachment.php?attach=24184&lang=en"
+  ]
 }

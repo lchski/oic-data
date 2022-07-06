@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0141</td><td>2007-02-08</td><td>9</td><td>2006</td><td>,&nbsp; ,&nbsp; ,&nbsp; TBS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Accountability Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Bill C-2 - CiF\nFederal Accountability Act (Amendments to the Canada Elections Act)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FEBRUARY 10, 2007 as the day on which sections 173 to 178 of the Federal Accountability Act, being chapter 9 of the Statutes of Canada, 2006, COME INTO FORCE.\n.\nBILL C-2  --  ROYAL ASSENT:  December 12, 2006</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0017  <strong>Publication Date:</strong> 2007-02-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15832&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0141",
-  "htmlHash": "c8f64143247885b78726ca1e3d36869b"
+  "htmlHash": "c8f64143247885b78726ca1e3d36869b",
+  "attachments": [
+    "attachment.php?attach=15832&lang=en"
+  ]
 }

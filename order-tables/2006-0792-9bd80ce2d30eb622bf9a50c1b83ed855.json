@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0792</td><td>2006-08-29</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Safety and Control Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NUCLEAR SECURITY REGULATIONS by implementing more stringent security measures.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0191  <strong>Publication Date:</strong> 2006-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14736&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0792",
-  "htmlHash": "9bd80ce2d30eb622bf9a50c1b83ed855"
+  "htmlHash": "9bd80ce2d30eb622bf9a50c1b83ed855",
+  "attachments": [
+    "attachment.php?attach=14736&lang=en"
+  ]
 }

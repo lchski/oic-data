@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0610</td><td>2015-05-14</td><td></td><td></td><td>DFATD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Free Trade Agreement between Canada and the Republic of Peru</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to modify Canada's lists of covered entities in the government procurement market access schedule, as to reflect entity name changes and governmental reorganization, in the CANADA-PERU FREE TRADE AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30934&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0610",
-  "htmlHash": "2c8aad671ae03eb378f31a3194c92aa6"
+  "htmlHash": "2c8aad671ae03eb378f31a3194c92aa6",
+  "attachments": [
+    "attachment.php?attach=30934&lang=en"
+  ]
 }

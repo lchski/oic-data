@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0251</td><td>1990-02-15</td><td>0</td><td></td><td>OLD INAC,&nbsp; TC,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorize the Ministers of the Environment, Indian Affairs and Northern\nDevelopment and Transport to enter into a Mackenzie River Basin General\nAgreement with the Provinces of British Columbia, Alberta and Saskatchewan,\nand with the Yukon Territory and Northwest Territories and authorize the\nCommissioner of the Yukon Territory and the Commissioner of the Northwest\nTerritories to enter into the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0251",
-  "htmlHash": "884db3e4bf6e7338a9c4f56d1c8e3551"
+  "htmlHash": "884db3e4bf6e7338a9c4f56d1c8e3551",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0131</td><td>2018-02-12</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Privacy Act (Office of the Administrator of the Fund for Railway Accidents Involving Designated Goods)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE PRIVACY ACT (Office of the Administrator of the Fund for Railway Accidents Involving Designated Goods) in order to add the Office of the Administrator of the Rail Fund.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0024  <strong>Publication Date:</strong> 2018-02-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35792&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0131",
-  "htmlHash": "5c9c92b7e222cbc3887774ce5a30b4e1"
+  "htmlHash": "5c9c92b7e222cbc3887774ce5a30b4e1",
+  "attachments": [
+    "attachment.php?attach=35792&lang=en"
+  ]
 }

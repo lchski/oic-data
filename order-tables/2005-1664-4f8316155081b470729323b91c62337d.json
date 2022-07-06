@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1664</td><td>2005-09-26</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Preparedness Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 79 - which declares the flooding which occurred in the southern regions of the Province of MANITOBA during the spring and summer months of 2005, to be of concern to the federal government, and authorizes the provision of financial assistance in respect thereof.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13044&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1664",
-  "htmlHash": "4f8316155081b470729323b91c62337d"
+  "htmlHash": "4f8316155081b470729323b91c62337d",
+  "attachments": [
+    "attachment.php?attach=13044&lang=en"
+  ]
 }

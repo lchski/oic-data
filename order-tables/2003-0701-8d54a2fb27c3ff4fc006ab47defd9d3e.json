@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0701</td><td>2003-05-15</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the PELICAN LAKE BAND, of some 0.153 hectares of land situated in the VILLAGE OF LEOVILLE, Saskatchewan, mines and minerals included, as an addition to Pelican Lake Indian Reserve No. 191-C.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2408&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0701",
-  "htmlHash": "8d54a2fb27c3ff4fc006ab47defd9d3e"
+  "htmlHash": "8d54a2fb27c3ff4fc006ab47defd9d3e",
+  "attachments": [
+    "attachment.php?attach=2408&lang=en"
+  ]
 }

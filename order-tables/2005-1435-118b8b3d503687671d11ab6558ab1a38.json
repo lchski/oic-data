@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1435</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Credit Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Agriculture and Agri-Food of RUSSEL MARCOUX of Saskatoon, Saskatchewan, as a director of the Board of Directors of Farm Credit Canada to hold office during pleasure for a term of three years, effective December 10, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12181&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1435",
-  "htmlHash": "118b8b3d503687671d11ab6558ab1a38"
+  "htmlHash": "118b8b3d503687671d11ab6558ab1a38",
+  "attachments": [
+    "attachment.php?attach=12181&lang=en"
+  ]
 }

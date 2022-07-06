@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0903</td><td>2020-11-20</td><td>29</td><td>2019</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2019, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the Day on Which this Order is Registered as the Day on Which Section 292 of that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the day on which this Order is registered as the day on which section 292 of the BUDGET IMPLEMENTATION ACT, 2019, NO. 1, chapter 29 of the Statutes of Canada, 2019, (College of Immigration and Citizenship Consultants Act), COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2020-0073  <strong>Publication Date:</strong> 2020-12-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40012&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0903",
-  "htmlHash": "4150e20fd80c94690dccf901be9f9fa1"
+  "htmlHash": "4150e20fd80c94690dccf901be9f9fa1",
+  "attachments": [
+    "attachment.php?attach=40012&lang=en"
+  ]
 }

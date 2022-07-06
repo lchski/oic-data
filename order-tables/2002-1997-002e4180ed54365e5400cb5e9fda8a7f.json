@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1997</td><td>2002-11-22</td><td></td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS by raising the INITIAL PRICES (sums certain) to be paid by The Canadian Wheat Board for the base grades of WHEAT, AMBER DURUM WHEAT, BARLEY and DESIGNATED BARLEY delivered in the 2002-2003 crop year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0433  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=394&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-1997",
-  "htmlHash": "002e4180ed54365e5400cb5e9fda8a7f"
+  "htmlHash": "002e4180ed54365e5400cb5e9fda8a7f",
+  "attachments": [
+    "attachment.php?attach=394&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1887</td><td>2003-12-02</td><td></td><td></td><td>,&nbsp; LGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JENNIFER KURULOK of Fort McMurray, Alberta, to be the Returning Officer for the electoral district of Athabasca, as established in the Representation Order proclaimed on August 25, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4824&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1887",
-  "htmlHash": "2c1b8cddeff6f152388cf2bc87d083d9"
+  "htmlHash": "2c1b8cddeff6f152388cf2bc87d083d9",
+  "attachments": [
+    "attachment.php?attach=4824&lang=en"
+  ]
 }

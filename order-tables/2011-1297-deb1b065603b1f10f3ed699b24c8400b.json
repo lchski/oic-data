@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1297</td><td>2011-11-15</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring to Shared Services Canada the Control and Supervision of Certain Portions of the Federal Public Administration in each Department and Portion of the Federal Public Administration known as the Email, Data Centre and Network Services Unit and the Email, Data Centre and Network Services Support Unit</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transfering to Shared Services Canada the control and supervision of certain portions of the federal public administration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0095  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24978&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1297",
-  "htmlHash": "deb1b065603b1f10f3ed699b24c8400b"
+  "htmlHash": "deb1b065603b1f10f3ed699b24c8400b",
+  "attachments": [
+    "attachment.php?attach=24978&lang=en"
+  ]
 }

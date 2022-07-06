@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0683</td><td>2014-06-12</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Labelling, Packaging and Brand Names of Drugs for Human Use)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (LABELLING, PACKAGING AND BRAND NAMES OF DRUGS FOR HUMAN USE) in order to improve the safe and effective use of drugs and reduce the number of medication errors resulting from confusing drug names, labels and packages, and to reduce compliance costs to the extent possible by enabling the changes to be implemented within the natural cycle of label revisions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0158  <strong>Publication Date:</strong> 2014-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29535&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0683",
-  "htmlHash": "48fce548d555104f2b7bc1fb1e64bd0d"
+  "htmlHash": "48fce548d555104f2b7bc1fb1e64bd0d",
+  "attachments": [
+    "attachment.php?attach=29535&lang=en"
+  ]
 }

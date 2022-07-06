@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0763</td><td>2011-06-23</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Northwest Territories Supreme Court\nElizabeth A. Hughes</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing the Hon. ELIZABETH A. HUGHES as a deputy judge of the Supreme Court of the Northwest Territories to hold office during good behaviour until attaining the age of seventy-five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24337&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0763",
-  "htmlHash": "1192a4a838e1257c697f9e700efe6c26"
+  "htmlHash": "1192a4a838e1257c697f9e700efe6c26",
+  "attachments": [
+    "attachment.php?attach=24337&lang=en"
+  ]
 }

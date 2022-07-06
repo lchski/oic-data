@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1258</td><td>2002-07-17</td><td>0</td><td></td><td>HRDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by rewording\nparagraphs 37(2)(d) and 38(a) in order to ensure that payments under a\nSupplemental Unemployment Benefit Plan are determined on the basis of the\nclaimant's normal weekly earnings in the job covered by the plan, and by\nmaking other minor changes that will make it easier to conduct business on\nthe Internet or to make direct-deposits.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0274  <strong>Publication Date:</strong> 2002-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1258",
-  "htmlHash": "f417ca88f41872067890a707f6ed0dd8"
+  "htmlHash": "f417ca88f41872067890a707f6ed0dd8",
+  "attachments": []
 }

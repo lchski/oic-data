@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1865</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments (SCHEDULE No. 844) to the FOOD AND DRUG REGULATIONS whereby all\npharmaceutical manufacturers will be required to submit \"adverse drug\nreaction\" reports to the Department for all drugs marketed in Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0521  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1865",
-  "htmlHash": "edee48a4cf1c88cf0687e2d4770c587b"
+  "htmlHash": "edee48a4cf1c88cf0687e2d4770c587b",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1153</td><td>2012-09-27</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Moosomin Indian Reserve No. 112K (Saskatchewan)\n\n\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending Order in Council P.C. 2005-2295 dated December 6, 2005 regarding MOOSOMIN INDIAN RESERVE No. 112K, in Saskatchewan, to clarify that the lands were to be set apart as a new reserve and not as an addition to the reserve.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1153",
-  "htmlHash": "b6a700da7176c99ba90885f6027d80a4"
+  "htmlHash": "b6a700da7176c99ba90885f6027d80a4",
+  "attachments": [
+    "attachment.php?attach=26593&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0414</td><td>2011-03-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Barbara E. Macdonald ** WIDOW'S ANNUITY ** The Hon. James A. Macdonald </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to BARBARA E. MACDONALD, widow of the Hon. James A. Macdonald, Judge of the Court of Appeal for British Columbia, effective December 15, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24077&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0414",
-  "htmlHash": "fa4169dc10cc484fb51df4ccce2cf769"
+  "htmlHash": "fa4169dc10cc484fb51df4ccce2cf769",
+  "attachments": [
+    "attachment.php?attach=24077&lang=en"
+  ]
 }

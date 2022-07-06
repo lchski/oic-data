@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0203</td><td>2006-04-06</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Inquiries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Terminate the appointment of the Honourable Bob Rae, P.C., as Independant Counsellor to the Prime Minister, styled the Chairperson of the Air India Flight 182 Review and Inquiry.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14088&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0203",
-  "htmlHash": "b5ba65db1839a78ca506cdee9129e8ed"
+  "htmlHash": "b5ba65db1839a78ca506cdee9129e8ed",
+  "attachments": [
+    "attachment.php?attach=14088&lang=en"
+  ]
 }

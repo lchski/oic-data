@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0405</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1147 - MECLIZINE) by\nremoving meclizine and its salts in concentrations of 25 mg or less per\ndosage unit from the list of prescription drugs set out in Schedule F.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0119  <strong>Publication Date:</strong> 2000-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0405",
-  "htmlHash": "f37bed2a15ac9409993f3b33baa6cd36"
+  "htmlHash": "f37bed2a15ac9409993f3b33baa6cd36",
+  "attachments": []
 }

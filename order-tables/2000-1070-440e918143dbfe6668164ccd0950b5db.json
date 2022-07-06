@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1070</td><td>2000-06-30</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, JUNE 30, 2000, as the day upon which sections 1, 4 to\n11 and 13 to 25 of the DNA Identification Act [BILL C-3], being chapter 37\nof the Statutes of Canada, 1998, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0060  <strong>Publication Date:</strong> 2000-07-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1070",
-  "htmlHash": "440e918143dbfe6668164ccd0950b5db"
+  "htmlHash": "440e918143dbfe6668164ccd0950b5db",
+  "attachments": []
 }

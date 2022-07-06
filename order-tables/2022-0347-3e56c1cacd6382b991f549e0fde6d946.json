@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0347</td><td>2022-04-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Foreign Affairs to Accept, on Behalf of Canada, Annex VII of the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to accept, on behalf of Canada, ANNEX VII OF THE ROTTERDAM CONVENTION ON THE PRIOR INFORMED CONSENT PROCEDURE FOR CERTAIN HAZARDOUS CHEMICALS AND PESTICIDES IN INTERNATIONAL TRADE, adopted at Geneva on May 8, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41840&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0347",
-  "htmlHash": "3e56c1cacd6382b991f549e0fde6d946"
+  "htmlHash": "3e56c1cacd6382b991f549e0fde6d946",
+  "attachments": [
+    "attachment.php?attach=41840&lang=en"
+  ]
 }

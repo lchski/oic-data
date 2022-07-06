@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0279</td><td>2014-03-14</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act<br>Access to Information Act<br>Financial Administration Act<br>Privacy Act<br>Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Certain Orders Respecting the Indian Residential Schools Truth and Reconciliation Commission</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Certain Orders Respecting the Indian Residential Schools Truth and Reconciliation Commission further to the extension of its mandate.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2014-0026  <strong>Publication Date:</strong> 2014-03-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29057&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0279",
-  "htmlHash": "259fedb4f7052e84ae506c7d2d97e804"
+  "htmlHash": "259fedb4f7052e84ae506c7d2d97e804",
+  "attachments": [
+    "attachment.php?attach=29057&lang=en"
+  ]
 }

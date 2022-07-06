@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1108</td><td>2013-10-24</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Renewable Fuels Regulations, 2013</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RENEWABLE FUELS REGULATIONS, 2013 in order to (1) mitigate cost increases for Canadians that use oil to heat their homes; (2) allow a six-month extension to the exemption for the Maritime provinces from the 2 % renewable content requirement in both diesel fuel and heating distillate oil to give regulatees supplying distillates to the Maritime provinces extra time to comply with the regulatory requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0187  <strong>Publication Date:</strong> 2013-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28382&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1108",
-  "htmlHash": "d864fc4a79841eb3fb9352cefa55b601"
+  "htmlHash": "d864fc4a79841eb3fb9352cefa55b601",
+  "attachments": [
+    "attachment.php?attach=28382&lang=en"
+  ]
 }

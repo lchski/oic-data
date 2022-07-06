@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1293</td><td>2013-11-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; CBSA</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">CCOFTA Verification of Origin Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CCOFTA VERIFICATION OF ORIGIN REGULATIONS in order to incorporate the CANADA-COLUMBIA FREE TRADE AGREEMENT (CCOFTA) into Canada's existing regulatory framework by allowing customs procedures related to rules of origin to be administered in accordance with the terms of the CCOFTA.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0217  <strong>Publication Date:</strong> 2013-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28555&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1293",
-  "htmlHash": "2b4311a7b1c5969cd507dcda4f547b44"
+  "htmlHash": "2b4311a7b1c5969cd507dcda4f547b44",
+  "attachments": [
+    "attachment.php?attach=28555&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0661</td><td>2003-05-09</td><td></td><td></td><td>,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of Order in Council P.C. 1996-3/152 of February 6, 1996 which retroceded to the Province of Quebec the administration and control of certain beach lots at Thurso.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2364&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0661",
-  "htmlHash": "a47d35243b0d5eb75b200edb671b2d36"
+  "htmlHash": "a47d35243b0d5eb75b200edb671b2d36",
+  "attachments": [
+    "attachment.php?attach=2364&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2488</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FARM CREDIT ACT INTEREST RATES REGULATIONS decreasing the\ninterest rate on 10-year loans and on loans with terms of 15 years or\ngreater from 13.5% to 12.875%.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0806  <strong>Publication Date:</strong> 1990-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2488",
-  "htmlHash": "12b6782981fe5292675cf1d9c9edf1ea"
+  "htmlHash": "12b6782981fe5292675cf1d9c9edf1ea",
+  "attachments": []
 }

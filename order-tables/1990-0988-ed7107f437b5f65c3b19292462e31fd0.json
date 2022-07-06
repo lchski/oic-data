@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0988</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Grant to the City of North York, for a term of forty-nine (49) years, of\ntwo easements and one right-of-way which will encumber the property situate\nat 4900 Yonge Street, in the City of North York, Ontario, in order to\nprovide for pedestrian connections between the Government of Canada\nBuilding, the Madison Centre and the Sheppard Centre.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0988",
-  "htmlHash": "ed7107f437b5f65c3b19292462e31fd0"
+  "htmlHash": "ed7107f437b5f65c3b19292462e31fd0",
+  "attachments": []
 }

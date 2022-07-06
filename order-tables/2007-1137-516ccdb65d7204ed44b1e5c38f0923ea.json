@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1137</td><td>2007-07-20</td><td></td><td></td><td>,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of HIGHER INITIAL PRICES to be paid by The Canadian Wheat Board for various grades of AMBER DURUM WHEAT delivered in the 2006-2007 crop year, other than the base grades.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16826&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1137",
-  "htmlHash": "516ccdb65d7204ed44b1e5c38f0923ea"
+  "htmlHash": "516ccdb65d7204ed44b1e5c38f0923ea",
+  "attachments": [
+    "attachment.php?attach=16826&lang=en"
+  ]
 }

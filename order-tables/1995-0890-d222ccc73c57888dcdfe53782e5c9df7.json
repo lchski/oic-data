@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0890</td><td>1995-06-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING LEASING ACTIVITIES BY CANADIAN WESTERN\nBANK - which authorizes the aforementioned to engage in automobile leasing\nactivities to the extent that such activities were carried out by the\nNorth West Trust Company prior to December 31, 1994, the day of its\namalgamation with the Canadian Western Bank.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0890",
-  "htmlHash": "d222ccc73c57888dcdfe53782e5c9df7"
+  "htmlHash": "d222ccc73c57888dcdfe53782e5c9df7",
+  "attachments": []
 }

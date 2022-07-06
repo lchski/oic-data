@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0959</td><td>2005-05-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Appointment Regulations, No. 2005-4</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILLIAM C. McDOWELL of Toronto, Ontario, to be Associate Deputy Minister of Justice, to hold office during pleasure, effective July 4, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0959",
-  "htmlHash": "28da54f814af7c818b982e69d243797d"
+  "htmlHash": "28da54f814af7c818b982e69d243797d",
+  "attachments": [
+    "attachment.php?attach=11114&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0851</td><td>2010-06-18</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of PATRICIA ANNE MacGREGOR of Barrie, Ontario, as Chairperson of the Boards of Referees for the Ontario Regional Division, and particularly for the District of Barrie, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22831&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0851",
-  "htmlHash": "696e896ed578efc0a239db1f47f94835"
+  "htmlHash": "696e896ed578efc0a239db1f47f94835",
+  "attachments": [
+    "attachment.php?attach=22831&lang=en"
+  ]
 }

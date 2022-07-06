@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0245</td><td>2010-03-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2010-238 of March 2, 2010, by replacing, in the French version, the words “président du conseil d’administration du Centre international des droits de la personne et du développement démocratique” with the words “président du Centre international des droits de la personne et du développement démocratique”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22223&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0245",
-  "htmlHash": "da57da56f50ba93678a2356084f62b98"
+  "htmlHash": "da57da56f50ba93678a2356084f62b98",
+  "attachments": [
+    "attachment.php?attach=22223&lang=en"
+  ]
 }

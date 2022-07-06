@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0380</td><td>1995-03-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EIC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Joan V. Rapsavage, of Hamilton, Ontario, as Chairperson of\nthe Boards of Referees for the Ontario Regional Division, and particularly\nfor the District of Hamilton, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0380",
-  "htmlHash": "578435e64bb943b0dfbd7b2a6d40c83a"
+  "htmlHash": "578435e64bb943b0dfbd7b2a6d40c83a",
+  "attachments": []
 }

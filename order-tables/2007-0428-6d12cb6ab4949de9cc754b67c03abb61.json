@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0428</td><td>2007-03-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the CANADIAN SECURITY INTELLIGENCE SERVICE ACT DEPUTY HEADS OF THE PUBLIC SERVICE OF CANADA ORDER by adding the following items to the schedule to this Order -\n(1) the Commissioner of the Office of the Public Sector Integrity Commissioner (Item 80.01); and\n(2) the Registrar of the Registry of the Public Servants Disclosure Protection Tribunal (Item 95.1);\neffective April 15, 2007.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0046  <strong>Publication Date:</strong> 2007-04-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16040&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0428",
-  "htmlHash": "6d12cb6ab4949de9cc754b67c03abb61"
+  "htmlHash": "6d12cb6ab4949de9cc754b67c03abb61",
+  "attachments": [
+    "attachment.php?attach=16040&lang=en"
+  ]
 }

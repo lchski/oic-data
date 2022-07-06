@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1417</td><td>2008-07-30</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment by the Minister of Natural Resources of CAROL S. PERRY of Toronto, Ontario, as a director of Atomic Energy of Canada Limited to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19269&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1417",
-  "htmlHash": "1be3a333a0630a16a3cdaea0217c18cc"
+  "htmlHash": "1be3a333a0630a16a3cdaea0217c18cc",
+  "attachments": [
+    "attachment.php?attach=19269&lang=en"
+  ]
 }

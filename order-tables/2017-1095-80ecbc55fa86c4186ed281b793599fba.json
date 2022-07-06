@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1095</td><td>2017-08-17</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2017-18</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Stephen de Boer as Ambassador and Permanent Representative of Canada to the World Trade Organization, in Geneva; André Frenette as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Haiti; Shauna Hemingway as Ambassador Extraordinary and Plenipotentiary of Canada to the Dominican Republic; Marcel Lebleu as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Colombia; Patricia Peña as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Chile; Caterina Ventura as High Commissioner for Canada in Brunei Darussalam; and Louis Verret as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Mali.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35002&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1095",
-  "htmlHash": "80ecbc55fa86c4186ed281b793599fba"
+  "htmlHash": "80ecbc55fa86c4186ed281b793599fba",
+  "attachments": [
+    "attachment.php?attach=35002&lang=en"
+  ]
 }

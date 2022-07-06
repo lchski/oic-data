@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1832</td><td>2005-10-25</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL FILM BOARD to enter into a COLLECTIVE AGREEMENT with THE PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA that is applicable to employees in the Administrative and Foreign Service and in the Scientific and Professional bargaining units and would expire on June 30, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13309&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1832",
-  "htmlHash": "82aecf4c2788ccb011924ff60a8d5b61"
+  "htmlHash": "82aecf4c2788ccb011924ff60a8d5b61",
+  "attachments": [
+    "attachment.php?attach=13309&lang=en"
+  ]
 }

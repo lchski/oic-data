@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0490</td><td>2010-04-22</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Muskowekwan Band \nSETTING APART\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of 61.770 hectares (152.64 acres) of surface lands, an undivided three fourths interest in all mines and minerals in 62.686 hectares (154.9 acres) and all mines and minerals in 2.064 hectares (5.1 acres), for the use and benefit of the MUSKOWEKWAN BAND as Muskowekwan Indian Reserve N° 85-60, located in the Rural Municipality of Kellross N° 247 at approximately 12 kilometres from the Village of Leross, Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22465&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0490",
-  "htmlHash": "e8877dcfc54e030ac18588b10b89e347"
+  "htmlHash": "e8877dcfc54e030ac18588b10b89e347",
+  "attachments": [
+    "attachment.php?attach=22465&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0182</td><td>2010-02-10</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE MYRA B. BIELBY to be a Justice of Appeal of the Court of Appeal of Alberta, and a member ex officio of the Court of Queen's Bench of Alberta and a Judge of the Court of Appeal for the Northwest Territories and a Judge of the Court of Appeal of Nunavut during her tenure of office as a Justice of Appeal of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0182",
-  "htmlHash": "efa8deefb16ed9d9b21471bf791afdbf"
+  "htmlHash": "efa8deefb16ed9d9b21471bf791afdbf",
+  "attachments": [
+    "attachment.php?attach=22158&lang=en"
+  ]
 }

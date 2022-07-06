@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0113</td><td>2010-02-02</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Morocco - Convention on Social Security * coming into force *  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue giving notice to the general public that the CONVENTION ON SOCIAL SECURITY between the Government of CANADA and the Government of the KINGDOM OF MOROCCO, signed on July 1, 1998, will be in force as of MARCH 1, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22087&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0113",
-  "htmlHash": "693fec8268cf65bea7dd092ccba3c70e"
+  "htmlHash": "693fec8268cf65bea7dd092ccba3c70e",
+  "attachments": [
+    "attachment.php?attach=22087&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1120</td><td>2017-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Import Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the IMPORT CONTROL LIST (ICL) in order to (1) amend the ICL in order to add Comprehensive Economic and Trade Agreement import Origin Quotas-eligible goods to the ICL; (2) remove imports controls for certain beef and veal, as well as milk protein substances; and 3) update the Harmonized System codes or descriptions for certain ICL items.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0171  <strong>Publication Date:</strong> 2017-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35027&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1120",
-  "htmlHash": "0ba917e8dd0892f64884a7e4b11a9688"
+  "htmlHash": "0ba917e8dd0892f64884a7e4b11a9688",
+  "attachments": [
+    "attachment.php?attach=35027&lang=en"
+  ]
 }

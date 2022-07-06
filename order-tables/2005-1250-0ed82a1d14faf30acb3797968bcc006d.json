@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1250</td><td>2005-06-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE GARY ALBERT FILMON, P.C., of Winnipeg, Manitoba, to be Chairman of the Security Intelligence Review Committee to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11805&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1250",
-  "htmlHash": "0ed82a1d14faf30acb3797968bcc006d"
+  "htmlHash": "0ed82a1d14faf30acb3797968bcc006d",
+  "attachments": [
+    "attachment.php?attach=11805&lang=en"
+  ]
 }

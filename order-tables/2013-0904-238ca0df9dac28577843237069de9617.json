@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0904</td><td>2013-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Duties Order (International Experience Canada Program Unit)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order, pursuant to paragraph 2(a) of the Public Service Rearrangement and Transfer of Duties Act, transferring from the Department of Foreign Affairs, Trade and Development to the Department of Citizenship and Immigration the control and supervision of that portion of the federal public administration, in the Global Business Opportunities Bureau, known as the International Experience Canada Program Unit, effective August 31, 2013.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0096  <strong>Publication Date:</strong> 2013-09-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28160&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0904",
-  "htmlHash": "238ca0df9dac28577843237069de9617"
+  "htmlHash": "238ca0df9dac28577843237069de9617",
+  "attachments": [
+    "attachment.php?attach=28160&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1511</td><td>2010-12-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; CPC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Services and Fees Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS, by increasing the rate charged for registered mail delivered in Canada, effective January 17, 2011.  The amendments implement a $0.15 increase, to $8.10, for registered mail delivered in Canada (an increase of 1.9 %).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0287  <strong>Publication Date:</strong> 2010-12-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23457&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1511",
-  "htmlHash": "276b5a390238d8ba7969c8d61526a612"
+  "htmlHash": "276b5a390238d8ba7969c8d61526a612",
+  "attachments": [
+    "attachment.php?attach=23457&lang=en"
+  ]
 }

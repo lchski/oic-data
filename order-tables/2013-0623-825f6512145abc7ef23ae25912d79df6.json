@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0623</td><td>2013-05-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Water Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Yukon Hydrometric monitoring ** AGREEMENT **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of the Environment to enter into, on behalf of Her Majesty in right of Canada, a HYDROMETRIC MONITORING AGREEMENT with the Government of YUKON.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27877&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0623",
-  "htmlHash": "825f6512145abc7ef23ae25912d79df6"
+  "htmlHash": "825f6512145abc7ef23ae25912d79df6",
+  "attachments": [
+    "attachment.php?attach=27877&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0193</td><td>2022-03-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Issuance of Certificates Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the ISSUANCE OF CERTIFICATES REGULATIONS (MISCELLANEOUS PROGRAM) in order to provide coherence to multiple regulatory provisions in accordance with the customs tariffs which entered into effect January 1, 2022.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0038  <strong>Publication Date:</strong> 2022-03-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41676&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0193",
-  "htmlHash": "357f63b0e6a596ac047b0a5446d30367"
+  "htmlHash": "357f63b0e6a596ac047b0a5446d30367",
+  "attachments": [
+    "attachment.php?attach=41676&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2190</td><td>2005-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; PCO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of WENDY A. TADROS of Ottawa, Ontario, a full-time member of the Canadian Transportation Accident Investigation and Safety Board, to act as Chairperson during any absence or incapacity of the Chairperson or during a vacancy in the office of Chairperson, effective December 9, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13867&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2190",
-  "htmlHash": "32e21689d634bb5b9d94d67aa6142f07"
+  "htmlHash": "32e21689d634bb5b9d94d67aa6142f07",
+  "attachments": [
+    "attachment.php?attach=13867&lang=en"
+  ]
 }

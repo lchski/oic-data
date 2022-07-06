@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0910</td><td>2014-08-15</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Firearms Records Regulations (Classification)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FIREARMS RECORDS REGULATIONS (CLASSIFICATION) in order to require the Registrar of Firearms to keep a record of every classification determination made by them, and to prohibit the amendment of those records one year after the day on which the record is made.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0198  <strong>Publication Date:</strong> 2014-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29727&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0910",
-  "htmlHash": "6c2eca9363a108f8065b251dc6b3a110"
+  "htmlHash": "6c2eca9363a108f8065b251dc6b3a110",
+  "attachments": [
+    "attachment.php?attach=29727&lang=en"
+  ]
 }

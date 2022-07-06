@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0503</td><td>2007-04-02</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE RAYMOND J. HALLEY, Q.C., of St. John's, Newfoundland and Labrador, to be a member of the Pension Appeals Board.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16170&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0503",
-  "htmlHash": "c4cb72fa15db03e722c956541d0f7a43"
+  "htmlHash": "c4cb72fa15db03e722c956541d0f7a43",
+  "attachments": [
+    "attachment.php?attach=16170&lang=en"
+  ]
 }

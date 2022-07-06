@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1967</td><td>2001-10-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2001, NO. 04, HORSESHOE SLOUGH HABITAT PROTECTION AREA, Y.T. ) -\nwhich prohibits entry into certain areas of the Yukon for the purposes of\nprospecting or staking mineral claims, to ensure protection of the\nHorseshoe Slough Habitat Protection Area.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0466  <strong>Publication Date:</strong> 2001-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1967",
-  "htmlHash": "7d3f2e37f0f13ccda40dfd2443f32d8d"
+  "htmlHash": "7d3f2e37f0f13ccda40dfd2443f32d8d",
+  "attachments": []
 }

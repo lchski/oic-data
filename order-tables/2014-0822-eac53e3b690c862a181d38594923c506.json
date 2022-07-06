@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0822</td><td>2014-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; PWGSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Parc Downsview Park Inc-Centennial College of Applied Arts and Technology ** Leasing **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing paragraph (e) of Order in Council P.C. 2012-0792 of June 7, 2012; and (2) authorizing PARC DOWNSVIEW PARK INC. to lease to the Centennial College of Applied Arts and Technology the property of approximately four acres held by Parc Downsview Park Inc. at 65 Carl Hall Road, Toronto, for a term of 20 years, with two renewal options, and to retain and use the proceeds from the lease.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29512&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0822",
-  "htmlHash": "eac53e3b690c862a181d38594923c506"
+  "htmlHash": "eac53e3b690c862a181d38594923c506",
+  "attachments": [
+    "attachment.php?attach=29512&lang=en"
+  ]
 }

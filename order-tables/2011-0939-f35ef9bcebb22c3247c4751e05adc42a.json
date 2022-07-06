@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0939</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Mi'kmaq Education Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding the Paq'tnkek Band to the Schedule to the Mi'kmaq Education Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order adding the PAQ'TNKEK BAND to the schedule to the Mi'kmaq Education Act in order to advise the public and stakeholders, in the interest of transparency, of the amendment to the Schedule to the Mi'kmaq Education Act, S.C. 1998, c. 24.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0190  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24617&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0939",
-  "htmlHash": "f35ef9bcebb22c3247c4751e05adc42a"
+  "htmlHash": "f35ef9bcebb22c3247c4751e05adc42a",
+  "attachments": [
+    "attachment.php?attach=24617&lang=en"
+  ]
 }

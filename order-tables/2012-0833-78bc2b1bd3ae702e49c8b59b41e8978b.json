@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0833</td><td>2012-06-19</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Inspectors ** RCMP ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing four members of the Royal Canadian Mounted Police to the rank of Inspector and authorizing the issue of a commission under the Great Seal of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26248&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0833",
-  "htmlHash": "78bc2b1bd3ae702e49c8b59b41e8978b"
+  "htmlHash": "78bc2b1bd3ae702e49c8b59b41e8978b",
+  "attachments": [
+    "attachment.php?attach=26248&lang=en"
+  ]
 }

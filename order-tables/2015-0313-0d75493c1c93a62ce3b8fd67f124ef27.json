@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0313</td><td>2015-03-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; CNSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Safety and Control Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Nuclear Safety and Control Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE NUCLEAR SAFETY AND CONTROL ACT (MISCELLANEOUS PROGRAM) in order to respond to the Standing Joint Committee for the Scrutiny of Regulations recommendations by (1) clarifying regulatory text to make requirements easier to understand and implement; (2) correcting minor inconsistencies and language discrepancies between the French and English versions of the regulations; and (3) updating the regulations to bring them more in line with their legislative authority.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0067  <strong>Publication Date:</strong> 2015-03-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30635&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0313",
-  "htmlHash": "0d75493c1c93a62ce3b8fd67f124ef27"
+  "htmlHash": "0d75493c1c93a62ce3b8fd67f124ef27",
+  "attachments": [
+    "attachment.php?attach=30635&lang=en"
+  ]
 }

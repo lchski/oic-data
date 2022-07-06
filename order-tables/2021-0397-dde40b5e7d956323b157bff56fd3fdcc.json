@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0397</td><td>2021-05-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IRCC,&nbsp; GAC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Certain Fees in Respect of the Issuance and Replacement of Identity and Travel Documents (Crash of Ukraine International Airlines Flight PS752) Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CERTAIN FEES IN RESPECT OF THE ISSUANCE AND REPLACEMENT OF IDENTITY AND TRAVEL DOCUMENTS (CRASH OF UKRAINE INTERNATIONAL AIRLINES FLIGHT PS752) REMISSION ORDER in order to remit the fees relating to the issuance of Canadian travel documents, permanent resident cards, permanent resident travel documents, citizenship certificates, and electronic Travel Authorizations for those impacted by the January 2020 crash of Ukraine International Airlines Flight PS752 in Iran.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0021  <strong>Publication Date:</strong> 2021-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40621&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0397",
-  "htmlHash": "dde40b5e7d956323b157bff56fd3fdcc"
+  "htmlHash": "dde40b5e7d956323b157bff56fd3fdcc",
+  "attachments": [
+    "attachment.php?attach=40621&lang=en"
+  ]
 }

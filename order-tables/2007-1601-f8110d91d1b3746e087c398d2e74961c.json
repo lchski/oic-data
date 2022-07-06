@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1601</td><td>2007-10-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">*** FLAG ***\nTo authorize the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, a JOINT LETTER from the UNITED STATES (the \"U.S.\") and Canada pursuant to paragraph 5 of the Procedures for the Implementation of Article XXI of the GENERAL AGREEMENT ON TRADE IN SERVICES.  The letter will set out an agreed compensation package from the U.S., resulting from the U.S.’ withdrawal of commitments for gambling and betting services from its Uruguay Round commitments in the World Trade Organization (WTO) General Agreement on Trade in Services (GATS).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17302&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1601",
-  "htmlHash": "f8110d91d1b3746e087c398d2e74961c"
+  "htmlHash": "f8110d91d1b3746e087c398d2e74961c",
+  "attachments": [
+    "attachment.php?attach=17302&lang=en"
+  ]
 }

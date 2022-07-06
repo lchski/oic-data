@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0703</td><td>2021-07-01</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Order in Council P.C. 2007-281 of March 2, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of NORA KATHLEEN SPINKS of Mississippi Mills, Ontario, as a member of the National Seniors Council, to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41005&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0703",
-  "htmlHash": "d0de9821a7013ce99ad6bad1d9d59e31"
+  "htmlHash": "d0de9821a7013ce99ad6bad1d9d59e31",
+  "attachments": [
+    "attachment.php?attach=41005&lang=en"
+  ]
 }

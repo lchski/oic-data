@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2252</td><td>1998-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUPPLEMENTARY AGREEMENT that will amend the\ndefinitions of \"watercourse\" and \"inter-provincial lakes\" set forth in the\nMASTER AGREEMENT administered by the PRAIRIE PROVINCES WATER BOARD, as well\nas replace the references to the Exchequer Court of Canada with references\nto the Federal Court of Canada, and re-define \"apportionment period\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2252",
-  "htmlHash": "7eeb33e368cbbef1dd6cdc5427e18e29"
+  "htmlHash": "7eeb33e368cbbef1dd6cdc5427e18e29",
+  "attachments": []
 }

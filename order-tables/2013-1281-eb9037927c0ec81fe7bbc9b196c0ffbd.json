@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1281</td><td>2013-11-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CIC,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS in order to support the effective implementation of the new authority for refusal and further enhance the safety and security of Canadians.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0210  <strong>Publication Date:</strong> 2013-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28546&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1281",
-  "htmlHash": "eb9037927c0ec81fe7bbc9b196c0ffbd"
+  "htmlHash": "eb9037927c0ec81fe7bbc9b196c0ffbd",
+  "attachments": [
+    "attachment.php?attach=28546&lang=en"
+  ]
 }

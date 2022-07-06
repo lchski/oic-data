@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1491</td><td>1999-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ORGANIZATION OF AMERICAN STATES PRIVILEGES AND IMMUNITIES\nIN CANADA ORDER - which provides that this organization shall, in Canada,\nhave the legal capacities of a body corporate, and certain privileges and\nimmunities set out in the Convention on the Privileges and Immunities of\nthe United Nations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0350  <strong>Publication Date:</strong> 1999-09-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1491",
-  "htmlHash": "0c7fb754a43634a7d82298b75779b33b"
+  "htmlHash": "0c7fb754a43634a7d82298b75779b33b",
+  "attachments": []
 }

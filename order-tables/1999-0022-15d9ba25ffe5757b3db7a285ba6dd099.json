@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0022</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA PENSION PLAN REGULATIONS by establishing\nthe maximum contribution, the maximum pensionable earnings and the premiums\npayable for 1999, and by exempting certain kinds of employment with the\nProvince of British Columbia from paying premiums and earning pension\nbenefits under the Plan.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0060  <strong>Publication Date:</strong> 1999-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0022",
-  "htmlHash": "15d9ba25ffe5757b3db7a285ba6dd099"
+  "htmlHash": "15d9ba25ffe5757b3db7a285ba6dd099",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0973</td><td>2021-11-29</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE JULIE DUTIL, a puisne judge of the Court of Appeal of Quebec, to be a member of the Independent Judicial Advisory Committee for the Province of Quebec - East, to hold office during pleasure for a term ending on December 1, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41336&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0973",
-  "htmlHash": "367316ec63f50c20db7927d606d7f5aa"
+  "htmlHash": "367316ec63f50c20db7927d606d7f5aa",
+  "attachments": [
+    "attachment.php?attach=41336&lang=en"
+  ]
 }

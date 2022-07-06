@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0809</td><td>2006-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">LITHUANIA - Agreement on Social Security  ** PROCLAMATION **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue giving notice that the AGREEMENT ON SOCIAL SECURITY between Canada and the REPUBLIC OF LITHUANIA will be in force as of November 1, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14800&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0809",
-  "htmlHash": "255cb7d47bf4aa2d66f2594d215ccb3e"
+  "htmlHash": "255cb7d47bf4aa2d66f2594d215ccb3e",
+  "attachments": [
+    "attachment.php?attach=14800&lang=en"
+  ]
 }

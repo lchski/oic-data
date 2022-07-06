@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0311</td><td>1997-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-ALBERTA SUGAR BEET INDUSTRY DEVELOPMENT\nCOMPANION AGREEMENT for the purpose of promoting and improving the\ncompetitiveness of the sugar beet industry in Alberta.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0311",
-  "htmlHash": "e0ada5a839f9016b118422b6b9b66a64"
+  "htmlHash": "e0ada5a839f9016b118422b6b9b66a64",
+  "attachments": []
 }

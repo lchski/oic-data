@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0358</td><td>1996-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for (a) the Right Hon. Jean Chrétien or the Minister of Foreign\nAffairs to sign a PROTOCOL to the AGREEMENT between Canada and the\nINTERNATIONAL FUND FOR IRELAND, or (b) the Minister of Foreign Affairs to\nissue a Instrument of Full Powers authorizing the Hon. Royce Frith or\nSerge April, to sign the said Protocol.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0358",
-  "htmlHash": "eedba7bce778b76922e8edeb91273fa1"
+  "htmlHash": "eedba7bce778b76922e8edeb91273fa1",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0607</td><td>2006-06-23</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER AMENDING THE SCHEDULE TO THE CUSTOMS TARIFF (HARMONIZED SYSTEM CONVERSION, 2007), No. 1 which renumbere and describe tariff intems to ensure that duties are indentical to the rates to the Harmonized System.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0167  <strong>Publication Date:</strong> 2006-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14518&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0607",
-  "htmlHash": "97d24f7662d8f14d8e8cdaa4c64f8f7d"
+  "htmlHash": "97d24f7662d8f14d8e8cdaa4c64f8f7d",
+  "attachments": [
+    "attachment.php?attach=14518&lang=en"
+  ]
 }

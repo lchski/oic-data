@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2807</td><td>1990-12-20</td><td>0</td><td></td><td>,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of BRITISH COLUMBIA of the administration and\ncontrol over some 34.058 hectares of surplus vacant land lying on the\nnorth slope of Burnaby Mountain, south of the Barnet Highway, in the\nMunicipality of BURNABY, British Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2807",
-  "htmlHash": "739608df26cb9581b635e331da3a19f3"
+  "htmlHash": "739608df26cb9581b635e331da3a19f3",
+  "attachments": []
 }

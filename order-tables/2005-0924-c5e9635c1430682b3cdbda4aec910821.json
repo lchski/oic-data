@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0924</td><td>2005-05-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Copyright Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DEFINITION OF SMALL CABLE TRANSMISSION SYSTEM REGULATIONS by making them consistent with recent changes implemented by the Canadian Radio-television and Telecommunications Commission regarding licensing of small distribution systems.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0148  <strong>Publication Date:</strong> 2005-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11288&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0924",
-  "htmlHash": "c5e9635c1430682b3cdbda4aec910821"
+  "htmlHash": "c5e9635c1430682b3cdbda4aec910821",
+  "attachments": [
+    "attachment.php?attach=11288&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0949</td><td>2008-05-15</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Copyright Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER THE COPYRIGHT ACT (MISCELLANEOUS PROGRAM) by modifying a number of technical issues pertaining to legal interpretation and consistency of language regarding two sets of regulations namely, BOOK IMPORTATION REGULATIONS and EXCEPTIONS FOR EDUCATIONAL INSTITUTIONS, LIBRARIES, ARCHIVES AND MUSEUMS REGULATIONS.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0169  <strong>Publication Date:</strong> 2008-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18790&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0949",
-  "htmlHash": "8122a105047d138a015a273ac65c636b"
+  "htmlHash": "8122a105047d138a015a273ac65c636b",
+  "attachments": [
+    "attachment.php?attach=18790&lang=en"
+  ]
 }

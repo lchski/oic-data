@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1188</td><td>2004-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a FINAL AGREEMENT, a SELF-GOVERNMENT AGREEMENT and associated IMPLEMENTATION PLANS with the KWANLIN DUN FIRST NATION and the Government of YUKON, as well as a FINANCIAL TRANSFER AGREEMENT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8245&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1188",
-  "htmlHash": "cddb6b7f8e63f35ed9d35101f6645206"
+  "htmlHash": "cddb6b7f8e63f35ed9d35101f6645206",
+  "attachments": [
+    "attachment.php?attach=8245&lang=en"
+  ]
 }

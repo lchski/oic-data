@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1778</td><td>2003-11-06</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ACT which amend the following Regulations:\n\n\n- Proceeds of Crime (Money Laundering) \n  and Terrorist Financing Suspicious \n  Transaction Reporting Regulations;\n- Proceeds of Crime (Money Laundering) \n  and Terrorist Financing Regulations;\n- Cross-Border Currency and Monetary \n  Instruments Reporting Regulations; and\n- Regulations Amending the Proceeds of \n  Crime (Money Laundering) and Terrorist \n  Financing Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0358  <strong>Publication Date:</strong> 2003-11-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1778",
-  "htmlHash": "4d3c82fecf151949770ed8de4e567864"
+  "htmlHash": "4d3c82fecf151949770ed8de4e567864",
+  "attachments": [
+    "attachment.php?attach=4744&lang=en"
+  ]
 }

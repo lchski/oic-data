@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1882</td><td>2009-11-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Prowse, the Hon. Janet A. ** RESIGNATION AND ANNUITY **\nSupreme Court of British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. JANET A. PROWSE, a Judge of the Supreme Court of British Columbia, effective November 1, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21770&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1882",
-  "htmlHash": "feba55f732fc4f15878539129ca71f92"
+  "htmlHash": "feba55f732fc4f15878539129ca71f92",
+  "attachments": [
+    "attachment.php?attach=21770&lang=en"
+  ]
 }

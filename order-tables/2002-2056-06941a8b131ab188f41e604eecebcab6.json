@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2056</td><td>2002-12-03</td><td></td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CYRUS M. STANDING of Saskatoon, Saskatchewan, to be a full-time member of the National Parole Board, Prairies Regional Division, to hold office during good behaviour for a period of three years, effective January 5, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=530&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2056",
-  "htmlHash": "06941a8b131ab188f41e604eecebcab6"
+  "htmlHash": "06941a8b131ab188f41e604eecebcab6",
+  "attachments": [
+    "attachment.php?attach=530&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0394</td><td>1995-03-14</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">UNITED NATIONS REPUBLIC OF BOSNIA AND HERZEGOVINA REGULATIONS implementing\nthe United Nations Security Council Resolution 942 (1994) which imposed\nsanctions against those areas of the Republic of Bosnia and Herzegovina\nunder the control of the Bosnian Serb forces.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0145  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0394",
-  "htmlHash": "757a3b74744bda19532036d7e378f8b7"
+  "htmlHash": "757a3b74744bda19532036d7e378f8b7",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0224</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de East Angus et Région\nCHANGE NAME / BOUNDARIES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE EAST ANGUS ET RÉGION, in Quebec (a) to change its name to the CHAMBRE DE COMMERCE DU HAUT-SAINT-FRANÇOIS; and (b) to change the boundaries of its district to Ascot Corner, Bury, Chartierville, Cookshire-Eaton, East-Angus, Hampden, La Patrie, Newport, Scotstown, Saint-Isidore-de-Clifton and the Township of Westbury.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22196&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0224",
-  "htmlHash": "ed133d26ed2405879ba589d9fbcd2488"
+  "htmlHash": "ed133d26ed2405879ba589d9fbcd2488",
+  "attachments": [
+    "attachment.php?attach=22196&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0998</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DORIS CHOUINARD, of Rimouski, Quebec, as Chairman of\nthe Boards of Referees for the Quebec Regional Division, and particularly\nfor the District of Rimouski, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0998",
-  "htmlHash": "d81db34e54bc24c7f21f8aab3e6bdeff"
+  "htmlHash": "d81db34e54bc24c7f21f8aab3e6bdeff",
+  "attachments": []
 }

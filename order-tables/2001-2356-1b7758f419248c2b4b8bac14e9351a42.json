@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2356</td><td>2001-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the COMPETENCY OF OPERATORS OF PLEASURE CRAFT\nREGULATIONS by authorizing the Canadian Coast Guard to suspend or revoke\nthe accreditation of a boating safety course or test where it believes that\nthey are being administered in such a manner that a participant's knowledge\nof these matters is doubtful.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0018  <strong>Publication Date:</strong> 2002-01-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2356",
-  "htmlHash": "1b7758f419248c2b4b8bac14e9351a42"
+  "htmlHash": "1b7758f419248c2b4b8bac14e9351a42",
+  "attachments": []
 }

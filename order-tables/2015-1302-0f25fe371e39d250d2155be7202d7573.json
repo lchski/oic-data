@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1302</td><td>2015-12-16</td><td></td><td></td><td>INFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DWIGHT DOUGLAS DUNCAN of Windsor, Ontario, to be Chairperson of the Windsor-Detroit Bridge Authority, on an interim basis, to hold office during pleasure until such time as a new Chairperson is appointed, effective January 1, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31660&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1302",
-  "htmlHash": "0f25fe371e39d250d2155be7202d7573"
+  "htmlHash": "0f25fe371e39d250d2155be7202d7573",
+  "attachments": [
+    "attachment.php?attach=31660&lang=en"
+  ]
 }

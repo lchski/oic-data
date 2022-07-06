@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1518</td><td>1992-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for International Trade of\nNairn (Buz) Knott, of Vancouver, British Columbia, as a director of the\nBoard of Directors of the Export Development Corporation to hold office\nduring pleasure for a term of three years, in the place of John Humphries,\nwhose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1518",
-  "htmlHash": "5eff3fce22f1a44b77c1c664dd0f35c9"
+  "htmlHash": "5eff3fce22f1a44b77c1c664dd0f35c9",
+  "attachments": []
 }

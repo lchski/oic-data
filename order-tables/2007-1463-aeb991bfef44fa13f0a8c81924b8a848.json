@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1463</td><td>2007-09-27</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the issuance to ENCANA CORPORATION of a Certificate of Public Convenience and Necessity (No. GC-111)  for the construction and operation of the Deep Panuke Pipeline as part of the Deep Panuke Offshore Gas Development Project.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17160&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1463",
-  "htmlHash": "aeb991bfef44fa13f0a8c81924b8a848"
+  "htmlHash": "aeb991bfef44fa13f0a8c81924b8a848",
+  "attachments": [
+    "attachment.php?attach=17160&lang=en"
+  ]
 }

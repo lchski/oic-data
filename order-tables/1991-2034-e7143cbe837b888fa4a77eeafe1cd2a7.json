@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2034</td><td>1991-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\nMichael R. Bell or Gerald R. Skinner to sign the CONVENTION FOR THE\nCONSERVATION OF ANADROMOUS STOCKS in the NORTH PACIFIC.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2034",
-  "htmlHash": "e7143cbe837b888fa4a77eeafe1cd2a7"
+  "htmlHash": "e7143cbe837b888fa4a77eeafe1cd2a7",
+  "attachments": []
 }

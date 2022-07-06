@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0858</td><td>2011-07-29</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Irving Goldenberg ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. IRVING GOLDENBERG, a Judge of Her Majesty's Court of Queen's Bench for Saskatchewan, effective September 1, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24535&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0858",
-  "htmlHash": "1cc5151d81d903adc32ef0aa06fdbf23"
+  "htmlHash": "1cc5151d81d903adc32ef0aa06fdbf23",
+  "attachments": [
+    "attachment.php?attach=24535&lang=en"
+  ]
 }

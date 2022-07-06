@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0109</td><td>2016-03-02</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Indian Affairs and Northern Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HÉLÈNE LAURENDEAU of Gatineau, Quebec, to be Deputy Minister of Indian Affairs and Northern Development to be styled Deputy Minister of Indigenous and Northern Affairs, to hold office during pleasure, effective April 4, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31784&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0109",
-  "htmlHash": "7cc749337c3971818689b0ddf8e1262a"
+  "htmlHash": "7cc749337c3971818689b0ddf8e1262a",
+  "attachments": [
+    "attachment.php?attach=31784&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2221</td><td>2005-11-28</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1346 - MAXIMUM RESIDUE LIMITS FOR VETERINARY DRUGS) which set limits on the maximum amount of drug residue allowed in the meat and organs of animals who were treated with certain veterinary drugs (CEFTIOFUR, MONENSIN, PIRLIMYCIN and TEFLUBENZURON).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0396  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13534&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2221",
-  "htmlHash": "9890d6028d736e6529ea25bd9f49188e"
+  "htmlHash": "9890d6028d736e6529ea25bd9f49188e",
+  "attachments": [
+    "attachment.php?attach=13534&lang=en"
+  ]
 }

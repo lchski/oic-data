@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1072</td><td>2007-06-27</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Convention for the Conservation of Salmon in the North Atlantic Ocean</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of EARLE McCURDY of St. John's, Newfoundland and Labrador, as a Canadian representative to the General Council of the Northwest Atlantic Fisheries Organization to hold office during pleasure for a term ending February 6, 2009; and reappointment of EARLE McCURDY of St. John's, Newfoundland and Labrador, as a Canadian representative to the Fisheries Commission of the Northwest Atlantic Fisheries Organization to hold office during pleasure for a term ending February 6, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1072",
-  "htmlHash": "cde819f30c36de35ba030232f7540db3"
+  "htmlHash": "cde819f30c36de35ba030232f7540db3",
+  "attachments": [
+    "attachment.php?attach=16762&lang=en"
+  ]
 }

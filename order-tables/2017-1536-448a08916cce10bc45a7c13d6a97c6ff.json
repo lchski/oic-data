@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1536</td><td>2017-12-08</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Whitefish Lake First Nation Treaty 8 Agricultural Benefits Specific Claim Settlement Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister to execute the Settlement Agreement to settle the WHITEFISH LAKE FIRST NATION TREATY 8 AGRICULTURAL BENEFITS SPECIFIC CLAIM to obtain certainty and finality in relation to this Claim.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1536",
-  "htmlHash": "448a08916cce10bc45a7c13d6a97c6ff"
+  "htmlHash": "448a08916cce10bc45a7c13d6a97c6ff",
+  "attachments": [
+    "attachment.php?attach=35446&lang=en"
+  ]
 }

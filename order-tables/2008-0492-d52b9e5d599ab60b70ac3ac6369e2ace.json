@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0492</td><td>2008-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Agricultural Marketing Programs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the AGRICULTURAL MARKETING PROGRAMS REGULATIONS which authorizes Canadian cattle producers to have access to Advance Payments Program emergency advances for reasons of severe economic hardship under the provisions of the AGRICULTURAL MARKETING PROGRAMS ACT.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18313&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0492",
-  "htmlHash": "d52b9e5d599ab60b70ac3ac6369e2ace"
+  "htmlHash": "d52b9e5d599ab60b70ac3ac6369e2ace",
+  "attachments": [
+    "attachment.php?attach=18313&lang=en"
+  ]
 }

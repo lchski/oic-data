@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1308</td><td>2007-08-17</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Radiocommunication Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the RADIOCOMMUNICATION ACT (SUBSECTION 4(1) AND PARAGRAPH 9(1)(B)) EXEMPTION ORDER (SECURITY, SAFETY AND INTERNATIONAL RELATIONS), NO. 2007-1 - which exempts the RCMP from the application of this Act with respect to interfering with radiocommunication signals during the visit to Canada in August 2007 of U.S. President George W. Bush.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0193  <strong>Publication Date:</strong> 2007-09-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16932&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1308",
-  "htmlHash": "e9eadb4dd000900025aa1d1ef792afa1"
+  "htmlHash": "e9eadb4dd000900025aa1d1ef792afa1",
+  "attachments": [
+    "attachment.php?attach=16932&lang=en"
+  ]
 }

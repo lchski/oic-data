@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0101</td><td>2003-01-30</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) terminating the following appointments:\n\n- Russell L. DILLON\n- Ion IONESCU\n\n(b) appointing the following Marine Safety Inspectors as STEAMSHIP INSPECTORS or INSPECTORS OF SHIPS' TACKLE, or both:\n\n\n\n- Mansoor AHMDED\n- Esther CUNNIGHAM\n- John DALZIEL\n- Robert FREAKE\n- Ion IONESCU\n- Jean-Antoine LATULIPE</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1160&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0101",
-  "htmlHash": "27d2ce41649680d94bcabdc1582e7cd9"
+  "htmlHash": "27d2ce41649680d94bcabdc1582e7cd9",
+  "attachments": [
+    "attachment.php?attach=1160&lang=en"
+  ]
 }

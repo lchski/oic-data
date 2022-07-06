@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1476</td><td>2003-09-30</td><td></td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Security Intelligence Service Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of EVA PLUNKETT of Alcove, Quebec, to be the Inspector General of the Canadian Security Intelligence Service to hold office during pleasure for a term of five years, effective December 1, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1476",
-  "htmlHash": "e2d13b52644147bfe29f89bfaeb08d8b"
+  "htmlHash": "e2d13b52644147bfe29f89bfaeb08d8b",
+  "attachments": [
+    "attachment.php?attach=4075&lang=en"
+  ]
 }

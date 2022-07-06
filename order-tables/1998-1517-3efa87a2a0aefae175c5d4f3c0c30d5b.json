@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1517</td><td>1998-08-26</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RADIOCOMMUNICATION REGULATIONS by eliminating the\ninconsistency between subsections 21(4) and 22(2) as they relate to\nAcceptance Certificates and to compliance with standards, and by extending\nthe application of section 24 to those who import radio devices and\ninterference-causing or radio-sensitive equipment.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0437  <strong>Publication Date:</strong> 1998-09-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1517",
-  "htmlHash": "3efa87a2a0aefae175c5d4f3c0c30d5b"
+  "htmlHash": "3efa87a2a0aefae175c5d4f3c0c30d5b",
+  "attachments": []
 }

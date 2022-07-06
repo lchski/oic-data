@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0256</td><td>2016-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 179 (Prince Edward Island) Provincial Emergency Financial Assistance</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 179 which makes a declaration of federal concern and authorizes the provision of financial assistance to the province of PRINCE EDWARD ISLAND with respect to the HEAVY RAINFALL AND FLOODING, that affected the province, from December 9 to 12, 2014.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0256",
-  "htmlHash": "d8dbf045379d0d8526cc71c2c8f09f31"
+  "htmlHash": "d8dbf045379d0d8526cc71c2c8f09f31",
+  "attachments": [
+    "attachment.php?attach=31931&lang=en"
+  ]
 }

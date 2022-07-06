@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0887</td><td>2004-07-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Establishment of freight adjustment payments for wheat, extra strong wheat, amber durum wheat, barley and designated barley to be delivered to The Canadian Wheat Board in the 2003-2004 pool period, effective August 1, 2004.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7564&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0887",
-  "htmlHash": "c8d660be49a120552be5bedc53389b68"
+  "htmlHash": "c8d660be49a120552be5bedc53389b68",
+  "attachments": [
+    "attachment.php?attach=7564&lang=en"
+  ]
 }

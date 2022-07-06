@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0981</td><td>2020-12-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pest Control Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Pest Control Products Regulations (Sodium Bromide and Potassium Monopersulfate)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the PEST CONTROL PRODUCTS REGULATIONS (SODIUM BROMIDE AND POTASSIUM MONOPERSULFATE) in order to remove sodium bromide at a 35% concentration and potassium monopersulfate at a 32% concentration from the list of spa products in Schedule 2 of the Regulations that are exempted from registration, subject to certain conditions, clarifying that these products are not authorized.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0263  <strong>Publication Date:</strong> 2020-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39991&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0981",
-  "htmlHash": "af6527b735195d6db2d4dceca970a7b8"
+  "htmlHash": "af6527b735195d6db2d4dceca970a7b8",
+  "attachments": [
+    "attachment.php?attach=39991&lang=en"
+  ]
 }

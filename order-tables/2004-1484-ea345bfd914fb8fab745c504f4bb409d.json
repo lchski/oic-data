@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1484</td><td>2004-12-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IT</td></tr><tr><td>Act</td><td colspan=\"5\">North American Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOCK A. FINLAYSON of West Vancouver, British Columbia; L. YVES FORTIER of Westmount, Quebec; KIRSTEN M. GOODWIN of Gatineau, Quebec; MAUREEN IRISH of Windsor, Ontario; LEONARD H. LEGAULT of Ottawa, Ontario; SELMA M. LUSSENBURG of Toronto, Ontario; DONALD M. McRAE of Ottawa, Ontario; LINDA C. REIF of Edmonton, Alberta; JOHN M. WEEKES of Geneva, Switzerland; and GILBERT R. WINHAM of Bedford, Nova Scotia, as members of the roster, as provided for in Article 2009 of the North American Free Trade Agreement for a term of three years beginning on the effective date in the Decision of the Free Trade Commission establishing the roster.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8800&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1484",
-  "htmlHash": "ea345bfd914fb8fab745c504f4bb409d"
+  "htmlHash": "ea345bfd914fb8fab745c504f4bb409d",
+  "attachments": [
+    "attachment.php?attach=8800&lang=en"
+  ]
 }

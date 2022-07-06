@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1241</td><td>2002-07-17</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of CERTAIN CHLOROPRENE SHEETS REMISSION ORDER which remits\ncustoms duties paid or payable on certain chloroprene sheets imported\nbetween January 1, 1998 and December 31, 2003.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0260  <strong>Publication Date:</strong> 2002-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1241",
-  "htmlHash": "751fd24456e45b26f4f3d28d05ce302b"
+  "htmlHash": "751fd24456e45b26f4f3d28d05ce302b",
+  "attachments": []
 }

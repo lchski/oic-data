@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1059</td><td>2005-05-31</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Navigable Waters Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue exempting TOM MacKAY LAKE in British Columbia from the operation of section 22 of the Navigable Waters Protection Act, thereby allowing mine tailings from the Eskay Creek Mine to be deposited into this body of water.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11476&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1059",
-  "htmlHash": "20683a8df3ec41579eb24215334b6379"
+  "htmlHash": "20683a8df3ec41579eb24215334b6379",
+  "attachments": [
+    "attachment.php?attach=11476&lang=en"
+  ]
 }

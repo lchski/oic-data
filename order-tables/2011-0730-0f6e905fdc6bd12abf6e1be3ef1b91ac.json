@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0730</td><td>2011-06-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; CIC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS, in order to ensure that the wording in the Immigration and Refugee Protection Regulations is consistent with Bill C-35 – which is now coming into force. The changes will help Citizenship and Immigration Canada officers in identifying possible fraud or unethical conduct by immigration representatives earlier on in the immigration and refugee application process.  Applications must now include information about persons who represented or have advised the applicant for consideration at any stage leading up to the formal application or proceeding</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0129  <strong>Publication Date:</strong> 2011-07-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24303&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0730",
-  "htmlHash": "0f6e905fdc6bd12abf6e1be3ef1b91ac"
+  "htmlHash": "0f6e905fdc6bd12abf6e1be3ef1b91ac",
+  "attachments": [
+    "attachment.php?attach=24303&lang=en"
+  ]
 }

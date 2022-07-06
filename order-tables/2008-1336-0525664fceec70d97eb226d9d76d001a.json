@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1336</td><td>2008-07-28</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE MOTOR VEHICLE SAFETY REGULATIONS (LOW-SPEED VEHICLES) by revising the definition for the Low-speed Vehicles (LSV) class and introducing marking requirements to better identify vehicles of this class.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0229  <strong>Publication Date:</strong> 2008-08-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19186&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1336",
-  "htmlHash": "0525664fceec70d97eb226d9d76d001a"
+  "htmlHash": "0525664fceec70d97eb226d9d76d001a",
+  "attachments": [
+    "attachment.php?attach=19186&lang=en"
+  ]
 }

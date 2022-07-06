@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0775</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Student Employment Programs Participants Exclusion Approval Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">STUDENT EMPLOYMENT PROGRAMS EXCLUSION APPROVAL ORDER in order to approve a) the re-application of the provisions of the Public Service Employment Act to the persons and positions excluded by Order in Council P.C. 1997-488; b) the exclusion from the specific provisions of the Act to participants in various federal student employment programs for the purposes of hiring.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0046  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22750&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0775",
-  "htmlHash": "0780056e43605f5f6e3c14097fe80d93"
+  "htmlHash": "0780056e43605f5f6e3c14097fe80d93",
+  "attachments": [
+    "attachment.php?attach=22750&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1116</td><td>2014-10-23</td><td></td><td></td><td>DFATD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Special Economic Measures (South Sudan)\nRegulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SPECIAL ECONOMIC MEASURES (SOUTH SUDAN) REGULATIONS in order to target individuals engaged in activities that obstruct or undermine the Intergovernmental Authority on Development-led peace process, or constitute breaches of the cessation of hostilities or human rights violations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0235  <strong>Publication Date:</strong> 2014-11-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29932&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1116",
-  "htmlHash": "58940517570445b2fa2161ec97c16c28"
+  "htmlHash": "58940517570445b2fa2161ec97c16c28",
+  "attachments": [
+    "attachment.php?attach=29932&lang=en"
+  ]
 }

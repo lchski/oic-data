@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0719</td><td>2010-06-03</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Promotions OFFICERS ***RCMP***</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing by way of promotion 2 officers of the Royal Canadian Mounted Police.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22696&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0719",
-  "htmlHash": "48d18df52a8de4114127062aa7e61a5a"
+  "htmlHash": "48d18df52a8de4114127062aa7e61a5a",
+  "attachments": [
+    "attachment.php?attach=22696&lang=en"
+  ]
 }

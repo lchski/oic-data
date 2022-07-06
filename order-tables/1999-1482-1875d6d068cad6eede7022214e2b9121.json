@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1482</td><td>1999-08-26</td><td>0</td><td></td><td>FAIT,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TIMOTHY O. GOOS, Director, Atmospheric Environment Branch of\nthe Department of the Environment, a duly qualified meteorologist, as the\nACCREDITED OFFICER OF HER MAJESTY to carry out the provisions of the 1909\nTreaty between the United States and Great Britain relating to Boundary\nWaters with respect to the St. Mary and Milk Rivers.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1482",
-  "htmlHash": "1875d6d068cad6eede7022214e2b9121"
+  "htmlHash": "1875d6d068cad6eede7022214e2b9121",
+  "attachments": []
 }

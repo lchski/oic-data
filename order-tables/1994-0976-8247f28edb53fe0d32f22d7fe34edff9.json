@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0976</td><td>1994-06-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ISTC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GENERAL REVOCATIONS ORDER (FINANCIAL ADMINISTRATION ACT), NO. 1, 1994 -\nwhich provides for the repeal of 42 automotive duty Remission Orders made\nbetween 1968 and 1989, the effects of which have expired.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0079  <strong>Publication Date:</strong> 1994-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0976",
-  "htmlHash": "8247f28edb53fe0d32f22d7fe34edff9"
+  "htmlHash": "8247f28edb53fe0d32f22d7fe34edff9",
+  "attachments": []
 }

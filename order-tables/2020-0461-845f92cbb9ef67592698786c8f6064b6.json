@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0461</td><td>2020-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSPC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Le Creuset Canada Inc.  ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that National Capital Commission grant two options to extend the lease with LE CREUSET CANADA INC. for a period of five years each, beginning on November 1, 2020 and November 1, 2025 for the real property located at 517 Sussex Drive, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0461",
-  "htmlHash": "845f92cbb9ef67592698786c8f6064b6"
+  "htmlHash": "845f92cbb9ef67592698786c8f6064b6",
+  "attachments": [
+    "attachment.php?attach=39410&lang=en"
+  ]
 }

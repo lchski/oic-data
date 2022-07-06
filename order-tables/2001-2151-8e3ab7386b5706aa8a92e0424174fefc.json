@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2151</td><td>2001-11-22</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing VIA RAIL CANADA INC. to sell its railway station in the\nTown of SIOUX LOOKOUT, ONTARIO, to WINSTAR TRUST.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2151",
-  "htmlHash": "8e3ab7386b5706aa8a92e0424174fefc"
+  "htmlHash": "8e3ab7386b5706aa8a92e0424174fefc",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1094</td><td>2014-10-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE MARC NOËL, to be Chief Justice of the Federal Court of Appeal, and a member ex officio of the Federal Court.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29911&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1094",
-  "htmlHash": "9eaf19cec4a8f2b1c56026a81fd27d38"
+  "htmlHash": "9eaf19cec4a8f2b1c56026a81fd27d38",
+  "attachments": [
+    "attachment.php?attach=29911&lang=en"
+  ]
 }

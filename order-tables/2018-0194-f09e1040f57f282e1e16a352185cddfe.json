@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0194</td><td>2018-03-06</td><td></td><td></td><td>AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Grain Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA GRAIN REGULATIONS in order to (1) ensure that the Canadian Grain Commission (CGC) can continue to perform its mandated activities and contribute to its strategic outcome - ‘Canada’s grain is safe, reliable, marketable and Canadian grain producers are protected’ (2) set fair and consistent fees that reflect the costs associated with providing CGC services and licences; and (3) update the fees of the Commission set out in Schedule I of the Regulations to keep them current by establishing fees that come into effect April 1, 2018.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0033  <strong>Publication Date:</strong> 2018-03-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35856&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0194",
-  "htmlHash": "f09e1040f57f282e1e16a352185cddfe"
+  "htmlHash": "f09e1040f57f282e1e16a352185cddfe",
+  "attachments": [
+    "attachment.php?attach=35856&lang=en"
+  ]
 }

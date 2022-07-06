@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1205</td><td>2017-09-29</td><td>14</td><td>2017</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Citizenship Act and to make consequential amendments to another Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing October 11, 2017 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing October 11, 2017, as the day on which subsections 1(1) to (4), (6), (7), (9) and (10) and sections 8 and 13 of An ACT TO AMEND THE CITIZENSHIP ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO ANOTHER ACT, Chapter 14 of the Statutes of Canada, 2017 COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2017-0057  <strong>Publication Date:</strong> 2017-10-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35106&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1205",
-  "htmlHash": "98942eead80eedb7121cde8eda758396"
+  "htmlHash": "98942eead80eedb7121cde8eda758396",
+  "attachments": [
+    "attachment.php?attach=35106&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0796</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">On-Reserve Housing Ministerial Loan Guarantee Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER of $6,451,005.33 and all relevant interest payable on that amount owing to the Crown resulting from defaulted Ministerial Loan Guarantees for On-Reserve Housing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2017-0034  <strong>Publication Date:</strong> 2017-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34702&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0796",
-  "htmlHash": "2884c5393aa04aed07f8c1b09421893c"
+  "htmlHash": "2884c5393aa04aed07f8c1b09421893c",
+  "attachments": [
+    "attachment.php?attach=34702&lang=en"
+  ]
 }

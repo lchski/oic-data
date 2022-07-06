@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0825</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Withdrawal from disposal of certain lands (NORTH BAFFIN, KEEWATIN, BYLOT\nISLAND) in the Northwest Territories to facilitate a land claim settlement\nwith the TUNGAVIK FEDERATION OF NUNAVUT; Order in Council P.C. 1992-217 is\nhereby revoked.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0080  <strong>Publication Date:</strong> 1992-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0825",
-  "htmlHash": "10ffbca3f748cb431dc2efd4b3c51558"
+  "htmlHash": "10ffbca3f748cb431dc2efd4b3c51558",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0062</td><td>2008-01-29</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Materials Information  Review Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LARRY STOFFMAN, to be governor representing workers at the Council of the Hazardous Materials Information Review Commissionto hold office during good behaviour for a term of three years, effective April 21, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17873&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0062",
-  "htmlHash": "b9812ef983dd536eaf58d8e23f1b04be"
+  "htmlHash": "b9812ef983dd536eaf58d8e23f1b04be",
+  "attachments": [
+    "attachment.php?attach=17873&lang=en"
+  ]
 }

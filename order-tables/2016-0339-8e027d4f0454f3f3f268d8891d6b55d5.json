@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0339</td><td>2016-05-13</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Transportation of Dangerous Goods Regulations (Reporting Requirements and International Restrictions on Lithium Batteries)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS (PART 8 – REPORTING REQUIREMENTS) in order to update the Regulations to include newsecurity provisions, modify existing reporting requirements and specify the data to be made available for risk analysis.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0095  <strong>Publication Date:</strong> 2016-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32018&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0339",
-  "htmlHash": "8e027d4f0454f3f3f268d8891d6b55d5"
+  "htmlHash": "8e027d4f0454f3f3f268d8891d6b55d5",
+  "attachments": [
+    "attachment.php?attach=32018&lang=en"
+  ]
 }

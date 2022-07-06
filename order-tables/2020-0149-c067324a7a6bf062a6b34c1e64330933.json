@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0149</td><td>2020-03-13</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 224, Prince Edward Island</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 224 which makes a declaration of federal concern and authorizes the Minister to provide financial assistance to the province of PRINCE EDWARD ISLAND, with respect to the Post-Tropical storm Dorian that occurred from September 7 to 8 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38944&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0149",
-  "htmlHash": "c067324a7a6bf062a6b34c1e64330933"
+  "htmlHash": "c067324a7a6bf062a6b34c1e64330933",
+  "attachments": [
+    "attachment.php?attach=38944&lang=en"
+  ]
 }

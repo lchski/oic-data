@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1841</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PCO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1990-2364 which provides for a three-\nmonth extension of the term of office of LOUIS M. TENACE as Vice-Chairman\nof the Public Service Staff Relations Board, i.e. until February 6, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1841",
-  "htmlHash": "4e0a61f74609c8c7783c6734a78d9425"
+  "htmlHash": "4e0a61f74609c8c7783c6734a78d9425",
+  "attachments": []
 }

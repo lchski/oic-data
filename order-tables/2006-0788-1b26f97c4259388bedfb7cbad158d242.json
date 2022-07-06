@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0788</td><td>2006-08-25</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION OF OFFICERS.\n\nTO THE RANK OF CHIEF SUPERINTENDENT (4)\n\n- Superintendent F. J.-M. BIDAL\n- Superintendent R. D. EVANS\n- Superintendent J. D. LANG\n- Superintendent P. G. TEOLIS\n\nTO THE RANK OF SUPERINTENDENT (9)\n\n- Inspector R. J. BECK\n- Inspector J. E. G. COMEAULT\n- Inspector M. A. FLEMING\n- Inspector J. N. D. J. GOULET\n- Inspector J. J. P. NADEAU\n- Inspector L. J. O'BRIEN\n- Inspector B. S. SIMPSON\n- Inspector J. R. G. TRUDEL\n- Inspector P. A. YOUNG</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14806&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0788",
-  "htmlHash": "1b26f97c4259388bedfb7cbad158d242"
+  "htmlHash": "1b26f97c4259388bedfb7cbad158d242",
+  "attachments": [
+    "attachment.php?attach=14806&lang=en"
+  ]
 }

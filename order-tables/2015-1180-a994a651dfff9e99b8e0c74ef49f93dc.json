@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1180</td><td>2015-07-31</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Jean Chilcott ** ANNUITY **  The Hon. W. Dan Chilcott **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to JEAN CHILCOTT, survivor of the Hon. W. Dan Chilcott, a Judge of the Superior Court of Justice in and for the Province of Ontario, effective April 29, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31515&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1180",
-  "htmlHash": "a994a651dfff9e99b8e0c74ef49f93dc"
+  "htmlHash": "a994a651dfff9e99b8e0c74ef49f93dc",
+  "attachments": [
+    "attachment.php?attach=31515&lang=en"
+  ]
 }

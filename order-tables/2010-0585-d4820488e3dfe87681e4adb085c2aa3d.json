@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0585</td><td>2010-05-13</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">No. 121 - (AB) Provincial Emergencies Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER N° 121 - which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of ALBERTA with respect to the overland flooding and groundwater seepage caused by a severe rainstorm in southwestern Alberta from May 21 to 25, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22560&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0585",
-  "htmlHash": "d4820488e3dfe87681e4adb085c2aa3d"
+  "htmlHash": "d4820488e3dfe87681e4adb085c2aa3d",
+  "attachments": [
+    "attachment.php?attach=22560&lang=en"
+  ]
 }

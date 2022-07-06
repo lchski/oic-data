@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1194</td><td>2018-09-24</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to New Songhees Indian Reserve No. 1A, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 0.5291 hectare (1.3074 acres) of lands, for the use and benefit of the Songhees Nation, as an addition to NEW SONGHEES INDIAN RESERVE NO. 1A, in British Columbia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36873&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1194",
-  "htmlHash": "19fd6b2e59fef594c479528ddde4ff81"
+  "htmlHash": "19fd6b2e59fef594c479528ddde4ff81",
+  "attachments": [
+    "attachment.php?attach=36873&lang=en"
+  ]
 }

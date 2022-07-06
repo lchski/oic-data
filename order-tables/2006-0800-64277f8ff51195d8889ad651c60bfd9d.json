@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0800</td><td>2006-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign a CONVENTION with The REPUBLIC OF KOREA for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14805&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0800",
-  "htmlHash": "64277f8ff51195d8889ad651c60bfd9d"
+  "htmlHash": "64277f8ff51195d8889ad651c60bfd9d",
+  "attachments": [
+    "attachment.php?attach=14805&lang=en"
+  ]
 }

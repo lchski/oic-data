@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0802</td><td>2012-06-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-Michigan Agreement on the Detroit River International Crossing (DRIC)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to enter into a crossing agreement in order to establish a framework for the design, construction, financing, operation and maintenance of a new international crossing between WINDSOR, Ontario and DETROIT, Michigan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26363&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0802",
-  "htmlHash": "8516a7d8c5fb74bf464466107d66c828"
+  "htmlHash": "8516a7d8c5fb74bf464466107d66c828",
+  "attachments": [
+    "attachment.php?attach=26363&lang=en"
+  ]
 }

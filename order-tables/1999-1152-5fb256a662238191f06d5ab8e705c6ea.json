@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1152</td><td>1999-06-23</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE CUSTOMS TARIFF - PHARMACEUTICAL\nUNDERSTANDING which will eliminate the tariffs on 635 pharmaceuticals,\nactive ingredients and intermediates used to manufacture pharmaceuticals,\neffective July 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0267  <strong>Publication Date:</strong> 1999-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1152",
-  "htmlHash": "5fb256a662238191f06d5ab8e705c6ea"
+  "htmlHash": "5fb256a662238191f06d5ab8e705c6ea",
+  "attachments": []
 }

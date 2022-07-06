@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0672</td><td>1998-04-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the GOVERNMENT EMPLOYEE LAND ACQUISITION ORDER, 1998, NO. 1,\nwhich authorizes (a) Raymond Wayne Halwas to acquire Lot No. 1015 in\nPrelude Lake, N.W.T.; (b) Linda Christine Zachariassen to acquire Lot\nNo. 1063 at Prelude Lake, N.W.T. and (c) Stephen William Deschene to lease\na parcel of land situated on the northerly shore of Twentyfive Mile Lake,\nN.W.T.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0261  <strong>Publication Date:</strong> 1998-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0672",
-  "htmlHash": "7988c749dd8eecdfea2724452b201014"
+  "htmlHash": "7988c749dd8eecdfea2724452b201014",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1620</td><td>2006-12-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Act</td><td colspan=\"5\">Agreement on Internal Trade Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE BARBARA J. McDOUGALL,  P.C., of Toronto, Ontario, to be on the roster of panellists required by Article 1705 of the Agreement on Internal Trade for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15594&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1620",
-  "htmlHash": "4262fc3476b88c3c6626f7987c3c660b"
+  "htmlHash": "4262fc3476b88c3c6626f7987c3c660b",
+  "attachments": [
+    "attachment.php?attach=15594&lang=en"
+  ]
 }

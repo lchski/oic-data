@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2115</td><td>1992-09-17</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of the ORDINANCES made by the Commissioner in\nCouncil of the NORTHWEST TERRITORIES during the Second Session of the\nTwelfth Assembly (Bills Nos. 2-3-6-18-19-20-28-29-30).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2115",
-  "htmlHash": "e7bfd7b03342102dd8fef952d2e6fd1d"
+  "htmlHash": "e7bfd7b03342102dd8fef952d2e6fd1d",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0219</td><td>2000-02-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS REPEALING CERTAIN REGULATIONS MADE UNDER THE CANADA SHIPPING\nACT (MISCELLANEOUS PROGRAM) which, effective February 25, 2000, repeal the\nfollowing Orders and Regulations:\n.\n(a) Registration of Government Ships Regulations\n(b) Ship's Draught Marks Exemption Order\n(c) Ships' Names Registration Regulations\n(d) Ships Registration Forms Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0073  <strong>Publication Date:</strong> 2000-03-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0219",
-  "htmlHash": "17a908f11a6e4e089c7a932bc09c24ed"
+  "htmlHash": "17a908f11a6e4e089c7a932bc09c24ed",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0766</td><td>2013-06-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID PARADISO of Ottawa, Ontario, to be Interim Chairman of the Royal Canadian Mounted Police External Review Committee to hold office during good behaviour for a term of six months or until a new Chairman is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28020&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0766",
-  "htmlHash": "31eca525326ed97eae5cd86f007d5a14"
+  "htmlHash": "31eca525326ed97eae5cd86f007d5a14",
+  "attachments": [
+    "attachment.php?attach=28020&lang=en"
+  ]
 }

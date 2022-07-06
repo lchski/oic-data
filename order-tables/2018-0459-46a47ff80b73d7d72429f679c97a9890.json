@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0459</td><td>2018-04-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Canadian International Trade Tribunal Rules</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL RULES in order to (1) update the Canadian International Trade Tribunal (CITT) Rules to reflect the current practices and procedures of the CITT; (2) implement additional minor changes that increase the transparency and efficiency of proceedings as a result of consultations with stakeholders that have taken place since 2010; and (3) make consequential amendments that are required to reflect amendments made to the CITT’s governing legislation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0087  <strong>Publication Date:</strong> 2018-05-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36128&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0459",
-  "htmlHash": "46a47ff80b73d7d72429f679c97a9890"
+  "htmlHash": "46a47ff80b73d7d72429f679c97a9890",
+  "attachments": [
+    "attachment.php?attach=36128&lang=en"
+  ]
 }

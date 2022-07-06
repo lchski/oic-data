@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0650</td><td>1990-03-30</td><td>0</td><td></td><td>,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a Document of Absolute Surrender assented to by the SARNIA\nBAND OF INDIANS at a referendum held on January 25, 1990, whereby all\nrights, title and interest of whatsoever kind that the band may have in\ncertain lands which were formerly part of Sarnia Indian Reserve No. 45, in\nthe City of Sarnia, Ontario, will be surrendered to the Crown.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0650",
-  "htmlHash": "17b6bf16b13480e3b10b92ac7e0ddb7c"
+  "htmlHash": "17b6bf16b13480e3b10b92ac7e0ddb7c",
+  "attachments": []
 }

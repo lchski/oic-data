@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1082</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ELVIRA SÀNCHEZ DE MALICKI of Etobicoke, Ontario, to be a member of Telefilm Canada to hold office during pleasure for a term of five years, effective July 5, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3307&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1082",
-  "htmlHash": "ae489d1faac3b94ef79e053948543d0c"
+  "htmlHash": "ae489d1faac3b94ef79e053948543d0c",
+  "attachments": [
+    "attachment.php?attach=3307&lang=en"
+  ]
 }

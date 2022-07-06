@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0145</td><td>2015-02-05</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Industry Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of HOWARD ALPER of Ottawa, Ontario, as Chairperson of the Science, Technology and Innovation Council, on a part-time basis, to hold office during pleasure, for a term of six months, or until such time as a new Chairperson is appointed, whichever is earlier.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30469&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0145",
-  "htmlHash": "d529b9f3cb76dd593a9ccb6ef60df1dc"
+  "htmlHash": "d529b9f3cb76dd593a9ccb6ef60df1dc",
+  "attachments": [
+    "attachment.php?attach=30469&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0545</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; PWGSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of AMÉLIE L. LAVICTOIRE of Ottawa, Ontario, to be Vice-Chairperson of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of five years, effective July 5, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40834&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0545",
-  "htmlHash": "57e213454a0384daad02b1034620db2c"
+  "htmlHash": "57e213454a0384daad02b1034620db2c",
+  "attachments": [
+    "attachment.php?attach=40834&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0800</td><td>2014-06-13</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE ROBERT MAINVILLE, to be a Puisne Judge of the Court of Appeal of the Province of Quebec, with residence in the territory of Ville de Montréal or in the immediate vicinity thereof, effective July 1, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0800",
-  "htmlHash": "905591cc7e1b3577fa8659eacb677eb1"
+  "htmlHash": "905591cc7e1b3577fa8659eacb677eb1",
+  "attachments": [
+    "attachment.php?attach=29644&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0280</td><td>2013-03-07</td><td></td><td></td><td>,&nbsp; HRSDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Agreement on Social Security and Administrative Agreement of the Agreement on Social Security ** Bulgaria **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring the coming into force of the AGREEMENT ON SOCIAL SECURITY between Canada and the REPUBLIC OF BULGARIA and the related ADMINISTRATIVE AGREEMENT for its implementation as the first day of the fourth month following the month in which the Parties have exchanged written notifications that they have complied with all statutory requirements for the entry into force of the Agreements.</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2013-0280",
-  "htmlHash": "03b4898c0316d39339456cb41f5622e0"
+  "htmlHash": "03b4898c0316d39339456cb41f5622e0",
+  "attachments": []
 }

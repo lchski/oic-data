@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1727</td><td>2011-12-22</td><td></td><td></td><td>DFAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Syria) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (SYRIA) REGULATIONS in order to prohibit imports from Syria; prohibit new investment in Syria of equipment including software, for the monitoring of telephone and Internet communications; and impose an assets freeze and a prohibition on dealings on additional individuals and entities associated with the Assad regime.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0330  <strong>Publication Date:</strong> 2012-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25411&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1727",
-  "htmlHash": "48cdb12cc7b6c3b7961d13ea2091de18"
+  "htmlHash": "48cdb12cc7b6c3b7961d13ea2091de18",
+  "attachments": [
+    "attachment.php?attach=25411&lang=en"
+  ]
 }

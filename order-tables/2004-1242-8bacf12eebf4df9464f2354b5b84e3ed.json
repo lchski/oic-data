@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1242</td><td>2004-10-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the LOON RIVER CREE BAND surrenders, for the exploration, development, production and removal of mines and minerals, approximately 16,380 hectares of land on Loon Lake Indian Reserve No. 235, Swampy Lake Indian Reserve No. 236 and Loon Prairie Indian Reserve No. 237, in Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8387&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1242",
-  "htmlHash": "8bacf12eebf4df9464f2354b5b84e3ed"
+  "htmlHash": "8bacf12eebf4df9464f2354b5b84e3ed",
+  "attachments": [
+    "attachment.php?attach=8387&lang=en"
+  ]
 }

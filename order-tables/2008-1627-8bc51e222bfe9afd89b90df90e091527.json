@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1627</td><td>2008-09-05</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart 187.35 hectares of land, excluding mines and minerals, for the use and benefit of the ABITIBIWINNI FIRST NATION as an addition to Pikogan Indian Reserve, in the Province of Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19427&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1627",
-  "htmlHash": "8bc51e222bfe9afd89b90df90e091527"
+  "htmlHash": "8bc51e222bfe9afd89b90df90e091527",
+  "attachments": [
+    "attachment.php?attach=19427&lang=en"
+  ]
 }

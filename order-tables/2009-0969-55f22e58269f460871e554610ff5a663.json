@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0969</td><td>2009-06-11</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Dairy Commission - Corporate Plan.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the 2009-2010 to 2013-2014 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20820&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0969",
-  "htmlHash": "55f22e58269f460871e554610ff5a663"
+  "htmlHash": "55f22e58269f460871e554610ff5a663",
+  "attachments": [
+    "attachment.php?attach=20820&lang=en"
+  ]
 }

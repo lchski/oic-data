@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2213</td><td>1992-10-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Consumer and Corporate\nAffairs of David B. Watters, of Kanata, Ontario, as a member of the\nStandards Council of Canada; and designation of the said David B. Watters\nas a member of the executive committee of the Standards Council of Canada\nto hold office during pleasure for a term of three years, in the place of\nJean Gariépy, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2213",
-  "htmlHash": "a5a5a1c0e1ed1f987404236594929c39"
+  "htmlHash": "a5a5a1c0e1ed1f987404236594929c39",
+  "attachments": []
 }

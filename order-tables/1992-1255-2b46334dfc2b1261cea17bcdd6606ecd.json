@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1255</td><td>1992-06-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a real estate transaction with ERIC RUSSELL\nLAWRENCE, of the Town of Maple Creek, Saskatchewan, wherein the Crown will\nacquire title to some 32.85 hectares of land which are required in\nconnection with the GAP CREEK DIVERSION WEIR and, IN EXCHANGE, Mr. Lawrence\nwill acquire title to some 37.79 hectares of land together with an\nattendant easement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1255",
-  "htmlHash": "2b46334dfc2b1261cea17bcdd6606ecd"
+  "htmlHash": "2b46334dfc2b1261cea17bcdd6606ecd",
+  "attachments": []
 }

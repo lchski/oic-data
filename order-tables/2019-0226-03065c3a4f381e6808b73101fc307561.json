@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0226</td><td>2019-03-25</td><td></td><td></td><td>,&nbsp; ISC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Metepenagiag Urban Reserve 3, New Brunswick **Creation**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Setting apart 19.94 hectares (49.27 acres) of land, excluding mines and minerals, for the use and benefit of the Metepenagiag Mi'kmaq Nation as METEPENAGIAG URBAN RESERVE 3, in the Province of New Brunswick.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37545&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0226",
-  "htmlHash": "03065c3a4f381e6808b73101fc307561"
+  "htmlHash": "03065c3a4f381e6808b73101fc307561",
+  "attachments": [
+    "attachment.php?attach=37545&lang=en"
+  ]
 }

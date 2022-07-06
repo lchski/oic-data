@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0198</td><td>2018-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">United Nations University International Network on Water, Environment and Health — Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">UNITED NATIONS UNIVERSITY INTERNATIONAL NETWORK ON WATER, ENVIRONMENT AND HEALTH PRIVILEGES AND IMMUNITIES ORDER (UNU-INWEH) in order to grant (1) legal status to the United Nations University (UNU) the International Network on Water, Environment and Health (INWEH); and (2) UNU-INWEH officials, personnel, and experts on mission privileges and immunities under the Headquarters Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0036  <strong>Publication Date:</strong> 2018-03-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35860&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0198",
-  "htmlHash": "7d6d7579e42a4253b928803e7abeb812"
+  "htmlHash": "7d6d7579e42a4253b928803e7abeb812",
+  "attachments": [
+    "attachment.php?attach=35860&lang=en"
+  ]
 }

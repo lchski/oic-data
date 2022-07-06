@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0047</td><td>1990-01-18</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SHIP-SOURCE OIL POLLUTION FUND REGULATIONS which (a)\nspecify the circumstances under which persons receiving oil must supply\nrequired information to the Canadian Coast Guard and (b) repeal the former\nMaritime Pollution Claims Fund Regulations (C.R.C., c. 1444).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0082  <strong>Publication Date:</strong> 1990-01-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0047",
-  "htmlHash": "20848a718d001648797fd8a54ce7e390"
+  "htmlHash": "20848a718d001648797fd8a54ce7e390",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0604</td><td>2004-05-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE FRANÇOIS DOYON to be a Puisne Judge of the Court of Appeal of the Province of Quebec, with residence in the City of Montréal or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0604",
-  "htmlHash": "dff2f1693bcc827d49e43334d45dbaf5"
+  "htmlHash": "dff2f1693bcc827d49e43334d45dbaf5",
+  "attachments": [
+    "attachment.php?attach=6781&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0105</td><td>1998-01-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ELIZABETH M.B. McKALL, of Edmonton, Alberta, as a full-time\nmember of the National Parole Board, Prairie Regional Division, to hold\noffice during good behaviour for a period of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0105",
-  "htmlHash": "ca73db2ff00e20de4688f0c6ccfc4e07"
+  "htmlHash": "ca73db2ff00e20de4688f0c6ccfc4e07",
+  "attachments": []
 }

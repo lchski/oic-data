@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2125</td><td>1994-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RICHARD PARÉ, Esquire, of the City of Ottawa, Ontario,\nas a Parliamentary Librarian to hold office during pleasure for term of\nfive years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2125",
-  "htmlHash": "f1f7c5a73644acf270f2f44e0b8199c4"
+  "htmlHash": "f1f7c5a73644acf270f2f44e0b8199c4",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0811</td><td>1999-05-04</td><td>0</td><td></td><td>INT'L TRADE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister for International Trade of\nHELEN GILLESPIE, of Brampton, Ontario, as a director of the Canadian\nCommercial Corporation to hold office during pleasure for a term of one\nyear.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0811",
-  "htmlHash": "d7fb85c7f52ad0a0a49fa296e27c8bcf"
+  "htmlHash": "d7fb85c7f52ad0a0a49fa296e27c8bcf",
+  "attachments": []
 }

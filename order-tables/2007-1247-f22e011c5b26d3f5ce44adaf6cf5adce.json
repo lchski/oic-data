@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1247</td><td>2007-08-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JACQUELINE PARK to be Honorary Consul of Canada at Saint-Pierre-et-Miquelon, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16947&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1247",
-  "htmlHash": "f22e011c5b26d3f5ce44adaf6cf5adce"
+  "htmlHash": "f22e011c5b26d3f5ce44adaf6cf5adce",
+  "attachments": [
+    "attachment.php?attach=16947&lang=en"
+  ]
 }

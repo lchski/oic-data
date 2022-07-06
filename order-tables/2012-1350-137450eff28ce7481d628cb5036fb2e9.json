@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1350</td><td>2012-10-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Bridges and Tunnels Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of the letters patent for the Windsor-Detroit Bridge Authority </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order issuing the letters patent of incorporation for the establishment of the Windsor-Detroit Bridge Authority, a corporation without share capital, for the purpose of the corporation constructing or operating an international bridge across the Detroit River between Windsor, Ontario and Detroit, Michigan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26598&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1350",
-  "htmlHash": "137450eff28ce7481d628cb5036fb2e9"
+  "htmlHash": "137450eff28ce7481d628cb5036fb2e9",
+  "attachments": [
+    "attachment.php?attach=26598&lang=en"
+  ]
 }

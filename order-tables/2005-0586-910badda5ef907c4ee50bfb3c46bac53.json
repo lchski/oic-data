@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0586</td><td>2005-04-14</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MAUREEN MALONEY of Victoria, British Columbia, to be a part-time member of the Canadian Human Rights Tribunal to hold office during good behaviour for a term ending May 31, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10332&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0586",
-  "htmlHash": "910badda5ef907c4ee50bfb3c46bac53"
+  "htmlHash": "910badda5ef907c4ee50bfb3c46bac53",
+  "attachments": [
+    "attachment.php?attach=10332&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0082</td><td>2008-01-29</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARIE-JOSÉE HADAYA of Outremont, Quebec, to be a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years, effective March 31, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17887&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0082",
-  "htmlHash": "e4b65cbd13f7f3a15a2f419187f2bba3"
+  "htmlHash": "e4b65cbd13f7f3a15a2f419187f2bba3",
+  "attachments": [
+    "attachment.php?attach=17887&lang=en"
+  ]
 }

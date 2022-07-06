@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1691</td><td>2017-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; CNSC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Nuclear Safety Commission - The Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Canadian Nuclear Safety Commission to ENTER INTO A COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada of employees in the Nuclear Regulatory for four (4) year agreement from April 1, 2014 to March 31, 2018, pursuant to Section 112 of the FEDERAL PUBLIC SECTOR LABOUR RELATIONS ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35601&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1691",
-  "htmlHash": "c2cd4ef73f2e58147025c9f767c7b5d1"
+  "htmlHash": "c2cd4ef73f2e58147025c9f767c7b5d1",
+  "attachments": [
+    "attachment.php?attach=35601&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0772</td><td>2020-10-02</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Port Authorities Operations Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the PORT AUTHORITIES OPERATIONS REGULATIONS in order to reflect the amalgamated Hamilton-Oshawa Port Authority in the Regulations to outline the permitted and prohibited activities, as well as the port's authorization powers.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0220  <strong>Publication Date:</strong> 2020-10-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39753&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0772",
-  "htmlHash": "c52120aa1b2ced59049a7396a1f2ab27"
+  "htmlHash": "c52120aa1b2ced59049a7396a1f2ab27",
+  "attachments": [
+    "attachment.php?attach=39753&lang=en"
+  ]
 }

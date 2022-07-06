@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0464</td><td>2021-06-01</td><td></td><td></td><td>,&nbsp; DFO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Quebec Fishery Regulations, 1990 (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the QUEBEC FISHERY REGULATIONS, 1990 (MISCELLANEOUS PROGRAM) in order to (1) ensure that the regulations are clear, accurate, and serve to minimize the possibility of misinterpretation of their regulatory requirements; (2)  correct a discrepancy between the French and English versions; (3) add clarity to a regulatory provision; and (4) correct typographical or grammatical errors.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0115  <strong>Publication Date:</strong> 2021-06-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40714&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0464",
-  "htmlHash": "dbafa90da53746dffb573acdcbf34983"
+  "htmlHash": "dbafa90da53746dffb573acdcbf34983",
+  "attachments": [
+    "attachment.php?attach=40714&lang=en"
+  ]
 }

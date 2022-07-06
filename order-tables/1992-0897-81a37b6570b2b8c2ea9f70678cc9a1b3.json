@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0897</td><td>1992-05-07</td><td>0</td><td></td><td>,&nbsp; AGR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the DAIRY PRODUCTS REGULATIONS reflecting changes to\ndefinitions and in the numbering of sections of the Act following the\nintroduction of the new Canada Agricultural Products Act in 1988.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0248  <strong>Publication Date:</strong> 1992-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0897",
-  "htmlHash": "81a37b6570b2b8c2ea9f70678cc9a1b3"
+  "htmlHash": "81a37b6570b2b8c2ea9f70678cc9a1b3",
+  "attachments": []
 }

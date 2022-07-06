@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0990</td><td>1998-06-04</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to UPHOLD rulings (CRTC 98-76, 98-77\nand 98-78) made by the Canadian Radio-television and Telecommunications\nCommission with respect to the removal of the non-proprietary rights\ncondition of licence concerning foreign feature films.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0076  <strong>Publication Date:</strong> 1998-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0990",
-  "htmlHash": "27dd59f4d1030cff5d83feea61f85a4f"
+  "htmlHash": "27dd59f4d1030cff5d83feea61f85a4f",
+  "attachments": []
 }

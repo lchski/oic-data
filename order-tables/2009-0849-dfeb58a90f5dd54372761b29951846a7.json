@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0849</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Transport Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Commercial Vehicle Drivers Hours of Service Regulations. </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remove the exemption for public transit services federally regulated bringing Ottawa (Ontario), Gatineau (Quebec) and Windsor (Ontario) transit services.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0157  <strong>Publication Date:</strong> 2009-06-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0849",
-  "htmlHash": "dfeb58a90f5dd54372761b29951846a7"
+  "htmlHash": "dfeb58a90f5dd54372761b29951846a7",
+  "attachments": [
+    "attachment.php?attach=20678&lang=en"
+  ]
 }

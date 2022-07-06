@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0451</td><td>2017-05-04</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MAUREEN LINDA KIRKPATRICK of Halifax, Nova Scotia, to be a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34353&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0451",
-  "htmlHash": "fcbd0b8f205e0f520e5298c4c8718233"
+  "htmlHash": "fcbd0b8f205e0f520e5298c4c8718233",
+  "attachments": [
+    "attachment.php?attach=34353&lang=en"
+  ]
 }

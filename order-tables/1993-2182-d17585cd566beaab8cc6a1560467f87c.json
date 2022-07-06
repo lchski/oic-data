@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2182</td><td>1993-12-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the acquisition by the CANADA PORTS CORPORATION from the\nDepartment of Fisheries and Oceans of the title to a shore and deep water\nlot (Block 26) situated in the Township of Letellier, Quebec, at the Port\nof Sept-Îles, containing an area of 122,840 m², and the conveyance to the\nDepartment of National Defence of the right to use the shore portion\n(3,842 m²) for as long as it is needed to operate marine facilities.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-2182",
-  "htmlHash": "d17585cd566beaab8cc6a1560467f87c"
+  "htmlHash": "d17585cd566beaab8cc6a1560467f87c",
+  "attachments": []
 }

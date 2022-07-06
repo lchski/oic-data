@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0325</td><td>2012-03-15</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Frank G. Barakett ** RESIGNATION AND ANNUITY **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an annuity to the Hon. FRANK G. BARAKETT, a Puisne Judge of the Superior Court of Quebec, effective April 13, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25747&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0325",
-  "htmlHash": "a32a0bcf8bd49e4a1a93c7f3abc62cd2"
+  "htmlHash": "a32a0bcf8bd49e4a1a93c7f3abc62cd2",
+  "attachments": [
+    "attachment.php?attach=25747&lang=en"
+  ]
 }

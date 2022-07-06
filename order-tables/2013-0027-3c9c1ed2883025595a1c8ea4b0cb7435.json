@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0027</td><td>2013-01-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Amendment to subsection 13.6.4.1 ** Agreements ** </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving an amendment to subsection 13.6.4.1 of the Agreements for the VUNTUT GWITCHIN FIRST NATION, THE CHAMPAGNE AND AISHIHIK FIRST NATIONS, THE TR’ONDËK HWËCH’IN, THE TA’AN KWACH’AN COUNCIL, THE SELKIRK FIRST NATION, THE LITTLE SALMON/CARMACKS FIRST NATION AND THE FIRST NATION OF NACHO NYAK DUN.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27250&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0027",
-  "htmlHash": "3c9c1ed2883025595a1c8ea4b0cb7435"
+  "htmlHash": "3c9c1ed2883025595a1c8ea4b0cb7435",
+  "attachments": [
+    "attachment.php?attach=27250&lang=en"
+  ]
 }

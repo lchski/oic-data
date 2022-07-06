@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2148</td><td>1999-12-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HRD,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of FRANCESCO ERMANDO GIOVANNIELLO, of Cornwall, Ontario, as a\nmember of the Review Tribunal for the region of Cornwall to hold office\nduring pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2148",
-  "htmlHash": "a727981e062da394674de7d1bc05fe0e"
+  "htmlHash": "a727981e062da394674de7d1bc05fe0e",
+  "attachments": []
 }

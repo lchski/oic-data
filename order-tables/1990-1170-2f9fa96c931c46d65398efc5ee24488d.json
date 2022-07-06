@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1170</td><td>1990-06-14</td><td>0</td><td></td><td>,&nbsp; HON. ANDRE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADA POST SYSTEMS MANAGEMENT LIMITED INCORPORATION AUTHORIZATION ORDER -\nwhich authorizes the Canada Post Corporation to procure the incorporation\nof a wholly-owned subsidiary under the Canada Business Corporations Act\nwhich is to be known as Canada Post Systems Management Limited.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0358  <strong>Publication Date:</strong> 1990-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1170",
-  "htmlHash": "2f9fa96c931c46d65398efc5ee24488d"
+  "htmlHash": "2f9fa96c931c46d65398efc5ee24488d",
+  "attachments": []
 }

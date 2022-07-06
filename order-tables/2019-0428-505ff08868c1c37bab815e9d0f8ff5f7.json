@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0428</td><td>2019-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - United United States of America - Amendment of Annex IV of the Treaty **Agreement**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the EXCHANGE OF NOTES BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA CONSTITUTING AN AGREEMENT AMENDING ANNEX IV OF THE TREATY BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA CONCERNING PACIFIC SALMON, done at Ottawa on January 28, 1985, as amended.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37745&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0428",
-  "htmlHash": "505ff08868c1c37bab815e9d0f8ff5f7"
+  "htmlHash": "505ff08868c1c37bab815e9d0f8ff5f7",
+  "attachments": [
+    "attachment.php?attach=37745&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0656</td><td>2004-05-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BERNARD SHAPIRO, O.C., of Montréal, Quebec, to be Ethics Commissioner, to hold office during good behaviour for a term of five years, effective May 17, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6937&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0656",
-  "htmlHash": "0bb9a8c09446f38f472cbeb51968e5c5"
+  "htmlHash": "0bb9a8c09446f38f472cbeb51968e5c5",
+  "attachments": [
+    "attachment.php?attach=6937&lang=en"
+  ]
 }

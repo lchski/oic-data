@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0959</td><td>2018-06-27</td><td></td><td></td><td>,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of ANNE WHELAN of St. John's, Newfoundland and Labrador, to be a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending on February 29, 2020, in the place of Martin Sullivan, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36629&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0959",
-  "htmlHash": "003209ee5170b311d04a14b79bf8ad14"
+  "htmlHash": "003209ee5170b311d04a14b79bf8ad14",
+  "attachments": [
+    "attachment.php?attach=36629&lang=en"
+  ]
 }

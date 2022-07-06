@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0871</td><td>2019-06-19</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of HEATHER HOLDEN of Vancouver, British Columbia, to be a trustee of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of three years, in the place of Alice McCarron, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38199&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0871",
-  "htmlHash": "533fe315ff3c46e4e8a686ba09e0c486"
+  "htmlHash": "533fe315ff3c46e4e8a686ba09e0c486",
+  "attachments": [
+    "attachment.php?attach=38199&lang=en"
+  ]
 }

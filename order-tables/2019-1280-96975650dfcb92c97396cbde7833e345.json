@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1280</td><td>2019-08-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Salary Order (full-time member with particular responsibilities for children’s issues, National Advisory Council on Poverty)</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38614&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1280",
-  "htmlHash": "96975650dfcb92c97396cbde7833e345"
+  "htmlHash": "96975650dfcb92c97396cbde7833e345",
+  "attachments": [
+    "attachment.php?attach=38614&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0172</td><td>2021-03-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Parliamentary Secretaries</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) terminating the appointments made by Order in Council P.C. 2021-0074 of February 12, 2021; and (2) appointing certain Members of the House of Commons, to be Parliamentary Secretaries for a period ending on March 18, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40355&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0172",
-  "htmlHash": "1dbfb13a2201d0d187d383223966978b"
+  "htmlHash": "1dbfb13a2201d0d187d383223966978b",
+  "attachments": [
+    "attachment.php?attach=40355&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1728</td><td>1995-10-17</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into ANNUITY CONTRACTS with the following Provinces and\ninsurance companies under the Program for Older Workers Adjustment (POWA).\n.\n ===  ================  =================================================\n No.                                   Insurance Company\n N°       Province                   Compagnie d'assurance\n ---  ----------------  -------------------------------------------------\n  1.  B.C./C.-B.        Desjardins-Laurentian Life Assurance Company Inc.\n  2.  Nfld./T.-N.       Co-operators Life Insurance Company\n  3.  N.S./N.-É.        Co-operators Life Insurance Company\n  4.  Quebec/Québec     L'Industrielle-Alliance Compagnie d'Assurance sur\n                          la Vie\n  5.  Quebec/Québec     Assurance vie Desjardins-Laurentienne inc.\n  6.  Saskatchewan      Industrial-Alliance Life Insurance Company\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1728",
-  "htmlHash": "a5e1aa7a7a3eefd54d745021adbb0484"
+  "htmlHash": "a5e1aa7a7a3eefd54d745021adbb0484",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1607</td><td>1992-07-16</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Commission dedimus potestatem under the Great Seal\nof Canada do issue to the Hon. Julius A. Isaac, Chief Justice of the\nFederal Court of Canada - Appeal Division, and the Hon. Allen M. Linden,\na Judge of the Federal Court of Canada - Appeal Division, as well as\ncertain provincial judges, authorizing them to tender and administer the\nOath of Allegiance.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1607",
-  "htmlHash": "ccf0de01b66db5e121d6ea3c2c606594"
+  "htmlHash": "ccf0de01b66db5e121d6ea3c2c606594",
+  "attachments": []
 }

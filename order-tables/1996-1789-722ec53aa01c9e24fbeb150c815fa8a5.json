@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1789</td><td>1996-11-26</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LEGO CANADA INC. REMISSION ORDER respecting a portion of the customs duties\npaid or payable in respect of certain plastic toy construction sets\nimported between August 1, 1990 and August 14, 1992.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0515  <strong>Publication Date:</strong> 1996-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1789",
-  "htmlHash": "722ec53aa01c9e24fbeb150c815fa8a5"
+  "htmlHash": "722ec53aa01c9e24fbeb150c815fa8a5",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1462</td><td>2006-11-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING THE SCHEDULE TO THE CUSTOMS TARIFF, 2006-4 (TEXTILES AND APPAREL) which eliminates the tariffs on textiles having only limited production in Canada and replaces gender-specific clothing descriptions with more gender-neutral generic ones.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0327  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15443&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1462",
-  "htmlHash": "7a24e775a4e0c422d86e4efa3f77d322"
+  "htmlHash": "7a24e775a4e0c422d86e4efa3f77d322",
+  "attachments": [
+    "attachment.php?attach=15443&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1633</td><td>1994-09-29</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Withdrawal of the entrustment conferred upon the CANADIAN NATIONAL RAILWAY\nCOMPANY in 1961 with respect to a parcel of land (Lot 94-1, Plan S-3308)\nlocated on the Canso Causeway near AULD'S COVE, NOVA SCOTIA, which is to be\ntransferred to the Province for the reconstruction of Highway No. 344.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1633",
-  "htmlHash": "95d6cb06971423b6f88e0563a5fd69bc"
+  "htmlHash": "95d6cb06971423b6f88e0563a5fd69bc",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0144</td><td>2006-03-23</td><td></td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MIGRATORY BIRDS REGULATIONS to the extent of making minor adjustments to the opening and closing dates of the Snow Goose hunting season in Quebec for 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0052  <strong>Publication Date:</strong> 2006-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14042&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0144",
-  "htmlHash": "4d496ed04083f9b1bca910a5975c630c"
+  "htmlHash": "4d496ed04083f9b1bca910a5975c630c",
+  "attachments": [
+    "attachment.php?attach=14042&lang=en"
+  ]
 }

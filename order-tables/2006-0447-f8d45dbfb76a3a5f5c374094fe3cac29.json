@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0447</td><td>2006-06-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Judges to serve as ADMINISTRATOR of the Government of MANITOBA on the following dates:\n\nThe Hon. Charles R. Huband\n - June 8 and June 9, 2006\n\nThe Hon. Marc M. Monnin\n - June 12, 2006\n - June 22 and June 23, 2006</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14444&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0447",
-  "htmlHash": "f8d45dbfb76a3a5f5c374094fe3cac29"
+  "htmlHash": "f8d45dbfb76a3a5f5c374094fe3cac29",
+  "attachments": [
+    "attachment.php?attach=14444&lang=en"
+  ]
 }

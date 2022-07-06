@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1141</td><td>2020-12-24</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration and certain conditions of employment of Mona Nemer, C.M., C.Q., Chief Science Advisor, effective September 25, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40154&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1141",
-  "htmlHash": "1e2149d26edf390187b056c1948edb32"
+  "htmlHash": "1e2149d26edf390187b056c1948edb32",
+  "attachments": [
+    "attachment.php?attach=40154&lang=en"
+  ]
 }

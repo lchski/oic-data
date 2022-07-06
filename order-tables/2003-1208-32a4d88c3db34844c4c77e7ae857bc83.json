@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1208</td><td>2003-08-13</td><td>0</td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1227 - PROHIBITION OF CERTAIN VETERINARY DRUGS) by prohibiting the sale of 5-nitroimidazole compounds and diethylstilbestrol (DES) and other stilbene compounds for administration to food-producing animals.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0292  <strong>Publication Date:</strong> 2003-08-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3503&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1208",
-  "htmlHash": "32a4d88c3db34844c4c77e7ae857bc83"
+  "htmlHash": "32a4d88c3db34844c4c77e7ae857bc83",
+  "attachments": [
+    "attachment.php?attach=3503&lang=en"
+  ]
 }

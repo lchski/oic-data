@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0311</td><td>2016-05-06</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the First Nations Property Assessment and Taxation (Railway Rights-of-Way) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FIRST NATIONS PROPERTY ASSESSMENT AND TAXATION (RAILWAY RIGHTS-OF-WAY) REGULATIONS in order to (1) add the KANAKA BAR INDIAN BAND to the Schedule of the Regulations which will enable them to tax the Canadian Pacific Railway rights-of-way lands on their reserve; and (2) address three concerns raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0092  <strong>Publication Date:</strong> 2016-05-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31988&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0311",
-  "htmlHash": "7954662a6541fd4cc13315618fcb64b8"
+  "htmlHash": "7954662a6541fd4cc13315618fcb64b8",
+  "attachments": [
+    "attachment.php?attach=31988&lang=en"
+  ]
 }

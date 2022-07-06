@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1900</td><td>2008-12-12</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE PACIFIC PILOTAGE TARIFF REGULATIONS allow the Authority to increase by 3.9% its general tariff for the following pilotage charges: pilotage assignments; time charges for bridge watches and minimum charges; cancellation charges, out-of-region charges, pilot boat and helicopter charges in order to ensure financial self-sufficiency in each individual area.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0311  <strong>Publication Date:</strong> 2008-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19773&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1900",
-  "htmlHash": "aa65ace42ade2c52c174a2e37d6a9631"
+  "htmlHash": "aa65ace42ade2c52c174a2e37d6a9631",
+  "attachments": [
+    "attachment.php?attach=19773&lang=en"
+  ]
 }

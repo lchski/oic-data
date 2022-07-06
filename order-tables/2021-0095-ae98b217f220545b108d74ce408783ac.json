@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0095</td><td>2021-02-26</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Environmental and Socio-economic Assessment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Assessable Activities, Exceptions and Executive Committee Projects Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ASSESSABLE ACTIVITIES, EXCEPTIONS AND EXECUTIVE COMMITEE PROJECTS REGULATIONS (MISCELLANEOUS PROGRAM) in order to provide clarity and accuracy to the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0027  <strong>Publication Date:</strong> 2021-03-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40269&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0095",
-  "htmlHash": "ae98b217f220545b108d74ce408783ac"
+  "htmlHash": "ae98b217f220545b108d74ce408783ac",
+  "attachments": [
+    "attachment.php?attach=40269&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1425</td><td>2009-08-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Part II of Schedule VI to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending PART II OF SCHEDULE VI TO THE FINANCIAL ADMINISTRATION ACT by adding the Canadian Northern Economic Development Agency to the schedule, effective August 18, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0247  <strong>Publication Date:</strong> 2009-09-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21309&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1425",
-  "htmlHash": "38423cd811dfed2d8af33f7701140f23"
+  "htmlHash": "38423cd811dfed2d8af33f7701140f23",
+  "attachments": [
+    "attachment.php?attach=21309&lang=en"
+  ]
 }

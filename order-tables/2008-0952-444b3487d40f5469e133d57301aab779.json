@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0952</td><td>2008-05-15</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Lands Agreement (1986) Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Confirmation of a SPECIFIC AGREEMENT between the NIPISSING FIRST NATION, the Crown and the Province of Ontario dated March 30, 1995.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18793&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0952",
-  "htmlHash": "444b3487d40f5469e133d57301aab779"
+  "htmlHash": "444b3487d40f5469e133d57301aab779",
+  "attachments": [
+    "attachment.php?attach=18793&lang=en"
+  ]
 }

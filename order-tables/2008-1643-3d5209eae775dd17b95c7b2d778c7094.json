@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1643</td><td>2008-09-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Tax Court of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue empowering four officers of the Courts Administration Service to administer oaths and receive affidavits, declarations and affirmations within or outside Canada, in or concerning any proceeding had or to be had in the TAX COURT OF CANADA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19444&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1643",
-  "htmlHash": "3d5209eae775dd17b95c7b2d778c7094"
+  "htmlHash": "3d5209eae775dd17b95c7b2d778c7094",
+  "attachments": [
+    "attachment.php?attach=19444&lang=en"
+  ]
 }

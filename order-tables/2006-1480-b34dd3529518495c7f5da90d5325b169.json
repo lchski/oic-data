@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1480</td><td>2006-12-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NORMAN RIVARD of Aurora, Ontario, to be a full-time member of the Canada Industrial Relations Board, to hold office during good behaviour for a term of three years; and orders that NORMAN RIVARD be deemed to be employed in the Public Service for the purposes of the Public Service Superannuation Act; effective January 15, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15456&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1480",
-  "htmlHash": "b34dd3529518495c7f5da90d5325b169"
+  "htmlHash": "b34dd3529518495c7f5da90d5325b169",
+  "attachments": [
+    "attachment.php?attach=15456&lang=en"
+  ]
 }

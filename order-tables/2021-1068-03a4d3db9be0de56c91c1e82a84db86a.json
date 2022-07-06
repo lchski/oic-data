@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-1068</td><td>2021-12-23</td><td></td><td></td><td>AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Dairy Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JENNIFER HAYES of Shigawake, Quebec, to be Chairperson of the Canadian Dairy Commission, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41438&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-1068",
-  "htmlHash": "03a4d3db9be0de56c91c1e82a84db86a"
+  "htmlHash": "03a4d3db9be0de56c91c1e82a84db86a",
+  "attachments": [
+    "attachment.php?attach=41438&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0072</td><td>2005-02-01</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing GORDON MacLEOD HAMRE and KAREN LAUREL JOY HAMRE to lease a parcel of land (Lot 1011) fronting on TIBBITT LAKE, in the Northwest Territories.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9349&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0072",
-  "htmlHash": "b3bb929f6e10207e75caa92d73506e21"
+  "htmlHash": "b3bb929f6e10207e75caa92d73506e21",
+  "attachments": [
+    "attachment.php?attach=9349&lang=en"
+  ]
 }

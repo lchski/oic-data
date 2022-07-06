@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0471</td><td>2017-05-05</td><td></td><td></td><td>TBS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Supplementary Estimates (A) 2017-2018 ** Tabling **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Tabling in the House of Commons of SUPPLEMENTARY ESTIMATES (A) for the federal public administration for the fiscal year ending on March 31, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34374&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0471",
-  "htmlHash": "ddb9e566ae0787cb162c78a049a39a66"
+  "htmlHash": "ddb9e566ae0787cb162c78a049a39a66",
+  "attachments": [
+    "attachment.php?attach=34374&lang=en"
+  ]
 }

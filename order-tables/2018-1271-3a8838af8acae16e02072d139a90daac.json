@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1271</td><td>2018-10-04</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANNETTE J. R. HORST, to be a puisne Judge of Her Majesty's Court of Queen's Bench for Manitoba (Family Division).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36952&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1271",
-  "htmlHash": "3a8838af8acae16e02072d139a90daac"
+  "htmlHash": "3a8838af8acae16e02072d139a90daac",
+  "attachments": [
+    "attachment.php?attach=36952&lang=en"
+  ]
 }

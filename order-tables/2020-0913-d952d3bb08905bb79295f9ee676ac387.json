@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0913</td><td>2020-11-20</td><td></td><td></td><td>,&nbsp; ISC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Band Election Regulations</td></tr><tr><td>Subject</td><td colspan=\"5\">Mohawks of the Bay of Quinte First Nation - Indian Band Election Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order acknowledging receipt of the report of the Minister of Indigenous Services, indicating that there was a violation of the INDIAN BAND ELECTION REGULATIONS that may have affected the results of the December 9, 2017 election of the council of the MOHAWKS OF THE BAY OF QUINTE FIRST NATION, located in Ontario.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39919&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0913",
-  "htmlHash": "d952d3bb08905bb79295f9ee676ac387"
+  "htmlHash": "d952d3bb08905bb79295f9ee676ac387",
+  "attachments": [
+    "attachment.php?attach=39919&lang=en"
+  ]
 }

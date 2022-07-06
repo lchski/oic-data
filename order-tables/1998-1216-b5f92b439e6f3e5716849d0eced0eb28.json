@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1216</td><td>1998-07-14</td><td>0</td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MALLETTE MAHEU of Ste-Foy, Quebec, as examiner to carry out\nthe special examination in respect of Canada Mortgage and Housing\nCorporation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1216",
-  "htmlHash": "b5f92b439e6f3e5716849d0eced0eb28"
+  "htmlHash": "b5f92b439e6f3e5716849d0eced0eb28",
+  "attachments": []
 }

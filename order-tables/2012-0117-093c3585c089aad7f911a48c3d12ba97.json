@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0117</td><td>2012-03-01</td><td></td><td></td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN LOUIS DOAN of Nanaimo, British Columbia, to be Chairperson of the Board of Referees for the British Columbia Regional Division, and particularly for the District of Nanaimo, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25584&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0117",
-  "htmlHash": "093c3585c089aad7f911a48c3d12ba97"
+  "htmlHash": "093c3585c089aad7f911a48c3d12ba97",
+  "attachments": [
+    "attachment.php?attach=25584&lang=en"
+  ]
 }

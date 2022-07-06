@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0826</td><td>2022-06-24</td><td></td><td></td><td>CIRNAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Niisaachewan Anishinaabe First Nation Flooding Claim Settlement Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Crown-Indigenous Relations to EXECUTE, on behalf of Her Majesty in right of Canada, the NIISAACHEWAN ANISHINAABE FIRST NATION FLOODING CLAIM SETTLEMENT AGREEMENT between Canada, Ontario, and the Niisaachewan Anishinaabe First Nation.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42380&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0826",
-  "htmlHash": "71013d373edb8be67cb77c340a4bc2bb"
+  "htmlHash": "71013d373edb8be67cb77c340a4bc2bb",
+  "attachments": [
+    "attachment.php?attach=42380&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0331</td><td>2005-03-11</td><td></td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of GLEN WALDEN PICCO of Marystown, Newfoundland and Labrador, to be a member of the Review Tribunal for the region of Marystown for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9869&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0331",
-  "htmlHash": "f259a9a70a9e77453fba3bfb8233cf14"
+  "htmlHash": "f259a9a70a9e77453fba3bfb8233cf14",
+  "attachments": [
+    "attachment.php?attach=9869&lang=en"
+  ]
 }

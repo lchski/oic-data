@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1081</td><td>2006-10-05</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Fiscal and Statistical Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">STATISTICAL DATA DISCLOSURE REGULATIONS which establish a list of federal departments, agencies and organizations that may provide the First Nations Statistical Institute with access to their data holdings for statistical purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0246  <strong>Publication Date:</strong> 2006-10-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15027&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1081",
-  "htmlHash": "46e58cbc4ea29d9d83a6f189216e44a5"
+  "htmlHash": "46e58cbc4ea29d9d83a6f189216e44a5",
+  "attachments": [
+    "attachment.php?attach=15027&lang=en"
+  ]
 }

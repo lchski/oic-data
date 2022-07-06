@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1012</td><td>2012-08-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2012-13</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID ANGELL as High Commissioner for Canada to the Republic of Kenya and as Permanent Representative of Canada to the United Nations Centre for Human Settlements and to the United Nations Environment Program, in Nairobi; LOUIS de LORIMIER as Ambassador of Canada to the Republic of Mali; WENDY DRUKIER as Ambassador of Canada to the Republic of Costa Rica and Ambassador of Canada to the Republic of Honduras and the Republic of Nicaragua, with residence in San José; PATRICIA FULLER as Ambassador of Canada to the Republic of Chile; GREG GIOKAS as High Commissioner for Canada to the Islamic Republic of Pakistan; ANDRÉ FRANÇOIS GIROUX as Ambassador of Canada to the Kingdom of Denmark; ARIF LALANI as Ambassador of Canada to the United Arab Emirates; JAMSHED MERCHANT as Consul General of Canada in Minneapolis, United States of America; PAMELA O'DONNELL as Ambassador of Canada to the Republic of Ecuador; CLAIRE POULIN as Ambassador of Canada to the Eastern Republic of Uruguay; and DENIS ROBERT as Ambassador of Canada to the Kingdom of Belgium.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1012",
-  "htmlHash": "067fa35d7e2dd5407749d4f658ff1837"
+  "htmlHash": "067fa35d7e2dd5407749d4f658ff1837",
+  "attachments": [
+    "attachment.php?attach=26447&lang=en"
+  ]
 }

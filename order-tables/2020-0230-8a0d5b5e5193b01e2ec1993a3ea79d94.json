@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0230</td><td>2020-04-03</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Investment Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Investment Canada Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the INVESTMENT CANADA REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) support the implementation of the Canada–United States–Mexico Agreement; and (2) ensure the regulations continue to be effective.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0076  <strong>Publication Date:</strong> 2020-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39072&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0230",
-  "htmlHash": "8a0d5b5e5193b01e2ec1993a3ea79d94"
+  "htmlHash": "8a0d5b5e5193b01e2ec1993a3ea79d94",
+  "attachments": [
+    "attachment.php?attach=39072&lang=en"
+  ]
 }

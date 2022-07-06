@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0786</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC</td></tr><tr><td>Act</td><td colspan=\"5\">Mackenzie Valley Resource Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Mackenzie Valley Land Use Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MACKENZIE VALLEY LAND USE REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) correct certain typographical errors in the Regulations; and (2) remove an illegal fee calculation rule in the application form contained in Schedule 2 of the English and French versions of the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0134  <strong>Publication Date:</strong> 2017-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34692&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0786",
-  "htmlHash": "40ee72f82a6f11ce0ea23d03e9509cac"
+  "htmlHash": "40ee72f82a6f11ce0ea23d03e9509cac",
+  "attachments": [
+    "attachment.php?attach=34692&lang=en"
+  ]
 }

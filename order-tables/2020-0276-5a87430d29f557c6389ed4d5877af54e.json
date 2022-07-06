@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0276</td><td>2020-04-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSPC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Tim Noyes-Brown as Jade ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that National Capital Commission grant an option to extend the lease with TIM NOYES-BROWN doing business as JADE for a period of five years, beginning on May 1, 2020, for the real property located on the ground floor at 531A Sussex drive, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39183&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0276",
-  "htmlHash": "5a87430d29f557c6389ed4d5877af54e"
+  "htmlHash": "5a87430d29f557c6389ed4d5877af54e",
+  "attachments": [
+    "attachment.php?attach=39183&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0320</td><td>1997-03-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the the Minister of Foreign Affairs (a) to sign amendments\nto Annex 401 and to the tariff schedules to Annex 302.2 of the NORTH\nAMERICAN FREE TRADE AGREEMENT between Canada, the UNITED STATES OF AMERICA\nand UNITED MEXICAN STATES, or (b) to issue an Instrument of Full Powers\nauthorizing either the Hon. Arthur C. Eggleton, Robert G. Wright,\nRaymond A.J. Chrétien, or Douglas Waddell, to sign the said amendments.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0320",
-  "htmlHash": "49a5c2cd42b10eb9a788f326fc5c749b"
+  "htmlHash": "49a5c2cd42b10eb9a788f326fc5c749b",
+  "attachments": []
 }

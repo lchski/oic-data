@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1122</td><td>2003-07-24</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (MOTORCYCLES AND THREE-WHEELED VEHICLES) AND THE MOTOR VEHICLE TIRE SAFETY REGULATIONS, 1995 by modifying the existing classification definition for motorcycles, introducing a new vehicle class for three-wheeled vehicles and by introducing safety standards addressing fuel system integrity and vehicle stability requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0272  <strong>Publication Date:</strong> 2003-08-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3225&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1122",
-  "htmlHash": "c143539508dbb51cbb95c35c59f0ded2"
+  "htmlHash": "c143539508dbb51cbb95c35c59f0ded2",
+  "attachments": [
+    "attachment.php?attach=3225&lang=en"
+  ]
 }

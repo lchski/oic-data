@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1106</td><td>2006-10-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign the FINAL ACTS of the International Telecommunication Union Plenipotentiary Conference, Antalya (2006).\nTREASURY BOARD  (PART A) - OCTOBER 19, 2006</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15066&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1106",
-  "htmlHash": "1cabea5621a1c606820d1823249e6edd"
+  "htmlHash": "1cabea5621a1c606820d1823249e6edd",
+  "attachments": [
+    "attachment.php?attach=15066&lang=en"
+  ]
 }

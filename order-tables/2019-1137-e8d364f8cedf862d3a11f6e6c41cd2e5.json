@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1137</td><td>2019-08-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Customs Tariff (CPTPP)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the SCHEDULE TO THE CUSTOMS TARIFF (CPTPP) in order to (1) revert to the negotiated tariff outcome of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP); (2) address the unintended cost to the fiscal framework of foregone tariff revenues; and (3) remit any customs duties that should not have been collected under the tariff commitments of Canada in the CPTPP.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0292  <strong>Publication Date:</strong> 2019-08-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38473&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1137",
-  "htmlHash": "e8d364f8cedf862d3a11f6e6c41cd2e5"
+  "htmlHash": "e8d364f8cedf862d3a11f6e6c41cd2e5",
+  "attachments": [
+    "attachment.php?attach=38473&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0290</td><td>2008-02-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MUNIR SHEIKH of Ottawa, Ontario, as Chief Statistician Designate, to hold office during pleasure, effective March 3, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18178&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0290",
-  "htmlHash": "d8c234ab7b605cef96821efd8d958bc6"
+  "htmlHash": "d8c234ab7b605cef96821efd8d958bc6",
+  "attachments": [
+    "attachment.php?attach=18178&lang=en"
+  ]
 }

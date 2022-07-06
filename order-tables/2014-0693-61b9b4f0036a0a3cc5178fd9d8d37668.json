@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0693</td><td>2014-06-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Ferry Services Contribution Program</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to lease marine vessels that are public property for the delivery of the FERRY SERVICES CONTRIBUTION PROGRAM.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29545&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0693",
-  "htmlHash": "61b9b4f0036a0a3cc5178fd9d8d37668"
+  "htmlHash": "61b9b4f0036a0a3cc5178fd9d8d37668",
+  "attachments": [
+    "attachment.php?attach=29545&lang=en"
+  ]
 }

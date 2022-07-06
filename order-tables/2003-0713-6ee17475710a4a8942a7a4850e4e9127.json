@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0713</td><td>2003-05-15</td><td>24</td><td>1999</td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Land Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MAY 20, 2003, as the day on which section 45 of the FIRST NATIONS LAND MANAGEMENT ACT [Bill C-49], being chapter 24 of the Statutes of Canada, 1999, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0108  <strong>Publication Date:</strong> 2003-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2384&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0713",
-  "htmlHash": "6ee17475710a4a8942a7a4850e4e9127"
+  "htmlHash": "6ee17475710a4a8942a7a4850e4e9127",
+  "attachments": [
+    "attachment.php?attach=2384&lang=en"
+  ]
 }

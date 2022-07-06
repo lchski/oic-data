@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1388</td><td>1991-08-01</td><td>0</td><td></td><td>PTB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Jack Tennier as a member and Chairman of the Advisory\nCommittee on the Public Service Superannuation Act for a term effective\nJune 3, 1991 and ending May 4, 1992; and reappointment of certain persons\nas members of the said Committee for a term effective June 3, 1991 and\nending May 4, 1992.\n(Leslie Barnes; Daryl Bean; Albert Burke; Mercedes Chartier-Gauvin;\nIris Craig; Martha Hynna; James Livingston; and Gary Myers)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1388",
-  "htmlHash": "508db7cfb44b1d7094f0e0433c75688c"
+  "htmlHash": "508db7cfb44b1d7094f0e0433c75688c",
+  "attachments": []
 }

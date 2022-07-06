@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1837</td><td>1999-10-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ORDER AMENDING THE ACCESS TO INFORMATION ACT HEADS OF\nGOVERNMENT INSTITUTIONS DESIGNATION ORDER by changing the coming into\nforce date of subsections 1(2) and 2(2) to June 3, 2001.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0122  <strong>Publication Date:</strong> 1999-10-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1837",
-  "htmlHash": "4df64c233cb2feeb2cb85016f6fdb61d"
+  "htmlHash": "4df64c233cb2feeb2cb85016f6fdb61d",
+  "attachments": []
 }

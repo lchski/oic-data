@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1029</td><td>2000-06-21</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SHIP STATION (RADIO) REGULATIONS, 1999 which require\ndomestic commercial ships to be fitted with radio equipment that is\ncompatible with the Global Maritime Distress and Safety System, set out the\ntechnical and operational requirements for these devices and provide for\nthe repeal of the Ship Station Radio Regulations, effective April 1, 2001.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0260  <strong>Publication Date:</strong> 2000-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1029",
-  "htmlHash": "bff96c0f270f48911d457a04e87efb48"
+  "htmlHash": "bff96c0f270f48911d457a04e87efb48",
+  "attachments": []
 }

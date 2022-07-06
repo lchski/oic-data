@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1533</td><td>1994-09-13</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for Ambassador Murray Fairweather or Herbert P.G. Fraser,\nCounsellor and Consul, to sign an Exchange of Notes between Canada and\nROMANIA amending the bilateral AGREEMENT FOR COOPERATION IN THE DEVELOPMENT\nAND APPLICATION OF ATOMIC ENERGY FOR PEACEFUL PURPOSES.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1533",
-  "htmlHash": "cf5860716c67648abf13392c36bfaac9"
+  "htmlHash": "cf5860716c67648abf13392c36bfaac9",
+  "attachments": []
 }

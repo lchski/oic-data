@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0829</td><td>1995-05-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the HULL CONSTRUCTION REGULATIONS which convert the units of\nmeasure from imperial to metric, revoke Schedule III as well as provisions\nduplicated in the Marine Machinery Regulations, clarify the scope of the\napproval power vested in the Chairman of the Board of Steamships Inspection\nand incorporate the requirements of the International Convention for the\nSafety of Life at Sea, 1974 respecting double bottoms in passenger vessels.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0254  <strong>Publication Date:</strong> 1995-06-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0829",
-  "htmlHash": "e9ed6ea0516a12b36f725d9a9716b205"
+  "htmlHash": "e9ed6ea0516a12b36f725d9a9716b205",
+  "attachments": []
 }

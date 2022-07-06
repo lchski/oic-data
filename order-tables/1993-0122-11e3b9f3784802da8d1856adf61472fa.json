@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0122</td><td>1993-01-28</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer made by the COMMISSIONER of the YUKON TERRITORY\nof the administration and control over a number of parcels of land situated\nin the Dome Road Subdivision of the City of Dawson, Yukon Territory, which\nare required for the purposes of housing for the Dawson Indian Band.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0122",
-  "htmlHash": "11e3b9f3784802da8d1856adf61472fa"
+  "htmlHash": "11e3b9f3784802da8d1856adf61472fa",
+  "attachments": []
 }

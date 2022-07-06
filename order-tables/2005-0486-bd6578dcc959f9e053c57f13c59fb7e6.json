@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0486</td><td>2005-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs or other signatories to sign an AGREEMENT between Canada and the SWISS CONFEDERATION regarding the Sharing of Forfeited or Confiscated Assets or their Equivalent Sums.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0486",
-  "htmlHash": "bd6578dcc959f9e053c57f13c59fb7e6"
+  "htmlHash": "bd6578dcc959f9e053c57f13c59fb7e6",
+  "attachments": [
+    "attachment.php?attach=10158&lang=en"
+  ]
 }

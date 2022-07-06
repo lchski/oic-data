@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2107</td><td>2005-11-21</td><td>30</td><td>2005</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2005</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 30, 2005 as the day on which Part 17 (amendments to the Currency Act) of this Act [BILL C-43], being chapter 30 of the Statutes of Canada, 2005, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0126  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13497&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2107",
-  "htmlHash": "cb33d9a54c977b2760cf816dd2a43675"
+  "htmlHash": "cb33d9a54c977b2760cf816dd2a43675",
+  "attachments": [
+    "attachment.php?attach=13497&lang=en"
+  ]
 }

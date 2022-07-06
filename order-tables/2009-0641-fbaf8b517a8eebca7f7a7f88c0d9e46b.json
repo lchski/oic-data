@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0641</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister to sign, on behalf of Canada, subject to ratification, the FRAMEWORK AGREEMENT ON INTEGRATED CROSS-BORDER MARITIME LAW ENFORCEMENT OPERATIONS between the Government of Canada and the Government of the United States of America.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20463&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0641",
-  "htmlHash": "fbaf8b517a8eebca7f7a7f88c0d9e46b"
+  "htmlHash": "fbaf8b517a8eebca7f7a7f88c0d9e46b",
+  "attachments": [
+    "attachment.php?attach=20463&lang=en"
+  ]
 }

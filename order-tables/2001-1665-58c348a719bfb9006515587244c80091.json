@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1665</td><td>2001-09-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following OFFICERS of the Royal Canadian Mounted Police:\n.\n    OFFICER                                          NEW RANK\n    --------------------------------------------     ----------------------\n 1. Inspector GARY W. BARNES                         Superintendent\n 2. Inspector RICHARD G. BARSZCZEWSKI                Superintendent\n 3. Inspector CARLETON W. BUSSON                     Superintendent\n 4. Inspector WARD D. CLAPHAM                        Superintendent\n 5. Inspector GERALD R. GRATTAN                      Superintendent\n 6. Inspector ROBERT W. HURMAN                       Superintendent\n 7. Inspector WILLIAM A. SMITH                       Superintendent\n    --------------------------------------------     ----------------------\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1665",
-  "htmlHash": "58c348a719bfb9006515587244c80091"
+  "htmlHash": "58c348a719bfb9006515587244c80091",
+  "attachments": []
 }

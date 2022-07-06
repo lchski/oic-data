@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-2012</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to paragraphs (a) and (b) of Order in Council P.C. 1993-2223 of\nDecember 31, 1993, as amended by Order in Council P.C. 1994-512 of\nMarch 24, 1994, concerning the appointment of CATHY BEEHAN as Secretary\nof the Canadian Secretariat, by revoking the words \"for a term of three\nyears commencing January 1, 1994\" and substituting the words \"for a term\nending February 28, 1997\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-2012",
-  "htmlHash": "6931666ed2bce5191e3f81429f6f70af"
+  "htmlHash": "6931666ed2bce5191e3f81429f6f70af",
+  "attachments": []
 }

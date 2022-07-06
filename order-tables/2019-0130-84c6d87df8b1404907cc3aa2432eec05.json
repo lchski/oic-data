@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0130</td><td>2019-02-28</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Various GST/HST Regulations, No. 11</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending VARIOUS GST/HST REGULATIONS, NO. 11  in order  to (1) modify existing GST/HST regulations made under the Excise Tax Act to clarify the longstanding policy intent of certain rules; (2) make housekeeping amendments; and, (3) make consequential amendments in response to changes to the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0059  <strong>Publication Date:</strong> 2019-03-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37449&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0130",
-  "htmlHash": "84c6d87df8b1404907cc3aa2432eec05"
+  "htmlHash": "84c6d87df8b1404907cc3aa2432eec05",
+  "attachments": [
+    "attachment.php?attach=37449&lang=en"
+  ]
 }

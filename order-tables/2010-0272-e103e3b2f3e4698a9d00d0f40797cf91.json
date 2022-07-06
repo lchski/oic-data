@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0272</td><td>2010-03-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RC,&nbsp; CRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Treaty Land Entitlement (Saskatchewan) Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending theTreaty Land Entitlement (Saskatchewan) Remission Order remitting the goods and services tax (GST) paid or payable on land purchases made by the GEORGE GORDON FIRST NATION and the PASQUA FIRST NATION in the Province of Saskatchewan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0026  <strong>Publication Date:</strong> 2010-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22250&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0272",
-  "htmlHash": "e103e3b2f3e4698a9d00d0f40797cf91"
+  "htmlHash": "e103e3b2f3e4698a9d00d0f40797cf91",
+  "attachments": [
+    "attachment.php?attach=22250&lang=en"
+  ]
 }

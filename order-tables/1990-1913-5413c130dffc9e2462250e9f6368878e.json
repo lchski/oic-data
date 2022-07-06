@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1913</td><td>1990-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to Joseph Henri Lucien Campeau and Arlene Elizabeth CAMPEAU of a\nsurplus real property situate at NELWAY, British Columbia, which consists\nof a parcel of land containing an area of some 0.389 hectares as well as\nthe improvements erected thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1913",
-  "htmlHash": "5413c130dffc9e2462250e9f6368878e"
+  "htmlHash": "5413c130dffc9e2462250e9f6368878e",
+  "attachments": []
 }

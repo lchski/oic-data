@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1451</td><td>2006-11-30</td><td></td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Payments in Lieu of Taxes Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CROWN CORPORATION PAYMENTS REGULATIONS (MISCELLANEOUS PROGRAM) to the extent of rewording the French version of paragraph 9(c) so that it is consistent with the English version.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0325  <strong>Publication Date:</strong> 2006-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15432&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1451",
-  "htmlHash": "d877e5d902622e501548b624aeb54dbe"
+  "htmlHash": "d877e5d902622e501548b624aeb54dbe",
+  "attachments": [
+    "attachment.php?attach=15432&lang=en"
+  ]
 }

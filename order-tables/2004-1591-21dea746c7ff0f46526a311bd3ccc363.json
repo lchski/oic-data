@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1591</td><td>2004-12-16</td><td></td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of GLEN D. WILSON of Calgary, Alberta, to be a part-time member of the Canada Industrial Relations Board, to hold office during good behaviour for a term of two years; and order that GLEN D. WILSON be deemed to be employed in the Public Service for the purposes of the Public Service Superannuation Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9090&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-1591",
-  "htmlHash": "21dea746c7ff0f46526a311bd3ccc363"
+  "htmlHash": "21dea746c7ff0f46526a311bd3ccc363",
+  "attachments": [
+    "attachment.php?attach=9090&lang=en"
+  ]
 }

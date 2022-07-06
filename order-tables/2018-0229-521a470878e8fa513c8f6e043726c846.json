@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0229</td><td>2018-03-06</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Gerald A. Verville ** RETIREMENT AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement and granting of an ANNUITY to the Hon. GERALD A. VERVILLE, a Judge of the Court of Queen’s Bench of Alberta, effective March 1, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35891&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0229",
-  "htmlHash": "521a470878e8fa513c8f6e043726c846"
+  "htmlHash": "521a470878e8fa513c8f6e043726c846",
+  "attachments": [
+    "attachment.php?attach=35891&lang=en"
+  ]
 }

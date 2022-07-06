@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1115</td><td>2018-09-07</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CLIFFORD STANLEY ISAAK as Honorary Consul of Canada at Tbilisi, Republic of Georgia, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36794&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1115",
-  "htmlHash": "ab33ed8d0f976fa88d4595280d954fba"
+  "htmlHash": "ab33ed8d0f976fa88d4595280d954fba",
+  "attachments": [
+    "attachment.php?attach=36794&lang=en"
+  ]
 }

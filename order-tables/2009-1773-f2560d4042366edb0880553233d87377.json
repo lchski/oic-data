@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1773</td><td>2009-10-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Real Property located at 348 Bradley Road, Pontiac, QC **Acquisition **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to acquire a real property partly within the limits of Gatineau Park located at 348 Bradley Road, Luskville in Pontiac, Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21656&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1773",
-  "htmlHash": "f2560d4042366edb0880553233d87377"
+  "htmlHash": "f2560d4042366edb0880553233d87377",
+  "attachments": [
+    "attachment.php?attach=21656&lang=en"
+  ]
 }

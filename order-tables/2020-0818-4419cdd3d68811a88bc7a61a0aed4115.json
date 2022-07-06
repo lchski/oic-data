@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0818</td><td>2020-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan Investment  Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of HEATHER MUNROE-BLUM, O.C., O.Q., of Montréal, Quebec, as a director of the board of directors of the Canada Pension Plan Investment Board, to hold office during good behaviour for a term of three years; and her designation as Chairperson of the board of directors of the Canada Pension Plan Investment Board, effective October 27, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39802&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0818",
-  "htmlHash": "4419cdd3d68811a88bc7a61a0aed4115"
+  "htmlHash": "4419cdd3d68811a88bc7a61a0aed4115",
+  "attachments": [
+    "attachment.php?attach=39802&lang=en"
+  ]
 }

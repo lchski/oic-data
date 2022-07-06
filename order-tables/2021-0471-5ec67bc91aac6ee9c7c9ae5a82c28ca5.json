@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0471</td><td>2021-06-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Annex A to the Canadian Agricultural Partnership (Federal-Provincial-Territorial Framework Agreement)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending Annex A to the Canadian Agricultural Partnership (Federal-Provincial-Territorial Framework Agreement) in order to allow governments to increase income protection support for primary agriculture producers who are faced with net income declines beyond their capacity to manage by removing a cap on payments, known as the Reference Margin Limit.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40721&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0471",
-  "htmlHash": "5ec67bc91aac6ee9c7c9ae5a82c28ca5"
+  "htmlHash": "5ec67bc91aac6ee9c7c9ae5a82c28ca5",
+  "attachments": [
+    "attachment.php?attach=40721&lang=en"
+  ]
 }

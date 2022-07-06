@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0927</td><td>2019-06-22</td><td>8</td><td>2018</td><td>,&nbsp; ,&nbsp; ,&nbsp; ISED,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2020 as the Day on which Section 24 of that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2020, as the day on which section 24 of AN ACT TO AMEND THE CANADA BUSINESS CORPORATIONS ACT, THE CANADA COOPERATIVES ACT, THE CANADA NOT-FOR-PROFIT CORPORATIONS ACT AND THE COMPETITION ACT, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2019-0050  <strong>Publication Date:</strong> 2019-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38252&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0927",
-  "htmlHash": "42e67a4c296c06bb75081e3d371b5655"
+  "htmlHash": "42e67a4c296c06bb75081e3d371b5655",
+  "attachments": [
+    "attachment.php?attach=38252&lang=en"
+  ]
 }

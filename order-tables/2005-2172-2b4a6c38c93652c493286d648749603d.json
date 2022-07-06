@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2172</td><td>2005-11-22</td><td></td><td></td><td>TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ADRIAN MEASNER of East St. Paul, Manitoba, to be president of The Canadian Wheat Board, to hold office during pleasure for a term of three years, effective December 31, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13851&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2172",
-  "htmlHash": "2b4a6c38c93652c493286d648749603d"
+  "htmlHash": "2b4a6c38c93652c493286d648749603d",
+  "attachments": [
+    "attachment.php?attach=13851&lang=en"
+  ]
 }

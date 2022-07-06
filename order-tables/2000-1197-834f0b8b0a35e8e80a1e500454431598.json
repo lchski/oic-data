@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1197</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SIMON DORVAL, of Sainte-Agathe Sud, Quebec, as a\npermanent member of the Veterans Review and Appeal Board to hold office\nduring good behaviour for a term of five years, effective December 1,\n2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1197",
-  "htmlHash": "834f0b8b0a35e8e80a1e500454431598"
+  "htmlHash": "834f0b8b0a35e8e80a1e500454431598",
+  "attachments": []
 }

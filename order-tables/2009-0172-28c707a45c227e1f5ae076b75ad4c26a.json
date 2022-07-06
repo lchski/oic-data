@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0172</td><td>2009-02-05</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 105 - which authorizes the federal government to provide financial assistance to the province of SASKATCHEWAN in respect of damage caused by flooding in the northeast and East parts of SASKATCHEWAN, the Star Blanket First Nation and the Red Earth First Nation from March 1, 2007 to November 30, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20020&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0172",
-  "htmlHash": "28c707a45c227e1f5ae076b75ad4c26a"
+  "htmlHash": "28c707a45c227e1f5ae076b75ad4c26a",
+  "attachments": [
+    "attachment.php?attach=20020&lang=en"
+  ]
 }

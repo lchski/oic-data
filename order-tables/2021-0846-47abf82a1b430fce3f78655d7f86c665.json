@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0846</td><td>2021-08-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Privacy Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE PRIVACY ACT in order to add Federal Economic Development Agency for Northern Ontario under the Schedule of that Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0194  <strong>Publication Date:</strong> 2021-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41156&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0846",
-  "htmlHash": "47abf82a1b430fce3f78655d7f86c665"
+  "htmlHash": "47abf82a1b430fce3f78655d7f86c665",
+  "attachments": [
+    "attachment.php?attach=41156&lang=en"
+  ]
 }

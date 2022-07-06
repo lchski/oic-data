@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0248</td><td>2011-02-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; NEB</td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of Certificate GC-117 and Amending Order AO-1-GC-108 (Variance of National Energy Board Certificate GC-108)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the issuance by the National Energy Board of Certificate of Public Convenience and Necessity No. GC-117 to NOVA Gas Transmission Ltd. and Amending Order AO-1-GC-108 to Encana Corporation for the Horn River pipeline project.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23904&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0248",
-  "htmlHash": "63893621d153c6c5d35e72bfb309015d"
+  "htmlHash": "63893621d153c6c5d35e72bfb309015d",
+  "attachments": [
+    "attachment.php?attach=23904&lang=en"
+  ]
 }

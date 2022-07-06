@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0779</td><td>2010-06-17</td><td>39 and 47</td><td>2010</td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Oil and Gas Operations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Compulsory Unitization of the Canada Oil and Gas Operations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which directs that a proclamation do issue fixing July 31, 2010 as the day on which sections 39 to 47 of the COMPULSORY UNITIZATION OF THE CANADA OIL AND GAS OPERATIONS ACT.  The absence of this third authority (compulsory unitization) has created a regulatory gap.  The coming into force of theses sections will close this gap and regularize northern and east coast offshore frontier oil and gas administrative regions.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22754&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0779",
-  "htmlHash": "95cc7b9b21782c031251f723af2b4e10"
+  "htmlHash": "95cc7b9b21782c031251f723af2b4e10",
+  "attachments": [
+    "attachment.php?attach=22754&lang=en"
+  ]
 }

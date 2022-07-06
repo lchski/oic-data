@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1173</td><td>2017-09-22</td><td></td><td></td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Metal Mining Effluent Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the METAL MINING EFFLUENT REGULATIONS in order to enable the deposit of mine waste in three fish-frequented water bodies at the Rainy River Mine.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2017-0197  <strong>Publication Date:</strong> 2017-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35078&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1173",
-  "htmlHash": "85b058cf1d4dfb6094c1c95509079a27"
+  "htmlHash": "85b058cf1d4dfb6094c1c95509079a27",
+  "attachments": [
+    "attachment.php?attach=35078&lang=en"
+  ]
 }

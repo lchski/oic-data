@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0458</td><td>1996-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SETTLEMENT AGREEMENT with the ROSEAU RIVER INDIAN\nBAND and an annexed AGREEMENT with the Province of MANITOBA, for the\npurpose of resolving specific claims pertaining to the setting apart of\nreserves for the members of that Band, as provided for in Treaty No. 1 of\nAugust 3, 1871.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0458",
-  "htmlHash": "921582637f368be63b85a1b8814b2ef6"
+  "htmlHash": "921582637f368be63b85a1b8814b2ef6",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0762</td><td>2006-08-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Appointment Regulations, No. 2006-19</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GEORGE DA PONT, of Ottawa, Ontario, to the position of Commissioner of the Canadian Coast Guard, effective September 5, 2006.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14703&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0762",
-  "htmlHash": "0eb05ca500cb00c50795d40a3602fd36"
+  "htmlHash": "0eb05ca500cb00c50795d40a3602fd36",
+  "attachments": [
+    "attachment.php?attach=14703&lang=en"
+  ]
 }

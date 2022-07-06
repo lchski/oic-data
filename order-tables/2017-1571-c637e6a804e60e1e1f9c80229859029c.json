@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1571</td><td>2017-12-14</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Mortgage and Housing Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Employment and Social Development of LINDA MORRIS of Surrey, British Columbia, to be a director of the Board of Directors of the Canada Mortgage and Housing Corporation, to hold office during pleasure, on a part-time basis, for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35481&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1571",
-  "htmlHash": "c637e6a804e60e1e1f9c80229859029c"
+  "htmlHash": "c637e6a804e60e1e1f9c80229859029c",
+  "attachments": [
+    "attachment.php?attach=35481&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1048</td><td>2019-07-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Prompt Payment for Construction Work Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Public Works and Government Services, a member of the Queen's Privy Council for Canada, as the Minister for the purposes of that Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the Minister of Public Works and Government Services, a member of the Queen's Privy Council for Canada, as the Minister for the purposes of the FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38376&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1048",
-  "htmlHash": "b81529d600113d04640b8efdb1c2ce25"
+  "htmlHash": "b81529d600113d04640b8efdb1c2ce25",
+  "attachments": [
+    "attachment.php?attach=38376&lang=en"
+  ]
 }

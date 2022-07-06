@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0802</td><td>2020-10-09</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Automatic Firearms Country Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the AUTOMATIC FIREARMS COUNTRY CONTROL LIST (AFCCL) in order to 1) add Austria, Ireland, Japan and Switzerland to the AFCCL; and (2) allow Canadians who own one of the 1500 models and variants of firearms that were reclassified as prohibited on May 1, 2020, additional options to dispose of them through export to their original manufacturers.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39786&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0802",
-  "htmlHash": "7cfa1014485172081b0d16d4a767630a"
+  "htmlHash": "7cfa1014485172081b0d16d4a767630a",
+  "attachments": [
+    "attachment.php?attach=39786&lang=en"
+  ]
 }

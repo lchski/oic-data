@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2214</td><td>2002-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act<br>Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION (a) to ACQUIRE a parcel of land of approximately 2,446 m² in the Township of Gloucester, (b) to CONVEY some 3.41 hectares of vacant land in the Township of Nepean to the City of Ottawa , and (c) to EXTEND existing easements granted to the City of Ottawa for the Glen Cairn Trunk Sewer and the Alvin Heights Pullback Sewer.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=854&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2214",
-  "htmlHash": "e16b1eae3837a2dba0e6818a8baac0d5"
+  "htmlHash": "e16b1eae3837a2dba0e6818a8baac0d5",
+  "attachments": [
+    "attachment.php?attach=854&lang=en"
+  ]
 }

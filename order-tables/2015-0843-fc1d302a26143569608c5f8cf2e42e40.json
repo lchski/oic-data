@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0843</td><td>2015-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Mineral Rights Transfer Agreement ** Manitoba **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the Minister of Natural Resources to enter into the MINERAL RIGHTS TRANSFER AGREEMENT on behalf of Her Majesty the Queen in right of Canada, with Her Majesty the Queen in right of Manitoba; and (2) transfering to Her Majesty the Queen in right of Manitoba the administration and control of the entire interest or any right of Her Majesty the Queen in right of Canada in mines and minerals that are federal real properties and are referred to in the Minerals Rights Transfer Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31166&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0843",
-  "htmlHash": "fc1d302a26143569608c5f8cf2e42e40"
+  "htmlHash": "fc1d302a26143569608c5f8cf2e42e40",
+  "attachments": [
+    "attachment.php?attach=31166&lang=en"
+  ]
 }

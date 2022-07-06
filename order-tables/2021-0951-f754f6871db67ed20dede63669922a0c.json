@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0951</td><td>2021-10-26</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Duties Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring from the Department of Canadian Heritage to the Department for Women and Gender Equality the control and supervision of the LGBTQ2 Secretariat.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0096  <strong>Publication Date:</strong> 2021-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41312&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0951",
-  "htmlHash": "f754f6871db67ed20dede63669922a0c"
+  "htmlHash": "f754f6871db67ed20dede63669922a0c",
+  "attachments": [
+    "attachment.php?attach=41312&lang=en"
+  ]
 }

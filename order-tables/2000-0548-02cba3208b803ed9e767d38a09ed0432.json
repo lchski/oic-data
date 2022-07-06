@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0548</td><td>2000-04-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INSURABLE EARNINGS AND COLLECTION OF PREMIUMS REGULATIONS which set out the formula to be used to determine the E.I. premiums payable by</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0158  <strong>Publication Date:</strong> 2000-04-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0548",
-  "htmlHash": "02cba3208b803ed9e767d38a09ed0432"
+  "htmlHash": "02cba3208b803ed9e767d38a09ed0432",
+  "attachments": []
 }

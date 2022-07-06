@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2052</td><td>2002-12-03</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of FELIX MORA of Toronto, Ontario, and ELKE HOMSI of Toronto, Ontario, to be full-time members of the Immigration and Refugee Board (Toronto Regional Offie), to hold office during good behaviour for a term of two years, effective December 14, 2002.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=540&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2002-2052",
-  "htmlHash": "d20364ceccd65eea28d5f7268ecc44c6"
+  "htmlHash": "d20364ceccd65eea28d5f7268ecc44c6",
+  "attachments": [
+    "attachment.php?attach=540&lang=en"
+  ]
 }

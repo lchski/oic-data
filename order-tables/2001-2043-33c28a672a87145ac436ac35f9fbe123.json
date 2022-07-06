@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2043</td><td>2001-11-05</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing and directing THE CANADIAN WHEAT BOARD to make INTERIM\nPAYMENTS to producers from the undistributed balance in the 2000-2001 Pool\nAccounts for wheat, amber durum wheat, barley and designated barley.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2043",
-  "htmlHash": "33c28a672a87145ac436ac35f9fbe123"
+  "htmlHash": "33c28a672a87145ac436ac35f9fbe123",
+  "attachments": []
 }

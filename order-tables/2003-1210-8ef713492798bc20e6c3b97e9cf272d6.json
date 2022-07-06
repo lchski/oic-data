@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1210</td><td>2003-08-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; INT'L TRADE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northern Pipeline Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment to the SHAREHOLDERS AGREEMENT originally entered into by Westcoast Transmission Company Limited, Alberta Gas Trunk Line Company Limited and Foothills Pipe Lines (Yukon) Ltd. on August 4, 1977, to allow TransCanada PipeLines Limited to purchase the remaining 50 per cent of Foothills from Westcoast Energy Inc.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3507&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1210",
-  "htmlHash": "8ef713492798bc20e6c3b97e9cf272d6"
+  "htmlHash": "8ef713492798bc20e6c3b97e9cf272d6",
+  "attachments": [
+    "attachment.php?attach=3507&lang=en"
+  ]
 }

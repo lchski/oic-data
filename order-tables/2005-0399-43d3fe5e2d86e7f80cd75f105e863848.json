@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0399</td><td>2005-03-22</td><td>8</td><td>2003</td><td>,&nbsp; ,&nbsp; ,&nbsp; PSEP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Criminal Code (firearms) and the Firearms Act<br>Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 10, 2005 as the day upon which (a) specified provisions of this Act [BILL C-10A], being chapter 8 of the Statutes of Canada, 2003, COME INTO FORCE, and (b) paragraph 24(2)(c) of the Firearms Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0027  <strong>Publication Date:</strong> 2005-04-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9981&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0399",
-  "htmlHash": "43d3fe5e2d86e7f80cd75f105e863848"
+  "htmlHash": "43d3fe5e2d86e7f80cd75f105e863848",
+  "attachments": [
+    "attachment.php?attach=9981&lang=en"
+  ]
 }

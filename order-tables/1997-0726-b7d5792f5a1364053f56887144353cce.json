@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0726</td><td>1997-05-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment, effective May 19, 1997, of Order in Council P.C. 1992-972 of\nMay 13, 1992 as amended by Order in Council P.C. 1996-300 of March 12,\n1996 which will extend the appointment of LAURENT MERCIER as part-time\nmember of the National Farm Products Marketing Council until August 22,\n1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0726",
-  "htmlHash": "b7d5792f5a1364053f56887144353cce"
+  "htmlHash": "b7d5792f5a1364053f56887144353cce",
+  "attachments": []
 }

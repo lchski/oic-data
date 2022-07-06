@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0131</td><td>2009-01-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the issuance by the NATIONAL ENERGY BOARD ACT to REPSOL ENERGY CANADA LTD. of Licences GL-296 and GL-297.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19977&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0131",
-  "htmlHash": "b83a5c8946db314d5296f7129cb6689b"
+  "htmlHash": "b83a5c8946db314d5296f7129cb6689b",
+  "attachments": [
+    "attachment.php?attach=19977&lang=en"
+  ]
 }

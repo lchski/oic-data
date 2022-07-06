@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0281</td><td>2005-03-08</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Business Corporations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA BUSINESS CORPORATIONS REGULATIONS, 2001 by allowing companies who are registered with the U.S. SECURITIES AND EXCHANGE COMMISSION to prepare their financial statements in accordance with American accounting principles and auditing standards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0051  <strong>Publication Date:</strong> 2005-03-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9752&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0281",
-  "htmlHash": "f9581938236d52c767f64b7de989061c"
+  "htmlHash": "f9581938236d52c767f64b7de989061c",
+  "attachments": [
+    "attachment.php?attach=9752&lang=en"
+  ]
 }

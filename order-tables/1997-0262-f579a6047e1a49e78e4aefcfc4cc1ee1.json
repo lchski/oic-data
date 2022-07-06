@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0262</td><td>1997-02-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADA PORTS CORPORATION (a) to acquire title from the\nCrown with respect to a property comprised of two waterlots of\n23,206 square metres being part of the bed of the SAGUENAY RIVER, Port of\nBaie des Ha! Ha!, Quebec, and the Bagotville Wharf located thereon, and\n(b) to transfer the said property to the City of La Baie.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0262",
-  "htmlHash": "f579a6047e1a49e78e4aefcfc4cc1ee1"
+  "htmlHash": "f579a6047e1a49e78e4aefcfc4cc1ee1",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0057</td><td>2008-01-29</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CRAIG STUART RIX of Mississauga, Ontario, as a director of the Toronto Port Authority for a term of three years, effective February 2, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17868&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0057",
-  "htmlHash": "58f48555be270eee6d977d7ea16398a3"
+  "htmlHash": "58f48555be270eee6d977d7ea16398a3",
+  "attachments": [
+    "attachment.php?attach=17868&lang=en"
+  ]
 }

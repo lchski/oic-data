@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0872</td><td>1990-05-10</td><td>0</td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Leasing to THE ROYAL BANK OF CANADA, for a term of up to thirty-eight (38)\nyears, of a piece of land situate at Canadian Forces Base Goose Bay, in\nLabrador, containing an area of some 753.75 square metres, which is to be\nused as the site for the construction and operation of a bank.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0872",
-  "htmlHash": "607906fa941d8ab6ee7939dc7fc3c0e7"
+  "htmlHash": "607906fa941d8ab6ee7939dc7fc3c0e7",
+  "attachments": []
 }

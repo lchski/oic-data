@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0962</td><td>2016-10-28</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act<br>Canadian Environmental Assessment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Certificate of Public Convenience and Necessity GC-126 for the 2017 NGTL System Expansion Project</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing the National Energy Board to issue a CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY GC-126 to NOVA Gas Transmission Ltd.(NGTL) in order to authorize the construction and operation of the 2017 NGTL System Expansion Project.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32657&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0962",
-  "htmlHash": "87f045b81a6bd544157f73f0a9208d55"
+  "htmlHash": "87f045b81a6bd544157f73f0a9208d55",
+  "attachments": [
+    "attachment.php?attach=32657&lang=en"
+  ]
 }

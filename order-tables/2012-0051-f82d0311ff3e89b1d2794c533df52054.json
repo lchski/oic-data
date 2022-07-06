@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0051</td><td>2012-02-02</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Margaret Joyce Locke ** WIDOW'S ANNUITY **  The Hon. Charles C. Locke</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to MARGARET JOYCE LOCKE, widow of the Hon. Charles C. Locke, a Justice of Appeal of the Court of Appeal for British Columbia, effective October 2,  2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25468&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0051",
-  "htmlHash": "f82d0311ff3e89b1d2794c533df52054"
+  "htmlHash": "f82d0311ff3e89b1d2794c533df52054",
+  "attachments": [
+    "attachment.php?attach=25468&lang=en"
+  ]
 }

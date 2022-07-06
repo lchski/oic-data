@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1515</td><td>2006-12-07</td><td>20</td><td>2005</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 12, 2006 as the day on which this Act [BILL C-12], being chapter 20 of Statutes of Canada, 2005, shall COME INTO FORCE, other that section 34.\nROYAL ASSENT:  MAY 13, 2005</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0143  <strong>Publication Date:</strong> 2006-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15502&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1515",
-  "htmlHash": "02229dc86f6c02780ce30cd08a298e04"
+  "htmlHash": "02229dc86f6c02780ce30cd08a298e04",
+  "attachments": [
+    "attachment.php?attach=15502&lang=en"
+  ]
 }

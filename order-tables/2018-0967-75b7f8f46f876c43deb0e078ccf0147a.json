@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0967</td><td>2018-06-29</td><td></td><td></td><td>,&nbsp; TC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEFFREY ROBERT COOK of Port Alberni, British Columbia, as a director of the Port Alberni Port Authority, to hold office for a term of three years, effective September 9, 2018, in the place of Gillian Trumper, whose term will expire.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0967",
-  "htmlHash": "75b7f8f46f876c43deb0e078ccf0147a"
+  "htmlHash": "75b7f8f46f876c43deb0e078ccf0147a",
+  "attachments": [
+    "attachment.php?attach=36637&lang=en"
+  ]
 }

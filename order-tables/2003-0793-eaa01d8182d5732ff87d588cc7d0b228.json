@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0793</td><td>2003-05-29</td><td>8</td><td>2003</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Criminal Code (firearms) and the Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MAY 30, 2003, as the day upon which section 1, subsections 2(1) and 9(2) and sections 48 to 50 of this Act [BILL C-10A], being chapter 8 of the Statutes of Canada, 2003, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0114  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2610&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0793",
-  "htmlHash": "eaa01d8182d5732ff87d588cc7d0b228"
+  "htmlHash": "eaa01d8182d5732ff87d588cc7d0b228",
+  "attachments": [
+    "attachment.php?attach=2610&lang=en"
+  ]
 }

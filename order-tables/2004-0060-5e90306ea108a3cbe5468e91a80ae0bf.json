@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0060</td><td>2004-02-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the DESIGNATED PROVISIONS REGULATIONS by designated two new offences subject to the assessment of a monetary penalty and by establishing the maximum fines for these infractions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0017  <strong>Publication Date:</strong> 2004-02-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5719&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0060",
-  "htmlHash": "5e90306ea108a3cbe5468e91a80ae0bf"
+  "htmlHash": "5e90306ea108a3cbe5468e91a80ae0bf",
+  "attachments": [
+    "attachment.php?attach=5719&lang=en"
+  ]
 }

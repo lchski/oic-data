@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0996</td><td>2014-09-25</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Greater Nanaimo Chamber of Commerce  (British Columbia) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the GREATER NANAIMO CHAMBER OF COMMERCE, in British Columbia, TO CHANGE THE BOUNDARIES OF ITS DISTRICT from the City of Nanaimo to the limits of the northern border of the district of Lantzville, the southern border of the rural village of Cassidy, the eastern shore of Vancouver Island and to the west, the legal limits of the boundary of the City of Nanaimo including East Wellington.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29803&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0996",
-  "htmlHash": "42987aa2c05e156b45eed33d434aa8ae"
+  "htmlHash": "42987aa2c05e156b45eed33d434aa8ae",
+  "attachments": [
+    "attachment.php?attach=29803&lang=en"
+  ]
 }

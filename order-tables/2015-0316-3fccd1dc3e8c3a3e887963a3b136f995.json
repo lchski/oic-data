@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0316</td><td>2015-03-12</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Cambridge Bay, Nunavut  ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the relinquishment by the Commissioner of Nunavut of the administration and control of Lot 1, Block 65, Plan 4452, which contains a total area of 6.40 hectares more or less, located in Cambridge Bay, Nunavut and to transfer administration of those lands to the Minister of Indian Affairs and Northern Development.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0316",
-  "htmlHash": "3fccd1dc3e8c3a3e887963a3b136f995"
+  "htmlHash": "3fccd1dc3e8c3a3e887963a3b136f995",
+  "attachments": [
+    "attachment.php?attach=30637&lang=en"
+  ]
 }

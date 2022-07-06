@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0379</td><td>2009-03-05</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Social Sciences and Humanities Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the amendments made by the SOCIAL SCIENCES AND HUMANITIES RESEARCH COUNCIL to its By-Law which will facilitate immediate and future changes to Council's committee structure, align Council's conflict of interest provisions with federal legislation, update administrative practices regarding notice for meetings and the use of technology and improve the French text.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20179&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0379",
-  "htmlHash": "2a1a482d739ce1085359d2e8402985ff"
+  "htmlHash": "2a1a482d739ce1085359d2e8402985ff",
+  "attachments": [
+    "attachment.php?attach=20179&lang=en"
+  ]
 }

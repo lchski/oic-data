@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1453</td><td>2007-09-27</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to (a) enter into a SETTLEMENT AGREEMENT with the METEPENAGIAG MI'KMAQ NATION for the purpose of resolving two specific claims relating to the wrongful alienation of some 64 acres of Red Bank Indian Reserve No. 7 and roughly 100 acres of Big Hole Indian Reserve No. 8 (the Hosford Lot), both located in New Brunswick, and (b) accept the Instrument of Absolute Surrender comtemplated therein.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17149&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1453",
-  "htmlHash": "c0b9b71449b53f7dd77ae5a45e0e0ea2"
+  "htmlHash": "c0b9b71449b53f7dd77ae5a45e0e0ea2",
+  "attachments": [
+    "attachment.php?attach=17149&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0259</td><td>2022-03-24</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing the Incorporation of a Subsidiary by VIA Rail Canada Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing VIA Rail Canada Inc. to (1) procure the incorporation of a wholly-owned subsidiary, yet to be named, the mandate of which is to develop and implement the HIGH FREQUENCY RAIL PROJECT; (2) provide all necessary support, expertise, and co-operation to the subsidiary to facilitate the subsidiary’s role and fulfillment of its mandate; and (3) provide all necessary support, expertise, and co-operation to the Minister of Transport to facilitate the Minister’s role in the development and implementation of the High Frequency Rail project.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41743&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0259",
-  "htmlHash": "edceaeb0f7d2dfc873ddb8c234dca04b"
+  "htmlHash": "edceaeb0f7d2dfc873ddb8c234dca04b",
+  "attachments": [
+    "attachment.php?attach=41743&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0945</td><td>2019-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Lands Agreement (1986) Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Mitaanjigamiing Treaty Land Entitlement Claim Settlement Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order in Council confirming Article 5 of the MITAANJIGAMIING TREATY LAND ENTITLEMENT CLAIM SETTLEMENT AGREEMENT dated July 24, 2017, among the First Nation, Ontario and Canada as a Specific Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38270&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0945",
-  "htmlHash": "fab5353bfc4bd3fe111fd27a57d4b235"
+  "htmlHash": "fab5353bfc4bd3fe111fd27a57d4b235",
+  "attachments": [
+    "attachment.php?attach=38270&lang=en"
+  ]
 }

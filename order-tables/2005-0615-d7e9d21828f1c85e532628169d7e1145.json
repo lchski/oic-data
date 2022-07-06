@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0615</td><td>2005-04-19</td><td></td><td></td><td>,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">World Trade Organization Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER SUSPENDING THE APPLICATION OF CONCESSIONS ON IMPORTS OF CERTAIN PRODUCTS ORIGINATING IN THE UNITED STATES - which imposes a 15% surtax on certain goods originating in the United States for a 12-month period beginning on May 1, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0106  <strong>Publication Date:</strong> 2005-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0615",
-  "htmlHash": "d7e9d21828f1c85e532628169d7e1145"
+  "htmlHash": "d7e9d21828f1c85e532628169d7e1145",
+  "attachments": [
+    "attachment.php?attach=10455&lang=en"
+  ]
 }

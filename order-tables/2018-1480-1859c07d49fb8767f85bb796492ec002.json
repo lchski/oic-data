@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1480</td><td>2018-11-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Space Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the amendments to the terms and conditions of employment of astronauts, made by Order in Council P.C. 1993-1237 of June 8, 1993, as amended by Order in Council P.C. 1998-1273 of July 15, 1998 and by Order in Council P.C. 2009-1949 of December 3, 2009, as established by the Canadian Space Agency and set out in the annexed schedule, effective April 1, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1480",
-  "htmlHash": "1859c07d49fb8767f85bb796492ec002"
+  "htmlHash": "1859c07d49fb8767f85bb796492ec002",
+  "attachments": [
+    "attachment.php?attach=37197&lang=en"
+  ]
 }

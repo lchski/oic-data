@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0925</td><td>2020-11-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RITA SHELTON DEVERELL, C.M., of Coldwater, Ontario, to be a director of the Board of Directors of the Canadian Broadcasting Corporation, to hold office during good behaviour for a term of five years, effective November 28, 2020, in the place of Robert Jeffery, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0925",
-  "htmlHash": "4e41137897759bea12cc3bd8fcdcf73e"
+  "htmlHash": "4e41137897759bea12cc3bd8fcdcf73e",
+  "attachments": [
+    "attachment.php?attach=39931&lang=en"
+  ]
 }

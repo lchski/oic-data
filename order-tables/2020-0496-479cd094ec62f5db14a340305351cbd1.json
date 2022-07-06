@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0496</td><td>2020-06-25</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Various Amendments)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADIAN AVIATION REGULATIONS (VARIOUS AMENDMENTS) in order to (1) \treduce the number of long-standing exemptions from certain requirements; (2) enhance consistency in the use of terminology; (3) eliminate redundant requirements; (4) enhance the alignment of regulatory requirements with International Civil Aviation Organization standards; and (5) improve consistency between the English and the French versions of regulatory requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0151  <strong>Publication Date:</strong> 2020-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0496",
-  "htmlHash": "479cd094ec62f5db14a340305351cbd1"
+  "htmlHash": "479cd094ec62f5db14a340305351cbd1",
+  "attachments": [
+    "attachment.php?attach=39447&lang=en"
+  ]
 }

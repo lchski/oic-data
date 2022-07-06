@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1051</td><td>2016-11-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Toys Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TOYS REGULATIONS in order to respond to the concerns of the Standing Joint Committee for the Scrutiny of Regulations by clarifying a small set of existing requirements under the Toys Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2016-0302  <strong>Publication Date:</strong> 2016-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32751&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1051",
-  "htmlHash": "fa1e8a6068f1e6500b7b2dd1db3f62b0"
+  "htmlHash": "fa1e8a6068f1e6500b7b2dd1db3f62b0",
+  "attachments": [
+    "attachment.php?attach=32751&lang=en"
+  ]
 }

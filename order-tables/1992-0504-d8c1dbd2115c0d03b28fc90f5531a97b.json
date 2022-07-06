@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0504</td><td>1992-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Alain Paris, of Ville Mont-Royal, Quebec, as a director of\nthe Board of Directors of the Canadian Broadcasting Corporation to hold\noffice during good behaviour for a term of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0504",
-  "htmlHash": "d8c1dbd2115c0d03b28fc90f5531a97b"
+  "htmlHash": "d8c1dbd2115c0d03b28fc90f5531a97b",
+  "attachments": []
 }

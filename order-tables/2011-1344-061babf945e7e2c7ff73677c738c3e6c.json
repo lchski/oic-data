@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1344</td><td>2011-11-17</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Renewal of the Provincial and Territorial Policing Services Agreements</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Public Safety and Emergency Preparedness, on behalf of the Government of Canada, enter into an arrangement with each of the Governments of Nova Scotia, New Brunswick, Manitoba, British Columbia, Prince Edward Island, Newfoundland and Labrador, Yukon, Northwest Territories and Nunavut for the use or employment of the Royal Canadian Mounted Police in aiding the administration of justice in those provinces and territories and in carrying into effect the laws in force there.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25026&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1344",
-  "htmlHash": "061babf945e7e2c7ff73677c738c3e6c"
+  "htmlHash": "061babf945e7e2c7ff73677c738c3e6c",
+  "attachments": [
+    "attachment.php?attach=25026&lang=en"
+  ]
 }

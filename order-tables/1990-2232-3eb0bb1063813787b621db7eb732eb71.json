@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2232</td><td>1990-10-11</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to Reinhold G. Trelenberg of some 64.3 hectares of agricultural land\nsituate in the vicinity of Edmonton International Airport, together with\na building (No. T-38) and the antenna network erected thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2232",
-  "htmlHash": "3eb0bb1063813787b621db7eb732eb71"
+  "htmlHash": "3eb0bb1063813787b621db7eb732eb71",
+  "attachments": []
 }

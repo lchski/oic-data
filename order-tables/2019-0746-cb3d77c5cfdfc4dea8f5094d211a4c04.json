@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0746</td><td>2019-06-09</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Food and Drug Regulations (Serious Adverse Drug Reaction Reporting – Hospitals)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (SERIOUS ADVERSE DRUG REACTION REPORTING – HOSPITALS) in order to improve the quality and increase the quantity of Serious Adverse Drugs Reactions and Medical Device Incident reports, and to expand on the real world evidence used by Health Canada to monitor the safety and effectiveness of therapeutic product, as part of a life-cycle approach to the regulation of such products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0190  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38072&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0746",
-  "htmlHash": "cb3d77c5cfdfc4dea8f5094d211a4c04"
+  "htmlHash": "cb3d77c5cfdfc4dea8f5094d211a4c04",
+  "attachments": [
+    "attachment.php?attach=38072&lang=en"
+  ]
 }

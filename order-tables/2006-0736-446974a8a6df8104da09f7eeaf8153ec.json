@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0736</td><td>2006-07-27</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1999-1542 of August 26, 1999 respecting the appointment of MARCEL BEAUDRY as Chairperson of the National Capital Commission.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0736",
-  "htmlHash": "446974a8a6df8104da09f7eeaf8153ec"
+  "htmlHash": "446974a8a6df8104da09f7eeaf8153ec",
+  "attachments": [
+    "attachment.php?attach=14678&lang=en"
+  ]
 }

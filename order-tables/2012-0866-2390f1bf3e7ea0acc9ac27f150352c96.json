@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0866</td><td>2012-06-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CH</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Museum for Human Rights ** Corporate Plan 2012-2013 to 2016-2017 ** \n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the 2012-2013 to 2016-2017 Corporate planfor the CANADIAN MUSEUM FOR HUMAN RIGHTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26281&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0866",
-  "htmlHash": "2390f1bf3e7ea0acc9ac27f150352c96"
+  "htmlHash": "2390f1bf3e7ea0acc9ac27f150352c96",
+  "attachments": [
+    "attachment.php?attach=26281&lang=en"
+  ]
 }

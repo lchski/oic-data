@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0838</td><td>1995-05-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of four appointments made by the NATIONAL FILM BOARD, namely:\n.\n  1. RONALD DAVID - Internal Auditor/Vérificateur interne\n  2. HOWARD KROSNICK -\n     Assistant Director General, National Marketing, English Program\n     Directeur général adjoint, Mise en marché, Programme anglais\n  3. JOANNE LEDUC - Director, International Program\n                    Directrice du Programme international\n  4. JEAN-CLAUDE MAHÉ - Secretary to the Board of Trustees\n                        Secrétaire du Conseil d'administration\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0838",
-  "htmlHash": "dfd38c677d0397cdebe10e03227a3fc8"
+  "htmlHash": "dfd38c677d0397cdebe10e03227a3fc8",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1057</td><td>1992-05-14</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to the CITY OF SAINTE-AGATHE-DES-MONTS of a surplus real property\nsituate at 83 St. Vincent Street, Sainte-Agathe-des-Monts, Quebec, which\nconsists of 1,161.25 square metres of land together with the two-storey\noffice building (circa 1915) erected thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1057",
-  "htmlHash": "31f8e598c42ef909d016737c77645d47"
+  "htmlHash": "31f8e598c42ef909d016737c77645d47",
+  "attachments": []
 }

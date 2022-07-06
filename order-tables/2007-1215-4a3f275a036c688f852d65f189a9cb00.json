@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1215</td><td>2007-08-01</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ONTARIO HYDRO NUCLEAR FACILITIES EXCLUSION FROM PART II OF THE CANADA LABOUR CODE REGULATIONS (OCCUPATIONAL HEALTH AND SAFETY) by placing limitations on a worker's right to refuse dangerous work when assigned to an on-site nuclear response force where the danger is inherent in or is a normal condition of employment, or when refusal would directly endanger the life, health or safety of another person.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0186  <strong>Publication Date:</strong> 2007-08-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16855&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1215",
-  "htmlHash": "4a3f275a036c688f852d65f189a9cb00"
+  "htmlHash": "4a3f275a036c688f852d65f189a9cb00",
+  "attachments": [
+    "attachment.php?attach=16855&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0282</td><td>2005-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TBS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the President of the Treasury Board to enter into a COPYRIGHT LICENCE AGREEMENT with the CANADIAN BROADCASTERS RIGHTS AGENCY INC.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9754&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0282",
-  "htmlHash": "016553ea98d7f2bd65a1babc4beec0d8"
+  "htmlHash": "016553ea98d7f2bd65a1babc4beec0d8",
+  "attachments": [
+    "attachment.php?attach=9754&lang=en"
+  ]
 }

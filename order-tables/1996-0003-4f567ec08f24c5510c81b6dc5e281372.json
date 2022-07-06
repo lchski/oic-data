@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0003</td><td>1996-01-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CAROLYN J. SCOTT, of Eastern Passage, Nova Scotia;\nMARCEL GRAND'MAÎTRE, of Aylmer, Quebec; VICTOR W. MARSHALL, of Etobicoke,\nOntario; MONICA TOWNSON, of Toronto, Ontario; JOSEPH (JOE) REGAN, of\nWillowdale, Ontario; JOAN COOK, of St. John's, Newfoundland; and\nVANGELIS NIKIAS, of Milton, Ontario, as members of the Canada Pension\nPlan Advisory Board for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0003",
-  "htmlHash": "4f567ec08f24c5510c81b6dc5e281372"
+  "htmlHash": "4f567ec08f24c5510c81b6dc5e281372",
+  "attachments": []
 }

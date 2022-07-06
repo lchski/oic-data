@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0771</td><td>2010-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Privacy\nRegulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PRIVACY REGULATIONS in order to modernize the designation of the following divisions of the Enforcement Branch of the Canadian Border Service Agency:  the Inland Enforcement Division, the Intelligence and Targeting Operations Directorate, and the Criminal Investigations Division.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0146  <strong>Publication Date:</strong> 2010-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22746&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0771",
-  "htmlHash": "ca76f6883461e72f65a08cdb6c2fe090"
+  "htmlHash": "ca76f6883461e72f65a08cdb6c2fe090",
+  "attachments": [
+    "attachment.php?attach=22746&lang=en"
+  ]
 }

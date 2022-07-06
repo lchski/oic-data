@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1484</td><td>2018-11-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; HC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REDUCTION OF CARBON DIOXIDE EMISSIONS FROM COAL-FIRED GENERATION OF ELECTRICITY REGULATIONS in order to ensure that the permanent transition from high-emitting electricity sources to low or non-emitting sources is achieved by 2030, which would further contribute to the protection of the environment and health of Canadians, as well as help Canada fulfill its Paris Agreement commitment to reducing Grenn House Gas emissions by 30% from 2005 levels by 2030.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0263  <strong>Publication Date:</strong> 2018-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37163&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1484",
-  "htmlHash": "de4af98dfc8b1380f7f59dd4821cb3ce"
+  "htmlHash": "de4af98dfc8b1380f7f59dd4821cb3ce",
+  "attachments": [
+    "attachment.php?attach=37163&lang=en"
+  ]
 }

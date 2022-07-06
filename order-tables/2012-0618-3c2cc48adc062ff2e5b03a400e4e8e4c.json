@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0618</td><td>2012-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Energy Efficiency Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Energy Efficiency Regulations (Miscellaneous Program)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ENERGY EFFICIENCY REGULATIONS (Miscellaneous Program) in order to correct an anomaly and non-substantive English and French inconsistency arising from an amending formula for Amendment 11 to the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0100  <strong>Publication Date:</strong> 2012-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0618",
-  "htmlHash": "3c2cc48adc062ff2e5b03a400e4e8e4c"
+  "htmlHash": "3c2cc48adc062ff2e5b03a400e4e8e4c",
+  "attachments": [
+    "attachment.php?attach=26000&lang=en"
+  ]
 }

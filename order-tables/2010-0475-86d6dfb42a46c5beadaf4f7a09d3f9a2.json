@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0475</td><td>2010-04-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Assigning the Honourable Rona Ambrose to Assist the Minister of Canadian Heritage</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Honourable RONA AMBROSE, a Minister of State to be styled Minister for Status of Women, to assist the Minister of Canadian Heritage, effective April 9, 2010.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0034  <strong>Publication Date:</strong> 2010-04-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22451&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0475",
-  "htmlHash": "86d6dfb42a46c5beadaf4f7a09d3f9a2"
+  "htmlHash": "86d6dfb42a46c5beadaf4f7a09d3f9a2",
+  "attachments": [
+    "attachment.php?attach=22451&lang=en"
+  ]
 }

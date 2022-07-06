@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2625</td><td>1990-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Lawrence J. O'Toole, of Ottawa, Ontario, as President of\nCanada Lands Company Limited, to hold office during pleasure, for a term\nof three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2625",
-  "htmlHash": "2b33b5c7fdd16f3a75f62045c3956cd9"
+  "htmlHash": "2b33b5c7fdd16f3a75f62045c3956cd9",
+  "attachments": []
 }

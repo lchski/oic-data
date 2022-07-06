@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1658</td><td>1997-11-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HARVEY SPIEGEL, of Toronto, Ontario, as a Judge of the\nOntario Court of Justice (General Division), and a Judge ex officio of\nthe Court of Appeal for Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1658",
-  "htmlHash": "eb8b8895561e291c4498d7cbe1337105"
+  "htmlHash": "eb8b8895561e291c4498d7cbe1337105",
+  "attachments": []
 }

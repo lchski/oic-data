@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-2009</td><td>2003-12-11</td><td></td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the issuance to GEORGIA STRAIT CROSSING PIPELINE LTD. of Certificate of Public Convenience and Necessity No. GC-109 for the construction and operation of a natural gas pipeline.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5354&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-2009",
-  "htmlHash": "2654846ae65b80cfa048e8dd7d268056"
+  "htmlHash": "2654846ae65b80cfa048e8dd7d268056",
+  "attachments": [
+    "attachment.php?attach=5354&lang=en"
+  ]
 }

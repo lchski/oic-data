@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1477</td><td>2003-09-30</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JUAN ALBERTO SPERATTI to be Honorary Consul of Canada at Asuncion, the Republic of Paraguay, for a period of three years, effective August 27, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4077&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1477",
-  "htmlHash": "7d36fa9575209e6cdce8b76b4d7db6e3"
+  "htmlHash": "7d36fa9575209e6cdce8b76b4d7db6e3",
+  "attachments": [
+    "attachment.php?attach=4077&lang=en"
+  ]
 }

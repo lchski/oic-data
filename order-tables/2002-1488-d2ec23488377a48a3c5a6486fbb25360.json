@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1488</td><td>2002-09-05</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SASHIKA SEEVARATNAM of Toronto, Ontario, to be a\nfull-time member of the Immigration and Refugee Board (Toronto Regional\nOffice), to hold office during good behaviour for a term of two years,\neffective August 31, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1488",
-  "htmlHash": "d2ec23488377a48a3c5a6486fbb25360"
+  "htmlHash": "d2ec23488377a48a3c5a6486fbb25360",
+  "attachments": []
 }

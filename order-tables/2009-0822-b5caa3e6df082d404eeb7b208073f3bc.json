@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0822</td><td>2009-05-28</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Parts I and VII).\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to introduce new requirements for commercial air services and amend already existing requirements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0152  <strong>Publication Date:</strong> 2009-06-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20651&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0822",
-  "htmlHash": "b5caa3e6df082d404eeb7b208073f3bc"
+  "htmlHash": "b5caa3e6df082d404eeb7b208073f3bc",
+  "attachments": [
+    "attachment.php?attach=20651&lang=en"
+  ]
 }

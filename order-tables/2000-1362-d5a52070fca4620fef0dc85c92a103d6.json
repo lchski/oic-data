@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1362</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to the COMMISSIONER of the YUKON TERRITORY, of the administration\nand control of the entire interest of the Crown in some 19.6 hectares of\nland situate near Kilometre 66 on Yukon Highway #6 (Canol Road), being the\nNISUTLIN RIVER CAMPGROUND (Lot 1003, Quad 105C/15, CLSR Plan 83101).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1362",
-  "htmlHash": "d5a52070fca4620fef0dc85c92a103d6"
+  "htmlHash": "d5a52070fca4620fef0dc85c92a103d6",
+  "attachments": []
 }

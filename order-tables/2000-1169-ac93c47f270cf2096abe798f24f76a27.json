@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1169</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing seven Marine Surveyors employed by the Department of\nTransport as STEAMSHIP INSPECTOR and INSPECTOR OF SHIPS' TACKLE, and\n(b) terminating the appointment of four inspectors.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1169",
-  "htmlHash": "ac93c47f270cf2096abe798f24f76a27"
+  "htmlHash": "ac93c47f270cf2096abe798f24f76a27",
+  "attachments": []
 }

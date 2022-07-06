@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1904</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the Licence (GL-187) issued to TRANSCANADA PIPELINES LIMITED by\nby the National Energy Board for the exportation of natural gas to the\nUnited States at a point situated near Emerson, Manitoba.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1904",
-  "htmlHash": "d40bd204a523f78d127358a557a1000c"
+  "htmlHash": "d40bd204a523f78d127358a557a1000c",
+  "attachments": []
 }

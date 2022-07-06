@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0166</td><td>2008-01-29</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARIE-JOSÉE BÉDARD of Gatineau, Quebec, to be Vice-Chairperson of the Public Service Labour Relations Board, to hold office during good behaviour for a term of five years, effective March 10, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17957&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0166",
-  "htmlHash": "e208b9c439769f82070e8fbc1f8dbd48"
+  "htmlHash": "e208b9c439769f82070e8fbc1f8dbd48",
+  "attachments": [
+    "attachment.php?attach=17957&lang=en"
+  ]
 }

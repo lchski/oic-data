@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1787</td><td>2008-11-27</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of a lifelong annuity to the Hon. A. FRASER WILSON, a a Judge of the Supreme Court of British Columbia, effective January 1, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19665&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1787",
-  "htmlHash": "20a8e098ac0a113b205cad3bd4f75802"
+  "htmlHash": "20a8e098ac0a113b205cad3bd4f75802",
+  "attachments": [
+    "attachment.php?attach=19665&lang=en"
+  ]
 }

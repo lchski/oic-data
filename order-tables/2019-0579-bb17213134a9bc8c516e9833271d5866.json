@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0579</td><td>2019-05-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Amendment - Oil and Gas Operations Act and the Petroleum Resources Act ** Northwest Territories **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing the Legislature of the Government of the Northwest Territories, to amend the OIL AND GAS OPERATIONS AND THE PETROLEUM RESOURCES ACT in order to update the Northwest Territories petroleum legislation, support the legislative modernizing proposal of the Legislature of the Northwest Territories to promote the responsible management of onshore petroleum resources.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37903&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0579",
-  "htmlHash": "bb17213134a9bc8c516e9833271d5866"
+  "htmlHash": "bb17213134a9bc8c516e9833271d5866",
+  "attachments": [
+    "attachment.php?attach=37903&lang=en"
+  ]
 }

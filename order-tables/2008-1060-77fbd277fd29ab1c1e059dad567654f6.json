@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1060</td><td>2008-06-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE FOOD AND DRUG REGULATIONS (1508 - SCHEDULE F) by adding one medicinal ingredient to Part I of Schedule F to the Food and Drug Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0207 </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18892&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1060",
-  "htmlHash": "77fbd277fd29ab1c1e059dad567654f6"
+  "htmlHash": "77fbd277fd29ab1c1e059dad567654f6",
+  "attachments": [
+    "attachment.php?attach=18892&lang=en"
+  ]
 }

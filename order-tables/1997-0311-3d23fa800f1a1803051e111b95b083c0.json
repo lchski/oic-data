@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0311</td><td>1997-03-04</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-NEW BRUNSWICK CROP REINSURANCE DEFICIT\nREDUCTION COMPANION AGREEMENT for the purpose of reducing the deficits in\nthe Federal and Provincial crop re-insurance funds.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0311",
-  "htmlHash": "3d23fa800f1a1803051e111b95b083c0"
+  "htmlHash": "3d23fa800f1a1803051e111b95b083c0",
+  "attachments": []
 }

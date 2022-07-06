@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0609</td><td>2011-06-09</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Saskatchewan Contribution Agreement for the Enhanced Language Training Initiative</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister enter into a contribution AGREEMENT with the Government of Saskatchewan, for the purpose of facilitating the implementation of the ENHANCED LANGUAGE TRAINING INITIATIVE for immigrants and refugees, for a term ending on March 31, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24281&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0609",
-  "htmlHash": "e1c787fe8d4e647851ff363d79e68f63"
+  "htmlHash": "e1c787fe8d4e647851ff363d79e68f63",
+  "attachments": [
+    "attachment.php?attach=24281&lang=en"
+  ]
 }

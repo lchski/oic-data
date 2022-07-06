@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1158</td><td>2016-12-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2016, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2017 as the Day on which Certain Sections of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2017, as the day on which sections 208, 213, 214, 219 and 221 of the BUDGET IMPLEMENTATION ACT, 2016, NO. 1, chapter 7 of the Statutes of Canada, 2016, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2016-0073  <strong>Publication Date:</strong> 2016-12-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1158",
-  "htmlHash": "fcc327906eaeb40940d9ea24e3be8b91"
+  "htmlHash": "fcc327906eaeb40940d9ea24e3be8b91",
+  "attachments": [
+    "attachment.php?attach=32850&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0178</td><td>1997-02-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the transfer to TransCanada Gas Services Limited (as agent for\nCanStates Gas Marketing) of Gas Export Licence GL-249, in accordance with\nNational Energy Board Order No. AO-1-GL-249.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0178",
-  "htmlHash": "3cdffbdeb787b15da5d7f1cd2768da27"
+  "htmlHash": "3cdffbdeb787b15da5d7f1cd2768da27",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1615</td><td>2009-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring from the Canadian International Development Agency to the Department of Foreign Affairs and International Trade the Control and Supervision of the Industrial Cooperation Program Directorate\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring from the Canadian International Development Agency to the Department of Foreign Affairs and International Trade the control, and supervision of the portion of the federal public administration in the Canadian International Development Agency, known as the Industrial Cooperation Program Directorate.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0100  <strong>Publication Date:</strong> 2009-10-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21498&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1615",
-  "htmlHash": "da03a5d4d20485a1f2168a14e1a28937"
+  "htmlHash": "da03a5d4d20485a1f2168a14e1a28937",
+  "attachments": [
+    "attachment.php?attach=21498&lang=en"
+  ]
 }

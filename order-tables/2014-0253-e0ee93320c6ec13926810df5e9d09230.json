@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0253</td><td>2014-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; CIC,&nbsp; DFATD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Remission Order in Respect of Fees for the Issuance of Passports, Certificates of Identity and Refugee Travel Documents (Alberta)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission Order in respect of FEES FOR THE ISSUANCE OF PASSPORTS, CERTIFICATES OF IDENTITY AND REFUGEE TRAVEL DOCUMENTS (ALBERTA) in order to remit the fee for replacing immigration and/or travel documents that were damaged or lost as a result of the massive flooding in Alberta in June 2013.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2014-0022  <strong>Publication Date:</strong> 2014-03-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28984&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0253",
-  "htmlHash": "e0ee93320c6ec13926810df5e9d09230"
+  "htmlHash": "e0ee93320c6ec13926810df5e9d09230",
+  "attachments": [
+    "attachment.php?attach=28984&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0051</td><td>1995-01-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order denying the petitions of the QUEBEC MINISTRY OF TRANSPORT and\nMr. Roger Lefebvre, M.P.Q., to vary or rescind Order No. 1994-R-340 and\nDecision No. 530-R-1994 made by the National Transportation Agency\nrespecting the abandonment of service by Canadian Pacific Limited on four\nrailway subdivisions located on the south shore of the St. Lawrence River\nin Quebec (Vallée, Chaudière, Lévis and Tring - a total of 237.4 miles)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0051",
-  "htmlHash": "2b978a8c8f7da1064df1fc6c5537c20c"
+  "htmlHash": "2b978a8c8f7da1064df1fc6c5537c20c",
+  "attachments": []
 }

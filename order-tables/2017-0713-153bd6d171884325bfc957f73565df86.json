@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0713</td><td>2017-06-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - United Mexican States ** Agreement on Air Transport  **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign, or to delegate powers to sign, on behalf of Canada, subject to ratification, the PROTOCOL AMENDING THE AGREEMENT between the Government of Canada and the Government of the UNITED MEXICAN STATES ON AIR TRANSPORT of 18 February 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34619&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0713",
-  "htmlHash": "153bd6d171884325bfc957f73565df86"
+  "htmlHash": "153bd6d171884325bfc957f73565df86",
+  "attachments": [
+    "attachment.php?attach=34619&lang=en"
+  ]
 }

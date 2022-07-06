@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0830</td><td>1999-05-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CERTAIN IMPORTED GOODS REMISSION ORDER which remits any\ncustoms duties collected before the correction of technical errors in the\nCustoms Tariff, the Customs Duties Reduction or Removal Order, 1988, the\nOrder Respecting the Remission of Customs Duties on Grinding Beads or in\nthe Tailored Collar Shirts Remission Order, 1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0205  <strong>Publication Date:</strong> 1999-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0830",
-  "htmlHash": "f7c17b8d81906f6ec5dff02d1f55802d"
+  "htmlHash": "f7c17b8d81906f6ec5dff02d1f55802d",
+  "attachments": []
 }

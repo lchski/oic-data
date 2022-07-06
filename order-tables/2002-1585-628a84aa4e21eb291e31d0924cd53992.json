@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1585</td><td>2002-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I, VI AND\nVIII) by relocating the definition for \"flight information services\" from\nPart VIII to Part I (General Provisions), by replacing references to the\n\"SCATANA plan\" with references to the \"ESCAT plan\", by reinstating\nreferences to air traffic control services and procedures that were\ninadvertently omitted, and by making provision for on-the-job training and\ncertification of flight service specialists, under supervision.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0352  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1585",
-  "htmlHash": "628a84aa4e21eb291e31d0924cd53992"
+  "htmlHash": "628a84aa4e21eb291e31d0924cd53992",
+  "attachments": []
 }

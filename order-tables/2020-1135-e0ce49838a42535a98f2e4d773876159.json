@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1135</td><td>2020-12-20</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">United Kingdom Trade Continuity Remission Order, 2021</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">UNITED KINGDOM TRADE CONTINUITY REMISSION ORDER, 2021 in order to (1) remit the difference between the Most-Favoured-Nation (MFN) rate of customs duty and the rate of duty that would otherwise apply under the Trade Continuity Agreement (TCA) to imports of originating goods from the U.K. and U.K. territories that benefited from Comprehensive and Economic Trade Agreement (CETA) tariff preferences prior to the end of the Brexit transition period; (2) apply to goods imported on or after January 1, 2021; (3) replicate the tariff benefits that would have applied to imports from the U.K. and U.K. territories under provisions of CETA, and are also provided for in the negotiated TCA; and (4) reduce uncertainty for Canadian importers and bridges the gap between Brexit and entry into force of the TCA by ensuring continued tariff preferences.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0290  <strong>Publication Date:</strong> 2021-01-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-1135",
-  "htmlHash": "e0ce49838a42535a98f2e4d773876159"
+  "htmlHash": "e0ce49838a42535a98f2e4d773876159",
+  "attachments": [
+    "attachment.php?attach=41218&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2182</td><td>1993-12-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order granting title to the VANCOUVER PORT CORPORATION with respect to 896\nsquare metres of the bed and foreshore of Burrard Inlet, in the City of\nPort Moody, British Columbia, and authorizing its sale to a group of\nadjacent property owners, namely Ailsa Rowson, Robert G. and Susan L.\nGifford, and Wayne L. and Trudy S. Norton.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-2182",
-  "htmlHash": "56a6213ac133a21722b0cc48d10cbb2e"
+  "htmlHash": "56a6213ac133a21722b0cc48d10cbb2e",
+  "attachments": []
 }

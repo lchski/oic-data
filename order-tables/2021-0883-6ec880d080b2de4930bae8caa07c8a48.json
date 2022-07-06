@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0883</td><td>2021-08-11</td><td>23</td><td>2021</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2021,  No.1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing September 26, 2021 as the Day on Which Section 328 of that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing September 26, 2021, as the day on which subsection 339(5) of the BUDGET IMPLEMENTATION ACT, 2021, No. 1, chapter 23 of the Statutes of Canada, 2021, COMES INTO FORCE, amending the Employment Insurance Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2021-0057  <strong>Publication Date:</strong> 2021-09-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42412&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0883",
-  "htmlHash": "6ec880d080b2de4930bae8caa07c8a48"
+  "htmlHash": "6ec880d080b2de4930bae8caa07c8a48",
+  "attachments": [
+    "attachment.php?attach=42412&lang=en"
+  ]
 }

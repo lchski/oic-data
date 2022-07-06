@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1314</td><td>2019-09-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Thaidene Nene National Park Reserve of Canada ** Administration and Control **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the relinquishment, by the Commissioner of the Northwest Territories of the ADMINISTRATION AND CONTROL of the lands to establish the THAIDENE NENE NATIONAL PARK RESERVE OF CANADA.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38647&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1314",
-  "htmlHash": "20765b4892c23951851eb2cf8650f81d"
+  "htmlHash": "20765b4892c23951851eb2cf8650f81d",
+  "attachments": [
+    "attachment.php?attach=38647&lang=en"
+  ]
 }

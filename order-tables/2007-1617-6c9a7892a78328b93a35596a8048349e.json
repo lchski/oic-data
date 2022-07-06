@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1617</td><td>2007-10-25</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PART IV) by harmonizing the Canadian standards for medical certificates associated to certain Canadian aviation personal documents with the International Civil Aviation Organization standards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0229  <strong>Publication Date:</strong> 2007-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17321&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1617",
-  "htmlHash": "6c9a7892a78328b93a35596a8048349e"
+  "htmlHash": "6c9a7892a78328b93a35596a8048349e",
+  "attachments": [
+    "attachment.php?attach=17321&lang=en"
+  ]
 }

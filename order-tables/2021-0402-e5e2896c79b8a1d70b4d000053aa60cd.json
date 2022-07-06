@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0402</td><td>2021-05-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order No. 2 Respecting Clinical Trials for Medical Devices and Drugs Relating to COVID-19</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the INTERIM ORDER NO. 2 RESPECTING CLINICAL TRIALS FOR MEDICAL DEVICES AND DRUGS RELATING TO COVID-19, made by the Minister of Health on May 3, 2021, in order to extend the provisions from the previous Interim Order for up to one year in order to protect the health and safety of Canadians in relation to COVID-19 by enabling a framework that introduces efficiencies in the conduct of and access to Canadian clinical trials for drugs and medical devices used in the diagnosis, treatment, mitigation, or prevention of COVID-19 or COVID-19 complications.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40605&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0402",
-  "htmlHash": "e5e2896c79b8a1d70b4d000053aa60cd"
+  "htmlHash": "e5e2896c79b8a1d70b4d000053aa60cd",
+  "attachments": [
+    "attachment.php?attach=40605&lang=en"
+  ]
 }

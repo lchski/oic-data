@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1746</td><td>1997-11-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to New York City made by the six\nparliamentarians listed below, from October 1 to 3, 1997, in order to\nattend the United Nations General Assembly.\n.\n  1. Ms. Michelle Dockrill               4. Mr. Jacques Saada\n  2. Mr. Jim Jones                       5. Ms. Patricia (Paddy) Torsney\n  3. Dr. Keth Martin                     6. Mr. Daniel Turp\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1746",
-  "htmlHash": "8917cabe8eadc0eab170f306be363c05"
+  "htmlHash": "8917cabe8eadc0eab170f306be363c05",
+  "attachments": []
 }

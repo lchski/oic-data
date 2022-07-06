@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0992</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Canadian Passport Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the Canadian Passport Order to explain the circumstances in which passport services may be withheld by Passport Canada or by the Minister of Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0056  <strong>Publication Date:</strong> 2009-07-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20863&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0992",
-  "htmlHash": "e814c3b089a14c24c2164ff1d2d48d80"
+  "htmlHash": "e814c3b089a14c24c2164ff1d2d48d80",
+  "attachments": [
+    "attachment.php?attach=20863&lang=en"
+  ]
 }

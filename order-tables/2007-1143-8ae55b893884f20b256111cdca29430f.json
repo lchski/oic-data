@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1143</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PORT AUTHORITIES OPERATIONS REGULATIONS by modifying the licensing conditions as they relate to the remuneration to be paid to truckers who deliver, pick-up or move containers into, within or out of the Port of Vancouver or the Fraser River Port.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0171  <strong>Publication Date:</strong> 2007-08-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16916&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1143",
-  "htmlHash": "8ae55b893884f20b256111cdca29430f"
+  "htmlHash": "8ae55b893884f20b256111cdca29430f",
+  "attachments": [
+    "attachment.php?attach=16916&lang=en"
+  ]
 }

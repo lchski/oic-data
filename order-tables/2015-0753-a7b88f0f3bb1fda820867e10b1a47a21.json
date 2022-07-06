@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0753</td><td>2015-06-04</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Tobacco Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Tobacco Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE TOBACCO ACT in order to (1) protect young persons from inducements to use tobacco products by further limiting the availability of flavoured cigar types that are attractive to youth; and (2) remove the ability of the tobacco industry to market most flavoured cigars in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0126  <strong>Publication Date:</strong> 2015-06-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0753",
-  "htmlHash": "a7b88f0f3bb1fda820867e10b1a47a21"
+  "htmlHash": "a7b88f0f3bb1fda820867e10b1a47a21",
+  "attachments": [
+    "attachment.php?attach=31075&lang=en"
+  ]
 }

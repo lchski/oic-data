@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1208</td><td>2018-09-28</td><td></td><td></td><td>ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declaring that the Wastewater Systems Effluent Regulations Do Not Apply in Quebec</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Declaring that the WASTEWATER SYSTEMS EFFLUENT REGULATIONS DO NOT APPLY IN QUEBEC in order to reduce regulatory duplication and to increase regulatory clarity and efficiency for the management of wastewater systems in Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0194  <strong>Publication Date:</strong> 2018-10-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36889&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1208",
-  "htmlHash": "ddfe275f425e5106b62d7569e2e21d78"
+  "htmlHash": "ddfe275f425e5106b62d7569e2e21d78",
+  "attachments": [
+    "attachment.php?attach=36889&lang=en"
+  ]
 }

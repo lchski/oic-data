@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1401</td><td>2019-12-19</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Operational Service Medal Regulations</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Awarding the Operational Service Medal With the EXPEDITION Ribbon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2010-1098 of September 2, 2010; (2) determining the eligibility criteria worthy of recognition by the award of the Operational Service Medal with the EXPEDITION ribbon; (3) specifying the appearance of the EXPEDITION ribbon; and (4) establishing the order of precedence of the Operational Service Medal with the EXPEDITION ribbon in the Canadian Honours System.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38759&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1401",
-  "htmlHash": "32ef686f5fa185c76529a95cc5badd05"
+  "htmlHash": "32ef686f5fa185c76529a95cc5badd05",
+  "attachments": [
+    "attachment.php?attach=38759&lang=en"
+  ]
 }

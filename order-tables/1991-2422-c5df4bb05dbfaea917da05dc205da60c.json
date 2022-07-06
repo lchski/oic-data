@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2422</td><td>1991-12-05</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">AUTOMOTIVE MACHINERY AND EQUIPMENT REMISSION ORDER, 1991-02 respecting the\nremission of a portion of the customs duties and sales tax paid or payable\non machinery and equipment imported into Canada by certain companies for\nthe production of original parts and accessories for automobiles.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0165  <strong>Publication Date:</strong> 1991-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2422",
-  "htmlHash": "c5df4bb05dbfaea917da05dc205da60c"
+  "htmlHash": "c5df4bb05dbfaea917da05dc205da60c",
+  "attachments": []
 }

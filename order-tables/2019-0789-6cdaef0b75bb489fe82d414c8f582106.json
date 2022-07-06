@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0789</td><td>2019-06-16</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Apprentice Loans Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Apprentice Loans Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the APPRENTICE LOANS REGULATIONS in order to make student and apprentice loans more affordable and accessible for students and apprentices who need them and particularly respond to the needs of vulnerable student and apprentice loan borrowers, including those facing challenging life or financial circumstances.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0215  <strong>Publication Date:</strong> 2019-06-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38116&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0789",
-  "htmlHash": "6cdaef0b75bb489fe82d414c8f582106"
+  "htmlHash": "6cdaef0b75bb489fe82d414c8f582106",
+  "attachments": [
+    "attachment.php?attach=38116&lang=en"
+  ]
 }

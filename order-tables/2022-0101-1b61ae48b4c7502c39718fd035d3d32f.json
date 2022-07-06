@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0101</td><td>2022-02-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ESDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Worker Lockdown Benefit Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Worker Lockdown Benefit Act (Lockdown Order Definition)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADA WORKER LOCKDOWN BENEFIT ACT (LOCKDOWN ORDER DEFINITION) in order to 1) extend the amended definition of “lockdown order” until March 12, 2022, allowing orders which require capacity limits to continue to meet the definition; and 2) remove the requirement that provinces or territories acknowledge that orders made by sub-provincial or sub-territorial governments meet the definition.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0019  <strong>Publication Date:</strong> 2022-03-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41555&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0101",
-  "htmlHash": "1b61ae48b4c7502c39718fd035d3d32f"
+  "htmlHash": "1b61ae48b4c7502c39718fd035d3d32f",
+  "attachments": [
+    "attachment.php?attach=41555&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0132</td><td>2009-01-29</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Land Claims Agreement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to an amendment to Article 19.2.5 of the NUNAVUT LAND CLAIMS AGREEMENT to allow Inuit of Nunavut to receive the full quantum of Inuit Owned Lands and the associated bodies of water as intended under the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19978&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0132",
-  "htmlHash": "52e1ee00d19fcaedbeaba05f3038a95c"
+  "htmlHash": "52e1ee00d19fcaedbeaba05f3038a95c",
+  "attachments": [
+    "attachment.php?attach=19978&lang=en"
+  ]
 }

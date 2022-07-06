@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1145</td><td>2010-09-23</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Reserve Land for Exploration and/or Exploitation of Oil and/or Gas Purposes - Flying Dust First Nation\n** Designation **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting: a) a DESIGNATION for exploration and/or exploitation of oil and/or gas and for all lawful purposes of approximately 5,746.46 hectares (14,201.49 acres) of land on portions of FLYING DUST FIRST NATION INDIAN RESERVE Nos. 105, 105D, 105E and 105F, Meadow Lake No. 105A and Gladue Lake No. 105B, in Saskatchewan and; b) the amendment of the designation for clerical errors by Band Council resolution No. 2009/10-35 dated January 6, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23126&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1145",
-  "htmlHash": "cc7bd02d75240417c747d1aad325e41c"
+  "htmlHash": "cc7bd02d75240417c747d1aad325e41c",
+  "attachments": [
+    "attachment.php?attach=23126&lang=en"
+  ]
 }

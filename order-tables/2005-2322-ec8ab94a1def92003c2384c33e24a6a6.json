@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2322</td><td>2005-12-20</td><td></td><td></td><td>INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to Ukraine undertaken by PETER GOLDRING, M.P., from December 21 to 28, 2004, as an observer in the rerun of the second round of the 2004 Presidential Elections.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13636&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2322",
-  "htmlHash": "ec8ab94a1def92003c2384c33e24a6a6"
+  "htmlHash": "ec8ab94a1def92003c2384c33e24a6a6",
+  "attachments": [
+    "attachment.php?attach=13636&lang=en"
+  ]
 }

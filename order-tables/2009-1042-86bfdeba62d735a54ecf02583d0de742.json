@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1042</td><td>2009-06-18</td><td></td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order confirming that the Minister of Citizenship and Immigration has fulfilled the requirements to review the factors set out in 102(3) of the Immigration and Refugee Protection Act for the purpose of designating the United States of America as a country that complies with Article 33 of the Refugee Convention and Article 3 of the Convention Against Torture (i.e. a safe third country).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20914&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1042",
-  "htmlHash": "86bfdeba62d735a54ecf02583d0de742"
+  "htmlHash": "86bfdeba62d735a54ecf02583d0de742",
+  "attachments": [
+    "attachment.php?attach=20914&lang=en"
+  ]
 }

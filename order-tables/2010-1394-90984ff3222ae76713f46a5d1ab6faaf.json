@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1394</td><td>2010-11-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Non-Article 5 North Atlantic Treaty Organization (NATO) Medal</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing Canadians to accept and wear the NON-ARTICLE 5 NORTH ATLANTIC TREATY ORGANIZATION (NATO) MEDAL FOR SERVICE ON OPERATIONS AND ACTIVITIES APPROVED BY THE NORTH ATLANTIC COUNCIL IN RELATION TO AFRICA, in recognition of honourable service; and (b) establishing its order of precedence in the Canadian Honours System.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2010-0085  <strong>Publication Date:</strong> 2010-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23384&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1394",
-  "htmlHash": "90984ff3222ae76713f46a5d1ab6faaf"
+  "htmlHash": "90984ff3222ae76713f46a5d1ab6faaf",
+  "attachments": [
+    "attachment.php?attach=23384&lang=en"
+  ]
 }

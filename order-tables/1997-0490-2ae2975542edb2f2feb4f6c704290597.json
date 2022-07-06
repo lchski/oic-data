@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0490</td><td>1997-04-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the the Minister of Foreign Affairs (a) to sign an Exchange\nof Notes amending the AGREEMENT ON THE USE OF THE 88 TO 108 MEGAHERTZ\nBAND FOR FREQUENCY MODULATION BROADCASTING (FM), between Canada and the\nUNITED STATES OF AMERICA, or (b) to issue an Instrument of Full Powers\nauthorizing either Raymond A.J. Chrétien or D.G. Waddell to sign the said\nExchange of Notes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0490",
-  "htmlHash": "2ae2975542edb2f2feb4f6c704290597"
+  "htmlHash": "2ae2975542edb2f2feb4f6c704290597",
+  "attachments": []
 }

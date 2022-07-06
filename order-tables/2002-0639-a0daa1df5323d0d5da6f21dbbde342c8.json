@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0639</td><td>2002-04-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of (a) an Order excluding anyone who would otherwise have a\nrigh to appeal an appointment made from a pre-qualified pool from the\noperation of section 21 of the Act, and (b) the PREQUALIFIED POOL RECOURSE\nREGULATIONS which provide for an individual interest based recourse\nprocess and an independent third party review of departmental decisions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0158  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0639",
-  "htmlHash": "a0daa1df5323d0d5da6f21dbbde342c8"
+  "htmlHash": "a0daa1df5323d0d5da6f21dbbde342c8",
+  "attachments": []
 }

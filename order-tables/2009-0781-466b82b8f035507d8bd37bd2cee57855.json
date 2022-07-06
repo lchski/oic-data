@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0781</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SYLVIE TESSIER of Toronto, Ontario, as Chair of the Board of Management of the Canada Revenue Agency, to hold office during pleasure until such time as a new Chair is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20688&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0781",
-  "htmlHash": "466b82b8f035507d8bd37bd2cee57855"
+  "htmlHash": "466b82b8f035507d8bd37bd2cee57855",
+  "attachments": [
+    "attachment.php?attach=20688&lang=en"
+  ]
 }

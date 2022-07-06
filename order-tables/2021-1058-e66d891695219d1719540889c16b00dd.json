@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-1058</td><td>2021-12-20</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue under the Great Seal of Canada empowering WENDY NIXON to administer the Oath of Allegiance, the Oath of Office or any other Oath as may from time to time be prescribed by law.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41423&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-1058",
-  "htmlHash": "e66d891695219d1719540889c16b00dd"
+  "htmlHash": "e66d891695219d1719540889c16b00dd",
+  "attachments": [
+    "attachment.php?attach=41423&lang=en"
+  ]
 }

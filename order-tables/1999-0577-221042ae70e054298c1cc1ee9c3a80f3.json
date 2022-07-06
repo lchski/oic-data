@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0577</td><td>1999-03-25</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to (a) enter into a SETTLEMENT AGREEMENT with the DUNCAN'S BAND\nfor the purpose of resolving a specific claim involving the 1928 surrender\nfor sale of some 160 acres of land fronting on Bear Lake in Alberta,\nformerly known as Louison Cardinal Indian Reserve No. 151H, and (b) to\naccept the Instrument of Absolute Surrender set out in Article 4 thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0577",
-  "htmlHash": "221042ae70e054298c1cc1ee9c3a80f3"
+  "htmlHash": "221042ae70e054298c1cc1ee9c3a80f3",
+  "attachments": []
 }

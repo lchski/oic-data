@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0512</td><td>2009-04-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the SETTING APART of 105.41 hectares of land and 107 hectares of mines and minerals for the use and benefit of the Fort McKay First Nation as an addition to FORT McKAY INDIAN RESERVE NO. 174, in Alberta.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20372&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0512",
-  "htmlHash": "180daaca0af0bae143624fbe687ff2ef"
+  "htmlHash": "180daaca0af0bae143624fbe687ff2ef",
+  "attachments": [
+    "attachment.php?attach=20372&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0583</td><td>2004-05-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Staff Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of THOMAS S. KUTTNER of Fredericton, New Brunswick, to be a part-time member of the Public Service Staff Relations Board to hold office during good behaviour for a period of three years, effective May 21, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0583",
-  "htmlHash": "9f6d3316af3fd9b8e47c34226f72b70d"
+  "htmlHash": "9f6d3316af3fd9b8e47c34226f72b70d",
+  "attachments": [
+    "attachment.php?attach=6795&lang=en"
+  ]
 }

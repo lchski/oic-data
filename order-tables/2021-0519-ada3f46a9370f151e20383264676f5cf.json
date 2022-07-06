@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0519</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Grain Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations amending the CANADA GRAIN REGULATIONS in order to repeal the forms in Schedule IV and incorporate by reference updated forms.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0124  <strong>Publication Date:</strong> 2021-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40808&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0519",
-  "htmlHash": "ada3f46a9370f151e20383264676f5cf"
+  "htmlHash": "ada3f46a9370f151e20383264676f5cf",
+  "attachments": [
+    "attachment.php?attach=40808&lang=en"
+  ]
 }

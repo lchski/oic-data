@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0230</td><td>2010-02-23</td><td></td><td></td><td>,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">1770685 Ontario Inc.\nFive year renewal options\n431 Sussex Drive</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant two renewal options of five years each, starting April 1, 2012,  and April 1, 2017 to extend an existing lease with 1770685 ONTARIO INC., for the operation of a pub and restaurant located at 431 Sussex Drive in Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22202&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0230",
-  "htmlHash": "a4eeec99690341706330f85f813894d7"
+  "htmlHash": "a4eeec99690341706330f85f813894d7",
+  "attachments": [
+    "attachment.php?attach=22202&lang=en"
+  ]
 }

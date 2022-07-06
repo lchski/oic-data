@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0828</td><td>2006-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the HENVEY INLET FIRST NATION surrenders  to the Crown, for leasing purposes, some 4,109 hectares of land situated within HENVEY INLET INDIAN RESERVE NO. 2 in ONTARIO.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0828",
-  "htmlHash": "a93ed461c26df9febfef094a7d0033fb"
+  "htmlHash": "a93ed461c26df9febfef094a7d0033fb",
+  "attachments": [
+    "attachment.php?attach=14762&lang=en"
+  ]
 }

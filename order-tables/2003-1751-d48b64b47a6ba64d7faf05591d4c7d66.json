@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1751</td><td>2003-11-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RICHARD G. MOSLEY of Ottawa, Ontario, to be a Judge of the Federal Court, and a member ex officio of the Federal Court of Appeal.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4694&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1751",
-  "htmlHash": "d48b64b47a6ba64d7faf05591d4c7d66"
+  "htmlHash": "d48b64b47a6ba64d7faf05591d4c7d66",
+  "attachments": [
+    "attachment.php?attach=4694&lang=en"
+  ]
 }

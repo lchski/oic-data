@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0564</td><td>2008-03-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS REPEALING THE CHILDREN'S JEWELLERY REGULATIONS (MISCELLANEOUS PROGRAM) in response to concerns raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0090  <strong>Publication Date:</strong> 2008-04-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18380&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0564",
-  "htmlHash": "e4af0ad83682fc169a73dcb8bbfcb153"
+  "htmlHash": "e4af0ad83682fc169a73dcb8bbfcb153",
+  "attachments": [
+    "attachment.php?attach=18380&lang=en"
+  ]
 }

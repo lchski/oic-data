@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2203</td><td>2005-11-28</td><td></td><td></td><td>CBSA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ACCOUNTING FOR IMPORTED GOODS AND PAYMENT OF DUTIES REGULATIONS by excluding Advance Commercial Information Initiative goods that are reported orally from the list of goods that can be released with no requirement of accounting under the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0383  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13516&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2203",
-  "htmlHash": "a793e5ac54f29e104bcc1eff33182849"
+  "htmlHash": "a793e5ac54f29e104bcc1eff33182849",
+  "attachments": [
+    "attachment.php?attach=13516&lang=en"
+  ]
 }

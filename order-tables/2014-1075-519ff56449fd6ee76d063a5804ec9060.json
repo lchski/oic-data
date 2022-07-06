@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1075</td><td>2014-10-09</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of W.A. SAM SHAW of Calgary, Alberta, as a member of the Standards Council of Canada to hold office during pleasure for a term of three years; and designation of W.A. SAM SHAW as Vice-Chairperson of the Standards Council of Canada to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29892&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1075",
-  "htmlHash": "519ff56449fd6ee76d063a5804ec9060"
+  "htmlHash": "519ff56449fd6ee76d063a5804ec9060",
+  "attachments": [
+    "attachment.php?attach=29892&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0745</td><td>2010-06-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Amending Order AO-4-EC-III-16 (Variance of National Energy Board Certificate EC-III-16) \n \n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the Certificate of Public Convenience and Necessity No. EC-III-16, issued to The MANITOBA HYDRO ELECTRIC BOARD (MANITOBA HYDRO), to reflect the alteration of the Dorsey International Power Line (Dorsey IPL) by undertaking the Riel Project and to amend conditions 2, 3, 4 and 8 of the Certificate.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22722&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0745",
-  "htmlHash": "5e61788e2b4287b6cab708929e0c6751"
+  "htmlHash": "5e61788e2b4287b6cab708929e0c6751",
+  "attachments": [
+    "attachment.php?attach=22722&lang=en"
+  ]
 }

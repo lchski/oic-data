@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0584</td><td>2000-04-14</td><td>0</td><td></td><td>INDUSTRY,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the dates on which different provisions of this Act\n[BILL C-6], being chapter 5 of the Statutes of Canada, 2000, shall\nCOME INTO FORCE, as follows:\n.\n (a) MONDAY, MAY 1, 2000 - Parts 2 [Electronic Documents], 3 [Amendments\n     to the Canada Evidence Act] and 4 [Amendments to the Statutory\n     Instruments Act], and\n (b) MONDAY, JANUARY 1, 2001 - Part 1 [Protection of Personal Information\n     in the Private Sector].\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0029  <strong>Publication Date:</strong> 2000-04-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0584",
-  "htmlHash": "f10f5a919307cc28edbd79efc5285ad3"
+  "htmlHash": "f10f5a919307cc28edbd79efc5285ad3",
+  "attachments": []
 }

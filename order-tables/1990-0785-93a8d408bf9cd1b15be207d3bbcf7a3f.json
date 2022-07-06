@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0785</td><td>1990-04-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for (a) the transfer to the Province of British\nColumbia of the administration and control over some 17.10 hectares of\nland situated on Lachkaltsap Indian Reserve No. 9 and Andegulay Indian\nReserve No. 8 (in lieu of the taking of those lands without consent of the\nowners), and (b) for the setting apart of some 20.48 hectares of provincial\nland for the use and benefit of the Lakalzap Band of Indians as an addition\nto Lachkaltsap Indian Reserve No. 9.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0785",
-  "htmlHash": "93a8d408bf9cd1b15be207d3bbcf7a3f"
+  "htmlHash": "93a8d408bf9cd1b15be207d3bbcf7a3f",
+  "attachments": []
 }

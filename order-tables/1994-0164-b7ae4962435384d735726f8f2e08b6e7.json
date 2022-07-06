@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0164</td><td>1994-01-27</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the salary of Mr. SERGE BRAULT, a former Vice-Chairman of the\nCanada Labour Relations Board, for each day he is engaged in carrying out\nduties or responsibilities under section 11 of the Canada Labour Code.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0164",
-  "htmlHash": "b7ae4962435384d735726f8f2e08b6e7"
+  "htmlHash": "b7ae4962435384d735726f8f2e08b6e7",
+  "attachments": []
 }

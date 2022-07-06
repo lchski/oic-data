@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0261</td><td>2011-03-03</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS in order to enhance the reliability, transparency and efficiency with which language requirements are assessed during the processing of Federal Skilled Worker, Canadian Experience Class and Business Immigrant applications.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0054  <strong>Publication Date:</strong> 2011-03-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24024&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0261",
-  "htmlHash": "df5ae50065f5e078ca5ad3bb876963a4"
+  "htmlHash": "df5ae50065f5e078ca5ad3bb876963a4",
+  "attachments": [
+    "attachment.php?attach=24024&lang=en"
+  ]
 }

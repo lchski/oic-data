@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1332</td><td>1992-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\nMichael R. Bell, Ambassador of Canada in Moscow, or Vernon G. Turner,\nSpecial Advisor to the Task Force on Central and Eastern Europe, to sign a\nMULTILATERAL AGREEMENT ESTABLISHING AN INTERNATIONAL SCIENCE AND TECHNOLOGY\nCENTRE (in Russia).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1332",
-  "htmlHash": "179a91829ae3b16acfda0f0c4648e559"
+  "htmlHash": "179a91829ae3b16acfda0f0c4648e559",
+  "attachments": []
 }

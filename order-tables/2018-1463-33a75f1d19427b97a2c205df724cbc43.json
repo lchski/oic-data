@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1463</td><td>2018-11-26</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Order in Council P.C. 2018-1314 of October 26, 2018</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing the date of entry into force of the COMPREHENSIVE AND PROGRESSIVE AGREEMENT FOR TRANS-PACIFIC PARTNERSHIP, other than section 49, as December 30, 2018.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0108  <strong>Publication Date:</strong> 2018-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37142&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1463",
-  "htmlHash": "33a75f1d19427b97a2c205df724cbc43"
+  "htmlHash": "33a75f1d19427b97a2c205df724cbc43",
+  "attachments": [
+    "attachment.php?attach=37142&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0768</td><td>2004-06-21</td><td>25</td><td>1995</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Chemical Weapons Convention Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JULY 1, 2004, as the day upon which section 8 of this Act [BILL C-87], being chapter 25 of the Statutes of Canada, 1995, shall COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2004-0071  <strong>Publication Date:</strong> 2004-06-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7281&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0768",
-  "htmlHash": "f1b5c6400491da36282d7563e2814d3b"
+  "htmlHash": "f1b5c6400491da36282d7563e2814d3b",
+  "attachments": [
+    "attachment.php?attach=7281&lang=en"
+  ]
 }

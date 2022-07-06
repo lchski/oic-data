@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0742</td><td>2003-05-27</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Development Research  Centre Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SHEKHAR SINGH of New Delhi, Republic of India, to be a governor of the Board of Governors of the International Development Research Centre, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2496&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0742",
-  "htmlHash": "3f8aaf9f5cef60f7dd47b033a66c1c79"
+  "htmlHash": "3f8aaf9f5cef60f7dd47b033a66c1c79",
+  "attachments": [
+    "attachment.php?attach=2496&lang=en"
+  ]
 }

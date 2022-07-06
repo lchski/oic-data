@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1327</td><td>2009-08-04</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DAVID CHARLES USHERWOOD of Cochrane, Alberta, as Chairperson of the Boards of Referees for the Alberta Regional Division, and particularly for the District of Calgary, for a term of three years, effective September 15, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21209&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1327",
-  "htmlHash": "532cb9877dda093fbe7ee9ef0256f8eb"
+  "htmlHash": "532cb9877dda093fbe7ee9ef0256f8eb",
+  "attachments": [
+    "attachment.php?attach=21209&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0183</td><td>2016-03-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Hon. Peter J. McIntyre ** RESIGNATION AND ANNUITY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Resignation and granting of an ANNUITY to the Hon. PETER J. MCINTYRE, a Judge of the Court of Queen’s Bench of Alberta, effective January 5, 2016 .</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31860&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0183",
-  "htmlHash": "368e8caf62f353ba4ce648b8a57da5c9"
+  "htmlHash": "368e8caf62f353ba4ce648b8a57da5c9",
+  "attachments": [
+    "attachment.php?attach=31860&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0354</td><td>2020-05-18</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of OKSANA A. WYNNYCKYJ-YUSYPOVYCH as Honorary Consul of Canada in Lviv, Ukraine, to hold office during pleasure for a period of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39267&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0354",
-  "htmlHash": "d532c6b39838a08e1584fdb2aa985cc9"
+  "htmlHash": "d532c6b39838a08e1584fdb2aa985cc9",
+  "attachments": [
+    "attachment.php?attach=39267&lang=en"
+  ]
 }

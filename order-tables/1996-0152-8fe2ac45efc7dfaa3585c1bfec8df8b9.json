@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0152</td><td>1996-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (a) the grant to A. HARVEY &amp; COMPANY LIMITED of title to\nsome 2.151 hectares of land under the administration of the ST. JOHN'S PORT\nCORPORATION, and (b) the St. John's Port Corporation to acquire title to\nsome 0.0997 hectares of land owned by the grantee.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0152",
-  "htmlHash": "8fe2ac45efc7dfaa3585c1bfec8df8b9"
+  "htmlHash": "8fe2ac45efc7dfaa3585c1bfec8df8b9",
+  "attachments": []
 }

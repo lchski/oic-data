@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0267</td><td>2016-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Gros Cap Indian Reserve No. 49, Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 22.23 hectares (54.93 acres) of land for the use and benefit of the Michipicoten First Nation as an addition to GROS CAP INDIAN RESERVE NO. 49, located in the Geographic Township of Lendrum, in the Municipality of Wawa, District of Algoma, located approximately 7 kilometres from the Town of Wawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31942&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0267",
-  "htmlHash": "02764c8d876d2f39c47cf01208be6737"
+  "htmlHash": "02764c8d876d2f39c47cf01208be6737",
+  "attachments": [
+    "attachment.php?attach=31942&lang=en"
+  ]
 }

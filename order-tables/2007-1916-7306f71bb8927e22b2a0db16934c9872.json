@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1916</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER THE FOOD AND DRUGS ACT (PROJECT 1539) which will exempt most non-prescription and natural health products from the general prohibition on the advertising and sale of a product to the general public as a preventative for any of the abnormal physical conditions referred to in Schedule A to the Act, but not as a treatment or cure for any of them.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0288  <strong>Publication Date:</strong> 2007-12-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17670&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1916",
-  "htmlHash": "7306f71bb8927e22b2a0db16934c9872"
+  "htmlHash": "7306f71bb8927e22b2a0db16934c9872",
+  "attachments": [
+    "attachment.php?attach=17670&lang=en"
+  ]
 }

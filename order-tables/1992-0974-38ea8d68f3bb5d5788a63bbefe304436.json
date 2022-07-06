@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0974</td><td>1992-05-13</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Berkley F. Evans, of North Sydney, Nova Scotia, as\nChairperson of the Boards of Referees for the Nova Scotia Regional\nDivision, and particularly for the District of Sydney, for a term of three\nyears, effective May 19, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0974",
-  "htmlHash": "38ea8d68f3bb5d5788a63bbefe304436"
+  "htmlHash": "38ea8d68f3bb5d5788a63bbefe304436",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0988</td><td>2005-05-19</td><td></td><td></td><td>,&nbsp; OIC-OLD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TONY GENCO of Toronto, Ontario, as president and chief executive officer of Parc Downsview Park Inc., to hold office during pleasure, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0988",
-  "htmlHash": "d23a09ff87f814fcc8686899f92887e5"
+  "htmlHash": "d23a09ff87f814fcc8686899f92887e5",
+  "attachments": [
+    "attachment.php?attach=10264&lang=en"
+  ]
 }

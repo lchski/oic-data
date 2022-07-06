@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1064</td><td>2013-10-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; MINT</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Issue and Determining the Composition, Dimensions and Designs of two Twenty-five Cent Circulation Coins</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the issuance of two circulation coins of 25 cents to commemorate, celebrate and promote the First Canadian Arctic Expedition Centennial.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0177  <strong>Publication Date:</strong> 2013-10-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28319&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1064",
-  "htmlHash": "a81fd4949ca390cc7da9499e627e700a"
+  "htmlHash": "a81fd4949ca390cc7da9499e627e700a",
+  "attachments": [
+    "attachment.php?attach=28319&lang=en"
+  ]
 }

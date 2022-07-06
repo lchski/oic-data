@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0966</td><td>2009-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Press Pension Plan Solvency Deficiency Funding Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Will defer special pension payments owed by the Canadian Press to its two defined benefit pension plans until October 2010 in order to permit the company time to effect a restructuring from a not-for-profit structure to a for-profit entity.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0183  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20817&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0966",
-  "htmlHash": "3abfa87abb9626dc5d419ad78c3225b7"
+  "htmlHash": "3abfa87abb9626dc5d419ad78c3225b7",
+  "attachments": [
+    "attachment.php?attach=20817&lang=en"
+  ]
 }

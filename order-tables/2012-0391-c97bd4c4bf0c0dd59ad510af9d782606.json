@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0391</td><td>2012-04-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSDC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Student Financial Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Student Financial Assistance Regulations </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS in order to ensure that students targeted for grants continue to be eligible for the non-repayable assistance they need to pursue post-secondary education, by updating the Low- and Middle-Income Thresholds used to determine eligibility taking into account inflation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0079  <strong>Publication Date:</strong> 2012-04-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25815&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0391",
-  "htmlHash": "c97bd4c4bf0c0dd59ad510af9d782606"
+  "htmlHash": "c97bd4c4bf0c0dd59ad510af9d782606",
+  "attachments": [
+    "attachment.php?attach=25815&lang=en"
+  ]
 }

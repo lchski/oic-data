@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0073</td><td>1991-01-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to grant of a licence of occupation in CAPE BRETON\nHIGHLANDS NATIONAL PARK to NORTH VICTORIA SATELLITE T.V. LTD., for the\npurpose of installing, maintaining and operating a tower and televesion\nsignal rebroadcasting equipment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0073",
-  "htmlHash": "6936d3f7a8fafe0a2d316ecd8a36c1b8"
+  "htmlHash": "6936d3f7a8fafe0a2d316ecd8a36c1b8",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2520</td><td>1990-11-22</td><td>0</td><td></td><td>OLD INAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for: (a) the approval of the terms and the signature\nof a SETTLEMENT AGREEMENT between the Gov't of Canada and the Gov't of\nSaskatchewan pertaining to the partial settlement of outstanding treaty\nland entitlements (Treaty No. 6) of the FLYING DUST BAND; (b) the setting\napart of some 97.8 hectares of land situate in the vicinity of Jarvis Lake\nfor the use and benefit of that band as GLADUE LAKE INDIAN RESERVE NO.\n105B; and (c) the exercise by Saskatchewan of its powers to establish a\nright-of-way across the reserve for public roadway purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2520",
-  "htmlHash": "c4ec4cca2879d46d5c80a4207e7fd44b"
+  "htmlHash": "c4ec4cca2879d46d5c80a4207e7fd44b",
+  "attachments": []
 }

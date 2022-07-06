@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0394</td><td>2010-03-25</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Excluding Certain Indictable Offences from the Definition of¨\"Designated Offence\"</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS EXCLUDING CERTAIN INDICTABLE OFFENCES FROM THE DEFINITION OF 'DESIGNATED OFFENCE' by removing the Copyright Act from the list of statutes that are excluded from the definition of “designated offence” in relation to the application of the “proceeds of crime” provisions of the Criminal Code in order to allow such proceeds to fall within the ambit of the Criminal Code’s proceeds of crime regime.  This will improve the ability of law enforcement agencies to enforce the Copyright Act by permitting the seizure, restraint and confiscation of proceeds derived from the commission of copyright-related offences and will complement existing enforcement strategies to combat organized crime and copyright piracy.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0074  <strong>Publication Date:</strong> 2010-04-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22370&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0394",
-  "htmlHash": "914a717ee4b38967ff753fed7dd0eb19"
+  "htmlHash": "914a717ee4b38967ff753fed7dd0eb19",
+  "attachments": [
+    "attachment.php?attach=22370&lang=en"
+  ]
 }

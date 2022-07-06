@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0007</td><td>2012-01-19</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Ann Isaac ** WIDOW'S ANNUITY **  The Hon. Julius A. Isaac</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to ANN ISAAC, widow of the Hon. Julius A. Isaac, a Judge of the Federal Court of Appeal, effective July 17,  2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25425&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-0007",
-  "htmlHash": "557a0ca572a89cc8c1710681cd108404"
+  "htmlHash": "557a0ca572a89cc8c1710681cd108404",
+  "attachments": [
+    "attachment.php?attach=25425&lang=en"
+  ]
 }

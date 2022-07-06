@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2000</td><td>2009-12-10</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">G8 Summit Privileges and Immunities Order, 2010\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">G8 SUMMIT PRIVILEGES AND IMMUNITIES ORDER, 2010 - which grants privileges and immunities to the organization of the G8 (2010), the representatives of the eight countries that make up the G8, and the experts performing missions for the G8 (2010) organization between January 29 and February 13, 2010, between March 22 and April 6, 2010, and between June 18 and July 4, 2010.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0336  <strong>Publication Date:</strong> 2009-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21888&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-2000",
-  "htmlHash": "0985d0309b9627f1e5a2d228685584d4"
+  "htmlHash": "0985d0309b9627f1e5a2d228685584d4",
+  "attachments": [
+    "attachment.php?attach=21888&lang=en"
+  ]
 }

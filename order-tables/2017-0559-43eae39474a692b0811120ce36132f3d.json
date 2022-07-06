@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0559</td><td>2017-06-02</td><td>14</td><td>2009</td><td>,&nbsp; ECCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Environmental Enforcement Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing July 12, 2017 as the Day on which Certain Provisions of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 12, 2017, as the day on which subsection 47(2) and sections 48, 101, 102, and 121 to 123 of the ENVIRONMENTAL ENFORCEMENT ACT, Chapter 14 of the Statutes of Canada, 2009, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2017-0028  <strong>Publication Date:</strong> 2017-06-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34477&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0559",
-  "htmlHash": "43eae39474a692b0811120ce36132f3d"
+  "htmlHash": "43eae39474a692b0811120ce36132f3d",
+  "attachments": [
+    "attachment.php?attach=34477&lang=en"
+  ]
 }

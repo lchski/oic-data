@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1427</td><td>2009-08-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Canadian Northern Economic Development Agency as a Department and the President as Deputy Head for Purposes of the Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the Canadian Northern Economic Development Agency as a department and its President as the deputy head of that Agency for the purposes of this Act, effective August 18, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2009-0082  <strong>Publication Date:</strong> 2009-09-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21311&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1427",
-  "htmlHash": "392ed367dc30acfc0ac9fd585db49f7c"
+  "htmlHash": "392ed367dc30acfc0ac9fd585db49f7c",
+  "attachments": [
+    "attachment.php?attach=21311&lang=en"
+  ]
 }

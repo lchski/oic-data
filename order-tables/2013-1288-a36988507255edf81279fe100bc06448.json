@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1288</td><td>2013-11-28</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Patent Rules</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the PATENT RULES in order to (1) simplify and clarify the processes of the Canadian Intellectual Property Office associated with the review of a patent application by the Commissioner of Patents that has been rejected in a Final Action by a patent examiner; and (2) make minor changes to clarify the Re-examination process.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2013-0212  <strong>Publication Date:</strong> 2013-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28550&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1288",
-  "htmlHash": "a36988507255edf81279fe100bc06448"
+  "htmlHash": "a36988507255edf81279fe100bc06448",
+  "attachments": [
+    "attachment.php?attach=28550&lang=en"
+  ]
 }

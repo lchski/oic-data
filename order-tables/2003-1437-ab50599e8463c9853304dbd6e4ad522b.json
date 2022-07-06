@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1437</td><td>2003-09-25</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RODERICK A. McLENNAN of Edmonton, Alberta, to be Chairperson of the Judicial Compensation and Benefits Commission, to hold office during good behaviour for a term ending August 31, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1437",
-  "htmlHash": "ab50599e8463c9853304dbd6e4ad522b"
+  "htmlHash": "ab50599e8463c9853304dbd6e4ad522b",
+  "attachments": [
+    "attachment.php?attach=4000&lang=en"
+  ]
 }

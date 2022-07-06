@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1287</td><td>2013-11-28</td><td>28</td><td>2013</td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Expansion and Conservation of Canada's National Parks Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing December 1, 2013 as the Day on which Part 1 and Section 15 of the Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing December 1, 2013 as the day on which Part 1 and section 15 the EXPANSION AND CONSERVATION OF CANADA'S NATIONAL PARKS ACT, chapter 28 of the Statutes of Canada, 2013, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2013-0124  <strong>Publication Date:</strong> 2013-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1287",
-  "htmlHash": "54377a921bf71d18bc99ae7a27b9b42f"
+  "htmlHash": "54377a921bf71d18bc99ae7a27b9b42f",
+  "attachments": [
+    "attachment.php?attach=28549&lang=en"
+  ]
 }

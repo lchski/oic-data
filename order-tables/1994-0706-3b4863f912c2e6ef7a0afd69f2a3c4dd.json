@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0706</td><td>1994-04-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the National Round Table on\nthe Environment and the Economy, to hold office during pleasure for terms\nof one year and three years, effective April 28, 1994.\n(1 year - Reginald Charles Basken; Diane F. Griffin; R.A. (Tony) Hodge;\nSusan Holtz; Pierre Marc Johnson; Geraldine A. Kenney-Wallace; Jack M.\nMacLeod; Robert J.D. Page; and His Honour Judge Barry D. Stuart;\n3 years - Elizabeth Evans May; Patrick (Paddy) Carson; Sam Hamad; Stuart\nL. Smith; Allan D. Bruce; Arthur John Hanson; Cindy Kenny-Gilday;\nElizabeth Jane Crocker; Lise Bacon; Janine Helene Ferretti; Karen A.\nMorgan; Loreen May Williams; the Honourable Maurice F. Strong, P.C.;\nG. Martin Eakins; and Harvey L. Mead)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0706",
-  "htmlHash": "3b4863f912c2e6ef7a0afd69f2a3c4dd"
+  "htmlHash": "3b4863f912c2e6ef7a0afd69f2a3c4dd",
+  "attachments": []
 }

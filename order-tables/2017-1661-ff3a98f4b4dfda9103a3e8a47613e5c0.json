@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1661</td><td>2017-12-14</td><td></td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NINA FRID of Ottawa, Ontario, to be a full-time member of the Military Grievances External Review Committee, to hold office during good behaviour for a term of four years, effective February 5, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35571&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1661",
-  "htmlHash": "ff3a98f4b4dfda9103a3e8a47613e5c0"
+  "htmlHash": "ff3a98f4b4dfda9103a3e8a47613e5c0",
+  "attachments": [
+    "attachment.php?attach=35571&lang=en"
+  ]
 }

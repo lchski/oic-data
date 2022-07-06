@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0601</td><td>1992-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to enter into three AGREEMENTS with the Government of the\nYUKON TERRITORY which provide for (i) the transfer of responsibility for\nthe operation, maintenance and reconstruction of certain segments of the\nALASKA HIGHWAY, (ii) the making of a separate contribution towards the\nreconstruction of the highway between Watson Lake to Whitehorse, (iii) the\nprovision of ENGINEERING SERVICES with respect to the reconstruction of the\nSHAKWAK section, and (b) to transfer Crown highway maintenance equipment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0601",
-  "htmlHash": "b3e6acdc5b5f2645d188c3bed7225248"
+  "htmlHash": "b3e6acdc5b5f2645d188c3bed7225248",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0629</td><td>2008-04-03</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-hiring of MICHAEL SHANE ARNOLD, a retired member of the RCMP, and appointment to the rank of Inspector, effective as of April 9, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18452&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0629",
-  "htmlHash": "614a6f96e5b1cee45bbda61640d0897e"
+  "htmlHash": "614a6f96e5b1cee45bbda61640d0897e",
+  "attachments": [
+    "attachment.php?attach=18452&lang=en"
+  ]
 }

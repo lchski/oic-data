@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0868</td><td>2009-06-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act<br>Government Property Traffic Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Transport Regulations (Miscellaneous Program)\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment in order to reflect the change of the name of two international airports to Halifax Robert L. Stanfield International Airport and Winnipeg James Armstrong Richardson International Airport, to amend other regulations with regards to airport references to reflect the new names, and to make two amendments to the Canadian Computer Reservation Systems Regulations to correct language discrepancies.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0167  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20732&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0868",
-  "htmlHash": "3615e96864656289f14ba171f9cd1a5e"
+  "htmlHash": "3615e96864656289f14ba171f9cd1a5e",
+  "attachments": [
+    "attachment.php?attach=20732&lang=en"
+  ]
 }

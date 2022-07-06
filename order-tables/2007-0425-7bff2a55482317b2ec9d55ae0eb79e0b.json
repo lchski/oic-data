@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0425</td><td>2007-03-23</td><td>46</td><td>2005</td><td>,&nbsp; ,&nbsp; TBS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Servants Disclosure Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Bill C-11 -- CiF</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing APRIL 15, 2007 as the day upon which the Public Servants Disclosure Protection Act, being chapter 46 of the Statutes of Canada, 2005, COMES INTO FORCE, except for section 59 and the reference to the Canada Pension Plan Investment Board in Schedule 1.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0043  <strong>Publication Date:</strong> 2007-04-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16060&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0425",
-  "htmlHash": "7bff2a55482317b2ec9d55ae0eb79e0b"
+  "htmlHash": "7bff2a55482317b2ec9d55ae0eb79e0b",
+  "attachments": [
+    "attachment.php?attach=16060&lang=en"
+  ]
 }

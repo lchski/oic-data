@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0826</td><td>1998-05-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1997-883 of July 3, 1997 which will\nextend the term of appointment of DAVID ZIMMER as a full-time member\nof the Convention Refugee Determination Division of the Immigration and\nRefugee Board (Toronto Regional Office) until June 9, 2003; and\ndesignation of DAVID ZIMMER as Assistant Deputy Chairperson of the\nConvention Refugee Determination Division of the Immigration and Refugee\nBoard (Toronto Regional Office); effective June 10, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0826",
-  "htmlHash": "faf9f4825cfc3712b772c2d19ef5da25"
+  "htmlHash": "faf9f4825cfc3712b772c2d19ef5da25",
+  "attachments": []
 }

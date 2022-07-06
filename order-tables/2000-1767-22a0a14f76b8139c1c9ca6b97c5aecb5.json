@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1767</td><td>2000-12-13</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the TREATY LAND ENTITLEMENT (MANITOBA) REMISSION ORDER which\nprovides for the remission of the tax paid or payable on the supply of\nland, third party interests and tangible personal property supplied to\ncertain Indian Bands that settle treaty land entitlement claims.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0001  <strong>Publication Date:</strong> 2001-01-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1767",
-  "htmlHash": "22a0a14f76b8139c1c9ca6b97c5aecb5"
+  "htmlHash": "22a0a14f76b8139c1c9ca6b97c5aecb5",
+  "attachments": []
 }

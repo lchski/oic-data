@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0609</td><td>2003-05-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTIONS within the OFFICER RANKS of the Royal Canadian Mounted Police.\n\nTO THE RANK OF ASSISTANT COMMISSIONER\n\nChief Superintendent R.E. (Earl) Moulton\n\nTO THE RANK OF CHIEF SUPERINTENDENT\n\nSuperintendent J.G. (Jim) Brezovski\n\nTO THE RANK OF SUPERINTENDENT\n\nInspector J.J.R.S. (Richard) Marcoux\nInspector J.G.B. (Gilles) Michaud\nInspector D.A. (Dan) Nugent\nInspector P.G. (Pat) Teolis</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0609",
-  "htmlHash": "bf6f9131b30cc2f04ae64e9b1ad4cf4e"
+  "htmlHash": "bf6f9131b30cc2f04ae64e9b1ad4cf4e",
+  "attachments": [
+    "attachment.php?attach=2158&lang=en"
+  ]
 }

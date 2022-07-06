@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0858</td><td>2005-05-10</td><td>23</td><td>2004</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; HEALTH</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Patent Act and the Food and Drugs Act (The Jean Chrétien Pledge to Africa)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MAY 14, 2005 as the day on which this Act [BILL C-9], being chapter 23 of the Statutes of Canada, 2004, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0046  <strong>Publication Date:</strong> 2005-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10961&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0858",
-  "htmlHash": "272a3cd8e1d931487c5a889fe3c98919"
+  "htmlHash": "272a3cd8e1d931487c5a889fe3c98919",
+  "attachments": [
+    "attachment.php?attach=10961&lang=en"
+  ]
 }

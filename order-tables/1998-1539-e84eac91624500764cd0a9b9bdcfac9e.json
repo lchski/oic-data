@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1539</td><td>1998-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the SAULTEAUX BAND, of some\n1,036 hectares of land in Saskatchewan, mines and minerals included, as\nSaulteaux Indian Reserves Nos. 159P, 159Q and 159R.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1539",
-  "htmlHash": "e84eac91624500764cd0a9b9bdcfac9e"
+  "htmlHash": "e84eac91624500764cd0a9b9bdcfac9e",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0088</td><td>2017-02-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Amending Order AO-008-GC-113 - NOVA Gas Transmission Ltd.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE by the National Energy Board of the Amending Order AO-008-GC-113 to NOVA GAS TRANSMISSION LTD. in order to remove reference to the original metering station from the Certificate.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0088",
-  "htmlHash": "5915465c054e1e94ef2c9ebcb1a8094f"
+  "htmlHash": "5915465c054e1e94ef2c9ebcb1a8094f",
+  "attachments": [
+    "attachment.php?attach=33000&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1858</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the travel within Canada undertaken or to be undertaken\nbetween September 28, 1994 and December 31, 1994, by the following Senator\nand eight M.P.s in connection with the work of the TASK FORCE on the\nCOMMERCIALIZATION OF THE CANADIAN NATIONAL RAILWAY SYSTEM, namely:\n.\n  1. Hon. Senator/sénateur Horace Andrew Olson\n  2. Guy H. Arsenault                6. Robert D. Nault\n  3. Murray Calder                   7. Georgette Sheridan\n  4. Patrick Gagnon                  8. Anna Terrana\n  5. Ron MacDonald                   9. David Walker\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1858",
-  "htmlHash": "ed10854791989d7044b0e16563a1717d"
+  "htmlHash": "ed10854791989d7044b0e16563a1717d",
+  "attachments": []
 }

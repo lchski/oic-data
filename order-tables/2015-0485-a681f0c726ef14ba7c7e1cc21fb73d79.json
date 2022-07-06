@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0485</td><td>2015-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order No. 3 Respecting Flight Deck Occupants</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving INTERIM ORDER NO. 3 RESPECTING FLIGHT DECK OCCUPANTS, made by the Minister of Transport on April 22, 2015, in order to ensure that there is always a second person on the flight deck during the absence of a flight crew member.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2015-0032  <strong>Publication Date:</strong> 2015-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30811&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0485",
-  "htmlHash": "a681f0c726ef14ba7c7e1cc21fb73d79"
+  "htmlHash": "a681f0c726ef14ba7c7e1cc21fb73d79",
+  "attachments": [
+    "attachment.php?attach=30811&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0674</td><td>2010-05-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the British Columbia Sport Fishing Regulations, 1996 </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the BRITISH COLUMBIA SPORT FISHING REGULATIONS, 1996 in order to 1) harmonize the federal and provincial licencing requirement during the Family Fishing Weekend (FFW) to reduce non-compliance and lack of awareness from novice harvesters regarding the current divergent requirements, and 2) allow all British Columbia residents to fish without an angling licence during this year's BC FFW on Father's Day Weekend (June 19-20, 2010) in both tidal and non-tidal waters.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0113  <strong>Publication Date:</strong> 2010-06-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22648&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0674",
-  "htmlHash": "38de81b0eb94ea8292aa5cc7839b1c05"
+  "htmlHash": "38de81b0eb94ea8292aa5cc7839b1c05",
+  "attachments": [
+    "attachment.php?attach=22648&lang=en"
+  ]
 }

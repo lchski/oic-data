@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0649</td><td>2020-09-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ESDC,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Employment Insurance Premium Rate for the years 2021 and 2022</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Changes to subsection 66(7) of the EMPLOYMENT INSURANCE ACT in order to set the maximum percentage by which the employment insurance premium rate may be increased or decreased from one year to the next to no more than zero one-hundredths of one percent for the years 2021 and 2022.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39624&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0649",
-  "htmlHash": "976a34d0abfe09db93a13d0ae2a22f99"
+  "htmlHash": "976a34d0abfe09db93a13d0ae2a22f99",
+  "attachments": [
+    "attachment.php?attach=39624&lang=en"
+  ]
 }

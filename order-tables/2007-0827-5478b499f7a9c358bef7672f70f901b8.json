@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0827</td><td>2007-05-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Foreign Affairs and  International Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a MEMORANDUM OF UNDERSTANDING with the Governments of Quebec and New Brunswick regarding the preparation, the organization, the conduct and other administrative and financial terms of the 12TH SUMMIT OF LA FRANCOPHONIE IN QUEBEC which is to take place in the City of Québec in the month of October, 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16505&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0827",
-  "htmlHash": "5478b499f7a9c358bef7672f70f901b8"
+  "htmlHash": "5478b499f7a9c358bef7672f70f901b8",
+  "attachments": [
+    "attachment.php?attach=16505&lang=en"
+  ]
 }

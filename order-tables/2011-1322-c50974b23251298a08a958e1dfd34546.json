@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1322</td><td>2011-11-17</td><td>19</td><td>2010</td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the Criminal Code (suicide bombings)</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing November 30, 2011 as the Day on which An Act amending the Criminal Code (suicide bombings) Comes into Force.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing November 30, 2011, as the day on which An Act amending the CRIMINAL CODE (SUICIDE BOMBINGS), chapter 19 of the Statutes of Canada, 2010, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2011-0099  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25004&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1322",
-  "htmlHash": "c50974b23251298a08a958e1dfd34546"
+  "htmlHash": "c50974b23251298a08a958e1dfd34546",
+  "attachments": [
+    "attachment.php?attach=25004&lang=en"
+  ]
 }

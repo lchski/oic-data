@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1742</td><td>2003-11-04</td><td></td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of GILBERT LITALIEN of Aylmer, Quebec, to be a member of the Review Tribunal for the region of Gatineau for a term of three years, effective January 9, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4674&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1742",
-  "htmlHash": "7dedab1e6a8d2f8cebda3512fc5f7c40"
+  "htmlHash": "7dedab1e6a8d2f8cebda3512fc5f7c40",
+  "attachments": [
+    "attachment.php?attach=4674&lang=en"
+  ]
 }

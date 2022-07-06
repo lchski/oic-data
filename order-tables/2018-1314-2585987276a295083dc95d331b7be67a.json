@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1314</td><td>2018-10-26</td><td>23</td><td>2018</td><td>,&nbsp; ,&nbsp; ,&nbsp; IT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the date of entry into force of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership as the day on which that Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Fixing the date of the entry into force of the COMPREHENSIVE AND PROGRESSIVE AGREEMENT FOR TRANS-PACIFIC PARTNERSHIP as the day on which the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act, chapter 23 of the Statutes of Canada, 2018, COMES INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2018-0101  <strong>Publication Date:</strong> 2018-11-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37000&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1314",
-  "htmlHash": "2585987276a295083dc95d331b7be67a"
+  "htmlHash": "2585987276a295083dc95d331b7be67a",
+  "attachments": [
+    "attachment.php?attach=37000&lang=en"
+  ]
 }

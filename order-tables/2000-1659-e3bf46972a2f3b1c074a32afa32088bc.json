@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1659</td><td>2000-10-23</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to amend the CHAMPAGNE AND AISHIHIK FIRST NATIONS SELF-GOVERNMENT\nAGREEMENT to empower them to enact laws relating to the implementation of\nmeasures made pursuant to any taxation agreement with the Minister of\nFinance and provide them with a GST refund paid by their government when\nperforming its functions, effective November 1, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1659",
-  "htmlHash": "e3bf46972a2f3b1c074a32afa32088bc"
+  "htmlHash": "e3bf46972a2f3b1c074a32afa32088bc",
+  "attachments": []
 }

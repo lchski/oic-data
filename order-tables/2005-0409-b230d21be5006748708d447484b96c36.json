@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0409</td><td>2005-03-22</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the BEARDY'S AND OKEMASIS BAND of some 60 hectares of land and 61 hectares of mines and minerals as additions to Beardy's and Okemasis Indian Reserve No. 96 &amp; 97-A; and 256 hectares of land and 260 hectares of mines and minerals as additions to their Reserve No. 96 &amp; 97-C.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10001&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0409",
-  "htmlHash": "b230d21be5006748708d447484b96c36"
+  "htmlHash": "b230d21be5006748708d447484b96c36",
+  "attachments": [
+    "attachment.php?attach=10001&lang=en"
+  ]
 }

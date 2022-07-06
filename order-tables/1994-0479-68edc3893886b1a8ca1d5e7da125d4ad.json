@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0479</td><td>1994-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Rhoda Rand Witherly, of Prince Rupert, British Columbia, as\nVice-Chairman of the board of directors of the Prince Rupert Port\nCorporation to hold office during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0479",
-  "htmlHash": "68edc3893886b1a8ca1d5e7da125d4ad"
+  "htmlHash": "68edc3893886b1a8ca1d5e7da125d4ad",
+  "attachments": []
 }

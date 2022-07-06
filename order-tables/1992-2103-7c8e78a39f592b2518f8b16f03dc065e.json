@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2103</td><td>1992-09-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing four non-commissioned officers of the Royal Canadian\nMounted Police to the rank of INSPECTOR, effective September 24, 1992, and\n(b) directing that Commissions under the Great Seal of Canada do issue\naccordingly.\n.\n     Sergeant/sergent Raymond Garis Ambler\n     Sergeant/sergent Thomas Walter Bennett\n     Sergeant/sergent Terrance Errett Elliott\n     Sergeant/sergent Daun James Miller\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2103",
-  "htmlHash": "7c8e78a39f592b2518f8b16f03dc065e"
+  "htmlHash": "7c8e78a39f592b2518f8b16f03dc065e",
+  "attachments": []
 }

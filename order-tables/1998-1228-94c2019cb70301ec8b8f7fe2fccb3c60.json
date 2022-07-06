@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1228</td><td>1998-07-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; VAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of EDISON JOHN CLAYTON LONEY, of Edmonton, Alberta, as a\ntemporary member of the Veterans Review and Appeal Board to hold office\nduring good behaviour for a term of two years, effective August 10, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1228",
-  "htmlHash": "94c2019cb70301ec8b8f7fe2fccb3c60"
+  "htmlHash": "94c2019cb70301ec8b8f7fe2fccb3c60",
+  "attachments": []
 }

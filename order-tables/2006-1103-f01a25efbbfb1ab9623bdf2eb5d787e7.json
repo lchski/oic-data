@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1103</td><td>2006-10-19</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (CAPITAL COST ALLOWANCE - FORESTRY BIOENERGY EQUIPMENT) by adding energy-generating equipment using SPENT PULPING LIQUOR (a.k.a. black fuel) as fuel to the list of alternative-fuel equipment that is eligible for the accelerated rate of asset depreciation announced in the 2006 Budget.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0249  <strong>Publication Date:</strong> 2006-11-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15062&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1103",
-  "htmlHash": "f01a25efbbfb1ab9623bdf2eb5d787e7"
+  "htmlHash": "f01a25efbbfb1ab9623bdf2eb5d787e7",
+  "attachments": [
+    "attachment.php?attach=15062&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2208</td><td>2005-11-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; CBSA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the RETURNING PERSONS EXEMPTION REGULATIONS by allowing goods classified under certain tariff item numbers to be reported orally by travellers on a non-commercial conveyance or a bus.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0388  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13521&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2208",
-  "htmlHash": "e478a1e85ec7cb25a03c33616110aa57"
+  "htmlHash": "e478a1e85ec7cb25a03c33616110aa57",
+  "attachments": [
+    "attachment.php?attach=13521&lang=en"
+  ]
 }

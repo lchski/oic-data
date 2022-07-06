@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0157</td><td>2019-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Freezing Assets of Corrupt Foreign Officials Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Freezing Assets of Corrupt Foreign Officials (Ukraine) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FREEZING ASSETS OF CORRUPT FOREIGN OFFICIALS (UKRAINE) REGULATIONS in order to (1) allow additional time for Ukraine to complete its criminal investigation and make actionable mutual legal assistance requests to Canada; (2) ensure that misappropriated assets held by officials of the former government are frozen so that politically exposed foreign persons may be held accountable; and (3) signal Canada's support for accountability, rule of law, and democracy in Ukraine.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0068  <strong>Publication Date:</strong> 2019-03-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37476&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0157",
-  "htmlHash": "490316b6f0ee451e1ac756c960c87df4"
+  "htmlHash": "490316b6f0ee451e1ac756c960c87df4",
+  "attachments": [
+    "attachment.php?attach=37476&lang=en"
+  ]
 }

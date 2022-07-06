@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0480</td><td>2010-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Health of Animals Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Health of Animals Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HEALTH OF ANIMALS REGULATIONS to add the serotypes of bluetongue considered endemic in the United States to the immediately notifiable diseases list so that international reporting obligations for bluetongue to the World Organization for Animal Health (OIE) are maintained while a concurrent amendment will remove them from the reportable diseases list.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0086  <strong>Publication Date:</strong> 2010-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0480",
-  "htmlHash": "6a643c5477145c73aac5962994b51c55"
+  "htmlHash": "6a643c5477145c73aac5962994b51c55",
+  "attachments": [
+    "attachment.php?attach=22455&lang=en"
+  ]
 }

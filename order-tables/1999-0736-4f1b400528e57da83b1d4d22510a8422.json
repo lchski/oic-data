@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0736</td><td>1999-04-22</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the STATUS OF THE ARTIST ACT PROFESSIONAL CATEGORY REGULATIONS\nwhich allow self-employed professionals (such as camera operators, costume\ndesigners, hairstylists, make-up artists, etc.) who contribute to the\ncreation of a production, to take advantage of the legal framework for\ncollective bargaining set out in the Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0191  <strong>Publication Date:</strong> 1999-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0736",
-  "htmlHash": "4f1b400528e57da83b1d4d22510a8422"
+  "htmlHash": "4f1b400528e57da83b1d4d22510a8422",
+  "attachments": []
 }

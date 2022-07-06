@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0963</td><td>1991-05-23</td><td>0</td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of W. Darcy McKeough, of Cedar Springs, Ontario, as a\nmember and co-chairman of the select panel provided for in Article 1004\nof the Free Trade Agreement between Canada and the United States for a\nterm effective April 6, 1991 and ending February 1, 1992; and\nreappointment of certain persons as members of the said select panel for\na term effective April 6, 1991 and ending February 1, 1992.\n(Roy F. Bennett, Etobicoke, Ontario; Kenneth Harrigan, Oakville, Ontario;\nV. Maureen Kempston-Darkes, Toronto, Ontario; André Normand, Ste-Claire,\nQuebec; Robert T. Beamish, Oakville, Ontario; Robert White, Weston,\nOntario; Sally A. Hall, Edmonton, Alberta; and Kenneth R. Graydon, Bolton,\nOntario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0963",
-  "htmlHash": "69c09cfc3a7bb3659161555aa5e4b203"
+  "htmlHash": "69c09cfc3a7bb3659161555aa5e4b203",
+  "attachments": []
 }

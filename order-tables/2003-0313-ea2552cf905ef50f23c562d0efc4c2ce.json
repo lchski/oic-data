@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0313</td><td>2003-03-20</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MARINE MAMMAL REGULATIONS by introducing separate commercial and personal-use seal hunting licences as well as a new one to deal with nuisance seals and one for collector vessels over 65 feet in length, by prescribing a reaction test to determine death prior to bleeding and skinning, and by extending the application of the existing ban on the use of nets to all commercial seal hunting done in Labrador.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0103  <strong>Publication Date:</strong> 2003-04-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1655&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0313",
-  "htmlHash": "ea2552cf905ef50f23c562d0efc4c2ce"
+  "htmlHash": "ea2552cf905ef50f23c562d0efc4c2ce",
+  "attachments": [
+    "attachment.php?attach=1655&lang=en"
+  ]
 }

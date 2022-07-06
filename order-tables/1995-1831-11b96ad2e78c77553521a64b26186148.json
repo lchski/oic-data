@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1831</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to the MIDDLE EAST (Israel, Jordan, Lebanon,\nSyria and the West Bank and Gaza) made by Mr. MAC HARB, Parliamentary\nSecretary to the Minister for International Trade, from October 20 to\nNovember 3, 1995, as head of a Multi-sectoral Trade Mission.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1831",
-  "htmlHash": "11b96ad2e78c77553521a64b26186148"
+  "htmlHash": "11b96ad2e78c77553521a64b26186148",
+  "attachments": []
 }

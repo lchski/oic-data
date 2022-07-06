@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1544</td><td>2009-09-09</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Carry the Kettle Nakoda First Nation Indian Reserve No. 76-9\nINTEREST IN LAND AND EASEMENT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN TELECOMMUNICATIONS of its statutory power to take an interest in certain lands within Carry the Kettle Nakoda First Nation Indian Reserve No. 76-9; and (b) granting SaskTel the easement they require, in lieu thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1544",
-  "htmlHash": "cb26d1c607bf86463592b013502e0614"
+  "htmlHash": "cb26d1c607bf86463592b013502e0614",
+  "attachments": [
+    "attachment.php?attach=21359&lang=en"
+  ]
 }

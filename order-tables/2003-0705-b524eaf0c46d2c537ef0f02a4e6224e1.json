@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0705</td><td>2003-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of Orders in Council P.C. 1989-2326 and P.C. 1989-2327 of November 23, 1989, which authorized the transfer to the Province of Saskatchewan of a portion of OPASKWAYAK CREE NATION RESERVE NO. 27A for public road purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2400&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0705",
-  "htmlHash": "b524eaf0c46d2c537ef0f02a4e6224e1"
+  "htmlHash": "b524eaf0c46d2c537ef0f02a4e6224e1",
+  "attachments": [
+    "attachment.php?attach=2400&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0794</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRSD</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of MARK DAVID BREWER of East York, Ontario, to be a member of the Review Tribunal for the region of North York for a term of three years, effective September 15, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20701&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0794",
-  "htmlHash": "8f4273c6b307eb7dcc31d35f98f8eba9"
+  "htmlHash": "8f4273c6b307eb7dcc31d35f98f8eba9",
+  "attachments": [
+    "attachment.php?attach=20701&lang=en"
+  ]
 }

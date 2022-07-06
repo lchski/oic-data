@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2159</td><td>1998-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing entry into several AGREEMENTS with CHARLOTTETOWN\nAIRPORT AUTHORITY INC. to effect the transfer of responsibility for the\nmanagement, operation and maintenance of Charlottetown Airport, located\nin Queens County, Prince Edward Island, (b) designating the Authority as a\n\"designated airport authority\", and (c) specifying the date upon which the\ntransfer will take effect.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2159",
-  "htmlHash": "7f27a9d4010916e9b12f1abed9227b32"
+  "htmlHash": "7f27a9d4010916e9b12f1abed9227b32",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2049</td><td>2005-11-21</td><td></td><td></td><td>,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS by increasing the INITIAL PAYMENTS for the base grades of WHEAT, AMBER DURUM WHEAT, BARLEY and DESIGNATED BARLEY delivered in the 2005-2006 crop year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0349  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13433&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2049",
-  "htmlHash": "80ac1100ba0fd4c6aea06918f038efe9"
+  "htmlHash": "80ac1100ba0fd4c6aea06918f038efe9",
+  "attachments": [
+    "attachment.php?attach=13433&lang=en"
+  ]
 }

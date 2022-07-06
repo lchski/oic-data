@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0570</td><td>2022-06-02</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JULIE BERGERON of the City of Ottawa, in the Province of Ontario, Barrister-at-law, to be a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42111&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-0570",
-  "htmlHash": "56b0fc079913849b9c0233a71c1d3533"
+  "htmlHash": "56b0fc079913849b9c0233a71c1d3533",
+  "attachments": [
+    "attachment.php?attach=42111&lang=en"
+  ]
 }

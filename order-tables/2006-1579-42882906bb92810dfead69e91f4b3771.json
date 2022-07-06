@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1579</td><td>2006-12-14</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (HUMAN PLASMA COLLECTED BY PLASMAPHERESIS) by updating the existing regulatory provisions to reflect current methods and practices used to collect human plasma as well as the list of transmissible diseases for which tests must be performed.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0353  <strong>Publication Date:</strong> 2006-12-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15515&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-1579",
-  "htmlHash": "42882906bb92810dfead69e91f4b3771"
+  "htmlHash": "42882906bb92810dfead69e91f4b3771",
+  "attachments": [
+    "attachment.php?attach=15515&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0505</td><td>2008-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; INT'L COOP</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to transfer all intellectual property rights in the STANDARDIZED INTEGRATED GOVERNMENT TAX ADMINISTRATION SYSTEM sofware and its associated documentation, in accordance with the contract for reassignment to be signed between Her Majesty and CRC Sogema Inc.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18349&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0505",
-  "htmlHash": "57529fa936641fdd0479e636247d8456"
+  "htmlHash": "57529fa936641fdd0479e636247d8456",
+  "attachments": [
+    "attachment.php?attach=18349&lang=en"
+  ]
 }

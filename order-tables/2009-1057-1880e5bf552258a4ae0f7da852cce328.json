@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1057</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; PWGSC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Real Property and Federal Immovables Act<br>Parks Canada Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing:\n -  the transfer of administration of the federal immovable situated in the Old Port of Montreal, which appears in green on the attached Schedule 1, to the Minister of Environment, acting for the purposes of the Parks Canada Agency;\n\n -  the Minister of Public Works and Government Services Canada, to sign the said deed of sale, transfer of administration and servitude by destination of proprietor agreements.\n\n -  the concession of federal immovables in favor of Her Majesty the Queen in right of Canada through the creation, by destination of proprietor, of real and perpetual servitudes, which servitudes are described in the attached Schedule 2 and appear on the plan as set out in the attached Schedule 3 and Schedule 4.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20928&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1057",
-  "htmlHash": "1880e5bf552258a4ae0f7da852cce328"
+  "htmlHash": "1880e5bf552258a4ae0f7da852cce328",
+  "attachments": [
+    "attachment.php?attach=20928&lang=en"
+  ]
 }

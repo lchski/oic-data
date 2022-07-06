@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0139</td><td>2020-03-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank Act<br>Insurance Companies Act<br>Trust and Loan Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Finance Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF FINANCE REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) correct discrepancies between the French and English versions; (2) add clarity to regulatory provisions; and (3) correct typographical or grammatical errors.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0047  <strong>Publication Date:</strong> 2020-04-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38935&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0139",
-  "htmlHash": "7e8e8713a1ceac283ab4e18e4069edaf"
+  "htmlHash": "7e8e8713a1ceac283ab4e18e4069edaf",
+  "attachments": [
+    "attachment.php?attach=38935&lang=en"
+  ]
 }

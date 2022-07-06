@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0408</td><td>1998-03-19</td><td>0</td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ONTARIO HYDRO NUCLEAR FACILITIES EXCLUSION FROM PART II OF THE CANADA\nLABOUR CODE REGULATIONS (OCCUPATIONAL HEALTH AND SAFETY) which allow the\nGovernment of Ontario, through an agreement with the federal government, to\nadminister and enforce provincial labour laws with respect to Ontario Hydro\nnuclear facilities employees, as of April 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0180  <strong>Publication Date:</strong> 1998-04-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0408",
-  "htmlHash": "019d26de04706b1fef28ee8970fe8099"
+  "htmlHash": "019d26de04706b1fef28ee8970fe8099",
+  "attachments": []
 }

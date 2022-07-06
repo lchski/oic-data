@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1599</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to Mr. REMY RODDEN and Ms. MARLYNN BOURQUE, both of the City of\nWhitehorse, Yukon, of some 4.57 hectares of land situated near the Watson\nRiver, next to Lot 1030 in Quad 105 D/7, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1599",
-  "htmlHash": "c2f24be31a9f8bc693455944561c4852"
+  "htmlHash": "c2f24be31a9f8bc693455944561c4852",
+  "attachments": []
 }

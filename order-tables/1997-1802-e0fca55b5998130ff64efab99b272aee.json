@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1802</td><td>1997-12-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to the COMMISSIONER of the YUKON TERRITORY, of the administration\nand control of the entire interest of the Crown in six hectares of land\nlocated near the Alaska Highway (Lot 1356, Quad 105 D/14, C.L.S.R. Plan\n80292), and in some 14.7 hectares of land located near the Village of\nHaines Junction (Lot 1064, Quad 115 A/13, C.L.S.R. Plan 80291).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1802",
-  "htmlHash": "e0fca55b5998130ff64efab99b272aee"
+  "htmlHash": "e0fca55b5998130ff64efab99b272aee",
+  "attachments": []
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1977</td><td>2009-12-10</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Electronic Stability Control Systems)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (Electronic Stability Control Systems) that are aligned with standards in the United States which are expected to help reduce severe motor vehicle collisions. Harmonization would also be consistent with the spirit of the Canada-United States Security and Prosperity Partnership to reduce regulatory differences and facilitate international trade while maintaining high levels of safety.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0323  <strong>Publication Date:</strong> 2009-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21865&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-1977",
-  "htmlHash": "0c660b1bb59c9aa5d587739516dc7904"
+  "htmlHash": "0c660b1bb59c9aa5d587739516dc7904",
+  "attachments": [
+    "attachment.php?attach=21865&lang=en"
+  ]
 }

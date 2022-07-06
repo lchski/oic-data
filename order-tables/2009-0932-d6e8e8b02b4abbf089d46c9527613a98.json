@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0932</td><td>2009-06-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule IV to the Financial Administration Act and Amending the Order Amending Schedule IV to the Financial Administration Act\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">This Order deletes the Indian Residential Schools Truth and Reconciliation Commission Secretariat  from the schedule and adds the Indian Residential Schools Truth and Reconciliation Commission, effective July 1, 2009.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0172  <strong>Publication Date:</strong> 2009-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20836&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0932",
-  "htmlHash": "d6e8e8b02b4abbf089d46c9527613a98"
+  "htmlHash": "d6e8e8b02b4abbf089d46c9527613a98",
+  "attachments": [
+    "attachment.php?attach=20836&lang=en"
+  ]
 }

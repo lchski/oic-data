@@ -1,5 +1,9 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1046</td><td>2003-07-08</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867<br>Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mr. Justice PATRICK D. DOHM as ADMINISTRATOR of the Government of BRITISH COLUMBIA from July 14 to August 8, 2003, inclusive, The Hon. ALAN B. MACFARLANE from August 9 to August 18, 2003, inclusive, and again Mr. Justice PATRICK D. DOHM from August 19 to August 31, 2003, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3142&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=3143&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1046",
-  "htmlHash": "92439c2621896ca27206525fe3c98762"
+  "htmlHash": "92439c2621896ca27206525fe3c98762",
+  "attachments": [
+    "attachment.php?attach=3142&lang=en",
+    "attachment.php?attach=3143&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0849</td><td>2007-05-31</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (MISCELLANEOUS PROGRAM) by making a number of minor changes to the text in order to address concerns raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0116  <strong>Publication Date:</strong> 2007-06-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16597&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0849",
-  "htmlHash": "07cfe843d254154f3d7d20ddbff4af5f"
+  "htmlHash": "07cfe843d254154f3d7d20ddbff4af5f",
+  "attachments": [
+    "attachment.php?attach=16597&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1440</td><td>2007-09-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into GRANT AGREEMENTS with certain individuals, corporations and organizations, in accordance with the terms and conditions specified in the ECOAUTO REBATE PROGRAM.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17144&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-1440",
-  "htmlHash": "7e2fc4a158c707380487a18ac2b2ed87"
+  "htmlHash": "7e2fc4a158c707380487a18ac2b2ed87",
+  "attachments": [
+    "attachment.php?attach=17144&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1870</td><td>1990-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing the\nHon. Robert René de Cotret or Mrs. M. Ruth Hubbard (Deputy Minister of\nNational Revenue for Customs and Excise) to sign a Protocol to the CANADA-\nFRANCE AGREEMENT ON MUTUAL ASSISTANCE FOR THE PREVENTION, INVESTIGATION AND\nSUPPRESSION OF CUSTOMS OFFENCES, done at Paris on January 9, 1979.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1870",
-  "htmlHash": "0d5e2b60f73d36c76d0cbf21812f885d"
+  "htmlHash": "0d5e2b60f73d36c76d0cbf21812f885d",
+  "attachments": []
 }

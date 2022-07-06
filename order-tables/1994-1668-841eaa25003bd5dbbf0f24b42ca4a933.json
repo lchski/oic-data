@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1668</td><td>1994-10-06</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the exercise by the CITY OF WILLIAMS LAKE of its\npowers to expropriate a right-of-way over TILLION INDIAN RESERVE No. 4 in\nBritish Columbia, for sanitary sewer works.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1668",
-  "htmlHash": "841eaa25003bd5dbbf0f24b42ca4a933"
+  "htmlHash": "841eaa25003bd5dbbf0f24b42ca4a933",
+  "attachments": []
 }

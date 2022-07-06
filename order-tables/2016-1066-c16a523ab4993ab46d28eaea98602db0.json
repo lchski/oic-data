@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1066</td><td>2016-11-25</td><td></td><td></td><td>GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Declarations of the European Space Agency relating to existing programs.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to recommend that the Minister of Innovation, Science and Economic Development and other designated officials be authorized to commit the Government of Canada, including through a vote, at the 2016 Ministerial Council and subsequent related meetings, on the DECLARATIONS OF THE EUROPEAN SPACE AGENCY RELATING TO EXISTING PROGRAMS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32764&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1066",
-  "htmlHash": "c16a523ab4993ab46d28eaea98602db0"
+  "htmlHash": "c16a523ab4993ab46d28eaea98602db0",
+  "attachments": [
+    "attachment.php?attach=32764&lang=en"
+  ]
 }

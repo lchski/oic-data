@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1331</td><td>2012-10-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; HC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Adding Toxic Substances to Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ADDING TOXIC SUBSTANCES TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (CEPA), in order to enable the Ministers to develop risk management instruments under CEPA 1999 to manage human health risks posed by these following four substances : VANADIUM PENTOXIDE, POTASSIUM BROMATE, TGOPE AND METHYL EUGENOL.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0219  <strong>Publication Date:</strong> 2012-10-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26607&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1331",
-  "htmlHash": "9e621b8f46ac6a5cd9a18f5bbd4d033e"
+  "htmlHash": "9e621b8f46ac6a5cd9a18f5bbd4d033e",
+  "attachments": [
+    "attachment.php?attach=26607&lang=en"
+  ]
 }

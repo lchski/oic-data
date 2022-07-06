@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0260</td><td>2016-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Convention Concerning the Minimum Age for Admission to Employment</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to ratify, on behalf of Canada, the MINIMUM AGE FOR ADMISSION TO EMPLOYMENT, adopted at Geneva, on June 26, 1973.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31935&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0260",
-  "htmlHash": "2a22fc717a19629f340556a7ae01a274"
+  "htmlHash": "2a22fc717a19629f340556a7ae01a274",
+  "attachments": [
+    "attachment.php?attach=31935&lang=en"
+  ]
 }

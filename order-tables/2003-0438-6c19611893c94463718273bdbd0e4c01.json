@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0438</td><td>2003-03-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the CORPORATE PLAN of the BLUE WATER BRIDGE AUTHORITY for the planning period beginning of September 1, 2003 and ending on August 31, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1849&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0438",
-  "htmlHash": "6c19611893c94463718273bdbd0e4c01"
+  "htmlHash": "6c19611893c94463718273bdbd0e4c01",
+  "attachments": [
+    "attachment.php?attach=1849&lang=en"
+  ]
 }

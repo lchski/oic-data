@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0239</td><td>2009-02-12</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cooperative Credit Associations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE NOTICE OF BRANCH CLOSURE (COOPERATIVE CREDIT ASSOCIATIONS) REGULATIONS:  amendments were made in Bill C-37  - the Regulations specify that the Commissioner shall require a meeting if the community has not been consulted well enough to ascertain its views regarding the closing or cessation of activity, as well as alternative service delivery and measures to help customers adjust to changes.  The English version is also amended to revise terminology.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0042  <strong>Publication Date:</strong> 2009-03-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20088&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0239",
-  "htmlHash": "174ed42775a5f7d13b5e2e5c5a9aca9e"
+  "htmlHash": "174ed42775a5f7d13b5e2e5c5a9aca9e",
+  "attachments": [
+    "attachment.php?attach=20088&lang=en"
+  ]
 }

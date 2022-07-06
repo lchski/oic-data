@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0812</td><td>2015-06-11</td><td></td><td></td><td>HC,&nbsp; PHAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Minimizing the Risk of Exposure to Ebola Virus Disease in Canada Order (No. 3)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MINIMIZING THE RISK OF EXPOSURE TO EBOLA VIRUS DISEASE IN CANADA ORDER (N0 3) in order to extend until December 31, 2015 the requirements for travellers arriving in Canada from Guinea, Liberia and Sierra Leone to continue to identify themselves and be monitored by public health authorities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31135&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0812",
-  "htmlHash": "2811a104bef500ab0cab2ae16dd9cf2e"
+  "htmlHash": "2811a104bef500ab0cab2ae16dd9cf2e",
+  "attachments": [
+    "attachment.php?attach=31135&lang=en"
+  ]
 }

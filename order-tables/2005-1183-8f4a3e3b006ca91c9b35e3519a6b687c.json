@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1183</td><td>2005-06-14</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PART VII) to the extent of clarifying the rules applicable to helicopters capable of carrying up to 19 passengers that operate in commercial service.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0193  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11673&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-1183",
-  "htmlHash": "8f4a3e3b006ca91c9b35e3519a6b687c"
+  "htmlHash": "8f4a3e3b006ca91c9b35e3519a6b687c",
+  "attachments": [
+    "attachment.php?attach=11673&lang=en"
+  ]
 }

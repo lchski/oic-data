@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0974</td><td>2014-09-25</td><td></td><td></td><td>DFATD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the United Nations Al-Qaida and Taliban Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the UNITED NATIONS AL-QUAIDA AND TALIBAN REGULATIONS in order to (1) update the Regulations to reflect the splitting of the Consolidated List into the Al-Qaida and Taliban sanctions regimes, per United Nations Security Council Resolution 1988 (2011) and 1989 (2011), in order to bring Canada into compliance with its obligations as a member of the United Nations; and (2) remove the prohibitions with respect to the Taliban from the Regulations, thereby eliminating the present problematic situation of double-listing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0212  <strong>Publication Date:</strong> 2014-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0974",
-  "htmlHash": "59260595ff05557edb3f85996d15fc5e"
+  "htmlHash": "59260595ff05557edb3f85996d15fc5e",
+  "attachments": [
+    "attachment.php?attach=29781&lang=en"
+  ]
 }

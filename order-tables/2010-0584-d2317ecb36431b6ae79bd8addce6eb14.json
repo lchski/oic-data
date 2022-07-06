@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0584</td><td>2010-05-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Consumer Agency of  Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">CANADA-Quebec - Development of an Adult financial education resource for national distribution.\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Financial Consumer Agency of Canada to enter into an AGREEMENT between THE FINANCIAL CONSUMER AGENCY OF CANADA, the INVESTOR EDUCATION FUND and L’AUTORITÉ DES MARCHÉS FINANCIERS RESPECTING THE DEVELOPMENT OF AN ADULT FINANCIAL EDUCATION RESOURCE FOR NATIONAL DISTRIBUTION with the Government of Quebec, in order to develop an adult educational financial literary resource that will teach the fundamentals of finances to Canadians in both official languages on a not-for profit basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22559&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0584",
-  "htmlHash": "d2317ecb36431b6ae79bd8addce6eb14"
+  "htmlHash": "d2317ecb36431b6ae79bd8addce6eb14",
+  "attachments": [
+    "attachment.php?attach=22559&lang=en"
+  ]
 }

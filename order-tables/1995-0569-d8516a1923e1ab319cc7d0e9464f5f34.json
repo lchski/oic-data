@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0569</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF NATIONAL HEALTH AND\nWELFARE), 1995-1 correcting the following regulations:\n.\n- Cosmetic Regulations\n- Food and Drug Regulations\n- Medical Devices Regulations\n- Consumer Chemicals and Containers Regulations\n- Patented Medicines Regulations, 1994\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0172  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0569",
-  "htmlHash": "d8516a1923e1ab319cc7d0e9464f5f34"
+  "htmlHash": "d8516a1923e1ab319cc7d0e9464f5f34",
+  "attachments": []
 }

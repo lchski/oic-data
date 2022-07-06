@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0171</td><td>2006-03-30</td><td>38</td><td>1991</td><td>OIC-OLD,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Crown Corporations Dissolution or Transfer Authorization Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MARCH 31, 2006 as the day on which section 42 of this Act [Bill C-8], being chapter 38 of the Statutes of Canada, 1991, comes INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0058  <strong>Publication Date:</strong> 2006-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14072&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0171",
-  "htmlHash": "f92ec30907ca434d76914e0d43da9817"
+  "htmlHash": "f92ec30907ca434d76914e0d43da9817",
+  "attachments": [
+    "attachment.php?attach=14072&lang=en"
+  ]
 }

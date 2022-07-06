@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0427</td><td>2016-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada - Burkina Faso — Agreement for the Promotion and Protection of Investments</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the AGREEMENT between the Government of Canada and the GOVERNMENT OF BURKINA FASO FOR THE PROMOTION AND PROTECTION OF INVESTMENTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32107&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0427",
-  "htmlHash": "f5e9c3d1a5242cf7cb157d67608e02c0"
+  "htmlHash": "f5e9c3d1a5242cf7cb157d67608e02c0",
+  "attachments": [
+    "attachment.php?attach=32107&lang=en"
+  ]
 }

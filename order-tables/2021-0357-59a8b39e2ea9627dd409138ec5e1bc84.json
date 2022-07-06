@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0357</td><td>2021-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ISC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Qalipu Mi'kmaq First Nation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Qalipu Mi’kmaq First Nation Band Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the QALIPU MI'KMAQ FIRST NATION BAND ORDER in order to (1) specify that the members of the Qalipu Mi'kmaq First Nation are the individuals identified in the schedule to the order; and (2) add a schedule that indicates that the founding members of the Qalipu Mi'kmaq First Nation are the individuals on the list of founding members provided by the Enrolment Committee to the Government of Canada and the Federation of Newfoundland Indians on November 26, 2020.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2021-0090  <strong>Publication Date:</strong> 2021-05-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40557&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0357",
-  "htmlHash": "59a8b39e2ea9627dd409138ec5e1bc84"
+  "htmlHash": "59a8b39e2ea9627dd409138ec5e1bc84",
+  "attachments": [
+    "attachment.php?attach=40557&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1192</td><td>2001-06-28</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of CARON BÉLANGER ERNST YOUNG of Toronto, Ontario,\nand the AUDITOR GENERAL OF CANADA as joint auditors of VIA Rail Canada Inc.\nfor the year 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1192",
-  "htmlHash": "ae5b4c310a48cb165ffc132c8b322c6b"
+  "htmlHash": "ae5b4c310a48cb165ffc132c8b322c6b",
+  "attachments": []
 }

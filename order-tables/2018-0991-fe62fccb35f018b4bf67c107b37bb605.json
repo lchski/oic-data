@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0991</td><td>2018-07-16</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Official Residences Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Che Chartrand ** SALARY **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of CHE CHARTRAND, household staff at the Prime Minister's official residence, effective July 3, 2018.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36663&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0991",
-  "htmlHash": "fe62fccb35f018b4bf67c107b37bb605"
+  "htmlHash": "fe62fccb35f018b4bf67c107b37bb605",
+  "attachments": [
+    "attachment.php?attach=36663&lang=en"
+  ]
 }

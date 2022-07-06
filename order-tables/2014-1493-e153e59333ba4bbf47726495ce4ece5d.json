@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1493</td><td>2014-12-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Boundary Waters  Treaty Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of GORDON W. WALKER, Chairman and Commissioner of the International Joint Commission, effective December 4, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30313&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1493",
-  "htmlHash": "e153e59333ba4bbf47726495ce4ece5d"
+  "htmlHash": "e153e59333ba4bbf47726495ce4ece5d",
+  "attachments": [
+    "attachment.php?attach=30313&lang=en"
+  ]
 }

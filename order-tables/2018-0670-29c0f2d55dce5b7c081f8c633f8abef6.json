@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0670</td><td>2018-06-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">10804142 Canada Inc. - Trans Mountain Pipeline ULC ** Acquisition **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing 10804142 CANADA INC. to acquire all the shares of Trans Mountain Pipeline ULC  and its subsidiaries or its successors, that, on acquisition, would be held by, on behalf of or in trust for 10804142 CANADA INC.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36326&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0670",
-  "htmlHash": "29c0f2d55dce5b7c081f8c633f8abef6"
+  "htmlHash": "29c0f2d55dce5b7c081f8c633f8abef6",
+  "attachments": [
+    "attachment.php?attach=36326&lang=en"
+  ]
 }

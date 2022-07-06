@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0947</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Borrowing of Defence Materials and Equipment Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">BORROWING OF DEFENCE MATERIALS AND EQUIPMENT ORDER REVOCATION in order to revoke the $50,000 limit and allow the Minister of National Defence to borrow equipment at higher values without seeking Governor in Council approval in each case.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24625&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-0947",
-  "htmlHash": "6d76203a419cf53bc3be15c4584feb5d"
+  "htmlHash": "6d76203a419cf53bc3be15c4584feb5d",
+  "attachments": [
+    "attachment.php?attach=24625&lang=en"
+  ]
 }

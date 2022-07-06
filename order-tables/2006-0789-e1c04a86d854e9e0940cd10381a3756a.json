@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0789</td><td>2006-08-25</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n- Staff Sergeant P. L. BATEMAN\n- Sergeant P. E. J. BEAUCHESNE\n- Sergeant J. K. BLACKMORE\n- Staff Sergeant D. A. BOGLE\n- Sergeant M. T. CARLSON\n- Sergeant B. J. G. HEFFERNAN\n- Sergeant J. D. R. M. LAMOTHE\n- Staff Sergeant W. C. MALONE\n- Staff Sergeant S. N. McPHAIL\n- Sergeant M. M. M. McSWEEN-SEGUIN\n- Sergeant L. RUSSO-LEMAY\n- Staff Sergeant J. U. R. SAUVÉ\n- Sergeant D. S. SCOTT\n- Staff Sergeant G. B. WELLAR</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14807&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2006-0789",
-  "htmlHash": "e1c04a86d854e9e0940cd10381a3756a"
+  "htmlHash": "e1c04a86d854e9e0940cd10381a3756a",
+  "attachments": [
+    "attachment.php?attach=14807&lang=en"
+  ]
 }

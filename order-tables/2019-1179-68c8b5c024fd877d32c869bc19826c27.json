@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-1179</td><td>2019-08-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Corrections and Conditional Release Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CORRECTIONS AND CONDITIONAL RELEASE REGULATIONS in order to (1) support and operationalize the legislative changes introduced through Bill C-83, which strengthens the federal correctional system's ability to provide a safe and humane environment for inmates; and (2) support the rehabilitation of offenders and their reintegration into the community and to reduce the risk of re-offending, keeping our communities safe.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0299  <strong>Publication Date:</strong> 2019-08-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38518&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-1179",
-  "htmlHash": "68c8b5c024fd877d32c869bc19826c27"
+  "htmlHash": "68c8b5c024fd877d32c869bc19826c27",
+  "attachments": [
+    "attachment.php?attach=38518&lang=en"
+  ]
 }

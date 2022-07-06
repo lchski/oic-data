@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0699</td><td>2004-05-17</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Hon. ELIZABETH A. ROSCOE as ADMINISTRATOR of the Government of NOVA SCOTIA for a 24-hour interval on May 18, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7155&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0699",
-  "htmlHash": "d563c9acebd02e5d90684ad70d2cdb0f"
+  "htmlHash": "d563c9acebd02e5d90684ad70d2cdb0f",
+  "attachments": [
+    "attachment.php?attach=7155&lang=en"
+  ]
 }

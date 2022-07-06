@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0132</td><td>2003-02-06</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to the Hon. FINTAN J. AYLWARD, a Judge of the Trial Division of the Supreme Court of Newfoundland and Labrador, upon his retirement on March 11, 2003, at the age of 75 years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1202&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0132",
-  "htmlHash": "314694a8a2820e701f98e5372a257161"
+  "htmlHash": "314694a8a2820e701f98e5372a257161",
+  "attachments": [
+    "attachment.php?attach=1202&lang=en"
+  ]
 }

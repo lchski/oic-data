@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0088</td><td>2016-02-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LGC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Transportation Accident Investigation and Safety Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN A. CLARKSON of Ottawa, Ontario, as a full-time member of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term of six months, effective February 27, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-0088",
-  "htmlHash": "450558e84282ee39918886214843ae72"
+  "htmlHash": "450558e84282ee39918886214843ae72",
+  "attachments": [
+    "attachment.php?attach=31763&lang=en"
+  ]
 }

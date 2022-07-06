@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0377</td><td>1990-02-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Albert W. Diamond, of Val d'Or, Quebec, as a member of the\nEastern Aboriginal Economic Development Board and designation of the said\nAlbert W. Diamond as Chairperson thereof, for a term ending December 31,\n1991; appointment of Henry Grant Wetelainen, of Sault Ste. Marie,\nOntario, as a member of the Eastern Aboriginal Economic Development Board\nand designation of the said Henry Grant Wetelainen as Vice-Chairperson\nthereof, for a term ending December 31, 1991; and appointment of certain\npersons as members of the Eastern Aboriginal Economic Development Board\nfor terms ending December 31, 1991 and December 31, 1992, respectively.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0377",
-  "htmlHash": "3cb7ae26b68597342a6e044964ff6a6b"
+  "htmlHash": "3cb7ae26b68597342a6e044964ff6a6b",
+  "attachments": []
 }

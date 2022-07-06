@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0381</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by LA CHAMBRE DE COMMERCE DE ST-ANICET,\nduly chartered in Quebec and registered in 1984, to change its name to\n\"Chambre de commerce et de l'Industrie du Haut-St-Laurent\" and to change\nthe boundaries of its district.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0381",
-  "htmlHash": "32ca3e28bd7d6f662b06f8e273b4fb60"
+  "htmlHash": "32ca3e28bd7d6f662b06f8e273b4fb60",
+  "attachments": []
 }

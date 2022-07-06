@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0125</td><td>2007-02-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the SAKIMAY FIRST NATIONS BAND, of some 62.386 hectares of land situated near the Village of Killaly, in the Rural Municipality of Grayson No. 184, Province of Saskatchewan, as Sakimay Indian Reserve No. 74-16.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15786&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0125",
-  "htmlHash": "dca79655c7c4a4c4d9f5b6028bcf00cb"
+  "htmlHash": "dca79655c7c4a4c4d9f5b6028bcf00cb",
+  "attachments": [
+    "attachment.php?attach=15786&lang=en"
+  ]
 }

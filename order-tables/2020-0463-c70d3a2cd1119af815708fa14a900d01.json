@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0463</td><td>2020-06-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSPC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Lands Company Limited ** Leases **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Authorizing (1) the OLD PORT OF MONTREAL CORPORATION INC. to ENTER INTO UP TO 60 LEASES in 2020-21, having individual values of up to 800,000 per year, and a total value of up to $10,000,000 , and to retain and use any associated proceeds, if the leases are consistent with activities and projections presented in the 2010-21 to 2024-24 Corporate plan, and (2) PARC DOWSVIEW PARK INC. to ENTER INTO UP TO 20 LEASES in 2020-21, having individual values of up to 1,400,00 per year, and a total value of up to $12,000,000, and to retain and use any associated proceeds, if the leases are consistent with activities and projections presented in the 2020-21 to 2024-25 Corporate Plan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39412&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0463",
-  "htmlHash": "c70d3a2cd1119af815708fa14a900d01"
+  "htmlHash": "c70d3a2cd1119af815708fa14a900d01",
+  "attachments": [
+    "attachment.php?attach=39412&lang=en"
+  ]
 }

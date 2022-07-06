@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1247</td><td>2015-11-04</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Transfer of Duties Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring (a) from the Department of CITIZENSHIP AND IMMIGRATION to the Department of CANADIAN HERITAGE the control and supervision of those portions of the federal public administration in the Citizenship and Multiculturalism Branch within the Department of Citizenship and Immigration that relate to multiculturalism; and (b) to the MINISTER of Canadian Heritage the powers, duties and functions of the MINISTER of Citizenship and Immigration relating to multiculturalism, effective November 4, 2015.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31609&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-1247",
-  "htmlHash": "7791e508832f9035ff5b5ceb9b66c2c3"
+  "htmlHash": "7791e508832f9035ff5b5ceb9b66c2c3",
+  "attachments": [
+    "attachment.php?attach=31609&lang=en"
+  ]
 }

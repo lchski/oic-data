@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1307</td><td>2014-11-27</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Regulations (Parts l and Vl)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I AND VI) in order to address the concerns raised by the Standing Joint Committee for the Scrutiny of Regulations which would clarify obligations placed on stakeholders and clarify the sections pertaining to directed bright light sources.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0286  <strong>Publication Date:</strong> 2014-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30127&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-1307",
-  "htmlHash": "2d171ec21eee150efb109df73dd98e21"
+  "htmlHash": "2d171ec21eee150efb109df73dd98e21",
+  "attachments": [
+    "attachment.php?attach=30127&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0864</td><td>2008-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Wage Earner Protection Program Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the MINISTER OF LABOUR, a member of the Queen's Privy Council for Canada, to be the minister for the purposes of the Wage Earner Protection Program Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0054  <strong>Publication Date:</strong> 2008-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18707&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-0864",
-  "htmlHash": "705f78788d8aedbb0a4532338fd79bb9"
+  "htmlHash": "705f78788d8aedbb0a4532338fd79bb9",
+  "attachments": [
+    "attachment.php?attach=18707&lang=en"
+  ]
 }

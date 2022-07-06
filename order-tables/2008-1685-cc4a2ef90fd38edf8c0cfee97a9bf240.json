@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1685</td><td>2008-09-05</td><td></td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment by the Minister of Natural Resources of J.C. LUXAT of Dundas, Ontario, as a director of Atomic Energy of Canada Limited to hold office during pleasure for a term of three years, in the place of James McKee, effective October 2, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19547&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2008-1685",
-  "htmlHash": "cc4a2ef90fd38edf8c0cfee97a9bf240"
+  "htmlHash": "cc4a2ef90fd38edf8c0cfee97a9bf240",
+  "attachments": [
+    "attachment.php?attach=19547&lang=en"
+  ]
 }

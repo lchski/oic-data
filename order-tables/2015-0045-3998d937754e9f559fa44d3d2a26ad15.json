@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0045</td><td>2015-01-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Garnishment, Attachment and Pension Diversion Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Garnishment and Attachment Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GARNISHMENT AND ATTACHMENT REGULATIONS in order to (1) ensure the Regulations are accurate; (2) improve the garnishment process and take advantage of technological capacity; and (3) provide enhanced assistance to provinces and territories in their enforcement activities and support federal, provincial and territorial cooperation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0022  <strong>Publication Date:</strong> 2015-02-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30369&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2015-0045",
-  "htmlHash": "3998d937754e9f559fa44d3d2a26ad15"
+  "htmlHash": "3998d937754e9f559fa44d3d2a26ad15",
+  "attachments": [
+    "attachment.php?attach=30369&lang=en"
+  ]
 }

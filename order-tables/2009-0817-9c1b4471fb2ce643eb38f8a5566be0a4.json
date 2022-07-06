@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0817</td><td>2009-05-28</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Occupational Health and Safety Regulations.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">These Regulations will update and clarify existing wording in the COHS Regulations, and bring consistency between English and French versions of various sections.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0147  <strong>Publication Date:</strong> 2009-06-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20646&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2009-0817",
-  "htmlHash": "9c1b4471fb2ce643eb38f8a5566be0a4"
+  "htmlHash": "9c1b4471fb2ce643eb38f8a5566be0a4",
+  "attachments": [
+    "attachment.php?attach=20646&lang=en"
+  ]
 }

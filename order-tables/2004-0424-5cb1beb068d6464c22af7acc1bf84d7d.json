@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0424</td><td>2004-04-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the minting of a 25¢ CIRCULATION COIN to commemorate the 400th Anniversary of the First French Settlement in North America and of a 25¢ CIRCULATION COIN to pay tribute to Canadians who have fought for freedom.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0081  <strong>Publication Date:</strong> 2004-05-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6576&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0424",
-  "htmlHash": "5cb1beb068d6464c22af7acc1bf84d7d"
+  "htmlHash": "5cb1beb068d6464c22af7acc1bf84d7d",
+  "attachments": [
+    "attachment.php?attach=6576&lang=en"
+  ]
 }

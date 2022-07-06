@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2210</td><td>2005-11-28</td><td></td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SHIPS' STORES REGULATIONS by adding petroleum products for use on board a Canadian naval vessel destined for international waters to the list of goods designated as ships' stores that are exempt from the Excise Tax.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0390  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13523&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-2210",
-  "htmlHash": "afb21e603b82a8827eb0c40924d4863f"
+  "htmlHash": "afb21e603b82a8827eb0c40924d4863f",
+  "attachments": [
+    "attachment.php?attach=13523&lang=en"
+  ]
 }

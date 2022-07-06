@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0601</td><td>2019-05-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ECCC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declaring that the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations Do Not Apply in Saskatchewan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER DECLARING THAT THE REDUCTION OF CARBON DIOXIDE EMISSIONS FROM COAL-FIRED GENERATION OF ELECTRICITY REGULATIONS do not apply in Saskatchewan in order to reduce regulatory overlap and reporting burden, while allowing Saskatchewan to achieve equivalent greenhouse gas emissions reductions in a manner that best suits its particular circumstances.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0167  <strong>Publication Date:</strong> 2019-06-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38023&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0601",
-  "htmlHash": "4690c6611c048820355b12d8a6ca83ad"
+  "htmlHash": "4690c6611c048820355b12d8a6ca83ad",
+  "attachments": [
+    "attachment.php?attach=38023&lang=en"
+  ]
 }

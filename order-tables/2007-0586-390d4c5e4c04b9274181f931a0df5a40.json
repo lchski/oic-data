@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0586</td><td>2007-04-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act<br>Order in Council P.C. 2007-355 of March 15, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STEVEN SULLIVAN of Nepean, Ontario, to be special adviser to the Minister of Justice, to be known as the Federal Ombudsman for Victims of Crime to hold office during good behaviour for a term of three years, effective April 24, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16214&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2007-0586",
-  "htmlHash": "390d4c5e4c04b9274181f931a0df5a40"
+  "htmlHash": "390d4c5e4c04b9274181f931a0df5a40",
+  "attachments": [
+    "attachment.php?attach=16214&lang=en"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1669</td><td>1991-09-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the grant of Quit Claim Letters Patent, Letters Patent and\neasements to YUKON PIPELINES LIMITED for lands in the Yukon Territory\ncomprising the right-of-way of the oil pipeline formerly known as Canol\nNo. 2.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1669",
-  "htmlHash": "1c710ccad3d77408743b8f66f442a594"
+  "htmlHash": "1c710ccad3d77408743b8f66f442a594",
+  "attachments": []
 }

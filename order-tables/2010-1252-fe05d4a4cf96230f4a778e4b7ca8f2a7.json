@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1252</td><td>2010-10-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; CWB,&nbsp; AAFC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Wheat and designated barley 2009- 2010 INTERIM PAYMENT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing and directing the CANADIAN WHEAT BOARD to make an INTERIM PAYMENT to producers for wheat and designated barley purchased during the pool period commencing on August 1, 2009, and terminating on July 31, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23239&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-1252",
-  "htmlHash": "fe05d4a4cf96230f4a778e4b7ca8f2a7"
+  "htmlHash": "fe05d4a4cf96230f4a778e4b7ca8f2a7",
+  "attachments": [
+    "attachment.php?attach=23239&lang=en"
+  ]
 }

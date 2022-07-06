@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0410</td><td>2003-03-27</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER by designating the President of the Canadian Environmental Assessment Agency as \"head\" of that institution for the purposes\nof this Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0057  <strong>Publication Date:</strong> 2003-04-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1777&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-0410",
-  "htmlHash": "e2b06634ed75c3e7e0f3e51ab9b2a730"
+  "htmlHash": "e2b06634ed75c3e7e0f3e51ab9b2a730",
+  "attachments": [
+    "attachment.php?attach=1777&lang=en"
+  ]
 }

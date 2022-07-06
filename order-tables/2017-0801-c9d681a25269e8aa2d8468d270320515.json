@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0801</td><td>2017-06-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Hammonds Plains Reserve (Nova-Scotia) ** Creation **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 4.872 hectares (12.04 acres) of land, excluding mines and minerals, for the use and benefit of the Acadia First Nation as an urban reserve creation of HAMMONDS PLAINS RESERVE, located in the Halifax Regional Municipality at approximately 32 kilometres from the City of Halifax, Nova-Scotia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34707&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0801",
-  "htmlHash": "c9d681a25269e8aa2d8468d270320515"
+  "htmlHash": "c9d681a25269e8aa2d8468d270320515",
+  "attachments": [
+    "attachment.php?attach=34707&lang=en"
+  ]
 }

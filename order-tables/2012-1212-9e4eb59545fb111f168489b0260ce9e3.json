@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1212</td><td>2012-10-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; HRSDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of JANE ANNE GALBRAITH of Burlington, Ontario, as a member of the Review Tribunal for the region of Hamilton for a term of two years, effective October 21, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26680&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2012-1212",
-  "htmlHash": "9e4eb59545fb111f168489b0260ce9e3"
+  "htmlHash": "9e4eb59545fb111f168489b0260ce9e3",
+  "attachments": [
+    "attachment.php?attach=26680&lang=en"
+  ]
 }

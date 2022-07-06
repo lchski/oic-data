@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0317</td><td>2000-03-15</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 1999\nwhich prescribe the timing and the manner for determining and making\npayments (Equalization, Fiscal Stabilization and Revenue Guarantee) in the\n1999-2000 to 2003-2004 fiscal period, effective March 15, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0100  <strong>Publication Date:</strong> 2000-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0317",
-  "htmlHash": "2ce30de4eed0cbbd126c7b71ae6e68d4"
+  "htmlHash": "2ce30de4eed0cbbd126c7b71ae6e68d4",
+  "attachments": []
 }

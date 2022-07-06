@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2140</td><td>1994-12-20</td><td>0</td><td></td><td>ISTC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of Ontario which\nprovides for the establishment of the CANADA-ONTARIO BUSINESS SERVICE\nCENTRE in Toronto to support business development and entrepreneurial\nprocesses by providing a single telephone access point for accurate,\nspeedy and user-friendly information or assistance on where to get\nfurther information on government programs and services.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2140",
-  "htmlHash": "272f6b23b75e785ce5b7a04ee700dc1f"
+  "htmlHash": "272f6b23b75e785ce5b7a04ee700dc1f",
+  "attachments": []
 }

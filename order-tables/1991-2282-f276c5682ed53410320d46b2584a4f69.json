@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2282</td><td>1991-11-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUPPLEMENTARY AGREEMENT (Amendment No. 1) with\nthe Governments of the ten participating Provinces which will amend the\nNational Tripartite Stabilization Scheme for Hogs, the implementation of\nwhich was approved by Order in Council P.C. 1989-1513 of July 27, 1989.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2282",
-  "htmlHash": "f276c5682ed53410320d46b2584a4f69"
+  "htmlHash": "f276c5682ed53410320d46b2584a4f69",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0026</td><td>1999-01-21</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MINORITY INVESTMENT (INSURANCE COMPANIES)\nREGULATIONS by allowing federally-regulated insurance companies to acquire\nless than a controlling interest in multi-activity type entities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0063  <strong>Publication Date:</strong> 1999-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0026",
-  "htmlHash": "6f354e374320ff6d1089b11d5959d43e"
+  "htmlHash": "6f354e374320ff6d1089b11d5959d43e",
+  "attachments": []
 }

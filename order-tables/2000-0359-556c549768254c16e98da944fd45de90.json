@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0359</td><td>2000-03-23</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment made to the Gas Export Licence (GL-102) issued to\nALBERTA NORTHEAST GAS LIMITED and TRANSCANADA GAS SERVICES by the National\nEnergy Board, which reflects the permanent reduction in the volume of gaz\nto be exported thereunder, as set forth in N.E.B. Order AO-4-GL-102.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0359",
-  "htmlHash": "556c549768254c16e98da944fd45de90"
+  "htmlHash": "556c549768254c16e98da944fd45de90",
+  "attachments": []
 }

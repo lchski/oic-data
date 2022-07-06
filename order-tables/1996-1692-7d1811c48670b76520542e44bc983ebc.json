@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1692</td><td>1996-11-05</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) setting apart some 1,484.57 hectares of land, mines and minerals\nincluded, situated in Saskatchewan, for the use and benefit of the\nOCHAPOWACE BAND as Ochapowace Indian Reserves Nos. 71-13, 71-14, 71-15,\n71-16 and 71-17; and (b) consenting to the exercise by SASKATCHEWAN POWER\nCORPORATION of its powers to expropriate land.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1692",
-  "htmlHash": "7d1811c48670b76520542e44bc983ebc"
+  "htmlHash": "7d1811c48670b76520542e44bc983ebc",
+  "attachments": []
 }

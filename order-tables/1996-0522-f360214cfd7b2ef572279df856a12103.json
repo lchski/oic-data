@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0522</td><td>1996-04-16</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period during which certain RELOCATION\nEXPENSES may be reimbursed to the Hon. JOSEPH A. GHIZ, a Judge of the\nTrial Division of the Supreme Court of Prince Edward Island, who was\nrequired to relocate from the City of Halifax, Nova Scotia, to the City of\nCharlottetown, Prince Edward Island.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0522",
-  "htmlHash": "f360214cfd7b2ef572279df856a12103"
+  "htmlHash": "f360214cfd7b2ef572279df856a12103",
+  "attachments": []
 }

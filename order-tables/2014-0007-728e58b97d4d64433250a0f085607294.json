@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0007</td><td>2014-01-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIC</td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Revocation of Citizenship (1)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the fourth paragraph of Order in Council P.C. 2013-1339 of December 5, 2013 by deleting \"other than\".</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28785&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0007",
-  "htmlHash": "728e58b97d4d64433250a0f085607294"
+  "htmlHash": "728e58b97d4d64433250a0f085607294",
+  "attachments": [
+    "attachment.php?attach=28785&lang=en"
+  ]
 }

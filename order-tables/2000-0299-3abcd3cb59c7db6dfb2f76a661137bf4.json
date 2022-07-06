@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0299</td><td>2000-03-02</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (REVOCATION OF TIMBER SURRENDER) wherein the\nCAPE MUDGE INDIAN BAND revokes three surrenders (1919, 1938 and 1948)\ninvolving the whole of Cape Mudge Indian Reserve No. 10 and the whole of\nDrew Harbour Indian Reserve No. 9, both in the Province of British\nColumbia, which were surrendered for the sale of merchantable timber.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0299",
-  "htmlHash": "3abcd3cb59c7db6dfb2f76a661137bf4"
+  "htmlHash": "3abcd3cb59c7db6dfb2f76a661137bf4",
+  "attachments": []
 }

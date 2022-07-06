@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1130</td><td>2001-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the PELICAN LAKE BAND, of certain\nland in Saskatchewan, mines and minerals included, as follows:\n(a) 127 hectares as an addition to Pelican Lake Indian Reserve No. 191-A,\nand (b) another 48 hectares as an addition to its Reserve No. 191-B.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1130",
-  "htmlHash": "b6f99fb5f49b10b3109f5a215a6235c5"
+  "htmlHash": "b6f99fb5f49b10b3109f5a215a6235c5",
+  "attachments": []
 }

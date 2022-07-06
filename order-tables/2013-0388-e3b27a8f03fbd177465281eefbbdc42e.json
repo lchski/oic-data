@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0388</td><td>2013-04-18</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">James Rajotte ** MP Travel **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing Mr. JAMES RAJOTTE, Member of Parliament, to travel to CHICAGO, ILLINOIS, UNITED STATES, from April 22 to 23, 2012, to take part in a panel discussion at the Sixth Annual Financial Literacy and Education Summit on behalf of the Minister of Finance.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27617&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-0388",
-  "htmlHash": "e3b27a8f03fbd177465281eefbbdc42e"
+  "htmlHash": "e3b27a8f03fbd177465281eefbbdc42e",
+  "attachments": [
+    "attachment.php?attach=27617&lang=en"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0964</td><td>2010-08-04</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Courts Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Rules Amending the Federal Courts  Rules (Expert Witnesses) \n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the FEDERAL COURTS RULES (Expert Witnesses), in order to streamline the qualification of experts and provide a code of conduct clarifying the duties and responsibilities of the expert witness in relation to the Courts.  The rules clarify the status of treating medical professionals and make the rules governing expert witnesses applicable to applications where appropriate.  The rules also provide greater flexibility to the parties and to the Court, thereby enhancing access to justice and ensuring that the principle of proportionality is taken into account.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0176  <strong>Publication Date:</strong> 2010-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22945&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2010-0964",
-  "htmlHash": "f072ab341fa102dbbc24fe80bf6e21b8"
+  "htmlHash": "f072ab341fa102dbbc24fe80bf6e21b8",
+  "attachments": [
+    "attachment.php?attach=22945&lang=en"
+  ]
 }

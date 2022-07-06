@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0026</td><td>2005-01-13</td><td></td><td></td><td>PMO,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LIEUTENANT-GENERAL RICHARD J. HILLIER of Ottawa, Ontario, to be the Chief of the Defence Staff, at the rank of General, effective February 4, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9182&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2005-0026",
-  "htmlHash": "2ce1654c9e91bd4b69dea6fbe4fdd43b"
+  "htmlHash": "2ce1654c9e91bd4b69dea6fbe4fdd43b",
+  "attachments": [
+    "attachment.php?attach=9182&lang=en"
+  ]
 }

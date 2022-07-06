@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0143</td><td>2004-02-24</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Air Transport Security Authority Act<br>Aeronautics Act<br>Government Property Traffic Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF TRANSPORT REGULATIONS (MISCELLANEOUS PROGRAM) which make non-substantive changes to the following Regulations:\n\n- Canadian Aviation Regulations;\n- Canadian Aviation Security \n   Regulations;\n- Charter Flights Airport Facilities \n   Reservation Regulations;\n- CATSA Aerodrome Designation \n   Regulations; and\n- Airport Traffic Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0029  <strong>Publication Date:</strong> 2004-03-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5905&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0143",
-  "htmlHash": "3c69cca440f31868d8c23787097d7f74"
+  "htmlHash": "3c69cca440f31868d8c23787097d7f74",
+  "attachments": [
+    "attachment.php?attach=5905&lang=en"
+  ]
 }

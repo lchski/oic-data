@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-1209</td><td>2016-12-23</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CAROLINE MAYNARD of Ottawa, Ontario, as interim Chairperson of the Military Grievances External Review Committee, to hold office during good behaviour for a term of one year or until such time as a Chairperson of the Military Grievances External Review Committee is appointed, whichever occurs first, effective January 4, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32878&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2016-1209",
-  "htmlHash": "71978fbde157c0eaf63b270e1f63a5fe"
+  "htmlHash": "71978fbde157c0eaf63b270e1f63a5fe",
+  "attachments": [
+    "attachment.php?attach=32878&lang=en"
+  ]
 }

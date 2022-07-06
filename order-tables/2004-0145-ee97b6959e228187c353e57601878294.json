@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0145</td><td>2004-02-20</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the National Capital Commission to acquire three parcels of vacant land in Mer Bleue bog.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5909&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2004-0145",
-  "htmlHash": "ee97b6959e228187c353e57601878294"
+  "htmlHash": "ee97b6959e228187c353e57601878294",
+  "attachments": [
+    "attachment.php?attach=5909&lang=en"
+  ]
 }

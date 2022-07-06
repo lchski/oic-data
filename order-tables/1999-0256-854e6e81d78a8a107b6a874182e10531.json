@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0256</td><td>1999-02-18</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the CHAMBRE DE COMMERCE DE NICOLET, duly\nincorporated in Quebec and registered in 1968, to change the boundaries\nof its territory to Nicolet, St-Jean-Baptiste de Nicolet, Nicolet-Sud,\nBaie-du-Febvre, Grand Saint-Esprit and Sainte-Monique.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0256",
-  "htmlHash": "854e6e81d78a8a107b6a874182e10531"
+  "htmlHash": "854e6e81d78a8a107b6a874182e10531",
+  "attachments": []
 }

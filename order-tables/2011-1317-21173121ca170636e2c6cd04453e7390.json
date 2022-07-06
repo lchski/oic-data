@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1317</td><td>2011-11-17</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Motor Vehicle Safety Regulations (Motorcycle Brake Systems — Standard 122)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (MOTORCYLE BRAKE SYSTEMS - STANDARD 122) in order to offer the performance requirements of the European safety standard as an alternative, while also maintaining harmony with the United States safety standard, which will facilitate the importation and exportation of motorcycles.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0263  <strong>Publication Date:</strong> 2011-12-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24999&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2011-1317",
-  "htmlHash": "21173121ca170636e2c6cd04453e7390"
+  "htmlHash": "21173121ca170636e2c6cd04453e7390",
+  "attachments": [
+    "attachment.php?attach=24999&lang=en"
+  ]
 }

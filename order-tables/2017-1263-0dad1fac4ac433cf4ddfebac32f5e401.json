@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1263</td><td>2017-10-19</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Bouctouche (New Brunswick) ** Change of Boundaries **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the CHAMBRE DE COMMERCE DE BOUCTOUCHE, in New Brunswick, to CHANGE THE BOUNDARIES OF ITS DISTRICT from the Parish of Bouctouche to the Kent-Sud region including more specifically the following local service districts: Grande-Digue, Cocagne, Dundas, Grand Saint-Antoine, Saint-Antoine, Ste-Mary, Saint-Paul, Wellington, Bouctouche et Sainte-Anne.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35174&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-1263",
-  "htmlHash": "0dad1fac4ac433cf4ddfebac32f5e401"
+  "htmlHash": "0dad1fac4ac433cf4ddfebac32f5e401",
+  "attachments": [
+    "attachment.php?attach=35174&lang=en"
+  ]
 }

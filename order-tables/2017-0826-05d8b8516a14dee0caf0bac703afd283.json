@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0826</td><td>2017-06-20</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Helen O'Brien ** ANNUITY ** The Hon. Joseph W. O'Brien **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to HELEN O'BRIEN, survivor of the Hon. JOSEPH W. O'BRIEN, a Judge of the Superior Court of Justice in and for the province of Ontario, effective October 13, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34732&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2017-0826",
-  "htmlHash": "05d8b8516a14dee0caf0bac703afd283"
+  "htmlHash": "05d8b8516a14dee0caf0bac703afd283",
+  "attachments": [
+    "attachment.php?attach=34732&lang=en"
+  ]
 }

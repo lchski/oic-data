@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1298</td><td>1990-06-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Maureen Anne Yeadon, of Armdale, Halifax County, Nova\nScotia, as a Canadian representative to the General Council of the\nNorthwest Atlantic Fisheries Organization to hold office during pleasure\nfor a term of three years and as a Canadian representative to the\nFisheries Commission of the Northwest Atlantic Fisheries Organization to\nhold office during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1298",
-  "htmlHash": "a5113e38fdc4783735e6fcb9b89a4494"
+  "htmlHash": "a5113e38fdc4783735e6fcb9b89a4494",
+  "attachments": []
 }

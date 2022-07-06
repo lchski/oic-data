@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1552</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the NATIONAL PARKS GARBAGE REGULATIONS providing a list of\ncharges where the collection of garbage is made throughout the year in the\nnational parks of Riding Mountain, in Manitoba and Prince Albert in\nSaskatchewan.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0440  <strong>Publication Date:</strong> 1992-08-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1552",
-  "htmlHash": "48388951475d88e81e69bf919e8786d3"
+  "htmlHash": "48388951475d88e81e69bf919e8786d3",
+  "attachments": []
 }

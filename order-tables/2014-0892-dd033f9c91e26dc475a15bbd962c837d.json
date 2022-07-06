@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0892</td><td>2014-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Specifying the Minimum Amount of Grain to Be Moved</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order specifying the MINIMUM AMOUNT OF GRAIN TO BE MOVED in order to ensure that minimum grain volume requirements, which are currently in place under the Fair Rail for Grain Farmers Act, and were previously under an Order-in-Council enacted in March 2014 pursuant to s. 47(1) of the Canada Transportation Act, continue to apply and requires that each railway move 536,250 metric tonnes of grain per week until the end of November 2014.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2014-0189  <strong>Publication Date:</strong> 2014-08-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29709&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2014-0892",
-  "htmlHash": "dd033f9c91e26dc475a15bbd962c837d"
+  "htmlHash": "dd033f9c91e26dc475a15bbd962c837d",
+  "attachments": [
+    "attachment.php?attach=29709&lang=en"
+  ]
 }

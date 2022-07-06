@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0608</td><td>2018-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Venezuela) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (VENEZUELA) REGULATIONS in order to (1) respond to recent anti-democratic actions of the Maduro regime, namely the calling of the presidential elections in unacceptable conditions; (2) aim at sending a message to members of the Government of Venezuela that their anti-democratic actions have consequences; and (3) demonstrate to Canadians more broadly that the government is prepared to take action when regional norms of democratic good governance are flouted, and show solidarity with the actions of the likeminded countries in the hemisphere.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0114  <strong>Publication Date:</strong> 2018-06-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36274&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-0608",
-  "htmlHash": "94463b3d8306d4b26a660ad079477480"
+  "htmlHash": "94463b3d8306d4b26a660ad079477480",
+  "attachments": [
+    "attachment.php?attach=36274&lang=en"
+  ]
 }

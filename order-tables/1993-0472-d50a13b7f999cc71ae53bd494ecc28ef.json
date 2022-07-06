@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0472</td><td>1993-03-11</td><td>0</td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Francis William Pius Bolger, of New London, Prince Edward\nIsland, as a member of the Historic Sites and Monuments Board of Canada,\nas a representative of the Government of the Province of Prince Edward\nIsland to hold office during pleasure for a period of three years,\neffective February 2, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0472",
-  "htmlHash": "d50a13b7f999cc71ae53bd494ecc28ef"
+  "htmlHash": "d50a13b7f999cc71ae53bd494ecc28ef",
+  "attachments": []
 }

@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0360</td><td>1993-02-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\neither the Minister of National Revenue, the Canadian Ambassador to the\nKingdom of the Netherlands or another embassy official to sign a Protocol\nto the 1986 Convention between Canada and the Netherlands for the\nAvoidance of Double Taxation and the Prevention of Fiscal Evasion with\nrespect to Taxes on Income and on Capital.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0360",
-  "htmlHash": "e6794a11de2424ba94ea085fbab36e06"
+  "htmlHash": "e6794a11de2424ba94ea085fbab36e06",
+  "attachments": []
 }

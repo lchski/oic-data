@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0132</td><td>2019-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Special Economic Measures Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE SPECIAL ECONOMIC MEASURES ACT in order to (1) harmonize terms used in Special Economic Measures (SEMA) regulations with those used in the enabling statute or across the SEMA regulations; (2) repeal obsolete or spent regulatory provisions which have no current application; (3) add clarity to regulatory provisions as suggested by the Standing Joint Committee for the Scrutiny of Regulations; (4) correct typographical or grammatical errors; and (5) update references to related regulations made under another enabling legislation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2019-0061  <strong>Publication Date:</strong> 2019-03-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37451&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0132",
-  "htmlHash": "d698172ebe8541291ae0436c507541c5"
+  "htmlHash": "d698172ebe8541291ae0436c507541c5",
+  "attachments": [
+    "attachment.php?attach=37451&lang=en"
+  ]
 }

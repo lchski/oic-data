@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0338</td><td>2021-04-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISED</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Tourism Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the designation by the Board of Directors of the Canadian Tourism Commission of MONIQUE GOMEL of Vancouver, British Columbia, to be interim Chairperson of the Board of Directors of the Canadian Tourism Commission, to hold office during pleasure for a term of one year, or until such time as a new Chairperson is appointed, whichever occurs first.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40538&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2021-0338",
-  "htmlHash": "28ef4f51e3f79eff2a7c4caaaee95a0b"
+  "htmlHash": "28ef4f51e3f79eff2a7c4caaaee95a0b",
+  "attachments": [
+    "attachment.php?attach=40538&lang=en"
+  ]
 }

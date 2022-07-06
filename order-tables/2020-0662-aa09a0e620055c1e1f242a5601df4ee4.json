@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0662</td><td>2020-09-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Government of the Nunavut Borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) repealing Order in Council P.C. 2015-645 of May 28, 2015; and (b) setting the maximum amount of the aggregate of all borrowings at $750 million for the Government of Nunavut.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2020-0662",
-  "htmlHash": "aa09a0e620055c1e1f242a5601df4ee4"
+  "htmlHash": "aa09a0e620055c1e1f242a5601df4ee4",
+  "attachments": [
+    "attachment.php?attach=39644&lang=en"
+  ]
 }

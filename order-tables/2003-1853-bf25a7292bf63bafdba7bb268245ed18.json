@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1853</td><td>2003-11-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip by BOB SPELLER, M.P. (Haldimand--Norfolk--Brant), to CHINA, from November 17 to 22, 2003, on behalf of the Minister of Agriculture and Agri-Food, for the purpose of encouraging the promotion of agricultural products grown in southwestern Ontario.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5020&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2003-1853",
-  "htmlHash": "bf25a7292bf63bafdba7bb268245ed18"
+  "htmlHash": "bf25a7292bf63bafdba7bb268245ed18",
+  "attachments": [
+    "attachment.php?attach=5020&lang=en"
+  ]
 }

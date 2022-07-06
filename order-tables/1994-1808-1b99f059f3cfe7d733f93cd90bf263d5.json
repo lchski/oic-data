@@ -1,5 +1,6 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1808</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SSC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Supply and Services of\ncertain persons as directors of the Board of Directors of the Royal\nCanadian Mint to hold office during pleasure for a term of three years,\neffective November 1, 1994.\n(Ron D. Fromson, Winnipeg, Manitoba, in the place of Grant S. Holmes, who\nhas resigned; and Timothy Spiegel, Calgary, Alberta, in the place of\nGary Davidge, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1808",
-  "htmlHash": "1b99f059f3cfe7d733f93cd90bf263d5"
+  "htmlHash": "1b99f059f3cfe7d733f93cd90bf263d5",
+  "attachments": []
 }

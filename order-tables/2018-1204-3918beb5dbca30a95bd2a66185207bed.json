@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1204</td><td>2018-09-25</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule I.1 to that Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Schedule I.1 to that Act by striking out the reference to the Minister of Public Works and Government Services in column II of that Schedule opposite the name of the Public Service Commission in column I of that Schedule and by substituting for that reference a reference to the President of the Queen's Privy Council for Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2018-0192  <strong>Publication Date:</strong> 2018-10-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36884&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2018-1204",
-  "htmlHash": "3918beb5dbca30a95bd2a66185207bed"
+  "htmlHash": "3918beb5dbca30a95bd2a66185207bed",
+  "attachments": [
+    "attachment.php?attach=36884&lang=en"
+  ]
 }

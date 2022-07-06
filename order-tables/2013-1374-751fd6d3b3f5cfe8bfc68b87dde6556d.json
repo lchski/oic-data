@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1374</td><td>2013-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order No. 168 - (Saskatchewan) Provincial Emergency Financial Assistance Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER NO. 168 which makes a declaration of federal concern and authorizes the federal government to provide financial assistance to the province of SASKATCHEWAN with respect to the SPRING BREAKUP and RAINSTORMS causing damage to private property, provincial and municipal infrastructure and several First Nation reserves south of Creighton from April 12, 2010, to June 8, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28638&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2013-1374",
-  "htmlHash": "751fd6d3b3f5cfe8bfc68b87dde6556d"
+  "htmlHash": "751fd6d3b3f5cfe8bfc68b87dde6556d",
+  "attachments": [
+    "attachment.php?attach=28638&lang=en"
+  ]
 }

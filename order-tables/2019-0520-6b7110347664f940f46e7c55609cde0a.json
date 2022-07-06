@@ -1,5 +1,8 @@
 {
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0520</td><td>2019-05-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE GILLIAN D. BUTLER, a Judge of the Supreme Court of Newfoundland and Labrador, to be a Judge of Appeal of the Court of Appeal of Newfoundland and Labrador, and a Judge ex officio of the Supreme Court of Newfoundland and Labrador, effective May 21, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37833&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2019-0520",
-  "htmlHash": "6b7110347664f940f46e7c55609cde0a"
+  "htmlHash": "6b7110347664f940f46e7c55609cde0a",
+  "attachments": [
+    "attachment.php?attach=37833&lang=en"
+  ]
 }
