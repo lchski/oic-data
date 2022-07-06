@@ -57,7 +57,7 @@ function saveOrderTables(orderTables) {
 }
 
 (async function scrape() {
-	const browser = await puppeteer.launch({ headless: false });
+	const browser = await puppeteer.launch({ headless: true });
 	
 	const page = await browser.newPage();
 	await page.goto('https://orders-in-council.canada.ca/index.php?lang=en');
