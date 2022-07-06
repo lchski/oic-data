@@ -46,7 +46,7 @@ async function scrapeResultPage(page) {
 }
 
 function filenameFromOrderTable(orderTable) {
-	return `${orderTable.pcNumber}-${orderTable.htmlHash}.json`;
+	return `${orderTable.pcNumber}.json`;
 }
 
 function saveOrderTables(orderTables) {
