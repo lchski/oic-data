@@ -78,7 +78,6 @@ function saveOrderTables(orderTables) {
 		// if all scraped order tables have already been saved, quit
 		if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
 			console.log('scraped orders already saved, quitting');
-			await browser.close();
 			break;
 		}
 
@@ -88,5 +87,8 @@ function saveOrderTables(orderTables) {
 		currentPage++;
 		await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`);
 	}
+
+	await browser.close();
+	return;
 })();
 
