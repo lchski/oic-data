@@ -26,7 +26,7 @@ async function extractOrderTables() {
 		pcNumber: tableNode.querySelector('tr:nth-of-type(2) > td:nth-of-type(2)').innerText,
 		attachments: Array.from(
 			tableNode.querySelectorAll('a'))
-				.map(linkNode => linkNode.href)
+				.map(linkNode => linkNode.href.replace(linkNode.origin, "").replace("/", "")) // get just "attachment.php" and on
 				.filter(linkHref => linkHref.includes('attachment.php')
 		)
 	}));
