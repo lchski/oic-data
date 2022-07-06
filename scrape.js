@@ -30,10 +30,6 @@ async function extractOrderTables() {
 async function scrapeResultPage(page) {
 	await page.waitForSelector('.btn-toolbar');
 
-	let pageCount = await page.evaluate(() => {
-		return parseInt(document.querySelector('.btn-toolbar + .pagebutton').innerText);
-	});
-
 	let orderTables = await page.evaluate(extractOrderTables);
 	
 	orderTables = orderTables.map((orderTable) => ({
@@ -41,9 +37,18 @@ async function scrapeResultPage(page) {
 		htmlHash: MD5(orderTable.html).toString()
 	}));
 
-	console.log(pageCount);
-	console.log(orderTables);
-	console.log("test!");
+	return orderTables;
+}
+
+function filenameFromOrderTable(orderTable) {
+	return `${orderTable.pcNumber}-${orderTable.htmlHash}.json`;
+}
+
+function saveOrderTables(orderTables) {
+	orderTables.forEach((orderTable) => {
+		console.log(`saving ${filenameFromOrderTable(orderTable)}`);
+		fs.writeFileSync(`${savedOrderTablesPath}${filenameFromOrderTable(orderTable)}`, JSON.stringify(orderTable, null, 2));
+	});
 }
 
 (async function scrape() {
@@ -55,8 +60,33 @@ async function scrapeResultPage(page) {
 	await page.waitForSelector('#btnSearch');
 	await page.click('#btnSearch');
 
-	scrapeResultPage(page);
+	// get list of stored tables from disk, convert to comparable form
 
-	// await browser.close();
+	let savedOrderTables = fs.readdirSync(savedOrderTablesPath).filter(filename => filename !== ".gitkeep");
+
+	await page.waitForSelector('.btn-toolbar');
+
+	let currentPage = 1;
+	const totalPages = await page.evaluate(() => {
+		return parseInt(document.querySelector('.btn-toolbar + .pagebutton').innerText);
+	});
+
+	while(currentPage < totalPages) {
+		console.log(`scraping page ${currentPage}`);
+		let orderTables = await scrapeResultPage(page);
+
+		// if all scraped order tables have already been saved, quit
+		if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
+			console.log('scraped orders already saved, quitting');
+			await browser.close();
+			break;
+		}
+
+		console.log('new tables, saving')
+		saveOrderTables(orderTables);
+
+		currentPage++;
+		await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`);
+	}
 })();
 
