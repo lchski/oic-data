@@ -71,7 +71,7 @@ function saveOrderTables(orderTables) {
 		return parseInt(document.querySelector('.btn-toolbar + .pagebutton').innerText);
 	});
 
-	while(currentPage < totalPages) {
+	while(currentPage <= totalPages) {
 		console.log(`scraping page ${currentPage}`);
 		let orderTables = await scrapeResultPage(page);
 
