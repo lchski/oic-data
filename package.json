@@ -11,5 +11,8 @@
   "dependencies": {
     "crypto-js": "^4.1.1",
     "puppeteer": "^15.3.0"
+  },
+  "devDependencies": {
+    "jsdom": "^20.0.0"
   }
 }
