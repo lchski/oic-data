@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0567</td><td>1990-03-22</td><td>0</td><td></td><td>SSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to pay the equivalent of six-months salary to former employees of\nthe Department of Supply and Services who participate in the employee\ntakeover of the Canadian Government Expositions Centre.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1990-0567",
-  "htmlHash": "cf8b84cad24f6fc950e84dfd0bf6f34d",
-  "attachments": []
-}

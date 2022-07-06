@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0728</td><td>1992-04-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order imposing and authorizing the collection of a TOLL for every railway\ncar which crosses the NEW WESTMINSTER RAILWAY BRIDGE in British Columbia\nover the course of the period commencing on April 1, 1992, and ending on\nMarch 31, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1992-0728",
-  "htmlHash": "84a291f3df17fc40d9dfdb59895d516a",
-  "attachments": []
-}

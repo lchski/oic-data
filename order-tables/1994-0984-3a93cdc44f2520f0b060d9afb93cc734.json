@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0984</td><td>1994-06-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the National Capital Commission to grant an Easement\n(ES-865) to the CANADA MORTGAGE AND HOUSING CORPORATION, for a term of 99\nyears, over and across a strip of land situated near the Queensway-Aviation\nParkway intersection in Gloucester, Ontario, for the installation of sewer\nworks connecting its storm-water retention pond to the Cyrville Drain.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1994-0984",
-  "htmlHash": "3a93cdc44f2520f0b060d9afb93cc734",
-  "attachments": []
-}

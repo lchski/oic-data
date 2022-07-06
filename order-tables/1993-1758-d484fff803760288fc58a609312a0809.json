@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1758</td><td>1993-08-26</td><td>0</td><td></td><td>CAN POST,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADA POST CORPORATION to sell all the outstanding\nshares of 2875047 Canada Limited, its wholly-owned subsidiary, to\nSHL Systemhouse Canada Inc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1993-1758",
-  "htmlHash": "d484fff803760288fc58a609312a0809",
-  "attachments": []
-}

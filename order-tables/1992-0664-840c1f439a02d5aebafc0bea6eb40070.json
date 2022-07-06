@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0664</td><td>1992-04-02</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Leasing to CATERAIR CHATEAU CANADA LIMITED, carrying on business as\nMarriott In-Flite Services and Chateau Flight Kitchens, for a term of forty\n(40) years, of some 27,292 square metres of land situated on the grounds of\nVANCOUVER INTERNATIONAL AIRPORT which are to be used as the site for the\nconstruction of a flight kitchen and an airline commissary service.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1992-0664",
-  "htmlHash": "840c1f439a02d5aebafc0bea6eb40070",
-  "attachments": []
-}

@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0456</td><td>1991-03-07</td><td>0</td><td></td><td>,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the PORT OF QUEBEC CORPORATION to enter into a real estate\ntransaction with the CITY OF QUEBEC whereby the two will exchange titles\nand easements in furtherance of the efficient administration of properties\nalong Rue de l'Estuaire, in the St. Pierre Ward.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1991-0456",
-  "htmlHash": "a29984cd7b7eae664aeab59ad87c33a7",
-  "attachments": []
-}

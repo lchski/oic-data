@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2182</td><td>1993-12-22</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADIAN BROADCASTING CORPORATION, as lessee, to renew\nits lease with 94277 Canada Limited with respect to some 8,198.43 square\nmetres of space in the Westminster Building at 7925 Côte-St-Luc Road, in\nthe City of Côte-St-Luc, Quebec, for a further term of five years beginning\non May 1, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1993-2182",
-  "htmlHash": "68c1f6e64785d33dbc01c0e84ccd4158",
-  "attachments": []
-}

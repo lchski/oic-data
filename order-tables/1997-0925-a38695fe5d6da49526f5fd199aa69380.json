@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0925</td><td>1997-07-03</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LEASING by the NATIONAL CAPITAL COMMISSION to LIBERTYCARE HOLDINGS INC., on\nbehalf of a company to be incorporated, for a term of 66 years, of some\n1,897 square metres of vacant land situated between Clarence and Murray\nStreets in Ottawa, for the development of an 80-unit residential building\nwith commercial space on the ground floor.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1997-0925",
-  "htmlHash": "a38695fe5d6da49526f5fd199aa69380",
-  "attachments": []
-}

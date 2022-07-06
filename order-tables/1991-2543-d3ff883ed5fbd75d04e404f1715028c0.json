@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2543</td><td>1991-12-16</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to the CORPORATION OF THE TOWN OF LEAMINGTON of a surplus real\nproperty situate at 72 Talbot Street West, Leamington, Ontario, which\nconsists of some 1,000 square metres of land together with the two-storey\nbrick building erected thereon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1991-2543",
-  "htmlHash": "d3ff883ed5fbd75d04e404f1715028c0",
-  "attachments": []
-}

@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2807</td><td>1990-12-20</td><td>0</td><td></td><td>,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the NATIONAL CAPITAL COMMISSION to acquire a privately-\nowned real property situated in GATINEAU PARK from Mr. MARC-ANDRÉ\nPELLETIER, in exchange for another property, the one to be acquired being\nsituated on Barnes Road near the MacKenzie King Estate, and the one to be\ndisposed of being situated on Bate Road.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1990-2807",
-  "htmlHash": "3389cba7d1b5784e5c89a967ad8ecec0",
-  "attachments": []
-}

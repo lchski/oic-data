@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0293</td><td>1990-02-15</td><td>0</td><td></td><td>TB,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into \"An Agreement to implement Flood Control\nMeasures for the Placentia Area\" with the Province of Newfoundland which\nprovides for the construction of flood control works in the Town of\nPlacentia, Nfld.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1990-0293",
-  "htmlHash": "3e2eca9e00e70e48f307a4d2c50fcede",
-  "attachments": []
-}

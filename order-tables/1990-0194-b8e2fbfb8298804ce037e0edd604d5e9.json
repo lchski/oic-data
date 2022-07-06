@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0194</td><td>1990-02-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Leasing to The Montreal Centre for Technological Initiative (a non-profit\norganization), for a term of sixty-five years, of some 29.5 hectares of\nunserviced vacant land situate at Montreal International Airport, in the\nCity of Dorval, Quebec, which are to be used for the development of a\nresearch and high-technology industrial park.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1990-0194",
-  "htmlHash": "b8e2fbfb8298804ce037e0edd604d5e9",
-  "attachments": []
-}

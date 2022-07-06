@@ -1,6 +1,0 @@
-{
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2433</td><td>1991-12-05</td><td>0</td><td></td><td>,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, from the MINISTER OF PUBLIC WORKS to the SOLICITOR GENERAL OF\nCANADA, of the management, charge and direction over four (4) parcels of\nlands situated in the City of DRUMMONDVILLE, Quebec, which contain a total\narea of some 91.05 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
-  "pcNumber": "1991-2433",
-  "htmlHash": "c8bf46322f0de067c8faa8209fa6e9d4",
-  "attachments": []
-}
