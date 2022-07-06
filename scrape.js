@@ -81,7 +81,7 @@ function saveOrderTables(orderTables) {
 			break;
 		}
 
-		console.log('new tables, saving')
+		console.log('new tables, saving');
 		saveOrderTables(orderTables);
 
 		currentPage++;
