@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0739</td><td>1991-04-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-YUKON MEMORANDUM OF UNDERSTANDING ON\nAQUACULTURE DEVELOPMENT which is designed to advance the orderly growth and\ndevelopment of the aquaculture industry, to facilitate investment therein\nand to identify and clarify the respective roles of the parties thereto.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0739",
+  "htmlHash": "23b3a753f091f04a56fbcb01c3ac32ab"
+}

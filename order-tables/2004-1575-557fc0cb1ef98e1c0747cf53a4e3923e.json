@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1575</td><td>2004-12-16</td><td></td><td></td><td>TBS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a WARRANT be prepared authorizing the expenditure of the sums granted to Her Majesty to defray certain expenses of the public service in the fiscal year ending on March 31, 2005, as set forth in APPROPRIATION ACT NO. 2, 2004-2005 (MAIN ESTIMATES).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1575",
+  "htmlHash": "557fc0cb1ef98e1c0747cf53a4e3923e"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0038</td><td>2009-01-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2008-2009</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KARIN ANNA PITTMAN to be Honorary Consul of Canada at Bergen, the Kingdom of Norway, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19884&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0038",
+  "htmlHash": "d0ba50348bd7e16b220a169f34cd3ac2"
+}

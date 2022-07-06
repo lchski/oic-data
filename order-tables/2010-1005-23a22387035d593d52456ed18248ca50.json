@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1005</td><td>2010-08-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Law - Northwest Territories Bill # 6 - 5th Session of the Sixteenth Legislative Assembly </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of a LAW (Bill No. 6) made by the Legislature of the Northwest Territories during the Fifth Session of the Sixteenth Legislature.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22986&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1005",
+  "htmlHash": "23a22387035d593d52456ed18248ca50"
+}

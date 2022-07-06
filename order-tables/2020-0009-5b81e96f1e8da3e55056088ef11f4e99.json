@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0009</td><td>2020-01-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; IT,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Invest in Canada Hub ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the INVEST IN CANADA HUB to transfer, in support of its mandate, public property in the form of promotional items and of gifts.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38813&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0009",
+  "htmlHash": "5b81e96f1e8da3e55056088ef11f4e99"
+}

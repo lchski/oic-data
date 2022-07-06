@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2079</td><td>2002-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the ASSETS (FOREIGN COMPANIES) REGULATIONS which prescribe a margin of assets in Canada over liabilities in Canada that foreign property and casualty insurance companies are required to maintain, effective January 1, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0450  <strong>Publication Date:</strong> 2002-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=567&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2079",
+  "htmlHash": "de74241d255c7b3846af5ed8e4ac1ffd"
+}

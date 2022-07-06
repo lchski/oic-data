@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0405</td><td>2002-03-21</td><td>0</td><td></td><td>LGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order establishing September 1 as the date before which producers must\nfile notice with the WESTERN GRAINS RESEARCH FOUNDATION that they do not\nwant to participate in the levy for wheat and barley research.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0405",
+  "htmlHash": "af320fd5a9e1b3f683fec97912638e14"
+}

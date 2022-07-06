@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0470</td><td>2005-03-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amend Order in Council P.C. 2005-334 of March 11, 2005 respecting the re-appointment of DAVID THAUBERGER as a member of the Canada Council for the Arts.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10104&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0470",
+  "htmlHash": "9bd08d31f21a2ecc2ea39591faf33c54"
+}

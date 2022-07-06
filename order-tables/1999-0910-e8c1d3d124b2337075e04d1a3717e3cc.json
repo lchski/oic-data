@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0910</td><td>1999-05-25</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAUL JOSEPH MAURICE TRUDEL of Calgary, Alberta, as\ntemporary member of the National Energy Board to hold office during\npleasure for a term of sixty days for the purpose of matters related to\nthe Alliance Pipeline Ltd. Detailed Route Hearing.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-0910",
+  "htmlHash": "e8c1d3d124b2337075e04d1a3717e3cc"
+}

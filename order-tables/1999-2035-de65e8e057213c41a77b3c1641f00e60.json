@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2035</td><td>1999-11-18</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing THE FEDERAL BRIDGE CORPORATION LIMITED, under specified\nconditions, to lease any land, property or water-power held in its name, in\nthe name of The St. Lawrence Seaway Authority (the \"Authority\") or in the\nname of Her Majesty and under the control of the Authority, for any term\nnot exceeding forty-nine (49) years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-2035",
+  "htmlHash": "de65e8e057213c41a77b3c1641f00e60"
+}

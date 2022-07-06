@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0973</td><td>2004-09-01</td><td></td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT to the rank of INSPECTOR of the following NON-COMMISSIONED OFFICERS of the Royal Canadian Mounted Police:\n\n1. Sergeant M.S.A. CUILLIERRIER\n2. Staff Sergeant G. K. HOPKINS\n3. Staff Sergeant P.R. LAWRENCE\n4. Sergeant W.T. B. WHILLANS</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0973",
+  "htmlHash": "8f03927c79e24e2bb8715c1e5dddb738"
+}

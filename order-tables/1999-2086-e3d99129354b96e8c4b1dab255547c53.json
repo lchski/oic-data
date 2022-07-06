@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2086</td><td>1999-11-25</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1999-347 which corrects the defective\nlegal description of the right-of-way on Muskowekwan Indian Reserve\nNo. 85-28 that was thereby granted to SASKATCHEWAN TELECOMMUNICATIONS, by\nway of an Easement Agreement, for a telecommunications transmission system.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-2086",
+  "htmlHash": "e3d99129354b96e8c4b1dab255547c53"
+}

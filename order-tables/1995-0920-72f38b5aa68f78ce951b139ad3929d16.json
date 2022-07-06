@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0920</td><td>1995-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs (a) to sign a TREATY ON\nMUTUAL ASSISTANCE IN CRIMINAL MATTERS between Canada and the KINGDOM OF\nBELGIUM, or (b) to issue an Instrument of Full Powers authorizing either\nthe Hon. Allan Rock or Ambassador Jean-Paul Hubert to sign the said Treaty.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0920",
+  "htmlHash": "72f38b5aa68f78ce951b139ad3929d16"
+}

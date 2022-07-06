@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0613</td><td>2003-05-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2003-483 of April 8, 2003 concerning the reappointment of LILIAN YAN YAN MA as a full-time member of the Immigration and Refugee Board (Toronto Regional Office).</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2098&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0613",
+  "htmlHash": "b00c25c8fc37f3bc520285b5bca7373b"
+}

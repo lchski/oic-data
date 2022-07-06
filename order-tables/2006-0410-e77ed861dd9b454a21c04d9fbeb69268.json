@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0410</td><td>2006-05-18</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the STETTLER &amp; DISTRICT CHAMBER OF COMMERCE in Alberta to change its name to THE STETTLER REGIONAL BOARD OF TRADE &amp; COMMUNITY DEVELOPMENT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14306&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0410",
+  "htmlHash": "e77ed861dd9b454a21c04d9fbeb69268"
+}

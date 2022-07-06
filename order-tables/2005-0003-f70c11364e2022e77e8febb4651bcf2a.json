@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0003</td><td>2005-01-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2004-2005</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DONALD BOBIASH as Ambassador of Canada to the Togolese Republic, with residence in Accra; and MARIO LAGUË as Ambassador of Canada to the Republic of Nicaragua and the Republic of Honduras, with residence in San José.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9121&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0003",
+  "htmlHash": "f70c11364e2022e77e8febb4651bcf2a"
+}

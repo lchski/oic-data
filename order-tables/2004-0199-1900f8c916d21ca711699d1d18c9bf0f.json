@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0199</td><td>2004-03-08</td><td></td><td></td><td>SGC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Solicitor General of Canada to enter into an AGREEMENT with the government of QUEBEC for the transfer and temporary detention of offenders.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5949&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0199",
+  "htmlHash": "1900f8c916d21ca711699d1d18c9bf0f"
+}

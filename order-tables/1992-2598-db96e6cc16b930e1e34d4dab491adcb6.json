@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2598</td><td>1992-12-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant an EASEMENT to\nONTARIO HYDRO (ES-720-1), for a term of ninety-nine (99) years, for the\ninstallation, operation, etc., of a single 500 kV electrical power\ntransmission line across a strip of land running from its Hawthorne (Road)\nTransformer Station to Leitrim Road in Gloucester, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2598",
+  "htmlHash": "db96e6cc16b930e1e34d4dab491adcb6"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0772</td><td>2008-04-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council TO DECLINE TO VARY, RESCIND or REFER BACK a Decision rendered by the Canadian Radio-television and Telecommunications Commission concerning Decision CRTC 2007-27 entitled Price cap framework for large incumbent local exchange carriers thereby letting the Decision stand.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18603&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0772",
+  "htmlHash": "db3fc9fc28cad8de2fd4fceb6658e4ab"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1112</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting the Auditor General of Canada to inquire into and report on the reconciliation referred to in article 21 of the tax administration agreements between the Government of Canada and the Cowichan Tribes aboriginal government and the Shuswap band aboriginal government.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3187&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1112",
+  "htmlHash": "ca2f34c138e5e9ab869b2b290a641f4e"
+}

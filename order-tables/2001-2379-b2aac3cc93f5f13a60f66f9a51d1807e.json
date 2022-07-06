@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2379</td><td>2001-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LOUIS CALLAGHAN, of Cardigan, Prince Edward Island, as a\nmember of the Historic Sites and Monuments Board of Canada, as a\nrepresentative of the Province of Prince Edward Island to hold office\nduring pleasure for a period of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-2379",
+  "htmlHash": "b2aac3cc93f5f13a60f66f9a51d1807e"
+}

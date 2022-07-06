@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0800</td><td>1998-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of a DIRECTION TO THE CRTC (RESERVATION OF FREQUENCIES FOR\nTORONTO) ORDER which directs the Canadian Radio-television and\nTelecommunications Commission to reserve frequency 93.5 MHz (or another\nfrequency on the FM band) and frequency 740 kHz on the AM band for the\nuse of other radio services in Toronto.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0284  <strong>Publication Date:</strong> 1998-05-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0800",
+  "htmlHash": "39861cf7a26c8ce9d6c3e88ab429ce8b"
+}

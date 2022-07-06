@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0326</td><td>2003-03-20</td><td></td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Request to the AUDITOR GENERAL OF CANADA to audit, on an annual basis, the financial statements of the ROYAL CANADIAN MOUNTED POLICE PENSION PLAN, starting with the fiscal year that began on April 1, 2001.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1629&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0326",
+  "htmlHash": "fd59c696956dc6771f16565f632e1f6b"
+}

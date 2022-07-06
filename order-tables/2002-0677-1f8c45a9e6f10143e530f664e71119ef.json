@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0677</td><td>2002-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the Supplementary Convention signed in Canberra on\nJanuary 23, 2002, entitled PROTOCOL AMENDING THE CONVENTION BETWEEN CANADA\nAND AUSTRALIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF\nFISCAL EVASION WITH RESPECT TO TAXES ON INCOME, is approved by Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0677",
+  "htmlHash": "1f8c45a9e6f10143e530f664e71119ef"
+}

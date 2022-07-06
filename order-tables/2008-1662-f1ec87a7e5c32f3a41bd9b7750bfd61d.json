@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1662</td><td>2008-09-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE CANADA OCCUPATIONAL HEALTH AND SAFETY REGULATIONS which will eliminate the provision prescribing a maximum level of lighting for air traffic controller areas.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0276  <strong>Publication Date:</strong> 2008-09-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19466&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1662",
+  "htmlHash": "f1ec87a7e5c32f3a41bd9b7750bfd61d"
+}

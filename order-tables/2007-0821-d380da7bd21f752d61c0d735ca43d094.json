@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0821</td><td>2007-05-17</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing PAULA JEAN HARKER and BROOKE JASON HARKER, employees of the Government of Canada, to acquire a leasehold interest in a surveyed parcel of territorial land situated at Prelude Lake in the Northwest Territories (Lot 1098, Quad 85 I/12).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16517&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0821",
+  "htmlHash": "d380da7bd21f752d61c0d735ca43d094"
+}

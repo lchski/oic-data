@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1025</td><td>2007-06-22</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADIAN PACIFIC RAILWAY COMPANY and THE ESQUIMALT AND NANAIMO RAILWAY COMPANY to transfer the ownership of their railway station in COURTENAY, British Columbia, to the Island Corridor Foundation.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16709&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1025",
+  "htmlHash": "6818b3c2aab22ac7093c700e64b1c1f3"
+}

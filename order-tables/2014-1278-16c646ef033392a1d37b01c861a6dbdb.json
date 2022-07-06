@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1278</td><td>2014-11-20</td><td></td><td></td><td>DFATD,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Global Child Care Services ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant one option of five years, commencing on February 1, 2015, to extend an existing lease with GLOBAL CHILD CARE SERVICES to occupy a property located at 1425 and 1431 ST. JOSEPH BOULEVARD in Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30095&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1278",
+  "htmlHash": "16c646ef033392a1d37b01c861a6dbdb"
+}

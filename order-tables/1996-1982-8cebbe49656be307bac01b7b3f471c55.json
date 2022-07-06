@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1982</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order advising The Sovereign that LETTERS PATENT do issue creating the\nSOMALIA MEDAL which may be awarded to any person enrolled in, attached to\nor working with the Canadian Forces while they were engaged in OPERATION\nDELIVERANCE, in accordance with the Regulations to be annexed to those\nLetters Patent.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1982",
+  "htmlHash": "8cebbe49656be307bac01b7b3f471c55"
+}

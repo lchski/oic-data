@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1103</td><td>2010-09-14</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Sale of Canadian Pacific Railway Station in Brandon, Manitoba</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Canadian Pacific Railway Company to sell its railway station in Brandon, Manitoba, to 5047880 Manitoba Ltd.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23085&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1103",
+  "htmlHash": "c8cab39d6f02835072e83ecefbb27fb2"
+}

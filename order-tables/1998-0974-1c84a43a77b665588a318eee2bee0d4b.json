@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0974</td><td>1998-06-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the SQUAMISH &amp; HOWE SOUND DISTRICT\nCHAMBER OF COMMERCE, duly incorporated in British Columbia and registered\nin 1934, to change its name to \"The Chamber of Commerce Serving Squamish,\nBritannia Beach &amp; Furry Creek\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0974",
+  "htmlHash": "1c84a43a77b665588a318eee2bee0d4b"
+}

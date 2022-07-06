@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1978</td><td>1998-11-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the Prime Minister or the Minister of Foreign Affairs to\nsign an AUDIO-VISUAL CO-PRODUCTION AGREEMENT between Canada and the\nRepublic of SINGAPORE, or (b) for the issuance an Instrument of Full Powers\nauthorizing other officials to sign the Agreement for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-1978",
+  "htmlHash": "3036f14aae187ef2cf2e3c9dc2a124fc"
+}

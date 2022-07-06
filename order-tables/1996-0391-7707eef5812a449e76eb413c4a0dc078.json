@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0391</td><td>1996-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THE HONOURABLE JAMES R. GUSHUE as Chief Justice of the Court\nof Appeal of the Supreme Court of Newfoundland, with the style and title\nof Chief Justice of Newfoundland, and ex officio a member of the Trial\nDivision of the said Court.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0391",
+  "htmlHash": "7707eef5812a449e76eb413c4a0dc078"
+}

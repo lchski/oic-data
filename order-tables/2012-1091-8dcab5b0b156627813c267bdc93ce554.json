@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1091</td><td>2012-09-20</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Personal Information Protection and Electronic Documents Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Personal Health Information Custodians in Newfoundland and Labrador Exemption Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PERSONAL HEALTH INFORMATION CUSTODIANS IN NEWFOUNDLAND AND LABRADOR EXEMPTION ORDER to provide a common standard for privacy protection across both federal and provincial domains.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26527&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1091",
+  "htmlHash": "8dcab5b0b156627813c267bdc93ce554"
+}

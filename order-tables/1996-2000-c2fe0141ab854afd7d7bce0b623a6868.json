@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-2000</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the HALIFAX GRAIN ELEVATOR CAPITAL REPAIRS PROGRAM\nAGREEMENT with the Halifax Port Corporation and the Province of Nova\nScotia, which provides for the making of a donation towards the cost of\nmajor repairs to the infrastructure of the grain elevator built in 1924.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-2000",
+  "htmlHash": "c2fe0141ab854afd7d7bce0b623a6868"
+}

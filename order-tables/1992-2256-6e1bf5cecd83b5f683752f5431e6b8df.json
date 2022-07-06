@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2256</td><td>1992-10-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SSC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue authorizing the issue and\nprescribing the dimensions and design for the minting of a 25-cent coin\nfeaturing a SASKATCHEWAN motif, it being one in a series of coins designed\nto commemorate the 125th Anniversary of Confederation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0643  <strong>Publication Date:</strong> 1992-12-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2256",
+  "htmlHash": "6e1bf5cecd83b5f683752f5431e6b8df"
+}

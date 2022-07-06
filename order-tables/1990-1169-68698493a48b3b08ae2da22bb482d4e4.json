@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1169</td><td>1990-06-14</td><td>0</td><td></td><td>HON. ANDRE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DONALD H. LANDER, of Ottawa, Ontario, as President and\nChief Executive Officer of the Canada Post Corporation, who shall hold that\noffice during pleasure for a term ending May 31, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1169",
+  "htmlHash": "68698493a48b3b08ae2da22bb482d4e4"
+}

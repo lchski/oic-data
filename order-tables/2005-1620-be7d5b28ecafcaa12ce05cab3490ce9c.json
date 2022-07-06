@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1620</td><td>2005-09-09</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 1997</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RONALD WHELAN of St. John's, Newfoundland and Labrador, to be a director of the board of directors of the Canada Foundation for Innovation, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12524&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1620",
+  "htmlHash": "be7d5b28ecafcaa12ce05cab3490ce9c"
+}

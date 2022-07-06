@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0681</td><td>2012-05-31</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN DENNISON of Ottawa, Ontario, to be a citizenship judge on a full-time basis for a term of three years, effective October 23, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26133&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0681",
+  "htmlHash": "e4b17981f79a909c74cf94063e5b184e"
+}

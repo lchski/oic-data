@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0390</td><td>1997-03-19</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the APPLICATION OF PROVINCIAL LAWS REGULATIONS which\nwill enable law enforcement authorities in Manitoba, New Brunswick,\nNewfoundland, Nova Scotia and Prince Edward Island to prosecute and process\nfederal contraventions committed in their territorial jurisdiction using\ntheir own respective offence procedures.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0160  <strong>Publication Date:</strong> 1997-04-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0390",
+  "htmlHash": "74bd39b6c7bafdd66d6d307032366bdc"
+}

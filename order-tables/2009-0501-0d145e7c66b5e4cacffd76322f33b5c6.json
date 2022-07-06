@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0501</td><td>2009-04-02</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">\nRegulations amending the FEES FOR DOCUMENTS REGULATIONS in order to reflect the revised Customs Act and to harmonize the terminology with the Access to Information Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0113  <strong>Publication Date:</strong> 2009-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20361&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0501",
+  "htmlHash": "0d145e7c66b5e4cacffd76322f33b5c6"
+}

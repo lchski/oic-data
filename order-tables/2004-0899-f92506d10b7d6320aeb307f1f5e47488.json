@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0899</td><td>2004-08-09</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">AIR CANADA PENSION PLAN SOLVENCY DEFICIENCY FUNDING REGULATIONS which allow Air Canada to amortize solvency deficiencies over a period of 10 years, provided certain conditions are met.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0174  <strong>Publication Date:</strong> 2004-08-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7574&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0899",
+  "htmlHash": "f92506d10b7d6320aeb307f1f5e47488"
+}

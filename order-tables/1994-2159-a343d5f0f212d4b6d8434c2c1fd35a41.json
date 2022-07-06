@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2159</td><td>1994-12-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the CANADIAN INTERNATIONAL TRADE TRIBUNAL REGULATIONS which\nauthorizes the Chairman to determine that, under specific circumstances,\none member of the Tribunal constitutes a quorum thereof, thereby\nproviding the Tribunal with enough flexibility to manage the expected\nincrease in its workload resulting from the implementation of the World\nTrade Organization Agreement.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0027  <strong>Publication Date:</strong> 1995-01-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-2159",
+  "htmlHash": "a343d5f0f212d4b6d8434c2c1fd35a41"
+}

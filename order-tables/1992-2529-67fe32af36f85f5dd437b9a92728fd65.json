@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2529</td><td>1992-12-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HON. ANDRE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Georges C. Clermont, of Dunrobin, Ontario, as President and\nChief Operating Officer of the Canada Post Corporation to hold office\nduring pleasure for a term of five years, effective January 1, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2529",
+  "htmlHash": "67fe32af36f85f5dd437b9a92728fd65"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0556</td><td>1997-04-15</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Establishment of the office of the Interim Commissioner of Nunavut; and\nappointment of JACK IYERAK ANAWAK, of Rankin Inlet, Northwest\nTerritories, as the Interim Commissioner of Nunavut, to hold office\nduring pleasure until the appointment of the first Commissioner of\nNunavut.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0556",
+  "htmlHash": "e951ca75b6f7f1e6e668ad02787503ca"
+}

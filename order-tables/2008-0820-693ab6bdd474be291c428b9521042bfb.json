@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0820</td><td>2008-05-01</td><td></td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE FOOD AND DRUG REGULATIONS (1585 -- WINE STANDARD) (MISCELLANEOUS PROGRAM) by responding to concerns expressed by the Standing Joint Committee for the Scrutiny of Regulations about the consistency of the terminology used in the Food and Drug Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0142  <strong>Publication Date:</strong> 2008-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18661&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0820",
+  "htmlHash": "693ab6bdd474be291c428b9521042bfb"
+}

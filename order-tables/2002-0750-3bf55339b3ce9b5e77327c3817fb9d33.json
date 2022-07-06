@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0750</td><td>2002-05-02</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion to the rank of INSPECTOR of the following Non-Commissioned\nOfficers of the Royal Canadian Mounted Police:\n.\n  1. Sergeant/sergent BRIAN F. BRENNAN\n  2. Sergeant/sergent H. CONRAD DeLARONDE\n  3. Staff Sergeant/sergent d'état-major ARLEN R. MILLER\n  4. Sergeant/sergent R.A. (RENNIE) NESSET\n  5. Staff Sergeant/sergent d'état-major T.C. (TOM) POWNALL\n  6. Staff Sergeant/sergent d'état-major R.G. (BOB) PURCELL\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0750",
+  "htmlHash": "3bf55339b3ce9b5e77327c3817fb9d33"
+}

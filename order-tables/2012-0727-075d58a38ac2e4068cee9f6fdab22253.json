@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0727</td><td>2012-05-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NRCAN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES BALLEM of Marshfield, Prince Edward Island, to be a temporary member of the National Energy Board to hold office during pleasure for a term of three years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26179&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0727",
+  "htmlHash": "075d58a38ac2e4068cee9f6fdab22253"
+}

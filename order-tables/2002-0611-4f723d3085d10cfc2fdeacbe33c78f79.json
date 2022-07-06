@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0611</td><td>2002-04-16</td><td>0</td><td></td><td>TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JEAN-LOUIS BOURBEAU, of Montreal, Quebec, and\nCARL H. OTTO, of Montreal, Quebec, as directors of the Public Sector\nPension Investment Board to hold office during good behaviour for a term\nending May 31, 2004.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0611",
+  "htmlHash": "4f723d3085d10cfc2fdeacbe33c78f79"
+}

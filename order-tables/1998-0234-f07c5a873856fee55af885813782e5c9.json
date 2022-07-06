@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0234</td><td>1998-02-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of the following OFFICERS of the Royal Canadian Mounted Police:\n.\n   OFFICER                                           NEW RANK\n   ---------------------------------------------     ------------------\n1. Inspector James Earl GOOD                         Superintendent\n2. Chief Superintendent Herbert Alan HUTCHINSON      Assistant Commissioner\n3. Inspector Robert Ernest Neil PARKER               Superintendent\n4. Superintendent Freeman Chesley SHEPPARD           Chief Superintendent\n5. Assistant Commissioner Giuliano ZACCARDELLI       Deputy Commissioner\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0234",
+  "htmlHash": "f07c5a873856fee55af885813782e5c9"
+}

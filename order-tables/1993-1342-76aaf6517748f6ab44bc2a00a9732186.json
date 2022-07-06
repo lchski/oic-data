@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1342</td><td>1993-06-16</td><td>0</td><td></td><td>JUS,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating three Judges of the Federal Court of Canada as Judges of\nthe Court Martial Appeal Court of Canada.\n.\n  1. The Honourable/L'honorable   Francis Joseph McDonald\n  2. The Honourable/L'honorable   William P. McKeown\n  3. The Honourable/L'honorable   Fred E. Gibson\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1342",
+  "htmlHash": "76aaf6517748f6ab44bc2a00a9732186"
+}

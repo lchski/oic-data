@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2040</td><td>1995-12-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for either Ambassador Raymond A.J. Chrétien or Robert G. Wright\nto sign an Exchange of Notes constituting an Agreement providing for\ncontinued coordination of the ICEBREAKING ACTIVITIES OF CANADA and the\nUNITED STATES OF AMERICA on the GREAT LAKES.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-2040",
+  "htmlHash": "df376a24b6789ffd02c5601b987b4a96"
+}

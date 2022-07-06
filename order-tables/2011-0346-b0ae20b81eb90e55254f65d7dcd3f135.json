@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0346</td><td>2011-03-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KPMG LLP of Ottawa, Ontario, as auditor of Canada GEN Investment Corporation, a wholly-owned subsidiary of the Canada Development Investment Corporation, for the fiscal year ending December 31, 2010; and appointment of the AUDITOR GENERAL OF CANADA as joint auditor of Canada GEN Investment Corporation, a wholly-owned subsidiary of the Canada Development Investment Corporation, for the fiscal year ending December 31, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23966&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0346",
+  "htmlHash": "b0ae20b81eb90e55254f65d7dcd3f135"
+}

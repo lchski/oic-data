@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1836</td><td>2005-10-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN TELECOMMUNICATIONS and TRANSGAS LIMITED of their lawful power to acquire an easement over land within COWESSESS INDIAN RESERVE NO. 73 in Saskatchewan, for the purposes of a telecommunications transmission system and a natural gas transmission pipeline, and (b) granting them the easement they require, in lieu thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13313&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1836",
+  "htmlHash": "0529edb274a09dd1a845d4dc3c38cd9d"
+}

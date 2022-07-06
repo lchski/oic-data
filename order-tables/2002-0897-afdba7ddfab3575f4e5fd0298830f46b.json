@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0897</td><td>2002-05-30</td><td>0</td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN LABOUR PROGRAM, DEPARTMENT OF HUMAN RESOURCES\nDEVELOPMENT REGULATIONS (MISCELLANEOUS PROGRAM) by adopting new terminology\nin order to reflect recent changes to the Canada Labour Code.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0208  <strong>Publication Date:</strong> 2002-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0897",
+  "htmlHash": "afdba7ddfab3575f4e5fd0298830f46b"
+}

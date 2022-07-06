@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0836</td><td>1999-05-06</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the Rules Amending the TAX COURT OF CANADA RULES OF\nPROCEDURE RESPECTING THE EXCISE TAX ACT (INFORMAL PROCEDURE) which make\ntechnical amendments to the Rules such as revised instructions for filing\nan appeal and electronic filing.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0211  <strong>Publication Date:</strong> 1999-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-0836",
+  "htmlHash": "13b74da4f94f4cb3f994f6e03234b1fb"
+}

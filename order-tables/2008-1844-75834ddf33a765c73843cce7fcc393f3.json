@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1844</td><td>2008-12-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of amendments to the CORPORATE PLAN of PPP CANADA INC. for the 2008 to 2012 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19720&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1844",
+  "htmlHash": "75834ddf33a765c73843cce7fcc393f3"
+}

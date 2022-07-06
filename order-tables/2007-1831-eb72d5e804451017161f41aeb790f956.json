@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1831</td><td>2007-12-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act<br>Queen's Regulations and Orders for the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE CLAIRE L'HEUREUX-DUBÉ, Q.C., of Québec, Quebec, as the person nominated by the military judges, to be a member of the Military Judges Compensation Committee, to hold office during good behaviour for a term ending August 31, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17579&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1831",
+  "htmlHash": "eb72d5e804451017161f41aeb790f956"
+}

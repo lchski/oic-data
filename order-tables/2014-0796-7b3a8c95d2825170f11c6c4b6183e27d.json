@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0796</td><td>2014-06-13</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HENRY S. BROWN, of the City of Ottawa, in the Province of Ontario, one of Her Majesty's counsel learned in the law, a Judge of the Federal Court, and a member ex officio of the Federal Court of Appeal.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29640&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-0796",
+  "htmlHash": "7b3a8c95d2825170f11c6c4b6183e27d"
+}

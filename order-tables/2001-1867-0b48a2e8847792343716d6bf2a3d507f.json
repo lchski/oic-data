@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1867</td><td>2001-10-18</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or to invest\nothers will full power and authority to sign an AGREEMENT ON MUTUAL\nRECOGNITION IN RELATION TO MEDICINAL/DRUG PRODUCTS GOOD MANUFACTURING\nPRACTICE COMPLIANCE ASSESSMENT PROGRAMMES between Canada and AUSTRALIA.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1867",
+  "htmlHash": "0b48a2e8847792343716d6bf2a3d507f"
+}

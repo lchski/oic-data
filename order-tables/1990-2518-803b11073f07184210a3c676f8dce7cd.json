@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2518</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument approved by the POPLAR RIVER FIRST NATION BAND\nof Indians which designates a portion of Poplar River Indian Reserve No.\n16, in the Province of Manitoba, for leasing to third party interests, for\na term of up to twenty (20) years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-2518",
+  "htmlHash": "803b11073f07184210a3c676f8dce7cd"
+}

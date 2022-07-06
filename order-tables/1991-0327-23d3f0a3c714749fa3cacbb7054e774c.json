@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0327</td><td>1991-02-21</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the sale to the POLLUTION PROBE FOUNDATION of a real\nproperty situate at 12 Madison Avenue, in the City of Toronto, Ontario,\nknown as \"ECOLOGY HOUSE\", and (b) to revoke Order in Council P.C. 1988-947\nof May 19, 1988.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0327",
+  "htmlHash": "23d3f0a3c714749fa3cacbb7054e774c"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0455</td><td>2022-04-29</td><td></td><td></td><td>,&nbsp; PSPC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the National Capital Commission to Grant Easements to the City of Ottawa, Ontario ***NCC***</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the National Capital Commission to GRANT EASEMENTS for a period of 99 years to the CITY OF OTTAWA, in Ottawa, Ontario for the Combined Sewage Storage Tunnel project.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41961&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0455",
+  "htmlHash": "aa510f37b87dc8045fd271707c7c2085"
+}

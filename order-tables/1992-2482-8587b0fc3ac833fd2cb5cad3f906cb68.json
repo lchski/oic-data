@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2482</td><td>1992-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the SPECIAL DUTY AREA PENSION ORDER which adds the Somali\nDemocratic Republic to the schedule of countries designated as \"Special\nService Areas\".\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0714  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2482",
+  "htmlHash": "8587b0fc3ac833fd2cb5cad3f906cb68"
+}

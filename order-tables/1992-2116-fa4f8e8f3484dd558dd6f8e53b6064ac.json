@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2116</td><td>1992-09-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1991-1798 of September 20, 1991, which\nauthorized the sale to SOUTHPORT AEROSPACE CENTRE INC. of the land and\ninfrastructure situated at the military base in Portage la Prairie,\nManitoba, in order to remove a condition that calls for a right of first\nrefusal in favour of Her Majesty if ever the property was sold to a third\nparty and to replace the description of land involved.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2116",
+  "htmlHash": "fa4f8e8f3484dd558dd6f8e53b6064ac"
+}

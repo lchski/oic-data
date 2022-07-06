@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0417</td><td>2008-02-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSEP,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">2008 ARCTIC WINTER GAMES EXEMPTION ORDER which allows the participants, under certain conditions to ensure public safety, to enter Canada with non-restricted firearms and to participate in one or more events at the Arctic Winter Games 2008 for which they are registered.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18223&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0417",
+  "htmlHash": "c31f2453ace7cf7fad37abb6387f3e30"
+}

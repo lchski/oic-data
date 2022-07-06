@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1775</td><td>1999-10-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of amendments made to Gas Export Licences GL-271 and GL-272 issued\nto ProGAS LIMITED by the National Energy Board, which provide for an\nincrease in the quantity of gas to be exported, as set forth in N.E.B.\nOrders AO-1-GL-271 and AO-1-GL-272.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1775",
+  "htmlHash": "1486719407819c7401fdd503c0db09a3"
+}

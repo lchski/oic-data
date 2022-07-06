@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0690</td><td>2003-05-15</td><td></td><td></td><td>TB,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SPECIAL DUTY AREA PENSION ORDER by designating Afghanistan, a delineated area of the Mediterranean Sea and a delineated area of the Indian Ocean and Arabian Sea (\"Operation Apollo\") as a \"Special Duty Area\", as of October 1, 2001.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0177  <strong>Publication Date:</strong> 2003-06-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2432&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0690",
+  "htmlHash": "ebd7878239105707d87efe7d24b0d5e8"
+}

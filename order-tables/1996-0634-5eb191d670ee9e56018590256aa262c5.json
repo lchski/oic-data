@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0634</td><td>1996-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; COM,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment made by the Public Service Commission to the\nEXCLUSION APPROVAL ORDER FOR CERTAIN PERSONS AND CERTAIN POSITIONS (AIR\nTRAFFIC CONTROL GROUP), 1991 which postpones the expiry date of this Order\nfrom April 30, 1996 to December 31, 1996.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0037  <strong>Publication Date:</strong> 1996-05-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0634",
+  "htmlHash": "5eb191d670ee9e56018590256aa262c5"
+}

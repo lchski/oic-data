@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0617</td><td>2011-06-13</td><td></td><td></td><td>,&nbsp; CH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Shares of Canadian Satellite Radio Holdings Inc **CBC**</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADIAN BROACASTING CORPORATION a) to acquire, hold and dispose of any class of shares of Canadian Satellite Radio Holdings Inc. and b) to distribute and market its programming services outside Canada via the Sirius, XM or successor satellite radio services.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24288&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0617",
+  "htmlHash": "727d6e98ce0c78ea403fb0f7374c85b3"
+}

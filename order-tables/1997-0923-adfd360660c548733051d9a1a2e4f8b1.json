@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0923</td><td>1997-07-03</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUPPLEMENTARY AGREEMENT with the Province of\nALBERTA, the Alberta Association of Municipal Districts and Counties and\nthe Alberta Urban Municipalities Association, to amend the CANADA\nAGRI-INFRASTRUCTURE PROGRAM (ALBERTA, 1996-97), in order to increase the\nfederal donation towards the improvement of transportation systems.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0923",
+  "htmlHash": "adfd360660c548733051d9a1a2e4f8b1"
+}

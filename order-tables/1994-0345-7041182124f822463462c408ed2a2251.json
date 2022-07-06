@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0345</td><td>1994-02-24</td><td>0</td><td></td><td></td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1990-2441 of November 16, 1990\nrespecting the appointment of Jean-Pierre Gaboury, of Ottawa, Ontario, as\na full-time member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Ottawa/Atlantic Regional Office); and\ndesignation of the said Jean-Pierre Gaboury as Assistant Deputy\nChairperson of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Ottawa/Atlantic Regional Office) for a\nterm ending January 17, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0345",
+  "htmlHash": "7041182124f822463462c408ed2a2251"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0717</td><td>1996-05-14</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER OF CONSENT - THE GOLDMAN SACHS GROUP, L.P. - which authorizes the\naforementioned, a foreign bank, to establish new Canadian businesses and\nto acquire or hold directly or indirectly shares of or ownership interests\nin 1164039 Ontario Inc., 679647 Alberta Inc., Pearl Street Canada Finance\nCompany, Goldman Sachs Canada Finance Inc., Goldman Sachs Canada Finance,\nGlobal Exempt Certificates Of Ownership In NHA MBS Securities Inc., and\nCMLQ Investors Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0717",
+  "htmlHash": "8bdbe3facadd89b2e93fd0104e1957ba"
+}

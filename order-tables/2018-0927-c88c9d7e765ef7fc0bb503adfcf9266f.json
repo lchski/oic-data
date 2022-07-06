@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0927</td><td>2018-06-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IT</td></tr><tr><td>Act</td><td colspan=\"5\">Invest in Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GEORGE N. ADDY of Ottawa, Ontario, to be a director of the board of directors of the Invest in Canada Hub, to hold office during pleasure for a term of three years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36485&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0927",
+  "htmlHash": "c88c9d7e765ef7fc0bb503adfcf9266f"
+}

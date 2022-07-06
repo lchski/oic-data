@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0606</td><td>2004-05-07</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Oceans Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GULLY MARINE PROTECTED AREA REGULATIONS which designate the \"Gully\", near Sable Island in Nova Scotia, a Marine Protected Area and prohibit the disturbance, destruction or removal of any living marine organism in its ecosystem.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0112  <strong>Publication Date:</strong> 2004-05-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7107&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0606",
+  "htmlHash": "ead1bc764a43e2e1039c1c0acbb9282a"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1669</td><td>1994-10-06</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (a) the granting of a statutory right-of-way to the\nCITY OF WILLIAMS LAKE over certain lands situated on Tillion Indian Reserve\nNo. 4 in British Columbia, for the installation of sanitary sewer works,\nIN LIEU OF the expropriation of those lands, and (b) the execution of an\nAgreement in connection therewith.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1669",
+  "htmlHash": "6dd07bfe81f5f2ecb2d8e1b6f93c21d9"
+}

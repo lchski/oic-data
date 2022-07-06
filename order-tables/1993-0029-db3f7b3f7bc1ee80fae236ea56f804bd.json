@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0029</td><td>1993-01-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a \"DESIGNATION\" duly approved by the TSUU T'INA NATION BAND\nOF INDIANS whereby the band conditionally surrenders some 70.8 hectares\n(175 acres) of land situate on SARCEE INDIAN RESERVE No. 145, in the\nProvince of Alberta, for a term of seventy-five (75) years, so that they\ncan be leased to third party interests for commercial purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0029",
+  "htmlHash": "db3f7b3f7bc1ee80fae236ea56f804bd"
+}

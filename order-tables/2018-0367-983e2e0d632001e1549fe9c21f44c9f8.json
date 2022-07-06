@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0367</td><td>2018-03-26</td><td></td><td></td><td>,&nbsp; PS,&nbsp; RCMP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Officers ** RCMP **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the issue of a commission under the Great Seal of Canada to twenty-one members of the Royal Canadian Mounted Police further to their first appointment to the rank of Officer.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36007&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0367",
+  "htmlHash": "983e2e0d632001e1549fe9c21f44c9f8"
+}

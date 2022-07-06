@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0806</td><td>2014-06-13</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DONALD H. LAYH, of the Town of Langenburg, in the Province of Saskatchewan, to be a Judge of Her Majesty's Court of Queen's Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29650&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-0806",
+  "htmlHash": "936eafa3bda158667d1bb2d8a64325ce"
+}

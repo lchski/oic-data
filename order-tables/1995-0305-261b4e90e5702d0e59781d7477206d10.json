@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0305</td><td>1995-02-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the IMMIGRATION REGULATIONS, 1978 which allow the Minister\nto make loans to cover the costs associated with landing fees where the\nimmigrant requires such assistance and to promote greater financial and\nadministrative consistency within the current loans program.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0121  <strong>Publication Date:</strong> 1995-03-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0305",
+  "htmlHash": "261b4e90e5702d0e59781d7477206d10"
+}

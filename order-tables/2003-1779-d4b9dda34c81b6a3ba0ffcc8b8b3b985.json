@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1779</td><td>2003-11-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal Courts Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Chief Justices of the Federal Court and the Federal Court of Appeal to request the use of deputy judges.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4746&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1779",
+  "htmlHash": "d4b9dda34c81b6a3ba0ffcc8b8b3b985"
+}

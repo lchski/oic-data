@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0443</td><td>2004-04-22</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by BRITISH COLUMBIA HYDRO AND POWER AUTHORITY of its statutory power to acquire a right-of-way on Cheam Indian Reserve No. 1 and Tseatah Indian Reserve No. 2, in British Columbia, and (b) granting it an easement for those purposes.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6613&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0443",
+  "htmlHash": "29448a93c20a80bcc4c6faa70410975d"
+}

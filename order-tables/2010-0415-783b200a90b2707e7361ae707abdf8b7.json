@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0415</td><td>2010-03-25</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">2010-2011 Borrowing Program - Raising of Funds on Financial Markets</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order specifying $300 billion as the aggregate principal amount of money that the Minister may borrow in the period beginning on April 1, 2010 and ending on March 31, 2011 through the issue of bonds, notes and treasury bills.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22391&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-0415",
+  "htmlHash": "783b200a90b2707e7361ae707abdf8b7"
+}

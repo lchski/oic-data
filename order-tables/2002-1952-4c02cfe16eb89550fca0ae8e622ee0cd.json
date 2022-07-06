@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1952</td><td>2002-11-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Courts Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of Rules Amending the FEDERAL COURT RULES, 1998 which provide a mechanism for expanded, modern class proceedings in the Federal Court of Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0417  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=220&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-1952",
+  "htmlHash": "4c02cfe16eb89550fca0ae8e622ee0cd"
+}

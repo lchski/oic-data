@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1699</td><td>2009-10-01</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of JACK LAWRENCE GRANATSTEIN of Toronto, Ontario, as a trustee of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of three years, effective December 18, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21581&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1699",
+  "htmlHash": "d8575395eb0350a2ae6f5a10feaa49c9"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1919</td><td>2003-12-03</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (TSX VENTURE EXCHANGE) by adding Tiers 1 and 2 of the TSX Venture Exchange to the list of prescribed stock exchanges in Canada, and by removing the Alberta, Vancouver and Winnipeg Stock Exchanges therefrom.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0395  <strong>Publication Date:</strong> 2003-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5113&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1919",
+  "htmlHash": "16ad91913837169e3fa3b98d493ce27d"
+}

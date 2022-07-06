@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0315</td><td>2007-03-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Development Research  Centre Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANDRÉS ROZENTAL of Mexico City, Mexico, to be a governor of the Board of Governors of the International Development Research Centre, to hold office during pleasure for a term of four years, effective March 9, 2007, in the place of Octavio Gomez-Dantés.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15963&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0315",
+  "htmlHash": "80edacc65385af8cc350088494e513e2"
+}

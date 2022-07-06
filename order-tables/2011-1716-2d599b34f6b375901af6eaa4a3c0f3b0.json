@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1716</td><td>2011-12-20</td><td></td><td></td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Human Resources and Skills Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARY-LOU DONNELLY of Ottawa, Ontario, to be a Commissioner of the Canada Employment Insurance Commission representing workers, to hold office during good behaviour for a term of five years, effective January 16, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25400&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1716",
+  "htmlHash": "2d599b34f6b375901af6eaa4a3c0f3b0"
+}

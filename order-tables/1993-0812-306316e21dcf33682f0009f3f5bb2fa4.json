@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0812</td><td>1993-04-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of the following persons:\n  Décret fixant la rémunération des personnes suivantes :\n.\n   ST. LAWRENCE SEAWAY AUTHORITY/\n     l'Administration de la Voie maritime du Saint-Laurent\n.\n     -  GLENDON R. STEWART         (President/président)\n     -  GÉRALD LANIEL              (former member/ancien membre)\n     -  WILLIAM F. BLAIR           (former member/ancien membre)\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0812",
+  "htmlHash": "306316e21dcf33682f0009f3f5bb2fa4"
+}

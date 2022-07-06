@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0246</td><td>2008-02-07</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Excise Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS Amending the INTEREST RATES (EXCISE TAX ACT) REGULATIONS which harmonize the interest and penalty provisions of the GST/HST portion of the Act (part IX) with the non-GST/HST portion as well as with the Income Tax Act, the Excise Act, 2001, and the Air Travellers Security Charge Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0036  <strong>Publication Date:</strong> 2008-02-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18048&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0246",
+  "htmlHash": "ec9ad4b24d409a7b78aa377b9e1d3e5f"
+}

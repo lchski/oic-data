@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1350</td><td>1996-08-28</td><td>0</td><td></td><td>INDUSTRY,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment PATENT RULES which are designed to ensure that Canadian patent\nrules conform with the changes to patent laws enacted by the Intellectual\nProperty Law Improvement Act, and to harmonize and combine them with rules\nmade under the Patent Cooperation Treaty.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0423  <strong>Publication Date:</strong> 1996-09-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1350",
+  "htmlHash": "f38cdf93bc2ea90c844db5a950ca9669"
+}

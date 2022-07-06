@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2197</td><td>2002-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Judges to the office of ADMINISTRATOR of the Government of ONTARIO for the following brief periods of time, as follows:\n\nThe Hon. John W. Morden - From December 26 to December 30, 2002\n\nThe Hon. Patick J. LeSage - From December 31, 2002 to January 5, 2003</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=624&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2197",
+  "htmlHash": "7fcb731a55d3caed2a356a914d7530c5"
+}

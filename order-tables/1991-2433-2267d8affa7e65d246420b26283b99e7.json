@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2433</td><td>1991-12-05</td><td>0</td><td></td><td>,&nbsp; ISTC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Industry, Science and Technology to execute\nan instrument that will discharge a debenture in order to release VERSATILE\nPACIFIC SHIPYARDS INC. from its obligations to the Crown purusant to an\nAgreement dated February 20, 1980, between the Minister of Industry, Trade\nand Commerce and Burrard Yarrows Corporation, which dealt with the\nfinancing and construction of the PANAMAX FLOATING DRYDOCK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2433",
+  "htmlHash": "2267d8affa7e65d246420b26283b99e7"
+}

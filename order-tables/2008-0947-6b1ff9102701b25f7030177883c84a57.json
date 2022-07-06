@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0947</td><td>2008-05-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PRESCRIBED GROUP OF CONSUMERS REGULATIONS sets out the group of consumers, with whom reinsurers must declare they have no dealings, in order to be exempted from the application of certain provisions of the Insurance Companies Act which the Financial Consumer Agency of Canada oversees.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0167  <strong>Publication Date:</strong> 2008-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18788&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0947",
+  "htmlHash": "6b1ff9102701b25f7030177883c84a57"
+}

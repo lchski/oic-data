@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0087</td><td>1995-01-11</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of certain\npersons as directors of the board of directors of the Halifax Port\nCorporation to hold office during pleasure for a term of three years.\n(Robert A. Wilson, Bedford, Nova Scotia, in the place of Lois Anne\nGlibbery, whose term has expired; Edward D. Kirby, Lower Sackville,\nNova Scotia, in the place of Ernest A. Coates, whose term has expired;\nand Linda Marie Brennan, Dartmouth, Nova Scotia, in the place of\nHarald A. Norve, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0087",
+  "htmlHash": "2e6f7e6647eb523c20c81d8fc6293a25"
+}

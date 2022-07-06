@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1958</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Purchase from DAVID POLLOCK, of Ottawa, Ontario, and from CAROL FONTEIN, of\nthe State of Maryland, U.S.A., of some 20.639 hectares of land situate on\nHill Island, in the Township of Lansdowne, Leeds County, Ontario, which are\nto be annexed to ST. LAWRENCE ISLANDS NATIONAL PARK.  (Lot 8, Plan 120)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1958",
+  "htmlHash": "50845c745631485ae83b36453a54f794"
+}

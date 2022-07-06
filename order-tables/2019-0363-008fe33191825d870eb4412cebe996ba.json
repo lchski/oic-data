@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0363</td><td>2019-04-15</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of OMAR FAROUK of Brampton, Ontario, to be a trustee of the Board of Trustees of the Canadian Museum of Immigration at Pier 21, to hold office during pleasure for a term of three years, effective July 1, 2019, in the place of Carrie Ross, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0363",
+  "htmlHash": "008fe33191825d870eb4412cebe996ba"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0208</td><td>2014-03-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PS</td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MIKE W. SANFORD of Ottawa, Ontario, to be a full-time member of the Ontario Regional Division of the Parole Board of Canada to hold office during good behaviour for a period of five years, effective April 7, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29006&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-0208",
+  "htmlHash": "12fb9627db0873fcb50047f8dccb7882"
+}

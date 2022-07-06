@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0006</td><td>2018-01-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2017-1653 of December 14, 2017, by replacing “for a term ending on November 29, 2019” with “for a term ending on February 28, 2019”. (Peter Dhillon)</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35667&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0006",
+  "htmlHash": "89ce93c41cdc08cc088ee1c12244f4fc"
+}

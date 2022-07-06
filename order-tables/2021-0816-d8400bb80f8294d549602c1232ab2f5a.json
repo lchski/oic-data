@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0816</td><td>2021-08-06</td><td></td><td></td><td>,&nbsp; ESDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of PIERRE MAURICE VANDERHOUT of Kingston, Ontario, as a full-time member of the Social Security Tribunal for the Income Security Section, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41129&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0816",
+  "htmlHash": "d8400bb80f8294d549602c1232ab2f5a"
+}

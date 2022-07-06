@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1610</td><td>1998-09-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing four Judges as DEPUTY JUDGES of the SUPREME COURT of the\nYUKON TERRITORY, as follows:\n.\n  Hon. RICHARD P. MARCEAU of the Court of Queen's Bench of Alberta\n  Hon. GEORGINA M. QUIJANO of the Supreme Court of British Columbia\n  Hon. BRYAN WILLIAMS of the Supreme Court of British Columbia\n  Hon. RANDALL S.K. WONG of the Supreme Court of British Columbia\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-1610",
+  "htmlHash": "3ac090ef30ca672f2ad25007ddcceb67"
+}

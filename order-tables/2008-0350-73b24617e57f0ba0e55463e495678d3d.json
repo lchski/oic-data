@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0350</td><td>2008-02-18</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Aboriginal Economic Development Board Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of TARA TOOTOO FOTHERINGHAM of Rankin Inlet, Nunavut to be a member of the National Aboriginal Economic Development Board during pleasure for a period of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18175&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0350",
+  "htmlHash": "73b24617e57f0ba0e55463e495678d3d"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1293</td><td>2003-08-20</td><td>0</td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ENVIRONMENTAL EMERGENCY REGULATIONS which mandate persons who own or manage specified toxic and hazardous substances to provide required information on the substance(s), their quantities, and to develop and implement environmental emergency plans.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0307  <strong>Publication Date:</strong> 2003-09-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3666&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1293",
+  "htmlHash": "07f76d6366f89c164460c87538e46317"
+}

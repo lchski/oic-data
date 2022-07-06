@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0246</td><td>2005-02-22</td><td></td><td></td><td>HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act<br>Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to dispose of and convey to FIRST CAPITAL ACQUISITION CORP. some 8.52 hectares of vacant land situated between boulevard McConnell-Laramée (Blvd.) and boulevard du Plateau (Blvd.) in Gatineau, Quebec,</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9617&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0246",
+  "htmlHash": "1532ec8e221cf7775212ee3125283b62"
+}

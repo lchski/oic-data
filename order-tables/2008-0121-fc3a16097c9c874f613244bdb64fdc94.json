@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0121</td><td>2008-01-29</td><td></td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JULIANN LINDENBACH of Balgonie, Saskatchewan, to be a member of the National Farm Products Council to hold office during pleasure for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17973&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0121",
+  "htmlHash": "fc3a16097c9c874f613244bdb64fdc94"
+}

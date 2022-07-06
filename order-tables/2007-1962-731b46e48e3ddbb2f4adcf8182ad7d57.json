@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1962</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CWB</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to transfer the DESIGNATED BARLEY unsold from the preceding pool, that began on August 1, 2006 and ended on July 31, 2007 to the current pool period, that began August 1, 2007 and will end July 31, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17739&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1962",
+  "htmlHash": "731b46e48e3ddbb2f4adcf8182ad7d57"
+}

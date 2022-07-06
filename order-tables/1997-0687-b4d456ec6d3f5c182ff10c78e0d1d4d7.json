@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0687</td><td>1997-04-25</td><td>0</td><td></td><td>,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by making\nprovision for the implementation, in 15 economic regions, of the Temporary\nAdjustment Project for the Exclusion of Low-earning Weeks in the\nCalculation of Weekly Benefit Rates.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0245  <strong>Publication Date:</strong> 1997-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0687",
+  "htmlHash": "b4d456ec6d3f5c182ff10c78e0d1d4d7"
+}

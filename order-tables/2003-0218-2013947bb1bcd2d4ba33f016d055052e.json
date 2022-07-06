@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0218</td><td>2003-02-20</td><td></td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of tax paid by LA CAISSE DES MUTUELLISTES, ÉPARGNE ET CRÉDIT under Part I.3 of the Income Tax Act in respect of the 1996 and 1997 taxation years, together with all relevant interest thereon.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0033  <strong>Publication Date:</strong> 2003-03-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1415&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0218",
+  "htmlHash": "2013947bb1bcd2d4ba33f016d055052e"
+}

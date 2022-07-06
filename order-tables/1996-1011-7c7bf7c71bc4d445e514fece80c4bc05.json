@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1011</td><td>1996-06-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of ALBERTA, the\nAlberta Association of Municipal Districts and Counties, and the Alberta\nUrban Municipalities Association to implement the CANADA\nAGRI-INFRASTRUCTURE PROGRAM (ALBERTA, 1996-97), to facilitate adjustment\nto elimination of the Western Grain Transportation Act subsidy.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1011",
+  "htmlHash": "7c7bf7c71bc4d445e514fece80c4bc05"
+}

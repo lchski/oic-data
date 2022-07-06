@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0190</td><td>2017-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of GERALD R. ISAAC of Whitehorse, Yukon, as Administrator of Yukon to execute the office and functions of the Commissioner during his absence or illness or other inability or when the office of Commissioner is vacant, to hold office during pleasure, for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33096&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-0190",
+  "htmlHash": "b35206b6068d3d7b67b945a0cadb03ac"
+}

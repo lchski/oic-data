@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1165</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS by updating references to a number of safety standards or technical requirements (CSA B620, CSA B621 and CSA B622) so that they refer to the latest editions published by the Canadian Standards Association.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0179  <strong>Publication Date:</strong> 2007-08-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16860&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1165",
+  "htmlHash": "0fa2228c6bb956a21f463a68dc0468cc"
+}

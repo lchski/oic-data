@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1840</td><td>2002-10-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN-GUY FLEURY of Ottawa, Ontario, to be Chairperson of the Immigration and Refugee Board (Head Office), to hold office during good behaviour for a term of five years, effective November 29, 2002. \n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1840",
+  "htmlHash": "e54f34c4b23952b22e98c95d9bc412cb"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1177</td><td>2014-10-30</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of RAYMOND THODORE SALCI of Niagara Falls, Ontario, as a citizenship judge for a term of three years on a full-time basis, effective December 1, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29994&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1177",
+  "htmlHash": "249e793baded037aa5decaf3958a7de2"
+}

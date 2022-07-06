@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1010</td><td>1998-06-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by TRANSGAS LIMITED, SASKATCHEWAN POWER\nCORPORATION and by THE MUNICIPALITY OF BIG QUILL NO. 308 of their\nstatutory power to expropriate land on BEARDY'S AND OKEMASIS INDIAN RESERVE\nNO. 96 &amp; 97-B, for a natural gas transmission pipeline, an electrical\ntransmission system and for sloping and backsloping purposes, and (b) in\nlieu of expropriation, granting easements to the companies and the\nmunicipality for the specified purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-1010",
+  "htmlHash": "c091108ba447e2b7ddf9576407d8dadf"
+}

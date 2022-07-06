@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0555</td><td>2021-06-10</td><td></td><td></td><td>IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CAROL-ANN HART of North Vancouver, British Columbia, as a citizenship judge on a full-time basis for a term of three years, effective June 11, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40844&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0555",
+  "htmlHash": "6b87a43e68679044c3ab8b2b61f742d9"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0822</td><td>2020-10-21</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Inquiries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Joint Public Inquiry into the Nova Scotia April 2020 Tragedy</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue, for the period ending on December 15, 2022, under the Great Seal of Canada appointing three Commissioners to conduct an inquiry under the name of the JOINT PUBLIC INQUIRY INTO THE NOVA SCOTIA APRIL 2020 TRAGEDY.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39809&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0822",
+  "htmlHash": "01a64c1ec05eb6c6286d6330c8f532c1"
+}

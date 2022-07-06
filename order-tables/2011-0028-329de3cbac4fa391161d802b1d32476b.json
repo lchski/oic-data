@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0028</td><td>2011-01-24</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2008-57 of January 29, 2008 by replacing the words pursuant to paragraph 14(1)(d) and subsection 14(2) of the Canada Marine Act with the words pursuant to paragraph 14(1)(a) and subsection 14(2) of the Canada Marine Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23680&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0028",
+  "htmlHash": "329de3cbac4fa391161d802b1d32476b"
+}

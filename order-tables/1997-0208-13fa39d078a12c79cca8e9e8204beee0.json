@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0208</td><td>1997-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SIDNEY GERSHBERG, President of the Canadian Environmental\nAssessment Agency, as administrator in the case of matters involving\nfederal jurisdiction for the purpose of sections 22 and 23 of the James\nBay and Northern Quebec Agreement, to hold office during pleasure, in the\nplace of Michel Dorais.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0208",
+  "htmlHash": "13fa39d078a12c79cca8e9e8204beee0"
+}

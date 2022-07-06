@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1380</td><td>2010-11-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Amending Order AO-1-EC-III-9 (Variance of National Energy Board Certificate EC-III-9) \n \n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the Certificate of Public Convenience and Necessity No. EC-III-9, issued to The MANITOBA HYDRO ELECTRIC BOARD (MANITOBA HYDRO), to reflect the inclusion of and continuing operation of the Letellier Station as part of the international power line (IPL) system.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23367&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1380",
+  "htmlHash": "d27c0d0a53e70529d7c4d0065762e896"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1598</td><td>1997-11-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to UPHOLD a ruling (CRTC 97-370) made\nby the Canadian Radio-television and Telecommunications Commission\nrespecting an application by Teleglobe Inc. and others (on behalf of\nLOOK TV Inc.) for a licence to carry on a radiocommunication distribution\nundertaking serving various communities in Southern Ontario.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0130  <strong>Publication Date:</strong> 1997-11-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1598",
+  "htmlHash": "6b32d3c67a02035120febf138b67c95d"
+}

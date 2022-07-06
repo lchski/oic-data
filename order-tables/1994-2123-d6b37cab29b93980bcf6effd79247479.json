@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2123</td><td>1994-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons to be members of the Social Sciences and\nHumanities Research Council to hold office for a term of three years:\nJANE S. GASKELL, Vancouver, B.C.; RICHARD GREGORY GUSCOTT, Hamilton,\nOntario; KATHY MEZEI, Burnaby, B.C.; BRUCE W. MUIRHEAD, Thunder Bay,\nOntario; MAIR VERTHUY, Montreal, Quebec; JAMES LESLIE TORCZYNER,\nMontreal, Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-2123",
+  "htmlHash": "d6b37cab29b93980bcf6effd79247479"
+}

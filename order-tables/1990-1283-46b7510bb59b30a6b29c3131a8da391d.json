@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1283</td><td>1990-06-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Joffrette Boivin, of Alma, Quebec, as Returning Officer\nfor the electoral district of Lac-Saint-Jean.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1283",
+  "htmlHash": "46b7510bb59b30a6b29c3131a8da391d"
+}

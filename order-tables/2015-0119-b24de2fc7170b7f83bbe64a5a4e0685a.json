@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0119</td><td>2015-02-05</td><td></td><td></td><td>,&nbsp; CIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LOUIS COUSINEAU of Laval, Quebec, as a full-time member of the Immigration and Refugee Board of Canada (Montréal Regional Office), to hold office during good behaviour for a term of four years, effective May 3, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30442&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-0119",
+  "htmlHash": "b24de2fc7170b7f83bbe64a5a4e0685a"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0515</td><td>1996-04-16</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION whereby the KAMLOOPS INDIAN BAND surrenders,\nfor an unspecified term, any of its rights and interest in some 1,000 acres\nof land on Kamloops Indian Reserve No. 1 in BRITISH COLUMBIA, and amends\ntwo earlier designations by extending their duration to 99 years (the\nIndustrial Park and Halston Road Designations), for the purpose of leasing\nthem to various tourism, recreation, retail and industrial businesses.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0515",
+  "htmlHash": "4bfa57f7b169b153211bd4fd3142b78b"
+}

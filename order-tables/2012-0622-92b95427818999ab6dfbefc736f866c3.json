@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0622</td><td>2012-05-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Kathleen Virostek Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits a portion of the income tax, and all relevant interest thereon, in respect of the 2006 taxation year, paid or payable by KATHLEEN VIROSTEK.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0035  <strong>Publication Date:</strong> 2012-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26004&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0622",
+  "htmlHash": "92b95427818999ab6dfbefc736f866c3"
+}

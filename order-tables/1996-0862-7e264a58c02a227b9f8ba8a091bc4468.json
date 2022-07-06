@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0862</td><td>1996-06-13</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Fisheries and Oceans of\nIRVINE CONSTANT, of The Pas, Manitoba, in the place of William Dysart and\nGORDON WILLIAM McDOUGALL, of Ashern, Manitoba, as directors of the\nBoard of Directors of the Freshwater Fish Marketing Corporation to hold\noffice during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0862",
+  "htmlHash": "7e264a58c02a227b9f8ba8a091bc4468"
+}

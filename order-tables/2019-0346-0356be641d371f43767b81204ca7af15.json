@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0346</td><td>2019-04-15</td><td></td><td></td><td>ISED,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Competition Tribunal Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STEPHEN M. LAW of Sackville, New-Brunswick, as a member of the Competition Tribunal, to hold office during good behaviour for a term of seven years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37667&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0346",
+  "htmlHash": "0356be641d371f43767b81204ca7af15"
+}

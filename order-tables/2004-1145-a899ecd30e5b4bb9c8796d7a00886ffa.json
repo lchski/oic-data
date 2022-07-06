@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1145</td><td>2004-10-07</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of GEORGE A. GRIFFITH of Pickering, Ontario, to be a part-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of one year, effective September 30, 2004.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8129&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1145",
+  "htmlHash": "a899ecd30e5b4bb9c8796d7a00886ffa"
+}

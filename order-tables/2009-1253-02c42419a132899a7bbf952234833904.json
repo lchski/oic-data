@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1253</td><td>2009-07-30</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Oakville Chamber of Commerce, CHANGE BOUNDARIES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the OAKVILLE CHAMBER OF COMMERCE in Ontario to change the boundaries of its district to be within the Town of Oakville in its entirety.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21105&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1253",
+  "htmlHash": "02c42419a132899a7bbf952234833904"
+}

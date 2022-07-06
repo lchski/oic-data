@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0260</td><td>2007-03-01</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fix the remuneration of GILLES DUFAULT, Vice-Chairperson and Member of the Canadian Transportation Agency for the period commencing on July 1, 2006 and terminating on February 11, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15908&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0260",
+  "htmlHash": "61f35b9108db19fcdca1bc6b7d61193b"
+}

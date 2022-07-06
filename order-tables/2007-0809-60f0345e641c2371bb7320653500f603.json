@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0809</td><td>2007-05-17</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order decling to amend SCHEDULE 1 to the SPECIES AT RISK ACT by adding the Sakinaw Lake population of Sockeye Salmon to Part 2 of Schedule 1.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0102  <strong>Publication Date:</strong> 2007-05-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16521&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0809",
+  "htmlHash": "60f0345e641c2371bb7320653500f603"
+}

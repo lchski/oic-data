@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2231</td><td>1992-10-29</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the variation made to the Licence (No. GL-152) issued to\nENCOGEN FOUR PARTNERS, L.P. by the National Energy Board for the\nexportation of natural gas to the United States, in accordance with N.E.B.\nOrder No. AO-1-GL-152, which will permit the licensee to export its gas at\nor near Niagara Falls, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2231",
+  "htmlHash": "c5b4aeac4dd018179d316b60e30c3734"
+}

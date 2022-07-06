@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0863</td><td>2018-06-21</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canadian Transportation Agency - 2017-18 Annual Report</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Submission to the Governor in Council of the 2017-18 ANNUAL REPORT of the CANADIAN TRANSPORTATION AGENCY.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36572&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0863",
+  "htmlHash": "53009ce5edc5b9a1b5a0ff3c9e8d840c"
+}

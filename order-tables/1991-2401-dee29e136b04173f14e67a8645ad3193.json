@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2401</td><td>1991-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PENSION BENEFITS STANDARDS REGULATIONS, 1985 providing,\nthat where a bank, trust company or other financial institution holds an\ninvestment of a pension fund in trust for the fund, the investment is to\nbe registered in the name of the bank, trust company or other financial\ninstitution.\n\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0709  <strong>Publication Date:</strong> 1991-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2401",
+  "htmlHash": "dee29e136b04173f14e67a8645ad3193"
+}

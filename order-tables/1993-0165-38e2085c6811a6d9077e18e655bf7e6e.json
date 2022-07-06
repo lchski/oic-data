@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0165</td><td>1993-01-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Louis Davies Hyndman, of Edmonton, Alberta, as Chairperson\nand Warren E. Everson, of Ottawa, Ontario, and Johanne Gauthier, of\nMontreal, Quebec, as Members to carry out a comprehensive review of the\noperations of the Canadian Transportation Accident Investigation and\nSafety Board Act for the purpose of assessing its effect on the safety of\nair, marine, rail and commodity pipeline transportation and to complete\nan submit a report in both official languages to the Minister on or\nbefore January 31, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0165",
+  "htmlHash": "38e2085c6811a6d9077e18e655bf7e6e"
+}

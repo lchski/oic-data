@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1911</td><td>2008-12-12</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">None</td></tr><tr><td>Subject</td><td colspan=\"5\">TRANSFER - TransCanada PipeLines Limited - Assiniboine Indian Reserve No. 76 in Saskatchewan .</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing to TRANSCANADA PIPELINES LIMITED a) to expand the purpose of the pipeline easement from the limited transport of natural gas only over certain lands situated on Assiniboine Indian Reserve No.76, and to include the transportation of natural gas, crude oil and any gaseous or liquid hydrocarbons and any product.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19784&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1911",
+  "htmlHash": "c183643d54efdf97d7739d005ebd4882"
+}

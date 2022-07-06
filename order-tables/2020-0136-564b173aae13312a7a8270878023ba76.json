@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0136</td><td>2020-03-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Intelligence Commissioner Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of the HONOURABLE JEAN-PIERRE PLOUFFE of Gatineau, Quebec, as Intelligence Commissioner, to hold office during good behaviour for a term of two years, effective April 18, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0136",
+  "htmlHash": "564b173aae13312a7a8270878023ba76"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1015</td><td>2012-08-20</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Ex Gratia Payments - Canadian Forces </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Canadian Heritage to make a one-time ex gratia payment of $50,000 to the Mounted Police Foundation, also known as the RCMP Foundation, on behalf of Their Royal Highnesses the Prince of Wales and the Duchess of Cornwall.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26450&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1015",
+  "htmlHash": "3c7f0ac3131b47ac574807466af85f53"
+}

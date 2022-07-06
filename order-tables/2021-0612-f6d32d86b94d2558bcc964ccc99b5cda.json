@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0612</td><td>2021-06-17</td><td></td><td></td><td>NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Energy Regulator Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KAREN LEIBOVICI of Edmonton, Alberta, to be a director of the Board of Directors of the Canadian Energy Regulator, to hold office during pleasure for a term of five years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40869&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0612",
+  "htmlHash": "f6d32d86b94d2558bcc964ccc99b5cda"
+}

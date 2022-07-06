@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0999</td><td>2020-12-04</td><td></td><td></td><td>,&nbsp; HC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interim Order Respecting Drug Shortages (Safeguarding the Drug Supply)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the INTERIM ORDER ESPECTING DRUG SHORTAGES (SAFEGUARDING THE DRUG SUPPLY), made by the Minister of Health on November 27, 2020, in order to introduce new measures to help safeguard the Canadian drug supply by ensuring that bulk importation frameworks, do not cause or exacerbate a drug shortage in Canada.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40009&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0999",
+  "htmlHash": "c447603c604076f7ec2e1f9bf8a89cd0"
+}

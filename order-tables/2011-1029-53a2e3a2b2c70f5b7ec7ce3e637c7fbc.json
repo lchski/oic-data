@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1029</td><td>2011-09-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; CIC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Citizenship Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOAN MAY WAY of Calgary, Alberta, as a citizenship judge for a term of three years on a full-time basis, effective October 6, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24706&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1029",
+  "htmlHash": "53a2e3a2b2c70f5b7ec7ce3e637c7fbc"
+}

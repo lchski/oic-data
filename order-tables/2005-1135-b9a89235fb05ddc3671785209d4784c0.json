@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1135</td><td>2005-06-07</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MIGRATORY BIRDS REGULATIONS by establishing the hunting season dates for 2005-2006 and the number of migratory game birds that may be taken or possessed during those dates.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0186  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11550&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1135",
+  "htmlHash": "b9a89235fb05ddc3671785209d4784c0"
+}

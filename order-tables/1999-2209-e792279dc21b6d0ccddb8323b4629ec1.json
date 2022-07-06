@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2209</td><td>1999-12-16</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign an EXCHANGE\nOF NOTES constituting an AGREEMENT to extend the 1986 CANADA-U.S. AGREEMENT\nPROVIDING FOR THE CONTINUED OPERATION AND MAINTENANCE OF THE TORPEDO TEST\nRANGE IN THE STRAIT OF GEORGIA for a further term of ten years, or (b) to\nissue an Instrument of Full Powers authorizing other representatives to\nsign the Letters on behalf of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-2209",
+  "htmlHash": "e792279dc21b6d0ccddb8323b4629ec1"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1011</td><td>1994-06-16</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to issue an INSTRUMENT OF RATIFICATION of the United Nations\nConvention on Prohibitions or Restrictions on the use of certain\nCONVENTIONAL WEAPONS which may be deemed to be excessively injurious or to\nhave indiscriminate effects, together with its three Protocols, namely:\n.\n  1. Protocol I on Non-Detectable Fragments,\n  2. Protocol II on Prohibitions or Restrictions on the use of Mines,\n     Booby Traps and Other Devices, and\n  3. Protocol III on Prohibitions or Restrictions on the use of Incendiary\n     Weapons.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1011",
+  "htmlHash": "4ef192322d9f68cb4874e1ee09745b02"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1816</td><td>1992-08-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EIC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Nurjehan N. Mawani, of West Vancouver, British Columbia,\nas Chairman of the Immigration and Refugee Board to hold office during\ngood behaviour for a term of seven years, effective October 24, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1816",
+  "htmlHash": "c5e85320d74625cbff2c1bceb3f4565f"
+}

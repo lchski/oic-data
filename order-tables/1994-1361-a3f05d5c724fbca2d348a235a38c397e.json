@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1361</td><td>1994-08-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ATLANTIC PILOTAGE TARIFF REGULATIONS increasing the rate\nby 7% in the tariffs of the following compulsory pilotage areas:\nSaint John, Restigouche, Miramichi, Canso, Sydney, Bras d'Or, Humber Arm,\nStephenville, Bay of Exploits, St. John's, Holyrood, Come-by-Chance,\nClarenville, Charlottetown, and Pugwash and by 3% the rate applicable\nto charges in Halifax.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0560  <strong>Publication Date:</strong> 1994-09-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1361",
+  "htmlHash": "a3f05d5c724fbca2d348a235a38c397e"
+}

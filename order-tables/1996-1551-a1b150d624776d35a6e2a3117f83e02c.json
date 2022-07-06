@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1551</td><td>1996-10-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PAUL T. DEIGHTON, of Thunder Bay, Ontario, as the Returning\nOfficer for the electoral district of Thunder Bay--Nipigon, as established\nin the Representation Order proclaimed on January 8, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1551",
+  "htmlHash": "a1b150d624776d35a6e2a3117f83e02c"
+}

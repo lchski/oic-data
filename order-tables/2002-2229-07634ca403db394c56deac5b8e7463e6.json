@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2229</td><td>2002-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act<br>Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Members of the House of Commons to be Parliamentary Secretaries for a period terminating on December 12, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=873&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=874&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2229",
+  "htmlHash": "07634ca403db394c56deac5b8e7463e6"
+}

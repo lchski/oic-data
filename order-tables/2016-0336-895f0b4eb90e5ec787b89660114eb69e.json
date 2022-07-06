@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0336</td><td>2016-05-10</td><td></td><td></td><td>LAB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Centre for Occupational Health and Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the Council's decision to authorize GARETH WILLIAM JONES of Toronto, Ontario, to act as President of the Canadian Centre for Occupational Health and Safety for a term of one year, effective May 31, 2016, or until a President is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32015&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2016-0336",
+  "htmlHash": "895f0b4eb90e5ec787b89660114eb69e"
+}

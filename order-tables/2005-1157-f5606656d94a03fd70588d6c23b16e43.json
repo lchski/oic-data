@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1157</td><td>2005-06-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2005-959 of May 18, 2005 regarding the appointment of WILLIAM C. McDOWELL as Associate Deputy Minister of Justice by changing the effective date to August 15, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11509&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1157",
+  "htmlHash": "f5606656d94a03fd70588d6c23b16e43"
+}

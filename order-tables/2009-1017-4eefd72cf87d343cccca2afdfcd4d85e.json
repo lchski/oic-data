@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1017</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Bridges and Tunnels Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval under the International Bridges and Tunnels Act of a transaction whereby OMERS Administration Corporation seeks to reorganize its interest into Borealis Transportation Infrastructure Trust, an entity that is party to the Detroit River Tunnel Partnership that owns and operates the Detroit River Rail Tunnel.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20889&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1017",
+  "htmlHash": "4eefd72cf87d343cccca2afdfcd4d85e"
+}

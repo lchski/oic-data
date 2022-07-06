@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0483</td><td>2021-06-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUSY KIM of Toronto, Ontario, to be a full-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of five years, effective September 7, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40691&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0483",
+  "htmlHash": "d9cb6fb00b3a7de4abdf31a7bd20dba8"
+}

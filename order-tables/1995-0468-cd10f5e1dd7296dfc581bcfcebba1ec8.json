@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0468</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ISTC,&nbsp; ACOA,&nbsp; WED-OLD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the SMALL BUSINESS LOANS REGULATIONS, 1993 which impose an\nannual fee on money lenders who make loans under these Regulations, and\nraise the maximum rate of interest a lender may charge on these loans.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0155  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0468",
+  "htmlHash": "cd10f5e1dd7296dfc581bcfcebba1ec8"
+}

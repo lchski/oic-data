@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1259</td><td>2003-08-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a LEAVE OF ABSENCE to the Hon. Louise V. Charron, from September 1, 2003 to March 31, 2004, in order to allow her to participate in the NATIONAL JUDICIAL STUDY LEAVE FELLOWSHIP PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3605&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1259",
+  "htmlHash": "1a984ee3f3cfb8f13cf9da35f9e49588"
+}

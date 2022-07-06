@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1099</td><td>2004-09-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">James Bay and Northern Quebec Native Claims Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which approves, gives effect to and declares valid the COMPLEMENTARY AGREEMENT NO. 3 to the Northeastern Québec Agreement with the Naskapis of Schefferville (Québec).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8081&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1099",
+  "htmlHash": "fb4bcb8649d8c9085161282755b7d5d8"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1964</td><td>1994-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Laurent Guertin, of Rouyn-Noranda, Quebec, as a Puisne\nJudge of the Superior Court for the Districts of Abitibi, Rouyn-Noranda\nand Témiscamingue in the Province of Quebec, with residence at Amos or at\nRouyn or in the immediate vicinity thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1964",
+  "htmlHash": "c5bfd5adfe58b4194d1b32eac3972cac"
+}

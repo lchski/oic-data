@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1551</td><td>2001-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by TRANSGAS LIMITED of its statutory power\nto acquire a right-of-way on CARRY THE KETTLE NAKOTA FIRST NATION INDIAN\nRESERVE NO. 76-2 for natural gas transmission pipeline purposes, and\n(b) granting them an easement for those purposes, in lieu thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1551",
+  "htmlHash": "3bcbe5c31a791548d7f8aae126cfc1d2"
+}

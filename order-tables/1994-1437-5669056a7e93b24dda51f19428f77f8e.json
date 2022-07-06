@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1437</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to set aside or to refer Decision CRTC 94-285 back to the\nCanadian Radio-television and Telecommunications Commission for\nreconsideration and hearing by the Commission, concerning the application\nby the CANADIAN BROADCASTING CORPORATION for a broadcasting licence to\ncarry on a specialty programming undertaking to provide a national\nFrench-language television news service.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0112  <strong>Publication Date:</strong> 1994-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1437",
+  "htmlHash": "5669056a7e93b24dda51f19428f77f8e"
+}

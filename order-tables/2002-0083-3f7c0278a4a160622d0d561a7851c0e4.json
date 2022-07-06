@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0083</td><td>2002-01-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DANIEL G. DÉCARIE, of Ville de Mont-Tremblant, Quebec, as\nthe Returning Officer for the electoral district of Laurentides, as\nestablished in the Representation Order proclaimed on January 8, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0083",
+  "htmlHash": "3f7c0278a4a160622d0d561a7851c0e4"
+}

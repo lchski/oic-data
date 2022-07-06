@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0877</td><td>2003-06-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Regulations, 1988</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Retirement of Superintendent JEAN-MICHEL J. HANSSENS, effective midnight August 13, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2724&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0877",
+  "htmlHash": "630167cfa44ae74d2a1429f9090b9481"
+}

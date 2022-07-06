@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1526</td><td>2006-12-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PSEP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Inquiries Act<br>Inquiries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing and directing The Hon. FRANK IACOBUCCI to conduct an inquiry to be known as the INTERNAL INQUIRY INTO THE ACTIONS OF CANADIAN OFFICIALS IN RELATION TO ABDULLAH ALMALKI, AHMAD ABOU-ELMAATI AND MUAYYED NUREDDIN.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15492&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=15493&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1526",
+  "htmlHash": "422e94cfe73a715c524e0a254618451a"
+}

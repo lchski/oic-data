@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1081</td><td>1994-06-23</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GOVERNMENT EMPLOYEES LAND ACQUISITION ORDER, 1994, NO. 3 authorizing\nKenneth James McGilvray, of Wetaskiwin, Alberta, a member of the Royal\nCanadian Mounted Police, to acquire by assignment from the current lessee\nthe whole of a parcel of land situated on the southerly shore of\nSchaefer Lakes in Quad 75 D/3.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0478  <strong>Publication Date:</strong> 1994-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1081",
+  "htmlHash": "5d04539426562341233a3b3b16b96556"
+}

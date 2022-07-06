@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0834</td><td>2007-05-31</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nuclear Fuel Waste Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Selection of an approach for the long-term management of nuclear fuel waste.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2007-0063  <strong>Publication Date:</strong> 2007-06-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16646&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0834",
+  "htmlHash": "c4b616a37851f9a64e8ae6fd1a0dd0a1"
+}

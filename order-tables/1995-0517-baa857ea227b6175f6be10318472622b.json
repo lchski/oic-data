@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0517</td><td>1995-03-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the Right Hon. Jean Chrétien or the Secretary of State\nfor External Affairs to sign an AGREEMENT ON TRADE with the REPUBLIC OF\nKAZAKHSTAN or (b) to issue an Instrument of Full Powers authorizing the\nHon. Paul Martin or the Hon. Raymond Chan to sign the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0517",
+  "htmlHash": "baa857ea227b6175f6be10318472622b"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1263</td><td>2008-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARC ST-PIERRE of Trois-Rivières, Quebec, as a Puisne Judge of the Superior Court for the district of Trois-Rivières, with residence in the territory of Trois-Rivières or in its immediate vicinity.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19104&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1263",
+  "htmlHash": "d8ebefa45d0f353bbf707d1b1567b5e0"
+}

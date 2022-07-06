@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-2036</td><td>2009-12-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRSD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GILLES DOUCET of Québec, Quebec, to be Chairperson of the Boards of Referees for the Quebec Regional Division, and particularly for the District of Ste-Foy, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21924&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-2036",
+  "htmlHash": "9f08a1862b5ae41ef6d1e88677217a97"
+}

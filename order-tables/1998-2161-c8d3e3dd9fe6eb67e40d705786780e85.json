@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2161</td><td>1998-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADIAN SPACE AGENCY to (a) transfer specific Crown\nassets to MacDONALD, DETTWILER AND ASSOCIATES LTD. which give effect to the\nRADARSAT-2 MASTER AGREEMENT, and (b) to issue a Licence of Occupation to\nthem for the use of space in buildings at the Canadian Space Agency complex\nin St. Hubert, Quebec, and at other locations.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-2161",
+  "htmlHash": "c8d3e3dd9fe6eb67e40d705786780e85"
+}

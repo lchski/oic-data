@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0943</td><td>2010-07-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE FRANK IACOBUCCI of Toronto, Ontario, a member in good standing of the Bar of Ontario, to the position of special adviser to the Leader of the Government in the House of Commons to serve as a Member of the Panel of Arbiters, to hold office during pleasure.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22923&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-0943",
+  "htmlHash": "fd74c2bb82cd7a5e483ba08dffa16a76"
+}

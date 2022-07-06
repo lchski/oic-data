@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1151</td><td>2017-09-14</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE BARBARA L. FISHER, to be a Justice of Appeal of the Court of Appeal for British Columbia, and a Judge of the Court of Appeal of Yukon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35061&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1151",
+  "htmlHash": "77d0b01f8e3ec93f727efdd7dd068147"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0700</td><td>1995-04-26</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to amendments to the NUNAVUT LAND CLAIMS AGREEMENT\nthat delay the starting date for the Wildlife Harvest Study and allow\n24 months, instead of 12, for the Nunavut Wildlife Management Board to\nestablish the basic need levels for beluga, narwhal and walrus, and (b)\ndesignating the Minister to consent to amendments to the Contract relating\nto the Implementation of the Nunavut Final Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0700",
+  "htmlHash": "ec47a708dffa5fec231e1c93e1db6cf1"
+}

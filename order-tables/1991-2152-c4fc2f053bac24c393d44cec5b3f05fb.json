@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2152</td><td>1991-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CAN POST,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the MAIL RECEPTACLES REGULATIONS which will require every mail\nbox assembly to be constructed and installed in such a manner as to prevent\nloss or entrapment of mail.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0626  <strong>Publication Date:</strong> 1991-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2152",
+  "htmlHash": "c4fc2f053bac24c393d44cec5b3f05fb"
+}

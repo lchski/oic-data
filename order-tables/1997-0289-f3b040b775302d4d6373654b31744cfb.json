@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0289</td><td>1997-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA BUSINESS CORPORATIONS REGULATIONS by\nreplacing the $10 fee for the issuance of a Certificate of Compliance with\na non-refundable $10 fee for the examination of a corporation's file, and\nby introducing a fee of $300 to process an initial application for an\nExemption Order and a fee of $100 to renew it.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0136  <strong>Publication Date:</strong> 1997-03-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0289",
+  "htmlHash": "f3b040b775302d4d6373654b31744cfb"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1245</td><td>2010-09-30</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHEL GIROUARD of Val d'Or, Quebec, to be a Puisne Judge of the Superior Court for the districts of Abitibi, Rouyn-Noranda and Témiscamingue, in the Province of Quebec, with residence at Amos or at Rouyn-Noranda or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23233&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1245",
+  "htmlHash": "db90953eaf8d405313f016644ec31eff"
+}

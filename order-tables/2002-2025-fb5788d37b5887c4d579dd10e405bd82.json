@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2025</td><td>2002-11-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of SUZANNE JOSEPHINE FARRELL of Sault Ste. Marie, Ontario, to be a member of the Review Tribunal for the region of Sault Ste. Marie for a term of three years, effective February 22, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=448&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2025",
+  "htmlHash": "fb5788d37b5887c4d579dd10e405bd82"
+}

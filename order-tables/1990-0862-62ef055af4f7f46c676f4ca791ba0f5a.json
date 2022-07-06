@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0862</td><td>1990-05-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the amendments made by the National Energy Board to the\nCertificate of Public Convenience and Necessity issued to Hydro-Quebec for\nthe exportation of electricity, in accordance with Board Order No.\nAO-1-EC-III-22.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0862",
+  "htmlHash": "62ef055af4f7f46c676f4ca791ba0f5a"
+}

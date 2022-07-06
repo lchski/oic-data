@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0871</td><td>2003-06-05</td><td></td><td></td><td>HEALTH,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NEW SUBSTANCES NOTIFICATION REGULATIONS by providing an alternative mechanism for the addition to the Domestic Substances List of new chemicals, biochemicals, polymers, biopolymers and new living organisms.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0214  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2736&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0871",
+  "htmlHash": "1df92f4c1f0e8d9f9d4c025f39641df5"
+}

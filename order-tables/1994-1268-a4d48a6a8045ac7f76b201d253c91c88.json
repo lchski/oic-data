@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1268</td><td>1994-07-19</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order making it known that the Governor in Council declines to rescind\nNATIONAL TRANSPORTATION AGENCY Order No. 1993-R-66 concerning the\nabandonment by Canadian Pacific Limited of the operation of a segment of\nthe Fredericton Subdivision and the Gibson Subdivision, in the Province of\nNew Brunswick.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1268",
+  "htmlHash": "a4d48a6a8045ac7f76b201d253c91c88"
+}

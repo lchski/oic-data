@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1637</td><td>2017-12-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCH,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of JUDITH ANNE LAROCQUE of Hawkesbury, Ontario, to be Chairperson of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35547&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1637",
+  "htmlHash": "b71daf1ba668c5efed8a214fac1c03d2"
+}

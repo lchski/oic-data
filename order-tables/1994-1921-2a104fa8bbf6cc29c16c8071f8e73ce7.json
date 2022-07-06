@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1921</td><td>1994-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as Commissioners of the Canadian Section\nof the Pacific Salmon Commission, for a term of two years.\n(Nelson Keitlah, Port Alberni, British Columbia, in the place of\nJoe Gosnell, whose term has expired; and Dennis Brown, Burnaby, British\nColumbia, in the place of Bruce Buchanan, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1921",
+  "htmlHash": "2a104fa8bbf6cc29c16c8071f8e73ce7"
+}

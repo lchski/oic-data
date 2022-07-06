@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1177</td><td>2007-07-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a lifetime annuity to LYNN CATZMAN, a survivor of the Hon. Marvin A. Catzman, a Judge of the Court of Appeal for Ontario, commencing on June 15, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16890&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1177",
+  "htmlHash": "43862d47bb64677a6574f4c3772568b2"
+}

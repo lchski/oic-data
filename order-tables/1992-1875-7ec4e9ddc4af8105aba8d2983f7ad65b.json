@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1875</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Issuance of letters patent authorizing the transfer of a land to the\nSOURIS BASIN DEVELOPMENT AUTHORITY, of Regina, Saskatchewan, and\nacceptance of the transfer from the Souris Basin Development Authority of\na certain land.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1875",
+  "htmlHash": "7ec4e9ddc4af8105aba8d2983f7ad65b"
+}

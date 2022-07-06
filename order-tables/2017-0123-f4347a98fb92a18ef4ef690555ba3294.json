@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0123</td><td>2017-02-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to Manitou Rapids Indian Reserve No. 11, Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 512.514 hectares (1,2660.449 acres), more or less of land including mines and minerals for the use and benefit of the Rainy River First Nations as an addition to MANITOU RAPIDS INDIAN RESERVE NO. 11, located in the municipal Township of Chapple and the municipal Township of Emo, located approximately 10 kilometres from the Town of Emo, in Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33035&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-0123",
+  "htmlHash": "f4347a98fb92a18ef4ef690555ba3294"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0006</td><td>2022-01-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Foreign Affairs, Trade and Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CHRISTOPHER MACLENNAN of Gatineau, Quebec, to be Associate Deputy Minister of Foreign Affairs, to hold office during pleasure; and his designation as Deputy Minister for International Development, to be styled Deputy Minister of International Development and Personal Representative of the Prime Minister for the G20 Summit, effective January 10, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41452&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0006",
+  "htmlHash": "27fe676a98f76d8fc33e1e41566948ea"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1346</td><td>2004-11-16</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act<br>Arctic Waters Pollution Prevention Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating nine employees of the Department of Transport as POLLUTION PREVENTION OFFICERS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8567&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=8569&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1346",
+  "htmlHash": "8d6b3f0073eac2f531f798f47fa9e9b5"
+}

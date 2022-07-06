@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0198</td><td>2010-02-23</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the salary of PATRICIA HAASBEEK, full-time member of the National Parole Board, Prairies Regional Division, for the period she was acting as Vice-Chairperson of the National Parole Board, Prairies Regional Division, commencing on August 4, 2009 and ending January 13, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22170&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-0198",
+  "htmlHash": "bab0511b1a26341629a85eba376ec65d"
+}

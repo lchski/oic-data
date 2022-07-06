@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1349</td><td>2013-12-05</td><td></td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Shell Canada Energy's Jackpine Mine Expansion Project</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order making effective the DECISION that the significant adverse environmental effects that the SHELL CANADA ENERGY JACKPINE MINE EXPANSION PROJECT is likely to cause are justified in the circumstances.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28614&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-1349",
+  "htmlHash": "7bc24a6d5ae4835c5e56ae08333d47fa"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0050</td><td>1992-01-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Robert Gibson Blackburn, of Ottawa, Ontario, as an\nalternate director of the Federal Business Development Bank for\nHarry Rogers.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0050",
+  "htmlHash": "11707e85c92d7a7281b7fa8b2b2a43d1"
+}

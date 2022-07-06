@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1067</td><td>2000-06-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION\nORDER by designating the Director of the Financial Transactions and Reports\nAnalysis Centre of Canada as \"head\" of that institution for the purposes of\nthis Act, effective July 5, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0058  <strong>Publication Date:</strong> 2000-07-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-1067",
+  "htmlHash": "b0ff1e3e24a5c92ab8ea554e81b5cf63"
+}

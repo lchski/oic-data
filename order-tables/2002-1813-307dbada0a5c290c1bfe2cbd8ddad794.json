@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1813</td><td>2002-10-24</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the BEARDY'S AND OKEMASIS BAND, of some 58 hectares of land situated in the Rural Municipality of Big Quill No. 308, Province of Saskatchewan, mines and minerals included, as an addition to Beardy's and Okemasis Indian Reserve No. 96 &amp; 97-A.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1813",
+  "htmlHash": "307dbada0a5c290c1bfe2cbd8ddad794"
+}

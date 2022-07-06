@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1769</td><td>1993-09-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; OPPC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order establishing by proclamation, for the 1991 decennial census,\nELECTORAL BOUNDARIES COMMISSIONS for each province and for the Northwest\nTerritories.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0197  <strong>Publication Date:</strong> 1993-10-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1769",
+  "htmlHash": "629a2df4e69e622ac32137dddfe50dd8"
+}

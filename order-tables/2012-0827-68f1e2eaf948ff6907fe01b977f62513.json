@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0827</td><td>2012-06-19</td><td></td><td></td><td>,&nbsp; NR,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Richard Eaglestone Remission Order </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER which remits harmonized sales tax to RICHARD EAGLESTON, representing a new housing rebate disallowed in 2002.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2012-0044  <strong>Publication Date:</strong> 2012-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26242&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0827",
+  "htmlHash": "68f1e2eaf948ff6907fe01b977f62513"
+}

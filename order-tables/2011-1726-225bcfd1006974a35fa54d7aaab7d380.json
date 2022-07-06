@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1726</td><td>2011-12-22</td><td></td><td></td><td>IC,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Corporate Plan for the Business Development Bank of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the Corporate Plan of the BUSINESS DEVELOPMENT BANK of Canada for the period April 1, 2011 to March 31, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1726",
+  "htmlHash": "225bcfd1006974a35fa54d7aaab7d380"
+}

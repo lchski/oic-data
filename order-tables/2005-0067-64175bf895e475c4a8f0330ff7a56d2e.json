@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0067</td><td>2005-02-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Territorial Lands Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to all that portion of Lot 17, Block 19, in the City of YELLOWKNIFE, N.W.T., lying within 30.48 metres (100 feet) of the Ordinary High Water Mark along the shoreline of GREAT SLAVE LAKE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0008  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9339&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0067",
+  "htmlHash": "64175bf895e475c4a8f0330ff7a56d2e"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0180</td><td>2011-02-03</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable MARC M. MONNIN as a Judge of Appeal of the Court of Appeal for Manitoba, and a Judge ex officio of Her Majesty's Court of Queen's Bench for Manitoba.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23833&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0180",
+  "htmlHash": "7afef21e92e6eca1794db8f0c4d2f4db"
+}

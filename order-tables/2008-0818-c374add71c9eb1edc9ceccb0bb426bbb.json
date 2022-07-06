@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0818</td><td>2008-05-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Competition Tribunal Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">COMPETITION TRIBUNAL RULES made by the Competition Tribunal which revokes and replaces the Rules enacted on April 14, 1994 (SOR/94-290).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0141  <strong>Publication Date:</strong> 2008-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18659&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0818",
+  "htmlHash": "c374add71c9eb1edc9ceccb0bb426bbb"
+}

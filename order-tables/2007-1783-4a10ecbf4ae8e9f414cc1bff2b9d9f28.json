@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1783</td><td>2007-11-22</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">JUDGES ACT (ANNUITIES TO SURVIVORS)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a lifelong annuity to PAMELA OWEN-FLOOD, widow of the Honourable Dermod D. Owen-Flood, a retired Judge of the Supreme Court of British Columbia, commencing on September 21, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17550&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1783",
+  "htmlHash": "4a10ecbf4ae8e9f414cc1bff2b9d9f28"
+}

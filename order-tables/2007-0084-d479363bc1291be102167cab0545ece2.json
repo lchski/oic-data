@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0084</td><td>2007-01-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; VAC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Veterans Review and Appeal Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALLAN PARKS of Miscouche, Prince Edward Island, to be a permanent member of the Veterans Review and Appeal Board to hold office during good behaviour for a term of three years, effective February 12, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15736&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0084",
+  "htmlHash": "d479363bc1291be102167cab0545ece2"
+}

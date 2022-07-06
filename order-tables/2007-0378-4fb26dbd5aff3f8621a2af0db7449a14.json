@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0378</td><td>2007-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) increasing the limit on the total amount of money that the Government of the NORTHWEST TERRITORIES may borrow for territorial, municipal or local purposes, on and after April 1, 2007; and (b) repealing Order in Council P.C. 1999-455 of March 18, 1999.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16034&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0378",
+  "htmlHash": "4fb26dbd5aff3f8621a2af0db7449a14"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1966</td><td>2007-12-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an INSTRUMENT (Absolute Surrender) wherein the SONGHEES AND ESQUIMALT FIRST NATIONS surrenders any rights or interest they may have had in the James Bay Lands that were the subject of litigation between the First Nations, the Federal Crown and British Columbia Crown.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17735&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1966",
+  "htmlHash": "71926e44ec11fea82fc2b7a8d75118b8"
+}

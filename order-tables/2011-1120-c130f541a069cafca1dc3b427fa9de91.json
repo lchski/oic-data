@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1120</td><td>2011-09-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Fruit Remission Order, 2011</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FRUIT REMISSION ORDER, 2011 remitting $106,381.75 in customs duties paid by CANGRO FOOD INC. on its imports of canned peaches in 2007 and 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0215  <strong>Publication Date:</strong> 2011-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24796&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1120",
+  "htmlHash": "c130f541a069cafca1dc3b427fa9de91"
+}

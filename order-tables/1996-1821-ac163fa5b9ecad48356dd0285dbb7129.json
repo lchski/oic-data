@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1821</td><td>1996-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1996-807 which replaces the legal\ndescription of the lands referred to in Schedule II thereto which were\nthereby transferred to the Greater Toronto Airports Authority under a\nlong-term lease.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1821",
+  "htmlHash": "ac163fa5b9ecad48356dd0285dbb7129"
+}

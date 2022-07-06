@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2254</td><td>2005-11-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2005-2185 of November 22, 2005 concerning the appointment of SUZANNE FORTIER as President of the Natural Sciences and Engineering Research Council.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13874&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-2254",
+  "htmlHash": "06b252289e1ec2beb331324275e34f1d"
+}

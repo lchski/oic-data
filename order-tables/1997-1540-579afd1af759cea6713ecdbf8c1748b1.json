@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1540</td><td>1997-10-23</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) setting apart 1,913 hectares of land in Saskatchewan for the use\nand benefit of the BEARDY'S AND OKEMASIS BAND as Beardy's and Okemasis\nIndian Reserve No. 96 &amp; 97-B or as an addition to its Reserve No. 96 &amp;\n97-A, and (b) consenting to the use by both SASKATCHEWAN POWER CORPORATION\nand the RURAL MUNICIPALITY OF BIG QUILL NO. 308 of their statutory powers\nto acquire EASEMENTS over some of those lands.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1540",
+  "htmlHash": "579afd1af759cea6713ecdbf8c1748b1"
+}

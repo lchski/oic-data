@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1879</td><td>2008-12-11</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BENITA M. WARMBOLD of Toronto, Ontario, to be a director of the Board of Directors of PPP Canada Inc., to hold office during pleasure for a term of  six months or until her successor is appointed, if the appointment is made before the end of the term, effective December 23, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1879",
+  "htmlHash": "ad4dc860bdff56288753aaedafe247bf"
+}

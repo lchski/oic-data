@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0004</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DAVID C. COLVILLE, of Halifax, Nova Scotia, as a\nfull-time member of the Canadian Radio-television and Telecommunications\nCommission to hold office during good behaviour for a term ending\nDecember 31, 1999; designation of DAVID C. COLVILLE as representative of\nthe Atlantic region; and designation of DAVID C. COLVILLE as Vice-Chairman\nof the Canadian Radio-television and Telecommunications Commission, to\nhold office during pleasure, effective September 22, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0004",
+  "htmlHash": "49b7c586ec0271cf04f83a44cab48b72"
+}

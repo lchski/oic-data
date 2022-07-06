@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1966</td><td>1991-10-10</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement with AIR CANADA which will amend its\nLease (No. 131387) pertaining to the occupation of space in Terminal II at\nLester B. Pearson International Airport, Toronto, Ontario, by including an\nadditional 4,010 square metres of space (Module \"Q\") in the rented\npremises.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-1966",
+  "htmlHash": "fc90b3ddcf25025dcc7eefc58758d3d4"
+}

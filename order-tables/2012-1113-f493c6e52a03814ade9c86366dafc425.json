@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1113</td><td>2012-09-20</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Kenora Indian Reserve No. 38B (Ontario) ** Designation for leasing purposes **\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a partial REVOCATION of a designation for leasing purposes of approximately 2.01 hectares (4.967 acres) of land on KENORA INDIAN RESERVE No. 38B in Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1113",
+  "htmlHash": "f493c6e52a03814ade9c86366dafc425"
+}

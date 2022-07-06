@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0269</td><td>1994-02-16</td><td>0</td><td></td><td>JUS,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the FAMILY SUPPORT ORDERS AND AGREEMENTS GARNISHMENT\nREGULATIONS that establish a fee, to be recovered from the garnishee over\na five-year period, for the processing of every garnishee summons served\non the Minister.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0187  <strong>Publication Date:</strong> 1994-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0269",
+  "htmlHash": "e7ab6ecdd09c52755a782480557ad3fa"
+}

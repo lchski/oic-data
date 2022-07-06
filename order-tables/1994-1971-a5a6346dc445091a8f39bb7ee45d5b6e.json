@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1971</td><td>1994-11-29</td><td>0</td><td></td><td>SSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the MUNICIPAL GRANTS REGULATIONS, 1980 which, for purposes of\nexpediency, will enable the Minister to make payments of grants-in-lieu of\ntaxes on lands that were transferred from the Department of Public Works to\nthe Queens Quay West Land Corporation (formerly Harbourfront Corporation).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0738  <strong>Publication Date:</strong> 1994-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1971",
+  "htmlHash": "a5a6346dc445091a8f39bb7ee45d5b6e"
+}

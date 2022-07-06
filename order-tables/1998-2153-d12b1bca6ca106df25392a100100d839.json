@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2153</td><td>1998-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating three Judges of the Federal Court of Canada as JUDGES of\nthe COURT MARTIAL APPEAL COURT OF CANADA, as follows:\n.\n  1. The Hon. J. Edgar Sexton (Appeal Division/Section d'appel)\n  2. The Hon. Pierre Blais (Trial Division/Section de première instance)\n  3. The Hon. John M. Evans (Trial Division/Section de première instance)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-2153",
+  "htmlHash": "d12b1bca6ca106df25392a100100d839"
+}

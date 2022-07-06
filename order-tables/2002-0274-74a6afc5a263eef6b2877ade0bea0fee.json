@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0274</td><td>2002-02-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NAME USE (AFFILIATES OF BANKS, OR BANK HOLDING COMPANIES,\nTHAT ARE NOT WIDELY HELD) REGULATIONS which allow certain affiliates of a\nclosely-held bank or bank holding company to use the name or logo of the\nbank or bank holding company in certain circumstances.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0103  <strong>Publication Date:</strong> 2002-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0274",
+  "htmlHash": "74a6afc5a263eef6b2877ade0bea0fee"
+}

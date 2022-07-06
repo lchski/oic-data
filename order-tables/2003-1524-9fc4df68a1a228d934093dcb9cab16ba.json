@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1524</td><td>2003-10-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MONINA LIM-SERRAMO of Toronto, Ontario, to be the Returning Officer for the electoral district of Scarborough--Agincourt, as established in the Representation Order proclaimed on August 25, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4195&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1524",
+  "htmlHash": "9fc4df68a1a228d934093dcb9cab16ba"
+}

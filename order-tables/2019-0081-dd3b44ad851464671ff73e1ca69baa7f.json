@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0081</td><td>2019-02-05</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JENNIFER KHURANA of Ottawa, Ontario, to be Vice-Chairperson of the Canadian Human Rights Tribunal, to hold office during good behaviour for a term of seven years, effective April 8, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37400&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0081",
+  "htmlHash": "dd3b44ad851464671ff73e1ca69baa7f"
+}

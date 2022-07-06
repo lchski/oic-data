@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0318</td><td>2003-03-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Preparedness Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 58 - which (a) DECLARES the severe spring run-off and flooding which occured in British Columbia in 2002, to be of concern to the federal government, and (b) AUTHORIZES the provision of financial assistance in that regard.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1645&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0318",
+  "htmlHash": "48bea6b0322b551d991e0c14c04bdf51"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1334</td><td>1992-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\nNestor E. Gayowsky, Chargé d'Affaires a.i. for Canada in Kiev, or Vernon\nG. Turner, Special Advisor to the Task Force on Central and Eastern Europe,\nto sign a MULTILATERAL AGREEMENT TO ESTABLISH A SCIENCE AND TECHNOLOGY\nCENTRE IN UKRAINE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1334",
+  "htmlHash": "bef9d42f4dbad2efa7e1391234d3335b"
+}

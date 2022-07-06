@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0230</td><td>2011-02-10</td><td></td><td></td><td>,&nbsp; IC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce franco-colombienne\n**CHANGE OF NAME**\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to grant the application of the CHAMBRE DE COMMERCE FRANCO-COLOMBIENNE DE VANCOUVER in British Columbia to change its name to the CHAMBRE DE COMMERCE FRANCOPHONE DE VANCOUVER.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23883&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0230",
+  "htmlHash": "11a71f91cb8f1a1b640b284c3ab2a2c4"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2114</td><td>1995-12-13</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister (a) to sign an AGREEMENT with the Republic of\nECUADOR for the PROMOTION AND PROTECTION OF INVESTMENTS, or (b) to issue an\nInstrument of Full Powers authorizing either the Hon. CHRISTINE STEWART or\nAmbassador ARCHIBALD McARTHUR, to sign it instead.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-2114",
+  "htmlHash": "4ca72addf0bb89e2de55cf844ee3e0fe"
+}

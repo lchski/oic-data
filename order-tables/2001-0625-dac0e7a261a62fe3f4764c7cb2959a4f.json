@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0625</td><td>2001-04-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JERRY J. FORD, of Lindsay, Ontario, as the Returning Officer\nfor the electoral district of Haliburton-Victoria-Brock, as established\nin the Representation Order proclaimed on January 8, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-0625",
+  "htmlHash": "dac0e7a261a62fe3f4764c7cb2959a4f"
+}

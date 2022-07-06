@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0801</td><td>1990-04-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Canada Ports Corporation to enter into an Agreement with\nThe New Brunswick Electric Power Commission which, in summary, provides for\nan exchange of titles to a number of pieces of land situate at the Port of\nBelledune and for the construction of coal-handling docks and other\nancillary works as well as for the granting of new leases and easements to\nShell Canada Products Limited and to Brunswick Mining and Smelting\nCorporation Limited, whose facilities were or will be relocated.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0801",
+  "htmlHash": "ff9feb8dd9b47e5de9239baf67dd2500"
+}

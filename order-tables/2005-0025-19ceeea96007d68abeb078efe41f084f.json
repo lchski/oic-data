@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0025</td><td>2005-01-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amend Order in Council P.C. 2004-1536 of December 10, 2004 concerning the termination of appointment of GENERAL RAYMOND ROLAND HENAULT as Chief of the Defence Staff.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9180&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0025",
+  "htmlHash": "19ceeea96007d68abeb078efe41f084f"
+}

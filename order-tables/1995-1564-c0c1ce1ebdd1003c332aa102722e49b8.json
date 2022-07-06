@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1564</td><td>1995-09-13</td><td>0</td><td></td><td>VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as permanent members of the Veterans\nReview and Appeal Board to hold office during good behaviour for a term\neffective September 15, 1995 and ending September 14, 1999.\n(MAJOR THE REVEREND CANON KENNETH EDWARD MAXTED, O.M.M., C.D., L.TH.,\nA.deC., East York, Ontario; and G. GORDON TWEEDY, Q.C., Charlottetown,\nPrince Edward Island)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1564",
+  "htmlHash": "c0c1ce1ebdd1003c332aa102722e49b8"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0346</td><td>2003-03-20</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order updating the list of employees of the Department of Transport or the Department of Fisheries and Oceans (Canadian Coast Guard) who are designated as POLLUTION PREVENTION OFFICERS.\n\nNEW DESIGNATIONS:\n\nAhmed, Mansoor\nAtkinson, William Scott\nBourdeau, Michel\nCoffin, William Robert\nDodge, Cecil James\nMathur, Narendra\nSmith, Anthony John</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1589&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0346",
+  "htmlHash": "6c360fa20ee94fecf35be3e2cda9a120"
+}

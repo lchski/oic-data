@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1657</td><td>2005-09-26</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Oceans Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the BASIN HEAD MARINE PROTECTED AREA REGULATIONS which designate a small estuarine lagoon located on the eastern tip of Prince Edward Island, known as Basin Head, as a Marine Protected Area.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0293  <strong>Publication Date:</strong> 2005-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13030&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1657",
+  "htmlHash": "aa9eb32902b37801e440e51d094f653e"
+}

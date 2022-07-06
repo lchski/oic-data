@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1700</td><td>2001-09-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN RAYMOND SAVAGE, of Cambridge, Nova Scotia, as a\nmember of the Review Tribunal for the region of Kentville for a term of\nthree years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1700",
+  "htmlHash": "17dc7e560a76b65b60828a5d4b97564b"
+}

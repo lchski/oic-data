@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1831</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (NATIONAL TRANSPORTATION AGENCY)\n1994-2 repealing and correcting the following regulations:\n.\n 1. National Transportation Agency General Rules\n 2. Air Transportation Regulations\n 3. Personnel Training for the Assistance of Persons with Disabilities\n    Regulations\n 4. Public Utility Relocation Accounting Regulations\n .\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0700  <strong>Publication Date:</strong> 1994-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1831",
+  "htmlHash": "249df1a9b3ff51ab2acf355293e34b5d"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0311</td><td>1995-02-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the LIVESTOCK CARCASS GRADING REGULATIONS which are designed\nto improve the accuracy of HOG CARCASS grading by altering the mathematical\nequations used to determine the lean yield content of hog carcasses graded\nwith an electronic probe or, in cases where a carcass must be manually\ngraded, by requiring the use of an approved ruler to measure the backfat.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0130  <strong>Publication Date:</strong> 1995-03-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0311",
+  "htmlHash": "cae3a4b1bbe945a061a2bc8332e91925"
+}

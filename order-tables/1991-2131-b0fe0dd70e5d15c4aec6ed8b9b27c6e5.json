@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2131</td><td>1991-10-31</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to Rachel Larabie-Lesieur, Deputy Director of Investigation\nand Research, to exercise the powers and perform the duties of the\nDirector of Investigation and Research whenever he Director is absent or\nunable to act or whenever there is a vacancy in the office of Director.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2131",
+  "htmlHash": "b0fe0dd70e5d15c4aec6ed8b9b27c6e5"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0155</td><td>1993-01-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CAN PORTS,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the MONTREAL PORT CORPORATION to purchase a real property\nfrom 157290 CANADA INC. which consist of some 48,188 square metres of\nland situated on Notre Dame Street East, between Beauclerk Street and des\nFutailles Street, in the City of Montreal, Quebec (Lots 330-1 and 331-205).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0155",
+  "htmlHash": "03da6f7f3549583032e636df6e887f4d"
+}

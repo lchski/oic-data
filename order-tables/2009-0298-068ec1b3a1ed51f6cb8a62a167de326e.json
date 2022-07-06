@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0298</td><td>2009-02-26</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Weights and Measures Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE IV to the WEIGHTS AND MEASURES ACT by updating the lists of reference standards for the measurement of temperature, electricity and gas by replacing obsolete standards and adding new standards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2009-0080  <strong>Publication Date:</strong> 2009-03-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20139&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0298",
+  "htmlHash": "068ec1b3a1ed51f6cb8a62a167de326e"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1243</td><td>2008-06-18</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cultural Property Export and Import Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BURTON G.S. GLENDENNING of Fredericton, New Brunswick, to be a member of the Canadian Cultural Property Export Review Board for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19086&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1243",
+  "htmlHash": "a3a85a89129b23da8dc63d8b00f00a50"
+}

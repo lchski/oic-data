@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0988</td><td>2013-10-01</td><td></td><td></td><td>,&nbsp; DFAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2013-14</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of THÉODORE LAWSON as Honorary Consul of Canada at Bangui, Central African Republic, for a period of three years, effective December 9, 2013.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28244&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0988",
+  "htmlHash": "f5f008719ce3b0ece57f270a4dfd4411"
+}

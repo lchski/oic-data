@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1294</td><td>2012-10-04</td><td></td><td></td><td>,&nbsp; CH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of GUY BOURGEOIS of Saint-Bruno, Quebec, as a trustee of the Board of Trustees of the National Gallery of Canada to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1294",
+  "htmlHash": "97e399cb43fe96c0e23fc4402b965548"
+}

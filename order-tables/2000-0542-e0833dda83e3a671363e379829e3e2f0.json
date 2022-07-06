@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0542</td><td>2000-04-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1181 - ETHYLENE\nBISDITHIOCARBAMATE FUNGICIDES) which establish a maximum limit (MRL) of\n7 ppm on residues of ethylene-bisdithiocarbamate fungicides that can be\ndetected in or on endives.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0155  <strong>Publication Date:</strong> 2000-04-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0542",
+  "htmlHash": "e0833dda83e3a671363e379829e3e2f0"
+}

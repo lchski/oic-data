@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0025</td><td>2010-01-13</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Laws - Yukon\nBill #s 78, 80, 73, 75, 76, 79 and 17\n1st Session of the thirty-second Legislative Assembly  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of a number of laws (Bills 78, 80, 73, 75, 76, 79 and 17) made by the Legislature of YUKON during the First Session of the Thirty-second Legislative Assembly.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22052&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-0025",
+  "htmlHash": "59373bda164cf47fb072cd7d3045655f"
+}

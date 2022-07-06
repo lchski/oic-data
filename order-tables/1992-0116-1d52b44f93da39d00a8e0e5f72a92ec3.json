@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0116</td><td>1992-01-23</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing February 4, 1992 as the day on which the provisions of the\nsaid Act (other than sections 672.64, 672.65 and 672.66 of the Criminal\nCode, as enacted by section 4 of the said Act, sections 5 and 6,\nsubsection 10(8) and section 13 of the said Act) shall COME INTO FORCE.\n(Chapter 43)\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0009  <strong>Publication Date:</strong> 1992-02-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0116",
+  "htmlHash": "1d52b44f93da39d00a8e0e5f72a92ec3"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1440</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trips to Belgium and France made by MARTIN CAUCHON,\nM.P., from June 7 to June 15, 1994 and from July 3 to July 14, 1994, and\nthe trip to France made by PIERRETTE RINGUETTE-MALTAIS, M.P., from July 3\nto July 14, 1994, at the invitation of the Secretary of State for External\nAffairs.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1440",
+  "htmlHash": "aa167faddb284912fabaaf5423163d9f"
+}

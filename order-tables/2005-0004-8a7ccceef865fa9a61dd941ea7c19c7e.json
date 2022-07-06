@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0004</td><td>2005-01-12</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING SCHEDULES 1 TO 3 to the SPECIES AT RISK ACT by adding 73 species to Schedule 1 (List of Wildlife Species at Risk) and by removing other species from Schedules 2 and 3.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0014  <strong>Publication Date:</strong> 2005-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9173&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0004",
+  "htmlHash": "8a7ccceef865fa9a61dd941ea7c19c7e"
+}

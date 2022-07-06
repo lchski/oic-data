@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0872</td><td>1990-05-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Halifax Port Corporation to lease a parcel of waterfront\nland to the WATERFRONT DEVELOPMENT CORPORATION, for a term of forty-nine\n(49) years, which parcel comprises an area of some 2,040 square metres, and\nwill be used for the berthing of a naval corvette, the H.M.C.S. SACKVILLE.\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0872",
+  "htmlHash": "7fc0b1ba9ac5cad9b522a8523f204b44"
+}

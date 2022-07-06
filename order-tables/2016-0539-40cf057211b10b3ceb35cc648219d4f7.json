@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0539</td><td>2016-06-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; DFO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DAVID BEVAN of Ottawa, Ontario, as Chairperson of the Board of Directors of the Freshwater Fish Marketing Corporation, to hold office during pleasure for a term of one year, or until such time as a new Chairperson is appointed, whichever occurs first, effective August 26, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2016-0539",
+  "htmlHash": "40cf057211b10b3ceb35cc648219d4f7"
+}

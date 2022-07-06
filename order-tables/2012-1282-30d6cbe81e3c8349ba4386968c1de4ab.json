@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1282</td><td>2012-10-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THOMAS SEWELL BYNG GIRAUD of Delta, British Columbia, as Chairperson of the Board of Directors of Ridley Terminals Inc., to hold office during pleasure until such time as a new Chairperson is appointed.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26750&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1282",
+  "htmlHash": "30d6cbe81e3c8349ba4386968c1de4ab"
+}

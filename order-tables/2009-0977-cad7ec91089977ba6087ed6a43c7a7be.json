@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0977</td><td>2009-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Contribution Program for the implementation of Intelligent Transportation Systems at Border Crossings.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the entry by the Minister of Transport into CONTRIBUTION AGREEMENTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0977",
+  "htmlHash": "cad7ec91089977ba6087ed6a43c7a7be"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0720</td><td>2019-06-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Preclearance Officers Exemption Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PRECLEARANCE OFFICERS EXEMPTION ORDER in order to permit United States preclearance officers to transport a holstered duty firearm when on-duty and in uniform or on-duty and in a marked vehicle to and from a preclearance area or perimeter.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38045&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0720",
+  "htmlHash": "a45d78d25aca8a55dcbb184c21d9dce2"
+}

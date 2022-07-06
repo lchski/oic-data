@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0277</td><td>2002-02-28</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NOTICE OF BRANCH CLOSURE (TRUST AND LOAN COMPANIES)\nREGULATIONS whereby trust and loan companies will be required to give four\nmonths' notice to its customers, the public and to the Commissioner, prior\nto the closing of a branch located in an urban area, and six months' notice\nin rural areas.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0106  <strong>Publication Date:</strong> 2002-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0277",
+  "htmlHash": "1de78dc908bb4efbe15fdf68d65e8871"
+}

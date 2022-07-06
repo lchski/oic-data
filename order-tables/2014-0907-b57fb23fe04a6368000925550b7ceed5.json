@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0907</td><td>2014-08-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Delivery of materiel to Ukraine </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of National Defence to deliver materiel (equipment) which has not been declared surplus and which is not immediately required for the use of the Canadian Armed Forces, to the Department of Foreign Affairs, Trade and Development for disposal to Ukraine.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29724&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-0907",
+  "htmlHash": "b57fb23fe04a6368000925550b7ceed5"
+}

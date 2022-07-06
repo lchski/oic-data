@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1483</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Gordon E. Lloyd, of Manotick, Ontario as governor\nrepresenting suppliers at the Council of the Hazardous Materials\nInformation Review Commission to hold office during good behaviour for a\nterm of three years, effective October 17, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1483",
+  "htmlHash": "3de68a18248704998e011b34e6987f23"
+}

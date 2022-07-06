@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1908</td><td>2008-12-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Corporations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order repealing the Ministers Designation Order (Canada Corporations Act): this order repeals the Ministerial Designation Order  made under the CANADA CORPORATIONS ACT because it is spent (i.e. no longer enforced).</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0316  <strong>Publication Date:</strong> 2008-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19781&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1908",
+  "htmlHash": "b03eced35c1dd43d0b1ebde82c801326"
+}

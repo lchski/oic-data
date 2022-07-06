@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0694</td><td>1990-04-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ACOA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for the purposes of the\nAtlantic Canada Opportunities Agency Act of Barry Martin, of Sydney, Nova\nScotia, as a director of the Board of Directors of the Enterprise Cape\nBreton Corporation to hold office during pleasure for a term of two\nyears, in the place of Gordon Macaulay, Sr., whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0694",
+  "htmlHash": "92303cf1d93ae7f376734ca7e66b84b8"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1730</td><td>1992-07-27</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Commission do issue amending the one issued pursuant\nto Order in Council P.C. 1991-1329 of July 15, 1991, so as to appoint\ncertain persons as Commissioners of the INDIAN SPECIFIC CLAIMS COMMISSION.\n.\n  1. Charles Hamelin               4. James D. Bellegrade\n  2. Carole Corcoran               5. James E. Prentice\n  3. Carol A. Dutcheshen           6. Roger Augustine\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1730",
+  "htmlHash": "e5cbb26bcc96c626b447a268ed76d7cb"
+}

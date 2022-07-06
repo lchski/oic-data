@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2156</td><td>1990-09-27</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement which will amend the Lease (No.\n105273) held by PETRO-CANADA INC. with respect to its service station site\non the grounds of Halifax International Airport, originally authorized by\nOrder in Council P.C. 1977-17/2197 of July 28, 1977, by extending the term\nof the lease for a period of ten years and by revising the reddendum\nclause.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-2156",
+  "htmlHash": "16f426e434b67e2a51e9835b8daf1df5"
+}

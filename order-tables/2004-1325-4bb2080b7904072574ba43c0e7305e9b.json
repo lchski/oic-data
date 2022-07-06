@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1325</td><td>2004-11-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act<br>Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into an ADMINISTRATION AGREEMENT with the Government of the NORTHWEST TERRITORIES whereby the federal government will collect personal and corporate income taxes on behalf of the territory.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8525&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1325",
+  "htmlHash": "4bb2080b7904072574ba43c0e7305e9b"
+}

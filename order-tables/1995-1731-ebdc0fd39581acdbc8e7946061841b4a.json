@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1731</td><td>1995-10-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving new conditions for the repayment of eight loans made to\nthe PEOPLE'S DEMOCRATIC REPUBLIC OF ALGERIA between 1969 and 1976, and\n(b) authorizing Mr. John Robinson, Vice-President, Policy Branch, Canadian\nInternational Development Agency, or Ambassador Jacques Noiseux, to sign\nthe necessary amendments to the Loan Agreements.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1731",
+  "htmlHash": "ebdc0fd39581acdbc8e7946061841b4a"
+}

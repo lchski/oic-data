@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2045</td><td>1992-09-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Proclamation to issue directing that the opinion of electors be obtained\nby putting to the electors of the provinces of Ontario, Nova Scotia,\nNew Brunswick, Manitoba, British Columbia, Prince Edward Island,\nSaskatchewan, Alberta, Newfoundland, the Yukon Territory and the Northwest\nTerritories, at a referendum called on the question relating to the\nConstitution of Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0180  <strong>Publication Date:</strong> 1992-10-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2045",
+  "htmlHash": "729f7f8bec8ef02ddc92fd6513545608"
+}

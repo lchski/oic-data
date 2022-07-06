@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1123</td><td>1992-05-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; IT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the EXPORT DEVELOPMENT CORPORATION to enter into an AGREEMENT\nwith the REPUBLIC OF PERU which varies the repayment schedule applicable to\ncertain loans in accordance with the Agreed Minute on the Consolidation of\nthe Debt of the Republic of Peru signed in Paris on September 17, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1123",
+  "htmlHash": "b47377514c23f4a69382e702143fe126"
+}

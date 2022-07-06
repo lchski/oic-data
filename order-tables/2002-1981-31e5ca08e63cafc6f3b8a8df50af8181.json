@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1981</td><td>2002-11-21</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the NEKANEET BAND surrenders, for an indefinite term, all of its rights and interests in and to the oil and gas that may exist within, upon or under some 11,233 hectares of land within Nekaneet Cree Nation Indian Reserve in Saskatchewan, for the purpose of allowing the Crown to issue leases, etc., to third parties for oil and gas exploration and development.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=279&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-1981",
+  "htmlHash": "31e5ca08e63cafc6f3b8a8df50af8181"
+}

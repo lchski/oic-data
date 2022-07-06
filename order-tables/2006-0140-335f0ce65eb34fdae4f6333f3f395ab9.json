@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0140</td><td>2006-03-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act<br>Borrowing Authority Act, 1996-97</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to raise funds during the 2006-2007 fiscal year by way of the issue and sale of Government of Canada securities or other instruments, such as Treasury Bills and Treasury Notes.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14038&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0140",
+  "htmlHash": "335f0ce65eb34fdae4f6333f3f395ab9"
+}

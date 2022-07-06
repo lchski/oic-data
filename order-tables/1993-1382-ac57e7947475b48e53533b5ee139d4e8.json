@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1382</td><td>1993-06-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the UNEMPLOYMENT AND INSURANCE REGULATIONS permitting the\npayment of supplementary allowances to individuals who are referred to\ntraining under section 26 of the Act during their waiting period, to assist\nthem in paying some of the additional costs such as travel, dependant care,\netc. that they incur while on training, effective June 20, 1993.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0352  <strong>Publication Date:</strong> 1993-06-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1382",
+  "htmlHash": "ac57e7947475b48e53533b5ee139d4e8"
+}

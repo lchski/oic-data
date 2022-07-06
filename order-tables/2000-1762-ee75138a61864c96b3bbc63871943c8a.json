@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1762</td><td>2000-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER ADDING A TOXIC SUBSTANCE TO SCHEDULE 1 TO THE\nCANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 - which adds Bromochloromethane\nto the list of toxic substances set out in Schedule 1 to the Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0001  <strong>Publication Date:</strong> 2001-01-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-1762",
+  "htmlHash": "ee75138a61864c96b3bbc63871943c8a"
+}

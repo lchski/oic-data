@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0322</td><td>2007-03-05</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Board of Trustees of the Canadian Museum of Nature of JOANNE V. DiCOSIMO of Gatineau, Quebec, as Director of the Canadian Museum of Nature to hold office during pleasure for a term of five years, effective July 1, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15970&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0322",
+  "htmlHash": "5fa2e42df398715c9d3852668c1bc612"
+}

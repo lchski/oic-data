@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0594</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ACOA,&nbsp; PTB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to change the final deadline for project approval set out in the\nCONTRIBUTION AGREEMENTS ON INFRASTRUCTURE between the Government of Canada\nand each of the Atlantic Provinces (NEW BRUNSWICK, NEWFOUNDLAND, NOVA\nSCOTIA and PRINCE EDWARD ISLAND), from March 31, 1998 to October 31, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0594",
+  "htmlHash": "9d7e85a3593dbf1c811f0dd0de27715d"
+}

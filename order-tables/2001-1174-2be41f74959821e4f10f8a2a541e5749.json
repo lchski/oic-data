@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1174</td><td>2001-06-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LGHC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, JUNE 15, 2001, as the day upon which sections 13 and\n30 of this Act [BILL C-28], being chapter 20 of the Statutes of Canada,\n2001, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0082  <strong>Publication Date:</strong> 2001-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1174",
+  "htmlHash": "2be41f74959821e4f10f8a2a541e5749"
+}

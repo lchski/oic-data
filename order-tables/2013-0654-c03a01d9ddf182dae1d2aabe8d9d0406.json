@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0654</td><td>2013-06-06</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Municipal Police Service Agreements</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Public Safety and Emergency Preparedness, on behalf of the Government of Canada, enter into an arrangement with those municipalities in Nova Scotia, New Brunswick, Manitoba, Prince Edward Island, Saskatchewan and Alberta wishing to continue to receive policing services from the Royal Canadian Mounted Police.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27907&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0654",
+  "htmlHash": "c03a01d9ddf182dae1d2aabe8d9d0406"
+}

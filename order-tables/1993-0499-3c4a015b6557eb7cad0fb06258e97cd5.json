@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0499</td><td>1993-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; MCC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Lorna Van Mossel, of Kitchener, Ontario, as a citizenship\njudge to hold office during pleasure for a term effective March 11, 1993\nand ending April 30, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0499",
+  "htmlHash": "3c4a015b6557eb7cad0fb06258e97cd5"
+}

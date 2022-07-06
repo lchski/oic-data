@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1771</td><td>1994-10-25</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the NATIONAL PARKS BUSINESSES REGULATIONS introducing new\nprocedures to be followed by applicants when applying for a business\nlicence and by the superintendent of the park when determining the terms\nand conditions of each licence.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0666  <strong>Publication Date:</strong> 1994-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1771",
+  "htmlHash": "cad210caaf4374ce8718e69c457fd459"
+}

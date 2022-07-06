@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1056</td><td>2002-06-13</td><td>9</td><td>2001</td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, JUNE 21, 2002, as the day upon which section 27 of\nthe Canadian Payments Act and the heading before it, as enacted by\nsection 239 of the Financial Consumer Agency of Canada Act [BILL C-8],\nbeing chapter 9 of the Statutes of Canada, 2001, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0099  <strong>Publication Date:</strong> 2002-07-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1056",
+  "htmlHash": "48cdb715e6c2bef3d487c73babbc1ed4"
+}

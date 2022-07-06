@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1212</td><td>1991-06-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUPPLEMENTARY AGREEMENT with the PROVINCE OF\nBRITISH COLUMBIA which will revise the cost-sharing arrangements set out\nin the EXCHANGE OF SERVICES AGREEMENT pertaining to the confinement of\nprisoners at the Burnaby Correctional Centre for Women.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-1212",
+  "htmlHash": "452b5947e17099d145ce5992b6916ebb"
+}

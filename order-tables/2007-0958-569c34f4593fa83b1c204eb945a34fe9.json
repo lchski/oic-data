@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0958</td><td>2007-06-14</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Assisted Human Reproduction Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ASSISTED HUMAN REPRODUCTION (SECTION 8) REGULATIONS which deal with the issue of informed consent where it involves the donation and use of human reproductive materials and in vitro embryos.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0137  <strong>Publication Date:</strong> 2007-06-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16695&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0958",
+  "htmlHash": "569c34f4593fa83b1c204eb945a34fe9"
+}

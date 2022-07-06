@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1021</td><td>2006-09-21</td><td></td><td></td><td>CRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EDUARDO SESE INCOME TAX REMISSION ORDER - which remits income tax and interest paid or payable by Eduardo Sese for the years 1998 and 1999.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0118  <strong>Publication Date:</strong> 2006-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1021",
+  "htmlHash": "703958672a6ce8e0b3f36d598ae1421c"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2512</td><td>1992-12-03</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment, effective October 5, 1992, of Michel Latraverse, of\nMontreal, Quebec, as a full-time member of the Copyright Board to hold\noffice during good behaviour for a term of two years ending on October 4,\n1994, or, if the Board is dissolved, on the date of the dissolution,\nwhichever date is earlier.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2512",
+  "htmlHash": "33f5532fce16386e2be4b051eeda3312"
+}

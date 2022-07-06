@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0241</td><td>2000-02-24</td><td>0</td><td></td><td>,&nbsp; PTB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Submission of the SUPPLEMENTARY ESTIMATES (B) of sums required to meet the\nseveral charges and expenses of the Government of Canada over the course\nof the fiscal year ending on March 31, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0241",
+  "htmlHash": "0c9f284ec37dc7d02fef4e8507a1ed37"
+}

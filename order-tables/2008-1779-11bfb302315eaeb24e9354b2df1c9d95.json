@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1779</td><td>2008-11-27</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a REVOCATION OF SURRENDER and a DESIGNATION of reserve lands for leasing purposes of a portion of approximately 11.10 hectares of land on Switsemalph Indian Reserve No. 7 of the ADAMS LAKE INDIAN BAND, in British Columbia.\n(LT-08-29)</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19657&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1779",
+  "htmlHash": "11bfb302315eaeb24e9354b2df1c9d95"
+}

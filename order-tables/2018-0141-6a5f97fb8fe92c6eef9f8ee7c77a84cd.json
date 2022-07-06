@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0141</td><td>2018-02-12</td><td></td><td></td><td>VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Veterans Affairs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning to the Minister of Veterans Affairs responsibility for matters pertaining to the support of veterans with respect to the right of first refusal for Guard Services for federal departments and agencies.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35802&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0141",
+  "htmlHash": "6a5f97fb8fe92c6eef9f8ee7c77a84cd"
+}

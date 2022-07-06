@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0916</td><td>2003-06-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER AMENDING THE AREA CONTROL LIST which removes ANGOLA from the list of countries where it is deemed necessary to control the exportation of goods.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0223  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2861&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0916",
+  "htmlHash": "9d75c455b4e7abe8d361d043f8713ab6"
+}

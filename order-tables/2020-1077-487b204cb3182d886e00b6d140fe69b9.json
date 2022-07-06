@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-1077</td><td>2020-12-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; CRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Pierre Dallaire Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REMISSION ORDER of the income tax, and all relevant interest on it, paid or payable by PIERRE DALLAIRE for the 2015 taxation year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2020-0078  <strong>Publication Date:</strong> 2020-12-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40147&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-1077",
+  "htmlHash": "487b204cb3182d886e00b6d140fe69b9"
+}

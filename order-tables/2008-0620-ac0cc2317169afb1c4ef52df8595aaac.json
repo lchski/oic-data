@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0620</td><td>2008-04-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the VIA RAIL CANADA RAILWAY STATION to make alterations to its station in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18442&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0620",
+  "htmlHash": "ac0cc2317169afb1c4ef52df8595aaac"
+}

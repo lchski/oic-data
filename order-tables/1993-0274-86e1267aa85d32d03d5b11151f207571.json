@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0274</td><td>1993-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to the Congo undertaken by Mr. Maurice\nTremblay, M.P. (Lotbinière), and Mr. Réginald Bélair, M.P. (Cochrane-\nSuperior), from July 12 to July 22, 1992, as participants in a mission of\nCanadian observers to the presidential elections.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0274",
+  "htmlHash": "86e1267aa85d32d03d5b11151f207571"
+}

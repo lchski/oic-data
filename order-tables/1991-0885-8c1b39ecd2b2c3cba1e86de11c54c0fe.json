@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0885</td><td>1991-05-16</td><td>0</td><td></td><td>FIN,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Export Development Order respecting financing for the sale by CANADIAN\nMARCONI COMPANY to the Republic of INDONESIA of goods and services for the\nsupply and installation of telex and telefax switching equipment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0885",
+  "htmlHash": "8c1b39ecd2b2c3cba1e86de11c54c0fe"
+}

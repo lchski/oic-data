@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0883</td><td>2004-07-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order AUTHORIZING the PRESIDENT OF THE TREASURY BOARD to exercise some of the powers and perform some of the duties and functions of the Treasury Board over the period beginning on July 22, 2004 and ending on October 18, 2004, during intervals between meetings of the Board.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7529&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0883",
+  "htmlHash": "1bdf709405cf72442dac4d8c5ec36b3b"
+}

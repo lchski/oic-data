@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0446</td><td>1997-03-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 1995-325 which authorize the Canadian\nFood Inspection Agency, instead of the Minister of Agriculture and\nAgri-Food, to prescribe, BY ORDER, the fees or charges to be paid for a\nservice or the use of a facility provided by the Agency or for the\nissuance of a licence, permit or other authorization.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0038  <strong>Publication Date:</strong> 1997-04-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0446",
+  "htmlHash": "5a87ec8d8b6d3a10817675e4994ae4b4"
+}

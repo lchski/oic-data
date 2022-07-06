@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0371</td><td>1990-02-23</td><td>0</td><td></td><td>ISTC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Declaration that the Governor in Council is of the opinion that it is in\nthe national interest for the Minister of Industry, Science and\nTechnology to develop and implement programs and projects of special\nassistance to Indians, Métis, Inuit and non-status Indians of Canada, and\nto legal entities owned or controlled by any of them, to aid economic\ndevelopment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0371",
+  "htmlHash": "c56f41addff2b89ba568c117b91be307"
+}

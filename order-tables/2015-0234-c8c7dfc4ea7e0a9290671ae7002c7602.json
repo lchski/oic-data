@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0234</td><td>2015-02-26</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; APA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Atlantic Pilotage Tariff Regulations, 1996</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ATLANTIC PILOTAGE TARIFF REGULATIONS, 1996 in order to increase pilotage charges in certain compulsory pilotage areas.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2015-0054  <strong>Publication Date:</strong> 2015-03-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30559&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-0234",
+  "htmlHash": "c8c7dfc4ea7e0a9290671ae7002c7602"
+}

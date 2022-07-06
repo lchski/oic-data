@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0029</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CERTAIN IMPORTED GOODS GENERAL REMISSION ORDER NO. 3 which\nprovides for the remission of some or all of the customs duties, sales\ntax and excise taxes paid or payable on certain imported goods such as\nrolls of carpets and fences.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0090  <strong>Publication Date:</strong> 1997-01-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0029",
+  "htmlHash": "c92be7ad0e9a72e692f70ed48be42fdb"
+}

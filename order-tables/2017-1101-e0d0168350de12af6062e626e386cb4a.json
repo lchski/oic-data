@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1101</td><td>2017-08-17</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Simone Dureault ** ANNUITY ** The Hon. Armand Dureault **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an ANNUITY to SIMONE DUREAULT, survivor of the Hon. Armand Dureault , a Judge of Her Majesty's Court of Queen's Bench for Manitoba, effective April 17, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35008&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1101",
+  "htmlHash": "e0d0168350de12af6062e626e386cb4a"
+}

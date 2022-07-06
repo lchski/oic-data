@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0830</td><td>2008-05-01</td><td>9</td><td>2006</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGSC</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Accountability Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chapter 9 of the Statutes of Canada, 2006\nFed Accountability Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MAY 5, 2008 as the day on which sections 306 and 307 of the Federal Accountability Act, being chapter 9 of the Statutes of Canada, 2006, COME INTO FORCE.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0052  <strong>Publication Date:</strong> 2008-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18671&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0830",
+  "htmlHash": "845957bd991bef5dc3430fd9fda3d360"
+}

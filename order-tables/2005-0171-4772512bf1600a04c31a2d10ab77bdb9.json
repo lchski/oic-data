@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0171</td><td>2005-02-10</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of JOCELYNE PELCHAT of Sutton, Quebec, as a director of the Board of Directors of the Bank of Canada to hold office, during good behaviour, for a term ending February 28, 2007, in the place of Paul Massicotte, who has resigned.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9501&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0171",
+  "htmlHash": "4772512bf1600a04c31a2d10ab77bdb9"
+}

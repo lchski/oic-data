@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0210</td><td>1998-02-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of J. PAUL LORDON, of Fredericton, New Brunswick, as Chairman\nof the Canada Labour Relations Board to hold office during good\nbehaviour for a term of five years or, if the Board is dissolved before\nthe expiry of this term, upon dissolution of the Board; and order that he\nbe deemed to be employed in the Public Service for the purposes of the\nPublic Service Superannuation Act, effective March 16, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0210",
+  "htmlHash": "78fb2eca5bda20bbde80bb427bf7a20b"
+}

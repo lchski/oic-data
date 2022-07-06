@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0057</td><td>2019-01-31</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of BRUCE P. MANION of Fall River, Nova Scotia, to be Vice-Chairperson of the Board of Trustees of the Canadian Museum of Immigration at Pier 21, to hold office during pleasure for a term of four years, in the place of Troy Myers, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37376&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0057",
+  "htmlHash": "94471f6059c23ba35f9f0788c816ad58"
+}

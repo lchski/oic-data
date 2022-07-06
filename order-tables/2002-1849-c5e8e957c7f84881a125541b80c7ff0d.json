@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1849</td><td>2002-10-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of KIM H. POLOWEK of Port Moody, British Columbia, JOHN M. ORR of Victoria, British Columbia, JOHN ANGUS RICHARDSON of White Rock, British Columbia, and ROBERT J. STEWART of Burnaby, British Columbia, to be part-time members of the National Parole Board, Pacific Regional Division, to hold office during good behaviour for a period of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1849",
+  "htmlHash": "c5e8e957c7f84881a125541b80c7ff0d"
+}

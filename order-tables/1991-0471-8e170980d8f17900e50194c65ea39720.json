@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0471</td><td>1991-03-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Secretary of State for External Affairs or Derek H.\nBurney to sign an Agreement with the UNITED STATES, in the form of an\nExchange of Notes, amending the AGREEMENT CONCERNING THE APPLICATION OF\nTOLLS ON THE ST. LAWRENCE SEAWAY of March 9, 1959.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0471",
+  "htmlHash": "8e170980d8f17900e50194c65ea39720"
+}

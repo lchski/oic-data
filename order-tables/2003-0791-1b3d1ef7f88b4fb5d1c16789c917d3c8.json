@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0791</td><td>2003-05-29</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada-Newfoundland Atlantic Accord Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NEWFOUNDLAND AND LABRADOR OFFSHORE AREA LINE REGULATIONS which prescribe the geographic limits of portions of the Newfoundland and Labrador offshore area adjacent to that of the Province of Nova Scotia.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0192  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2606&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0791",
+  "htmlHash": "1b3d1ef7f88b4fb5d1c16789c917d3c8"
+}

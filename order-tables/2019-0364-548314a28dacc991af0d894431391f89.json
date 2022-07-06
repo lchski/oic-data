@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0364</td><td>2019-04-15</td><td></td><td></td><td>NRCAN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DAMIEN CÔTÉ of Montréal, Quebec, as a temporary member of the National Energy Board, for a term ending on January 1, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37685&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0364",
+  "htmlHash": "548314a28dacc991af0d894431391f89"
+}

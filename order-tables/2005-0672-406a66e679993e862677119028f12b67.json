@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0672</td><td>2005-04-27</td><td></td><td></td><td>,&nbsp; LGHC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BERNARD LAUZON of Pointe-aux-Trembles, Quebec, to be the Returning Officer for the electoral district of La Pointe-de-l'Île, as established in the Representation Order proclaimed on August 25, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=10518&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0672",
+  "htmlHash": "406a66e679993e862677119028f12b67"
+}

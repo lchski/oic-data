@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0800</td><td>2002-05-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to extend the duration of a CONTRACT between the Crown and PMG\nTECHNOLOGIES INC. concerning the loan of certain Crown property used in\nconnection with the operation and maintenance of the MOTOR VEHICLE TEST\nCENTRE at Blainville, Quebec, for a period of four years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0800",
+  "htmlHash": "136503a4d26a4a4fd6b9df64623a5e52"
+}

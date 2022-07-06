@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1135</td><td>2018-09-07</td><td></td><td></td><td>FIN,&nbsp; GAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RICK D. STEWART of Ottawa, Ontario to be Alternate Governor of the Inter-American Development Bank, the Asian Development Bank, the Caribbean Development Bank and the African Development Bank, to hold office during pleasure, in the place of Rob Stewart.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36814&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-1135",
+  "htmlHash": "b9ed9224ed2e496e61ff9519f3f12215"
+}

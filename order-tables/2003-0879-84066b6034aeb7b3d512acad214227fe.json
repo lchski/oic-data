@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0879</td><td>2003-06-05</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER EXTENDING THE TIME FOR THE ASSESSMENT OF THE STATUS OF WILDLIFE SPECIES - which extends the period of time provided for the assessment of the status of certain wildlife species for three years from the day on which section 14 of the Species of Risk Act comes into force.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0215  <strong>Publication Date:</strong> 2003-06-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2720&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0879",
+  "htmlHash": "84066b6034aeb7b3d512acad214227fe"
+}

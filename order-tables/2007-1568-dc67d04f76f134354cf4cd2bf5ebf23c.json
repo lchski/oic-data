@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1568</td><td>2007-10-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of RAYMOND CHABOT GRANT THORNTON of Ottawa, Ontario, to be the auditor for the Canadian Broiler Hatching Egg Marketing Agency, to audit its accounts and financial transactions for the financial periods ending on December 31, 2007 through to December 31, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17281&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1568",
+  "htmlHash": "dc67d04f76f134354cf4cd2bf5ebf23c"
+}

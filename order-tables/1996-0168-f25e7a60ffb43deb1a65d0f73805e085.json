@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0168</td><td>1996-02-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister (a) to sign an AGREEMENT ON AUDIO-VISUAL\nCO-PRODUCTION between Canada and the GRAND DUCHY OF LUXEMBOURG, OR (b) to\nissue an Instrument of Full Powers authorizing either Ambassador Jean-Paul\nHubert or Georges Béchard, Minister-Counsellor, to sign the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0168",
+  "htmlHash": "f25e7a60ffb43deb1a65d0f73805e085"
+}

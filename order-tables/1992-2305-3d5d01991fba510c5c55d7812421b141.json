@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2305</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order revoking Order in Council P.C. 1984-3967 which authorized the\nOSHAWA HARBOUR COMMISSION, on behalf of the Crown, to administer and\ndevelop two pieces of land (marshlands) located in Oshawa, Ontario, and\nauthorizing the Commission to administer and develop only one of the\noriginal pieces of land which contains an area of some 2.87 acres.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2305",
+  "htmlHash": "3d5d01991fba510c5c55d7812421b141"
+}

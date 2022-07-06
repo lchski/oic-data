@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1585</td><td>2000-10-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; VAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of A. LINDA JULIEN, of Montreal, Quebec, as a permanent member\nof the Veterans Review and Appeal Board to hold office during good\nbehaviour for a term of five years, effective November 20, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-1585",
+  "htmlHash": "b582d5aada5ec8d65c7e716d1fc4e5a9"
+}

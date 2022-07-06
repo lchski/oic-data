@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2538</td><td>1992-12-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the CANADA BUSINESS CORPORATIONS REGULATIONS updating\nForms 1 to 22 and 27, making them more useful and effective for the\nCorporations Branch and facilitating their use by providing additional and\naccurate instructions on how to complete them.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0728  <strong>Publication Date:</strong> 1992-12-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2538",
+  "htmlHash": "57696ba823fabc07318acb2d6e162411"
+}

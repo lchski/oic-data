@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0920</td><td>2020-11-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSPC,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order approving the acquisition of real properties by the National Capital Commission from the City of Ottawa</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ACQUISITION by the National Capital Commission from the City of Ottawa of the following real properties located at: (1) 4057 Richmond Road; (2) 2365 Robertson Road; (3) 670 Cedarview Road; and (4) 5022 Old Richmond Road, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39926&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0920",
+  "htmlHash": "4ada0185420432cc74b04f34759e6a81"
+}

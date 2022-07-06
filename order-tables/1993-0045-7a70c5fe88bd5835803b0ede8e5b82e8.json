@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0045</td><td>1993-01-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HWC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Beverley More, of Brandon, Manitoba, as a member of the\nReview Tribunal for the region of Brandon for a term of three years.\n(Medical)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0045",
+  "htmlHash": "7a70c5fe88bd5835803b0ede8e5b82e8"
+}

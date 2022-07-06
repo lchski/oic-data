@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0015</td><td>2013-01-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CH</td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Subject</td><td colspan=\"5\">Administrator of the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to serve as ADMINISTRATOR of the Government of ONTARIO (1) the Hon. HEATHER J. SMITH from January 30 to February 1, 2013, inclusive; (2) the Hon. ROBERT SHARPE from February 7 to 10, 2013, inclusive; (3) the Hon. HEATHER J. SMITH from February 18 to 22, 2013, inclusive; from March 14 to 15, 2013, inclusive; and from March 25 to 28, 2013, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27236&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0015",
+  "htmlHash": "5989e303a0f4f67fae65a388895789fc"
+}

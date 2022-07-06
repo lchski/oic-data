@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0955</td><td>2011-09-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AANDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Kitsilano Indian Reserve No. 6  ** DESIGNATION **\nFor leasing purposes  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a DESIGNATION for leasing purposes of approximately 3.51 hectares (8.673 acres) of reserve land on KITSILANO INDIAN RESERVE No. 6, in British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24633&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0955",
+  "htmlHash": "9d352a9d6ee1314011192c1204e5b5f1"
+}

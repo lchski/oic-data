@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0569</td><td>1992-03-26</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1991-2502, which authorized for the\nborrowing by the issue and sale of Treasury bills or Treasury notes for\nthe payment of Treasury bills or other securities in the JANUARY 1, 1992\nto MARCH 31, 1992 period, INCREASING THE AMOUNT AUTHORIZED TO BE BORROWED.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0569",
+  "htmlHash": "f19713d4247b7c27ba5b4113a2a92707"
+}

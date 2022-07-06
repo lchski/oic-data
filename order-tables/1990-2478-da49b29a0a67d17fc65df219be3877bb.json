@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2478</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HON. ANDRE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the POSTAGE METER REGULATIONS by substituting the term\n\"addressed admail\" for \"direct mail advertising\" to reflect the change in\nproduct name.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0796  <strong>Publication Date:</strong> 1990-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-2478",
+  "htmlHash": "da49b29a0a67d17fc65df219be3877bb"
+}

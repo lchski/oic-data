@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1487</td><td>2008-08-01</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Materials Information  Review Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BRUCE ALEXANDER GRANEY of Yellowknife, Northwest Territories, to be governor representing the Government of the Northwest Territories at the Council of the Hazardous Materials Information Review Commission to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19337&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1487",
+  "htmlHash": "fe8bb4a092e52ad0466469b08cfa1fa5"
+}

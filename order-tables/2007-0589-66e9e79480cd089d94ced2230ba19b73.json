@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0589</td><td>2007-04-24</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 3, 2006-2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ARIF LALANI as Ambassador Extraordinary and Plenipotentiary of Canada to Afghanistan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16257&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0589",
+  "htmlHash": "66e9e79480cd089d94ced2230ba19b73"
+}

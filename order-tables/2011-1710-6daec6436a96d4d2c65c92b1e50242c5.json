@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1710</td><td>2011-12-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">AMBER DURUM WHEAT - 2010-2011 **Fixing Final Payment amount **  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the amount determined by THE CANADIAN WHEAT BOARD for each tonne of each grade of AMBER DURUM WHEAT to be distributed by THE CANADIAN WHEAT BOARD to the producers for the pool period that began on August 1, 2010 and ended on July 31, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25394&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1710",
+  "htmlHash": "6daec6436a96d4d2c65c92b1e50242c5"
+}

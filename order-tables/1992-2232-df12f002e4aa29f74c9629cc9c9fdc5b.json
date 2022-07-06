@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2232</td><td>1992-10-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EMR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the variation made to four Licences (EL-100, EL-101, EL-102\nand EL-103) issued to THE MANITOBA HYDRO-ELECTRIC BOARD by the National\nEnergy Board for the exportation of electricity to the United States, so\nthat the licensee can continue to export electricity under those licences\nfor a further period of six months.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2232",
+  "htmlHash": "df12f002e4aa29f74c9629cc9c9fdc5b"
+}

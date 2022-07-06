@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0014</td><td>1992-01-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Marcel Rainville, of Notre-Dame de Ville Perrot, Quebec,\nas a member of the select panel provided for in Article 1004 of the Free\nTrade Agreement between Canada and the United States for a term ending\nFebruary 1, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0014",
+  "htmlHash": "da12afe04894cc868847b70139d6e0e8"
+}

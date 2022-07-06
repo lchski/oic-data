@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0669</td><td>1994-04-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to UKRAINE made by the following\nParliamentarians, from March 21st to March 31st, 1994, as part of the\nCanadian delegation of observers of the democratic elections.\n.\n  1. André Caron             4. John Loney\n  2. Jesse P. Flis, M.P.     5. Carolyn Parrish\n  3. Walter Lastewka         6. Senator/Le Sénateur Marcel Prud'homme\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0669",
+  "htmlHash": "7bf24fa6f6ecccb93139bd652078feb7"
+}

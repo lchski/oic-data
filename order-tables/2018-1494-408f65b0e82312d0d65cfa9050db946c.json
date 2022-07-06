@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1494</td><td>2018-11-29</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of the firm of accountants KPMG LLP</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of accountants KPMG LLP, of Ottawa, Ontario to audit the affairs and to perform the annual audits of the Bank of Canada for the five fiscal years commencing on January 1, 2019 and terminating on December 31, 2023.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37173&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-1494",
+  "htmlHash": "408f65b0e82312d0d65cfa9050db946c"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2101</td><td>1994-12-14</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order denying the petition of Mr. W.H. Brown, a Simcoe County Engineer, to\nvary Order No. 1992-R-390 of the NATIONAL TRANSPORTATION AGENCY, which\nauthorized Canadian Pacific Limited to abandon operations on the\nPort McNicoll Subdivision between Uhtoff and Medonte, in Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-2101",
+  "htmlHash": "13a3caa2df6c358056c79d2f070b290c"
+}

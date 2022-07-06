@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1480</td><td>2012-11-02</td><td></td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of PHYLLIS CLARK of Edmonton, Alberta, to be a director of the Bank of Canada to hold office during good behaviour for a term ending February 28, 2015, in the place of Bonnie DuPont.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26926&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1480",
+  "htmlHash": "5d199ebf4999ce03c4f3ffd68a5a5bad"
+}

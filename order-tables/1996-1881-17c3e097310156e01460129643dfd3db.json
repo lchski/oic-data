@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1881</td><td>1996-12-05</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL ENGERY BOARD to enter into COLLECTIVE AGREEMENTS\nwith (1) the PUBLIC SERVICE ALLIANCE OF CANADA, and (2) the PROFESSIONAL\nINSTITUTE OF THE PUBLIC SERVICE OF CANADA, covering employees in both the\nprofessional and non-professional bargaining units.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-1881",
+  "htmlHash": "17c3e097310156e01460129643dfd3db"
+}

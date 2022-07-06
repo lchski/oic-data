@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0984</td><td>1991-05-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">B &amp; G MARKETING SERVICES OF CANADA LTD. REMISSION ORDER NO. 2 - which\nprovides for the remission of sales tax on that portion of the customs\nduties remitted on powered ice augers pursuant to the B &amp; G Marketing\nServices of Canada Ltd. Remission Order made on October 26, 1989.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0083  <strong>Publication Date:</strong> 1991-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0984",
+  "htmlHash": "04a35d5344633c07eb2764b38d216038"
+}

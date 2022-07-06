@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0573</td><td>2006-06-23</td><td></td><td></td><td>,&nbsp; CBSA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMPORTED GOODS RECORDS REGULATIONS by making it necessary for importers enrolled in the CSA program to keep records relating to the completion of the Revenue Summary Form and to the payment of duties required under other Customs Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0153  <strong>Publication Date:</strong> 2006-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14482&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0573",
+  "htmlHash": "e99cf19d55c46f4d8eb001bbe6cb465d"
+}

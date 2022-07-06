@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0514</td><td>2013-04-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STEPHEN E. FIRESTONE, of the City of Toronto in the Province of Ontario, to be a Judge of the Superior Court of Justice in and for the Pronvince of Ontario, and a Judge ex officio of the Court of Appeal for Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27742&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0514",
+  "htmlHash": "7a412e90fe631558e3c1ee7502eda70e"
+}

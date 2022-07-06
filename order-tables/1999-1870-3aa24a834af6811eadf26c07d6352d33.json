@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1870</td><td>1999-10-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending SCHEDULE A to the FOOD AND DRUGS ACT (1116 - LIVER\nDISEASE) by replacing the reference to \"Liver Disease\" on the list of\ndisease conditions in that schedule with \"Liver Disease (except Hepatitis)\"\nin order to allow for the advertisement and promotion of hepatitis vaccines\nto the general public.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0414  <strong>Publication Date:</strong> 1999-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1870",
+  "htmlHash": "3aa24a834af6811eadf26c07d6352d33"
+}

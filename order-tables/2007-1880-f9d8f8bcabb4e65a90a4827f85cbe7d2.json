@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1880</td><td>2007-12-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; TC</td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the relinquishement to the Minister of Transport, made by the Commissioner of Yukon, for the administration and control of two parcels of land located near the Communities of  WATSON LAKE and BURWASH in Yukon.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17651&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1880",
+  "htmlHash": "f9d8f8bcabb4e65a90a4827f85cbe7d2"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1006</td><td>2002-06-11</td><td>0</td><td></td><td>ACOA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of State (Atlantic Canada\nOpportunities Agency) of BETTY ANN AUCOIN, of Grant Étang, Nova Scotia,\nas a director of the Board of Directors of the Enterprise Cape Breton\nCorporation to hold office for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1006",
+  "htmlHash": "e0f6f621c92eec7ae46eddbe6270aa88"
+}

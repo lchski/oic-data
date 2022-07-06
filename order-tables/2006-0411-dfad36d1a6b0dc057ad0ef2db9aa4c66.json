@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0411</td><td>2006-05-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; PWGS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) providing for an exchange of EASEMENTS between the Commissioner of the Northwest Territories and the Department of Public Works and Government Services, affecting the laneway between the Post Office Building on Mackenzie Road in the Town of Inuvik, and buildings owned by the N.W.T.; and (b) repealing Order in Council P.C. 2005-1189.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14308&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0411",
+  "htmlHash": "dfad36d1a6b0dc057ad0ef2db9aa4c66"
+}

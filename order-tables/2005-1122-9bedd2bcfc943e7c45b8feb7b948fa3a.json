@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1122</td><td>2005-06-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CBSA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REPORTING OF IMPORTED GOODS REGULATIONS by requiring advance electronic transmission of cargo and conveyance data for imports, in-transit shipments and freight remaining on board.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0175  <strong>Publication Date:</strong> 2005-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11576&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1122",
+  "htmlHash": "9bedd2bcfc943e7c45b8feb7b948fa3a"
+}

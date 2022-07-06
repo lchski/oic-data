@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0110</td><td>2003-01-30</td><td></td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTIONS within the OFFICER RANKS of the Royal Canadian Mounted Police.\n\nTo the rank of ASSISTANT COMMISSIONER:\n\n- Chief Sup. M.C.L.B.G. CLÉMENT\n- Chief Sup. D.J. LAFOSSE\n\nTo the rank of CHIEF SUPERINTENDENT:\n\n- Inspector S.M.M.M. CONLIN\n- Superintendent K.M. MOLE\n- Superintendent W. WATSON\n\nTo the rank of SUPERINTENDENT:\n\n- Inspector W.B. ADAMS\n- Inspector K.A. BENNINGTON\n- Inspector R.D. BETKER</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1134&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0110",
+  "htmlHash": "8e47b2da66996135cc2f254466c3a617"
+}

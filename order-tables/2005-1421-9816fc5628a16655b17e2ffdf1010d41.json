@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1421</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of JEAN-CLAUDE CYR of Montréal, Quebec, as a trustee of the Board of Trustees of the Canadian Museum of Civilization to hold office during pleasure for a term of three years, in the place of Thérèse Spénard-Pilon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12065&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1421",
+  "htmlHash": "9816fc5628a16655b17e2ffdf1010d41"
+}

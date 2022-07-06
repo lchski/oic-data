@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1597</td><td>1992-07-16</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the designation of lots 1, 2, 3, 4, 5, 6, 14, 15, 24, 31,\n32, 33, 34 and 37 (74.82 ha) and refusal of the designation of lot 23\nfrom the SUMAS BAND OF INDIANS of a portion of UPPER SUMAS INDIAN RESERVE\nNO. 5, in the Province of British Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1597",
+  "htmlHash": "4c953b91e3d0924321712e493eb0ed0b"
+}

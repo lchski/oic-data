@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0397</td><td>2007-03-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument wherein the KWANTLEN FIRST NATION amends a 1982 Designation (for leasing purposes) affecting the whole of Langley Indian Reserve No. 5 in British Columbia, to the extent of excluding Parcel C, now used for the Lougheed Highway, from the area subject to the Surrender .</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0397",
+  "htmlHash": "0ab3a9b80ea20d6fd698335c6030378b"
+}

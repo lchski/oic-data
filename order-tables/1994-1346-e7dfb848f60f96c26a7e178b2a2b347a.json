@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1346</td><td>1994-08-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">The MINISTER OF COMMUNICATIONS (NATIONAL ARCHIVES OF CANADA) AUTHORITY TO\nPRESCRIBE FEES ORDER - which authorizes the Minister to prescribe, BY\nORDER, the fees to be paid by users of a service or facility provided by\nthe National Archives of Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0106  <strong>Publication Date:</strong> 1994-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1346",
+  "htmlHash": "e7dfb848f60f96c26a7e178b2a2b347a"
+}

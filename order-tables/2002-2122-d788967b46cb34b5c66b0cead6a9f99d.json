@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2122</td><td>2002-12-10</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cultural Property Export and Import Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of STEPHEN B. SMART of Toronto, Ontario, to be a member of the Canadian Cultural Property Export Review Board for a term of one year, effective December 20, 2002.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=739&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2122",
+  "htmlHash": "d788967b46cb34b5c66b0cead6a9f99d"
+}

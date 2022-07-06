@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0482</td><td>2006-06-06</td><td>28</td><td>2002</td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pest Control Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing JUNE 28, 2006 as the day on which the new Pest Control Products Act [Bill C-8], being chapter 28 of the Statutes of Canada, 2002, COMES INTO FORCE.\nROYAL ASSENT:  December 12, 2002</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0093  <strong>Publication Date:</strong> 2006-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14427&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0482",
+  "htmlHash": "318b5f60a482cd979c3763b453b6cddd"
+}

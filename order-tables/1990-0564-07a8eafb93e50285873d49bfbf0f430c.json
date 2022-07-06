@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0564</td><td>1990-03-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of QUEBEC, of the transfer of the use of\nfour parcels of land (242.0 m²) of the cadastre of the Township of\nLatour, the Township of De Monts, the Townhip of Mingan, in the Province\nof Quebec and four rights of non-obstruction (8,137.2 m²), for use as\nsites for aids to marine navigation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0564",
+  "htmlHash": "07a8eafb93e50285873d49bfbf0f430c"
+}

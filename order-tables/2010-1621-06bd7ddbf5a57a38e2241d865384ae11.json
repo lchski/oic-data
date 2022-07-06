@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1621</td><td>2010-12-14</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing of the remuneration payable to MARY CATHERINE LINDBERG for the period she is acting Chairperson of the Patented Medicine Prices Review Board, effective May 20, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23620&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1621",
+  "htmlHash": "06bd7ddbf5a57a38e2241d865384ae11"
+}

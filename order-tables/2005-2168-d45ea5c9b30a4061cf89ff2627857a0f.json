@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2168</td><td>2005-11-22</td><td></td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the assignment of ROBERT NÉRON of Toronto, Ontario, a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to the Montréal Regional Office of the Immigration and Refugee Board.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13239&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-2168",
+  "htmlHash": "d45ea5c9b30a4061cf89ff2627857a0f"
+}

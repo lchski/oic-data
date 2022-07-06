@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1462</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; CIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ERWIN NEST of Vancouver, British Columbia, to be a full-time member of the Immigration and Refugee Bord (Vancouver Regional Office), to hold office during good behaviour for a term of three years, effective September 1, 2005</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12036&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1462",
+  "htmlHash": "e8dea6df320cc24400a1b48473e9566d"
+}

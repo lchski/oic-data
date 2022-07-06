@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1313</td><td>2002-08-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, from the OFFICE OF INFRASTRUCTURE AND CROWN CORPORATIONS to the\nDEPARTMENT OF INDUSTRY of the control and supervision of INFRASTRUCTURE\nINVESTMENTS, to be known as the OFFICE OF INFRASTRUCTURE OF CANADA.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0108  <strong>Publication Date:</strong> 2002-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1313",
+  "htmlHash": "8b38b371452722ad68643bf43ff39d7e"
+}

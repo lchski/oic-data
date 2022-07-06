@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1042</td><td>1997-07-25</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of Regulations Amending CERTAIN DEPARTMENT OF TRANSPORT\nREGULATIONS (MISCELLANEOUS PROGRAM), NO. 1, namely:\n.\n  1. General Pilotage Regulations\n  2. Crew Accommodation Regulations\n  3. Dangerous Goods Shipping Regulations\n  4. Dangerous Bulk Materials Regulations\n  5. Ships Registration Forms Regulations\n  6. Fort Resolution Airport Zoning Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0386  <strong>Publication Date:</strong> 1997-08-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1042",
+  "htmlHash": "f1a37a394cdd9fbc546a9c19c845d1a4"
+}

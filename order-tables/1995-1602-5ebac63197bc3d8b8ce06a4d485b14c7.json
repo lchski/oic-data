@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1602</td><td>1995-09-19</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1992-1950 permitting (a) the sale and\ntransfer by The Corporation of the City of Toronto of Part 42, Plan 64R-\n13323, without the public purpose restriction, and (b) the sale and\ntransfer by The Toronto Harbour Commissioners of Parts 7 and 9,\nPlan 64R-14473, to either MARATHON REALTY COMPANY LIMITED, SOUTHTOWN INC.\nor The Corporation of the City of TORONTO.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1602",
+  "htmlHash": "5ebac63197bc3d8b8ce06a4d485b14c7"
+}

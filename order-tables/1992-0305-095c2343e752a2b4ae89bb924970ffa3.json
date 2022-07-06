@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0305</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a \"UMBRELLA AGREEMENT\" with the Province of BRITISH\nCOLUMBIA and the NUWITTI BAND OF INDIANS (also known as the Tlatlasikwala\nBand) which is designed to resolve both specific land claims and a claim\npertaining to lands cut-off in 1924 from HOPE ISLAND INDIAN RESERVE No. 1,\nsome of which is presently occupied by the Department of Transport.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0305",
+  "htmlHash": "095c2343e752a2b4ae89bb924970ffa3"
+}

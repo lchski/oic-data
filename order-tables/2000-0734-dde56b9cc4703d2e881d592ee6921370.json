@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0734</td><td>2000-05-18</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the COMPETITION TRIBUNAL RULES by harmonizing them with\nthe amendments contained in Bill C-20 (An Act to amend the Competition Act\nand to make consequential and related amendments to other Acts) and by\nintroducing new rules respecting Decisions and Orders concerning deceptive\nmarketing practices.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0198  <strong>Publication Date:</strong> 2000-06-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0734",
+  "htmlHash": "dde56b9cc4703d2e881d592ee6921370"
+}

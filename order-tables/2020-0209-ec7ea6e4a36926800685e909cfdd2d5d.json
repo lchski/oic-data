@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0209</td><td>2020-04-01</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Security and Intelligence Review Agency Act<br>Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE IAN CARL HOLLOWAY, P.C., Q.C., of Calgary, Alberta, to be a member of the National Security and Intelligence Review Agency, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39056&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0209",
+  "htmlHash": "ec7ea6e4a36926800685e909cfdd2d5d"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1965</td><td>2005-11-15</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of NON-COMMISSIONED OFFICERS to the rank of INSPECTOR.\n\n - Sergeant F.G. GALLAGHER\n - Corporal P.S. KENNEDY\n - Sergeant M.W. LEIGHTON\n - Sergeant D.L. OLDFORD\n - Staff Sergeant M.D. O'RIELLY\n - Sergeant T. ROOK\n - Staff Sergeant J.L.D.M. SAURETTE\n - Sergeant D.J. TRICKETT</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13378&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1965",
+  "htmlHash": "a2872409187d4544db73591c57909dde"
+}

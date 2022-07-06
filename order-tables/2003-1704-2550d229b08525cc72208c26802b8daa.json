@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1704</td><td>2003-10-30</td><td></td><td></td><td>,&nbsp; LGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal Orders in Council P.C. 2003-1311, P.C. 2003-1313, P.C. 2003-1315 and P.C. 2003-1317 of September 15, 2003 and P.C. 2003-1433 of September 25, 2003, which purported to appoint, pursuant to subsection 24(1) of the Canada Elections Act, returning officers for electoral districts specified in those Orders.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4547&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1704",
+  "htmlHash": "2550d229b08525cc72208c26802b8daa"
+}

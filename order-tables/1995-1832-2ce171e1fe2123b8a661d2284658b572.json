@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1832</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting to the SAKIMAY BAND of the right to exercise control and\nmanagement over lands set apart for their use and benefit, namely SAKIMAY\nIndian Reserve No. 74, SHESHEEP Indian Reserve No. 74A, MINOAHCHAK Indian\nReserve No. 74B and LITTLE BONE Indian Reserve No. 74C, in Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1832",
+  "htmlHash": "2ce171e1fe2123b8a661d2284658b572"
+}

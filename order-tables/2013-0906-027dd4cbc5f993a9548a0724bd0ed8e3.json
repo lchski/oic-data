@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0906</td><td>2013-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ACOA</td></tr><tr><td>Act</td><td colspan=\"5\">Enterprise Cape Breton  Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Board of Directors of the Corporation of MARLENE USHER of Sydney, Nova Scotia, as Acting Chief Executive Officer of the Enterprise Cape Breton Corporation for a period exceeding sixty days.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28162&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0906",
+  "htmlHash": "027dd4cbc5f993a9548a0724bd0ed8e3"
+}

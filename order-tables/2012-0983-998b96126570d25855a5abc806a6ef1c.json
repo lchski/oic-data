@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0983</td><td>2012-07-09</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CHARLES S. PINGLE of Windsor, Ontario, as a director of the Windsor Port Authority, to hold office for a term commencing on July 7, 2012 and ending on July 6, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0983",
+  "htmlHash": "998b96126570d25855a5abc806a6ef1c"
+}

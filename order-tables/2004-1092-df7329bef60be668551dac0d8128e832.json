@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1092</td><td>2004-09-30</td><td></td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Plant Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the POTATO WART COMPENSATION REGULATIONS, 2003 which establish a  program to compensate growers in Prince Edward Island following the discovery of the potato wart disease in 2002, and for any future outbreaks that may occur there or elsewhere in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0211  <strong>Publication Date:</strong> 2004-10-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8095&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1092",
+  "htmlHash": "df7329bef60be668551dac0d8128e832"
+}

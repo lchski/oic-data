@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0517</td><td>2021-06-10</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Board of Trustees of the Canadian Museum of Immigration at Pier 21 of MARIE CHAPMAN of Bedford, Nova Scotia, as Director of the Canadian Museum of Immigration at Pier 21, to hold office during pleasure for a term of four years, effective October 20, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40806&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0517",
+  "htmlHash": "9271c6206e075819bd84b4dc091abc25"
+}

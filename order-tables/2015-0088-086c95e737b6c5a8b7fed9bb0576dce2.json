@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0088</td><td>2015-02-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; DFATD</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 4, 2014-15</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT FRY as Ambassador Extraordinary and Plenipotentiary of Canada to the Argentine Republic.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30411&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-0088",
+  "htmlHash": "086c95e737b6c5a8b7fed9bb0576dce2"
+}

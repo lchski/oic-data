@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1999</td><td>1999-11-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; FIN,&nbsp; INT'L TRADE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING THE REMISSION OF CERTAIN INTEREST PAYMENTS\nOWED ON CANADA ACCOUNT LOANS AS A RESULT OF DEBT FORGIVENESS AGREED TO BY\nMEMBERS OF THE PARIS CLUB, INCLUDING CANADA - which provides for the\nremission of certain interest payments owed by the Congo, Madagascar,\nRwanda, Tanzania and Zambia.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0133  <strong>Publication Date:</strong> 1999-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1999",
+  "htmlHash": "8366e1cf860d01a08c0c80e92d39f713"
+}

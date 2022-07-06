@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1088</td><td>2017-08-15</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Agricultural Products Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GENEVIÈVE PARENT of Québec, Quebec, to be a part-time member of the Canada Agricultural Review Tribunal, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34995&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1088",
+  "htmlHash": "d252c7d7371fdde95f0cac8a28760288"
+}

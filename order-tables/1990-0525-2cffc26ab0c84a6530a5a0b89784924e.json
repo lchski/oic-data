@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0525</td><td>1990-03-15</td><td>0</td><td></td><td>,&nbsp; CPORTSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the CANADA PORTS CORPORATION to generally do such things and\nexercise such powers as it deems necessary for the efficient\nadministration, management and control of the harbours, works and other\nproperties under its jurisdiction, as provided for in its 1990 Budget.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0525",
+  "htmlHash": "2cffc26ab0c84a6530a5a0b89784924e"
+}

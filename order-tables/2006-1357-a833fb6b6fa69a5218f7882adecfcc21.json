@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1357</td><td>2006-11-22</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LOUIS-PAUL CULLEN of Montréal, Quebec, to be a Puisne Judge of the Superior Court for the District of Montreal, in the Province of Quebec, with residence in the City of Montréal or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15324&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1357",
+  "htmlHash": "a833fb6b6fa69a5218f7882adecfcc21"
+}

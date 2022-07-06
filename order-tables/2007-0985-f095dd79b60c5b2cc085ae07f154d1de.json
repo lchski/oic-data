@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0985</td><td>2007-06-14</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE ST-LÉONARD D'ASTON in Quebec (a) to change its name to that of CHAMBRE DE COMMERCE ET D'INDUSTRIE RÉGIONALE DE SAINT-LÉONARD D'ASTON; and (b) to change the boundaries of its territory.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16673&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0985",
+  "htmlHash": "f095dd79b60c5b2cc085ae07f154d1de"
+}

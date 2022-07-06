@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0787</td><td>1998-05-07</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the Province of BRITISH COLUMBIA of its\nstatutory powers to take some 0.5 hectares of KAMLOOPS INDIAN RESERVE NO. 1\nfor highway purposes or other works of public utility, and (b) authorizing\nthe transfer of those lands to the Province, in lieu of their\nexpropriation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1998-0787",
+  "htmlHash": "60d6d894f68ef7c029021cfacddcb2a0"
+}

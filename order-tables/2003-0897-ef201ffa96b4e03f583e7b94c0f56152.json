@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0897</td><td>2003-06-10</td><td></td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CAROLE CLAPPERTON of Kingston, Ontario, to be a part-time member of the National Parole Board, Ontario Regional Division, to hold office during good behaviour for a period of three years, effective June 29, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2809&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0897",
+  "htmlHash": "ef201ffa96b4e03f583e7b94c0f56152"
+}

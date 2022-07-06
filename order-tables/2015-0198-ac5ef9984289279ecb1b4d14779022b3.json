@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0198</td><td>2015-02-16</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2014-1439 of December 11, 2014 by replacing \"with residence in the territory of Ville de Québec or in the immediate vicinity thereof\" with \"with residence in the City of Chicoutimi or in the immediate vicinity thereof\".</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30523&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-0198",
+  "htmlHash": "ac5ef9984289279ecb1b4d14779022b3"
+}

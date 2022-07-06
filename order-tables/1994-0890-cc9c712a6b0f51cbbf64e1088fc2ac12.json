@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0890</td><td>1994-05-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to the Honourable Sidney N. Lederman, a Judge of the Ontario\nCourt of Justice (General Division), to act as a member of the Human Rights\nTribunal Panel to hold office for such time as to allow him to conclude his\nmandate as Chairman in the matter of William Clarke v. Canadian Armed\nForces to which he was appointed on October 27, 1993 by the President of\nthe Human Rights Tribunal Panel pursuant to section 49(1.1) of the\nCanadian Human Rights Act.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0890",
+  "htmlHash": "cc9c712a6b0f51cbbf64e1088fc2ac12"
+}

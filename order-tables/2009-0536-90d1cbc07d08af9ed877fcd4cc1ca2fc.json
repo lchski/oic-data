@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0536</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Status of the Artist Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of LYSE LEMIEUX of Vancouver, British Columbia, to be a part-time member of the Canadian Artists and Producers Professional Relations Tribunal to hold office during good behaviour for a term of one year, effective June 2, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20473&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0536",
+  "htmlHash": "90d1cbc07d08af9ed877fcd4cc1ca2fc"
+}

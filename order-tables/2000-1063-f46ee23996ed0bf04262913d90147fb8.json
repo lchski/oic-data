@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1063</td><td>2000-06-30</td><td>0</td><td></td><td>PMO,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing WEDNESDAY, JULY 5, 2000 as the day upon which different\nprovisions of this Act [BILL C-22 - Proceeds of Crime (Money Laundering)\nAct], being chapter 17 of the Statutes of Canada, 2000, shall COME INTO\nFORCE, thus establishing an independent agency called the FINANCIAL\nTRANSACTIONS AND REPORTS ANALYSIS CENTRE OF CANADA.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0055  <strong>Publication Date:</strong> 2000-07-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-1063",
+  "htmlHash": "f46ee23996ed0bf04262913d90147fb8"
+}

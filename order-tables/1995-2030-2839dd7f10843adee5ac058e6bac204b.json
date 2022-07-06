@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2030</td><td>1995-11-28</td><td>0</td><td></td><td>,&nbsp; SSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Supply and Services of\nALAN B. NYMARK, of Ottawa, Ontario, as a director of the Canadian\nCommercial Corporation to hold office during pleasure, for a term of two\nyears, in the place of Charles Stedman, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-2030",
+  "htmlHash": "2839dd7f10843adee5ac058e6bac204b"
+}

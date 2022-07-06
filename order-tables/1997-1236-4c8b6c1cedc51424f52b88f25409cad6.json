@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1236</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RETROCEDING to the Province of QUEBEC of five beach and deep-water lots,\nas follows:\n.\n (1) some 2,170 square metres situate at FORT WILLIAM (Sheenboro),\n (2) some 1,221 square metres situate at PORTAGE-DU-FORT (Campbell's Bay),\n (3) some 444 square metres on the Ottawa River (Grand Calumet Channel) at\n     BRYSON (Campbell's Bay),\n (4) some 2,310 square metres on Kipawa Lake at KIPAWA (Tee Lake), and\n (5) some 701 square metres on Pope Lake at VAL-LIMOGE (Lac Pope/Des\n     Ruisseaux).\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1236",
+  "htmlHash": "4c8b6c1cedc51424f52b88f25409cad6"
+}

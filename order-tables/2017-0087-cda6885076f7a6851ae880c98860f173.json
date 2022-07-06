@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0087</td><td>2017-02-03</td><td></td><td></td><td>,&nbsp; INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Addition to the Fort William Indian Reserve No. 52, Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart 4,660.15 hectares (11,515.48 acres) of land for the use and benefit of the Fort William First Nation as an addition to FORT WILLIAM INDIAN RESERVE NO. 52, located in Lake Superior, in the Municipality of Neebing, at approximately 10 kilometres from Thunder Bay, in Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=32999&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-0087",
+  "htmlHash": "cda6885076f7a6851ae880c98860f173"
+}

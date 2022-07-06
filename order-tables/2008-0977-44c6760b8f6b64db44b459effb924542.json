@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0977</td><td>2008-05-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to an amendment to the NUNAVUT LAND CLAIMS AGREEMENT to clarify federal environmental assessment jurisdiction in the NUNAVUT SETTLEMENT AREA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18821&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0977",
+  "htmlHash": "44c6760b8f6b64db44b459effb924542"
+}

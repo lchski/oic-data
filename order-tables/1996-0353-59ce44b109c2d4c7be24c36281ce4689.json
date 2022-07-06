@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0353</td><td>1996-03-19</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision NOT TO SET ASIDE NOR REFER BACK a number of rulings (CRTC 95-901,\n95-902 and 95-908) to the Canadian Radio-television and Telecommunications\nCommission with respect to the issuance of broadcasting licences to several\nnational DIRECT-TO-HOME SATELLITE DISTRIBUTION undertakings.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0025  <strong>Publication Date:</strong> 1996-04-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0353",
+  "htmlHash": "59ce44b109c2d4c7be24c36281ce4689"
+}

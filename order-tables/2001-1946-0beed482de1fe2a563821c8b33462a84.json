@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1946</td><td>2001-10-25</td><td>0</td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 52 -\nwhich (a) DECLARES the severe flooding which occurred in the Peace River\narea of BRITISH COLUMBIA in June 2001, to be of concern to the federal\ngovernment, and (b) AUTHORIZES the provision of financial assistance.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1946",
+  "htmlHash": "0beed482de1fe2a563821c8b33462a84"
+}

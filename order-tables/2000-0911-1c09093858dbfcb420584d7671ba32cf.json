@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0911</td><td>2000-06-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CANADIAN FOOD INSPECTION AGENCY to enter into a COLLECTIVE\nAGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA\ncovering all its employees in the Scientific and Analytical (S&amp;A) Group\nBargaining Unit, having an expiry date of September 30, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0911",
+  "htmlHash": "1c09093858dbfcb420584d7671ba32cf"
+}

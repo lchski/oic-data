@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2135</td><td>2005-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; LAB,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Mortgage and Housing Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Labour of SOPHIE JONCAS of Saint-Hubert, Quebec, as a director of the Board of Directors of Canada Mortgage and Housing Corporation, to hold office during pleasure for a term of three years, effective November 26, 2005.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-2135",
+  "htmlHash": "8f9fe40b3cae03d4fd11258a73be4705"
+}

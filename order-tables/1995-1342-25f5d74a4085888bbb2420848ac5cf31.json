@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1342</td><td>1995-08-16</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GENERAL AMENDING REGULATIONS (TRAVELLERS' REPORTING EXEMPTION) amending\nthe following regulations to allow residents, returning to Canada by\nprivate vehicle at a highway border crossing, to make only an oral report\nof their goods to claim their traveller's exemption, effective September 1,\n1995:\n.\n - Reporting of Imported Goods Regulations\n - Accounting for Imported Goods and Payment of Duties Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0409  <strong>Publication Date:</strong> 1995-09-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1342",
+  "htmlHash": "25f5d74a4085888bbb2420848ac5cf31"
+}

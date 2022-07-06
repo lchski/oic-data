@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0925</td><td>1997-07-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister to pay the Province of ALBERTA's share of\nmatching contributions under the NET INCOME STABLIZATION ACCOUNT PROGRAM\nas well as its share of bonus interest, and to waive program re-entry\nrequirements for hog and sheep producers who opted out of the NISA Program.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0925",
+  "htmlHash": "b1425878b1634bda9e71744a2838a1e4"
+}

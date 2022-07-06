@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0222</td><td>2013-03-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan Investment  Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DOUGLAS W. MAHAFFY of Toronto, Ontario, as a director of the Board of Directors of the Canada Pension Plan Investment Board, to hold office during good behaviour for a term ending October 27, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0222",
+  "htmlHash": "ab9eb029bd5747460122af099c3cd304"
+}

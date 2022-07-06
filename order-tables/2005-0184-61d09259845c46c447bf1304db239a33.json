@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0184</td><td>2005-02-15</td><td></td><td></td><td>VAC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Veterans Affairs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the VETERANS HEALTH CARE REGULATIONS by extending housekeeping and grounds maintenance services to the primary caregivers of all veterans who were receiving those services at the time of their death.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0039  <strong>Publication Date:</strong> 2005-03-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9575&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0184",
+  "htmlHash": "61d09259845c46c447bf1304db239a33"
+}

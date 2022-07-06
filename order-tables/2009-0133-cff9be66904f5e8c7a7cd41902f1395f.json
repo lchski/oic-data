@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0133</td><td>2009-01-29</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the exercise by SASKATCHEWAN POWER CORPORATION  and TRANSGAS LIMITED of the power to take easements on the FLYING DUST FIRST NATION INDIAN RESERVE No. 150D, for natural gas transmission pipeline and electrical transmission system purposes, and (b) in lieu of taking the easements, authorizing the grant of those easements to the Companies for the purposes specified in those agreements.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19979&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0133",
+  "htmlHash": "cff9be66904f5e8c7a7cd41902f1395f"
+}

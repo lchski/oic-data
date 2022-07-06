@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1234</td><td>2003-08-13</td><td></td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip made by ROBERT BERTRAND, M.P. (Pontiac--Gatineau--Labelle), to SAINTE-ÉMÉLIE-DE-L'ÉNERGIE, Quebec, on June 19, 2003, on behalf of the Minister of Human Resources Development, to announce funding for the Société d'aide au développement de la collectivité Matawinie Inc. to carry out the Youth Employment Strategy project.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3555&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1234",
+  "htmlHash": "17179ab9a131962280f910651253b6c9"
+}

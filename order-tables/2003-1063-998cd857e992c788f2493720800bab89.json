@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1063</td><td>2003-07-24</td><td></td><td></td><td>,&nbsp; ,&nbsp; ACOA,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Enterprise Cape Breton  Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of State (Atlantic Canada Opportunities Agency) of SONNY MacDOUGALL, of Glace Bay, Nova Scotia, as a director of the Board of Directors of the Enterprise Cape Breton \nCorporation to hold office for a term of three years, in the place of Gregory MacKenzie, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3229&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1063",
+  "htmlHash": "998cd857e992c788f2493720800bab89"
+}

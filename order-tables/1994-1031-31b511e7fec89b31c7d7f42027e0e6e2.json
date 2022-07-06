@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1031</td><td>1994-06-16</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 1990-6/1365 which replace the defective\nor omitted schedules of the lands thereby exchanged by the NATIONAL\nBATTLEFIELDS COMMISSION and the Province of Quebec involving the site of\nthe Musée du Québec on the Plains of Abraham.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1031",
+  "htmlHash": "31b511e7fec89b31c7d7f42027e0e6e2"
+}

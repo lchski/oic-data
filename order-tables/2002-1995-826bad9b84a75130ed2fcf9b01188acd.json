@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1995</td><td>2002-11-22</td><td></td><td></td><td>,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing CANADA POST INTERNATIONAL LIMITED, a wholly-owned subsidiary of CANADA POST CORPORATION,  to procure the incorporation of a yet-to-be-named corporation, to acquire all of its common shares and to sell, at a future date, up to a maximum of 49% of them.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=373&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-1995",
+  "htmlHash": "826bad9b84a75130ed2fcf9b01188acd"
+}

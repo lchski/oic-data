@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1161</td><td>2006-10-26</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARTEL D. POPESCUL of Prince Albert, Saskatchewan, to be a Judge of Her Majesty's Court of Queen’s Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15103&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1161",
+  "htmlHash": "35cff73d5deb9cd3f87c8af5a2c62316"
+}

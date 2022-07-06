@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0481</td><td>2005-04-04</td><td></td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CATHERINE EBBS of Ottawa, Ontario, to act as Chairman of the Royal Canadian Mounted Police External Review Committee in the stead of Philippe S. Rabot, who has resigned, until such time as a Chairman is appointed, to hold office during good behaviour.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9561&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0481",
+  "htmlHash": "ae06e01549ba90e5d4f8e248141b1062"
+}

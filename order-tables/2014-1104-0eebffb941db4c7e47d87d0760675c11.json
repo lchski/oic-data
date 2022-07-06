@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1104</td><td>2014-10-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO</td></tr><tr><td>Subject</td><td colspan=\"5\">By-elections (2) - Whitby-Oshawa - Yellowhead</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that WRITS OF ELECTION do issue in order to fill the vacancies in the House of Commons for the electoral districts of Whitby-Oshawa - Yellowhead, with polling to take place on November 17, 2014.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29921&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1104",
+  "htmlHash": "0eebffb941db4c7e47d87d0760675c11"
+}

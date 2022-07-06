@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0360</td><td>2005-01-11</td><td></td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Customs and Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CONNIE IDA ROVETO of Toronto, Ontario, to be Chair of the Board of Management of the Canada Customs and Revenue Agency, to hold office during pleasure for a term of four years, in the place of Michael L. Turcotte, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9139&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0360",
+  "htmlHash": "29b9acb54dbd29158e7dc7f371c7f732"
+}

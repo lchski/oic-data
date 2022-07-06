@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1415</td><td>2017-11-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PETER BRUCE MALCOLM of Belleville, Ontario, to be a part-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective December 4. 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35325&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1415",
+  "htmlHash": "9409ecb9afc78e2193f0b83a5142253b"
+}

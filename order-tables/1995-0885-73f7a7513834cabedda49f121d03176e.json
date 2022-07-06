@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0885</td><td>1995-06-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the SHIP'S TONNAGE SURVEY AND MEASUREMENT FEES REGULATIONS\nwhich increase most existing fees and introduce new fees for the\nverification of tonnage calculations performed by a surveyor of ships\n(\"fee for office\" appointees) and for surveys and measurements done outside\nof normal working hours, effective July 1, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0070  <strong>Publication Date:</strong> 1995-06-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0885",
+  "htmlHash": "73f7a7513834cabedda49f121d03176e"
+}

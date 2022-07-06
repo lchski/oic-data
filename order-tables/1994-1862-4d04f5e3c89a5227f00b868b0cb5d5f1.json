@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1862</td><td>1994-11-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EIC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the UNEMPLOYMENT INSURANCE REGULATIONS implementing a pilot\nproject in Prince Edward Island permitting claimants to consolidate weeks\nof employment where they have insufficient hours of work to have gained\nan insured week of employment.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0682  <strong>Publication Date:</strong> 1994-11-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1862",
+  "htmlHash": "4d04f5e3c89a5227f00b868b0cb5d5f1"
+}

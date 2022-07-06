@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1277</td><td>2005-06-28</td><td></td><td></td><td>,&nbsp; PSEP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ACCOUNTING FOR IMPORTED GOODS AND PAYMENTS OF DUTIES REGULATIONS by repealing certain provisions that relate to the extended release period in respect of imported intoxicating liquors.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0210  <strong>Publication Date:</strong> 2005-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=11862&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1277",
+  "htmlHash": "215591467531e117e3fbab5d29b20958"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0251</td><td>2006-04-28</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the REGION OF WATERLOO INTERNATIONAL AIRPORT ZONING REGULATIONS which set limits on the height of new structures situated within the vicinity of this airport located in southern Ontario and impose restrictions on the development of adjacent lands.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0078  <strong>Publication Date:</strong> 2006-05-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14156&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0251",
+  "htmlHash": "cf7e3b80a1a76b1d1f53213ddaaa0977"
+}

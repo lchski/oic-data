@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1722</td><td>2001-10-02</td><td>0</td><td></td><td>HRD,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the request made by the Chairman of the Pension Appeals Board\nto the HONOURABLE ROBERT C. RICE and the HONOURABLE W. DAN CHILCOTT,\nformer judges, to act as temporary members of the Pension Appeals Board.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1722",
+  "htmlHash": "2c49a40396d4595140dfa09307baa391"
+}

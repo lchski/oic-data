@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0891</td><td>1993-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">HISTORIC CANALS REGULATIONS respecting the management, maintenance, proper\nuse and protection of the Historic Canals administered by the Canadian\nParks Service (the St. Peters Canal in Nova Scotia; the Saint-Ours,\nChambly, Carillon, Sainte-Anne-de-Bellevue, and Lachine Canals in Quebec,\nand the Rideau and Sault Ste. Marie Canals and the Trent-Severn Waterway\nin Ontario.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0220  <strong>Publication Date:</strong> 1993-05-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0891",
+  "htmlHash": "0949b3ee2d5eb51f122f33883c6de6b7"
+}

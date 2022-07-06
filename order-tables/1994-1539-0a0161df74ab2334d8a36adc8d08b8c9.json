@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1539</td><td>1994-09-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a \"SETTLEMENT AGREEMENT\" between the Crown, the\nProvince of British Columbia, the DEASE RIVER INDIAN BAND and the LIARD\nRIVER INDIAN BAND which provides for both the setting apart of 368.71 acres\nof land for the use and benefit of the Dease River Band and the making\nof a compensatory payment in respect of a specific claim pertaining to the\nright-of-way on One Mile Point Indian Reserve No. 1 for the passage of\nB.C. Highway No. 37.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1539",
+  "htmlHash": "0a0161df74ab2334d8a36adc8d08b8c9"
+}

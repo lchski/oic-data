@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0751</td><td>2009-05-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order sanctioning the Intergovernmental Agreement for the International Bridge between the ST. MARY'S RIVER BRIDGE COMPANY and the MICHIGAN DEPARTMENT OF TRANSPORTATION regarding the management and operation of the Sault Ste. Marie International Bridge.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20584&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0751",
+  "htmlHash": "fbe7c1f75cff1886651d14c98d8ed4d0"
+}

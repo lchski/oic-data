@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1776</td><td>2003-11-06</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a TAX COLLECTION AGREEMENT with BONAPARTE, an Indian Band, whereby the Government of Canada, on behalf of that Band, will collect a tax on sales of alcoholic beverages, fuel and tobacco products that occur on its reserves.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4754&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1776",
+  "htmlHash": "e6579c27a266ced4e8801907f2f83032"
+}

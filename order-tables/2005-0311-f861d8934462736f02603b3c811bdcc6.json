@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0311</td><td>2005-03-08</td><td></td><td></td><td>,&nbsp; TB,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act<br>National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to DISPOSE of the lands known as LeBreton Flats Phase 1 to Claridge Homes (LeBreton Flats) Inc.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9813&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0311",
+  "htmlHash": "f861d8934462736f02603b3c811bdcc6"
+}

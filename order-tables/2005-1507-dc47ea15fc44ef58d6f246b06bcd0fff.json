@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1507</td><td>2005-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">14TH IAAF WORLD HALF MARATHON CHAMPIONSHIPS REMISSION ORDER - which remits customs duties, excise taxes and all or a portion of the GST paid or payable on personal effects, goods for free distribution, etc., imported in connection with these championships.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2005-0263  <strong>Publication Date:</strong> 2005-09-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12421&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1507",
+  "htmlHash": "dc47ea15fc44ef58d6f246b06bcd0fff"
+}

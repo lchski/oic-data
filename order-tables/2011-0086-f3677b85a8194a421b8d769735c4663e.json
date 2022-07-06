@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0086</td><td>2011-02-03</td><td></td><td></td><td>,&nbsp; ACOA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Atlantic Canada Opportunities Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of JULIE EVELEIGH of Comfort Cove, Newfoundland and Labrador, as a member of the Atlantic Canada Opportunities Board to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23738&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0086",
+  "htmlHash": "f3677b85a8194a421b8d769735c4663e"
+}

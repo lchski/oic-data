@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0265</td><td>1990-02-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Set apart certain lands (3.22 hec) as an addition to Rocky Bay Indian\nReserve No. 1 in the Province of Ontario and accept the administration\nand control of certain lands (4.29 hec) from the Province of Ontario and\nset apart the said lands.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0265",
+  "htmlHash": "650c092742589081a1216dd2f8530010"
+}

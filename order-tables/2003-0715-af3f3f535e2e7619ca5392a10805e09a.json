@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0715</td><td>2003-05-15</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Auditor General Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Request to the AUDITOR GENERAL OF CANADA to examine the activities and transactions of the CANADA POST CORPORATION in relation to sponsorship and advertising activities during the period starting on January 1, 1996 and ending on May 15, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2380&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0715",
+  "htmlHash": "af3f3f535e2e7619ca5392a10805e09a"
+}

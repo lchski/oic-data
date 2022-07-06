@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0799</td><td>1991-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FORCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into AGREEMENTS with indian bands or tribal councils for\nthe purpose of conducting forest management and related activities on\nreserves in the Provinces of Alberta, Ontario and Quebec in the 1991/92\nfiscal year.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0799",
+  "htmlHash": "4f00fc9fc44f6d90267c95791cb66752"
+}

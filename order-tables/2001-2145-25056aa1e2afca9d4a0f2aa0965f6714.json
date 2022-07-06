@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2145</td><td>2001-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRDC,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by making it\neasier for people who leave the workforce to raise children to qualify for\nregular benefits after returning to work, and by making it easier to\ndetermine whether or not a claimant is a \"first-time\" claimant.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0516  <strong>Publication Date:</strong> 2001-12-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-2145",
+  "htmlHash": "25056aa1e2afca9d4a0f2aa0965f6714"
+}

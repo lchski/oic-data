@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1462</td><td>1995-08-30</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT OF CERTAIN PERSONS TO CERTAIN POSITIONS IN THE LABORATORIES\nDIVISION OF THE ENVIRONMENTAL CONSERVATION BRANCH OF THE PACIFIC AND YUKON\nREGION OF THE DEPARTMENT OF ENVIRONMENT EXCLUSION APPROVAL ORDER whose\nemployments are not subject to the Public Service Employment Act. (26)\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0098  <strong>Publication Date:</strong> 1995-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1462",
+  "htmlHash": "4c7fc83a492f0faaf022ba1a73f47c5e"
+}

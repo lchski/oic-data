@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0152</td><td>1993-01-28</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing certain employees of the Ship Safety Branch of the\nCANADIAN COAST GUARD as either INSPECTORS OF SHIPS' TACKLE or as STEAMSHIP\nINSPECTORS, or both, and (b) revoking the appointments of certain\nindividuals who are no longer employed by the Canadian Coast Guard.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0152",
+  "htmlHash": "917c80c84d1c4916d192f658478041ae"
+}

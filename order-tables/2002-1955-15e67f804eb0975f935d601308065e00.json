@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1955</td><td>2002-11-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pension Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SPECIAL DUTY AREA PENSION ORDER by designating each of the Central African Republic, the Democratic Republic of Congo, Ethiopia and Eritrea, and Sierra Leone as a\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0419  <strong>Publication Date:</strong> 2002-12-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=227&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-1955",
+  "htmlHash": "15e67f804eb0975f935d601308065e00"
+}

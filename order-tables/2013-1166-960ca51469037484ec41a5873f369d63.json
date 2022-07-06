@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-1166</td><td>2013-11-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Agri-Recovery - Agricultural producers in Nova Scotia </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to provide contributions under the Agricultural Disaster Relief Program to assist producers in Nova Scotia in dealing with the impacts of a strawberry virus complex.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28426&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-1166",
+  "htmlHash": "960ca51469037484ec41a5873f369d63"
+}

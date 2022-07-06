@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0133</td><td>2000-02-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PRESCRIBED DEPOSITS (BANKS WITHOUT DEPOSIT INSURANCE)\nREGULATIONS which itemize the exceptions to the minimum deposit\nrequirement of $150,000 imposed on full-service foreign banks operating in\nCanada whose deposits are not insured by the Canada Deposit Insurance\nCorporation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0054  <strong>Publication Date:</strong> 2000-03-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0133",
+  "htmlHash": "020e565566e37ab780268796a7ff2cd5"
+}

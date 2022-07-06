@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1242</td><td>2006-10-30</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of MICHAEL O'BRIEN of Summerside, Prince Edward Island, as a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending on February 28, 2009, in the place of Ronald J. Keefe.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15212&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1242",
+  "htmlHash": "e6c0cf284db93eaa5430dd4a2ab3eb9c"
+}

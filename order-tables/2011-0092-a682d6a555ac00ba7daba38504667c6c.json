@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0092</td><td>2011-02-03</td><td></td><td></td><td>IC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Natural Sciences and Engineering Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of JAMES A. BLATZ of Winnipeg, Manitoba, as a member of the Natural Sciences and Engineering Research Council to hold office during pleasure for a term of three years, effective February 18, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0092",
+  "htmlHash": "a682d6a555ac00ba7daba38504667c6c"
+}

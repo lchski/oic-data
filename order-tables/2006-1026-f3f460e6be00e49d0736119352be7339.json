@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1026</td><td>2006-09-21</td><td></td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order conferring reserve status on some 3.07 hectares of land situated in Quebec, for the use and benefit of the KAHNAWAKE INDIAN BAND, as an addition to Kahnawake Indian Reserve No. 14.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14969&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1026",
+  "htmlHash": "f3f460e6be00e49d0736119352be7339"
+}

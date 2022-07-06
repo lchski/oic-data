@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0691</td><td>2020-09-30</td><td></td><td></td><td>PCH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of PATRICIA-JEAN GIGUÈRE, C.M., of Winnipeg, Manitoba, to be Chairperson of the Board of Trustees of the Canadian Museum of History, to hold office during pleasure for a term of six months or until such time as a new Chairperson is appointed, in the place of James D. Fleck, C.C., whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=40299&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0691",
+  "htmlHash": "8fd2117d36e601d62ea69124bece34cd"
+}

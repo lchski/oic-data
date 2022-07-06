@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1304</td><td>2015-12-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of CHARLES ROBERT for the period he is serving as interim Clerk of the Senate and Clerk of the Parliaments, until such time as he is no longer required to act as Clerk of the Senate and Clerk of the Parliaments.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31667&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-1304",
+  "htmlHash": "82ad9ae0ffbcab0200d6ec8e01dad337"
+}

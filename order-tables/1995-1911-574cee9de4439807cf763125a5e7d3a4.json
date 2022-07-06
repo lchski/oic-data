@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1911</td><td>1995-11-22</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order DECLINING to SET ASIDE or to REFER Decision CRTC 95-591 back to the\nCanadian Radio-television and Telecommunications Commission, concerning\nthe application to amend the broadcasting licences of 15 cable\ndistribution undertakings by authorizing the licensees to originate a\nVIDEO GAMES SERVICE as a special programming service.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0119  <strong>Publication Date:</strong> 1995-12-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1911",
+  "htmlHash": "574cee9de4439807cf763125a5e7d3a4"
+}

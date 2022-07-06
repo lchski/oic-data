@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-2056</td><td>2003-12-12</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Access to Information Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ACCESS TO INFORMATION ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER by adding the Department of International Trade, effective December 12, 2003.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2003-0213  <strong>Publication Date:</strong> 2003-12-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5470&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-2056",
+  "htmlHash": "cc4cb1368c486a5279c90b1d719e4aed"
+}

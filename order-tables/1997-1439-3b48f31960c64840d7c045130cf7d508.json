@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1439</td><td>1997-10-02</td><td>0</td><td></td><td>INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to BOSNIA made by Mr. PETER A.J. MILLIKEN, M.P.\n(Kingston and the Islands), from September 6 to September 16, 1997, in\norder to visit C.I.D.A. projects undertaken by Queen's University and to\nact as an electoral observer.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1439",
+  "htmlHash": "3b48f31960c64840d7c045130cf7d508"
+}

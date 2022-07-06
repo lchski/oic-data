@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0790</td><td>1997-05-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; PWGS,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to enter into an AGREEMENT with the Province of NEWFOUNDLAND\nto clearly determine the ownership and limits of specific harbours, and (b)\nfor the transfer to the Province of the entire interest of the federal\nCrown in all minerals found to exist within 12 public harbours.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0790",
+  "htmlHash": "88c5934ad769bfff61c2c0e09b5654a0"
+}

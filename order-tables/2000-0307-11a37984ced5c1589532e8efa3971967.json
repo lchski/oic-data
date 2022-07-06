@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0307</td><td>2000-03-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the approval of the DEVELOPMENT PLAN (Part I) filed\nwith the National Energy Board by RANGER OIL LIMITED and CANADIAN FOREST\nOIL LIMITED with respect to the development of the P-66A GAS WELL situated\nsome 42 kilometres northwest of Fort Liard, in the Northwest Territories.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0307",
+  "htmlHash": "11a37984ced5c1589532e8efa3971967"
+}

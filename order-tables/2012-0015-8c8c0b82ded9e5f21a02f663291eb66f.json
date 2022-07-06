@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0015</td><td>2012-02-02</td><td></td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act<br>Queen's Regulations and Orders for the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE MICHEL BASTARACHE of Ottawa, Ontario, to be a member of the Military Judges Compensation Committee, to hold office during good behaviour for a term ending August 31, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25433&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0015",
+  "htmlHash": "8c8c0b82ded9e5f21a02f663291eb66f"
+}

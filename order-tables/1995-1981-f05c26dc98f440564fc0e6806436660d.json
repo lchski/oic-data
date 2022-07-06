@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1981</td><td>1995-11-23</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister (a) to sign a Convention with the REPUBLIC OF\nSOUTH AFRICA for the AVOIDANCE OF DOUBLE TAXATION and the PREVENTION OF\nFISCAL EVASION with respect to TAXES ON INCOME, or (b) to issue an\nInstrument of Full Powers authorizing the Hon. Roy MacLaren or R. Allen\nKilpatrick to sign the said Convention.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1981",
+  "htmlHash": "f05c26dc98f440564fc0e6806436660d"
+}

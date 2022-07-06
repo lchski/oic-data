@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1908</td><td>1995-11-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; COM,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declining to set aside or to refer Decision CRTC 95-569 back to the\nCanadian Radio-television and Telecommunications Commission for\nreconsideration and hearing by the Commission, concerning the application\nby the CTEQ TÉLÉVISION INC. for a broadcasting licence for a multilingual\ntelevision programming undertaking at Montréal, on channel 62B, with an\neffective radiated power of 11,000 watts.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0117  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1908",
+  "htmlHash": "c1f6be5d8c37b297bb3d8d6823e3c356"
+}

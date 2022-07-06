@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2019-0260</td><td>2019-03-28</td><td></td><td></td><td>PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue under the Great Seal of Canada empowering IAN SHUGART to administer the Oath of Allegiance, the Oath of Office or any other oath as may from time to time be prescribed by law.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37583&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2019-0260",
+  "htmlHash": "483153f408f4f75d21bef76da2ff3324"
+}

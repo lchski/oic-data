@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0784</td><td>1996-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; PTB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a supplementary agreement with the Government of\nthe YUKON to amend the CANADA-YUKON CONTRIBUTION AGREEMENT ON\nINFRASTRUCTURE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0784",
+  "htmlHash": "dbdd1c584f7e0c6a09a708665d4bea5b"
+}

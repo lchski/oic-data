@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1596</td><td>2008-09-04</td><td></td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING THE IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (CANADIAN EXPERIENCE CLASS) that will facilitate the transition from temporary to permanent residence for certain temporary foreign workers and foreign students, effective September 17, 2008.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0254  <strong>Publication Date:</strong> 2008-09-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19478&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1596",
+  "htmlHash": "13a35edecf42812b5677cba0f0930234"
+}

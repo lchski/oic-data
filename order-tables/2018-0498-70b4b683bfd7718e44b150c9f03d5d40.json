@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0498</td><td>2018-05-03</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RON KUBAN of Edmonton, Alberta, who is not an officer or non-commissioned member of the Canadian Forces, nor an employee of the Department of National Defence, to be a part-time member of the Military Police Complaints Commission, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36178&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0498",
+  "htmlHash": "70b4b683bfd7718e44b150c9f03d5d40"
+}

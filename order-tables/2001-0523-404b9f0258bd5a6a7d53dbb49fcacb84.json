@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0523</td><td>2001-03-30</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to amend the TERMS and CONDITIONS of the SPRING CREDIT ADVANCE\nPROGRAM (a program designed to provide financial assistance to producers\nin the form of interest-free cash advances) by increasing (from $20,000 to\n$50,000) the amount that may be advanced to producers to finance the cost\nof planting their crops in 2000 and 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-0523",
+  "htmlHash": "404b9f0258bd5a6a7d53dbb49fcacb84"
+}

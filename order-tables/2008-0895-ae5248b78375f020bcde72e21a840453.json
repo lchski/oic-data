@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0895</td><td>2008-05-09</td><td></td><td></td><td>ACOA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Enterprise Cape Breton  Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN K. LYNN of New Glasgow, Nova Scotia, to be the Chief  Executive Officer of the Enterprise  Cape Breton Corporation during pleasure for a term of five yearsm effective June 1, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18803&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0895",
+  "htmlHash": "ae5248b78375f020bcde72e21a840453"
+}

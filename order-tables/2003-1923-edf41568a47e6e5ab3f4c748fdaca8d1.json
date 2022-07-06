@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1923</td><td>2003-12-03</td><td></td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Payments in Lieu of Taxes Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending SCHEDULE I TO THE PAYMENTS IN LIEU OF TAXES ACT which repeal the paragraph in Schedule I of the Act referring to the Vancouver Port Corporation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0399  <strong>Publication Date:</strong> 2003-12-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5121&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1923",
+  "htmlHash": "edf41568a47e6e5ab3f4c748fdaca8d1"
+}

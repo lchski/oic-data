@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0012</td><td>2006-01-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; MINT</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the minting of otherwise regular COINS ($2.00, $1.00, 50¢, 25¢, 10¢, 5¢ and 1¢) bearing the stylized symbol of the Royal Canadian Mint, for general circulation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2006-0020  <strong>Publication Date:</strong> 2006-02-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13982&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0012",
+  "htmlHash": "dba6176a53df4d715040800cfec6722f"
+}

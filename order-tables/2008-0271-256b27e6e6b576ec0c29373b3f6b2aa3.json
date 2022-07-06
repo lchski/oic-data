@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0271</td><td>2008-02-14</td><td></td><td></td><td>MINT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the minting of a TWO DOLLAR ($2.00) CIRCULATION COIN bearing the inscription 1608 - 2008 and a new design in order to commemorate the 400th anniversary of the founding of Quebec City.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2008-0039  <strong>Publication Date:</strong> 2008-03-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18083&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0271",
+  "htmlHash": "256b27e6e6b576ec0c29373b3f6b2aa3"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1023</td><td>2014-10-09</td><td></td><td></td><td>,&nbsp; DFATD,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act<br>National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Vertical Reality Inc. ** NCC **\n\n</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant one option of five years, commencing on April 1st, 2018, to extend an existing lease with VERTICAL REALITY INC. to occupy a property located at 161 and 160 MIDDLE STREET in Ottawa.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29836&amp;lang=en\">Attachment</a><a href=\"attachment.php?attach=29837&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1023",
+  "htmlHash": "1b5fb0cb1edb36d3f5f481d965c2ce83"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1801</td><td>2007-12-03</td><td></td><td></td><td>,&nbsp; HRSD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS which extends, for an additional eighteen (18) months the final date for claimants to establish benefit periods in order to be included in Pilot Project No. 10 - Extended Benefits.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0274  <strong>Publication Date:</strong> 2007-12-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17622&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1801",
+  "htmlHash": "125d80dceb12f01ef42ebf49430a6757"
+}

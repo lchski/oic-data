@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0914</td><td>2003-06-12</td><td></td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MIGRATORY BIRDS REGULATIONS by fixing the open-season dates for 2003-2004 and by setting limits on the number of birds that may be taken or possessed during the hunting season.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0221  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2857&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0914",
+  "htmlHash": "a22616f0442617607f1263a698e68b9d"
+}

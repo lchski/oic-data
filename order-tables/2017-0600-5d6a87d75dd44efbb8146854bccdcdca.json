@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0600</td><td>2017-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSPC,&nbsp; OAG,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of the Auditor General of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Appointing (1) KPMG LLP, Chartered Accountants, of Toronto, Ontario, as AUDITOR of the Canada Post Corporation for the fiscal year ending December 31, 2017; and (2) the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the Canada Post Corporation for the fiscal year ending December 31, 2017.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=34518&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-0600",
+  "htmlHash": "5d6a87d75dd44efbb8146854bccdcdca"
+}

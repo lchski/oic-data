@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0327</td><td>1991-02-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement with EXECAIRE INC. (formerly Execaire\n(Québec) Ltd.) which will amend the Lease (No. 85087) they have held since\nApril 15, 1968, with respect to a site at Montreal International Airport in\nDorval, Quebec, so that revised land rental rates and airport maintenance\ncharges can be implemented.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-0327",
+  "htmlHash": "41282fa247381b9584da90651e04d354"
+}

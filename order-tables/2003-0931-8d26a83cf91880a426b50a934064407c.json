@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0931</td><td>2003-06-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Act</td><td colspan=\"5\">Quarantine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the QUARANTINE REGULATIONS by defining the incubation period for Severe Acute Respiratory Syndrome (SARS) and by revising the list of airports at which the person in charge of an aircraft arriving in Canada must report cases of illnesses or death on board.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0227  <strong>Publication Date:</strong> 2003-07-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2892&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0931",
+  "htmlHash": "8d26a83cf91880a426b50a934064407c"
+}

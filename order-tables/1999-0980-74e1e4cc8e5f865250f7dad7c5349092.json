@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0980</td><td>1999-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of the Environment to enter into a cost share\nagreement and contribution agreements with the Government of NOVA SCOTIA\nand the CAPE BRETON REGIONAL MUNICIPALITY to implement the environmental\nclean-up of the SYDNEY TAR PONDS and COKE OVEN SITES in the Muggah Creek\nWatershed - Phase I Remediation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-0980",
+  "htmlHash": "74e1e4cc8e5f865250f7dad7c5349092"
+}

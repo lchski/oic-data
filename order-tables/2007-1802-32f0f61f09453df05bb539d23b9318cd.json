@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1802</td><td>2007-12-03</td><td></td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">International Centre for Human Rights and Democratic Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN-PAUL HUBERT of Danville, Quebec, to be President of the International Centre for Human Rights and Democratic Development to hold office during pleasure for a term of eight months, effective December 3, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17624&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1802",
+  "htmlHash": "32f0f61f09453df05bb539d23b9318cd"
+}

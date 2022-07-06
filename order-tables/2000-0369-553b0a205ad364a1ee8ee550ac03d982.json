@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0369</td><td>2000-03-23</td><td>0</td><td></td><td>TB,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to convey five pieces of\nland to the CITY OF AYLMER, as follows: two parcels situated between\nLucerne Boulevard to the south and Laramée-McConnell Boulevard to the\nnorth, both associated with the Champlain Corridor, and three land-locked\nparcels situated east of Fraser Road.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0369",
+  "htmlHash": "553b0a205ad364a1ee8ee550ac03d982"
+}

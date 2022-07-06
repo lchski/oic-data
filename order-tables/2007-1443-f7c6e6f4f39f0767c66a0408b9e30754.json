@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1443</td><td>2007-09-27</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Income Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (OMNIBUS AMENDMENTS- 2007) that implement measures announced in the 2004 and 2005 Budgets relating to mining taxes, qualified investments for registered plans, the medical expense tax credit, stock options and supplemental pension plans in Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2007-0212  <strong>Publication Date:</strong> 2007-10-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17161&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1443",
+  "htmlHash": "f7c6e6f4f39f0767c66a0408b9e30754"
+}

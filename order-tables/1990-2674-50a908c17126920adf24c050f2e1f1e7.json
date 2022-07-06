@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2674</td><td>1990-12-06</td><td>0</td><td></td><td>NTA,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sanction of a TRAIN SERVICE AGREEMENT between CANADIAN PACIFIC LIMITED and\nVIA RAIL CANADA INC. dated January 15, 1990, which pertains to the use of\nCanadian Pacific's railway tracks by VIA's trains 198 and 199 between\nVictoria and Courtenay, British Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-2674",
+  "htmlHash": "50a908c17126920adf24c050f2e1f1e7"
+}

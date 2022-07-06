@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1018</td><td>2014-10-08</td><td></td><td></td><td>,&nbsp; NRCAN,&nbsp; NEB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Issuance of License GL-306 - Triton LNG Limited Partnership </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the ISSUANCE OF LICENCE GL-306 to Triton LNG Limited Partnership for the exportation of liquefied natural gas in the vicinity of either Kitimat or Prince Rupert, British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29961&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1018",
+  "htmlHash": "b281c38f6916205671aa07576399202f"
+}

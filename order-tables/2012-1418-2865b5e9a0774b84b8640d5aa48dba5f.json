@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1418</td><td>2012-11-01</td><td></td><td></td><td>HRSDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Mortgage and Housing Corporation Act<br>Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ERNST &amp; YOUNG LLP and the AUDITOR GENERAL OF CANADA as joint auditors of Canada Mortgage and Housing Corporation for the year 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26882&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1418",
+  "htmlHash": "2865b5e9a0774b84b8640d5aa48dba5f"
+}

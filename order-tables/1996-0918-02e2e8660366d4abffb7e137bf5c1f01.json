@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0918</td><td>1996-06-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing (a) FRIDAY, JUNE 28, 1996 as the day upon which sections 1 to\n26, 28, 30, 32 to 44, 46 to 161, 163 to 165, and 167 of this Act shall COME\nINTO FORCE, and (b) WEDNESDAY, JULY 31, 1996 as the day upon which sections\n162 and 166 shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0058  <strong>Publication Date:</strong> 1996-07-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0918",
+  "htmlHash": "02e2e8660366d4abffb7e137bf5c1f01"
+}

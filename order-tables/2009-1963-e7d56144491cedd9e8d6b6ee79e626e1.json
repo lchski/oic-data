@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1963</td><td>2009-12-03</td><td></td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Chambre de commerce de Nicolet\nCHANGE BOUNDARIES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE NICOLET in Quebec to change the boundaries of its district to Nicolet, Baie-du-Febvre, Odanak, Saint-Elphège, Saint-Zéphirin, La Visitation-de-Yamaska, Grand-Saint-Esprit, Sainte-Monique, Pierreville and Saint-François-du-Lac.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21844&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1963",
+  "htmlHash": "e7d56144491cedd9e8d6b6ee79e626e1"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0182</td><td>1997-02-06</td><td>0</td><td></td><td>,&nbsp; ACOA,&nbsp; PTB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a SUPPLEMENTARY AGREEMENT with the Provinces of\nNEW BRUNSWICK, NEWFOUNDLAND, NOVA SCOTIA and PRINCE EDWARD ISLAND, to\namend the CONTRIBUTION AGREEMENTS ON INFRASTRUCTURE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0182",
+  "htmlHash": "ac4910fe0a84725dcaf47f9c71939b1f"
+}

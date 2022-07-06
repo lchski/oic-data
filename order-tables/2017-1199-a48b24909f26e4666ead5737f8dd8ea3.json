@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1199</td><td>2017-09-28</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GUY BUJOLD of Ottawa, Ontario, to be a full-time member and interim Vice-Chairperson of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, to hold office during good behaviour for a term of six months less one day.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35127&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1199",
+  "htmlHash": "a48b24909f26e4666ead5737f8dd8ea3"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-0955</td><td>2021-11-12</td><td></td><td></td><td>PSPC,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Acquisition of property ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the acquisition by the National Capital Commission from Raymond Bélisle and the Estate of Evelyn Normandeau of the real property located at 578 chemin Crégheur, Pontiac, Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41319&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-0955",
+  "htmlHash": "2e9ba6d1548b9138d9d06e2f2bd4f593"
+}

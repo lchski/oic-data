@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2248</td><td>2005-11-28</td><td></td><td></td><td>,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to continue to provide an indemnity to essential air service operators in Canada for WAR RISK LIABILITY INSURANCE COVERAGE, up until December 31, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13561&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-2248",
+  "htmlHash": "e0ac5e3d211a46865c6097d4485167a4"
+}

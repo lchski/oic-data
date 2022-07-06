@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0729</td><td>2007-05-10</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a lifelong annuity to DOROTHY ANN McKENNA, a survivor of the Hon. Raynald Fréchette, a Puisne Judge of the Superior Court of Quebec, commencing on \nMarch 21, 2007.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16492&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0729",
+  "htmlHash": "8329eb8b5c0c6da77ba96b8f4821c3e4"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-0089</td><td>2015-02-02</td><td></td><td></td><td>,&nbsp; CSA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Space Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LUC BRÛLÉ of Sainte-Julie, Quebec, to be President of the Canadian Space Agency on an interim basis, to hold office during pleasure, for a term of one year, or until such time as a new President is appointed, whichever is earlier, effective February 1, 2015.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=30412&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-0089",
+  "htmlHash": "8f4ccc4f0ecc1aa74480c6961782c8d2"
+}

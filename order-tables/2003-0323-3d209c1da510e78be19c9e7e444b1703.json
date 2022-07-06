@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0323</td><td>2003-03-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ONTARIO FISHERY REGULATIONS, 1989 by, inter alia, allowing anglers to use two fishing lines when trolling in the St. Marys River and in Lake Superior and by establishing a daily catch quota for catfish in the Ottawa River area.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0108  <strong>Publication Date:</strong> 2003-04-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1635&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0323",
+  "htmlHash": "3d209c1da510e78be19c9e7e444b1703"
+}

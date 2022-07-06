@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0113</td><td>1994-01-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a \"DESIGNATION\" approved by the TL'AZT'EN NATIONS BAND OF\nINDIANS which surrenders 43.29 hectares of land on Sisul Tl'o K'ut Indian\nReserve No. 14 in British Columbia, for a term of twenty (20) years, for\nleasing purposes (Teeslee Forest Products Ltd., Prince George, B.C.).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0113",
+  "htmlHash": "7a6f8274071bb330386b204275d827af"
+}

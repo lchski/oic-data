@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0993</td><td>2001-06-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2000-846 of June 2, 2000, concerning\nthe appointment of GARY BERTRUN GLAVIN, MAVIS M. HURLEY,\nNUALA PATRICIA KENNY, LLOYD MALCOLM KING, STEVEN LEWIS, and\nC. DAVID NAYLOR, as members of the Governing Council of the Canadian\nInstitutes of Health Research.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-0993",
+  "htmlHash": "4de3dfb714b771cc0489c77de22f5448"
+}

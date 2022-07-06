@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0766</td><td>1993-04-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RESTRICTED WEAPON REGISTRATION CERTIFICATE FOR CLASSES OF PERSONS OTHER\nTHAN INDIVIDUALS REGULATIONS prescribing a class of \"persons other than\nindividuals\" who may be issued a Corporate Restricted Weapon Registration\nCertificate under section 109.1 of the Criminal Code which will allow\nprescribed corporations to acquire and possess restricted firearms in\ntheir own right as corporate entities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0200  <strong>Publication Date:</strong> 1993-05-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-0766",
+  "htmlHash": "44ed03deec5b4175ee9dfb94c8a19af7"
+}

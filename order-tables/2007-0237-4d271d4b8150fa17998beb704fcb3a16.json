@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0237</td><td>2007-02-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; PSEP,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an EXCHANGE OF SERVICES AGREEMENT with the Province of ONTARIO respecting the reciprocal transfer of custody, the temporary detention and the community supervision of male and female offenders.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=15901&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0237",
+  "htmlHash": "4d271d4b8150fa17998beb704fcb3a16"
+}

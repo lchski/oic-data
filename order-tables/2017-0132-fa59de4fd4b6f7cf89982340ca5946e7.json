@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-0132</td><td>2017-02-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the Order in Council P.C. 2017-67 dated February 1, 2017, by replacing “February 1, 2017” with “February 6, 2017”. (The Honourable Stéphane Dion, P.C.)</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=33044&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-0132",
+  "htmlHash": "fa59de4fd4b6f7cf89982340ca5946e7"
+}

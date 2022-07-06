@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1871</td><td>1993-09-24</td><td>0</td><td></td><td>,&nbsp; TB,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the GRAND TRUNK WESTERN RAILROAD COMPANY, a wholly-owned\nAmerican subsidiary of the Canadian National Railway Company, to issue and\nsell up to $200,000,000 U.S. worth of Auction Preferred Stock to Accredited\nInvestors in the United States.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1871",
+  "htmlHash": "6862e68e3d9b9ac0d01005e69d49531b"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0860</td><td>2018-06-21</td><td></td><td></td><td>,&nbsp; PCH,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Acquisition of property  ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION  (NCC) acquire the property located at 493 WELLINGTON STREET, Ottawa, Ontario. The property consists of 2,130 square metres of land and will be acquired from the City of Ottawa on terms satisfactory to the NCC.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36569&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0860",
+  "htmlHash": "77e259db6004bd7fc094e784539f578f"
+}

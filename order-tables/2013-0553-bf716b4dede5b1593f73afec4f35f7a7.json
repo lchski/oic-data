@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0553</td><td>2013-05-10</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the reimbursement of travel and living expenses incurred by members of the VENTURE CAPITAL EXPERT PANEL in the course of their duties while away from their normal place of residence, in accordance with the National Joint Council Travel Directive and Treasury Board Special Travel Authorities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=27783&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0553",
+  "htmlHash": "bf716b4dede5b1593f73afec4f35f7a7"
+}

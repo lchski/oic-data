@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1773</td><td>2000-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order prescribing an additional period of one year during which certain\nRELOCATION EXPENSES may be reimbursed to the Hon. LYDIA M. OLAH, a Judge\nof the Superior Court of Justice who was required to relocate from the\nCity of North Bay to the City of Barrie, in the Province of Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-1773",
+  "htmlHash": "28e0fb136a6a27972ab3b9c544179a2a"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-0888</td><td>2014-07-24</td><td></td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GENEVIÈVE GAGNON of Kirkland, Quebec, to be a part-time member of the board of the International Authority to hold office for a term ending on the date one year after the International Crossing Opening Date, as defined in the Crossing Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29705&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-0888",
+  "htmlHash": "1ab881a3a433c56499e64c56916c55ed"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0571</td><td>2009-04-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cultural Property Export and Import Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KATHARINE A. LOCHNAN of Toronto, Ontario, to be a member of the Canadian Cultural Property Export Review Board for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20508&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0571",
+  "htmlHash": "d3fe49dd4f60fda28948a25ff81fca89"
+}

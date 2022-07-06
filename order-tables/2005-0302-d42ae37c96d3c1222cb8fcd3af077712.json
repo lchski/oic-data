@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0302</td><td>2005-03-08</td><td></td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Tax Court of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that COMMISSIONS do issue under the Great Seal of Canada empowering 14 individuals to administer oaths and to take and receive affidavits, etc., within or outside Canada, in or concerning any proceeding before the TAX COURT OF CANADA.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0302",
+  "htmlHash": "d42ae37c96d3c1222cb8fcd3af077712"
+}

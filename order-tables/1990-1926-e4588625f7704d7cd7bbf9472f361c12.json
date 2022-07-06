@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1926</td><td>1990-08-28</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of Orders in Council P.C. 1962-396, P.C. 1962-1606 and P.C.\n1963-1572 enabling all the Certificates of Competency accepted for use on\nCanadian Ships to be administered for the purposes of the International\nConvention on Standards of Training, Certification and Watchkeeping for\nSeafarers, 1978.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1926",
+  "htmlHash": "e4588625f7704d7cd7bbf9472f361c12"
+}

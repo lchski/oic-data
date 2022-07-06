@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0867</td><td>2008-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2008-731 of April 11, 2008 by replacing in the French version &lt; Sur recommandation du ministre des Transports &gt; with  &lt; Sur recommandation du ministre des Ressources humaines et du Développement social &gt;.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18710&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0867",
+  "htmlHash": "8ef51ebb272c1a8655d264319e5cf76b"
+}

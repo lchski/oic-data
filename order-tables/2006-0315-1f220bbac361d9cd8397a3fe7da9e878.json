@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0315</td><td>2006-05-04</td><td></td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2005-2006</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SANJIV GOENKA to be Honorary Consul of Canada at Kolkata, Republic of India, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14224&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0315",
+  "htmlHash": "1f220bbac361d9cd8397a3fe7da9e878"
+}

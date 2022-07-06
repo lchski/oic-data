@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0015</td><td>2020-01-30</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of PETER F. H. BURN of Ottawa, Ontario, as a permanent member of the Canadian International Trade Tribunal, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=38789&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0015",
+  "htmlHash": "f16deeea2f76a33fc0bce8980c7a8393"
+}

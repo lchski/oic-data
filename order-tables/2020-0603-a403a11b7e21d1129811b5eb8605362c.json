@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0603</td><td>2020-08-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LISA DAWN ALLGAIER of Ottawa, Ontario, to be a part-time member of the Atlantic Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective September 28, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39572&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0603",
+  "htmlHash": "a403a11b7e21d1129811b5eb8605362c"
+}

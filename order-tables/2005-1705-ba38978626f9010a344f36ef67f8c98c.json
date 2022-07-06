@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1705</td><td>2005-09-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 2, 2005-2006</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of WILLIAM H.L. FABRO to be Honorary Consul of Canada at Curaçao, Netherlands Antilles, for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13112&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1705",
+  "htmlHash": "ba38978626f9010a344f36ef67f8c98c"
+}

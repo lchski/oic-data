@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0233</td><td>2005-02-22</td><td></td><td></td><td>,&nbsp; TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a CONTRIBUTION AGREEMENT with the Province of BRITISH COLUMBIA whereby the federal government will make a financial contribution towards the administration, consistent application and enforcement of motor carrier safety standards under the NATIONAL SAFETY CODE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9643&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0233",
+  "htmlHash": "d4e97a02c596c1ee3395ff0dbc5e0c94"
+}

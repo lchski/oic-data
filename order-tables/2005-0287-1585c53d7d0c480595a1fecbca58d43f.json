@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0287</td><td>2005-03-08</td><td></td><td></td><td>,&nbsp; OIC-OLD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) repealing Order in Council P.C. 2004-765; and (b) approving the CORPORATE PLAN of PARC DOWNSVIEW PARK INC. for the 2003-2004 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9765&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0287",
+  "htmlHash": "1585c53d7d0c480595a1fecbca58d43f"
+}

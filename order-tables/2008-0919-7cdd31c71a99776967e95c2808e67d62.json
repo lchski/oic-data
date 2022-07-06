@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0919</td><td>2008-05-09</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of G. GRANT MACHUM of Halifax, Nova Scotia, to be a member of Telefilm Canada to hold office during pleasure for a term ending January 11, 2010, in the place of Suzane Sheaves.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18762&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0919",
+  "htmlHash": "7cdd31c71a99776967e95c2808e67d62"
+}

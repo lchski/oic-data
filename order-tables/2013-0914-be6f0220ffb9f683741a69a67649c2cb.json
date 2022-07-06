@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2013-0914</td><td>2013-09-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; HRSDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Year-to-year changes to the Employment Insurance Premium Rate</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order changing the maximum percentage by which the EMPLOYMENT INSURANCE PREMIUM RATE may be increased or decreased from ONE YEAR to the next to zero one-hundredths of one per cent in 2014.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=28171&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2013-0914",
+  "htmlHash": "be6f0220ffb9f683741a69a67649c2cb"
+}

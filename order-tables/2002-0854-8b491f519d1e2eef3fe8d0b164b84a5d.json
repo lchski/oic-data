@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0854</td><td>2002-05-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument wherein the SKWAY BAND (a) revokes a 1954\nSurrender affecting the whole of Skway Indian Reserve No. 5, in British\nColumbia, and (b) surrenders, for a term of 20 years, some 7.11 hectares\nof that same reserve, for the purpose of leasing them to third parties for\ncommercial and industrial uses.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-0854",
+  "htmlHash": "8b491f519d1e2eef3fe8d0b164b84a5d"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-0639</td><td>2010-05-14</td><td></td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SOPHIE MARCHILDON of Montréal, Quebec, to be a full-time member of the Canadian Human Rights Tribunal to hold office during good behaviour for a term of three years, effective May 31, 2010.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=22613&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-0639",
+  "htmlHash": "da5758d135de40f524429d9b01457c55"
+}

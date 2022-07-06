@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1425</td><td>1992-06-24</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing July 1, 1992 as the day upon which subsections 3(1), 4(1),\n5(1), 9(1), 10(1), 12(1), 13(1), 15(1), 17(1), 25(1), 29(1), 30(1), 39(1),\n40(1), 41(1) and 42(1) of this Act shall apply or COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0127  <strong>Publication Date:</strong> 1992-07-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1425",
+  "htmlHash": "a85cd9f4c3e03e8d2a5eae19392becf2"
+}

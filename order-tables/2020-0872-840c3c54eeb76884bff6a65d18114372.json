@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0872</td><td>2020-11-05</td><td></td><td></td><td>DI,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of the RIGHT HONOURABLE DAVID JOHNSTON, P.C., C.C., C.M.M., C.O.M., C.D., as the Debates Commissioner, to hold office during good behaviour for a term of four years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39877&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0872",
+  "htmlHash": "840c3c54eeb76884bff6a65d18114372"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0545</td><td>1994-04-14</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Schedule A to the FOOD AND DRUGS ACT (Schedule No. 903)\nremoving vaginitis from the disease conditions listed in Schedule A\npermitting clotrimazole and miconazole, topical antifungal preparations\nfor the treatment of vaginal infections, to be promoted to the general\npublic and permitting the term vaginitis to be used, when appropriate, on\nthe label of drug products.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0287  <strong>Publication Date:</strong> 1994-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-0545",
+  "htmlHash": "cc34abb1b1c72f7c1c36d340fd3f64a9"
+}

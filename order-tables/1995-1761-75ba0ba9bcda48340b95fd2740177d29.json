@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1761</td><td>1995-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing the Canadian Radio-television and Telecommunications\nCommission to issue a notice to all television networks throughout Canada\nto broadcast a SPECIAL MESSAGE from the PRIME MINISTER on Wednesday,\nOctober 25, 1995, from 7 p.m. to 7:15 p.m.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0503  <strong>Publication Date:</strong> 1995-11-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1761",
+  "htmlHash": "75ba0ba9bcda48340b95fd2740177d29"
+}

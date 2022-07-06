@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0632</td><td>2000-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CREDIT NOTE INFORMATION REGULATIONS by reducing\nthe overall amount of information that must be set out in a credit note\nused as proof of adjustment, allowing debit notes issued by an intermediary\nto be used for that purpose, and by revising the Long and Short Titles to\nthat effect and to make reference to the Harmonized Sales Tax.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0179  <strong>Publication Date:</strong> 2000-05-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0632",
+  "htmlHash": "3b377a505fa20cc1bf0ac008710d183e"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1029</td><td>2009-06-18</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the National Research Council of Canada to renew its COLLECTIVE AGREEMENT with the Research Council Employees' Association covering all employees in the Technical Category Bargaining Unit, with an expiry date of March 31, 2011.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20901&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1029",
+  "htmlHash": "0709a6dea8d0d0908b3a43ee47305613"
+}

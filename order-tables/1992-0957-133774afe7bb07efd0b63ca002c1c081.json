@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0957</td><td>1992-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 1986-11/958, which authorized the\nleasing to Superpharm (Mtl) Ltd. of space in the passenger terminal at\nMontreal International Airport in Dorval, Quebec, for the operation of a\ngift shop, by revoking the incorrect name of the lessee and substituting\ntherefor the correct one, namely LES BOUTIQUES SORTELLE INC., and by\nrevising the rental fees for the second five-year term of the lease.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0957",
+  "htmlHash": "133774afe7bb07efd0b63ca002c1c081"
+}

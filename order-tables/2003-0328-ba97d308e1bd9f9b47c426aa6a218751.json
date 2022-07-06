@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0328</td><td>2003-03-20</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mr. Justice WILLIAM W. MARSHALL as ADMINISTRATOR of the Government of NEWFOUNDLAND AND LABRADOR, from March 25 to March 29, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=1625&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0328",
+  "htmlHash": "ba97d308e1bd9f9b47c426aa6a218751"
+}

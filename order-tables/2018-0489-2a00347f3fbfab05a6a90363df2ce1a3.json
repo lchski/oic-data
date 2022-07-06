@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0489</td><td>2018-05-03</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">International Development Research  Centre Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PURNIMA MANE of San Mateo, California, United States of America, to be a governor of the Board of Governors of the International Development Research Centre, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36169&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0489",
+  "htmlHash": "2a00347f3fbfab05a6a90363df2ce1a3"
+}

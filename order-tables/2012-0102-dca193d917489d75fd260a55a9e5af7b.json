@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0102</td><td>2012-03-01</td><td></td><td></td><td>AANDC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Polar Commission Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of BARRIE FORD of Kuujjuaq, Quebec, as a member of the Board of Directors of the Canadian Polar Commission to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25569&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0102",
+  "htmlHash": "dca193d917489d75fd260a55a9e5af7b"
+}

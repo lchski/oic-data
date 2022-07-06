@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1823</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF TRANSPORT) 1994-2\nrepealing or correcting the following regulations:\n.\n 1. Motor Vehicle Safety Regulations\n 2. Railway Radio Regulations\n 3. Piggyback Cargo Tanks Regulations\n 4. Notice of Railway Works Regulations\n 5. Mining Near Lines of Railways Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0692  <strong>Publication Date:</strong> 1994-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-1823",
+  "htmlHash": "e8b9bf47da00b83333b5b5860c594c46"
+}

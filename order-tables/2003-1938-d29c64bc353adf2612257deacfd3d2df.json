@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1938</td><td>2003-12-03</td><td></td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the WUSKWI SIPIHK FIRST NATION BAND, of some 403 hectares of land in Manitoba, mines and minerals included, as Wuskwi Sipihk First Nation Indian Reserve No. 1.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5151&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1938",
+  "htmlHash": "d29c64bc353adf2612257deacfd3d2df"
+}

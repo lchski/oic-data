@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0115</td><td>2016-03-08</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Western Economic Diversification Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DYLAN JONES of Calgary, Alberta, to be Deputy Minister of Western Economic Diversification, to hold office during pleasure, effective June 20, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31790&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2016-0115",
+  "htmlHash": "2f03406c93873cdef499c181622afdf5"
+}

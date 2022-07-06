@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-1410</td><td>2005-08-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 1997</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LORNE BABIUK of Saskatoon, Saskatchewan, to be a director of the board of directors of the Canada Foundation for Innovation, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=12311&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-1410",
+  "htmlHash": "a4f9e4761a9610a74496345f8c232b09"
+}

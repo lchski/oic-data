@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1334</td><td>1993-06-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Change of the name of the CHAMBRE DE COMMERCE DE ST-JOSEPH-DU-LAC to the\nCHAMBRE DE COMMERCE DU LAC DES DEUX-MONTAGNES and change of the boundaries\nof its district to the municipalities of St-Joseph du Lac and of\nPointe-Calumet.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1334",
+  "htmlHash": "77acd285c6dc7fe3e86743aadad57073"
+}

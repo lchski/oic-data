@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1257</td><td>2011-10-27</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Application for a Governor in Council review of a court martial decision made under the National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Application for a Governor in Council review of a court martial decision made under the National Defence Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24982&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1257",
+  "htmlHash": "bb62f96eac7c897ad41c4a2404455b7e"
+}

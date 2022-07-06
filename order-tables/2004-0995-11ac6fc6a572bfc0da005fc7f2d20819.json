@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0995</td><td>2004-09-16</td><td></td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Staff Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of KEN E. NORMAN of Saskatoon, Saskatchewan, to be a part-time member of the Public Service Staff Relations Board to hold office during good behaviour for a period of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7807&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0995",
+  "htmlHash": "11ac6fc6a572bfc0da005fc7f2d20819"
+}

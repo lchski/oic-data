@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0761</td><td>1997-05-20</td><td>0</td><td></td><td>INT'L TRADE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to ISRAEL made by Mrs. SHAUGHNESSEY COHEN, M.P.\n(Windsor-St. Clair), from February 21 to February 28, 1997, in order to\nrepresent the Minister at meetings in Tel Aviv and Jerusalem, in\nconnection with the implementation of the Canada-Israel Free Trade\nAgreement and a Canadian business trade mission.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0761",
+  "htmlHash": "cdebec90984a45cd04514e95ed37b595"
+}

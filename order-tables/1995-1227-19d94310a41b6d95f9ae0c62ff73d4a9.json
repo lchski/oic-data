@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1227</td><td>1995-07-26</td><td>0</td><td></td><td>FIN,&nbsp; INT'L TRADE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (a) the EXPORT DEVELOPMENT CORPORATION to set up a\nfinancing subsidiary, to be known as SFI (Structured Financing Inc.),\n(b) authorizing SFI to set up CRJCC (Canadair Regional Jet Credit\nCorporation) and other corporations in concert with others, and (c) to\nacquire interests in other unincorporated bodies.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1227",
+  "htmlHash": "19d94310a41b6d95f9ae0c62ff73d4a9"
+}

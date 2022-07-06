@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1495</td><td>2004-12-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS by increasing rates for the registration of domestic lettermail and for the domestic Acknowledgement of Receipt service, effective January 17, 2005.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0296  <strong>Publication Date:</strong> 2004-12-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8927&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1495",
+  "htmlHash": "51cad8b792f9234f30adcfe91e2bfc6e"
+}

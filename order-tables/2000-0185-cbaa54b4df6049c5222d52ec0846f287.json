@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0185</td><td>2000-02-17</td><td>0</td><td></td><td>,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (a) the Treasury Board to act on all matters relating to\nthe development, establishment and administration of a DENTAL SERVICES PLAN\nor program for all or any pensioners, (b) the President of the Treasury\nBoard to exercise the powers, duties and functions of the Board in that\nregard during intervals between meetings of the Board, and (c) to enter\ninto contracts with an eligible pensioner in connection therewith.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0185",
+  "htmlHash": "cbaa54b4df6049c5222d52ec0846f287"
+}

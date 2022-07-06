@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-0634</td><td>2003-05-06</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of LAWRENCE (LAURIE) JOHN KORCHIN of Saskatoon, Saskatchewan, to be a member of the Review Tribunal for the region of Saskatoon for a term of three years, effective June 13, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2243&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-0634",
+  "htmlHash": "d220e13cdb723aba88d14bd1d320c27f"
+}

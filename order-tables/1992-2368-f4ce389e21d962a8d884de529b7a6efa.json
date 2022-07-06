@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2368</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing a group of ten parliamentarians to travel to NEW YORK\nCITY in October, November and December, 1992, in order to attend the 47th\nGENERAL ASSEMBLY OF THE UNITED NATIONS.\n.\n 1. Mark Assad                      6. Nelson Riis\n 2. Senator Janis Johnson           7. Svend Robinson\n 3. Russell MacLellan               8. Ross Stevenson\n 4. The Hon. Walter F. MacLean      9. Christine Stewart\n 5. Ken Monteith                   10. David Worthy\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2368",
+  "htmlHash": "f4ce389e21d962a8d884de529b7a6efa"
+}

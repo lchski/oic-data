@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-0234</td><td>2012-03-01</td><td></td><td></td><td>,&nbsp; DFO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Saskatchewan Fishery Regulations, 1995</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SASKATCHEWAN FISHERY REGULATIONS, 1995 in order to address issues raised by the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2012-0032  <strong>Publication Date:</strong> 2012-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=25539&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-0234",
+  "htmlHash": "5780d0f26e6a3972f0530d1809129f24"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1759</td><td>2007-11-15</td><td></td><td></td><td>,&nbsp; CWB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the INITIAL PRICES to be paid by The Canadian Wheat Board for grades of AMBER DURUM WHEAT delivered in the 2007-2008 crop year, beginning on August 1, 2007 and ending July 31, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17534&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1759",
+  "htmlHash": "bbc3e2fd9cb395cc13afd1c809ac28f3"
+}

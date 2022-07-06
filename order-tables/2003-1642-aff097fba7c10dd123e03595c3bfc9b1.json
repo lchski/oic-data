@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1642</td><td>2003-10-24</td><td></td><td></td><td>TC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister to enter into a Contribution Agreement with the GREATER TORONTO AIRPORTS AUTHORITY in support of a joint infrastructure project related to the AIR RAIL LINK between Toronto Union Station and Toronto - Lester B. Pearson International Airport.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4554&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1642",
+  "htmlHash": "aff097fba7c10dd123e03595c3bfc9b1"
+}

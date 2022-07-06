@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1024</td><td>2004-09-23</td><td></td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Energy Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the TRANSFERS authorized by the NATIONAL ENERGY BOARD which assign a number of Certificates of Public Convenience and Necessity issued to the NEW BRUNSWICK POWER CORPORATION to its successor companies, namely the New Brunswick Power Transmission Corporation and the New Brunswick Power Distribution and Customer Service Corporation.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7897&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1024",
+  "htmlHash": "e0992a327ee0597fcfc3ff2a612011a6"
+}

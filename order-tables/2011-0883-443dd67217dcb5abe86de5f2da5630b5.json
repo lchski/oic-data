@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-0883</td><td>2011-08-03</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Privacy Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the Schedule to the Privacy Act</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2011-0163  <strong>Publication Date:</strong> 2011-08-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24560&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-0883",
+  "htmlHash": "443dd67217dcb5abe86de5f2da5630b5"
+}

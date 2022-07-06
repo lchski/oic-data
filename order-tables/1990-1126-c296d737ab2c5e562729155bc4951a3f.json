@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1126</td><td>1990-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">1990 WORLD CHAMPIONSHIPS OF AMATEUR BASEBALL REMISSION ORDER respecting\nthe remission of the customs duties and the sales tax.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0356  <strong>Publication Date:</strong> 1990-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1126",
+  "htmlHash": "c296d737ab2c5e562729155bc4951a3f"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1365</td><td>1990-06-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EMR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a supplementary Agreement (Amendment No. 7) which\nwill amend the Canada-Quebec Subsidiary Agreement on Mineral Development in\nsuch a way that additional federal and provincial funds will be made\navailable for the programs set out in that Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1365",
+  "htmlHash": "62e5ddd08e437eec773b079b4e41b23d"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0011</td><td>2001-01-09</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign an Exchange\nof Notes between Canada and the REPUBLIC OF KOREA constituting an AGREEMENT\nRELATING TO THE TRANSFER OF TRITIUM ITEMS FOR THE WOLSONG TRITIUM REMOVAL\nFACILITY, or (b) to issue an Instrument of Full Powers investing other\nrepresentatives with authority to sign the Exchange of Notes on behalf of\nthe Government of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-0011",
+  "htmlHash": "752f56be71bd46de8397ef3df4e5fbee"
+}

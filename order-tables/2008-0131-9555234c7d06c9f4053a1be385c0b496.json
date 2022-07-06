@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0131</td><td>2008-01-29</td><td></td><td></td><td>HRSD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID PETER DUNSTAN GASKIN of Calgary, Alberta, to be Chairperson of the Boards of Referees for the Alberta Regional Division, and particularly for the District of Calgary, for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17976&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0131",
+  "htmlHash": "9555234c7d06c9f4053a1be385c0b496"
+}

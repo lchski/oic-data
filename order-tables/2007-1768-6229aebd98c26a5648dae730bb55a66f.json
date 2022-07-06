@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1768</td><td>2007-11-15</td><td></td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2007-1484 of October 12, 2007 by adding at the end of paragraph (a) the words &lt; effective August 10, 2008 &gt; and by deleting after paragraph (b) the words &lt; effective August 10, 2008 &gt;.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17490&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1768",
+  "htmlHash": "6229aebd98c26a5648dae730bb55a66f"
+}

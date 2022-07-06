@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0133</td><td>2005-02-03</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Toronto Waterfront Revitalization Corporation Act, 2002</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the MINISTER OF CITIZENSHIP AND IMMIGRATION as the representative of Her Majesty in right of Canada for the purposes of this Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0010  <strong>Publication Date:</strong> 2005-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9402&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0133",
+  "htmlHash": "58c7c45dbdcd6bbfa864d1d4615b37f3"
+}

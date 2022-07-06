@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0007</td><td>2009-01-07</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE ET D'INDUSTRIE DE CHÂTEAUGUAY in Quebec to change the boundaries of its district to Châteauguay, Mercier, Ste-Martine, \nSt-Isidore and Léry.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=19850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0007",
+  "htmlHash": "9e82970c5a843d9d1c6a156e40370ce2"
+}

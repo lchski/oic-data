@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0293</td><td>2018-03-12</td><td></td><td></td><td>,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of JOSEPH DONAT MICHEL SÉGUIN of Ottawa, Ontario, as a part-time member of the Military Police Complaints Commission, to hold office during good behaviour for a term of three years, effective March 6, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35956&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0293",
+  "htmlHash": "b2daea5211df3997a779a3ed2e186c7e"
+}

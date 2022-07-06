@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-0876</td><td>2008-05-09</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Pilotage Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappoitment by the Minister of Transport of J.S. (JIM) STONEMAN of Fall River, Nova Scotia, to be a member of the Atlantic Pilotage Authority, to hold office during pleasure for a term of three years, effective May 19, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18719&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-0876",
+  "htmlHash": "2c3a29c8ad4c2e16bc42d464d4a4e37c"
+}

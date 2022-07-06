@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0706</td><td>2004-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Plant Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ASH-FREE ZONE REGULATIONS by requiring the removal and disposal of ash trees from an area in western Chatham Kent (Ontario) and by placing restrictions on the movement of ash materials.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0137  <strong>Publication Date:</strong> 2004-06-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7177&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0706",
+  "htmlHash": "6dd2c06c9ce1fc128287ea5db41e57a4"
+}

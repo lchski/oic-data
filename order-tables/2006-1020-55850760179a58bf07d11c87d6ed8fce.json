@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-1020</td><td>2006-09-21</td><td></td><td></td><td>CRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MAUREEN COULTER INCOME TAX AND EMPLOYMENT INSURANCE PREMIUMS REMISSION ORDER - which remits a portion of the income tax and employment insurance premiums paid or payable by Maureen Coulter for the years 1992 to 1998.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2006-0117  <strong>Publication Date:</strong> 2006-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14964&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-1020",
+  "htmlHash": "55850760179a58bf07d11c87d6ed8fce"
+}

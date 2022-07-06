@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2584</td><td>1992-12-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order exempting PETRO-CANADA LIMITED from the requirement to conduct the\ninternal audit of its operations referred to in subsection 131(3) of the\nFinancial Administration Act, on the grounds that the benefits derived from\nsuch audits would not justify the cost.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2584",
+  "htmlHash": "8229b80aa42a638ed37c048a4868ae52"
+}

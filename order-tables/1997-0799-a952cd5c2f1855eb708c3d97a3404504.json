@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0799</td><td>1997-06-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument of Revocation and Amendment wherein the SHUSWAP\nBAND (a) revokes a 1973 Surrender for leasing and annexes the land\nconcerned to a 1959 Surrender affecting Shuswap Indian Reserve No. 0 in\nBritish Columbia, and (b) makes consequential revisions to the legal\ndescription of all the surrendered land and places limits on the duration\nof any Leases and restrictions on how the land may be used.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0799",
+  "htmlHash": "a952cd5c2f1855eb708c3d97a3404504"
+}

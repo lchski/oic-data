@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0277</td><td>1992-02-13</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the surrender of the leasehold interests held by SHELL CANADA\nPRODUCTS LIMITED (Lease Nos. 111854 and 133953) with respect to certain\ngrounds situated at SYDNEY AIRPORT, in Sydney, Nova Scotia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-0277",
+  "htmlHash": "26e33a6a886c2a2be21c529c8adeb3b2"
+}

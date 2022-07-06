@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-2043</td><td>2005-11-21</td><td>22</td><td>2003</td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Modernization Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting DECEMBER 30, 2005 as the day on which the Public Service Employment Act, chapter P-33 of the Revised Statutes of Canada, 1985, IS REPEALED.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0121  <strong>Publication Date:</strong> 2005-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=13426&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-2043",
+  "htmlHash": "4fac6d42deb51807691f6981df62332c"
+}

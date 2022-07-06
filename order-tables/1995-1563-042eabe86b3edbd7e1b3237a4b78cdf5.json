@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1563</td><td>1995-09-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; VAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as permanent members of the Veterans\nReview and Appeal Board to hold office during good behaviour for a term\neffective September 15, 1995 and ending September 14, 1996.\n(MARGARET C. (ROSS) MacKINNON, Cornwall, Prince Edward Island;\nELIZABETH ANN McNALLY, Mount Stewart, Prince Edward Island; HARVEY CORN,\nWestmount, Quebec; VERN J. MURPHY, Ottawa, Ontario; OLGA E. ROLFE, Corner\nBrook, Newfoundland; JOYCE MARY SMITH, Calgary, Alberta; and\nJAMES MAURICE WOOD, Airdrie, Alberta)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1563",
+  "htmlHash": "042eabe86b3edbd7e1b3237a4b78cdf5"
+}

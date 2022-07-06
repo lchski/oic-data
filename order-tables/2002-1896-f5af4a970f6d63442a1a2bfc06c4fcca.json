@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1896</td><td>2002-11-07</td><td>34</td><td>2000</td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; VAC</td></tr><tr><td>Act</td><td colspan=\"5\">An Act to amend the statute law in relation to war veterans</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing DECEMBER 15, 2002, as the day upon which specified provisions of this Act [BILL C-41], being chapter 34 of the Statutes of Canada, 2000, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2002-0149  <strong>Publication Date:</strong> 2002-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=310&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-1896",
+  "htmlHash": "f5af4a970f6d63442a1a2bfc06c4fcca"
+}

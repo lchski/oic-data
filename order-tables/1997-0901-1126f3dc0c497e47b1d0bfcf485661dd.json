@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0901</td><td>1997-07-03</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; PSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS RESPECTING THE APPOINTMENT OF CERTAIN PERSONS IN THE DEPARTMENT\nOF AGRICULTURE AND AGRI-FOOD - which exempts certain appointments to term\npositions at the Horticulture Research and Development Centre and at the\nLethbridge Research Centre, made in connection with a collaborative\nresearch agreement, from the application of all the provisions of this Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0308  <strong>Publication Date:</strong> 1997-07-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0901",
+  "htmlHash": "1126f3dc0c497e47b1d0bfcf485661dd"
+}

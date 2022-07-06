@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0478</td><td>2006-06-02</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND</td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LIEUTENANT-COLONEL JEAN-GUY PERRON, an officer of the Canadian Forces who is a barrister or advocate of at least ten years standing at the bar of the Province of Ontario, as a military judge, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14401&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0478",
+  "htmlHash": "f88118a82de6ab5e533688f789fd3e24"
+}

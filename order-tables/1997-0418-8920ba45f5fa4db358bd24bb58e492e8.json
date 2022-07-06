@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0418</td><td>1997-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1996-2011 of December 19, 1996\nrespecting the reappointment of J. CLIFFORD McISAAC as a member and\nchairman of the National Farm Products Council by revoking the words\n\"for a term ending March 31, 1997\" and substituting the words \"to hold\noffice during pleasure, until the appointment of a successor\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0418",
+  "htmlHash": "8920ba45f5fa4db358bd24bb58e492e8"
+}

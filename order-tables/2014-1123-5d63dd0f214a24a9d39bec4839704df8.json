@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2014-1123</td><td>2014-10-23</td><td></td><td></td><td>DFATD,&nbsp; NCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Lease with Tammy Bannon and Steven Baker ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION to grant one five-year option, commencing on July 1st, 2018, to renew a lease with TAMMY BANNON AND STEVEN BAKER to occupy a property located at 3229 RICHMOND ROAD in Ottawa.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=29939&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2014-1123",
+  "htmlHash": "5d63dd0f214a24a9d39bec4839704df8"
+}

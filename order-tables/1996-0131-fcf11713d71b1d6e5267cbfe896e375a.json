@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0131</td><td>1996-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LGC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GHISLAINE RINGUETTE CRAWFORD, of Moncton, New Brunswick,\nas the Returning Officer for the electoral district of Moncton.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0131",
+  "htmlHash": "fcf11713d71b1d6e5267cbfe896e375a"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0475</td><td>1996-03-29</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the LEASING by the NATIONAL CAPITAL COMMISSION to ROYAL\nTOURANGEAU, RÉJEAN GUINDON and PIERRE LEFEBVRE, for a term of 20 years, of\nsome 4.5 hectares of land and the three-storey building situate at\n1510 St. Joseph Boulevard in Gloucester, Ontario, for use as a retirement\nhome offering special health care services.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1996-0475",
+  "htmlHash": "d8beb63717f56690729b2ba7863049d6"
+}

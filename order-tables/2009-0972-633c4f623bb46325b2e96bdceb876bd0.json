@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-0972</td><td>2009-06-11</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Public Works and Government Services Canada, 12 York Street, Ottawa - Lease Extension.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the National Captial Commission to grant a lease longer than five years by granting three options of one-year each to extend, starting July 1, 2013, on an existing five-year lease.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=20823&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-0972",
+  "htmlHash": "633c4f623bb46325b2e96bdceb876bd0"
+}

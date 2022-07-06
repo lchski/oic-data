@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2005-0005</td><td>2005-01-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving notice of decisions (a) NOT TO ADD the PACIFIC SOCKEYE SALMON, the POLAR BEAR, the GRIZZLY BEAR and the WOLVERINE to the list of endangered species; and (b) to refer the assessment for speckled dace back to COSEWIC for further information and consideration.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2005-0002  <strong>Publication Date:</strong> 2005-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=9171&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2005-0005",
+  "htmlHash": "c09c32f530109d41b353493e77df5b8a"
+}

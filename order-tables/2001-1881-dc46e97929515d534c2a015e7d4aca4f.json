@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1881</td><td>2001-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL PARKS GARBAGE REGULATIONS by raising\ngarbage collection fees in Jasper National Park by approximately 15%, by\nmaking the use of self-dumping garbage containers mandatory in six parks,\nand by making such other amendments as are required to make them consistent\nwith the new Canada National Parks Act [Bill C-27].\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0449  <strong>Publication Date:</strong> 2001-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-1881",
+  "htmlHash": "dc46e97929515d534c2a015e7d4aca4f"
+}

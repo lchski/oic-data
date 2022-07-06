@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2015-1066</td><td>2015-07-08</td><td></td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Atomic Energy of Canada Limited ** number of directors **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing ATOMIC ENERGY OF CANADA LIMITED to apply for articles of amendment to DECREASE the minimum number of its directors to five and the maximum number of its directors to seven.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=31400&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2015-1066",
+  "htmlHash": "53d2c57308a8674834571002d49aa581"
+}

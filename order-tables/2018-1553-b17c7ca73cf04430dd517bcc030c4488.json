@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1553</td><td>2018-12-12</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHELAINE T. LAHAIE of Calabogie, Ontario, to be a full-time member and Chairperson of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, to hold office during good behaviour for a term of five years, effective January 2, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37240&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-1553",
+  "htmlHash": "b17c7ca73cf04430dd517bcc030c4488"
+}

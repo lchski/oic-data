@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1304</td><td>1999-07-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing WEDNESDAY, SEPTEMBER 1st, 1999, as the day upon which this Act\n[Bill C-25] being chapter 35 of the Statutes of Canada, 1998, shall COME\nINTO FORCE, except for sections 4, 7, 10, 12 of the Act, section 250 to\n250.53 of the National Defence Act, as enacted by section 82 of the Act,\nand sections 103, 104, 106, 107, 122 and 123 and 125 of the Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0075  <strong>Publication Date:</strong> 1999-07-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1304",
+  "htmlHash": "9001fea95797f53c851cb21f02094c08"
+}

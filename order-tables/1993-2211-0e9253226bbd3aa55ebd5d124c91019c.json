@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2211</td><td>1993-12-29</td><td>0</td><td></td><td></td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Lorenne M.G. Clark, of Hornby Island, British Columbia, as\na member of the Immigration Appeal Division of the Immigration and Refugee\nBoard (Vancouver Regional Office), to hold office during good behaviour,\nfor a term of three years, effective January 1, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-2211",
+  "htmlHash": "0e9253226bbd3aa55ebd5d124c91019c"
+}

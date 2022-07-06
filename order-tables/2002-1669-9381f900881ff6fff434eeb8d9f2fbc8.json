@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1669</td><td>2002-09-25</td><td>0</td><td></td><td>HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the CANADIAN BROADCASTING CORPORATION, as lessee, to\nlease space in a building known as the Edmonton City Centre East in\nEdmonton, Alberta, from OXFORD PROPERTIES GROUP INC., for a term of 15\nyears, together with an option to renew the lease up to four times for a\nterm of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2002-1669",
+  "htmlHash": "9381f900881ff6fff434eeb8d9f2fbc8"
+}

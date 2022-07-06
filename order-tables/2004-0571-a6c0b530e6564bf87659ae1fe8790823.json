@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0571</td><td>2004-05-05</td><td></td><td></td><td>PTB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Wheat Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD (a) to adjust its accounts, as of December 31, 2003,  by transferring the undistributed balance of funds in the 1996-1997 pool accounts for amber durum wheat and designated barley to a separate account; and (b) to pay to producers, out of that account, the amount to which they are entitled.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=6922&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0571",
+  "htmlHash": "a6c0b530e6564bf87659ae1fe8790823"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1074</td><td>1999-06-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following officers of the Royal Canadian Mounted Police:\n.\n  OFFICER                                       NEW RANK\n  _______________________________________       _________________________\n.\n1. Superintendent Gary David BASS               Chief Superintendent\n2. Inspector Joseph Gérard Rosaire André DION   Superintendent\n3. Superintendent Joseph Donat Michel SÉGUIN    Chief Superintendent\n4. Inspector Beneddetto Soave                   Superintendent\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1074",
+  "htmlHash": "6789816e7c697dfa148734ad0ec9b40b"
+}

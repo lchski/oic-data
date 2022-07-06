@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0386</td><td>2007-03-22</td><td></td><td></td><td>PSEP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Preparedness Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 92 - which authorizes the federal government to provide financial assistance to the NORTHWEST TERRITORIES in respect of damage to public and private property in the Hamlet of Aklavik caused by flooding along the Mackenzie River in the Spring of 2006.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16078&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0386",
+  "htmlHash": "9469a3f92ed1e07768c7613663c316e2"
+}

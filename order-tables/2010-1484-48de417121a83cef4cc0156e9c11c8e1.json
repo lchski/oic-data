@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1484</td><td>2010-11-25</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Consumer Products Containing Lead (Contact with Mouth) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CONSUMER PRODUCTS CONTAINING LEAD (CONTACT WITH MOUTH) REGULATIONS by placing a regulatory limit of 90 mg/kg total lead on certain consumer products.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2010-0273  <strong>Publication Date:</strong> 2010-12-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23429&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1484",
+  "htmlHash": "48de417121a83cef4cc0156e9c11c8e1"
+}

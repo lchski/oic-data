@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2008-1052</td><td>2008-06-12</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order remitting applicable drug evaluation fees to APOTEX INC. for a drug submission under Canada's Access to Medicines Regime (CAMR) by making the annexed APO-TRIAVIR EVALUATION FEES REMISSION ORDER.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2008-0068  <strong>Publication Date:</strong> 2008-06-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=18884&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2008-1052",
+  "htmlHash": "ce966d701b53d744aedb5d97b3972208"
+}

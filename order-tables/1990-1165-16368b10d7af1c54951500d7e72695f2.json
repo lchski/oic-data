@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1165</td><td>1990-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EMR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement among Her Majesty in right of Canada,\nEsso Resources Canada Limited, Petro-Canada Inc., Canadian Occidental\nPetroleum Ltd., Gulf Canada Resources Limited, PanCanadian Petroleum\nLimited, Her Majesty in right of the Province of Alberta and OSLO Alberta\nLimited which provides for the making of a financial contribution towards\nthe costs of undertaking field work and engineering studies in connection\nwith an integrated oil sands surface mining and synthetic crude oil\nproduction project.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1165",
+  "htmlHash": "16368b10d7af1c54951500d7e72695f2"
+}

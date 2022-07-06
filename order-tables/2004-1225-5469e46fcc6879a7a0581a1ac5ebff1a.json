@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-1225</td><td>2004-10-21</td><td></td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SERGE LABONTÉ of Ottawa, Ontario, to be a delegate to the International Council for the Exploration of the Sea, to hold office during pleasure.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=8197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-1225",
+  "htmlHash": "5469e46fcc6879a7a0581a1ac5ebff1a"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0223</td><td>2020-04-03</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Import Control List</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the IMPORT CONTROL LIST in order to ensure that Canada complies with its international commitments and supports the implementation of Canada-United States-Mexico Agreement.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2020-0069  <strong>Publication Date:</strong> 2020-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39065&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0223",
+  "htmlHash": "a84c85acf2f3418138d2968e89ca4e13"
+}

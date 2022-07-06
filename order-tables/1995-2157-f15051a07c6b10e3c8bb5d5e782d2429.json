@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2157</td><td>1995-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EIC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GIRARD LANDRY, of Trois-Rivières-Ouest, Quebec, as\nChairperson of the Boards of Referees for the Quebec Regional Division,\nand particularly for the District of Trois-Rivières, for a term of three\nyears, effective January 23, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-2157",
+  "htmlHash": "f15051a07c6b10e3c8bb5d5e782d2429"
+}

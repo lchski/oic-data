@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1679</td><td>1999-09-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of a total of some 599 hectares of land in Saskatchewan,\nmines and minerals included, for the use and benefit of the ONE ARROW BAND\nas an addition to One Arrow Indian Reserve No. 95 or as new reserves Nos.\n95-1B, 95-1C and 95-1D, together with the mineral rights associated with\nanother 5.66 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-1679",
+  "htmlHash": "6899c4ef16921ea1343ac58f9a26ecce"
+}

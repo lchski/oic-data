@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0107</td><td>2006-02-16</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Constitution Act, 1867</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of The Hon. Mr. Justice FREDERICK ALLEN MELVIN to serve as ADMINISTRATOR of the Government of BRITISH COLUMBIA from March 25 to April 18, 2006, inclusive.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14012&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0107",
+  "htmlHash": "f22a5f8d1860b4a6487133b18f8ea9f2"
+}

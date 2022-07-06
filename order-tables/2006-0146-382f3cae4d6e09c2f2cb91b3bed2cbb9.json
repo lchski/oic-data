@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2006-0146</td><td>2006-03-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSEP</td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Preparedness Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCIES FINANCIAL ASSISTANCE ORDER NO. 85 - which declares the heavy rainfall on August 31, 2005, that caused extensive damage in QUEBEC, primarily along the North Shore of the St. Lawrence River, to be of concern to the federal government, and authorizes the provision of financial assistance in respect thereof.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=14044&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2006-0146",
+  "htmlHash": "382f3cae4d6e09c2f2cb91b3bed2cbb9"
+}

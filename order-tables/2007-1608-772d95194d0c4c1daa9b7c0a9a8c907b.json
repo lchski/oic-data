@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-1608</td><td>2007-10-25</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval that the Minister of Agriculture and Agri-Food to enter into an agreement with the Government of the Province of Quebec, for the provision of one-time payments of federal funding under the Agrilnvest Kickstart program.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=17314&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-1608",
+  "htmlHash": "772d95194d0c4c1daa9b7c0a9a8c907b"
+}

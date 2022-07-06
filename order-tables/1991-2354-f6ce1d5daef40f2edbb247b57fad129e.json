@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2354</td><td>1991-11-28</td><td>0</td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1989-988, which accepted from the\nProvince of SASKATCHEWAN the transfer of certain lands, by deleting\ntherefrom the words: \"for so long as the said lands are administered,\npreserved and maintained by Her Majesty in right of Canada as National\nHistoric Park\" and substituting therefor the words:  \"for so long as the\nsaid lands are administered and maintained by Her Majesty in right of\nCanada for park purposes in support of the FORT WALSH NATIONAL HISTORIC\nPARK\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2354",
+  "htmlHash": "f6ce1d5daef40f2edbb247b57fad129e"
+}

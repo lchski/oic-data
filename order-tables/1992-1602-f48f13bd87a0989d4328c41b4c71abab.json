@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1602</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting a \"designation\" duly approved by the SHAMATTAWA FIRST\nNATION BAND OF INDIANS whereby the band conditionally surrenders a parcel\nof land situate on Shamattawa Indian Reserve No. 1 in the Province of\nManitoba so that it can be leased to third party interests (2693403\nManitoba Ltd.)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1602",
+  "htmlHash": "f48f13bd87a0989d4328c41b4c71abab"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1886</td><td>2003-12-02</td><td></td><td></td><td>LGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Elections Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOSEPH WAYNE KUGLIN of Elora, Ontario, to be the Returning Officer for the electoral district of Wellington--Halton Hills, as established in the Representation Order proclaimed on August 25, 2003.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=4822&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1886",
+  "htmlHash": "4ec8466ba49de8c9c4a0af73be80d7e1"
+}

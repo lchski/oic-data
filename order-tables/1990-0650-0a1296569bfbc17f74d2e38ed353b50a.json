@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0650</td><td>1990-03-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to present a commemorative Inuit print to the TUNGAVIK FEDERATION\nOF NUNAVUT and another to the Government of the Northwest Territories on\nthe occasion of the signing of a Comprehensive Land Claim Agreement-in-\nPrinciple to be held in Igloolik, N.W.T.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-0650",
+  "htmlHash": "0a1296569bfbc17f74d2e38ed353b50a"
+}

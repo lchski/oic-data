@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2122</td><td>1994-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for International Trade of\neach of the following persons as a director of the Board of Directors of\nthe Export Development Corporation to hold office during pleasure for a\nterm of three years:\nDOROTHY E. BYRNE, Vancouver, B.C., in the place of Jonathan Deitcher;\nM. JANE MARTIN, Mississauga, Ontario, in the place of Bruce Sully; and\nJAMES A. PATTILLO, Calgary, Alberta, in the place of Timothy A. Chisholm\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-2122",
+  "htmlHash": "85c20d5d605535c948cc2ea8d5b418d5"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1847</td><td>1993-09-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; PWC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of Quebec (a) of administration and control of\nthe interests of the Crown under a lease in respect of certain offices\nlocated in LE FAUBOURG STE-CATHERINE at 1616 St. Catherine Street West,\nMontreal, Quebec, and (b) of the furniture and office equipment located on\nthose premises which are used in the administration of the Goods and\nServices Tax (GST).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1993-1847",
+  "htmlHash": "5659205b1152e4151941d8d90dd9a0f4"
+}

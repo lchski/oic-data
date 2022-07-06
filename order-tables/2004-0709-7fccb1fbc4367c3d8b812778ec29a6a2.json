@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0709</td><td>2004-05-19</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE CUSTOMS TARIFF, 2004-2 which reduces or eliminates the tariffs on diisobutylene, dry soap, reflective tape, carbide inserts and bits, on certain printed, dyed and embroidered fabrics and on coated synthetic woven fabrics used in the manufacturing of conveyor belts, etc.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2004-0139  <strong>Publication Date:</strong> 2004-06-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=7183&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0709",
+  "htmlHash": "7fccb1fbc4367c3d8b812778ec29a6a2"
+}

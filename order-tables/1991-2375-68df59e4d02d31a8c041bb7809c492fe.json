@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2375</td><td>1991-11-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FORCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-YUKON COOPERATION AGREEMENT: FORESTY\nDEVELOPMENT (1991-1996) which provides for the implementation of cost-\nshared programs designed to promote the sustainable development of forest\nresources, to create employment, to diversify the economy, etc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-2375",
+  "htmlHash": "68df59e4d02d31a8c041bb7809c492fe"
+}

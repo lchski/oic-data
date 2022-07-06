@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1376</td><td>2003-09-18</td><td></td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Agricultural Products Marketing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the NEW BRUNSWICK PRIMARY FOREST PRODUCTS ORDER by authorizing the Madawaska Forest Products Marketing Board to regulate the marketing of primary forest products in interprovincial and export trade.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2003-0316  <strong>Publication Date:</strong> 2003-10-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=3846&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1376",
+  "htmlHash": "e94624d4220ca425c79c0a2f287f9de3"
+}

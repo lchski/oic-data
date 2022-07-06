@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0463</td><td>2000-03-30</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of three Variation Orders made by the NATIONAL ENERGY BOARD which\napprove a change in name of the authorized holder of Gas Export Licences\nGL-117, GL-118 and GL-205 from Poco Petroleums Ltd. to BURLINGTON RESOURCES\nCANADA ENERGY LTD.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0463",
+  "htmlHash": "f6233f97d018268f45fb9f7aaa6c786a"
+}

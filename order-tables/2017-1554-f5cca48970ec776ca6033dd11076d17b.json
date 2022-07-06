@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2017-1554</td><td>2017-12-12</td><td></td><td></td><td>,&nbsp; PSPC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Post Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JESSICA LEE MCDONALD of Vancouver, British Columbia, to be Chairperson of the Board of Directors of the Canada Post Corporation, to hold office during pleasure for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=35464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2017-1554",
+  "htmlHash": "f5cca48970ec776ca6033dd11076d17b"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0099</td><td>1997-01-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the ENVIRONMENTAL STUDIES RESEARCH FUND REGIONS REGULATIONS\nwhich redefine the boundaries of two prescribed regions, namely the Georges\nBank Region, located offshore Nova Scotia, and the St. Pierre and Miquelon\nRegion, located offshore Newfoundland and Nova Scotia.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0104  <strong>Publication Date:</strong> 1997-02-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-0099",
+  "htmlHash": "5cb269951bed8a0ebd061373c45261f0"
+}

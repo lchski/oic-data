@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2012-1266</td><td>2012-10-04</td><td></td><td></td><td>CIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of TERESA TAK YAN CHEUNG of Toronto, Ontario, as a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years, effective November 23, 2012.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=26734&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2012-1266",
+  "htmlHash": "6422eedcc8cfb9b08f5b60b33031034f"
+}

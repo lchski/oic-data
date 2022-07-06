@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2367</td><td>2001-12-13</td><td>0</td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of MICHAEL A. ROSS, of North Vancouver, British Columbia,\nas a full-time member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Vancouver Regional Office), to hold\noffice during good behaviour for a term of five years, effective\nJanuary 10, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2001-2367",
+  "htmlHash": "02826aff676c10f8706ebd5ed1ac01fc"
+}

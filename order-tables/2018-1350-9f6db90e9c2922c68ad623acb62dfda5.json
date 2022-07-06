@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-1350</td><td>2018-11-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE DAWN PENTELECHUK, to be a Justice of Appeal of the Court of Appeal of Alberta, a Judge ex officio of the Court of Queen's Bench of Alberta, a Judge of the Court of Appeal for the Northwest Territories, and a Judge of the Court of Appeal of Nunavut during her tenure of office as a Justice of Appeal of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=37030&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-1350",
+  "htmlHash": "9f6db90e9c2922c68ad623acb62dfda5"
+}

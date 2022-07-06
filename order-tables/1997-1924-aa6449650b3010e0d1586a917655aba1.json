@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1924</td><td>1997-12-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by TransGas Limited of its power to take\nthree parcels of land situated on MUSKOWEKWAN INDIAN RESERVE NO. 85-17 for\nnatural gas transmission pipeline purposes and (b) authorizing the easement\nsubject to the term that the easement be relinquished when no longer used\nfor the specified purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1997-1924",
+  "htmlHash": "aa6449650b3010e0d1586a917655aba1"
+}

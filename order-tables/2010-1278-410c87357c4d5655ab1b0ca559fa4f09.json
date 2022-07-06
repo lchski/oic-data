@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2010-1278</td><td>2010-10-21</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Yale First Nation (BC) \nAbsolute Surrender \nI.R. No. 17</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting the ABSOLUTE SURRENDER by the YALE FIRST NATION of its rights to or interest in approximately 11.5 hectares (28.42 acres) of land comprising Yale Indian Reserve No. 17 in the Province of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=23264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2010-1278",
+  "htmlHash": "410c87357c4d5655ab1b0ca559fa4f09"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1033</td><td>1990-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the entry by the Minister of Agriculture, into an agreement with\nthe provinces to amend the FEDERAL PROVINCIAL AGREEMENT in respect of the\ncomprehensive marketing program for the purpose of REGULATING THE\nMARKETING OF EGGS in Canada, governing the operations of the Canadian Egg\nMarketing Agency.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1990-1033",
+  "htmlHash": "a0e414bc3ad619fe2105a25fdb2d826d"
+}

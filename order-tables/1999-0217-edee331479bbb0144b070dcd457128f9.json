@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0217</td><td>1999-02-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; LAB,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CLAIRE MORRIS, of Fredericton, New Brunswick, as Deputy\nMinister of Human Resources Development, to hold office during pleasure;\ndesignation of CLAIRE MORRIS as Deputy Minister of Labour; and\nappointment of CLAIRE MORRIS as a commissioner of the Canada Employment\nInsurance Commission, who shall be the Chairperson of the Commission.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1999-0217",
+  "htmlHash": "edee331479bbb0144b070dcd457128f9"
+}

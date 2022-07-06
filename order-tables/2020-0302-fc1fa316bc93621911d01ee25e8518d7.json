@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2020-0302</td><td>2020-05-01</td><td></td><td></td><td>PS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LESLEY MONKMAN of Norway House, Manitoba, as a part-time member of the Prairie Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective June 26, 2020.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=39212&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2020-0302",
+  "htmlHash": "fc1fa316bc93621911d01ee25e8518d7"
+}

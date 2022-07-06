@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0533</td><td>2007-04-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requiring the CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION to report to the Governor in Council, at least once a year, on complaints received from individuals and small business customners regarding services provided by telecommunications service providers, and to submit its first report no later than April 6, 2008.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=16132&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2007-0533",
+  "htmlHash": "6371585ff919565ccc0f1ebd6a9fc856"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2021-1069</td><td>2021-12-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Official Residences Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Che Chartrand ** Termination **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order terminating the appointment of CHE CHARTRAND, Chef at the Prime Minister's residence, effective December 10, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=41446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2021-1069",
+  "htmlHash": "04272fec5a895f21dc3dad73b879b3b6"
+}

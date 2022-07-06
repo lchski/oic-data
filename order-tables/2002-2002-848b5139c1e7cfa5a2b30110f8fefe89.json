@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-2002</td><td>2002-11-25</td><td></td><td></td><td>,&nbsp; FIN,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Employment Insurance Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting of the Employment Insurance PREMIUM RATE for the 2003 calendar year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=383&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2002-2002",
+  "htmlHash": "848b5139c1e7cfa5a2b30110f8fefe89"
+}

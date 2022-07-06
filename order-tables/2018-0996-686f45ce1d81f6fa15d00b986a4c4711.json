@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0996</td><td>2018-07-16</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration of SUSAN DUJMOVIC, former director of the Board of Directors of the Royal Canadian Mint, for the period she acted as Chairperson of the Board of Directors of the Royal Canadian Mint on an interim basis for the period commencing on August 18, 2017 and ending on May 10, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=36669&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2018-0996",
+  "htmlHash": "686f45ce1d81f6fa15d00b986a4c4711"
+}

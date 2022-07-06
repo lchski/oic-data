@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1503</td><td>1991-08-13</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Voiding of the election of STAN WALLACE, who was elected to the office of\ncouncillor by the MOUNT CURRIE BAND of Indians in British Columbia on\nJanuary 27, 1991, due to a violation of the Indian Band Election\nRegulations which might have affected the results of the election.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1991-1503",
+  "htmlHash": "f2a1ce5195855d67e22ce7bf1d8890c5"
+}

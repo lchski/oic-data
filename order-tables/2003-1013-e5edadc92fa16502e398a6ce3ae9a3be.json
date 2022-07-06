@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2003-1013</td><td>2003-06-18</td><td></td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">An Act to incorporate the Canadian  Medical Protective Association  (S.C. 1913, c. 91)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sanctionning of BY-LAW NO. 49 as adopted by THE CANADIAN MEDICAL PROTECTIVE ASSOCIATION at its meeting of August 2, 2002, which, inter alia, opens membership eligibility to any duly licensed member of the medical profession without need for membership in, or nomination by, members of The Canadian Medical Association.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=2991&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2003-1013",
+  "htmlHash": "e5edadc92fa16502e398a6ce3ae9a3be"
+}

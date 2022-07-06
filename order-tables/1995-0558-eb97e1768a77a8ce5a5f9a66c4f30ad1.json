@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0558</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to the HONOURABLE GEORGE W. ADAMS, a Judge of the Ontario\nCourt of Justice (General Division), to act, pursuant to subsections 10(4)\nand 32(4) of the Maintenance of Railways Operations Act, 1995, as\nChairperson of the Mediation-Arbitration Commissions referred to in\nsections 9 and 31 of the said Act.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-0558",
+  "htmlHash": "eb97e1768a77a8ce5a5f9a66c4f30ad1"
+}

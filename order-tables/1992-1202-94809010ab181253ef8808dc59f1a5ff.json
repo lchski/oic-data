@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1202</td><td>1992-06-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip undertaken by Senator Gerald A. Ottenheimer,\nGeorge S. Baker, M.P., Peter L. McCreath, M.P., and David Stupich, M.P.,\nto several European countries from May 25 to June 1, 1992, as part of a\nJoint Parliamentary, Industry and Union Delegation whose purpose was to\naddress audiences in the European Community on the question of foreign\noverfishing in the North Atlantic.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-1202",
+  "htmlHash": "94809010ab181253ef8808dc59f1a5ff"
+}

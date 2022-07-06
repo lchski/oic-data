@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2129</td><td>1994-12-20</td><td>0</td><td></td><td>EMR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of the following five Orders in Council which authorized the\nMinister of Energy, Mines and Resources to prescribe fees and charges for\nservices and products:\n.\n  1. P.C. 1972-724             4. P.C. 1982-1125\n  2. P.C. 1974-1/2361          5. P.C. 1983-1507\n  3. P.C. 1981-239\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0001  <strong>Publication Date:</strong> 1995-01-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1994-2129",
+  "htmlHash": "06fbbd761e3debd799f8716fd9c1fb07"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2496</td><td>1992-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CAMECO CORPORATION REMISSION ORDER respecting the remission of tax under\nPart IX of the Excise Tax Act paid or payable by the Cameco Corporation\nunder contracts entered into in writing prior to May 23, 1991 in respect\nof the supplies of uranium concentrates made by the Cameco Corporation to\nnon-registered non-residents.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0215  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1992-2496",
+  "htmlHash": "38caa47197bcdd64cc3129b8d8169786"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2009-1563</td><td>2009-09-10</td><td></td><td></td><td>ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">National Defence Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CHARLES FREDERICK BLAIR of Wooler, Ontario, as a part-time member of the Canadian Forces Grievance Board to hold office during good behaviour for a term of three years, effective September 15, 2009.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=21446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2009-1563",
+  "htmlHash": "3ef24330c1552083dc4e2a9b6f7313cf"
+}

@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2004-0091</td><td>2004-02-16</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INT'L COOP,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip by ROY CULLEN, M.P. (Etobicoke North), to Nairobi, Kenya, from December 2 to 5, 2003, to attend an Anti-Money Laundering and Combating the Financing of Terrorism workshop.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=5795&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2004-0091",
+  "htmlHash": "941af77e63e6152f9d3469309a80ba8f"
+}

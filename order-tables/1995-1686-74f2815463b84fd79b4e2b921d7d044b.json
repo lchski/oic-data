@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1686</td><td>1995-10-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the Right Hon. Jean Chrétien or the Minister of Foreign\nAffairs to sign the Agreement for the Avoidance of Double Taxation and\nthe Prevention of Fiscal Evasion with respect to TAXES ON INCOME AND ON\nCAPITAL between Canada and the FEDERATION OF RUSSIA, or (b) to execute and\nissue an Instrument of Full Powers authorizing the Hon. Paul Martin,\nDavid A. Dodge, or Jeremy K.B. Kinsman to sign the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "1995-1686",
+  "htmlHash": "74f2815463b84fd79b4e2b921d7d044b"
+}

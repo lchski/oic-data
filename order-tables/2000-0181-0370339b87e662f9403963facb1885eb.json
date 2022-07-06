@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0181</td><td>2000-02-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA PENSION PLAN REGULATIONS by establishing the maximum contribution, the maximum pensionable earnings and the premiums payable for the year 2000.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0061  <strong>Publication Date:</strong> 2000-03-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
+  "pcNumber": "2000-0181",
+  "htmlHash": "0370339b87e662f9403963facb1885eb"
+}

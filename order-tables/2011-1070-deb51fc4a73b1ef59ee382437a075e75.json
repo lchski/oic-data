@@ -1,0 +1,5 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2011-1070</td><td>2011-09-29</td><td></td><td></td><td>CH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES BRADLEY STAFFORD, of Vancouver, British Columbia, to be a trustee of the Board of Trustees of the Canadian Museum of Immigration at Pier 21 to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=24747&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2011-1070",
+  "htmlHash": "deb51fc4a73b1ef59ee382437a075e75"
+}
