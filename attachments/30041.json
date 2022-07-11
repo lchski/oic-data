@@ -1,0 +1,4 @@
+{
+  "id": "30041",
+  "attachmentHtml": "\n<p><strong>PC Number: </strong>2014-1224<br></p><p><strong>Date: </strong>2014-10-30</p><hr><p></p><form method=\"post\" action=\"index.php\"><input type=\"submit\" value=\"Back to Form\" class=\"btn btn-primary\" name=\"return\"></form>\t\t\n        <!-- end main content -->\n        <div id=\"def-preFooter\">\n       \t\t<!-- Write closure fall-back static file -->\n             <!--Response.Write readFile(\"StaticFallbackFiles/gcweb/preFooter-\" & $lang & \".html\") -->\n        </div>\n\t\t<!-- Write closure template -->\n        <script type=\"text/javascript\">\n            var defPreFooter = document.getElementById(\"def-preFooter\");\n            defPreFooter.outerHTML = wet.builder.preFooter({\n                cdnEnv: \"prod\",\n                dateModified: \"2022-07-11\",\n                showPostContent: true\n            });\n        </script>\n    "
+}
