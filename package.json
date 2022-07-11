@@ -9,10 +9,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "crypto-js": "^4.1.1",
+    "node-fetch": "^3.2.6",
     "puppeteer": "^15.3.0"
   },
   "devDependencies": {
     "jsdom": "^20.0.0"
-  }
+  },
+  "type": "module"
 }
