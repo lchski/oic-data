@@ -16,6 +16,7 @@ const puppeteer = require('puppeteer');
 const MD5 = require('crypto-js/md5');
 
 const savedOrderTablesPath = 'order-tables/';
+const attachmentIdsPath = 'attachment-ids.json';
 
 // NB: run within the puppeteer Chrome instance—doesn't have access to script scope
 async function extractOrderTables() {
@@ -27,8 +28,9 @@ async function extractOrderTables() {
 		attachments: Array.from(
 			tableNode.querySelectorAll('a'))
 				.map(linkNode => linkNode.href.replace(linkNode.origin, "").replace("/", "")) // get just "attachment.php" and on
-				.filter(linkHref => linkHref.includes('attachment.php')
-		)
+				.filter(linkHref => linkHref.includes('attachment.php'))
+				.map(linkHref => linkHref.replace('attachment.php?attach=', ''))
+				.map(linkHref => linkHref.replace('&lang=en', ''))
 	}));
 }
 
@@ -50,10 +52,17 @@ function filenameFromOrderTable(orderTable) {
 }
 
 function saveOrderTables(orderTables) {
+	let attachmentIds = JSON.parse(fs.readFileSync(attachmentIdsPath));
+
 	orderTables.forEach((orderTable) => {
 		console.log(`saving ${filenameFromOrderTable(orderTable)}`);
+
+		attachmentIds = [...new Set([...orderTable.attachments, ...attachmentIds])].sort();
+
 		fs.writeFileSync(`${savedOrderTablesPath}${filenameFromOrderTable(orderTable)}`, JSON.stringify(orderTable, null, 2));
 	});
+
+	fs.writeFileSync(attachmentIdsPath, JSON.stringify(attachmentIds, null, 2));
 }
 
 (async function scrape() {
@@ -67,7 +76,7 @@ function saveOrderTables(orderTables) {
 
 	// get list of stored tables from disk, convert to comparable form
 
-	let savedOrderTables = fs.readdirSync(savedOrderTablesPath).filter(filename => filename !== ".gitkeep");
+	let savedOrderTables = fs.readdirSync(savedOrderTablesPath).filter(filename => filename.endsWith("json"));
 
 	await page.waitForSelector('.btn-toolbar');
 
