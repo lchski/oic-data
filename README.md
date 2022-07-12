@@ -6,6 +6,10 @@ The [Orders in Council (OIC) database](https://orders-in-council.canada.ca/) is 
 
 This project mirrors OICs, and their attachments, once a day.
 
+The database’s disclaimer _extra applies_ to this dataset:
+
+> The Orders in Council available through this website are not to be considered to be official versions, and are provided only for information purposes. If you wish to obtain an official version, please [contact the Orders in Council Division](https://www.canada.ca/en/privy-council/services/orders-in-council.html#summary-details3).
+
 
 ## How it works
 
