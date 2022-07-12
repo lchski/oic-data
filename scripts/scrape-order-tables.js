@@ -10,10 +10,10 @@
 
 */
 
-const fs = require('fs');
+import fs from 'fs';
 
-const puppeteer = require('puppeteer');
-const MD5 = require('crypto-js/md5');
+import puppeteer from 'puppeteer';
+import MD5 from 'crypto-js/md5.js';
 
 const savedOrderTablesPath = 'order-tables/';
 const attachmentIdsPath = 'attachment-ids.json';
