@@ -29,7 +29,7 @@ for (const attachmentId of attachmentIds) {
 
 	fs.writeFileSync(savedAttachmentPath, JSON.stringify(attachmentData, null, 2));
 
-	console.log(`scraped and saved: ${attachmentId} at ${savedAttachmentPath}`);
+	console.log(`scraped and saving: ${attachmentId} at ${savedAttachmentPath}`);
 }
 
 async function fetchPage(pageUrl) {
