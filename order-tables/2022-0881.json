@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0881</td><td>2022-07-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; NRCAN,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Energy Regulator Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order to Extend the Decision Deadline with Respect to the West Path Delivery 2023 Project Proposed by NOVA Gas Transmission Ltd.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order extending the time limit for the Governor in Council decision on NOVA GAS TRANSMISSION LTD.’S PROPOSED WEST PATH DELIVERY 2023 PROJECT to November 30, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42454&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0881",
+  "attachments": [
+    "42454"
+  ],
+  "htmlHash": "e9dc025c3f746e81bb43556bad3bdd01"
+}

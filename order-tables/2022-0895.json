@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0895</td><td>2022-07-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2022, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing September 1, 2022 as the Day on Which Certain Provisions of the Select Luxury Items Tax Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing September 1, 2022 as the day on which the provisions of the SELECT LUXURY ITEMS TAX ACT that set out the tax on subject aircraft COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42468&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0895",
+  "attachments": [
+    "42468"
+  ],
+  "htmlHash": "ceda2bea7810702ff979c09f65986227"
+}

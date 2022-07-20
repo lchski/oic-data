@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0882</td><td>2022-07-14</td><td></td><td></td><td>,&nbsp; ,&nbsp; PS,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order authorizing the Framework Agreement for the use of the Royal Canadian Mounted Police (RCMP) First Nations Community Policing Services (FNCPS)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Public Safety and Emergency Preparedness to ENTER INTO the FRAMEWORK AGREEMENT FOR THE USE OF THE ROYAL CANADIAN MOUNTED POLICE (“RCMP”) FIRST NATIONS COMMUNITY POLICING SERVICES (“FNCPS”) with the Governments of British Columbia, Alberta, Saskatchewan, Manitoba, New Brunswick, Nova Scotia, Newfoundland and Labrador, Prince Edward Island, Yukon, Northwest Territories, and Nunavut.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42455&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0882",
+  "attachments": [
+    "42455"
+  ],
+  "htmlHash": "5a9eee4864371ff88c90a7c0867a6d27"
+}
