@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0898</td><td>2022-07-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Russia) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (RUSSIA) REGULATIONS in order to (1) add forty-three (43) individuals and seventeen (17) entities to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs; and (2) remove the date of birth of one listed individual to correct an error.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0184  <strong>Publication Date:</strong> 2022-08-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42478&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0898",
+  "attachments": [
+    "42478"
+  ],
+  "htmlHash": "f04666087d83f56f9649a08d0929bc7d"
+}
