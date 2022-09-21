@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0951</td><td>2022-09-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; MHA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Centre on Substance Abuse Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CURTIS CLARKE of Victoria, British-Columbia, as a director of the Board of Directors of the Canadian Centre on Substance Abuse, to hold office during pleasure for a term of three years, effective December 10, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42540&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0951",
+  "attachments": [
+    "42540"
+  ],
+  "htmlHash": "6ad339e484605a97dc456037663c1c03"
+}

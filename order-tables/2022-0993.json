@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0993</td><td>2022-09-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Bretton Woods and Related Agreements Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Authorities Provided to the Minister of Finance to Provide Bilateral Financial Assistance to Ukraine</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order amending the authorities provided to the Minister of Finance in Order in Council (OIC) P.C. 2022-0896 in order to divide the $500 million of financial assistance authorized for Ukraine into $450 million and €36.5 million</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42583&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0993",
+  "attachments": [
+    "42583"
+  ],
+  "htmlHash": "b9c5e8e65608022ef8b6e2d94a74d1b4"
+}
