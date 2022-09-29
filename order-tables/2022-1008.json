@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1008</td><td>2022-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Grain Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA GRAIN REGULATIONS in order to (1) extend the time period over which a producer is able to trigger grain grading dispute resolution; (2) clarify that producers can dispute an elevator grade even if they were not able to deliver the grain themselves; (3) prescribe the time requirements for retaining a sample; and (4) allow for more flexible sample retention arrangements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0195  <strong>Publication Date:</strong> 2022-10-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42600&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1008",
+  "attachments": [
+    "42600"
+  ],
+  "htmlHash": "5d9603b706a43a5bfca8f47dfbd46a51"
+}
