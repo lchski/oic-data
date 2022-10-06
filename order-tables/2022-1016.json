@@ -1,8 +1,8 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1016</td><td>2022-09-23</td><td></td><td></td><td>AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Logan Katz LLP to be the auditor of the Canadian Pork Promotion-Research Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing Logan Katz LLP of Ottawa, Ontario, to be the auditor of the CANADIAN PORK PROMOTION-RESEARCH AGENCY for the fiscal years 20212022 to 2025-2026.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42608&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1016</td><td>2022-09-23</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Logan Katz LLP to be the auditor of the Canadian Pork Promotion-Research Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing Logan Katz LLP of Ottawa, Ontario, to be the auditor of the CANADIAN PORK PROMOTION-RESEARCH AGENCY for the fiscal years 20212022 to 2025-2026.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42608&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2022-1016",
   "attachments": [
     "42608"
   ],
-  "htmlHash": "68f5da20a1a8b2389a93cc47823f8576"
+  "htmlHash": "2a038045b3c63469ba39a2d44089efdf"
 }
