@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1069</td><td>2022-10-07</td><td></td><td></td><td>,&nbsp; PS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALAIN ROUILLIER of Saint-Mathias-sur-Richelieu, Quebec, to be a part-time member of the Quebec Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective October 24, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42672&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1069",
+  "attachments": [
+    "42672"
+  ],
+  "htmlHash": "c0272cf1b582b3f7e2c94ec08535f087"
+}

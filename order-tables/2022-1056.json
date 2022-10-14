@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1056</td><td>2022-10-07</td><td></td><td></td><td>,&nbsp; ,&nbsp; ECCC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 3 to the Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 3 TO THE GREENHOUSE GAS POLLUTION PRICING ACT in order to (1) ensure that the greenhouse gas emissions and emission reductions quantified under Part 2 of the Act are estimated using up-to-date scientific knowledge; (2) replace the global warming potential values from the Intergovernmental Panel on Climate Change's Fourth Assessment Report with those from the Fifth Assessment Report for the greenhouse gases listed in Schedule 3; and (3) clarify the names of perfluorocarbons in Schedule 3 by adding their acronyms in addition to their molecular formulas, as is currently the case for hydrofluorocarbons.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0210  <strong>Publication Date:</strong> 2022-10-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42654&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1056",
+  "attachments": [
+    "42654"
+  ],
+  "htmlHash": "02dfcf7ddb0dbeb1c4b03443ddab61ed"
+}
