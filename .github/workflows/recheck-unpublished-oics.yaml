@@ -1,0 +1,37 @@
+# Thanks to Simon Willison for the inspiration: https://simonwillison.net/2020/Oct/9/git-scraping/
+name: Scrape unpublished orders and attachments
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '53 11 * * 0' # https://crontab.guru/#53_11_*_*_0 (11 AM UTC = 6 AM ET, generally) run Sundays in the early morning
+
+jobs:
+  recheck-unpublished-oics:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Node
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
+    - name: Pull Node packages
+      run: |-
+        cd scripts
+        npm install
+    - name: Fetch latest data
+      run: |-
+        node scripts/scrape-missing-order-tables.js
+        node scripts/scrape-attachments.js
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add attachment-ids.json
+        git add attachments/*.json
+        git add order-tables/*.json
+        timestamp=$(date -u)
+        git commit -m "Previously unpublished or missed OICs: ${timestamp}" || exit 0
+        git push
