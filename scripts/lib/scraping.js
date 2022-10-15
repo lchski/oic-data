@@ -34,7 +34,7 @@ export async function scrapeResultPage(page) {
 	return orderTables;
 }
 
-function filenameFromOrderTable(orderTable) {
+export function filenameFromOrderTable(orderTable) {
 	return `${orderTable.pcNumber}.json`;
 }
 
