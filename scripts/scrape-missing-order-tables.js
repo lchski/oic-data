@@ -83,7 +83,7 @@ function saveOrderTables(orderTables) {
 		await page.waitForNavigation();
 		await page.waitForSelector('.btn-toolbar');
 
-		console.log(`attempting to scrape missing OIC ${missingOrder.pc_number}`);
+		console.log(`attempting to scrape unpublished OIC ${missingOrder.pc_number}`);
 		let orderTables = await scrapeResultPage(page);
 
 		console.log('scraped', orderTables);
@@ -97,8 +97,6 @@ function saveOrderTables(orderTables) {
 
 		missingOrders.push(missingOrder);
 	}
-
-	console.log(missingOrders);
 
 	await browser.close();
 	return;
