@@ -2,7 +2,6 @@
 name: Scrape unpublished orders and attachments
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '53 11 * * 0' # https://crontab.guru/#53_11_*_*_0 (11 AM UTC = 6 AM ET, generally) run Sundays in the early morning
