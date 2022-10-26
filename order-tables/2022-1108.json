@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1108</td><td>2022-10-20</td><td></td><td></td><td>CIRC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Nunavut Land Claims Agreement Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT JAMES ELATIAK GREENLEY of Cambridge Bay, Nunavut, to be a member of the Nunavut Wildlife Management Board, to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42708&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1108",
+  "attachments": [
+    "42708"
+  ],
+  "htmlHash": "6ae2312488cb8ace000558805db78b27"
+}

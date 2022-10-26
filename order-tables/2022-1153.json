@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1153</td><td>2022-10-20</td><td></td><td></td><td>,&nbsp; IRCC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Citizenship and Immigration to Enter into Agreements with the Northwest Territories, British Columbia, and Prince Edward Island</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Citizenship and Immigration to ENTER INTO AGREEMENTS with the Governments of the NORTHWEST TERRITORIES, BRITISH COLUMBIA, and PRINCE EDWARD ISLAND in order to align their respective blilateral agreements with the new terminology and structure introduced in the National Occupation Classification 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1153",
+  "attachments": [
+    "42763"
+  ],
+  "htmlHash": "e1ff58f8ed4dc4b7cecc290638b18b97"
+}
