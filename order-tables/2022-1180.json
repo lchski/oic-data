@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1180</td><td>2022-10-28</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE JILLYNE M. DRENNAN, a Judge of His Majesty’s Court of King’s Bench for Saskatchewan, to be a Judge of Appeal of the Court of Appeal for Saskatchewan, and a Judge ex officio of His Majesty’s Court of King’s Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42792&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1180",
+  "attachments": [
+    "42792"
+  ],
+  "htmlHash": "ebb351bd6b28c20288f5104b94f5fb7f"
+}
