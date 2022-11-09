@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1192</td><td>2022-11-03</td><td></td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Wearing of Queen Elizabeth II Platinum Jubilee Medals and Directing that They Be Added to the Order of Precedence</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the recipients of Queen Elizabeth II Platinum Jubilee Medals to wear one of the insignia of those medals, of the recipient’s choice if the recipient has received more than one medal; and (2) directing that the insignia be added to the order of precedence in the Canadian Honours System.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42803&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1192",
+  "attachments": [
+    "42803"
+  ],
+  "htmlHash": "35c9c0c6376780a5675483cde316c878"
+}
