@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1194</td><td>2022-11-04</td><td></td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Vessel Fire Safety Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the VESSEL FIRE SAFETY REGULATIONS in order to (1) incorporate by reference the provisions of the International Convention for the Safety of Life at Sea, 1974, to clarify the scope of application of vessel construction and maintenance requirements for vessel fire safety based on a vessel’s construction date; (2) incorporate by reference two international standards for firefighter outfits and three international standards for breathing apparatuses which were previously in place but inadvertently left out in recent amendments to the Regulations; and (3) incorporate more stringent standards for firefighting equipment.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0229  <strong>Publication Date:</strong> 2022-11-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42804&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1194",
+  "attachments": [
+    "42804"
+  ],
+  "htmlHash": "5d541bbd062498fa51bfe52043561643"
+}
