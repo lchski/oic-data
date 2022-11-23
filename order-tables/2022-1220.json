@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1220</td><td>2022-11-17</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IRCC,&nbsp; ESDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Citizenship and Immigration to Enter into an Agreement with the Government of Ontario</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Citizenship and Immigration, on behalf of the Government of Canada, to ENTER INTO AN AGREEMENT with the Government of ONTARIO in order to extend the Canada-Ontario Immigration Agreement until November 24, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42839&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1220",
+  "attachments": [
+    "42839"
+  ],
+  "htmlHash": "19fc14d12f02bd905d3b1a14b8d9d02d"
+}
