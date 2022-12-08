@@ -1,0 +1,8 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1260</td><td>2022-12-02</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Cannabis Act<br>Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Concerning Cannabis Research and Testing and Cannabis Beverages</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS CONCERNING CANNABIS RESEARCH AND TESTING AND CANNABIS BEVERAGES in order to (1) exempt non-therapeutic research on cannabis involving human participants from the clinical trial requirements, where that research is conducted under a cannabis research licence; (2) include appropriate health and safety requirements to protect non-therapeutic research participants; (3) allow analytical testing licence holders and government laboratories to produce, distribute, and sell reference standards and test kits; and (4) broaden the educational qualifications for the head of laboratory position.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0251  <strong>Publication Date:</strong> 2022-12-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42885&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1260",
+  "attachments": [
+    "42885"
+  ],
+  "htmlHash": "40224f56b7c47b18f67e086ed3b02891"
+}
