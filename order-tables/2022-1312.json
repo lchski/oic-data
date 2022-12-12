@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1312</td><td>2022-12-07</td><td></td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Aeronautics Act<br>Transportation of Dangerous Goods Act, 1992</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canadian Aviation Security Regulations, 2012 (Defensive Equipment, Firearms and Ammunition)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION SECURITY REGULATIONS, 2012 (DEFENSIVE EQUIPMENT, FIREARMS AND AMMUNITION) in order to (1) codify the situations outlined in the current exemptions to the Regulations, subject to certain conditions, clarifying situations in which certain Canadian and U.S. Customs and Border Protection officers may carry, transport, or have access to their defensive equipment and firearms; (2) require the agencies to keep a record of any instance in which an officer failed to comply with any of the conditions set out in the Regulations; and (3) introduce an Administrative Monetary Penalty regime for officers and agencies who are found to be in non-compliance with the requirements of the proposed Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0268  <strong>Publication Date:</strong> 2022-12-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42947&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1312",
+  "date": "2022-12-07",
+  "chapter": "",
+  "bill": "",
+  "department": "TC,  ,  ,  , ",
+  "act": "Aeronautics ActTransportation of Dangerous Goods Act, 1992",
+  "subject": "Regulations Amending the Canadian Aviation Security Regulations, 2012 (Defensive Equipment, Firearms and Ammunition)",
+  "precis": "Regulations Amending the CANADIAN AVIATION SECURITY REGULATIONS, 2012 (DEFENSIVE EQUIPMENT, FIREARMS AND AMMUNITION) in order to (1) codify the situations outlined in the current exemptions to the Regulations, subject to certain conditions, clarifying situations in which certain Canadian and U.S. Customs and Border Protection officers may carry, transport, or have access to their defensive equipment and firearms; (2) require the agencies to keep a record of any instance in which an officer failed to comply with any of the conditions set out in the Regulations; and (3) introduce an Administrative Monetary Penalty regime for officers and agencies who are found to be in non-compliance with the requirements of the proposed Regulations.",
+  "registration": "Registration: SOR/ 2022-0268  Publication Date: 2022-12-21",
+  "registration_type": "SOR",
+  "registration_id": "2022-0268",
+  "registration_publication_date": "2022-12-21",
+  "attachments": [
+    "42947"
+  ],
+  "htmlHash": "fb9d54645a93d10191873de0ead6417e"
+}
