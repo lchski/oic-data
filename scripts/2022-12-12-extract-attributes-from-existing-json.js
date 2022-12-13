@@ -54,8 +54,12 @@ for (const savedOrderTableFilename of savedOrderTables) {
 	const savedOrderTable = JSON.parse(fs.readFileSync(orderTablePath));
 
 	if ('undefined' !== typeof savedOrderTable.date) {
+		console.log(`${savedOrderTable.pcNumber} already has date attribute, skipping`);
+
 		continue; // this OT already has a `date` attribute, so we assume it's been parsed
 	}
+
+	console.log(`extracting additional attributes for ${savedOrderTable.pcNumber}`);
 
 	const orderTableDom = new dom().parseFromString(savedOrderTable.html.replaceAll('&nbsp;', ''));
 
