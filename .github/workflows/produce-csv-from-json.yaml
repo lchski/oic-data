@@ -12,6 +12,10 @@ name: Produce CSV from JSON order tables
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: [Scrape latest orders and attachments]
+    types:
+      - completed
 
 jobs:
   update-oics:
