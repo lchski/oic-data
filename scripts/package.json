@@ -15,5 +15,9 @@
     "node-fetch": "^3.2.6",
     "puppeteer": "^15.3.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
 }
