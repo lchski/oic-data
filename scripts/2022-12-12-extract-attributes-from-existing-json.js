@@ -41,13 +41,6 @@ function parseRegistration(registrationText) {
 	}
 }
 
-savedOrderTables = [
-	"2008-0046.json",
-	"2022-1314.json",
-	"2022-1294.json",
-	"2022-1293.json",
-]
-
 for (const savedOrderTableFilename of savedOrderTables) {
 	const orderTablePath = `${savedOrderTablesPath}${savedOrderTableFilename}`;
 
