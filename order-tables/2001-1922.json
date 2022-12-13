@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1922</td><td>2001-10-23</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHANNE BOUCHARD, of Saint-Hubert, Quebec, as a member of\nthe Board of Trustees of the National Arts Centre Corporation to hold\noffice during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1922",
   "htmlHash": "28cf7eeaea02d6dfd1a8963b3d1b16bf",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HERITAGE, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JOHANNE BOUCHARD, of Saint-Hubert, Quebec, as a member of\nthe Board of Trustees of the National Arts Centre Corporation to hold\noffice during pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

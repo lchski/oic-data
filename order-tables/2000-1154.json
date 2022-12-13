@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1154</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to SARAH WRIGHT of the City of Whitehorse of some 3.23 hectares of\nland located near Kilometre 1694 of the Alaska Highway in Quad 115G/1, in\nthe Yukon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1154",
   "htmlHash": "5b083af111e360a35f7d3692c380be21",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Sale to SARAH WRIGHT of the City of Whitehorse of some 3.23 hectares of\nland located near Kilometre 1694 of the Alaska Highway in Quad 115G/1, in\nthe Yukon.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

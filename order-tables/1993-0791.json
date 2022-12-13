@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0791</td><td>1993-04-20</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION\nORDER designating heads of certain government institutions for the purposes\nof the Privacy Act and revoking designations in respect of certain other\ngovernment institutions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0062  <strong>Publication Date:</strong> 1993-05-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0791",
   "htmlHash": "0f6fefe3f71a50138d9900f3f9090d47",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION\nORDER designating heads of certain government institutions for the purposes\nof the Privacy Act and revoking designations in respect of certain other\ngovernment institutions.\n",
+  "registration": "Registration: SI / 1993-0062  Publication Date: 1993-05-05",
+  "registration_type": "SI",
+  "registration_id": "1993-0062",
+  "registration_publication_date": "1993-05-05"
 }

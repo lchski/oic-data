@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0567</td><td>2000-04-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to MONTREAL undertaken by YVON CHARBONNEAU,\nM.P. (Anjou -- Rivière-des-Prairies), on October 21, 1999, for the purpose\nof attending the \"Gala de l'Association Québécoise pour la maîtrise de\nl'énergie\", on behalf of the Minister of Natural Resources.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0567",
   "htmlHash": "e18d815f4d5845c21d4c6a3a58e59851",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-04-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , RESOURCES, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to MONTREAL undertaken by YVON CHARBONNEAU,\nM.P. (Anjou -- Rivière-des-Prairies), on October 21, 1999, for the purpose\nof attending the \"Gala de l'Association Québécoise pour la maîtrise de\nl'énergie\", on behalf of the Minister of Natural Resources.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

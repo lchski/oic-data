@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0019</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving consent to AKTIEBOLAGET VOLVO (AB VOLVO), a foreign bank, to\nacquire shares in a number of Canadian entities who provide financial\nservices.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0019",
   "htmlHash": "bd202b90b2099308fdceaad6ae3d2bc6",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order giving consent to AKTIEBOLAGET VOLVO (AB VOLVO), a foreign bank, to\nacquire shares in a number of Canadian entities who provide financial\nservices.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

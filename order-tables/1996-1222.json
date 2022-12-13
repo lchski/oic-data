@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1222</td><td>1996-08-07</td><td>0</td><td></td><td>,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the GOVERNMENT PROPERTY TRAFFIC REGULATIONS which increase\nthe fines for parking violations from $7.00 to $25.00 and establish a fine\nof $50 for parking in a spot designated for handicapped drivers only.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0398  <strong>Publication Date:</strong> 1996-08-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1222",
   "htmlHash": "eba8fc32ca576026181ed0a45b270ceb",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-08-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PWGS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the GOVERNMENT PROPERTY TRAFFIC REGULATIONS which increase\nthe fines for parking violations from $7.00 to $25.00 and establish a fine\nof $50 for parking in a spot designated for handicapped drivers only.\n",
+  "registration": "Registration: SOR/ 1996-0398  Publication Date: 1996-08-21",
+  "registration_type": "SOR",
+  "registration_id": "1996-0398",
+  "registration_publication_date": "1996-08-21"
 }

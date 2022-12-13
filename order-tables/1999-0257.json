@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0257</td><td>1999-02-18</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a LEAVE OF ABSENCE to eight Judges, from September 1, 1999 to\nMarch 31, 2000, in order to participate in the NATIONAL JUDICIAL STUDY\nLEAVE FELLOWSHIP PROGRAM.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0257",
   "htmlHash": "16440d8a002d23ab80466ccf4f31ac73",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of a LEAVE OF ABSENCE to eight Judges, from September 1, 1999 to\nMarch 31, 2000, in order to participate in the NATIONAL JUDICIAL STUDY\nLEAVE FELLOWSHIP PROGRAM.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

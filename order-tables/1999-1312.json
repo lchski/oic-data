@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1312</td><td>1999-07-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the Canadian Food Inspection Agency for the purposes of\nparagraph 62(1)(a) of the Public Service Staff Relations Act, enabling the\nAgency to become a separate employer and suspend binding arbitration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0312  <strong>Publication Date:</strong> 1999-08-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1312",
   "htmlHash": "4fdfa4fb2c1e265aafb310962be56cee",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating the Canadian Food Inspection Agency for the purposes of\nparagraph 62(1)(a) of the Public Service Staff Relations Act, enabling the\nAgency to become a separate employer and suspend binding arbitration.\n",
+  "registration": "Registration: SOR/ 1999-0312  Publication Date: 1999-08-04",
+  "registration_type": "SOR",
+  "registration_id": "1999-0312",
+  "registration_publication_date": "1999-08-04"
 }

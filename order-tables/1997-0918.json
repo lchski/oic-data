@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0918</td><td>1997-07-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the ALEXIS BAND, of some 8,586\nhectares of rural land in Alberta, including mines and minerals, as a new\nreserve or as an addition to one of its existing reserves, as follows:\n.\n  1. Alexis Indian Reserve No. 133 (addition/ajout)\n  2. Alexis Whitecourt Indian Reserve No. 232\n  3. Alexis Elk River Indian Reserve No. 233\n  4. Alexis Cardinal River Indian Reserve No. 234.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0918",
   "htmlHash": "5f59f8a657cf8c75104347738dfc6823",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the ALEXIS BAND, of some 8,586\nhectares of rural land in Alberta, including mines and minerals, as a new\nreserve or as an addition to one of its existing reserves, as follows:\n.\n  1. Alexis Indian Reserve No. 133 (addition/ajout)\n  2. Alexis Whitecourt Indian Reserve No. 232\n  3. Alexis Elk River Indian Reserve No. 233\n  4. Alexis Cardinal River Indian Reserve No. 234.\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

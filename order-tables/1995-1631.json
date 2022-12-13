@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1631</td><td>1995-09-26</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as Commissioners of the National\nBattlefields Commission to hold office during pleasure.\n(MARCEL BÉDARD, Ste-Foy, Quebec, in the place of François Lavoie;\nANDRÉ HÉTU, Quebec, Quebec, in the place of Mark O'Neill; JACQUES MATHIEU,\nQuebec, Quebec, in the place of Marcel Richard; GUY PAQUIN, Ste-Foy,\nQuebec, in the place of Paul Thomassin; FLORENCE LANTHIER, Loretteville,\nQuebec, in the place of Constance De Lottinville; and CARMEN MONTPETIT,\nQuebec, Quebec, in the place of Jean-Claude Croteau)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1631",
   "htmlHash": "e7873e33eac6c8ece1f73fd95b787020",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", COM, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following persons as Commissioners of the National\nBattlefields Commission to hold office during pleasure.\n(MARCEL BÉDARD, Ste-Foy, Quebec, in the place of François Lavoie;\nANDRÉ HÉTU, Quebec, Quebec, in the place of Mark O'Neill; JACQUES MATHIEU,\nQuebec, Quebec, in the place of Marcel Richard; GUY PAQUIN, Ste-Foy,\nQuebec, in the place of Paul Thomassin; FLORENCE LANTHIER, Loretteville,\nQuebec, in the place of Constance De Lottinville; and CARMEN MONTPETIT,\nQuebec, Quebec, in the place of Jean-Claude Croteau)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

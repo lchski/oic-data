@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2150</td><td>1999-12-07</td><td>0</td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAVID CLETUS MELNICK, of Newburne, Nova Scotia, as a\nmember of the Review Tribunal for the region of Halifax to hold office\nduring pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2150",
   "htmlHash": "bdb00b11c3f598aee861f0d2a768e25f",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HRD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DAVID CLETUS MELNICK, of Newburne, Nova Scotia, as a\nmember of the Review Tribunal for the region of Halifax to hold office\nduring pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

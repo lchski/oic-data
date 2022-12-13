@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0282</td><td>1994-02-16</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a leave of absence to the Hon. IVAN MIGNAULT, a Judge of the\nSuperior Court for the District of Quebec, from January 14, 1994 to\nJuly 13, 1994, on account of ill-health.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0282",
   "htmlHash": "7880842e9550f498fdfa5beaf6934223",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-02-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of a leave of absence to the Hon. IVAN MIGNAULT, a Judge of the\nSuperior Court for the District of Quebec, from January 14, 1994 to\nJuly 13, 1994, on account of ill-health.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

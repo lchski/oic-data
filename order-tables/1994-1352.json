@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1352</td><td>1994-08-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMPORT CONTROL LIST placing carbon and specialty steel\non the list for a further two years, effective September 1, 1994, ensuring\nthat import monitoring of these products is continued.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0551  <strong>Publication Date:</strong> 1994-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1352",
   "htmlHash": "263d649a7cd3be8778611ea1286c1b81",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the IMPORT CONTROL LIST placing carbon and specialty steel\non the list for a further two years, effective September 1, 1994, ensuring\nthat import monitoring of these products is continued.\n",
+  "registration": "Registration: SOR/ 1994-0551  Publication Date: 1994-08-24",
+  "registration_type": "SOR",
+  "registration_id": "1994-0551",
+  "registration_publication_date": "1994-08-24"
 }

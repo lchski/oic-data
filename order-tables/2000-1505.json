@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1505</td><td>2000-09-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing TEMPORARY ADMINISTRATORS of the Government of MANITOBA\nfor the following periods of time:\n.\n 1. The Hon. Charles R. HUBAND - September 27 to October 3, 2000\n 2. The Hon. A. Kerr TWADDLE - October 22 to November 17, 2000\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1505",
   "htmlHash": "eadf6322cb8f64ab20d3f98de7be4476",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-09-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HERITAGE, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing TEMPORARY ADMINISTRATORS of the Government of MANITOBA\nfor the following periods of time:\n.\n 1. The Hon. Charles R. HUBAND - September 27 to October 3, 2000\n 2. The Hon. A. Kerr TWADDLE - October 22 to November 17, 2000\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

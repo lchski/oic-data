@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0196</td><td>1999-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS to the extent that\nshareholders would not be required to pay retroactive interest on resource\nexpense deductions passed on to them by a corporation (flow-through shares)\nwhen actual expenses are less than predicted.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0092  <strong>Publication Date:</strong> 1999-03-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0196",
   "htmlHash": "cdaea6c3b1a9a91b043a40ef13234130",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS to the extent that\nshareholders would not be required to pay retroactive interest on resource\nexpense deductions passed on to them by a corporation (flow-through shares)\nwhen actual expenses are less than predicted.\n",
+  "registration": "Registration: SOR/ 1999-0092  Publication Date: 1999-03-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0092",
+  "registration_publication_date": "1999-03-03"
 }

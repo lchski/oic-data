@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1124</td><td>2001-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the VARIATION made to a Gas Export Licence (GL-114) issued to\nCanterra Energy Ltd., which changes the name of its authorized holder to\nHUSKY OIL OPERATIONS LIMITED.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1124",
   "htmlHash": "7cfda12a3d59dcbfe326a2b6e606d50c",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the VARIATION made to a Gas Export Licence (GL-114) issued to\nCanterra Energy Ltd., which changes the name of its authorized holder to\nHUSKY OIL OPERATIONS LIMITED.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

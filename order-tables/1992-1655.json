@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1655</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing August 1, 1992 as the day upon which part of section 5,\nsections 6, 7 and 9, and subsections 54(1) and (3) of this Act, shall\nCOME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0135  <strong>Publication Date:</strong> 1992-07-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1655",
   "htmlHash": "fda60fe5c41c11350f878b6765cf44e6",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-07-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CCAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing August 1, 1992 as the day upon which part of section 5,\nsections 6, 7 and 9, and subsections 54(1) and (3) of this Act, shall\nCOME INTO FORCE.\n",
+  "registration": "Registration: SI / 1992-0135  Publication Date: 1992-07-29",
+  "registration_type": "SI",
+  "registration_id": "1992-0135",
+  "registration_publication_date": "1992-07-29"
 }

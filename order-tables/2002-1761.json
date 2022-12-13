@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1761</td><td>2002-10-22</td><td></td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of HEATHER CHIASSON of Ottawa, Ontario, to be Vice-Chairperson of the National Capital Commission to hold office during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1761",
   "htmlHash": "c354b242d4528b055bb7d030b6588803",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-10-22",
+  "chapter": "",
+  "bill": "",
+  "department": "HERITAGE, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of HEATHER CHIASSON of Ottawa, Ontario, to be Vice-Chairperson of the National Capital Commission to hold office during pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

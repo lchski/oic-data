@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1656</td><td>1994-10-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 1992\nwhich extend the duration of the Regulations for an additional five fiscal\nyears (i.e. until 1998-1999) and make technical improvements to tax bases.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0630  <strong>Publication Date:</strong> 1994-10-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1656",
   "htmlHash": "ae8dd9bd16fad33a11dd24938b617778",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-10-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 1992\nwhich extend the duration of the Regulations for an additional five fiscal\nyears (i.e. until 1998-1999) and make technical improvements to tax bases.\n",
+  "registration": "Registration: SOR/ 1994-0630  Publication Date: 1994-10-19",
+  "registration_type": "SOR",
+  "registration_id": "1994-0630",
+  "registration_publication_date": "1994-10-19"
 }

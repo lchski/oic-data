@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1545</td><td>1992-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of Robin Heather,\nof Prince George, British Columbia, as a director of the board of directors\nof the Prince Rupert Port Corporation to hold office during pleasure for a\nterm of three years, in the place of John T. Payne, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1545",
   "htmlHash": "df7abc8b9d195ab013f197e4555e09b4",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Transport of Robin Heather,\nof Prince George, British Columbia, as a director of the board of directors\nof the Prince Rupert Port Corporation to hold office during pleasure for a\nterm of three years, in the place of John T. Payne, whose term has expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

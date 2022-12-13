@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0766</td><td>1990-04-26</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorize the Hon. John C. Crosbie, or Derek H. Burney, or Leonard H.\nLegault or M.F. Kergin to sign an Exchange of Notes constituting an\nAgreement with the United States amending certain Tariff Schedules of the\nFree-Trade Agreement with the United States.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0766",
   "htmlHash": "fad21d9d64f8be82e1cd5d2bb7aaf889",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-04-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "EA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorize the Hon. John C. Crosbie, or Derek H. Burney, or Leonard H.\nLegault or M.F. Kergin to sign an Exchange of Notes constituting an\nAgreement with the United States amending certain Tariff Schedules of the\nFree-Trade Agreement with the United States.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

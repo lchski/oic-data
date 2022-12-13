@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0100</td><td>1998-01-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JOHN H. RENNIE, of Vancouver, British Columbia, as\nChairperson of the Boards of Referees for the British Columbia Regional\nDivision, and particularly for the District of Lower Mainland, for a term\nof three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0100",
   "htmlHash": "5909cf9b500f85689de60794265b7cde",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-01-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HRD",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JOHN H. RENNIE, of Vancouver, British Columbia, as\nChairperson of the Boards of Referees for the British Columbia Regional\nDivision, and particularly for the District of Lower Mainland, for a term\nof three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1781</td><td>1998-10-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of CHARLES H. SIMPSON, of Pointe-Claire, Quebec, as a\nfull-time member of the Canadian Transportation Accident Investigation\nand Safety Board to hold office during good behaviour for a term of three\nyears, effective December 9, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1781",
   "htmlHash": "9bfdf0bf1819c3c154a8b3e8c6dc7b53",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PCO",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of CHARLES H. SIMPSON, of Pointe-Claire, Quebec, as a\nfull-time member of the Canadian Transportation Accident Investigation\nand Safety Board to hold office during good behaviour for a term of three\nyears, effective December 9, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

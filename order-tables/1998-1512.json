@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1512</td><td>1998-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for (a) THE ST.LAWRENCE SEAWAY AUTHORITY to procure the\nincorporation of THE FEDERAL BRIDGE CORPORATION/LA SOCIÉTÉ DES PONTS\nFÉDÉRAUX and (b) THE FEDERAL BRIDGE CORPORATION/LA SOCIÉTÉ DES PONTS\nFÉDÉRAUX to acquire the shares of the Seaway International Bridge\nCorporation, Ltd., held by The St.Lawrence Seaway Authority.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1512",
   "htmlHash": "bad25798d9bffd6347734bceb36e37a2",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for (a) THE ST.LAWRENCE SEAWAY AUTHORITY to procure the\nincorporation of THE FEDERAL BRIDGE CORPORATION/LA SOCIÉTÉ DES PONTS\nFÉDÉRAUX and (b) THE FEDERAL BRIDGE CORPORATION/LA SOCIÉTÉ DES PONTS\nFÉDÉRAUX to acquire the shares of the Seaway International Bridge\nCorporation, Ltd., held by The St.Lawrence Seaway Authority.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

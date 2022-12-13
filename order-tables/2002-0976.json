@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0976</td><td>2002-06-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PACIFIC PILOTAGE TARIFF REGULATIONS by designating\nPine Island as a new pilot boarding station, by fixing the pilotage charges\napplicable to that station and by raising the charges at Pine Island by\nsome 4.5% on January 1, 2003.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0217  <strong>Publication Date:</strong> 2002-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0976",
   "htmlHash": "2d4854f801a63410e746d5029a65965e",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-06-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PACIFIC PILOTAGE TARIFF REGULATIONS by designating\nPine Island as a new pilot boarding station, by fixing the pilotage charges\napplicable to that station and by raising the charges at Pine Island by\nsome 4.5% on January 1, 2003.\n",
+  "registration": "Registration: SOR/ 2002-0217  Publication Date: 2002-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2002-0217",
+  "registration_publication_date": "2002-06-19"
 }

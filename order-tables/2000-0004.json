@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0004</td><td>2000-01-07</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES K. BARTLEMAN as High Commissioner for Canada to the\nRepublic of Nauru and to the Republic of Vanuata, and as Ambassador of\nCanada to the Republic of the Marshall Islands and to the Federated\nStates of Micronesia, with residence in Canberra; LUCIE EDWARDS as High\nCommissioner for Canada to the Republic of Mauritius and to the Republic\nof Namibia, with residence in Pretoria; RODNEY IRWIN as Ambassador of\nCanada to the Republic of Uzbekistan, with residence in Moscow;\nRICHARD MANN as Ambassador of Canada to the State of Qatar, with\nresidence in Kuwait; PETER McKELLAR as Ambassador of Canada to the\nRepublic of Lithuania, and to the Republic of Estonia, with residence in\nRiga; JOHN ROBINSON as High Commissioner for Canada to the Commonwealth\nof the Bahamas and to Belize, with residence in Kingston; and JAMES WALL\nas High Commissioner for Canada to the Republic of Mozambique, with\nresidence in Harare.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0004",
   "htmlHash": "7530288b3fc9caa3616f324051798d2b",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-01-07",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JAMES K. BARTLEMAN as High Commissioner for Canada to the\nRepublic of Nauru and to the Republic of Vanuata, and as Ambassador of\nCanada to the Republic of the Marshall Islands and to the Federated\nStates of Micronesia, with residence in Canberra; LUCIE EDWARDS as High\nCommissioner for Canada to the Republic of Mauritius and to the Republic\nof Namibia, with residence in Pretoria; RODNEY IRWIN as Ambassador of\nCanada to the Republic of Uzbekistan, with residence in Moscow;\nRICHARD MANN as Ambassador of Canada to the State of Qatar, with\nresidence in Kuwait; PETER McKELLAR as Ambassador of Canada to the\nRepublic of Lithuania, and to the Republic of Estonia, with residence in\nRiga; JOHN ROBINSON as High Commissioner for Canada to the Commonwealth\nof the Bahamas and to Belize, with residence in Kingston; and JAMES WALL\nas High Commissioner for Canada to the Republic of Mozambique, with\nresidence in Harare.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

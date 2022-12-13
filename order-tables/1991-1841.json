@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1841</td><td>1991-09-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order remitting the 1977 to 1979 and 1981 income taxes payable by PIERRE\nLAMBERT, on the basis of financial setback and the failure to claim\nexemptions regarding income on a personal injury award.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0131  <strong>Publication Date:</strong> 1991-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1841",
   "htmlHash": "48f1cd443dbc15f079b6a42822cf604a",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-09-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , NR",
+  "act": "",
+  "subject": "",
+  "precis": "Order remitting the 1977 to 1979 and 1981 income taxes payable by PIERRE\nLAMBERT, on the basis of financial setback and the failure to claim\nexemptions regarding income on a personal injury award.\n",
+  "registration": "Registration: SI / 1991-0131  Publication Date: 1991-10-09",
+  "registration_type": "SI",
+  "registration_id": "1991-0131",
+  "registration_publication_date": "1991-10-09"
 }

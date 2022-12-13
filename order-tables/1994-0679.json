@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0679</td><td>1994-04-28</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that, in accordance with Article 29 of the Convention on\nSocial Security between Canada and the SWISS CONFEDERATION signed at\nOttawa on February 24, 1994, the Convention shall enter into force.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0679",
   "htmlHash": "76574162de67c0f5a54e15d95a488813",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "EIC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order declaring that, in accordance with Article 29 of the Convention on\nSocial Security between Canada and the SWISS CONFEDERATION signed at\nOttawa on February 24, 1994, the Convention shall enter into force.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1785</td><td>1995-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to NEW YORK CITY made by six Members of\nParliament, from July 26 to July 28, 1995, in order to provide support to\nthe efforts of the Department of Fisheries and Oceans to obtain a binding\nconvention as an outcome of the sixth negotiating conference of the\nUnited Nations Conference on Straddling Fish Stocks and Highly Migratory\nFish Stocks.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1785",
   "htmlHash": "8a020f9d21ed80923b3cddf42811f9a1",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to NEW YORK CITY made by six Members of\nParliament, from July 26 to July 28, 1995, in order to provide support to\nthe efforts of the Department of Fisheries and Oceans to obtain a binding\nconvention as an outcome of the sixth negotiating conference of the\nUnited Nations Conference on Straddling Fish Stocks and Highly Migratory\nFish Stocks.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

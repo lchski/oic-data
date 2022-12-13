@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1321</td><td>1996-08-27</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SAM ELSWORTH, of Bridgewater, Nova Scotia, as a Canadian\nCommissioner to the International Commission for the Conservation of\nAtlantic Tunas, to hold office for a term of two years, effective\nAugust 30, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1321",
   "htmlHash": "4f26c684fd06200936dac00e28e281b5",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "F&O, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of SAM ELSWORTH, of Bridgewater, Nova Scotia, as a Canadian\nCommissioner to the International Commission for the Conservation of\nAtlantic Tunas, to hold office for a term of two years, effective\nAugust 30, 1996.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

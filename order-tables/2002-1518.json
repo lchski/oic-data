@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1518</td><td>2002-09-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HRD,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SUSAN ELIZABETH MORRISON of Kelowna, British Columbia,\nto be Chairperson of the Boards of Referees for the British Columbia\nRegional Division, and particularly for the District of Kelowna, for a\nterm of three years, effective September 14, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1518",
   "htmlHash": "165169ed50ad5108932e0c9bb77cc4c9",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HRD, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of SUSAN ELIZABETH MORRISON of Kelowna, British Columbia,\nto be Chairperson of the Boards of Referees for the British Columbia\nRegional Division, and particularly for the District of Kelowna, for a\nterm of three years, effective September 14, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

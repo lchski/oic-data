@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0090</td><td>1991-01-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order that any portion of certain lands lying within 30.48 metres of the\nOrdinary High Water Mark of the FOX LAKE in the Yukon Territory\nbe included in the sale of the lands.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0015  <strong>Publication Date:</strong> 1991-01-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0090",
   "htmlHash": "81cf7400b280c157479a572d4bf3174c",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-01-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Order that any portion of certain lands lying within 30.48 metres of the\nOrdinary High Water Mark of the FOX LAKE in the Yukon Territory\nbe included in the sale of the lands.\n",
+  "registration": "Registration: SI / 1991-0015  Publication Date: 1991-01-30",
+  "registration_type": "SI",
+  "registration_id": "1991-0015",
+  "registration_publication_date": "1991-01-30"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1871</td><td>1990-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\nthe Hon. Robert R. de Cotret, or Lee Clark, or Derek R.T. Fraser to sign\nthe FOUNDATION CHARTER OF THE REGIONAL ENVIRONMENTAL CENTER FOR CENTRAL\nAND EASTERN EUROPE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1871",
   "htmlHash": "2de05239845e9ac4e3958013071b4cef",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to execute and issue an Instrument of Full Powers authorizing\nthe Hon. Robert R. de Cotret, or Lee Clark, or Derek R.T. Fraser to sign\nthe FOUNDATION CHARTER OF THE REGIONAL ENVIRONMENTAL CENTER FOR CENTRAL\nAND EASTERN EUROPE.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

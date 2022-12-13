@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1637</td><td>2001-09-20</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE RESTRAINT SYSTEMS AND BOOSTER\nCUSHIONS SAFETY REGULATIONS by (a) allowing manufacturers of certain types\nof restraint systems and booster cushions (i) to supply their customers\nwith a tether strap and provide installation instructions on the label\nthereof, and (ii) to incorporate a tether-webbing adjustment mechanism\ninto the tether hook, and (b) by harmonizing dynamic test specifications\nand procedures with the ones used in the United States.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0341  <strong>Publication Date:</strong> 2001-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1637",
   "htmlHash": "5340052d2d7a7b4103ff63bdf9a5e4ea",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-09-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MOTOR VEHICLE RESTRAINT SYSTEMS AND BOOSTER\nCUSHIONS SAFETY REGULATIONS by (a) allowing manufacturers of certain types\nof restraint systems and booster cushions (i) to supply their customers\nwith a tether strap and provide installation instructions on the label\nthereof, and (ii) to incorporate a tether-webbing adjustment mechanism\ninto the tether hook, and (b) by harmonizing dynamic test specifications\nand procedures with the ones used in the United States.\n",
+  "registration": "Registration: SOR/ 2001-0341  Publication Date: 2001-10-10",
+  "registration_type": "SOR",
+  "registration_id": "2001-0341",
+  "registration_publication_date": "2001-10-10"
 }

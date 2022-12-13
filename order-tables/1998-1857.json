@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1857</td><td>1998-10-22</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the SCHEDULE to the International Development (Financial\nInstitutions) Assistance Act adding the INTER-AMERICAN INVESTMENT\nCORPORATION to the list of international financial institutions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0523  <strong>Publication Date:</strong> 1998-11-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1857",
   "htmlHash": "8fdba7f06028a4fd6db853ef92615c36",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the SCHEDULE to the International Development (Financial\nInstitutions) Assistance Act adding the INTER-AMERICAN INVESTMENT\nCORPORATION to the list of international financial institutions.\n",
+  "registration": "Registration: SOR/ 1998-0523  Publication Date: 1998-11-11",
+  "registration_type": "SOR",
+  "registration_id": "1998-0523",
+  "registration_publication_date": "1998-11-11"
 }

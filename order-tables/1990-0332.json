@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0332</td><td>1990-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the rate of interest of 13% per annum for all loans\nmade under the Farm Syndicates Credit Act after February 25, 1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0332",
   "htmlHash": "69a15760844ee8b0f5c59a83a7a6c410",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGR",
+  "act": "",
+  "subject": "",
+  "precis": "Approve the rate of interest of 13% per annum for all loans\nmade under the Farm Syndicates Credit Act after February 25, 1990.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

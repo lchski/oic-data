@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2233</td><td>1995-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the NAFTA RULES OF ORIGIN REGULATIONS which correct errors of\nspelling, grammar, punctuation and syntax identified by negotiators and\nupdate the numbering and descriptions of tariff item numbers that have\nchanged by reason of WTO implementating legislation, (Bill C-102) and the\nHarmonized System Conversion Order, 1996.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0026  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2233",
   "htmlHash": "50d3cf620ab72d3a82e80cd9dbae7962",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the NAFTA RULES OF ORIGIN REGULATIONS which correct errors of\nspelling, grammar, punctuation and syntax identified by negotiators and\nupdate the numbering and descriptions of tariff item numbers that have\nchanged by reason of WTO implementating legislation, (Bill C-102) and the\nHarmonized System Conversion Order, 1996.\n",
+  "registration": "Registration: SOR/ 1996-0026  Publication Date: 1996-01-24",
+  "registration_type": "SOR",
+  "registration_id": "1996-0026",
+  "registration_publication_date": "1996-01-24"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0717</td><td>2002-04-30</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of REVA E. DEVINS, of Toronto, Ontario, as a part-time\nmember of the Canadian Human Rights Tribunal to hold office during\ngood behaviour for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0717",
   "htmlHash": "9197c21a82e5899a495c0c16d2173f2f",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of REVA E. DEVINS, of Toronto, Ontario, as a part-time\nmember of the Canadian Human Rights Tribunal to hold office during\ngood behaviour for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

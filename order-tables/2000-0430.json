@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0430</td><td>2000-03-28</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as members of the Standards Council\nof Canada to hold office during pleasure for a term of three years.\n(JAMES K. REICHERT, of Port Moody, British Columbia, in the place of\nMarcia Schaefer, whose term has expired; YUEN PAU WOO, of North\nVancouver, British Columbia, in the place of Heather Shannon, whose term\nhas expired; CÉLINE TRÉPANIER, of St-Georges de Champlain, Quebec, in the\nplace of André Fleury, whose term has expired; SUZANNE L. MORIN, of\nOttawa, Ontario; and CAROLINE VALLÉE, of Montreal, Quebec, in the place\nof Lise Lachapelle, whose term has expired)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0430",
   "htmlHash": "aa6be44cd6429c2981e5d399f43d30a1",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "INDUSTRY, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following persons as members of the Standards Council\nof Canada to hold office during pleasure for a term of three years.\n(JAMES K. REICHERT, of Port Moody, British Columbia, in the place of\nMarcia Schaefer, whose term has expired; YUEN PAU WOO, of North\nVancouver, British Columbia, in the place of Heather Shannon, whose term\nhas expired; CÉLINE TRÉPANIER, of St-Georges de Champlain, Quebec, in the\nplace of André Fleury, whose term has expired; SUZANNE L. MORIN, of\nOttawa, Ontario; and CAROLINE VALLÉE, of Montreal, Quebec, in the place\nof Lise Lachapelle, whose term has expired)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2618</td><td>1992-12-17</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Jean Godbout, of Lévis, Quebec, as Chairperson of the\nBoards of Referees for the Quebec Regional Division, and particularly for\nthe District of Lévis, for a term of three years, effective January 11,\n1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2618",
   "htmlHash": "bdd22d8b8ff7f93ee4e620a40dfeb7ea",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EIC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of Jean Godbout, of Lévis, Quebec, as Chairperson of the\nBoards of Referees for the Quebec Regional Division, and particularly for\nthe District of Lévis, for a term of three years, effective January 11,\n1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-2004</td><td>1997-12-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Most-Favoured-Nation Tariff Rules of Origin Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0033  <strong>Publication Date:</strong> 1998-01-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-2004",
   "htmlHash": "ff094661ca8bff0fc2dcd699f79c4d52",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Most-Favoured-Nation Tariff Rules of Origin Regulations.\n",
+  "registration": "Registration: SOR/ 1998-0033  Publication Date: 1998-01-21",
+  "registration_type": "SOR",
+  "registration_id": "1998-0033",
+  "registration_publication_date": "1998-01-21"
 }

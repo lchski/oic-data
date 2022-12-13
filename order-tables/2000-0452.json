@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0452</td><td>2000-03-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for VIA RAIL CANADA INC. to lease, for a period of 50 years, its\nrailway station in TROIS-RIVIÈRES (Quebec), a designated heritage railway\nstation, to the MUNICIPALITÉ RÉGIONALE DU COMTÉ DE FRANCHEVILLE, and to\nsubsequently make renovations to construct offices.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0452",
   "htmlHash": "1cdb3151743bc779e882eb7f8b7929bb",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , HERITAGE, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for VIA RAIL CANADA INC. to lease, for a period of 50 years, its\nrailway station in TROIS-RIVIÈRES (Quebec), a designated heritage railway\nstation, to the MUNICIPALITÉ RÉGIONALE DU COMTÉ DE FRANCHEVILLE, and to\nsubsequently make renovations to construct offices.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1221</td><td>1994-07-19</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RAILWAY SAFETY OMNIBUS REVOCATION ORDER, 1993 revoking certain regulations\nmade under the Railway Act:\n.\n1. Locomotives and Tenders Regulations\n2. Navigable Waters Railway Bridges Regulations\n3. Railway Cars Gas Fuel Systems Regulations\n4. Handling of Railway Appliances Regulations\n5. Passenger Train Car Fire Extinguisher and Emergency Tools Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0518  <strong>Publication Date:</strong> 1994-08-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1221",
   "htmlHash": "d4b09e517e8f1fb226b82d4cf90f2fd3",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-07-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "RAILWAY SAFETY OMNIBUS REVOCATION ORDER, 1993 revoking certain regulations\nmade under the Railway Act:\n.\n1. Locomotives and Tenders Regulations\n2. Navigable Waters Railway Bridges Regulations\n3. Railway Cars Gas Fuel Systems Regulations\n4. Handling of Railway Appliances Regulations\n5. Passenger Train Car Fire Extinguisher and Emergency Tools Regulations\n.\n",
+  "registration": "Registration: SOR/ 1994-0518  Publication Date: 1994-08-10",
+  "registration_type": "SOR",
+  "registration_id": "1994-0518",
+  "registration_publication_date": "1994-08-10"
 }

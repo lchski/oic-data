@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2575</td><td>1992-12-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the salary, fees or other emolument which is to be paid to\ncertain individuals who were appointed by the Governor in Council.\n.\n  CANADA MORTGAGE AND HOUSING CORPORATION\n  Société canadienne d'hypothèques et de logement\n.\n  - (Mr./M.) Eugene A. Flichel (President/président)\n  - (Mr./M.) Gilles E. Girard (Vice-President/vice-président)\n  - (Mr./M.) Robert Lajoie (Vice-President/vice-président)\n  - (Mr./M.) Peter Connolly (Vice-President/vice-président)\n.\n.\n  THE CANADIAN WHEAT BOARD - Commission canadienne du blé\n.\n  - (Mr./M.) Lorne Hehn (Chief Commissioner/président)\n  - (Mr./M.) Forrest M. Hetland (Assistant Chief/vice-président)\n  - (Mr./M.) Richard H. Klassen (Commissioner/commissaire)\n  - (Mr./M.) Gordon Philip Machej (Commissioner/commissaire)\n.\n.\n  MARINE ATLANTIC INC. - Marine Atlantique S.C.C.\n.\n  - (Mr./M.) Terry Ivany (President/président)\n.\n.\n  CAPE BRETON DEVELOPMENT CORPORATION\n  Société de développement du Cap-Breton\n.\n  - (Mr./M.) Ernest A. Boutilier (President/président)\n.\n.\n  CANADIAN FILM DEVELOPMENT CORPORATION\n  Société de développement de l'industrie cinématographique canadienne\n.\n  - (Mr./M.) Pierre DesRoches (Director general/directeur général)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2575",
   "htmlHash": "4392592f1a29a4f62daa75a53cafd384",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the salary, fees or other emolument which is to be paid to\ncertain individuals who were appointed by the Governor in Council.\n.\n  CANADA MORTGAGE AND HOUSING CORPORATION\n  Société canadienne d'hypothèques et de logement\n.\n  - (Mr./M.) Eugene A. Flichel (President/président)\n  - (Mr./M.) Gilles E. Girard (Vice-President/vice-président)\n  - (Mr./M.) Robert Lajoie (Vice-President/vice-président)\n  - (Mr./M.) Peter Connolly (Vice-President/vice-président)\n.\n.\n  THE CANADIAN WHEAT BOARD - Commission canadienne du blé\n.\n  - (Mr./M.) Lorne Hehn (Chief Commissioner/président)\n  - (Mr./M.) Forrest M. Hetland (Assistant Chief/vice-président)\n  - (Mr./M.) Richard H. Klassen (Commissioner/commissaire)\n  - (Mr./M.) Gordon Philip Machej (Commissioner/commissaire)\n.\n.\n  MARINE ATLANTIC INC. - Marine Atlantique S.C.C.\n.\n  - (Mr./M.) Terry Ivany (President/président)\n.\n.\n  CAPE BRETON DEVELOPMENT CORPORATION\n  Société de développement du Cap-Breton\n.\n  - (Mr./M.) Ernest A. Boutilier (President/président)\n.\n.\n  CANADIAN FILM DEVELOPMENT CORPORATION\n  Société de développement de l'industrie cinématographique canadienne\n.\n  - (Mr./M.) Pierre DesRoches (Director general/directeur général)\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

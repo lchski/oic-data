@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0382</td><td>1990-02-23</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of the Minister of Industry, Science and Technology as the\nMinister for the purposes of the Natural Sciences and Engineering\nResearch Council Act; Order in Council P.C. 1977-2866, revoked; and\ndesignation of the Minister of Industry, Science and Technology as the\nappropriate Minister with respect to the Natural Sciences and Engineering\nResearch Council for the purposes of the Financial Administration Act;\nOrder in Council P.C. 1978-1455, revoked.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0023  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0382",
   "htmlHash": "41860f368e62e3ca04fcbc517b82d02f",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of the Minister of Industry, Science and Technology as the\nMinister for the purposes of the Natural Sciences and Engineering\nResearch Council Act; Order in Council P.C. 1977-2866, revoked; and\ndesignation of the Minister of Industry, Science and Technology as the\nappropriate Minister with respect to the Natural Sciences and Engineering\nResearch Council for the purposes of the Financial Administration Act;\nOrder in Council P.C. 1978-1455, revoked.\n",
+  "registration": "Registration: SI / 1990-0023  Publication Date: 1990-03-14",
+  "registration_type": "SI",
+  "registration_id": "1990-0023",
+  "registration_publication_date": "1990-03-14"
 }

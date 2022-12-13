@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1082</td><td>1992-05-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PUBLIC INQUIRY (COOPERATIVE CREDIT ASSOCIATIONS) RULES governing\nproceedings at public inquiries into objections to proposed incorporations,\ncontinuances and amalgamations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0307  <strong>Publication Date:</strong> 1992-06-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1082",
   "htmlHash": "a4c9060a76bcc4344a594abee3401de6",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-05-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "PUBLIC INQUIRY (COOPERATIVE CREDIT ASSOCIATIONS) RULES governing\nproceedings at public inquiries into objections to proposed incorporations,\ncontinuances and amalgamations.\n",
+  "registration": "Registration: SOR/ 1992-0307  Publication Date: 1992-06-03",
+  "registration_type": "SOR",
+  "registration_id": "1992-0307",
+  "registration_publication_date": "1992-06-03"
 }

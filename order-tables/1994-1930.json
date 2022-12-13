@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1930</td><td>1994-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the ONTARIO FISHERY REGULATIONS, 1989 which establish (a) a\nquota and a close time on angling for lake herring in Lake Simcoe,\n(b) length limits on various species caught in a number of small lakes,\n(c) Division 33 and revise the boundaries of Divisions 19 and 27,\nrespectively, (d) new fish sanctuaries in known spawning grounds, and (e)\nmake minor corrections to the fines (items 53 and 53.1) in Schedule XIII.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0730  <strong>Publication Date:</strong> 1994-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1930",
   "htmlHash": "6fd1136f6f39629320a19079762efa1e",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-11-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , F&O, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the ONTARIO FISHERY REGULATIONS, 1989 which establish (a) a\nquota and a close time on angling for lake herring in Lake Simcoe,\n(b) length limits on various species caught in a number of small lakes,\n(c) Division 33 and revise the boundaries of Divisions 19 and 27,\nrespectively, (d) new fish sanctuaries in known spawning grounds, and (e)\nmake minor corrections to the fines (items 53 and 53.1) in Schedule XIII.\n",
+  "registration": "Registration: SOR/ 1994-0730  Publication Date: 1994-12-14",
+  "registration_type": "SOR",
+  "registration_id": "1994-0730",
+  "registration_publication_date": "1994-12-14"
 }

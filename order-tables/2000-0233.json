@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0233</td><td>2000-02-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of reserve land for the use and benefit of the OCHAPOWACE\nBAND as Ochapowace Indian Reserves No. 71-88, 71-89, 71-95 and 71-96, in\nthe Province of Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0233",
   "htmlHash": "f4abf5ee79fc9fe82e8efce504cd4a71",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-02-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of reserve land for the use and benefit of the OCHAPOWACE\nBAND as Ochapowace Indian Reserves No. 71-88, 71-89, 71-95 and 71-96, in\nthe Province of Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

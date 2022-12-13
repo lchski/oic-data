@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1108</td><td>1995-07-06</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the AIR REGULATIONS increasing fees for aviation regulatory\nservices and introducing some new fees for a number of regulatory services\nfor which fees are currently not in effect, effective August 1, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0321  <strong>Publication Date:</strong> 1995-07-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1108",
   "htmlHash": "124d5212f1e770f56eeb8c6b61bd0e40",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the AIR REGULATIONS increasing fees for aviation regulatory\nservices and introducing some new fees for a number of regulatory services\nfor which fees are currently not in effect, effective August 1, 1995.\n",
+  "registration": "Registration: SOR/ 1995-0321  Publication Date: 1995-07-26",
+  "registration_type": "SOR",
+  "registration_id": "1995-0321",
+  "registration_publication_date": "1995-07-26"
 }

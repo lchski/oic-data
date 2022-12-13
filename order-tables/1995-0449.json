@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0449</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ACOA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Atlantic Canada\nOpportunities Board to hold office during pleasure for a term of three\nyears, effective March 27, 1995.\n(ROBERT D. DEGRACE, Bathurst, New Brunswick, in the place of Jean-Guy\nRioux; HAROLD J. ROCHE, Montague, Prince Edward Island, in the place of\nHarry MacAusland; JOHN ALBERT STRASSER, Cape Breton, Nova Scotia, in the\nplace of Richard A. Saulnier; and DEREK W. YOUNG, Corner Brook,\nNewfoundland, in the place of Harry McConnell)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0449",
   "htmlHash": "6b507e8fd58dc41c9c13c416c6890766",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , ACOA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members of the Atlantic Canada\nOpportunities Board to hold office during pleasure for a term of three\nyears, effective March 27, 1995.\n(ROBERT D. DEGRACE, Bathurst, New Brunswick, in the place of Jean-Guy\nRioux; HAROLD J. ROCHE, Montague, Prince Edward Island, in the place of\nHarry MacAusland; JOHN ALBERT STRASSER, Cape Breton, Nova Scotia, in the\nplace of Richard A. Saulnier; and DEREK W. YOUNG, Corner Brook,\nNewfoundland, in the place of Harry McConnell)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

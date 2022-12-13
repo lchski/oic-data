@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2543</td><td>1990-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FARM CREDIT ACT INTEREST RATES REGULATIONS decreasing the\ninterest rate on Shared Risk Mortgage loans from 14.00% to 13.75% and on\n5 year loans from 13.375% to 13.00%.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0819  <strong>Publication Date:</strong> 1990-12-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2543",
   "htmlHash": "a3f8fcab0ed8f652acc6f68232714e77",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGR",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FARM CREDIT ACT INTEREST RATES REGULATIONS decreasing the\ninterest rate on Shared Risk Mortgage loans from 14.00% to 13.75% and on\n5 year loans from 13.375% to 13.00%.\n",
+  "registration": "Registration: SOR/ 1990-0819  Publication Date: 1990-12-19",
+  "registration_type": "SOR",
+  "registration_id": "1990-0819",
+  "registration_publication_date": "1990-12-19"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0554</td><td>1997-04-15</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of JOCELYNE CÔTÉ-O'HARA, of Toronto, Ontario, as a governor\nof the Board of Governors of the International Development Research Centre,\nto hold office during pleasure for a term of one year, effective March 17,\n1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0554",
   "htmlHash": "4da4a34e8960de17e373752e5ce25318",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of JOCELYNE CÔTÉ-O'HARA, of Toronto, Ontario, as a governor\nof the Board of Governors of the International Development Research Centre,\nto hold office during pleasure for a term of one year, effective March 17,\n1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

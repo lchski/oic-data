@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-2052</td><td>1997-12-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Repealing certain Orders made under the Financial Administration\nAct, No. 2:\n.\n  1. Order in Council P.C. 1955-1/350 of March 12, 1955\n  2. Order in Council P.C. 1968-24/185 of February 1, 1968\n  3. Order in Council P.C. 1968-23/1710 of September 17, 1968\n  4. Order in Council P.C. 1963-15/1854 of December 20, 1963\n  5. Order in Council P.C. 1967-27/1778 of September 21, 1967\n  6. Order in Council P.C. 1981-4/3401 of December 3, 1981\n  7. Order in Council P.C. 1953-18/894 of June 9, 1953\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0023  <strong>Publication Date:</strong> 1998-01-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-2052",
   "htmlHash": "26639aa3491c11a0723aed8750c76779",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Repealing certain Orders made under the Financial Administration\nAct, No. 2:\n.\n  1. Order in Council P.C. 1955-1/350 of March 12, 1955\n  2. Order in Council P.C. 1968-24/185 of February 1, 1968\n  3. Order in Council P.C. 1968-23/1710 of September 17, 1968\n  4. Order in Council P.C. 1963-15/1854 of December 20, 1963\n  5. Order in Council P.C. 1967-27/1778 of September 21, 1967\n  6. Order in Council P.C. 1981-4/3401 of December 3, 1981\n  7. Order in Council P.C. 1953-18/894 of June 9, 1953\n.\n",
+  "registration": "Registration: SI / 1998-0023  Publication Date: 1998-01-21",
+  "registration_type": "SI",
+  "registration_id": "1998-0023",
+  "registration_publication_date": "1998-01-21"
 }

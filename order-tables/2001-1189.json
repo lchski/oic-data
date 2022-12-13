@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1189</td><td>2001-06-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of B. KEITH PENNER, of Ottawa, Ontario, to the roster of\ncandidates for the purpose of subsection 9(1) of the Canada Transportation\nAct.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1189",
   "htmlHash": "dca7fc8231650c7d789ccca1db68507e",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-06-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of B. KEITH PENNER, of Ottawa, Ontario, to the roster of\ncandidates for the purpose of subsection 9(1) of the Canada Transportation\nAct.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

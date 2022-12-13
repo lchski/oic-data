@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0557</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of Rules Amending the FEDERAL COURT IMMIGRATION RULES, 1993 AND\nREPEALING THE FEDERAL COURT IMMIGRATION RULES, made by the Chief Justice of\nthe Federal Court of Canada, effective April 25, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0235  <strong>Publication Date:</strong> 1998-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0557",
   "htmlHash": "037532f1f3644f4615f240f71bc1b2b5",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , CITIZENSHIP, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of Rules Amending the FEDERAL COURT IMMIGRATION RULES, 1993 AND\nREPEALING THE FEDERAL COURT IMMIGRATION RULES, made by the Chief Justice of\nthe Federal Court of Canada, effective April 25, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0235  Publication Date: 1998-04-15",
+  "registration_type": "SOR",
+  "registration_id": "1998-0235",
+  "registration_publication_date": "1998-04-15"
 }

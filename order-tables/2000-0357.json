@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0357</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sanctionning of BY-LAW NO. 47 as adopted by THE CANADIAN MEDICAL PROTECTIVE\nASSOCIATION at its annual meeting in Ottawa on August 25, 1999, which,\ninter alia, adds the new territory of Nunavut to the description of\nGeographic Area 2, thereby making it possible for its members in Nunavut\nto be eligible for election to the Council.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0357",
   "htmlHash": "f06bb6f3711cff6027bbe42330ff3de5",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Sanctionning of BY-LAW NO. 47 as adopted by THE CANADIAN MEDICAL PROTECTIVE\nASSOCIATION at its annual meeting in Ottawa on August 25, 1999, which,\ninter alia, adds the new territory of Nunavut to the description of\nGeographic Area 2, thereby making it possible for its members in Nunavut\nto be eligible for election to the Council.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

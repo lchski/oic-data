@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1850</td><td>1999-10-21</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING PRIVILEGES AND IMMUNITIES IN RELATION TO\nTHE PREPARATORY COMMISSION FOR THE COMPREHENSIVE NUCLEAR TEST-BAN TREATY\nORGANIZATION AND ITS PROVISIONAL TECHNICAL SECRETARIAT - which grants\ncertain privileges and immunities to Preparatory Commission officials, its\nSecretariat and to experts on missions for them.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0409  <strong>Publication Date:</strong> 1999-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1850",
   "htmlHash": "5f5311ad1127375f5f1b29288045867a",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER RESPECTING PRIVILEGES AND IMMUNITIES IN RELATION TO\nTHE PREPARATORY COMMISSION FOR THE COMPREHENSIVE NUCLEAR TEST-BAN TREATY\nORGANIZATION AND ITS PROVISIONAL TECHNICAL SECRETARIAT - which grants\ncertain privileges and immunities to Preparatory Commission officials, its\nSecretariat and to experts on missions for them.\n",
+  "registration": "Registration: SOR/ 1999-0409  Publication Date: 1999-11-10",
+  "registration_type": "SOR",
+  "registration_id": "1999-0409",
+  "registration_publication_date": "1999-11-10"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1853</td><td>1996-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER AMENDING SCHEDULE I TO THE ACCESS TO INFORMATION ACT which inserts\nthe Human Rights Tribunal Panel under the heading of \"Other Government\nInstitutions\" that are subject to this Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0538  <strong>Publication Date:</strong> 1996-12-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1853",
   "htmlHash": "c6681a2978a1e3020de00e1eb5bae514",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-12-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER AMENDING SCHEDULE I TO THE ACCESS TO INFORMATION ACT which inserts\nthe Human Rights Tribunal Panel under the heading of \"Other Government\nInstitutions\" that are subject to this Act.\n",
+  "registration": "Registration: SOR/ 1996-0538  Publication Date: 1996-12-25",
+  "registration_type": "SOR",
+  "registration_id": "1996-0538",
+  "registration_publication_date": "1996-12-25"
 }

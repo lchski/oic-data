@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1404</td><td>1993-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MONDAY, OCTOBER 25, 1993, as the day upon which the\nTelecommunications Act shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0101  <strong>Publication Date:</strong> 1993-07-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1404",
   "htmlHash": "2ba34248f32df35992544b749371eda4",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing MONDAY, OCTOBER 25, 1993, as the day upon which the\nTelecommunications Act shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 1993-0101  Publication Date: 1993-07-14",
+  "registration_type": "SI",
+  "registration_id": "1993-0101",
+  "registration_publication_date": "1993-07-14"
 }

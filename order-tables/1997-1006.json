@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1006</td><td>1997-07-24</td><td>0</td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALLEN JOHN GOUDIE, of Regina, Saskatchewan, as a member of\nthe Review Tribunal for the region of Regina to hold office during\npleasure for a term of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1006",
   "htmlHash": "d183ed62645af5f67b9b6a17060fbba9",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "HRD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ALLEN JOHN GOUDIE, of Regina, Saskatchewan, as a member of\nthe Review Tribunal for the region of Regina to hold office during\npleasure for a term of five years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

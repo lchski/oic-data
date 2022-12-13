@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1393</td><td>2001-08-01</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 2 to the CANADIAN ENVIRONMENTAL PROTECTION ACT,\n1999, NO. 1 - which adds the Pest Control Products Act to Schedule 2 to the\nCanadian Environmental Protection Act, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0300  <strong>Publication Date:</strong> 2001-08-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1393",
   "htmlHash": "2ebbf6eec0edbbee6d8cc5f1c172fd3d",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-08-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, EC, , , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending SCHEDULE 2 to the CANADIAN ENVIRONMENTAL PROTECTION ACT,\n1999, NO. 1 - which adds the Pest Control Products Act to Schedule 2 to the\nCanadian Environmental Protection Act, 1999.\n",
+  "registration": "Registration: SOR/ 2001-0300  Publication Date: 2001-08-29",
+  "registration_type": "SOR",
+  "registration_id": "2001-0300",
+  "registration_publication_date": "2001-08-29"
 }

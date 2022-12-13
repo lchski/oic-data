@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1395</td><td>1994-08-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ISTC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Change of the name of the CHAMBRE DE COMMERCE DE MONT-JOLI, in the\nProvince of Quebec, to the CHAMBRE DE COMMERCE DE LA RÉGION DE MONT-JOLI\nand change of the boundaries of its district.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1395",
   "htmlHash": "aceb647cb514613cec25c88adede80ce",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , ISTC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Change of the name of the CHAMBRE DE COMMERCE DE MONT-JOLI, in the\nProvince of Quebec, to the CHAMBRE DE COMMERCE DE LA RÉGION DE MONT-JOLI\nand change of the boundaries of its district.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

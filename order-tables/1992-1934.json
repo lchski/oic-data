@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1934</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax under Parts I and I.2 of the Income Tax\nAct payable by LIONEL MARSHALL.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0165  <strong>Publication Date:</strong> 1992-09-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1934",
   "htmlHash": "901d83b808e9e31a01a99589945c4141",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , NR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of income tax under Parts I and I.2 of the Income Tax\nAct payable by LIONEL MARSHALL.\n",
+  "registration": "Registration: SI / 1992-0165  Publication Date: 1992-09-23",
+  "registration_type": "SI",
+  "registration_id": "1992-0165",
+  "registration_publication_date": "1992-09-23"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0540</td><td>1997-04-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of the following persons as members of the National Round\nTable on the Environment and the Economy, to hold office during pleasure\nfor a term of two years, effective April 28, 1997.\n(CINDY KENNY-GILDAY, Yellowknife, Northwest Territories; ELIZABETH EVANS\nMAY, Ottawa, Ontario; and ELIZABETH JANE CROCKER, Halifax, Nova Scotia)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0540",
   "htmlHash": "09f98b8a03039ef1c58943cf1361a565",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of the following persons as members of the National Round\nTable on the Environment and the Economy, to hold office during pleasure\nfor a term of two years, effective April 28, 1997.\n(CINDY KENNY-GILDAY, Yellowknife, Northwest Territories; ELIZABETH EVANS\nMAY, Ottawa, Ontario; and ELIZABETH JANE CROCKER, Halifax, Nova Scotia)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

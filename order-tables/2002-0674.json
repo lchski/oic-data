@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0674</td><td>2002-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ICC,&nbsp; DPM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS by deleting\nthe reference to Registered Mail packets addressed to the U.S.A., by\nclarifying the meaning of the term \"fragile\", by reducing the claim period\nfor lost or damaged domestic items from 12 months to 90 days, and by\nremoving the fee for an Acknowledgement of Receipt in respect of Registered\nMail sent to a place outside Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0167  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0674",
   "htmlHash": "f071835bd9b3df354e1faae1128f3145",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , ICC, DPM",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS by deleting\nthe reference to Registered Mail packets addressed to the U.S.A., by\nclarifying the meaning of the term \"fragile\", by reducing the claim period\nfor lost or damaged domestic items from 12 months to 90 days, and by\nremoving the fee for an Acknowledgement of Receipt in respect of Registered\nMail sent to a place outside Canada.\n",
+  "registration": "Registration: SOR/ 2002-0167  Publication Date: 2002-05-08",
+  "registration_type": "SOR",
+  "registration_id": "2002-0167",
+  "registration_publication_date": "2002-05-08"
 }

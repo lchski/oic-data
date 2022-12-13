@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1624</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income taxes under Parts I and I.1 of the Income Tax Act and\nall corresponding interest payable by Mr. EDWIN SCHUMACHER.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0142  <strong>Publication Date:</strong> 1992-08-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1624",
   "htmlHash": "b5a1dd70571556202a0db2741cc4f611",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-07-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , NR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of income taxes under Parts I and I.1 of the Income Tax Act and\nall corresponding interest payable by Mr. EDWIN SCHUMACHER.\n",
+  "registration": "Registration: SI / 1992-0142  Publication Date: 1992-08-12",
+  "registration_type": "SI",
+  "registration_id": "1992-0142",
+  "registration_publication_date": "1992-08-12"
 }

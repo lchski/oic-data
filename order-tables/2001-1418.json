@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1418</td><td>2001-08-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL CAPITAL COMMISSION to take on a lease for the\nRideau Falls Park, part of the Rideau Falls Laboratories and the northern\nsection of Green Island on Sussex Drive in Ottawa, for a term of ten years,\nfor the purposes of the CANADA AND THE WORLD PAVILION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1418",
   "htmlHash": "e800f814aaa933ac0a6a5bf625fcec87",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-08-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HERITAGE, TB, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval for the NATIONAL CAPITAL COMMISSION to take on a lease for the\nRideau Falls Park, part of the Rideau Falls Laboratories and the northern\nsection of Green Island on Sussex Drive in Ottawa, for a term of ten years,\nfor the purposes of the CANADA AND THE WORLD PAVILION.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

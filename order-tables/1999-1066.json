@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1066</td><td>1999-06-10</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to BLAIR HARVEY FISCHER and KAREN ELLEN FISCHER, both of the City of\nDawson, Yukon, of some four hectares of land situated at HUNKER CREEK, near\nthe 704 km marker on the Klondike Highway, in Quad 116 B/3, in the Yukon.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1066",
   "htmlHash": "2924ea64a3351c723c99229711268fe0",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Sale to BLAIR HARVEY FISCHER and KAREN ELLEN FISCHER, both of the City of\nDawson, Yukon, of some four hectares of land situated at HUNKER CREEK, near\nthe 704 km marker on the Klondike Highway, in Quad 116 B/3, in the Yukon.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

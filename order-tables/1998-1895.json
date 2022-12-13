@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1895</td><td>1998-10-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DOUGLAS G. KEDDY, of Sarnia, Ontario, as a member of the\nBlue Water Bridge Authority to hold office during pleasure for a term of\nthree years, effective January 23, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1895",
   "htmlHash": "56ba38ab0f30c827beb893b6562bd229",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of DOUGLAS G. KEDDY, of Sarnia, Ontario, as a member of the\nBlue Water Bridge Authority to hold office during pleasure for a term of\nthree years, effective January 23, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1903</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF TRANSPORT) 1995-3\nrepealing and correcting the following regulations:\n.\n- Charts and Nautical Publications Regulations, 1995\n- Dangerous Goods Shipping Regulations\n- Small Vessel Regulations\n- Response Organizations and Oil Handling Facilities Regulations\n- Airport Traffic Regulations\n- Motor Vehicle Safety Regulations\n- Motor Vehicle Tire Safety Regulations, 1995\n- Railway Prevention and Control of Fire Regulations\n- Railway Interlocking Systems Regulations\n- Railway Signal and Traffic Control Systems Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0536  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1903",
   "htmlHash": "8953bc165622862d7caeefddc14e0706",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF TRANSPORT) 1995-3\nrepealing and correcting the following regulations:\n.\n- Charts and Nautical Publications Regulations, 1995\n- Dangerous Goods Shipping Regulations\n- Small Vessel Regulations\n- Response Organizations and Oil Handling Facilities Regulations\n- Airport Traffic Regulations\n- Motor Vehicle Safety Regulations\n- Motor Vehicle Tire Safety Regulations, 1995\n- Railway Prevention and Control of Fire Regulations\n- Railway Interlocking Systems Regulations\n- Railway Signal and Traffic Control Systems Regulations\n.\n",
+  "registration": "Registration: SOR/ 1995-0536  Publication Date: 1995-11-29",
+  "registration_type": "SOR",
+  "registration_id": "1995-0536",
+  "registration_publication_date": "1995-11-29"
 }

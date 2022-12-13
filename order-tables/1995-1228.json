@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1228</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INT'L TRADE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing TUESDAY, AUGUST 1, 1995, as the day upon which sections 48 and\n49 of this Act shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0083  <strong>Publication Date:</strong> 1995-08-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1228",
   "htmlHash": "58f1147b540ba54fef2e305bbd1da423",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , INT'L TRADE",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing TUESDAY, AUGUST 1, 1995, as the day upon which sections 48 and\n49 of this Act shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 1995-0083  Publication Date: 1995-08-09",
+  "registration_type": "SI",
+  "registration_id": "1995-0083",
+  "registration_publication_date": "1995-08-09"
 }

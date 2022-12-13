@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1631</td><td>1992-07-16</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1991-1680 (which fixed the rates of\nremuneration payable to the members of the ROYAL COMMISSION ON ABORIGINAL\nPEOPLES) so as to provide for the reimbursement of actual and reasonable\ntravelling expenses incurred by the Commissioners while travelling in\nremote areas of northern Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1631",
   "htmlHash": "3330d73ee63b12b40486378c3893f9b7",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-07-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1991-1680 (which fixed the rates of\nremuneration payable to the members of the ROYAL COMMISSION ON ABORIGINAL\nPEOPLES) so as to provide for the reimbursement of actual and reasonable\ntravelling expenses incurred by the Commissioners while travelling in\nremote areas of northern Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

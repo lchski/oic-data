@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1561</td><td>1996-10-08</td><td>0</td><td></td><td>,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the SECOND SUPPLEMENTARY AGREEMENT amending the\nAGREEMENT ON SOCIAL SECURITY between Canada and the UNITED STATES OF\nAMERICA signed on May 28, 1996, shall enter into force in Canada under the\nterms of Article 8 thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1561",
   "htmlHash": "8bf30763932abea3a31a7b226cc9c762",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HRDC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order declaring that the SECOND SUPPLEMENTARY AGREEMENT amending the\nAGREEMENT ON SOCIAL SECURITY between Canada and the UNITED STATES OF\nAMERICA signed on May 28, 1996, shall enter into force in Canada under the\nterms of Article 8 thereof.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

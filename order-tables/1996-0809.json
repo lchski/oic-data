@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0809</td><td>1996-06-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of C. WILLIAM ROSS as Ambassador Extraordinary and Plenipo-\ntentiary of Canada to the Republic of Colombia; GAËTAN LAVERTU as\nAmbassador Extraordinary and Plenipotentiary of Canada to the Federal\nRepublic of Germany; TERENCE COLFER as Ambassador Extraordinary and\nPlenipotentiary of Canada to the State of Kuwait, with concurrent\naccreditation to the State of Qatar; ARSÈNE DESPRÉS as Ambassador Extra-\nordinary and Plenipotentiary of Canada to the Republic of Tunisia;\nJACQUES ROY as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe French Republic; and ANNE LEAHY as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Russian Federation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0809",
   "htmlHash": "ac577ce93ad0cf83e28ccd5d56195119",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-06-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of C. WILLIAM ROSS as Ambassador Extraordinary and Plenipo-\ntentiary of Canada to the Republic of Colombia; GAËTAN LAVERTU as\nAmbassador Extraordinary and Plenipotentiary of Canada to the Federal\nRepublic of Germany; TERENCE COLFER as Ambassador Extraordinary and\nPlenipotentiary of Canada to the State of Kuwait, with concurrent\naccreditation to the State of Qatar; ARSÈNE DESPRÉS as Ambassador Extra-\nordinary and Plenipotentiary of Canada to the Republic of Tunisia;\nJACQUES ROY as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe French Republic; and ANNE LEAHY as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Russian Federation.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0322</td><td>1990-02-22</td><td>0</td><td></td><td>SGC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXEMPT PERSONAL INFORMATION BANK ORDER, NO. 13 (RCMP) - which designates\nthe Criminal Operational Intelligence Records (No. CMP/P-PU-015), a\npersonal information bank, as an exempt bank under section 22 of the\nPrivacy Act, and revokes the Order made by P.C.1985-864 of March 14, 1985.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0149  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0322",
   "htmlHash": "1e38f1a123d0a45a4d35e5e8de02a58a",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-22",
+  "chapter": "0",
+  "bill": "",
+  "department": "SGC, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "EXEMPT PERSONAL INFORMATION BANK ORDER, NO. 13 (RCMP) - which designates\nthe Criminal Operational Intelligence Records (No. CMP/P-PU-015), a\npersonal information bank, as an exempt bank under section 22 of the\nPrivacy Act, and revokes the Order made by P.C.1985-864 of March 14, 1985.\n",
+  "registration": "Registration: SOR/ 1990-0149  Publication Date: 1990-03-14",
+  "registration_type": "SOR",
+  "registration_id": "1990-0149",
+  "registration_publication_date": "1990-03-14"
 }

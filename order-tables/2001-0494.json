@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0494</td><td>2001-03-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the MOOSE JAW CHAMBER OF COMMERCE,\nchartered in Saskatchewan and registered in 1889, to (a) change its name to\nthe Moose Jaw &amp; District Chamber of Commerce, and (b) change the boundaries\nof its territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0494",
   "htmlHash": "13b532f130fc2c71e05a3b7dc50213ba",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of an application made by the MOOSE JAW CHAMBER OF COMMERCE,\nchartered in Saskatchewan and registered in 1889, to (a) change its name to\nthe Moose Jaw & District Chamber of Commerce, and (b) change the boundaries\nof its territory.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

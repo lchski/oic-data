@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1758</td><td>2000-12-12</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DONNA LYNN WELKE, of Regina, Saskatchewan, as an\nassistant commissioner of the Canadian Grain Commission to hold office\nduring good behaviour for a term of four years, effective December 13,\n2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1758",
   "htmlHash": "f99485500ae495654ba759d29734541d",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-12",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGRI-FOOD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of DONNA LYNN WELKE, of Regina, Saskatchewan, as an\nassistant commissioner of the Canadian Grain Commission to hold office\nduring good behaviour for a term of four years, effective December 13,\n2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

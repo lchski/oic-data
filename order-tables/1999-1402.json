@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1402</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following officers of the Royal Canadian Mounted Police:\n.\n  OFFICER                                         NEW RANK\n  _______________________________________         _______________________\n.\n1. Chief Superintendent J. G. Harper BOUCHER      Assistant Commissioner\n2. Superintendent Richard Bryan BOWLBY            Chief Superintendent\n3. Superintendent Calvin Robert CORLEY            Chief Superintendent\n4. Inspector Alistair Donald MACINTYRE            Superintendent\n5. Chief Superintendent Timothy Joseph QUIGLEY    Assistant Commissioner\n6. Inspector Lynn Darnell TWARDOSKY               Chief Superintendent\n7. Chief Superintendent Valentino Leandro ZANIN   Assistant Commissioner\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1402",
   "htmlHash": "6be48767dd33b3ed36e1fd7cb88f12dd",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , SGC",
+  "act": "",
+  "subject": "",
+  "precis": "Promotion of the following officers of the Royal Canadian Mounted Police:\n.\n  OFFICER                                         NEW RANK\n  _______________________________________         _______________________\n.\n1. Chief Superintendent J. G. Harper BOUCHER      Assistant Commissioner\n2. Superintendent Richard Bryan BOWLBY            Chief Superintendent\n3. Superintendent Calvin Robert CORLEY            Chief Superintendent\n4. Inspector Alistair Donald MACINTYRE            Superintendent\n5. Chief Superintendent Timothy Joseph QUIGLEY    Assistant Commissioner\n6. Inspector Lynn Darnell TWARDOSKY               Chief Superintendent\n7. Chief Superintendent Valentino Leandro ZANIN   Assistant Commissioner\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

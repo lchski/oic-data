@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1139</td><td>1990-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of MANITOBA, of the transfer of the\nadministration and control of a parcel of vacant land and water lot\n(2.091 hec) situated near WHITEFISH POINT, Manitoba, for use as a public\nwharf and access road.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1139",
   "htmlHash": "c8f54f793df884e4748ecf95be1ff1d4",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , F&O, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance from the Province of MANITOBA, of the transfer of the\nadministration and control of a parcel of vacant land and water lot\n(2.091 hec) situated near WHITEFISH POINT, Manitoba, for use as a public\nwharf and access road.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

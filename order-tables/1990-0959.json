@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0959</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of New Brunswick of the\nadministration and control over a parcel of waterfront land situate at\nCAISSIE CAPE, in the County of Kent, which contains an area of some 5.51\nhectares and is to be used for marine purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0959",
   "htmlHash": "248d91a3b37cfc5fe973f42036bc2fdb",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the transfer from the Province of New Brunswick of the\nadministration and control over a parcel of waterfront land situate at\nCAISSIE CAPE, in the County of Kent, which contains an area of some 5.51\nhectares and is to be used for marine purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

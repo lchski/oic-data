@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0841</td><td>1994-05-26</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS REPEALS REGULATIONS (DEPARTMENT OF ENERGY, MINES AND\nRESOURCES) 1994-1 providing for the repeal of the following Orders and\nRegulations:\n.\n  1. Canadian Home Insulation Regulations\n  2. Tariff of Charges for Exported Oil Other Than Oil Products Order\n  3. Tariff of Charges for Exported Oil Products Order\n  4. Sun-Canadian Pipeline Order\n  5. Exemption from Charges (Crude Oil Exchange) Order\n  6. Exemption from Charges (Experimental Purposes) Order\n  7. Lime Island Order\n  8. Sun-Canadian Pipeline (Motor Gasoline) Order\n  9. Tariff of Charges for Exported Oil Products Order No. 3\n 10. Oil Exports Exemption Order (June, 1985)\n 11. Energy Administration Act Part I Regulations\n 12. Marine Transportation Fuel Compensation Recovery Charge Regulations\n 13. Natural Gas Prices Regulations\n 14. Petroleum Levy Regulations\n 15. Petroleum Levy Offset Program Regulations\n 16. Primary Industries Levy Offset Program Regulations\n 17. Canada Oil Substitution and Conservation Regulations\n 18. Canadian Home Insulation Regulations (N.S. and P.E.I.)\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0366  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0841",
   "htmlHash": "448b1324ea8900de9ad9676f984bfbdd",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-05-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EMR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "MISCELLANEOUS REPEALS REGULATIONS (DEPARTMENT OF ENERGY, MINES AND\nRESOURCES) 1994-1 providing for the repeal of the following Orders and\nRegulations:\n.\n  1. Canadian Home Insulation Regulations\n  2. Tariff of Charges for Exported Oil Other Than Oil Products Order\n  3. Tariff of Charges for Exported Oil Products Order\n  4. Sun-Canadian Pipeline Order\n  5. Exemption from Charges (Crude Oil Exchange) Order\n  6. Exemption from Charges (Experimental Purposes) Order\n  7. Lime Island Order\n  8. Sun-Canadian Pipeline (Motor Gasoline) Order\n  9. Tariff of Charges for Exported Oil Products Order No. 3\n 10. Oil Exports Exemption Order (June, 1985)\n 11. Energy Administration Act Part I Regulations\n 12. Marine Transportation Fuel Compensation Recovery Charge Regulations\n 13. Natural Gas Prices Regulations\n 14. Petroleum Levy Regulations\n 15. Petroleum Levy Offset Program Regulations\n 16. Primary Industries Levy Offset Program Regulations\n 17. Canada Oil Substitution and Conservation Regulations\n 18. Canadian Home Insulation Regulations (N.S. and P.E.I.)\n.\n",
+  "registration": "Registration: SOR/ 1994-0366  Publication Date: 1994-06-15",
+  "registration_type": "SOR",
+  "registration_id": "1994-0366",
+  "registration_publication_date": "1994-06-15"
 }

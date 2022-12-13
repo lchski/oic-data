@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1801</td><td>2002-10-24</td><td></td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1314 - ETHYLENEBISDITHIOCARBAMATE FUNGICIDES) by setting a maximum limit of 6 ppm on residues (MRLs) of mancozeb resulting from its use on lentils.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0389  <strong>Publication Date:</strong> 2002-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1801",
   "htmlHash": "b3384c5457d8fbafc2a0d060d916cb7b",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-10-24",
+  "chapter": "",
+  "bill": "",
+  "department": "HEALTH, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (1314 - ETHYLENEBISDITHIOCARBAMATE FUNGICIDES) by setting a maximum limit of 6 ppm on residues (MRLs) of mancozeb resulting from its use on lentils.\n",
+  "registration": "Registration: SOR/ 2002-0389  Publication Date: 2002-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2002-0389",
+  "registration_publication_date": "2002-11-06"
 }

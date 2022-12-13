@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0280</td><td>1994-02-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER OF CONSENT - BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT - which\nauthorizes the aforementioned, a foreign bank, to indirectly establish a\nnew Canadian business by the indirect acquisition of shares in BMW\nFinancial Services (Canada) Inc. in such a number as to cause the latter to\nbecome a non-bank affiliate of the former.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0280",
   "htmlHash": "37797360325f09d3c851d7edae4cfe0e",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-02-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER OF CONSENT - BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT - which\nauthorizes the aforementioned, a foreign bank, to indirectly establish a\nnew Canadian business by the indirect acquisition of shares in BMW\nFinancial Services (Canada) Inc. in such a number as to cause the latter to\nbecome a non-bank affiliate of the former.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1295</td><td>1995-07-27</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the YUKON TIMBER REGULATIONS which increase the royalties\npayable on all species of sawlogs and introduce a reforestation charge.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0387  <strong>Publication Date:</strong> 1995-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1295",
   "htmlHash": "aaef06dc66e45b3781006d82c351c58c",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the YUKON TIMBER REGULATIONS which increase the royalties\npayable on all species of sawlogs and introduce a reforestation charge.\n",
+  "registration": "Registration: SOR/ 1995-0387  Publication Date: 1995-08-23",
+  "registration_type": "SOR",
+  "registration_id": "1995-0387",
+  "registration_publication_date": "1995-08-23"
 }

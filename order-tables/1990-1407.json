@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1407</td><td>1990-07-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of David W. Gruchy, of the Town of Truro, in the Province of\nNova Scotia, as a Judge of the Supreme Court of Nova Scotia and as a\nmember of the Trial Division of that Court and ex officio a member of the\nAppeal Division of the Supreme Court of Nova Scotia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1407",
   "htmlHash": "98022e6c86d171215d7f11498eccef24",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , JUS, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of David W. Gruchy, of the Town of Truro, in the Province of\nNova Scotia, as a Judge of the Supreme Court of Nova Scotia and as a\nmember of the Trial Division of that Court and ex officio a member of the\nAppeal Division of the Supreme Court of Nova Scotia.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

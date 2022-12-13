@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1149</td><td>1990-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Commissioner of the Yukon Territory of the administration\nand control over ten parcels of land situate at various locations in the\nYukon, that contain a total area of some 10.733 hectares, in order to\nfacilitate the administration of the Yukon homestead and squatter policies.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1149",
   "htmlHash": "fb3dc936299f6c5a66054337dca592f9",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , OLD INAC",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the Commissioner of the Yukon Territory of the administration\nand control over ten parcels of land situate at various locations in the\nYukon, that contain a total area of some 10.733 hectares, in order to\nfacilitate the administration of the Yukon homestead and squatter policies.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

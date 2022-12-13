@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0570</td><td>1998-04-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ORDERLY PAYMENT OF DEBTS REGULATIONS which, for\nthe purpose of defraying administrative expenses, increase the amount the\ncourt clerk shall withhold from each payment made to a registered creditor\nunder a Consolidation Order, from 10% to 15%, effective on April 30, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0239  <strong>Publication Date:</strong> 1998-04-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0570",
   "htmlHash": "ec7500c564e19dcd83ceb76e204b0a91",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , INDUSTRY",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the ORDERLY PAYMENT OF DEBTS REGULATIONS which, for\nthe purpose of defraying administrative expenses, increase the amount the\ncourt clerk shall withhold from each payment made to a registered creditor\nunder a Consolidation Order, from 10% to 15%, effective on April 30, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0239  Publication Date: 1998-04-29",
+  "registration_type": "SOR",
+  "registration_id": "1998-0239",
+  "registration_publication_date": "1998-04-29"
 }

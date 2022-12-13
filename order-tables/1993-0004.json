@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0004</td><td>1993-01-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Assignment of the HONOURABLE PIERRE VINCENT, a Minister of State, to\nassist the Minister of Indian Affairs and Northern Development in the\ncarrying out of his responsibilities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0006  <strong>Publication Date:</strong> 1993-01-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0004",
   "htmlHash": "0ad4c6043e35cb7bde0a8bc72ee90b4e",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-01-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Assignment of the HONOURABLE PIERRE VINCENT, a Minister of State, to\nassist the Minister of Indian Affairs and Northern Development in the\ncarrying out of his responsibilities.\n",
+  "registration": "Registration: SI / 1993-0006  Publication Date: 1993-01-27",
+  "registration_type": "SI",
+  "registration_id": "1993-0006",
+  "registration_publication_date": "1993-01-27"
 }

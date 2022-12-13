@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1598</td><td>1996-10-24</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the AIRPORT TRAFFIC REGULATIONS which allow the public to\nplead guilty to minor traffic offences and to pay the appropriate fine(s)\nwithout having to appear in court, and make the fines the same as those\nprescribed by the province where the offence occured.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0476  <strong>Publication Date:</strong> 1996-11-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1598",
   "htmlHash": "e0c10d76c5163dfa5f52155d4323fd9b",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the AIRPORT TRAFFIC REGULATIONS which allow the public to\nplead guilty to minor traffic offences and to pay the appropriate fine(s)\nwithout having to appear in court, and make the fines the same as those\nprescribed by the province where the offence occured.\n",
+  "registration": "Registration: SOR/ 1996-0476  Publication Date: 1996-11-13",
+  "registration_type": "SOR",
+  "registration_id": "1996-0476",
+  "registration_publication_date": "1996-11-13"
 }

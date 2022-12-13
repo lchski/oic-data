@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2566</td><td>1992-12-10</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting aside of the election of eight individuals who were elected to the\noffice of Councillor by the MOSQUITO-GRIZZLY BEAR'S HEAD BAND OF INDIANS in\nSaskatchewan on April 9, 1992, due to violations of sections 75 and 77 of\nthe Indian Act that might have affected the results of the voting.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2566",
   "htmlHash": "14a9323e09f459d1ed46d09f501d5e65",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting aside of the election of eight individuals who were elected to the\noffice of Councillor by the MOSQUITO-GRIZZLY BEAR'S HEAD BAND OF INDIANS in\nSaskatchewan on April 9, 1992, due to violations of sections 75 and 77 of\nthe Indian Act that might have affected the results of the voting.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

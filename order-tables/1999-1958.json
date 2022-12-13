@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1958</td><td>1999-10-28</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to the Hon. DONALD HERBERT MEDHURST, a Justice of\nthe Court of Queen's Bench of Alberta, upon his retirement at age 75 on\nDecember 17, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1958",
   "htmlHash": "6c5c2a6c24971e4a5ad5bd98a5b9d7ff",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of an annuity to the Hon. DONALD HERBERT MEDHURST, a Justice of\nthe Court of Queen's Bench of Alberta, upon his retirement at age 75 on\nDecember 17, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

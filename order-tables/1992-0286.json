@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0286</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMMIGRATION REGULATIONS, 1978 clarifying the process by\nwhich applications for permanent residence by independent immigrants are\nevaluated.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0133  <strong>Publication Date:</strong> 1992-03-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0286",
   "htmlHash": "371bf289cdfd349981f7d28722b25c81",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EIC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the IMMIGRATION REGULATIONS, 1978 clarifying the process by\nwhich applications for permanent residence by independent immigrants are\nevaluated.\n",
+  "registration": "Registration: SOR/ 1992-0133  Publication Date: 1992-03-11",
+  "registration_type": "SOR",
+  "registration_id": "1992-0133",
+  "registration_publication_date": "1992-03-11"
 }

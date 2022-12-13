@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2003</td><td>2001-10-30</td><td>0</td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of AL J. KAVANAUGH, of Riverview, New Brunswick, as a member\nof the National Council of Welfare, to hold office during pleasure for a\nterm of three years, effective November 28, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2003",
   "htmlHash": "43dfb3afe98b49055c85e19b12553e55",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "HRD, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of AL J. KAVANAUGH, of Riverview, New Brunswick, as a member\nof the National Council of Welfare, to hold office during pleasure for a\nterm of three years, effective November 28, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

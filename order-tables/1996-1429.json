@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1429</td><td>1996-09-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (PARTIAL REVOCATION AND ABSOLUTE CONDITIONAL\nSURRENDER) wherein the TALLCREE BAND partially revokes the surrender it\nmade in 1957 insofar as it affects some 1,059 hectares of TALLCREE INDIAN\nRESERVE NO. 173A in ALBERTA, and conditionally surrenders them absolutely.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1429",
   "htmlHash": "b129f4966deedab184d1a882c2658a37",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-09-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an Instrument (PARTIAL REVOCATION AND ABSOLUTE CONDITIONAL\nSURRENDER) wherein the TALLCREE BAND partially revokes the surrender it\nmade in 1957 insofar as it affects some 1,059 hectares of TALLCREE INDIAN\nRESERVE NO. 173A in ALBERTA, and conditionally surrenders them absolutely.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

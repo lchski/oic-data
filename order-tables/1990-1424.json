@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1424</td><td>1990-07-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Transport of John David\nMcNish, of Prince Rupert, British Columbia, as a director of the board of\ndirectors of the Prince Rupert Port Corporation to hold office during\npleasure for a term ending May 30, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1424",
   "htmlHash": "b5386e97589632ecf9960b99356d75fa",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the re-appointment by the Minister of Transport of John David\nMcNish, of Prince Rupert, British Columbia, as a director of the board of\ndirectors of the Prince Rupert Port Corporation to hold office during\npleasure for a term ending May 30, 1992.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

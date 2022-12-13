@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0664</td><td>1999-04-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-1122 which revises the legal\ndescription of the 2,310 or so hectares of land thereby set aside as an\naddition to COWESSESS INDIAN RESERVE No. 73 in Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0664",
   "htmlHash": "279af0f19fb3aa4cb2adc8fbaa130737",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1998-1122 which revises the legal\ndescription of the 2,310 or so hectares of land thereby set aside as an\naddition to COWESSESS INDIAN RESERVE No. 73 in Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

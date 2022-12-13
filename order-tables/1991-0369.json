@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0369</td><td>1991-02-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1983-2008, which transferred from the\nMinister of Transport to the Minister of Fisheries and Oceans the\nmanagement, charge and direction of three parcels of land at Owen Sound,\nOntario, Leamington, Ontario and Cap-aux-Meules, Quebec, deleting all\nreferences to Cap-aux-Meules.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0369",
   "htmlHash": "aa7aaec6d5bca6ff582e893c665466d5",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-02-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , F&O, TC, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1983-2008, which transferred from the\nMinister of Transport to the Minister of Fisheries and Oceans the\nmanagement, charge and direction of three parcels of land at Owen Sound,\nOntario, Leamington, Ontario and Cap-aux-Meules, Quebec, deleting all\nreferences to Cap-aux-Meules.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

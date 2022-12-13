@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2237</td><td>2001-12-06</td><td>0</td><td></td><td>ACOA,&nbsp; FIN,&nbsp; INDUSTRY,&nbsp; TB,&nbsp; WED-OLD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CANADA SMALL BUSINESS FINANCING (ESTABLISHMENT AND\nOPERATION OF CAPITAL LEASING PILOT PROJECT) REGULATIONS which provide for\nthe establishment of a five-year pilot project to test whether to guarantee\ncapital leases.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0527  <strong>Publication Date:</strong> 2001-12-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2237",
   "htmlHash": "066df0076249631abd6c4ad73af98532",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-12-06",
+  "chapter": "0",
+  "bill": "",
+  "department": "ACOA, FIN, INDUSTRY, TB, WED-OLD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the CANADA SMALL BUSINESS FINANCING (ESTABLISHMENT AND\nOPERATION OF CAPITAL LEASING PILOT PROJECT) REGULATIONS which provide for\nthe establishment of a five-year pilot project to test whether to guarantee\ncapital leases.\n",
+  "registration": "Registration: SOR/ 2001-0527  Publication Date: 2001-12-19",
+  "registration_type": "SOR",
+  "registration_id": "2001-0527",
+  "registration_publication_date": "2001-12-19"
 }

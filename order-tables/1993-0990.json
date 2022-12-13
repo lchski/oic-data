@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0990</td><td>1993-05-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1993-384 that increases the amount which\nmay be raised by means of the sale of Government of Canada securities\n(other than Treasury Bills or Notes) in the April-June 1993 fiscal quarter.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0990",
   "htmlHash": "8f7f601aaaa539b3c265f2ce2bfbc4a5",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1993-384 that increases the amount which\nmay be raised by means of the sale of Government of Canada securities\n(other than Treasury Bills or Notes) in the April-June 1993 fiscal quarter.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

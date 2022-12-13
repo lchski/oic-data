@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0694</td><td>1996-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing two qualified Marine Surveyors employed by the\nCanadian Coast Guard as \"STEAMSHIP INSPECTORS\", and (b) terminating three\nprevious appointments.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0694",
   "htmlHash": "701f1cf9267db635c895ae3eb0b4c8e2",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-05-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) appointing two qualified Marine Surveyors employed by the\nCanadian Coast Guard as \"STEAMSHIP INSPECTORS\", and (b) terminating three\nprevious appointments.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

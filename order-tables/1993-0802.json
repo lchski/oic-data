@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0802</td><td>1993-04-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; PWC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of Quebec of the lands or leases, office furniture\nand equipment used in connection with the administration of Part IX of the\nExcise Tax Act (GOODS AND SERVICES TAX) in the offices located at Place\nLaval, No. 1 Place Laval, in the City of Laval, Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0802",
   "htmlHash": "d6fd6084b9cc68e64eaa4bb6458586a6",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , NR, PWC, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the Province of Quebec of the lands or leases, office furniture\nand equipment used in connection with the administration of Part IX of the\nExcise Tax Act (GOODS AND SERVICES TAX) in the offices located at Place\nLaval, No. 1 Place Laval, in the City of Laval, Quebec.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

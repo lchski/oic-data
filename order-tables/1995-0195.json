@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0195</td><td>1995-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing VIA Rail Canada Inc. to sell its railway station in\nREGINA, SASKATCHEWAN, a designated heritage railway station, to the\nSASKATCHEWAN GAMING COMMISSION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0195",
   "htmlHash": "a5254effa1112d9e0146934aa73199a7",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing VIA Rail Canada Inc. to sell its railway station in\nREGINA, SASKATCHEWAN, a designated heritage railway station, to the\nSASKATCHEWAN GAMING COMMISSION.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

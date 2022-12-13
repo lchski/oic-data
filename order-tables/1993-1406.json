@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1406</td><td>1993-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LAB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 23, 1993 as the day on which that Act shall COME INTO\nFORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0102  <strong>Publication Date:</strong> 1993-07-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1406",
   "htmlHash": "45a5a5adb8be89528cf48fe2f33694ee",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , LAB",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing June 23, 1993 as the day on which that Act shall COME INTO\nFORCE.\n",
+  "registration": "Registration: SI / 1993-0102  Publication Date: 1993-07-14",
+  "registration_type": "SI",
+  "registration_id": "1993-0102",
+  "registration_publication_date": "1993-07-14"
 }

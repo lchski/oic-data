@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0346</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER SECTION 209 OF THE\nCANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (MISCELLANEOUS PROGRAM) which\nare designed to ensure that existing Regulations will be consistent with\nthe new Act when its provisions come into force on March 31, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0105  <strong>Publication Date:</strong> 2000-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0346",
   "htmlHash": "81677744f38c869d4f734dd02418acac",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER SECTION 209 OF THE\nCANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (MISCELLANEOUS PROGRAM) which\nare designed to ensure that existing Regulations will be consistent with\nthe new Act when its provisions come into force on March 31, 2000.\n",
+  "registration": "Registration: SOR/ 2000-0105  Publication Date: 2000-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2000-0105",
+  "registration_publication_date": "2000-03-29"
 }

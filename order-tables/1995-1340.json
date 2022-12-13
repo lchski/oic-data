@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1340</td><td>1995-08-16</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the CANADA BUSINESS CORPORATIONS REGULATIONS which will\nrequire that where a share-for-share take over offer is made to\nshareholders in a company subject to this Act, the take over bidder shall\ndisclose any adverse effect on the rights of those shareholders which may\nresult from differences between this Act and the legislation governing\nthe shares being offered in the take over bid.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0407  <strong>Publication Date:</strong> 1995-09-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1340",
   "htmlHash": "cfe6fade5a31cd870ef4d4c402d7dab8",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": "INDUSTRY, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the CANADA BUSINESS CORPORATIONS REGULATIONS which will\nrequire that where a share-for-share take over offer is made to\nshareholders in a company subject to this Act, the take over bidder shall\ndisclose any adverse effect on the rights of those shareholders which may\nresult from differences between this Act and the legislation governing\nthe shares being offered in the take over bid.\n",
+  "registration": "Registration: SOR/ 1995-0407  Publication Date: 1995-09-06",
+  "registration_type": "SOR",
+  "registration_id": "1995-0407",
+  "registration_publication_date": "1995-09-06"
 }

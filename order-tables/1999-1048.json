@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1048</td><td>1999-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of the HONOURABLE CLAUDE BISSON, of Montreal, Quebec, as a\ncommissioner to review the activities of the Communications Security\nEstablishment for the purpose of determining whether those activities are\nin compliance with the law, for a period of three years, effective June 19,\n1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1048",
   "htmlHash": "cd85784363b3abf94402fa6517fa907a",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of the HONOURABLE CLAUDE BISSON, of Montreal, Quebec, as a\ncommissioner to review the activities of the Communications Security\nEstablishment for the purpose of determining whether those activities are\nin compliance with the law, for a period of three years, effective June 19,\n1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2470</td><td>1992-12-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order declaring that the Governor in Council is of the opinion that it is\nin the national interest for the Minister of Industry, Science and\nTechnology to develop a project of special assistance for the benefit of\nPWA Corporation which consists of a loan guarantee of up to 50 million\ndollars.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2470",
   "htmlHash": "0772c76fa093a6d7d7c7e4fbce7a0e59",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ISTC, TB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order declaring that the Governor in Council is of the opinion that it is\nin the national interest for the Minister of Industry, Science and\nTechnology to develop a project of special assistance for the benefit of\nPWA Corporation which consists of a loan guarantee of up to 50 million\ndollars.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

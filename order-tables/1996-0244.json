@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0244</td><td>1996-02-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of firm of ERNST &amp; YOUNG, CHARTERED ACCOUNTANTS, of Calgary,\nAlberta, and the AUDITOR GENERAL OF CANADA as joint auditors of Atomic\nEnergy of Canada Limited for the year ending March 31, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0244",
   "htmlHash": "b7c85c5df30e3e18585fa768a6f5d8b7",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-02-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , RESOURCES, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of firm of ERNST & YOUNG, CHARTERED ACCOUNTANTS, of Calgary,\nAlberta, and the AUDITOR GENERAL OF CANADA as joint auditors of Atomic\nEnergy of Canada Limited for the year ending March 31, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

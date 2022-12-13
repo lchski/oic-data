@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0502</td><td>2001-03-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fix the remuneration of the HONOURABLE ANDRÉ OUELLET, P.C., Q.C., as\nPresident and Chief Executive Officer of the Canada Post Corporation,\neffective October 1, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0502",
   "htmlHash": "b7b0792c4a1adc5e1cf38be31e73cad1",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, PWGS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fix the remuneration of the HONOURABLE ANDRÉ OUELLET, P.C., Q.C., as\nPresident and Chief Executive Officer of the Canada Post Corporation,\neffective October 1, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

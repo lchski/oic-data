@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1962</td><td>2001-10-25</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2001, NO. 01, FISHING BRANCH ECOLOGICAL RESERVE, Y.T. ) - which\nprohibits entry into certain areas of the Yukon for the purposes of\nprospecting or staking mineral claims, in order to protect an area known\nas the Fishing Branch Ecological Reserve.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0464  <strong>Publication Date:</strong> 2001-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1962",
   "htmlHash": "5ff50c7cfad0973defb7714a2b5f4fa7",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2001, NO. 01, FISHING BRANCH ECOLOGICAL RESERVE, Y.T. ) - which\nprohibits entry into certain areas of the Yukon for the purposes of\nprospecting or staking mineral claims, in order to protect an area known\nas the Fishing Branch Ecological Reserve.\n",
+  "registration": "Registration: SOR/ 2001-0464  Publication Date: 2001-11-07",
+  "registration_type": "SOR",
+  "registration_id": "2001-0464",
+  "registration_publication_date": "2001-11-07"
 }

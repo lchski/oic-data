@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2772</td><td>1990-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of the UNGULATE REMOVAL PROHIBITION ORDER.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0071  <strong>Publication Date:</strong> 1991-01-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2772",
   "htmlHash": "6321feed81fb559920d6fdaec3ed449c",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Revocation of the UNGULATE REMOVAL PROHIBITION ORDER.\n",
+  "registration": "Registration: SOR/ 1991-0071  Publication Date: 1991-01-16",
+  "registration_type": "SOR",
+  "registration_id": "1991-0071",
+  "registration_publication_date": "1991-01-16"
 }

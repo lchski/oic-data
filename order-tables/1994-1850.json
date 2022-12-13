@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1850</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting to the CHIPPEWAS OF RAMA FIRST NATION BAND of the right to\nexercise control and management over lands in the reserve occupied by\nthis Band, namely Rama First Nation Indian Reserve No. 32, in Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1850",
   "htmlHash": "4b482473be42f9c17e437560ecec551f",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-11-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting to the CHIPPEWAS OF RAMA FIRST NATION BAND of the right to\nexercise control and management over lands in the reserve occupied by\nthis Band, namely Rama First Nation Indian Reserve No. 32, in Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

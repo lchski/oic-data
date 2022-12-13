@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2136</td><td>1994-12-20</td><td>0</td><td></td><td>,&nbsp; CEO-OLD,&nbsp; GRAY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FEDERAL ELECTIONS FEES TARIFF which revises the rate\nstructure for enumerators following the introduction of computerized\nmethods of enumerating eligible voters.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0009  <strong>Publication Date:</strong> 1995-01-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2136",
   "htmlHash": "7a14c385a4f33475d3308c8d96084be7",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CEO-OLD, GRAY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FEDERAL ELECTIONS FEES TARIFF which revises the rate\nstructure for enumerators following the introduction of computerized\nmethods of enumerating eligible voters.\n",
+  "registration": "Registration: SOR/ 1995-0009  Publication Date: 1995-01-11",
+  "registration_type": "SOR",
+  "registration_id": "1995-0009",
+  "registration_publication_date": "1995-01-11"
 }

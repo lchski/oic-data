@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1071</td><td>1999-06-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 2.62 hectares of land for the use and benefit of the\nKAMLOOPS INDIAN BAND as an addition to Kamloops Indian Reserve No. 1 in\nBritish Columbia, being the closed portion of a highway right-of-way shown\non C.L.S.R. Plan No. 78228.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1071",
   "htmlHash": "32c3a68bfd01abe006048ad151d7c404",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of some 2.62 hectares of land for the use and benefit of the\nKAMLOOPS INDIAN BAND as an addition to Kamloops Indian Reserve No. 1 in\nBritish Columbia, being the closed portion of a highway right-of-way shown\non C.L.S.R. Plan No. 78228.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

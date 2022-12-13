@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2075</td><td>1994-12-14</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the RAILWAY INTERSWITCHING REGULATIONS establishing four\ninterswitching zones and prescribing rates for interswitching traffic to\nor from each zone, effective January 1, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0786  <strong>Publication Date:</strong> 1994-12-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2075",
   "htmlHash": "ff198dea29b92116c317e16db7ab79e4",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-12-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the RAILWAY INTERSWITCHING REGULATIONS establishing four\ninterswitching zones and prescribing rates for interswitching traffic to\nor from each zone, effective January 1, 1995.\n",
+  "registration": "Registration: SOR/ 1994-0786  Publication Date: 1994-12-28",
+  "registration_type": "SOR",
+  "registration_id": "1994-0786",
+  "registration_publication_date": "1994-12-28"
 }

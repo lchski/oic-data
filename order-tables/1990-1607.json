@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1607</td><td>1990-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority of the acceptance of administration and control from the\nProvince SASKATCHEWAN, of the road in North West and North East Quarters\nof Section 33 in Township 11 and of the transfer of administration and\ncontrol of a land (1.38 hec) to the Province of Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1607",
   "htmlHash": "4a60b1d571f893b14b5598f5aceb2441",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority of the acceptance of administration and control from the\nProvince SASKATCHEWAN, of the road in North West and North East Quarters\nof Section 33 in Township 11 and of the transfer of administration and\ncontrol of a land (1.38 hec) to the Province of Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

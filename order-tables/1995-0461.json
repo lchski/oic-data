@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0461</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the MOTOR VEHICLE TIRE SAFETY REGULATIONS, 1995 which will\nreplace the present Regulations so that the substantive parts correspond to\nthe new Motor Vehicle Safety Act given Royal Assent on May 6, 1993.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0148  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0461",
   "htmlHash": "a37bfa8507aae62658966c53fff01bae",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the MOTOR VEHICLE TIRE SAFETY REGULATIONS, 1995 which will\nreplace the present Regulations so that the substantive parts correspond to\nthe new Motor Vehicle Safety Act given Royal Assent on May 6, 1993.\n",
+  "registration": "Registration: SOR/ 1995-0148  Publication Date: 1995-04-05",
+  "registration_type": "SOR",
+  "registration_id": "1995-0148",
+  "registration_publication_date": "1995-04-05"
 }

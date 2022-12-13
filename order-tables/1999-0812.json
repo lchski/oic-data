@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0812</td><td>1999-05-04</td><td>0</td><td></td><td>,&nbsp; INT'L TRADE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister for International Trade of\nANDRÉ TRÉPANIER, of Montreal, Quebec, and R. LEONARD McNEIL, of Bedford,\nNova Scotia, as directors of the Canadian Commercial Corporation to hold\noffice during pleasure for a term of two years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0812",
   "htmlHash": "fe3bbffb6dc80e465a7d0d69b6760ab6",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INT'L TRADE, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister for International Trade of\nANDRÉ TRÉPANIER, of Montreal, Quebec, and R. LEONARD McNEIL, of Bedford,\nNova Scotia, as directors of the Canadian Commercial Corporation to hold\noffice during pleasure for a term of two years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

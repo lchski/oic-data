@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1174</td><td>1990-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PENSION BENEFITS STANDARDS REGULATIONS, 1985 increasing\nthe fees payable by larger pension plans in order to cover more fully the\ncosts incurred by the Office of the Superintendent of Financial\nInstitutions in administering the Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0363  <strong>Publication Date:</strong> 1990-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1174",
   "htmlHash": "d3504d8445856976c3e94a160ee1f31f",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-06-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the PENSION BENEFITS STANDARDS REGULATIONS, 1985 increasing\nthe fees payable by larger pension plans in order to cover more fully the\ncosts incurred by the Office of the Superintendent of Financial\nInstitutions in administering the Act.\n",
+  "registration": "Registration: SOR/ 1990-0363  Publication Date: 1990-07-04",
+  "registration_type": "SOR",
+  "registration_id": "1990-0363",
+  "registration_publication_date": "1990-07-04"
 }

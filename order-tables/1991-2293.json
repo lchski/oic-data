@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2293</td><td>1991-11-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting apart certain lands (88.19 hec) for the use and benefit of\nthe MOHAWKS of the BAY OF QUINTE BAND OF INDIANS as an addition to\nTYENDINAGA INDIAN RESERVE NO. 38, in the Province of Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2293",
   "htmlHash": "c1ba642f13d9cfb4f28fd085a2791c5b",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-11-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order setting apart certain lands (88.19 hec) for the use and benefit of\nthe MOHAWKS of the BAY OF QUINTE BAND OF INDIANS as an addition to\nTYENDINAGA INDIAN RESERVE NO. 38, in the Province of Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

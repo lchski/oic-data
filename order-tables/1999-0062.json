@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0062</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KAREN R. SHARLOW, of the City of Vancouver, in the Province\nof British Columbia, a Judge of the Federal Court of Canada - Trial\nDivision, and a member ex officio of the Federal Court of Appeal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0062",
   "htmlHash": "6cfc8c1a4e30feca111bfa8642fc0f7c",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KAREN R. SHARLOW, of the City of Vancouver, in the Province\nof British Columbia, a Judge of the Federal Court of Canada - Trial\nDivision, and a member ex officio of the Federal Court of Appeal.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

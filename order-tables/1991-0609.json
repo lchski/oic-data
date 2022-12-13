@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0609</td><td>1991-03-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to borrow for the payment of the Government of Canada bonds\nmaturing on May 1, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0609",
   "htmlHash": "95379ed60beb474c71a4a4e9883c7c1f",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-03-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to borrow for the payment of the Government of Canada bonds\nmaturing on May 1, 1991.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

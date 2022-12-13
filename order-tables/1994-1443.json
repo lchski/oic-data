@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1443</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into AGREEMENTS with the Province of QUEBEC, DESJARDINS\nLIFE ASSURANCE COMPANY INC. and the INDUSTRIAL-ALLIANCE LIFE INSURANCE\nCOMPANY for the purpose of making provision for the periodic payment of\nincome assistance to laid-off older workers.\n(PROGRAM FOR OLDER WORKER ADJUSTMENT)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1443",
   "htmlHash": "913fa01069f5f6af7ae2c77d034ae2e7",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EIC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into AGREEMENTS with the Province of QUEBEC, DESJARDINS\nLIFE ASSURANCE COMPANY INC. and the INDUSTRIAL-ALLIANCE LIFE INSURANCE\nCOMPANY for the purpose of making provision for the periodic payment of\nincome assistance to laid-off older workers.\n(PROGRAM FOR OLDER WORKER ADJUSTMENT)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

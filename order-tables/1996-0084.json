@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0084</td><td>1996-01-23</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 1993-105 which revise the renovation\nplans for WINDSOR STATION in downtown Montreal by providing for the\nintroduction of natural sunlight into those areas directly below the\ncentral bay on the concourse level and for the installation of new stairs\nleading to the underground municipal railway (Métro).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0084",
   "htmlHash": "7296cbc3eeda842098c11af5f1d95771",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", COM, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to Order in Council P.C. 1993-105 which revise the renovation\nplans for WINDSOR STATION in downtown Montreal by providing for the\nintroduction of natural sunlight into those areas directly below the\ncentral bay on the concourse level and for the installation of new stairs\nleading to the underground municipal railway (Métro).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

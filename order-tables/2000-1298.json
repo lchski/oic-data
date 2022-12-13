@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1298</td><td>2000-08-22</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARIE JOSÉ AYMÉ as Honorary Consul of Canada at Lille, the\nFrench Republic, for a period of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1298",
   "htmlHash": "24eb5604dcd5fb5c270bd5a085e3b42b",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MARIE JOSÉ AYMÉ as Honorary Consul of Canada at Lille, the\nFrench Republic, for a period of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

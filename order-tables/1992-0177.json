@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0177</td><td>1992-02-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which defers the date upon which the Royal Commission on the FUTURE\nOF THE TORONTO WATERFRONT shall submit its report to the Governor in\nCouncil until April 30, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0177",
   "htmlHash": "ae302a1d1c95505351713ea049c73d9a",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Order which defers the date upon which the Royal Commission on the FUTURE\nOF THE TORONTO WATERFRONT shall submit its report to the Governor in\nCouncil until April 30, 1992.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

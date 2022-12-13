@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1412</td><td>2002-08-08</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (2001 DROUGHT REGIONS) by\ndetermining that the Provinces of Alberta and Prince Edward Island and\nspecified areas in the other eight provinces are eligible drought regions\nfor (2001) income tax purposes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0312  <strong>Publication Date:</strong> 2002-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1412",
   "htmlHash": "d2a96e25bd429a31d3dd26137b2a0b69",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-08-08",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS (2001 DROUGHT REGIONS) by\ndetermining that the Provinces of Alberta and Prince Edward Island and\nspecified areas in the other eight provinces are eligible drought regions\nfor (2001) income tax purposes.\n",
+  "registration": "Registration: SOR/ 2002-0312  Publication Date: 2002-08-28",
+  "registration_type": "SOR",
+  "registration_id": "2002-0312",
+  "registration_publication_date": "2002-08-28"
 }

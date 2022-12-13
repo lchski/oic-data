@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0808</td><td>2002-05-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DENISE T. WILSON, of Willowdale, Ontario,\nRUTH ELIZABETH BILSON, of Saskatoon, Saskatchewan, THOMAS KUTTNER, of\nFredericton, New Brunswick, and KENNETH EDWARD NORMAN, of Saskatoon,\nSaskatchewan, as part-time members of the Public Service Staff Relations\nBoard to hold office during good behaviour for a period of two years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0808",
   "htmlHash": "563a43b6f93b9e84b3ef48dd628a1dcb",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-05-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PCO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DENISE T. WILSON, of Willowdale, Ontario,\nRUTH ELIZABETH BILSON, of Saskatoon, Saskatchewan, THOMAS KUTTNER, of\nFredericton, New Brunswick, and KENNETH EDWARD NORMAN, of Saskatoon,\nSaskatchewan, as part-time members of the Public Service Staff Relations\nBoard to hold office during good behaviour for a period of two years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

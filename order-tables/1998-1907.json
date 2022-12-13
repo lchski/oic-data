@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1907</td><td>1998-10-27</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as directors of the board of\ndirectors of the Canada Pension Plan Investment Board, to hold office\nduring good behaviour for a term of three years.\n(GAIL COOK-BENNETT, of Etobicoke, Ontario; DALE G. PARKER, of Vancouver,\nBritish Columbia; RICHARD THOMSON, of Toronto, Ontario;\nHONOURABLE GÉRARD V. LA FOREST. of Fredericton, New Brunswick;\nM. JOSEPH (JOE) REGAN, of Willowdale, Ontario; and DAVID WALKER, of\nWinnipeg, Manitoba)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1907",
   "htmlHash": "8dc8c0e9a0eb72b984b21892d0d63f0a",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following persons as directors of the board of\ndirectors of the Canada Pension Plan Investment Board, to hold office\nduring good behaviour for a term of three years.\n(GAIL COOK-BENNETT, of Etobicoke, Ontario; DALE G. PARKER, of Vancouver,\nBritish Columbia; RICHARD THOMSON, of Toronto, Ontario;\nHONOURABLE GÉRARD V. LA FOREST. of Fredericton, New Brunswick;\nM. JOSEPH (JOE) REGAN, of Willowdale, Ontario; and DAVID WALKER, of\nWinnipeg, Manitoba)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

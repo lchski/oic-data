@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0447</td><td>1990-03-08</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization to the Secretary of State for External Affairs to execute\nand issue an Instrument of Full Powers authorizing the Hon. Marcel Masse,\nor Alan Gourd, or Claude T. Charland to sign an Agreement with the\nGovernment of the Republic of France Regarding Development of\nFrench-language Audiovisual Co-production Projects for Television.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0447",
   "htmlHash": "407eb32d2c0957d716f374b20c02336b",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-03-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EA, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization to the Secretary of State for External Affairs to execute\nand issue an Instrument of Full Powers authorizing the Hon. Marcel Masse,\nor Alan Gourd, or Claude T. Charland to sign an Agreement with the\nGovernment of the Republic of France Regarding Development of\nFrench-language Audiovisual Co-production Projects for Television.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

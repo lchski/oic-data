@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0011</td><td>1999-01-15</td><td>0</td><td></td><td>TC,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the COMPETENCY OF OPERATORS OF PLEASURE CRAFT REGULATIONS\nwhich establish general proficiency requirements that an operator of a\npleasure boat will be required to meet, effective April 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0053  <strong>Publication Date:</strong> 1999-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0011",
   "htmlHash": "80fa5171f6f74fb05a02ee769e74eb77",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, F&O, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the COMPETENCY OF OPERATORS OF PLEASURE CRAFT REGULATIONS\nwhich establish general proficiency requirements that an operator of a\npleasure boat will be required to meet, effective April 1, 1999.\n",
+  "registration": "Registration: SOR/ 1999-0053  Publication Date: 1999-02-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0053",
+  "registration_publication_date": "1999-02-03"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1385</td><td>1993-06-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue fixing THURSDAY, JULY 29,\n1993, as the day upon which sections 21 and 33 of this Act shall\nCOME INTO FORCE. (s. 21 dissolves TH(1987) and s. 33 removes references to\nTH(1987) from a number of federal statutes).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0148  <strong>Publication Date:</strong> 1993-07-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1385",
   "htmlHash": "f9e31e73ac9528350a00740677b0cdf0",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue fixing THURSDAY, JULY 29,\n1993, as the day upon which sections 21 and 33 of this Act shall\nCOME INTO FORCE. (s. 21 dissolves TH(1987) and s. 33 removes references to\nTH(1987) from a number of federal statutes).\n",
+  "registration": "Registration: SI / 1993-0148  Publication Date: 1993-07-14",
+  "registration_type": "SI",
+  "registration_id": "1993-0148",
+  "registration_publication_date": "1993-07-14"
 }

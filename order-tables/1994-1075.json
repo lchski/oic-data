@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1075</td><td>1994-06-23</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the INCOME TAX REGULATIONS (Part XLIX) allowing registered\nretirement savings plans, registered retirement income funds and deferred\nprofit-sharing plans to invest in a broader range of investments,\nincluding Ontario and New Brunswick community bonds.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0472  <strong>Publication Date:</strong> 1994-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1075",
   "htmlHash": "470d887f5daf863e3402af2cf23cef54",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the INCOME TAX REGULATIONS (Part XLIX) allowing registered\nretirement savings plans, registered retirement income funds and deferred\nprofit-sharing plans to invest in a broader range of investments,\nincluding Ontario and New Brunswick community bonds.\n",
+  "registration": "Registration: SOR/ 1994-0472  Publication Date: 1994-07-13",
+  "registration_type": "SOR",
+  "registration_id": "1994-0472",
+  "registration_publication_date": "1994-07-13"
 }

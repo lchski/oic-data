@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0629</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the DIRECTION TO THE CRTC (INELIGIBILITY TO HOLD\nBROADCASTING LICENCES) (a) to change the definition of \"agents of Her\nMajesty in right of any province\" in the Direction, and (b) to add a new\nclass of applicants who are eligible to hold broadcasting distribution\nlicences and to direct the CRTC on the applicable conditions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0231  <strong>Publication Date:</strong> 1997-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0629",
   "htmlHash": "7653c3c081c55e9c3f07d0836360b608",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HERITAGE",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the DIRECTION TO THE CRTC (INELIGIBILITY TO HOLD\nBROADCASTING LICENCES) (a) to change the definition of \"agents of Her\nMajesty in right of any province\" in the Direction, and (b) to add a new\nclass of applicants who are eligible to hold broadcasting distribution\nlicences and to direct the CRTC on the applicable conditions.\n",
+  "registration": "Registration: SOR/ 1997-0231  Publication Date: 1997-05-14",
+  "registration_type": "SOR",
+  "registration_id": "1997-0231",
+  "registration_publication_date": "1997-05-14"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1563</td><td>2002-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SHARED PREMISES REGULATIONS (BANKS) which allow affiliated\nretail and wholesale banks to operate from the same location, subject to\ncertain conditions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0339  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1563",
   "htmlHash": "b9988dc672f81039ea9c377c00af9771",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the SHARED PREMISES REGULATIONS (BANKS) which allow affiliated\nretail and wholesale banks to operate from the same location, subject to\ncertain conditions.\n",
+  "registration": "Registration: SOR/ 2002-0339  Publication Date: 2002-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2002-0339",
+  "registration_publication_date": "2002-10-09"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0010</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ROY ILLING, of Calgary, Alberta, as a member of the\nNational Energy Board to hold office during good behaviour for a period of\nsix months, effective January 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0010",
   "htmlHash": "4d33916312d70ae791cad27ef4561859",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-01-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , RESOURCES",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of ROY ILLING, of Calgary, Alberta, as a member of the\nNational Energy Board to hold office during good behaviour for a period of\nsix months, effective January 1, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

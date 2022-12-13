@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0518</td><td>2000-04-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of Rules Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL RULES\nwhich are designed to streamline the Tribunal's procedures, expedite the\nhearing of matters, reflect international trade commitments and generally\nprovide comprehensive and transparent guidance to parties appearing before\nthe Tribunal, effective April 15, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0139  <strong>Publication Date:</strong> 2000-04-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0518",
   "htmlHash": "4b98af144b76e1b4595bbc3f5aae392a",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-04-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of Rules Amending the CANADIAN INTERNATIONAL TRADE TRIBUNAL RULES\nwhich are designed to streamline the Tribunal's procedures, expedite the\nhearing of matters, reflect international trade commitments and generally\nprovide comprehensive and transparent guidance to parties appearing before\nthe Tribunal, effective April 15, 2000.\n",
+  "registration": "Registration: SOR/ 2000-0139  Publication Date: 2000-04-26",
+  "registration_type": "SOR",
+  "registration_id": "2000-0139",
+  "registration_publication_date": "2000-04-26"
 }

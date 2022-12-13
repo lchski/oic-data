@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1384</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the DESIGNATION OF COUNTRIES (STANDARDS COUNCIL OF CANADA)\nORDER which adds nations of the European Union and the European Free Trade\nAssociation to the list of countries in which the Standards Council of\nCanada may accredit conformity assessment organizations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0087  <strong>Publication Date:</strong> 1999-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1384",
   "htmlHash": "b0d077514da1e8bcc2c70ee7f9ad38fa",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the DESIGNATION OF COUNTRIES (STANDARDS COUNCIL OF CANADA)\nORDER which adds nations of the European Union and the European Free Trade\nAssociation to the list of countries in which the Standards Council of\nCanada may accredit conformity assessment organizations.\n",
+  "registration": "Registration: SI / 1999-0087  Publication Date: 1999-08-18",
+  "registration_type": "SI",
+  "registration_id": "1999-0087",
+  "registration_publication_date": "1999-08-18"
 }

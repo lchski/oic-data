@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1501</td><td>1991-08-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the designation by way of surrender of certain land in MUSKEG\nLAKE INDIAN RESERVE NO. 102, by Muskeg Lake Band of Indians, Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1501",
   "htmlHash": "0e88b93548b85a50b2ceab33efd6c44d",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-08-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the designation by way of surrender of certain land in MUSKEG\nLAKE INDIAN RESERVE NO. 102, by Muskeg Lake Band of Indians, Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

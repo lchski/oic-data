@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1652</td><td>1999-09-29</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1051 - SCHEDULE F)\nby adding 23 new drug substances to Schedule F [Prescription Drugs], by\ncorrecting spelling errors and by adding the drug cyclophosphamide to the\nFrench version of the Schedule where it had been omitted.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0370  <strong>Publication Date:</strong> 1999-10-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1652",
   "htmlHash": "351d6f31eeff484626a858cf4b7dc043",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (1051 - SCHEDULE F)\nby adding 23 new drug substances to Schedule F [Prescription Drugs], by\ncorrecting spelling errors and by adding the drug cyclophosphamide to the\nFrench version of the Schedule where it had been omitted.\n",
+  "registration": "Registration: SOR/ 1999-0370  Publication Date: 1999-10-13",
+  "registration_type": "SOR",
+  "registration_id": "1999-0370",
+  "registration_publication_date": "1999-10-13"
 }

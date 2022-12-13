@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0506</td><td>1995-03-28</td><td>0</td><td></td><td>SSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Supply and Services of\nPETER WARKENTIN, of Aldergrove, British Columbia, as a director of the\nCanadian Commercial Corporation to hold office during pleasure for a term\nof three years, in the place of Andrew Saxton, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0506",
   "htmlHash": "df7111488c37d6256ebf2a7aeaf68c48",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "SSC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Supply and Services of\nPETER WARKENTIN, of Aldergrove, British Columbia, as a director of the\nCanadian Commercial Corporation to hold office during pleasure for a term\nof three years, in the place of Andrew Saxton, whose term has expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0395</td><td>2000-03-23</td><td>0</td><td></td><td>PWGS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FORFEITED PROPERTY SHARING REGULATIONS by\nclarifying that a transfer of leftover funds in the Seized Property Non-Tax\nRevenue Account cannot be made after March 31, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0115  <strong>Publication Date:</strong> 2000-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0395",
   "htmlHash": "46f080f8ad8e9d9c50c785b0e759a00c",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "PWGS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FORFEITED PROPERTY SHARING REGULATIONS by\nclarifying that a transfer of leftover funds in the Seized Property Non-Tax\nRevenue Account cannot be made after March 31, 2000.\n",
+  "registration": "Registration: SOR/ 2000-0115  Publication Date: 2000-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2000-0115",
+  "registration_publication_date": "2000-03-29"
 }

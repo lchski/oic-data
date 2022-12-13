@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2007-0257</td><td>2007-03-01</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TBS,&nbsp; </td></tr><tr><td>Subject</td><td colspan=\"5\">Supplementary Estimates (B) ** 2006-2007 **  </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a WARRANT be prepared authorizing the expenditure of the sums set out in APPROPRIATION ACT NO. 4, 2006-2007.\n[RELEASE OF SUPPLY - SUPPLEMENTARY ESTIMATES (B) FOR 2006-2007]</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2007-0257",
   "htmlHash": "60d666a58342aeb44a2c55eb2cc4c923",
-  "attachments": []
+  "attachments": [],
+  "date": "2007-03-01",
+  "chapter": "",
+  "bill": "",
+  "department": ", , , , TBS, ",
+  "act": "",
+  "subject": "Supplementary Estimates (B) ** 2006-2007 **  ",
+  "precis": "Order directing that a WARRANT be prepared authorizing the expenditure of the sums set out in APPROPRIATION ACT NO. 4, 2006-2007.\n[RELEASE OF SUPPLY - SUPPLEMENTARY ESTIMATES (B) FOR 2006-2007]",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

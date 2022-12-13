@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0670</td><td>1994-04-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to UKRAINE made by the following\nParliamentarians, from April 7th to April 12th, 1994, as part of the\nCanadian delegation of observers to the second round of the democratic\nelections.\n.\n  1. Walter Lastewka,  2. Senator/Sénateur Marcel Prud'homme\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0670",
   "htmlHash": "bc58add1add31730b18929b5863fe5d6",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the trip to UKRAINE made by the following\nParliamentarians, from April 7th to April 12th, 1994, as part of the\nCanadian delegation of observers to the second round of the democratic\nelections.\n.\n  1. Walter Lastewka,  2. Senator/Sénateur Marcel Prud'homme\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

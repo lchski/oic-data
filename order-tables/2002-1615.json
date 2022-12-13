@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1615</td><td>2002-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PRECURSOR CONTROL REGULATIONS which are designed to enable\nCanada to meet its international commitments with respect to the monitoring\nand control of precursors and other chemicals frequently used in the\nclandestine production of illicit drugs.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0359  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1615",
   "htmlHash": "1034ecca7949299d15392f1125d778d6",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HEALTH",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the PRECURSOR CONTROL REGULATIONS which are designed to enable\nCanada to meet its international commitments with respect to the monitoring\nand control of precursors and other chemicals frequently used in the\nclandestine production of illicit drugs.\n",
+  "registration": "Registration: SOR/ 2002-0359  Publication Date: 2002-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2002-0359",
+  "registration_publication_date": "2002-10-09"
 }

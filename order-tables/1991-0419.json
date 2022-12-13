@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0419</td><td>1991-03-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Economic Council of\nCanada to hold office for a term of three years.\n(Judith Korbin, West Vancouver, British Columbia; Germaine Gibara,\nMontreal, Quebec; and Jacques Menard, Ville Mont-Royal, Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0419",
   "htmlHash": "8de0547a3921e726b10cbb6bf3212ba9",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-03-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members of the Economic Council of\nCanada to hold office for a term of three years.\n(Judith Korbin, West Vancouver, British Columbia; Germaine Gibara,\nMontreal, Quebec; and Jacques Menard, Ville Mont-Royal, Quebec)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

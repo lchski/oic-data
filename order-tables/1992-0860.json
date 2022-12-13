@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0860</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Members of the House of Commons as Parliamentary\nSecretaries, effective May 8, 1992 for a period terminating May 7, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0860",
   "htmlHash": "66cdf056537c0232e74ce8f8826e2743",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain Members of the House of Commons as Parliamentary\nSecretaries, effective May 8, 1992 for a period terminating May 7, 1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0517</td><td>1994-03-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a new PROCLAMATION do issue fixing September 1, 1994,\nas the day upon which paragraph 106(2)(c) of the Criminal Code shall\nCOME INTO FORCE in the Northwest Territories and Saskatchewan.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0049  <strong>Publication Date:</strong> 1994-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0517",
   "htmlHash": "65fd60acd3590a55064fc199d8c85aef",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-03-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a new PROCLAMATION do issue fixing September 1, 1994,\nas the day upon which paragraph 106(2)(c) of the Criminal Code shall\nCOME INTO FORCE in the Northwest Territories and Saskatchewan.\n",
+  "registration": "Registration: SI / 1994-0049  Publication Date: 1994-05-04",
+  "registration_type": "SI",
+  "registration_id": "1994-0049",
+  "registration_publication_date": "1994-05-04"
 }

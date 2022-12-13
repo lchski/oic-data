@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0821</td><td>1993-04-22</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Michel Dagenais, of Montreal, Quebec, as a full-time member\nof the National Parole Board to hold office during good behaviour for a\nperiod of ten years and designation of the said Michel Dagenais as the\nChairperson of the National Parole Board.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0821",
   "htmlHash": "d7e4eb7f9ddc5ec50c2275b9652ef447",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Michel Dagenais, of Montreal, Quebec, as a full-time member\nof the National Parole Board to hold office during good behaviour for a\nperiod of ten years and designation of the said Michel Dagenais as the\nChairperson of the National Parole Board.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

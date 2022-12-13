@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1822</td><td>1999-10-12</td><td>0</td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of BERNICE MARY RADE, of Sarnia, Ontario, as a member of the\nReview Tribunal for the region of Chatham to hold office during pleasure\nfor a term of three years, effective January 28, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1822",
   "htmlHash": "ab32311a911063a561c4695c2be24932",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HRD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of BERNICE MARY RADE, of Sarnia, Ontario, as a member of the\nReview Tribunal for the region of Chatham to hold office during pleasure\nfor a term of three years, effective January 28, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

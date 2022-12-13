@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0573</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the CUSTOMS BONDED WAREHOUSES REGULATIONS which establish\ncertain procedural rights when a licence is suspended, abolish restrictions\non the number of times that ownership of bonded goods may be transferred,\nallow for greater flexibility in determining minimum security deposits, and\neliminate discrepancies between the English and French versions or make\ntechnical clarifications.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0176  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0573",
   "htmlHash": "f22c560a8d8ca68f550e93c500db1c1b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-04-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the CUSTOMS BONDED WAREHOUSES REGULATIONS which establish\ncertain procedural rights when a licence is suspended, abolish restrictions\non the number of times that ownership of bonded goods may be transferred,\nallow for greater flexibility in determining minimum security deposits, and\neliminate discrepancies between the English and French versions or make\ntechnical clarifications.\n",
+  "registration": "Registration: SOR/ 1995-0176  Publication Date: 1995-04-19",
+  "registration_type": "SOR",
+  "registration_id": "1995-0176",
+  "registration_publication_date": "1995-04-19"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0953</td><td>1998-06-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of The Leadership Network as a department for the purposes of\nthat Act; and designation of the Head, The Leadership Network as the\ndeputy head of the Network for the purposes of that Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0071  <strong>Publication Date:</strong> 1998-06-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0953",
   "htmlHash": "541caed0ba9297220d5b23f6f4a93dc5",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-06-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of The Leadership Network as a department for the purposes of\nthat Act; and designation of the Head, The Leadership Network as the\ndeputy head of the Network for the purposes of that Act.\n",
+  "registration": "Registration: SI / 1998-0071  Publication Date: 1998-06-24",
+  "registration_type": "SI",
+  "registration_id": "1998-0071",
+  "registration_publication_date": "1998-06-24"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0731</td><td>1991-04-18</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the INCOME TAX REGULATIONS delegating to certain officials\nthe powers of the Minister under subsection 220(3) of the Income Tax Act\nto extend the time for making a return under that Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0278  <strong>Publication Date:</strong> 1991-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0731",
   "htmlHash": "594389e4dedfab38ec49bd0273c11935",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-04-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", NR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the INCOME TAX REGULATIONS delegating to certain officials\nthe powers of the Minister under subsection 220(3) of the Income Tax Act\nto extend the time for making a return under that Act.\n",
+  "registration": "Registration: SOR/ 1991-0278  Publication Date: 1991-05-08",
+  "registration_type": "SOR",
+  "registration_id": "1991-0278",
+  "registration_publication_date": "1991-05-08"
 }

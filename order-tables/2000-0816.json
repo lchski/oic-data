@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0816</td><td>2000-06-01</td><td>0</td><td></td><td>,&nbsp; INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to BONN (Germany) undertaken by\nKAREN DRAFT SLOAN, M.P. (North-York), from March 21 to march 26, 2000, for\nthe purpose of attending the Conference of the 4th Intergovernmental\nNegotiating Committee for a Global Treaty on Persistent Organic Pollutants,\non behalf of the Minister for International Cooperation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0816",
   "htmlHash": "179b860a4c34e564f8fd9c149d2c89f5",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-06-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INT'L COOP, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to BONN (Germany) undertaken by\nKAREN DRAFT SLOAN, M.P. (North-York), from March 21 to march 26, 2000, for\nthe purpose of attending the Conference of the 4th Intergovernmental\nNegotiating Committee for a Global Treaty on Persistent Organic Pollutants,\non behalf of the Minister for International Cooperation.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

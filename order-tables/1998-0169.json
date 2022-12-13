@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0169</td><td>1998-02-12</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the WEIGHTS AND MEASURES REGULATIONS which harmonize\nthe standards for manual weight scales with those of our major trading\npartners.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0115  <strong>Publication Date:</strong> 1998-03-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0169",
   "htmlHash": "36bfe3061b4b7d73cdf7701e6de72449",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the WEIGHTS AND MEASURES REGULATIONS which harmonize\nthe standards for manual weight scales with those of our major trading\npartners.\n",
+  "registration": "Registration: SOR/ 1998-0115  Publication Date: 1998-03-04",
+  "registration_type": "SOR",
+  "registration_id": "1998-0115",
+  "registration_publication_date": "1998-03-04"
 }

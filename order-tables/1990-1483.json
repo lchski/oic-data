@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1483</td><td>1990-07-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; TB,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the CANADA-QUEBEC AGREEMENT ON THE DEVELOPMENT OF\nTHE NATIONAL OPTICS INSTITUTE which will provide cost-shared financial\nassistance to the Institute in order to allow it to pursue its scientific\nactivities over the course of the next five years (1990-1995).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1483",
   "htmlHash": "a4d23c18a1f736d66082fe6e7f69eaa5",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ISTC, TB, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into the CANADA-QUEBEC AGREEMENT ON THE DEVELOPMENT OF\nTHE NATIONAL OPTICS INSTITUTE which will provide cost-shared financial\nassistance to the Institute in order to allow it to pursue its scientific\nactivities over the course of the next five years (1990-1995).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

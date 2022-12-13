@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1979</td><td>1992-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of a TEMPORARY ADMINISTRATOR, namely Mr. Justice THOMAS C.\nWAKELING, a Judge of the Court of Appeal of Saskatchewan, who shall execute\nthe office and functions of the Lieutenant Governor of SASKATCHEWAN over\nthe course of a five-day period in September, 1992 (21st to the 25th).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1979",
   "htmlHash": "208e4b5c0596cfcc0f08d2db02d9fd5a",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of a TEMPORARY ADMINISTRATOR, namely Mr. Justice THOMAS C.\nWAKELING, a Judge of the Court of Appeal of Saskatchewan, who shall execute\nthe office and functions of the Lieutenant Governor of SASKATCHEWAN over\nthe course of a five-day period in September, 1992 (21st to the 25th).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

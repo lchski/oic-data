@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1978</td><td>1992-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LYNN LEFEBVRE, of Toronto, Ontario, as the Returning Officer\nfor the electoral district of Broadview--Greenwood.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1978",
   "htmlHash": "f257fead1b04b0bd5d49619b179b92e1",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , PCO",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LYNN LEFEBVRE, of Toronto, Ontario, as the Returning Officer\nfor the electoral district of Broadview--Greenwood.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

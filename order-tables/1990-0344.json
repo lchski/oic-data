@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0344</td><td>1990-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the leasing of territorial lands (640 acres) in the Northwest\nTerritories to Neptune Resources Corp. of Mississauga, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0344",
   "htmlHash": "9393a284dd2163ee67ca4cdcc94c1c03",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , OLD INAC",
+  "act": "",
+  "subject": "",
+  "precis": "Approve the leasing of territorial lands (640 acres) in the Northwest\nTerritories to Neptune Resources Corp. of Mississauga, Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1643</td><td>1999-09-29</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PUBLIC SERVICE BODY REBATE (GST) REGULATIONS by\nsimplifying the rules for determining the rebates that are available to\nsmaller public service bodies.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0367  <strong>Publication Date:</strong> 1999-10-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1643",
   "htmlHash": "fc51b975c7c6b87e951ed90a81b95b5b",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-29",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PUBLIC SERVICE BODY REBATE (GST) REGULATIONS by\nsimplifying the rules for determining the rebates that are available to\nsmaller public service bodies.\n",
+  "registration": "Registration: SOR/ 1999-0367  Publication Date: 1999-10-13",
+  "registration_type": "SOR",
+  "registration_id": "1999-0367",
+  "registration_publication_date": "1999-10-13"
 }

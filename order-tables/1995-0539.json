@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0539</td><td>1995-03-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; PSC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Special Appointment Regulations, No. 1995-3. (Kevin Lynch)\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0167  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0539",
   "htmlHash": "06af9ac3b5691ff8c64a7b75df5e99a3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, PSC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Special Appointment Regulations, No. 1995-3. (Kevin Lynch)\n",
+  "registration": "Registration: SOR/ 1995-0167  Publication Date: 1995-04-19",
+  "registration_type": "SOR",
+  "registration_id": "1995-0167",
+  "registration_publication_date": "1995-04-19"
 }

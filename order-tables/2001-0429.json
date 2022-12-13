@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0429</td><td>2001-03-22</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CERTAIN TAXPAYERS REMISSION ORDER, 2000-3 - which provides for the remission of amounts payable by members of the Newfoundland Association of Public Employees on additional, voluntary contributions to their pension plan made prior to 1991 for non-existent service.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0045  <strong>Publication Date:</strong> 2001-04-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0429",
   "htmlHash": "3d4b667206bffdccd43aa4b7923c95d1",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-22",
+  "chapter": "0",
+  "bill": "",
+  "department": "CCRA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the CERTAIN TAXPAYERS REMISSION ORDER, 2000-3 - which provides for the remission of amounts payable by members of the Newfoundland Association of Public Employees on additional, voluntary contributions to their pension plan made prior to 1991 for non-existent service.",
+  "registration": "Registration: SI / 2001-0045  Publication Date: 2001-04-11",
+  "registration_type": "SI",
+  "registration_id": "2001-0045",
+  "registration_publication_date": "2001-04-11"
 }

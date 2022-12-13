@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0755</td><td>1997-05-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES, for community\ndevelopment purposes, of the administration and control of the entire\ninterest in some 435 square kilometres of land situate in and around the\nHamlet of RANKIN INLET.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0755",
   "htmlHash": "9d70f94be1984e8c1afca451e3e12183",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-05-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES, for community\ndevelopment purposes, of the administration and control of the entire\ninterest in some 435 square kilometres of land situate in and around the\nHamlet of RANKIN INLET.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

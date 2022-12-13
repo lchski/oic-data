@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1790</td><td>1999-10-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Expropriation of some 0.41 acres of land situated in LACOMBE COUNTY,\nAlberta, for the construction of a rail line.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1790",
   "htmlHash": "bf3c15996f03034d40a8d95b241b7739",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC, PWGS",
+  "act": "",
+  "subject": "",
+  "precis": "Expropriation of some 0.41 acres of land situated in LACOMBE COUNTY,\nAlberta, for the construction of a rail line.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

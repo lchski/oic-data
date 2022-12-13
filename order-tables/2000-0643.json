@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0643</td><td>2000-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING AND REPEALING CERTAIN REGULATIONS\nADMINISTERED AND ENFORCED BY THE CANADIAN FOOD INSPECTION AGENCY, 2000-1,\n(MISCELLANEOUS PROGRAM) which replace outdated references to Ministers and\nDepartments found in Regulations now administered and enforced by the\nAgency with new references to the Canadian Food Inspection Agency, and make\nother amendments of an editorial nature.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0184  <strong>Publication Date:</strong> 2000-05-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0643",
   "htmlHash": "20b0baba454c6e274dbc4e1bec6a95d6",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-05-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , AGRI-FOOD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of REGULATIONS AMENDING AND REPEALING CERTAIN REGULATIONS\nADMINISTERED AND ENFORCED BY THE CANADIAN FOOD INSPECTION AGENCY, 2000-1,\n(MISCELLANEOUS PROGRAM) which replace outdated references to Ministers and\nDepartments found in Regulations now administered and enforced by the\nAgency with new references to the Canadian Food Inspection Agency, and make\nother amendments of an editorial nature.\n",
+  "registration": "Registration: SOR/ 2000-0184  Publication Date: 2000-05-24",
+  "registration_type": "SOR",
+  "registration_id": "2000-0184",
+  "registration_publication_date": "2000-05-24"
 }

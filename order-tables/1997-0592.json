@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0592</td><td>1997-04-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order requesting the Canadian Radio-television and Telecommunications\nCommission to seek comments from the public on the establishment of one or\nmore additional national English, French or bilingual television networks,\nand to report to the Governor in Council on their views and concerns.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0592",
   "htmlHash": "8766e9b3936efe1b6f42cc052632dd35",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HERITAGE, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order requesting the Canadian Radio-television and Telecommunications\nCommission to seek comments from the public on the establishment of one or\nmore additional national English, French or bilingual television networks,\nand to report to the Governor in Council on their views and concerns.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

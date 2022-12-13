@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1816</td><td>1999-10-12</td><td>0</td><td></td><td>HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROGER HOUDE, of Outremont, Quebec, as Chairperson of the\nBoards of Referees for the Quebec Regional Division, and particularly for\nthe District of Centre-Ville de Montréal, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1816",
   "htmlHash": "d3421962a300116e196a8e60b36f8567",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-12",
+  "chapter": "0",
+  "bill": "",
+  "department": "HRD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ROGER HOUDE, of Outremont, Quebec, as Chairperson of the\nBoards of Referees for the Quebec Regional Division, and particularly for\nthe District of Centre-Ville de Montréal, for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

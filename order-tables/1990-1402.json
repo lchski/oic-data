@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1402</td><td>1990-07-05</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of Robert M.\nScott, of Saint John, New Brunswick, as a director of the board of\ndirectors of the Saint John Port Corporation to hold office during\npleasure for a term of three years, in the place of Joseph V. Streeter,\nwhose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1402",
   "htmlHash": "133f482628b068b497dea3eb475aaa74",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-05",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Transport of Robert M.\nScott, of Saint John, New Brunswick, as a director of the board of\ndirectors of the Saint John Port Corporation to hold office during\npleasure for a term of three years, in the place of Joseph V. Streeter,\nwhose term has expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0176</td><td>1998-02-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of GWENDOLYN DALE WALKER, of Halifax County, Nova Scotia, as a\nmember of the Review Tribunal for the region of Halifax to hold office\nduring pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0176",
   "htmlHash": "1c682565266d5d0b6da19432535732c6",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , HRD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of GWENDOLYN DALE WALKER, of Halifax County, Nova Scotia, as a\nmember of the Review Tribunal for the region of Halifax to hold office\nduring pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

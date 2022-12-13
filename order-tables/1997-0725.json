@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0725</td><td>1997-05-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing MONDAY, MAY 12, 1997, as the day upon which all sections of\nthis Act (S.C. 1997, c. 30) shall COME INTO FORCE (Bill C-46).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0063  <strong>Publication Date:</strong> 1997-05-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0725",
   "htmlHash": "180ba70540878d9f6415fe13977875ab",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-05-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing MONDAY, MAY 12, 1997, as the day upon which all sections of\nthis Act (S.C. 1997, c. 30) shall COME INTO FORCE (Bill C-46).\n",
+  "registration": "Registration: SI / 1997-0063  Publication Date: 1997-05-28",
+  "registration_type": "SI",
+  "registration_id": "1997-0063",
+  "registration_publication_date": "1997-05-28"
 }

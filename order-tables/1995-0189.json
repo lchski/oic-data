@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0189</td><td>1995-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Louise Fréchette as Alternate Governor of the\nInter-American Development Bank, the Asian Development Bank, the\nCaribbean Development Bank and the African Development Bank, in the place\nof C. Scott Clark.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0189",
   "htmlHash": "d094a2f5cb319d233ee01b537d1d545b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Louise Fréchette as Alternate Governor of the\nInter-American Development Bank, the Asian Development Bank, the\nCaribbean Development Bank and the African Development Bank, in the place\nof C. Scott Clark.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

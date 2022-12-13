@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0602</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NOVA SCOTIA OFFSHORE CERTIFICATE OF FITNESS REGULATIONS\nrespecting the issuance of certificates of fitness for petroleum\nproduction, drilling, accommodation and diving installations in the Nova\nScotia offshore area.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0187  <strong>Publication Date:</strong> 1995-05-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0602",
   "htmlHash": "13c0c132236bcabb43a9c284a13ce3c3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-04-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the NOVA SCOTIA OFFSHORE CERTIFICATE OF FITNESS REGULATIONS\nrespecting the issuance of certificates of fitness for petroleum\nproduction, drilling, accommodation and diving installations in the Nova\nScotia offshore area.\n",
+  "registration": "Registration: SOR/ 1995-0187  Publication Date: 1995-05-03",
+  "registration_type": "SOR",
+  "registration_id": "1995-0187",
+  "registration_publication_date": "1995-05-03"
 }

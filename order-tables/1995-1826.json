@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1826</td><td>1995-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of an ADMINISTRATOR of the Government of NEW BRUNSWICK, namely\nthe Hon. PATRICIA L. CUMMING, who shall execute the office and functions of\nthe Lieutenant Governor from November 5 to November 9, 1995, inclusive,\nduring the absence, illness or other inability of the latter.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1826",
   "htmlHash": "3c99990f362742f747c2f0b8fe3f9e57",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-10-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of an ADMINISTRATOR of the Government of NEW BRUNSWICK, namely\nthe Hon. PATRICIA L. CUMMING, who shall execute the office and functions of\nthe Lieutenant Governor from November 5 to November 9, 1995, inclusive,\nduring the absence, illness or other inability of the latter.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

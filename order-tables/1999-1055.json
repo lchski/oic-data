@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1055</td><td>1999-06-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign an\nAGREEMENT between Canada and the EUROPEAN COMMUNITIES regarding the\nAPPLICATION OF THEIR COMPETITION LAWS, or (b) to issue an Instrument of\nFull Powers authorizing other officials to sign the Agreement for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1055",
   "htmlHash": "6fc6d8f20d6e47516eee00993af0be21",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FAIT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs (a) to sign an\nAGREEMENT between Canada and the EUROPEAN COMMUNITIES regarding the\nAPPLICATION OF THEIR COMPETITION LAWS, or (b) to issue an Instrument of\nFull Powers authorizing other officials to sign the Agreement for Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

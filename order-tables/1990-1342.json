@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1342</td><td>1990-06-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Confirm the request that Jean-Guy Hudon, M.P., TRAVEL TO COSTA RICA as\nthe official Canadian representative on the occasion of the INAUGURATION\nOF THE NEW COSTA RICAN PRESIDENT.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1342",
   "htmlHash": "85aed82f90d28a3a0cd523bface6fb29",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-06-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Confirm the request that Jean-Guy Hudon, M.P., TRAVEL TO COSTA RICA as\nthe official Canadian representative on the occasion of the INAUGURATION\nOF THE NEW COSTA RICAN PRESIDENT.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

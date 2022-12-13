@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1331</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (NATURAL RESOURCES) to the\nextent of giving effect to measures in the 1996, 1997 and 1999 Federal\nBudgets respecting resource-related expenditures (a new category called\n\"Canadian Renewable and Conservation Expenses\") and capital cost\n(depreciation) allowances related thereto.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0327  <strong>Publication Date:</strong> 2000-09-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1331",
   "htmlHash": "1b6e241eca23f88a37c8e4dfb34146c9",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS (NATURAL RESOURCES) to the\nextent of giving effect to measures in the 1996, 1997 and 1999 Federal\nBudgets respecting resource-related expenditures (a new category called\n\"Canadian Renewable and Conservation Expenses\") and capital cost\n(depreciation) allowances related thereto.\n",
+  "registration": "Registration: SOR/ 2000-0327  Publication Date: 2000-09-13",
+  "registration_type": "SOR",
+  "registration_id": "2000-0327",
+  "registration_publication_date": "2000-09-13"
 }

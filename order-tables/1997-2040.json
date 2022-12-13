@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-2040</td><td>1997-12-29</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the Defence Production and Development Sharing Remission\nOrder.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0011  <strong>Publication Date:</strong> 1998-01-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-2040",
   "htmlHash": "c84a4827a5f0c5aa5ef5ad4df169cd2d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", NR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the Defence Production and Development Sharing Remission\nOrder.\n",
+  "registration": "Registration: SI / 1998-0011  Publication Date: 1998-01-21",
+  "registration_type": "SI",
+  "registration_id": "1998-0011",
+  "registration_publication_date": "1998-01-21"
 }

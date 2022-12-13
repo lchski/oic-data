@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1320</td><td>1992-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval (a) to enter into an AGREEMENT with ARKELL FOODS LIMITED which\nprovides for the implementation of a cooperative plan for the marketing of\nTOMATOES produced in ONTARIO during 1992, and (b) to appoint MacGILLIVRAY\nPARTNERS, chartered accountants, to inspect and audit the books and\naccounts of the aforementioned processor.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1320",
   "htmlHash": "c1e529de54909d84106b442dca249575",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval (a) to enter into an AGREEMENT with ARKELL FOODS LIMITED which\nprovides for the implementation of a cooperative plan for the marketing of\nTOMATOES produced in ONTARIO during 1992, and (b) to appoint MacGILLIVRAY\nPARTNERS, chartered accountants, to inspect and audit the books and\naccounts of the aforementioned processor.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

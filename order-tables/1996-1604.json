@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1604</td><td>1996-10-24</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the SAKIMAY BAND, of some 259.153\nhectares of land situated in Saskatchewan, as Sakimay Indian Reserves\nNos. 74-1 and 74-3.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1604",
   "htmlHash": "829e87c831d81ffab37465fe504d5bc9",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the SAKIMAY BAND, of some 259.153\nhectares of land situated in Saskatchewan, as Sakimay Indian Reserves\nNos. 74-1 and 74-3.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

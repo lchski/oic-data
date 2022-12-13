@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2100</td><td>1999-11-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of KURT NEUENFELDT, of North Vancouver, British Columbia,\nas a part-time member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Vancouver Regional Office), to hold\noffice during good behaviour for a term of two years, effective\nDecember 10, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2100",
   "htmlHash": "283a955e6540ff6880e8eb03d8fd06a3",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-11-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , CITIZENSHIP, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of KURT NEUENFELDT, of North Vancouver, British Columbia,\nas a part-time member of the Convention Refugee Determination Division of\nthe Immigration and Refugee Board (Vancouver Regional Office), to hold\noffice during good behaviour for a term of two years, effective\nDecember 10, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

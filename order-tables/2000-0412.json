@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0412</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the WILDLIFE AREA REGULATIONS by adding some 103.65\nhectares to the Îles de Contrecoeur National Wildlife Area (NWA) in Quebec,\nroughly one hectare to the Îles de l'Estuaire NWA in Quebec, and some 171\nhectares to the Shepody NWA in New Brunswick.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0123  <strong>Publication Date:</strong> 2000-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0412",
   "htmlHash": "21b6640576da789b1ab277d336b50aca",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the WILDLIFE AREA REGULATIONS by adding some 103.65\nhectares to the Îles de Contrecoeur National Wildlife Area (NWA) in Quebec,\nroughly one hectare to the Îles de l'Estuaire NWA in Quebec, and some 171\nhectares to the Shepody NWA in New Brunswick.\n",
+  "registration": "Registration: SOR/ 2000-0123  Publication Date: 2000-04-12",
+  "registration_type": "SOR",
+  "registration_id": "2000-0123",
+  "registration_publication_date": "2000-04-12"
 }

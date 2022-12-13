@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1242</td><td>1993-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the entry by CANADIAN NATIONAL RAILWAY COMPANY into an\nagreement to sell certain railway assets to the ST. CLAIR TUNNEL COMPANY,\na wholly-owned CN subsidary not comprised in Canadian National Railway\nand an agreement to obtain running rights over trackage owned by the\nSt. Clair Tunnel Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1242",
   "htmlHash": "fa40bf54582a6f5da2b09f6ec29760d0",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the entry by CANADIAN NATIONAL RAILWAY COMPANY into an\nagreement to sell certain railway assets to the ST. CLAIR TUNNEL COMPANY,\na wholly-owned CN subsidary not comprised in Canadian National Railway\nand an agreement to obtain running rights over trackage owned by the\nSt. Clair Tunnel Company.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

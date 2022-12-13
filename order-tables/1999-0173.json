@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0173</td><td>1999-02-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SANDRA R. GOLDSTEIN, of Ottawa, Ontario, and\nPIERRE DESCHAMPS, of Montreal, Quebec, as members of the Canadian Human\nRights Tribunal to hold office during good behaviour for a term of three\nyears. .\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0173",
   "htmlHash": "2d5b94a18a16622f528544b0cfaff7d7",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SANDRA R. GOLDSTEIN, of Ottawa, Ontario, and\nPIERRE DESCHAMPS, of Montreal, Quebec, as members of the Canadian Human\nRights Tribunal to hold office during good behaviour for a term of three\nyears. .\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

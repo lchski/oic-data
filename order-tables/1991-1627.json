@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1627</td><td>1991-09-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 814 revoking the\nmaximum residue limits for manganous dimethyldithiocarbamate, a pesticide\nwhich has been used on apples.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0520  <strong>Publication Date:</strong> 1991-09-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1627",
   "htmlHash": "a9a76d2ae8add65214601ee40085ac11",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-09-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HWC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 814 revoking the\nmaximum residue limits for manganous dimethyldithiocarbamate, a pesticide\nwhich has been used on apples.\n",
+  "registration": "Registration: SOR/ 1991-0520  Publication Date: 1991-09-25",
+  "registration_type": "SOR",
+  "registration_id": "1991-0520",
+  "registration_publication_date": "1991-09-25"
 }

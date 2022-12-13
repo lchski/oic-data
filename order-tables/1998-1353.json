@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1353</td><td>1998-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the INITIAL PRICES [\"sums certain\"] to be paid by The Canadian\nWheat Board for SUPERIOR GRADES and VARIETIES of AMBER DURUM WHEAT\ndelivered in the new crop year beginning on AUGUST 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1353",
   "htmlHash": "8537871fc2d2d658dad1fbb4c4d08eac",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , RESOURCES, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the INITIAL PRICES [\"sums certain\"] to be paid by The Canadian\nWheat Board for SUPERIOR GRADES and VARIETIES of AMBER DURUM WHEAT\ndelivered in the new crop year beginning on AUGUST 1, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

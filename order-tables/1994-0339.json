@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0339</td><td>1994-02-24</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of a copy of the ORDINANCES made by the Commissioner in\nCouncil of the YUKON TERRITORY during the First session of the Twenty-\nEighth Council (Bills Nos. 11, 12, 38 and 65).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0339",
   "htmlHash": "bdfe14d525758941f89339d80439f827",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-02-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transmission of a copy of the ORDINANCES made by the Commissioner in\nCouncil of the YUKON TERRITORY during the First session of the Twenty-\nEighth Council (Bills Nos. 11, 12, 38 and 65).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1285</td><td>1995-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the CANADIAN WHEAT BOARD REGULATIONS which fix the initial\n\"sums certain\" to be paid by the Board for the BASE GRADES of wheat, amber\ndurum wheat, barley and designated barley delivered in the 1995-96 crop\nyear, effective August 1, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0384  <strong>Publication Date:</strong> 1995-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1285",
   "htmlHash": "c3606e8504c2ce07989e3c54fafff82b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGRI-FOOD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the CANADIAN WHEAT BOARD REGULATIONS which fix the initial\n\"sums certain\" to be paid by the Board for the BASE GRADES of wheat, amber\ndurum wheat, barley and designated barley delivered in the 1995-96 crop\nyear, effective August 1, 1995.\n",
+  "registration": "Registration: SOR/ 1995-0384  Publication Date: 1995-08-23",
+  "registration_type": "SOR",
+  "registration_id": "1995-0384",
+  "registration_publication_date": "1995-08-23"
 }

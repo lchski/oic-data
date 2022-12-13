@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1502</td><td>2000-09-21</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the LITTLE SHUSWAP BAND, of some\n1.77 hectares of land in British Columbia, as an addition to Quaaout Indian\nReserve No. 1 and Chum Creek Indian Reserve No. 2.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1502",
   "htmlHash": "3c2e218794330060fadbdf6a3fcc5678",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-09-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the LITTLE SHUSWAP BAND, of some\n1.77 hectares of land in British Columbia, as an addition to Quaaout Indian\nReserve No. 1 and Chum Creek Indian Reserve No. 2.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

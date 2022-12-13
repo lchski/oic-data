@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1981</td><td>1990-09-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; OLD INAC,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into (a) an Agreement with the Municipality of Oka which\nprovides for the acquisition of a parcel of land situate in Oka, Quebec,\n(b) an Indemnification Agreement with the Municipality of Oka, and (c) an\nIndemnification Agreement with Maurice Rousseau and Jean Michel Rousseau.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1981",
   "htmlHash": "5b40ee178300314edf991842051a09db",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-09-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , OLD INAC, TB",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into (a) an Agreement with the Municipality of Oka which\nprovides for the acquisition of a parcel of land situate in Oka, Quebec,\n(b) an Indemnification Agreement with the Municipality of Oka, and (c) an\nIndemnification Agreement with Maurice Rousseau and Jean Michel Rousseau.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

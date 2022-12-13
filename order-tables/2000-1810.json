@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1810</td><td>2000-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to adjust its accounts by\ntransferring the unsold stock in last year's pool account (1999-2000) for\nAMBER DURUM WHEAT to its account for the current crop year (2000-2001),\neffective January 2, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1810",
   "htmlHash": "526162655f679f31f048ce8584cad038",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , RESOURCES, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for THE CANADIAN WHEAT BOARD to adjust its accounts by\ntransferring the unsold stock in last year's pool account (1999-2000) for\nAMBER DURUM WHEAT to its account for the current crop year (2000-2001),\neffective January 2, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

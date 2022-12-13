@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1292</td><td>2000-08-22</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of OKSANA WYNNYCKYJ as Honorary Consul of Canada at Lviv,\nUkraine, for a period of three years, effective September 9, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1292",
   "htmlHash": "703439ace9e71748266e063c70d4705b",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of OKSANA WYNNYCKYJ as Honorary Consul of Canada at Lviv,\nUkraine, for a period of three years, effective September 9, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

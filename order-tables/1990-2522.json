@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2522</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; OLD INAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order which provides for: (a) the acceptance of an Instrument approved by\nthe BLOOD BAND OF INDIANS which provides for (i) the revocation of two\nprevious instruments approved in 1947 (P.C. 1948-597) and in 1956\n(P.C. 1956-661) which surrendered certain lands on Blood Indian Reserve\nNo. 148, in the Province of Alberta, and (ii) will return the land so\nsurrendered to reserve status; and (b) consents to the exercise by the\nProvince of Alberta of its powers to take lands under the Water Resources\nAct of Alberta without the consent of the owners.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2522",
   "htmlHash": "655889573981be9f98d5aaa208f145c3",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , OLD INAC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order which provides for: (a) the acceptance of an Instrument approved by\nthe BLOOD BAND OF INDIANS which provides for (i) the revocation of two\nprevious instruments approved in 1947 (P.C. 1948-597) and in 1956\n(P.C. 1956-661) which surrendered certain lands on Blood Indian Reserve\nNo. 148, in the Province of Alberta, and (ii) will return the land so\nsurrendered to reserve status; and (b) consents to the exercise by the\nProvince of Alberta of its powers to take lands under the Water Resources\nAct of Alberta without the consent of the owners.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

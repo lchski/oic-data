@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1518</td><td>1993-06-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Marc W. Rochon, Deputy Minister of Communications, to be\nDeputy Minister of Multiculturalism and Citizenship, to hold office during\npleasure and concurrently Under-Secretary of State of Canada, to hold\noffice during pleasure.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1518",
   "htmlHash": "ff652b92916c5c4e2046a113a6c58857",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Marc W. Rochon, Deputy Minister of Communications, to be\nDeputy Minister of Multiculturalism and Citizenship, to hold office during\npleasure and concurrently Under-Secretary of State of Canada, to hold\noffice during pleasure.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

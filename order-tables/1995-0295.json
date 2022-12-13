@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0295</td><td>1995-02-21</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of amendments to the TAX COURT OF CANADA RULES (INFORMAL\nPROCEDURE).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0114  <strong>Publication Date:</strong> 1995-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0295",
   "htmlHash": "48ebfcd947d5c8d84aa343b653154ed9",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of amendments to the TAX COURT OF CANADA RULES (INFORMAL\nPROCEDURE).\n",
+  "registration": "Registration: SOR/ 1995-0114  Publication Date: 1995-03-08",
+  "registration_type": "SOR",
+  "registration_id": "1995-0114",
+  "registration_publication_date": "1995-03-08"
 }

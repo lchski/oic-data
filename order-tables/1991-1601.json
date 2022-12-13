@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1601</td><td>1991-08-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Revocation of Order in Council P.C. 1975-2782 and designation of the\nNational Capital Region as the place at which the head office of\nPetro-Canada Limited shall be located.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0114  <strong>Publication Date:</strong> 1991-09-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1601",
   "htmlHash": "3726528cd502e362b1ee83fe9524c0c4",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-08-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Revocation of Order in Council P.C. 1975-2782 and designation of the\nNational Capital Region as the place at which the head office of\nPetro-Canada Limited shall be located.\n",
+  "registration": "Registration: SI / 1991-0114  Publication Date: 1991-09-11",
+  "registration_type": "SI",
+  "registration_id": "1991-0114",
+  "registration_publication_date": "1991-09-11"
 }

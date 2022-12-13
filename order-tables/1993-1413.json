@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1413</td><td>1993-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Rodney Irwin as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Republic of Hungary; Stephen Heeney as\nAmbassador Extraordinary and Plenipotentiary of Canada to the Republic of\nthe Philippines; Jon Scott as High Commissioner for Canada to the\nPeople's Republic of Bangladesh; and Anne Leahy as Ambassador\nExtraordinary and Plenipotentiary of Canada to the Republic of Poland.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1413",
   "htmlHash": "bcb46bea1d6b0947889f725be64715ef",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Rodney Irwin as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Republic of Hungary; Stephen Heeney as\nAmbassador Extraordinary and Plenipotentiary of Canada to the Republic of\nthe Philippines; Jon Scott as High Commissioner for Canada to the\nPeople's Republic of Bangladesh; and Anne Leahy as Ambassador\nExtraordinary and Plenipotentiary of Canada to the Republic of Poland.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

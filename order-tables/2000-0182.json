@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0182</td><td>2000-02-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs (a) to sign a CONVENTION\nbetween Canada and the UNITED ARAB EMIRATES for the AVOIDANCE OF DOUBLE\nTAXATION and the PREVENTION of FISCAL EVASION with respect to TAXES ON\nINCOME and on CAPITAL, or (b) to issue an Instrument of Full Powers\nauthorizing other representatives to sign the Convention for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0182",
   "htmlHash": "3fd95ba240e6909c4f69d95edd3e5635",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-02-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs (a) to sign a CONVENTION\nbetween Canada and the UNITED ARAB EMIRATES for the AVOIDANCE OF DOUBLE\nTAXATION and the PREVENTION of FISCAL EVASION with respect to TAXES ON\nINCOME and on CAPITAL, or (b) to issue an Instrument of Full Powers\nauthorizing other representatives to sign the Convention for Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

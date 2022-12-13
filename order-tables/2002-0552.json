@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0552</td><td>2002-04-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to sign or invest others\nwill full power and authority to sign an EXCHANGE OF NOTES constituting an\nAGREEMENT under the CANADA-UNITED STATES PACIFIC SALMON TREATY.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0552",
   "htmlHash": "5b8c017ebf6267da94c60b7aaf202bb5",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to sign or invest others\nwill full power and authority to sign an EXCHANGE OF NOTES constituting an\nAGREEMENT under the CANADA-UNITED STATES PACIFIC SALMON TREATY.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

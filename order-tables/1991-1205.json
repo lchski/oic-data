@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1205</td><td>1991-06-21</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the BRITISH COLUMBIA FISHERY (GENERAL) REGULATIONS\nestablishing an Excess Salmon to Spawning Requirement (ESSR) Licence and\npermitting the sale of fish taken under the authority of this licence.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0434  <strong>Publication Date:</strong> 1991-07-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1205",
   "htmlHash": "23ac6d537b08b47150dd0368d3dab942",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-06-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the BRITISH COLUMBIA FISHERY (GENERAL) REGULATIONS\nestablishing an Excess Salmon to Spawning Requirement (ESSR) Licence and\npermitting the sale of fish taken under the authority of this licence.\n",
+  "registration": "Registration: SOR/ 1991-0434  Publication Date: 1991-07-03",
+  "registration_type": "SOR",
+  "registration_id": "1991-0434",
+  "registration_publication_date": "1991-07-03"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0392</td><td>1996-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THE HONOURABLE CAROL MAHOOD HUDDART as a Justice of Appeal\nof the Court of Appeal for British Columbia and a Justice of Appeal of the\nCourt of Appeal for the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0392",
   "htmlHash": "d552651fa12af2866c97877b718ec8b0",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of THE HONOURABLE CAROL MAHOOD HUDDART as a Justice of Appeal\nof the Court of Appeal for British Columbia and a Justice of Appeal of the\nCourt of Appeal for the Yukon Territory.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

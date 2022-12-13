@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1540</td><td>1996-10-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of NOVA SCOTIA which\nprovides for the direct payment of benefits to Eligible Apple Producers in\nNova Scotia as a result of the early termination of the National Tripartite\nPrice Stabilization Plan for Apples.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1540",
   "htmlHash": "05f9ee3f721d413f193552d192eb2b8e",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , AGRI-FOOD, TB",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into an AGREEMENT with the Province of NOVA SCOTIA which\nprovides for the direct payment of benefits to Eligible Apple Producers in\nNova Scotia as a result of the early termination of the National Tripartite\nPrice Stabilization Plan for Apples.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

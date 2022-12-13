@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0396</td><td>1995-03-14</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a SUPPLEMENTARY AGREEMENT with the Province of\nPrince Edward Island in order to update the CANADA/PRINCE EDWARD ISLAND\nCROP INSURANCE AGREEMENT signed on September 19, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0396",
   "htmlHash": "45d203ff18d85218917316d40cda917f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGRI-FOOD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a SUPPLEMENTARY AGREEMENT with the Province of\nPrince Edward Island in order to update the CANADA/PRINCE EDWARD ISLAND\nCROP INSURANCE AGREEMENT signed on September 19, 1991.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

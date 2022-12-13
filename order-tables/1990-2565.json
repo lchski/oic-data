@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2565</td><td>1990-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Grant to WILLIAM RUF, of Prairie View Post Office, Saskatchewan, of the\nthe title to some 18.18 acres of land situate near the Village of Rush\nLake, Saskatchewan (Lot 195, Centre Block North, Rush Lake Irrigation\nProject).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2565",
   "htmlHash": "8367f55db1a10182232e5db21286829d",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Grant to WILLIAM RUF, of Prairie View Post Office, Saskatchewan, of the\nthe title to some 18.18 acres of land situate near the Village of Rush\nLake, Saskatchewan (Lot 195, Centre Block North, Rush Lake Irrigation\nProject).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

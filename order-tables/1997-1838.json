@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1838</td><td>1997-12-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PTB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the RECOVERY OF OVERPAYMENTS MADE TO FORMER MEMBERS OF\nPARLIAMENT REGULATIONS which autorize the Minister to recover overpaid\npension benefits where former Members of the House of Commons and of the\nSenate re-enter the federal public sector and earn in excess of $5,000\nannually.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0568  <strong>Publication Date:</strong> 1997-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1838",
   "htmlHash": "fd1a696223851ae3f2f10e7e41b6179d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , PTB",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the RECOVERY OF OVERPAYMENTS MADE TO FORMER MEMBERS OF\nPARLIAMENT REGULATIONS which autorize the Minister to recover overpaid\npension benefits where former Members of the House of Commons and of the\nSenate re-enter the federal public sector and earn in excess of $5,000\nannually.\n",
+  "registration": "Registration: SOR/ 1997-0568  Publication Date: 1997-12-24",
+  "registration_type": "SOR",
+  "registration_id": "1997-0568",
+  "registration_publication_date": "1997-12-24"
 }

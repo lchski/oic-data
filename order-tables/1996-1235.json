@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1235</td><td>1996-08-07</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister (a) to sign an AGREEMENT with the REPUBLIC OF\nICELAND for the AVOIDANCE of DOUBLE TAXATION and the PREVENTION OF FISCAL\nEVASION with respect to TAXES ON INCOME, or (b) to issue an Instrument\nof Full Powers authorizing either the Hon. Arthur C. Eggleton, Mr. Francis\nG. LeBlanc, M.P., or Ambassador François Mathys, to sign the Agreement on\nbehalf of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1235",
   "htmlHash": "fbef2826ecf4ab7850332f4cf80fc974",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-08-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister (a) to sign an AGREEMENT with the REPUBLIC OF\nICELAND for the AVOIDANCE of DOUBLE TAXATION and the PREVENTION OF FISCAL\nEVASION with respect to TAXES ON INCOME, or (b) to issue an Instrument\nof Full Powers authorizing either the Hon. Arthur C. Eggleton, Mr. Francis\nG. LeBlanc, M.P., or Ambassador François Mathys, to sign the Agreement on\nbehalf of Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

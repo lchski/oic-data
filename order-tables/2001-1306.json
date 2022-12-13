@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1306</td><td>2001-07-31</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN R. ANGEL, of St. Margarets Bay, Nova Scotia,\nas a Canadian representative to the General Council of the Northwest\nAtlantic Fisheries Organization to hold office during pleasure for a term\nending November 1, 2002; and as a Canadian representative to the Fisheries\nCommission of the Northwest Atlantic Fisheries Organization to hold office\nduring pleasure for a term ending November 1, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1306",
   "htmlHash": "2fbf0341eb5d16056cd806558d6b9186",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-07-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of JOHN R. ANGEL, of St. Margarets Bay, Nova Scotia,\nas a Canadian representative to the General Council of the Northwest\nAtlantic Fisheries Organization to hold office during pleasure for a term\nending November 1, 2002; and as a Canadian representative to the Fisheries\nCommission of the Northwest Atlantic Fisheries Organization to hold office\nduring pleasure for a term ending November 1, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

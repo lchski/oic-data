@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0319</td><td>2001-03-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Finance of TRACEY BAKKELI,\nof Regina, Saskatchewan, as a director of the Board of Directors of the\nCanada Deposit Insurance Corporation to hold office during pleasure for a\nterm of three years, in the place of Shawn A. Murphy, who has resigned.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0319",
   "htmlHash": "e4c11d2535bf96c98beb78ba4f1cab5a",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Finance of TRACEY BAKKELI,\nof Regina, Saskatchewan, as a director of the Board of Directors of the\nCanada Deposit Insurance Corporation to hold office during pleasure for a\nterm of three years, in the place of Shawn A. Murphy, who has resigned.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

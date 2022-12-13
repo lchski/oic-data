@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1576</td><td>2002-09-24</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I AND VI) by\nmaking it compulsory for multi-engine turbo-jet aeroplanes to be equipped\nwith an Emergency Locator Transmitter (ELT) and by exempting aircraft\nconducting sport parachuting flights within 25 nautical miles of the point\nof departure from the requirement to be equipped with an ELT.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0345  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1576",
   "htmlHash": "df9b0edc70017a59ded2a3f07d3005a4",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I AND VI) by\nmaking it compulsory for multi-engine turbo-jet aeroplanes to be equipped\nwith an Emergency Locator Transmitter (ELT) and by exempting aircraft\nconducting sport parachuting flights within 25 nautical miles of the point\nof departure from the requirement to be equipped with an ELT.\n",
+  "registration": "Registration: SOR/ 2002-0345  Publication Date: 2002-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2002-0345",
+  "registration_publication_date": "2002-10-09"
 }

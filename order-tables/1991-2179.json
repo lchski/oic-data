@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2179</td><td>1991-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for an exchange of land to the CYPRESS CATTLE COMPANY\nLIMITED, of Maple Creek, Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2179",
   "htmlHash": "402354218f809cf6989956c056c80682",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for an exchange of land to the CYPRESS CATTLE COMPANY\nLIMITED, of Maple Creek, Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

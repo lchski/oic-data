@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0787</td><td>1991-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; IT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Export Development Order respecting the rescheduling of certain amounts of\nprincipal and interest payable in respect of or under loan agreements made\nbetween the United Republic of TANZANIA and EXPORT DEVELOPMENT CORPORATION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0787",
   "htmlHash": "b95a69da108664dff7a4bd81a4f0c9a4",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-04-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, IT, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Export Development Order respecting the rescheduling of certain amounts of\nprincipal and interest payable in respect of or under loan agreements made\nbetween the United Republic of TANZANIA and EXPORT DEVELOPMENT CORPORATION.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

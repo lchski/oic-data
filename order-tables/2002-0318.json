@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0318</td><td>2002-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of PETER GRAHAM JOHNSON, of Gloucester, Ontario, as Chairperson\nof the Board of Directors of the Canadian Polar Commission to hold office\nduring pleasure for a term of three years, on a part-time basis.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0318",
   "htmlHash": "9dc98415ae905828c292a296d11b6f2b",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-03-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of PETER GRAHAM JOHNSON, of Gloucester, Ontario, as Chairperson\nof the Board of Directors of the Canadian Polar Commission to hold office\nduring pleasure for a term of three years, on a part-time basis.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

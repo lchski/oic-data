@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0001</td><td>2002-01-03</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CHEQUE HOLDING POLICY DISCLOSURE (BANKS) REGULATIONS which\nprovide that banks must disclose - in writing - their policy concerning the\nholding of funds when a customer opens a personal deposit account, or when\nthe bank changes its cheque-holding policy.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0039  <strong>Publication Date:</strong> 2002-01-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0001",
   "htmlHash": "4192dbcddd0520e27262dcb8d46c9f95",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-01-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the CHEQUE HOLDING POLICY DISCLOSURE (BANKS) REGULATIONS which\nprovide that banks must disclose - in writing - their policy concerning the\nholding of funds when a customer opens a personal deposit account, or when\nthe bank changes its cheque-holding policy.\n",
+  "registration": "Registration: SOR/ 2002-0039  Publication Date: 2002-01-16",
+  "registration_type": "SOR",
+  "registration_id": "2002-0039",
+  "registration_publication_date": "2002-01-16"
 }

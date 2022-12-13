@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1317</td><td>1997-09-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a FINAL SETTLEMENT AGREEMENT with the CANOE LAKE\nCREE NATION to resolve a claim respecting its loss of access to unoccupied\nCrown lands which precluded them from continuing their traditional\noccupations of fishing, hunting and trapping, as guaranteed by Treaty\nNo. 10, due to the creation of the Primrose Lake Air Weapons Range.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1317",
   "htmlHash": "ced5d776b1e6b1f37411acb7434bdf4a",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-09-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND, ND, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a FINAL SETTLEMENT AGREEMENT with the CANOE LAKE\nCREE NATION to resolve a claim respecting its loss of access to unoccupied\nCrown lands which precluded them from continuing their traditional\noccupations of fishing, hunting and trapping, as guaranteed by Treaty\nNo. 10, due to the creation of the Primrose Lake Air Weapons Range.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

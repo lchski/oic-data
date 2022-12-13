@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0111</td><td>2002-01-31</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Rules Amending the COMPETITION TRIBUNAL RULES by introducing new mutual\ndisclosure requirements and new procedures with respect to evidence\nprovided by experts, and by allowing information obtained pursuant to\nparagraph 11(1)(a) of the Competition Act to be read into evidence.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0062  <strong>Publication Date:</strong> 2002-02-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0111",
   "htmlHash": "beab492df376643436a211c4aeb7f717",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-01-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Rules Amending the COMPETITION TRIBUNAL RULES by introducing new mutual\ndisclosure requirements and new procedures with respect to evidence\nprovided by experts, and by allowing information obtained pursuant to\nparagraph 11(1)(a) of the Competition Act to be read into evidence.\n",
+  "registration": "Registration: SOR/ 2002-0062  Publication Date: 2002-02-13",
+  "registration_type": "SOR",
+  "registration_id": "2002-0062",
+  "registration_publication_date": "2002-02-13"
 }

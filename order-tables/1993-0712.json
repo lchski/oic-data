@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0712</td><td>1993-04-02</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which\nrevise the provisions of sections 19, 51.1 and 59 respecting U.I. claimants\nwho have lost their employment by reason of misconduct or voluntary\ntermination.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0178  <strong>Publication Date:</strong> 1993-04-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0712",
   "htmlHash": "f8b4156311f213cb0b8b4d9016f2a8ec",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EIC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which\nrevise the provisions of sections 19, 51.1 and 59 respecting U.I. claimants\nwho have lost their employment by reason of misconduct or voluntary\ntermination.\n",
+  "registration": "Registration: SOR/ 1993-0178  Publication Date: 1993-04-21",
+  "registration_type": "SOR",
+  "registration_id": "1993-0178",
+  "registration_publication_date": "1993-04-21"
 }

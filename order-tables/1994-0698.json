@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0698</td><td>1994-04-28</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the PORT OF QUEBEC CORPORATION to extend the thirty-year\nlease it granted to BUNGE DU CANADA LTÉE in 1977 with respect to the grain\nelevators located in the Estuary area, for an additional term of ten (10)\nyears ending on April 30, 2017.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0698",
   "htmlHash": "ee1fb93545893be90ec545f1156ca2bb",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the PORT OF QUEBEC CORPORATION to extend the thirty-year\nlease it granted to BUNGE DU CANADA LTÉE in 1977 with respect to the grain\nelevators located in the Estuary area, for an additional term of ten (10)\nyears ending on April 30, 2017.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

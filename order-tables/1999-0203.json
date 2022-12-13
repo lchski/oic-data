@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0203</td><td>1999-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the remuneration payable to Mr. ELIJAH HARPER, Commissioner of\nIndian Specific Claims Commission.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0203",
   "htmlHash": "f26e77f939c7587aaa6cded7d5d32a35",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND, PMO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the remuneration payable to Mr. ELIJAH HARPER, Commissioner of\nIndian Specific Claims Commission.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

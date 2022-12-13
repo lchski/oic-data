@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1525</td><td>2001-08-28</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing TEMPORARY ADMINISTRATORS of the Government of ONTARIO for\nthe following periods of time:\n.\n 1. The Hon. John W. Morden     - September 11 to September 14, 2001\n 2. The Hon. Patrick J. LeSAGE  - October 6 to October 10, 2001.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1525",
   "htmlHash": "b6b324e44979e7c01766c250ed144186",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HERITAGE, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing TEMPORARY ADMINISTRATORS of the Government of ONTARIO for\nthe following periods of time:\n.\n 1. The Hon. John W. Morden     - September 11 to September 14, 2001\n 2. The Hon. Patrick J. LeSAGE  - October 6 to October 10, 2001.\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0438</td><td>2001-03-22</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN POWER CORPORATION of its\nstatutory power to acquire a right-of-way on RED PHEASANT INDIAN RESERVE\nNO. 108, for electricity transmission line purposes, and (b) granting them\nan easement for those purposes, in lieu thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0438",
   "htmlHash": "66b3de209367a0d40bb6418c8555f24c",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) consenting to the use by SASKATCHEWAN POWER CORPORATION of its\nstatutory power to acquire a right-of-way on RED PHEASANT INDIAN RESERVE\nNO. 108, for electricity transmission line purposes, and (b) granting them\nan easement for those purposes, in lieu thereof.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0147</td><td>2001-01-30</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FINANCIAL SERVICES (GST) REGULATIONS to the extent\nof specifying what kind of administrative services - rendered in the\ncontext of a financial transaction - are exempt for the purposes of the GST\nand the HST, and which ones are not.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0061  <strong>Publication Date:</strong> 2001-02-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0147",
   "htmlHash": "89f26361f78a14cacb49046e619986a5",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-01-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FINANCIAL SERVICES (GST) REGULATIONS to the extent\nof specifying what kind of administrative services - rendered in the\ncontext of a financial transaction - are exempt for the purposes of the GST\nand the HST, and which ones are not.\n",
+  "registration": "Registration: SOR/ 2001-0061  Publication Date: 2001-02-14",
+  "registration_type": "SOR",
+  "registration_id": "2001-0061",
+  "registration_publication_date": "2001-02-14"
 }

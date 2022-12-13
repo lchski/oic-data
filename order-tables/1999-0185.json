@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0185</td><td>1999-02-09</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1997-892 of July 3, 1997, which will\nextend the term of appointment of MICHEL F. PAULO as full-time member of\nthe Convention Refugee Determination Division of the Immigration and\nRefugee Board (Montreal Regional Office) until February 8, 2004; and\ndesignation of MICHEL F. PAULO as Assistant Deputy Chairperson of the\nConvention Refugee Determrination Division of the Immigration and Refugee\nBoard (Montreal Regional Office).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0185",
   "htmlHash": "368cd1f3ab9d30e7faff10063eb07b29",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1997-892 of July 3, 1997, which will\nextend the term of appointment of MICHEL F. PAULO as full-time member of\nthe Convention Refugee Determination Division of the Immigration and\nRefugee Board (Montreal Regional Office) until February 8, 2004; and\ndesignation of MICHEL F. PAULO as Assistant Deputy Chairperson of the\nConvention Refugee Determrination Division of the Immigration and Refugee\nBoard (Montreal Regional Office).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

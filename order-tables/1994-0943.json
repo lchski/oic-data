@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0943</td><td>1994-06-02</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment (SCHEDULE No. 935) to the FOOD AND DRUG REGULATIONS establishing\nMaximum Residue Limits for chlorpyrifos, a broad range insecticide used for\nthe control of agricultural and domestic indoor pests, in citrus fruit at\n1.0 ppm.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0418  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0943",
   "htmlHash": "5bb078dc41fa29e7cd9db4b1b254bd2d",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-02",
+  "chapter": "0",
+  "bill": "",
+  "department": "HWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment (SCHEDULE No. 935) to the FOOD AND DRUG REGULATIONS establishing\nMaximum Residue Limits for chlorpyrifos, a broad range insecticide used for\nthe control of agricultural and domestic indoor pests, in citrus fruit at\n1.0 ppm.\n",
+  "registration": "Registration: SOR/ 1994-0418  Publication Date: 1994-06-15",
+  "registration_type": "SOR",
+  "registration_id": "1994-0418",
+  "registration_publication_date": "1994-06-15"
 }

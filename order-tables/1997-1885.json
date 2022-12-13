@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1885</td><td>1997-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STUART M. HODGSON, of Richmond, British Columbia, as a\ncitizenship judge to hold office during pleasure for a term of one year on\na part-time basis, effective January 12, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1885",
   "htmlHash": "215a54425a3bf09a7dd92056a28eb082",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , CITIZENSHIP, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of STUART M. HODGSON, of Richmond, British Columbia, as a\ncitizenship judge to hold office during pleasure for a term of one year on\na part-time basis, effective January 12, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

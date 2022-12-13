@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1863</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the GENERAL AMENDING REGULATIONS (CONTROLS ON TOBACCO\nPRODUCTS) which amend the following Regulations in order to lend support to\nthe effort to reduce tobacco smuggling and restrict the access of young\npeople to tobacco products:\n.\n1. Storage of Goods Regulations               4. Duty Free Shop Regulations\n2. Customs Bonded Warehouses Regulations      5. Ships' Stores Regulations\n3. Customs Sufferance Warehouses Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0519  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1863",
   "htmlHash": "a48b3efb5b55ed5eb62694a65ecd74bc",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the GENERAL AMENDING REGULATIONS (CONTROLS ON TOBACCO\nPRODUCTS) which amend the following Regulations in order to lend support to\nthe effort to reduce tobacco smuggling and restrict the access of young\npeople to tobacco products:\n.\n1. Storage of Goods Regulations               4. Duty Free Shop Regulations\n2. Customs Bonded Warehouses Regulations      5. Ships' Stores Regulations\n3. Customs Sufferance Warehouses Regulations\n.\n",
+  "registration": "Registration: SOR/ 1995-0519  Publication Date: 1995-11-29",
+  "registration_type": "SOR",
+  "registration_id": "1995-0519",
+  "registration_publication_date": "1995-11-29"
 }

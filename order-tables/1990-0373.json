@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0373</td><td>1990-02-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Léo Bernier, of Hudson, Ontario, as a member of the\nNorthern Ontario Development Advisory Board and designation of the said\nLéo Bernier as Chairperson thereof for a term ending October 13, 1990;\nappointment of William Elgie, of Sault Ste. Marie, Ontario, as a member\nof the Northern Ontario Development Advisory Board and designation of the\nsaid William William Elgie as Vice-Chairperson thereof for a term ending\nOctober 13, 1990; and appointment of certain persons as members of the\nsaid Board for terms ending October 13, 1990 and June 20, 1991,\nrespectively.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0373",
   "htmlHash": "175da3d763a3388a8f81947f31f32c0c",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ISTC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Léo Bernier, of Hudson, Ontario, as a member of the\nNorthern Ontario Development Advisory Board and designation of the said\nLéo Bernier as Chairperson thereof for a term ending October 13, 1990;\nappointment of William Elgie, of Sault Ste. Marie, Ontario, as a member\nof the Northern Ontario Development Advisory Board and designation of the\nsaid William William Elgie as Vice-Chairperson thereof for a term ending\nOctober 13, 1990; and appointment of certain persons as members of the\nsaid Board for terms ending October 13, 1990 and June 20, 1991,\nrespectively.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

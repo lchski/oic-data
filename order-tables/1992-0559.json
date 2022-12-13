@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0559</td><td>1992-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the CUSTOMS SUFFERANCE WAREHOUSES REGULATIONS increasing the\nfees for the issuance of a new licence and the annual renewal fee from $250\nto $500, an amount that better reflects the expenses incurred in\nadministering the program.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0187  <strong>Publication Date:</strong> 1992-04-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0559",
   "htmlHash": "dbbddd6547fe4f99f123885b11f4bc4c",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , NR, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the CUSTOMS SUFFERANCE WAREHOUSES REGULATIONS increasing the\nfees for the issuance of a new licence and the annual renewal fee from $250\nto $500, an amount that better reflects the expenses incurred in\nadministering the program.\n",
+  "registration": "Registration: SOR/ 1992-0187  Publication Date: 1992-04-08",
+  "registration_type": "SOR",
+  "registration_id": "1992-0187",
+  "registration_publication_date": "1992-04-08"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0502</td><td>2002-04-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PCO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Writs issue for the election of new Members to the House of Commons for\ncertain electoral districts, to be dated April 5, 2002, and that the\npolling be on May 13, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0502",
   "htmlHash": "bb691c894f9dcbd832d2d5ad7df668df",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PCO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Writs issue for the election of new Members to the House of Commons for\ncertain electoral districts, to be dated April 5, 2002, and that the\npolling be on May 13, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

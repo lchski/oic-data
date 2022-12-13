@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0446</td><td>1998-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by the CHAMBRE DE COMMERCE DES HAUTS-\nRELIEFS, duly incorporated in the Province of Quebec and registered in\n1991, to change the boundaries of its district to include the\nmunicipalities of St-Fortunat, St-Julien, St-Jacques Le Majeur and\nHam-Nord.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0446",
   "htmlHash": "1e3dafaf0450c7aeb196ac3bafdae7d7",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INDUSTRY, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of an application made by the CHAMBRE DE COMMERCE DES HAUTS-\nRELIEFS, duly incorporated in the Province of Quebec and registered in\n1991, to change the boundaries of its district to include the\nmunicipalities of St-Fortunat, St-Julien, St-Jacques Le Majeur and\nHam-Nord.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

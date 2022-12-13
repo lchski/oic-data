@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1692</td><td>1993-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ACTIVATED CLAY REMISSION ORDER, 1993 - which provides for the remission\nof customs duties on activated clay which is used in the purification and\ndecolorization of vegetable oils and in other industrial applications.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0444  <strong>Publication Date:</strong> 1993-09-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1692",
   "htmlHash": "05acf61c94a2b032a9395e79c44480e3",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "ACTIVATED CLAY REMISSION ORDER, 1993 - which provides for the remission\nof customs duties on activated clay which is used in the purification and\ndecolorization of vegetable oils and in other industrial applications.\n",
+  "registration": "Registration: SOR/ 1993-0444  Publication Date: 1993-09-08",
+  "registration_type": "SOR",
+  "registration_id": "1993-0444",
+  "registration_publication_date": "1993-09-08"
 }

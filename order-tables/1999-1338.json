@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1338</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of the Goods and Services Tax (GST) paid by SHARON WALDRON on\nextensive renovations made to a residence for which no rebate is payable.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0085  <strong>Publication Date:</strong> 1999-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1338",
   "htmlHash": "351d1a17167502d893976b8f67fe5f6e",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , NR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of the Goods and Services Tax (GST) paid by SHARON WALDRON on\nextensive renovations made to a residence for which no rebate is payable.\n",
+  "registration": "Registration: SI / 1999-0085  Publication Date: 1999-08-18",
+  "registration_type": "SI",
+  "registration_id": "1999-0085",
+  "registration_publication_date": "1999-08-18"
 }

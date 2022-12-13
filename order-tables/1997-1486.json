@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1486</td><td>1997-10-10</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the KANANASKIS FALLS AND HORSESHOE FALLS WATER POWER\nREGULATIONS which authorize the Minister of Indian Affairs and Northern\nDevelopment to issue licences to TransAlta Utilities Corporation to divert\nand use the waters of the Bow River at Kananaskis Falls and at Horseshoe\nFalls, in Alberta, for electrical power generation purposes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0473  <strong>Publication Date:</strong> 1997-10-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1486",
   "htmlHash": "956aa2da08de61ec01eb3bc13df5500f",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-10-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, TB, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the KANANASKIS FALLS AND HORSESHOE FALLS WATER POWER\nREGULATIONS which authorize the Minister of Indian Affairs and Northern\nDevelopment to issue licences to TransAlta Utilities Corporation to divert\nand use the waters of the Bow River at Kananaskis Falls and at Horseshoe\nFalls, in Alberta, for electrical power generation purposes.\n",
+  "registration": "Registration: SOR/ 1997-0473  Publication Date: 1997-10-29",
+  "registration_type": "SOR",
+  "registration_id": "1997-0473",
+  "registration_publication_date": "1997-10-29"
 }

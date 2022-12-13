@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0077</td><td>1998-01-29</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of YVON LAMARRE, of Montreal, Quebec, as vice-chairman of the\nboard of directors of the Montreal Port Corporation to hold office during\npleasure for a term of nine months, effective January 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0077",
   "htmlHash": "cfa1b441b83ae09ab8982e3bfacf88a2",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-01-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of YVON LAMARRE, of Montreal, Quebec, as vice-chairman of the\nboard of directors of the Montreal Port Corporation to hold office during\npleasure for a term of nine months, effective January 1, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

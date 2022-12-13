@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0713</td><td>1998-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for VIA RAIL CANADA INC. to make alterations to its railway\nstation in PRINCE RUPERT, BRITISH COLUMBIA, a designated heritage station.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0713",
   "htmlHash": "5a17eeb1b7de3b3de37b2746b27d0dac",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HERITAGE, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for VIA RAIL CANADA INC. to make alterations to its railway\nstation in PRINCE RUPERT, BRITISH COLUMBIA, a designated heritage station.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

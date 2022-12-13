@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2103</td><td>1999-11-30</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of SHEHNI DOSSA, of Port Moody, British Columbia, as a\nmember of the Immigration Appeal Division of the Immigration and Refugee\nBoard (Vancouver Regional Office), to hold office during good behaviour\nfor a term of one year; and designation of SHEHNI DOSSA as Assistant\nDeputy Chairperson of the Immigration Appeal Division of the Immigration\nand Refugee Board (Vancouver Regional Office); effective December 10,\n1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2103",
   "htmlHash": "d453b5375248bb3e96203f9093f5bff8",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-11-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of SHEHNI DOSSA, of Port Moody, British Columbia, as a\nmember of the Immigration Appeal Division of the Immigration and Refugee\nBoard (Vancouver Regional Office), to hold office during good behaviour\nfor a term of one year; and designation of SHEHNI DOSSA as Assistant\nDeputy Chairperson of the Immigration Appeal Division of the Immigration\nand Refugee Board (Vancouver Regional Office); effective December 10,\n1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

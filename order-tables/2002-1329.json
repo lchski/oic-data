@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1329</td><td>2002-08-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the OFFICE OF INFRASTRUCTURE OF CANADA as a \"department\"\nand its Deputy Head as \"deputy head\" for the purposes of this Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0119  <strong>Publication Date:</strong> 2002-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1329",
   "htmlHash": "89383255b70b2660eae7c260eeeff041",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-08-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating the OFFICE OF INFRASTRUCTURE OF CANADA as a \"department\"\nand its Deputy Head as \"deputy head\" for the purposes of this Act.\n",
+  "registration": "Registration: SI / 2002-0119  Publication Date: 2002-08-28",
+  "registration_type": "SI",
+  "registration_id": "2002-0119",
+  "registration_publication_date": "2002-08-28"
 }

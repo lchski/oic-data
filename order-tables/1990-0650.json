@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0650</td><td>1990-03-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a supplementary Agreement with Terminal 3 Limited\nPartnership and Airport Development Corporation in order to amend the\ncurrent lease so that an additional piece of land can be added to the site\nset apart for the construction of Terminal III at Lester B. Pearson\nInternational Airport.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0650",
   "htmlHash": "d12e5a1deff0e0d38ee1ff84bc058802",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-03-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a supplementary Agreement with Terminal 3 Limited\nPartnership and Airport Development Corporation in order to amend the\ncurrent lease so that an additional piece of land can be added to the site\nset apart for the construction of Terminal III at Lester B. Pearson\nInternational Airport.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

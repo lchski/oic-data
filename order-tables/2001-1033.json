@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1033</td><td>2001-06-05</td><td>0</td><td></td><td>,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of WAYNE VIBERT, of Edmonton, Alberta, as Chairperson of the\nBoards of Referees for the Alberta Regional Division, and particularly for\nthe District of Edmonton, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1033",
   "htmlHash": "7b6a8de78bf44b8d7a503d4d4b4763d6",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-06-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HRD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of WAYNE VIBERT, of Edmonton, Alberta, as Chairperson of the\nBoards of Referees for the Alberta Regional Division, and particularly for\nthe District of Edmonton, for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

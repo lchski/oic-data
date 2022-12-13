@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0676</td><td>1990-04-05</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the salaries, fees or other emoluments which are to be paid to\ncertain individuals  who were appointed to their positions by the Governor\nin Council.\n.\n  CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION\n  Conseil de la radiodiffusion et des télécommunications canadiennes\n.\n- Fernand J. Belisle (member and Vice-Chairman/membre et vice-président)\n.\n.\n  CANADIAN FILM DEVELOPMENT CORPORATION\n  Société de développement de l'industrie cinématographique\n.\n- Pierre DesRoches (Executive Director/directeur exécutif)\n.\n.\n  CANADA COUNCIL - Conseil des Arts du Canada\n.\n- Robert Spickler (Associate Director/directeur associé)\n.\n.\n  NATIONAL ARTS CENTRE - Centre national des arts\n.\n- Yvon Desrochers (Director/directeur)\n.\n.\n  INTERNATIONAL CENTRE FOR HUMAN RIGHTS AND DEMOCRATIC DEVELOPMENT/\n  Centre international des droits de la personne et du développement\n      démocratique\n.\n- Chairman of the Board of Directors/président du conseil\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0676",
   "htmlHash": "df2863131a6e506cf33a55f52a35bdb8",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-04-05",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the salaries, fees or other emoluments which are to be paid to\ncertain individuals  who were appointed to their positions by the Governor\nin Council.\n.\n  CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION\n  Conseil de la radiodiffusion et des télécommunications canadiennes\n.\n- Fernand J. Belisle (member and Vice-Chairman/membre et vice-président)\n.\n.\n  CANADIAN FILM DEVELOPMENT CORPORATION\n  Société de développement de l'industrie cinématographique\n.\n- Pierre DesRoches (Executive Director/directeur exécutif)\n.\n.\n  CANADA COUNCIL - Conseil des Arts du Canada\n.\n- Robert Spickler (Associate Director/directeur associé)\n.\n.\n  NATIONAL ARTS CENTRE - Centre national des arts\n.\n- Yvon Desrochers (Director/directeur)\n.\n.\n  INTERNATIONAL CENTRE FOR HUMAN RIGHTS AND DEMOCRATIC DEVELOPMENT/\n  Centre international des droits de la personne et du développement\n      démocratique\n.\n- Chairman of the Board of Directors/président du conseil\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

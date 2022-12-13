@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0495</td><td>1998-03-26</td><td>0</td><td></td><td>,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GASOLINE REGULATIONS which exempt all competition\nvehicles from the restrictions on the use of leaded gasoline until\nDecember 31, 2002, and will require that all those involved in the\nproduction, sale and importation of leaded gasoline retain records and make\nan annual report on the total amount used in Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0217  <strong>Publication Date:</strong> 1998-04-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0495",
   "htmlHash": "df5a6f5beb674f5651345d1613ab01b8",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the GASOLINE REGULATIONS which exempt all competition\nvehicles from the restrictions on the use of leaded gasoline until\nDecember 31, 2002, and will require that all those involved in the\nproduction, sale and importation of leaded gasoline retain records and make\nan annual report on the total amount used in Canada.\n",
+  "registration": "Registration: SOR/ 1998-0217  Publication Date: 1998-04-15",
+  "registration_type": "SOR",
+  "registration_id": "1998-0217",
+  "registration_publication_date": "1998-04-15"
 }

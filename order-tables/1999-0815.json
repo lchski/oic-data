@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0815</td><td>1999-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization of payment to SHEILA G. PURDY, as Commissioner for the\nIndian Specific Claims Commission.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0815",
   "htmlHash": "218f5c534298edb3e375498d21732e12",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND, PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization of payment to SHEILA G. PURDY, as Commissioner for the\nIndian Specific Claims Commission.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

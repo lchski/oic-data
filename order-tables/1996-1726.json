@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1726</td><td>1996-11-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs (a) to sign an AGREEMENT for\nthe PROMOTION AND PROTECTION OF INVESTMENTS with the ARAB REPUBLIC of\nEGYPT, or (b) to issue an Instrument vesting the Minister for International\nTrade, Ambassador Michael D. Bell or Douglas Paterson, Counsellor and\nConsul, with Full Powers to sign the Agreement on behalf of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1726",
   "htmlHash": "783d6d836b97665c8e67f257727c70a1",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister of Foreign Affairs (a) to sign an AGREEMENT for\nthe PROMOTION AND PROTECTION OF INVESTMENTS with the ARAB REPUBLIC of\nEGYPT, or (b) to issue an Instrument vesting the Minister for International\nTrade, Ambassador Michael D. Bell or Douglas Paterson, Counsellor and\nConsul, with Full Powers to sign the Agreement on behalf of Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

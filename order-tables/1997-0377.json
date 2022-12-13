@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0377</td><td>1997-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GASOLINE REGULATIONS by exempting certain kinds of\nhigh-performance competition racing cars from the restrictions on the\nuse of leaded gasoline until December 31, 1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0147  <strong>Publication Date:</strong> 1997-04-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0377",
   "htmlHash": "93bb764d8beef92b737efd82e32f485c",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the GASOLINE REGULATIONS by exempting certain kinds of\nhigh-performance competition racing cars from the restrictions on the\nuse of leaded gasoline until December 31, 1997.\n",
+  "registration": "Registration: SOR/ 1997-0147  Publication Date: 1997-04-02",
+  "registration_type": "SOR",
+  "registration_id": "1997-0147",
+  "registration_publication_date": "1997-04-02"
 }

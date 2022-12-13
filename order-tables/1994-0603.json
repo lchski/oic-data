@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0603</td><td>1994-04-14</td><td>0</td><td></td><td>,&nbsp; AGR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the firm of Robinson, Lott and Brohman, of Guelph, Ontario,\nas the auditors for the Canadian Turkey Marketing Agency, to audit its\naccounts and financial transactions for the fiscal period ending\nDecember 31, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0603",
   "htmlHash": "40816fa00f9592256b5ad265555b7b8e",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the firm of Robinson, Lott and Brohman, of Guelph, Ontario,\nas the auditors for the Canadian Turkey Marketing Agency, to audit its\naccounts and financial transactions for the fiscal period ending\nDecember 31, 1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0784</td><td>1998-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Repealing the ESKIMO ECONOMIC DEVELOPMENT GUARANTEE ORDER which is\nnow redundant because the Department of Indian Affairs and Northern\nDevelopment no longer has a mandate to guarantee loans for Inuit economic\ndevelopment.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0283  <strong>Publication Date:</strong> 1998-05-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0784",
   "htmlHash": "0e76053d4e33cf48a15b32179149d767",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN, IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Order Repealing the ESKIMO ECONOMIC DEVELOPMENT GUARANTEE ORDER which is\nnow redundant because the Department of Indian Affairs and Northern\nDevelopment no longer has a mandate to guarantee loans for Inuit economic\ndevelopment.\n",
+  "registration": "Registration: SOR/ 1998-0283  Publication Date: 1998-05-27",
+  "registration_type": "SOR",
+  "registration_id": "1998-0283",
+  "registration_publication_date": "1998-05-27"
 }

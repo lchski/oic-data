@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0310</td><td>1998-03-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of ROBERT MATTEAU,\nof Grand-Mère, Quebec, as a director of the Board of Directors of VIA Rail\nCanada Inc. to hold office during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0310",
   "htmlHash": "93de8d5aa56bfea0cc8fd1430e439d43",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Transport of ROBERT MATTEAU,\nof Grand-Mère, Quebec, as a director of the Board of Directors of VIA Rail\nCanada Inc. to hold office during pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

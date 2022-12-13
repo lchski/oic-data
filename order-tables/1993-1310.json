@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1310</td><td>1993-06-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Johanne Trudel, of Hull, Quebec, as a Puisne Judge of the\nSuperior Court for the Districts of Hull, Labelle and Pontiac in the\nProvince of Quebec, with residence in the City of Hull or in the immediate\nvicinity thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1310",
   "htmlHash": "19362ed24c91f0c30cb4cb8ce044bc5e",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Johanne Trudel, of Hull, Quebec, as a Puisne Judge of the\nSuperior Court for the Districts of Hull, Labelle and Pontiac in the\nProvince of Quebec, with residence in the City of Hull or in the immediate\nvicinity thereof.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

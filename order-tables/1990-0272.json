@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0272</td><td>1990-02-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LAURA EVELYN KRISTJANSON DOWNEY REMISSION ORDER - which provides for the\nremission of income taxes, taxes payable under Part X.1 of the Income Tax\nAct as well as all corresponding interest payable by the aforementioned\ntaxpayer for the 1983 to 1986 taxation years.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0019  <strong>Publication Date:</strong> 1990-02-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0272",
   "htmlHash": "dbefd80bd509cbd2e24a27893b1cfb94",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , NR, TB, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "LAURA EVELYN KRISTJANSON DOWNEY REMISSION ORDER - which provides for the\nremission of income taxes, taxes payable under Part X.1 of the Income Tax\nAct as well as all corresponding interest payable by the aforementioned\ntaxpayer for the 1983 to 1986 taxation years.\n",
+  "registration": "Registration: SI / 1990-0019  Publication Date: 1990-02-28",
+  "registration_type": "SI",
+  "registration_id": "1990-0019",
+  "registration_publication_date": "1990-02-28"
 }

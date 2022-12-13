@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1839</td><td>2002-10-29</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing 4117468 Canada Ltd. to accept an assignment from FARM CREDIT CANADA ot all its rights to acquire all of the shares of SETTLER COMPUTER TECHNOLOGIES INC., to amalgamate with SETTLER COMPUTER TECHNOLOGIES INC., to sell or otherwise dispose of all the assets of that amalgamated entity in favour of Farm Credit Canada, and to dissolve that amalgamated entity within one year.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1839",
   "htmlHash": "b5c68a9b2624aa03e3de7c38ded19ebe",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-10-29",
+  "chapter": "",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing 4117468 Canada Ltd. to accept an assignment from FARM CREDIT CANADA ot all its rights to acquire all of the shares of SETTLER COMPUTER TECHNOLOGIES INC., to amalgamate with SETTLER COMPUTER TECHNOLOGIES INC., to sell or otherwise dispose of all the assets of that amalgamated entity in favour of Farm Credit Canada, and to dissolve that amalgamated entity within one year.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

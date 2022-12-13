@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2019</td><td>1998-11-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS which\ncombine the three domestic registered services into one and eliminate the\n\"Money Packets\" and the domestic \"Security Registered\" service on\nJanuary 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0559  <strong>Publication Date:</strong> 1998-12-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2019",
   "htmlHash": "896a246dfd7efb068a8568512625325e",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-11-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PWGS",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL SERVICES AND FEES REGULATIONS which\ncombine the three domestic registered services into one and eliminate the\n\"Money Packets\" and the domestic \"Security Registered\" service on\nJanuary 1, 1999.\n",
+  "registration": "Registration: SOR/ 1998-0559  Publication Date: 1998-12-09",
+  "registration_type": "SOR",
+  "registration_id": "1998-0559",
+  "registration_publication_date": "1998-12-09"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0085</td><td>1994-01-13</td><td>0</td><td></td><td>SSC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue authorizing the minting of two\ntwenty-dollar silver coins in the AVIATION SERIES featuring designs of the\nCurtiss HS-2L and the Vickers Vedette aircraft designed by Canadian artists\nJohn Mardon and Robert Carmichael.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0145  <strong>Publication Date:</strong> 1994-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0085",
   "htmlHash": "e2f2e4d19ca9afdb32d619b89bee77cb",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-13",
+  "chapter": "0",
+  "bill": "",
+  "department": "SSC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue authorizing the minting of two\ntwenty-dollar silver coins in the AVIATION SERIES featuring designs of the\nCurtiss HS-2L and the Vickers Vedette aircraft designed by Canadian artists\nJohn Mardon and Robert Carmichael.\n",
+  "registration": "Registration: SOR/ 1994-0145  Publication Date: 1994-02-23",
+  "registration_type": "SOR",
+  "registration_id": "1994-0145",
+  "registration_publication_date": "1994-02-23"
 }

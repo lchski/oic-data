@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1639</td><td>2002-09-24</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LINDA LOUELLA INKPEN of St. John's, Newfoundland and\nLabrador, to be a member of the National Round Table on the Environment\nand the Economy, to hold office during pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1639",
   "htmlHash": "d37c00a009704387003ae19b2be10cda",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LINDA LOUELLA INKPEN of St. John's, Newfoundland and\nLabrador, to be a member of the National Round Table on the Environment\nand the Economy, to hold office during pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

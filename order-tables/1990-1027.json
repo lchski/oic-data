@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1027</td><td>1990-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the IMPORT CONTROL LIST concerning the addition of specialty\nsteel to the list.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0316  <strong>Publication Date:</strong> 1990-06-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1027",
   "htmlHash": "4e9643ddbbd82cf522f5df0ef37a6735",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the IMPORT CONTROL LIST concerning the addition of specialty\nsteel to the list.\n",
+  "registration": "Registration: SOR/ 1990-0316  Publication Date: 1990-06-20",
+  "registration_type": "SOR",
+  "registration_id": "1990-0316",
+  "registration_publication_date": "1990-06-20"
 }

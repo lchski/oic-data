@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0819</td><td>1990-05-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Confirmation of the request made to the Hon. Rev. Walter Franklin McLean,\nMember of Parliament for the constituency of Waterloo, to travel to Kuala\nLumpur, Malaysia, at the request of the Department of External Affairs\n(October 13th to the 25th, 1989).\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0819",
   "htmlHash": "05cdcfabc828747af1fd54527b8a1946",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Confirmation of the request made to the Hon. Rev. Walter Franklin McLean,\nMember of Parliament for the constituency of Waterloo, to travel to Kuala\nLumpur, Malaysia, at the request of the Department of External Affairs\n(October 13th to the 25th, 1989).\n\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

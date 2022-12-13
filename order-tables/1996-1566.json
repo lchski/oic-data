@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1566</td><td>1996-10-08</td><td>0</td><td></td><td>INT'L COOP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to CROATIA made by Mr. RON MacDONALD, M.P.\n(Dartmouth), from September 14 to September 22, 1996, in order to attend an\nInternational Trade Fair.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1566",
   "htmlHash": "5f98f876ef156acb0518920450647727",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-08",
+  "chapter": "0",
+  "bill": "",
+  "department": "INT'L COOP, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to CROATIA made by Mr. RON MacDONALD, M.P.\n(Dartmouth), from September 14 to September 22, 1996, in order to attend an\nInternational Trade Fair.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

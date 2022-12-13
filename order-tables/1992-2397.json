@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2397</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FOREIGN AIRCRAFT SERVICING EQUIPMENT REMISSION ORDER, 1992 - which provides\nfor the remission of customs duties and some of the sales tax on machinery\nand equipment imported into Canada for use in the servicing of foreign\naircraft.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0209  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2397",
   "htmlHash": "3021d283c22129e2ae9d29a434f32c19",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "FOREIGN AIRCRAFT SERVICING EQUIPMENT REMISSION ORDER, 1992 - which provides\nfor the remission of customs duties and some of the sales tax on machinery\nand equipment imported into Canada for use in the servicing of foreign\naircraft.\n",
+  "registration": "Registration: SI / 1992-0209  Publication Date: 1992-12-16",
+  "registration_type": "SI",
+  "registration_id": "1992-0209",
+  "registration_publication_date": "1992-12-16"
 }

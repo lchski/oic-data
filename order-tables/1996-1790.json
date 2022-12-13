@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1790</td><td>1996-11-26</td><td>0</td><td></td><td>,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of the LABELLING OF SPECIALLY DENATURED ALCOHOL AND DENATURED\nALCOHOL REGULATIONS (MISCELLANEOUS PROGRAM) which are no longer necessary\nbecause these goods are regulated by the Controlled Products Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0516  <strong>Publication Date:</strong> 1996-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1790",
   "htmlHash": "11bb3a8e5ff3f88b1e2d4ef702d04aa2",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", NR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Repeal of the LABELLING OF SPECIALLY DENATURED ALCOHOL AND DENATURED\nALCOHOL REGULATIONS (MISCELLANEOUS PROGRAM) which are no longer necessary\nbecause these goods are regulated by the Controlled Products Regulations.\n",
+  "registration": "Registration: SOR/ 1996-0516  Publication Date: 1996-12-11",
+  "registration_type": "SOR",
+  "registration_id": "1996-0516",
+  "registration_publication_date": "1996-12-11"
 }

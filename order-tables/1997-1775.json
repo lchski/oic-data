@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1775</td><td>1997-11-28</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANNE-MARIE ASSELIN, of Montreal, Quebec, as a part-time\nmember of the National Parole Board, Quebec Regional Division, to hold\noffice during good behaviour for a period of three years, effective\nDecember 11, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1775",
   "htmlHash": "c3b9c15e8f1e97d09767819a43671b5d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-11-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ANNE-MARIE ASSELIN, of Montreal, Quebec, as a part-time\nmember of the National Parole Board, Quebec Regional Division, to hold\noffice during good behaviour for a period of three years, effective\nDecember 11, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

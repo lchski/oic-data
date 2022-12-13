@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1912</td><td>2001-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 2001-1392 which correct (a) the\nspelling of the family name of Staff Sergeant William Angus McKinnon, a\nNon-Commissioned Officer of the Royal Canadian Mounted Police who was\nthereby appointed to the rank of Inspector, and (b) the reference to his\nrank at the time of the appointment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1912",
   "htmlHash": "526dffd3d2bdc2bf4650e1ecd0599ae6",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to Order in Council P.C. 2001-1392 which correct (a) the\nspelling of the family name of Staff Sergeant William Angus McKinnon, a\nNon-Commissioned Officer of the Royal Canadian Mounted Police who was\nthereby appointed to the rank of Inspector, and (b) the reference to his\nrank at the time of the appointment.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

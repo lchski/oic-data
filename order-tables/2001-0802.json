@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0802</td><td>2001-05-02</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ACCESS TO INFORMATION HEADS OF GOVERNMENT INSTITUTIONS\nDESIGNATION ORDER by designating the position of Chief Executive Officer of\nthe Hamilton Port Authority as the \"head\" of that institution for the\npurposes of this Act, effective April 1, 2001.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0061  <strong>Publication Date:</strong> 2001-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0802",
   "htmlHash": "5ff1d1b26be8ea927587422ce3577c6d",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the ACCESS TO INFORMATION HEADS OF GOVERNMENT INSTITUTIONS\nDESIGNATION ORDER by designating the position of Chief Executive Officer of\nthe Hamilton Port Authority as the \"head\" of that institution for the\npurposes of this Act, effective April 1, 2001.\n",
+  "registration": "Registration: SI / 2001-0061  Publication Date: 2001-05-23",
+  "registration_type": "SI",
+  "registration_id": "2001-0061",
+  "registration_publication_date": "2001-05-23"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0991</td><td>2002-06-07</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the five-year CORPORATE PLAN of the FRESHWATER FISH MARKETING\nCORPORATION for the 2002-2003 to 2006-2007 planning period.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0991",
   "htmlHash": "87ac3bf7e22c5e958cefed3c832af0ca",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-06-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the five-year CORPORATE PLAN of the FRESHWATER FISH MARKETING\nCORPORATION for the 2002-2003 to 2006-2007 planning period.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

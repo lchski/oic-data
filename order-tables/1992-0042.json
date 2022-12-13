@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0042</td><td>1992-01-09</td><td>0</td><td></td><td>VAC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Olivier Emery Robichaud, of Pokemouche, New Brunswick, as\nan additional member of the Veterans Appeal Board to hold office during\ngood behaviour for a term effective January 13, 1992 and ending\nJanuary 12, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0042",
   "htmlHash": "a24e4a3ec02db70f71d28926a194e503",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-01-09",
+  "chapter": "0",
+  "bill": "",
+  "department": "VAC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Olivier Emery Robichaud, of Pokemouche, New Brunswick, as\nan additional member of the Veterans Appeal Board to hold office during\ngood behaviour for a term effective January 13, 1992 and ending\nJanuary 12, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

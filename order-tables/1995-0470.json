@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0470</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSC,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">APPOINTMENT of certain Employees of the Alberta Solicitor General to\nCorrectional Service of Canada EXCLUSION APPROVAL ORDER - which will\nfacilitate the appointment of 38 employees of the Government of Alberta\nto positions in the Correctional Service of Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0041  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0470",
   "htmlHash": "24271e6be729ff223e95179ec918ca55",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , PSC, COM, ",
+  "act": "",
+  "subject": "",
+  "precis": "APPOINTMENT of certain Employees of the Alberta Solicitor General to\nCorrectional Service of Canada EXCLUSION APPROVAL ORDER - which will\nfacilitate the appointment of 38 employees of the Government of Alberta\nto positions in the Correctional Service of Canada.\n",
+  "registration": "Registration: SI / 1995-0041  Publication Date: 1995-04-05",
+  "registration_type": "SI",
+  "registration_id": "1995-0041",
+  "registration_publication_date": "1995-04-05"
 }

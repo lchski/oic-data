@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1818</td><td>1994-11-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF FINANCE AND OFFICE OF\nTHE SUPERINTENDENT OF FINANCIAL INSTITUTIONS) 1994-2 amending the following\nregulations:\n.\n 1. Disclosure of Charges (Banks) Regulations\n 2. Investments (Canadian Societies) Regulations\n 3. Investments (Foreign Companies) Regulations\n 4. Disclosure of Charges (Trust and Loan Companies) Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0687  <strong>Publication Date:</strong> 1994-11-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1818",
   "htmlHash": "2cef59481eea2dfe5c60c7e065202390",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-11-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF FINANCE AND OFFICE OF\nTHE SUPERINTENDENT OF FINANCIAL INSTITUTIONS) 1994-2 amending the following\nregulations:\n.\n 1. Disclosure of Charges (Banks) Regulations\n 2. Investments (Canadian Societies) Regulations\n 3. Investments (Foreign Companies) Regulations\n 4. Disclosure of Charges (Trust and Loan Companies) Regulations\n.\n",
+  "registration": "Registration: SOR/ 1994-0687  Publication Date: 1994-11-30",
+  "registration_type": "SOR",
+  "registration_id": "1994-0687",
+  "registration_publication_date": "1994-11-30"
 }

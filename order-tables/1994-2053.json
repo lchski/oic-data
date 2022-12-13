@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-2053</td><td>1994-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of certain persons as alternate members of the Northern Panel\nfor a further term of four years.\n(Ray Kendel, Cortes Bay, British Columbia; and Richard Haugan, Prince\nRupert, British Columbia)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-2053",
   "htmlHash": "6cc1d379776413456cf86fb021e321d3",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , EA, F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of certain persons as alternate members of the Northern Panel\nfor a further term of four years.\n(Ray Kendel, Cortes Bay, British Columbia; and Richard Haugan, Prince\nRupert, British Columbia)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0513</td><td>1998-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (ABSOLUTE SURRENDER) wherein the ATTAWAPISKAT\nBAND surrenders, in perpetuity, all of its rights and interests in some\n131.5 hectares of land, being the whole of ATTAWAPISKAT INDIAN RESERVE\nNo. 91A, in Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0513",
   "htmlHash": "cf7bfc18f2569a422140c1a08d1a9bfe",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an Instrument (ABSOLUTE SURRENDER) wherein the ATTAWAPISKAT\nBAND surrenders, in perpetuity, all of its rights and interests in some\n131.5 hectares of land, being the whole of ATTAWAPISKAT INDIAN RESERVE\nNo. 91A, in Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

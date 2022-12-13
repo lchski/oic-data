@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0425</td><td>1999-03-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment for a term of two years, of J.B. (JIM) GILLESPIE, of\nQuispamsis, New Brunswick, as a Canadian representative to the Council of\nthe North Atlantic Salmon Conservation Organization; to the North\nAmerican Commission of the North Atlantic Salmon Conservation\nOrganization; and to the West Greenland Commission of the North Atlantic\nSalmon Conservation Organization.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0425",
   "htmlHash": "2e85465d59aff190afd7ce9e406dc435",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment for a term of two years, of J.B. (JIM) GILLESPIE, of\nQuispamsis, New Brunswick, as a Canadian representative to the Council of\nthe North Atlantic Salmon Conservation Organization; to the North\nAmerican Commission of the North Atlantic Salmon Conservation\nOrganization; and to the West Greenland Commission of the North Atlantic\nSalmon Conservation Organization.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

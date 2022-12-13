@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0491</td><td>1998-03-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as full-time members of the\nConvention Refugee Determination Division of the Immigration and Refugee\nBoard (Montreal Regional Office), to hold office during good behaviour,\nfor a term of three years, effective April 20, 1998.\n(GIOVANNA ALLÈGRA, of Gatineau, Quebec; BANA BARAZI, of Outremont,\nQuebec; JEANINE BEAUBIEN-DUQUE, of Île-des-Soeurs, Quebec; MICHEL GOULET,\nof Pierrefonds, Quebec; SYLVIE LÉVESQUE, of Outremont, Quebec;\nTONY MANGLAVITI, of Dollard-des-Ormeaux, Quebec; FARID OSMANE, of\nLaval-ouest, Quebec; HÉLÈNE PANAGAKOS, of Pierrefonds, Quebec; and\nSAJJAD RANDHAWA, of Repentigny, Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0491",
   "htmlHash": "51e20d4d9e073247f3531b3a82ab9f35",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , CITIZENSHIP",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following persons as full-time members of the\nConvention Refugee Determination Division of the Immigration and Refugee\nBoard (Montreal Regional Office), to hold office during good behaviour,\nfor a term of three years, effective April 20, 1998.\n(GIOVANNA ALLÈGRA, of Gatineau, Quebec; BANA BARAZI, of Outremont,\nQuebec; JEANINE BEAUBIEN-DUQUE, of Île-des-Soeurs, Quebec; MICHEL GOULET,\nof Pierrefonds, Quebec; SYLVIE LÉVESQUE, of Outremont, Quebec;\nTONY MANGLAVITI, of Dollard-des-Ormeaux, Quebec; FARID OSMANE, of\nLaval-ouest, Quebec; HÉLÈNE PANAGAKOS, of Pierrefonds, Quebec; and\nSAJJAD RANDHAWA, of Repentigny, Quebec)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1399</td><td>2001-08-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; AGRI-FOOD,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 4 to the CANADIAN ENVIRONMENTAL PROTECTION ACT,\n1999, NO. 2 - which adds the Seeds Act to Schedule 4 to the Canadian\nEnvironmental Protection Act, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0306  <strong>Publication Date:</strong> 2001-08-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1399",
   "htmlHash": "062547ef93b0cfec037abbf1337fcc64",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-08-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , HEALTH, AGRI-FOOD, EC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending SCHEDULE 4 to the CANADIAN ENVIRONMENTAL PROTECTION ACT,\n1999, NO. 2 - which adds the Seeds Act to Schedule 4 to the Canadian\nEnvironmental Protection Act, 1999.\n",
+  "registration": "Registration: SOR/ 2001-0306  Publication Date: 2001-08-29",
+  "registration_type": "SOR",
+  "registration_id": "2001-0306",
+  "registration_publication_date": "2001-08-29"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1258</td><td>1992-06-11</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of Licence GL-173 issued by the NATIONAL ENERGY BOARD to POCO\nPETROLEUMS LTD. for the exportation of natural gas to Washington Natural\nGas Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1258",
   "htmlHash": "eb78063a41b59e705e46af6d8b116a03",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EMR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of Licence GL-173 issued by the NATIONAL ENERGY BOARD to POCO\nPETROLEUMS LTD. for the exportation of natural gas to Washington Natural\nGas Company.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1610</td><td>1996-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INT'L COOP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip made by Mr. JOHN F. GODFREY, M.P. (Don Valley\nWest), on September 16, 1996, from Toronto to Ottawa, in order to join the\nCanadian Delegation to Haiti.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1610",
   "htmlHash": "19400c47016721100adf456e6336756d",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INT'L COOP, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip made by Mr. JOHN F. GODFREY, M.P. (Don Valley\nWest), on September 16, 1996, from Toronto to Ottawa, in order to join the\nCanadian Delegation to Haiti.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

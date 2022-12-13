@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1131</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEES IN RESPECT OF MEDICAL DEVICES REGULATIONS\nwhich subject manufacturers of class 1 medical devices to the establishment\nlicensing fees, if they do not sell their products through a Canadian\nimporter or distributor.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0312  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1131",
   "htmlHash": "f3c803baa9eaa6799c0c53242dc73d7f",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , , , TB, HEALTH",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FEES IN RESPECT OF MEDICAL DEVICES REGULATIONS\nwhich subject manufacturers of class 1 medical devices to the establishment\nlicensing fees, if they do not sell their products through a Canadian\nimporter or distributor.\n",
+  "registration": "Registration: SOR/ 2000-0312  Publication Date: 2000-08-16",
+  "registration_type": "SOR",
+  "registration_id": "2000-0312",
+  "registration_publication_date": "2000-08-16"
 }

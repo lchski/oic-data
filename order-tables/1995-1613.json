@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1613</td><td>1995-09-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; VAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the LAST POST FUND REGULATIONS, 1995 respecting the provision\nof gravemarkers and the provision of financial assistance towards funeral,\nburial and cremation expenses for eligible veterans through an intermediary\nknown as the Last Post Fund Corporation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0468  <strong>Publication Date:</strong> 1995-10-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1613",
   "htmlHash": "bd8137926c7febe4f926b933dea1d93c",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TB, VAC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the LAST POST FUND REGULATIONS, 1995 respecting the provision\nof gravemarkers and the provision of financial assistance towards funeral,\nburial and cremation expenses for eligible veterans through an intermediary\nknown as the Last Post Fund Corporation.\n",
+  "registration": "Registration: SOR/ 1995-0468  Publication Date: 1995-10-18",
+  "registration_type": "SOR",
+  "registration_id": "1995-0468",
+  "registration_publication_date": "1995-10-18"
 }

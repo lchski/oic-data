@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1242</td><td>1992-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; MCC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Joseph J. Piccininni, of Toronto, Ontario, as a\ncitizenship judge to hold office during pleasure for a term effective\nJune 26, 1992 and ending August 31, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1242",
   "htmlHash": "000a3f05f993bd438083a929093ffb84",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , MCC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of Joseph J. Piccininni, of Toronto, Ontario, as a\ncitizenship judge to hold office during pleasure for a term effective\nJune 26, 1992 and ending August 31, 1992.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

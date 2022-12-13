@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1383</td><td>1995-08-16</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of 0.750 hectare of land in Lot 1009, situated in Quad 115 A/6,\nat DEZADEASH LAKE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1383",
   "htmlHash": "b70f9401bf5379f1c1b0e65d5d84cfd3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of 0.750 hectare of land in Lot 1009, situated in Quad 115 A/6,\nat DEZADEASH LAKE.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

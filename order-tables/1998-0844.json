@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0844</td><td>1998-05-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to AMENDMENTS that revise the LOAN REPAYMENT SCHEDULES in\neach of the four YUKON FIRST NATION FINAL AGREEMENTS referred to in section\n4 of the Act, because of an error in the overall loan repayment figures.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0844",
   "htmlHash": "c3b6ab5320362e25b07fcb1d0335ca48",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order consenting to AMENDMENTS that revise the LOAN REPAYMENT SCHEDULES in\neach of the four YUKON FIRST NATION FINAL AGREEMENTS referred to in section\n4 of the Act, because of an error in the overall loan repayment figures.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

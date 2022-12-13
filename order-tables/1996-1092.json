@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1092</td><td>1996-07-10</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the FOOD AND DRUG REGULATIONS (SCHEDULE NO. 1018) authorizing\nthe addition of carbon dioxide to cocoa powder for the purpose of\nextracting cocoa butter.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0377  <strong>Publication Date:</strong> 1996-07-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1092",
   "htmlHash": "ed3c088f90b24ada67c36e7f8bb5cbb6",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-07-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "HWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the FOOD AND DRUG REGULATIONS (SCHEDULE NO. 1018) authorizing\nthe addition of carbon dioxide to cocoa powder for the purpose of\nextracting cocoa butter.\n",
+  "registration": "Registration: SOR/ 1996-0377  Publication Date: 1996-07-24",
+  "registration_type": "SOR",
+  "registration_id": "1996-0377",
+  "registration_publication_date": "1996-07-24"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0893</td><td>2002-05-30</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TOBACCO REGULATIONS by, inter alia, prescribing\nthe marking requirement for export that do not exceed the 1.5% export limit\nset in the Act and by eliminating the marking requirement for imported\ntobacco products destined for Canadian duty free shops.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0204  <strong>Publication Date:</strong> 2002-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0893",
   "htmlHash": "16d56bf007d84d4824ee85f1bed18335",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-05-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "CCRA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the TOBACCO REGULATIONS by, inter alia, prescribing\nthe marking requirement for export that do not exceed the 1.5% export limit\nset in the Act and by eliminating the marking requirement for imported\ntobacco products destined for Canadian duty free shops.\n",
+  "registration": "Registration: SOR/ 2002-0204  Publication Date: 2002-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2002-0204",
+  "registration_publication_date": "2002-06-19"
 }

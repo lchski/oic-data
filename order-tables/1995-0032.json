@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0032</td><td>1995-01-11</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to CAIRO, EGYPT, made by the following eight\nParliamentarians, from September 5 to September 13, 1994, in order to\nattend the International Conference on Population and Development.\n.\n  1. Senator/Sénateur Stanley Haidasz     5. Dr. Rey D. Pagtakhan\n  2. Christiane Gagnon                    6. Beth Phinney\n  3. Beryl Gaffney                        7. Jane Stewart\n  4. Réal Ménard                          8. Patricia A. Torsney\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0032",
   "htmlHash": "055692a23a905cefde1a39d2450ac368",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-01-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "EA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the trip to CAIRO, EGYPT, made by the following eight\nParliamentarians, from September 5 to September 13, 1994, in order to\nattend the International Conference on Population and Development.\n.\n  1. Senator/Sénateur Stanley Haidasz     5. Dr. Rey D. Pagtakhan\n  2. Christiane Gagnon                    6. Beth Phinney\n  3. Beryl Gaffney                        7. Jane Stewart\n  4. Réal Ménard                          8. Patricia A. Torsney\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

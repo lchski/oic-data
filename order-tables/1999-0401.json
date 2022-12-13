@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0401</td><td>1999-03-11</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; FIN,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the FARM IMPROVEMENT AND MARKETING COOPERATIVES LOANS AND FEES\nREGULATIONS, 1998 which establish guidelines for the administration of\nfarm improvement loans, and in particular, revise the formula for\ndetermining the maximum interest rate on fixed interest rate loans,\nincrease loan registration fees from 0.5% of the principal amount to 0.85%,\ndefine the kind of assets that may be held as security, and expand on the\nnumber of activities for which a loan guarantee may be obtained.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0122  <strong>Publication Date:</strong> 1999-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0401",
   "htmlHash": "512d60d9f7051684e00c75c966ce4c91",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGRI-FOOD, FIN, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the FARM IMPROVEMENT AND MARKETING COOPERATIVES LOANS AND FEES\nREGULATIONS, 1998 which establish guidelines for the administration of\nfarm improvement loans, and in particular, revise the formula for\ndetermining the maximum interest rate on fixed interest rate loans,\nincrease loan registration fees from 0.5% of the principal amount to 0.85%,\ndefine the kind of assets that may be held as security, and expand on the\nnumber of activities for which a loan guarantee may be obtained.\n",
+  "registration": "Registration: SOR/ 1999-0122  Publication Date: 1999-03-31",
+  "registration_type": "SOR",
+  "registration_id": "1999-0122",
+  "registration_publication_date": "1999-03-31"
 }

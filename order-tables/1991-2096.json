@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2096</td><td>1991-10-31</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the UNITED STATES TARIFF RULES OF ORIGIN REGULATIONS only\nallowing Free Trade Agreement origin to be conferred to imported seeds used\nto manufacture vegetable oils, vegetable fats or margarine.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0618  <strong>Publication Date:</strong> 1991-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2096",
   "htmlHash": "3ee2b36c90a243e98e9e7b1582668dd6",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the UNITED STATES TARIFF RULES OF ORIGIN REGULATIONS only\nallowing Free Trade Agreement origin to be conferred to imported seeds used\nto manufacture vegetable oils, vegetable fats or margarine.\n",
+  "registration": "Registration: SOR/ 1991-0618  Publication Date: 1991-11-20",
+  "registration_type": "SOR",
+  "registration_id": "1991-0618",
+  "registration_publication_date": "1991-11-20"
 }

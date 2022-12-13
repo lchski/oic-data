@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0379</td><td>1992-02-27</td><td>0</td><td></td><td>,&nbsp; ER,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the termination of the appointment made by the Minister for\nExternal Relations of certain persons as directors of the Board of\nDirectors of the International Centre for Ocean Development.\n(Frank X. Njenga; Gastien Godin; Pierre Béland; Ellen McLean;\nSharon Proctor; J.H. Vandermeulen; Vaughan A. Lewis; Moise Mensah;\nD.A. Phillip Muller; Paul Henri LeBlond; and Herb Davis)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0379",
   "htmlHash": "a921b8bec56846346daf5c8973abe2b2",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", ER, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the termination of the appointment made by the Minister for\nExternal Relations of certain persons as directors of the Board of\nDirectors of the International Centre for Ocean Development.\n(Frank X. Njenga; Gastien Godin; Pierre Béland; Ellen McLean;\nSharon Proctor; J.H. Vandermeulen; Vaughan A. Lewis; Moise Mensah;\nD.A. Phillip Muller; Paul Henri LeBlond; and Herb Davis)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

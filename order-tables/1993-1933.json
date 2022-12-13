@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1933</td><td>1993-11-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the UNITED NATIONS LIBYA REGULATIONS tightening the existing\nsanctions by freezing the financial assets of the Government of Libya and\nof any Libyan undertaking related to this Government.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0521  <strong>Publication Date:</strong> 1993-12-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1933",
   "htmlHash": "8dc51aff86d36b8391a5589b3855aee3",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-11-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the UNITED NATIONS LIBYA REGULATIONS tightening the existing\nsanctions by freezing the financial assets of the Government of Libya and\nof any Libyan undertaking related to this Government.\n",
+  "registration": "Registration: SOR/ 1993-0521  Publication Date: 1993-12-15",
+  "registration_type": "SOR",
+  "registration_id": "1993-0521",
+  "registration_publication_date": "1993-12-15"
 }

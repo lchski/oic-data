@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1398</td><td>2000-09-06</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RICHARD ANTHONY BEATON, Vice-President of Enterprise Cape\nBreton Corporation, of Sydney River, Nova Scotia, to be concurrently\nChief Executive Officer of the Cape Breton Growth Fund Corporation, to\nhold office during pleasure on a part-time basis, for a term of three\nyears, or until the dissolution of the Cape Breton Growth Fund Corporation,\nwhichever occurs first.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1398",
   "htmlHash": "0aef4d16e009c2b6aa7ec244c60df191",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-09-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of RICHARD ANTHONY BEATON, Vice-President of Enterprise Cape\nBreton Corporation, of Sydney River, Nova Scotia, to be concurrently\nChief Executive Officer of the Cape Breton Growth Fund Corporation, to\nhold office during pleasure on a part-time basis, for a term of three\nyears, or until the dissolution of the Cape Breton Growth Fund Corporation,\nwhichever occurs first.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

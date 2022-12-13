@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0553</td><td>1994-04-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ONTARIO FISHERY REGULATIONS, 1989 modifying references to\nthe various sport fishing licences, introducing the concept of conservation\nlicences, restricting the use of stringers or live baskets on certain\nlakes, banning the possession of ruffe (fish species), and providing for\nfishery observers to board commercial fishing vessels to collect\nbiological information.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0295  <strong>Publication Date:</strong> 1994-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0553",
   "htmlHash": "553bdc9f1dc4d403fddbab50efae0fe1",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , F&O, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the ONTARIO FISHERY REGULATIONS, 1989 modifying references to\nthe various sport fishing licences, introducing the concept of conservation\nlicences, restricting the use of stringers or live baskets on certain\nlakes, banning the possession of ruffe (fish species), and providing for\nfishery observers to board commercial fishing vessels to collect\nbiological information.\n",
+  "registration": "Registration: SOR/ 1994-0295  Publication Date: 1994-05-04",
+  "registration_type": "SOR",
+  "registration_id": "1994-0295",
+  "registration_publication_date": "1994-05-04"
 }

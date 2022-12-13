@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0267</td><td>1991-02-14</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the resignation of the HON. JANE E. GODFREY as a Judge of the\nSupreme Court of British Columbia effective January 6, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0267",
   "htmlHash": "7b973665d1e2e4bdb8426ae74652595b",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-02-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the resignation of the HON. JANE E. GODFREY as a Judge of the\nSupreme Court of British Columbia effective January 6, 1991.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

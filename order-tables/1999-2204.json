@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2204</td><td>1999-12-16</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS by obliging all\nindividuals, businesses and partnerships whose business income is primarily\nderived from construction activities to file an information return\nreporting all payments made in the course of construction activities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0009  <strong>Publication Date:</strong> 2000-01-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2204",
   "htmlHash": "734d36424a817b1e242eacf5b4c8edef",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS by obliging all\nindividuals, businesses and partnerships whose business income is primarily\nderived from construction activities to file an information return\nreporting all payments made in the course of construction activities.\n",
+  "registration": "Registration: SOR/ 2000-0009  Publication Date: 2000-01-05",
+  "registration_type": "SOR",
+  "registration_id": "2000-0009",
+  "registration_publication_date": "2000-01-05"
 }

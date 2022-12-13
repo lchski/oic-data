@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1756</td><td>1994-10-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Secretary of State for External Affairs (a) to sign an\nAGREEMENT ON ECONOMIC COOPERATION between the Canada and UKRAINE, or (b) to\nissue an Instrument of Full Powers authorizing either the Hon. Roy\nMacLaren, Minister of International Trade, or Ambassador François Mathys to\nsign it instead.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1756",
   "htmlHash": "56bb9d8f9dda66133e7fb1be90722fd8",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-10-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Secretary of State for External Affairs (a) to sign an\nAGREEMENT ON ECONOMIC COOPERATION between the Canada and UKRAINE, or (b) to\nissue an Instrument of Full Powers authorizing either the Hon. Roy\nMacLaren, Minister of International Trade, or Ambassador François Mathys to\nsign it instead.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

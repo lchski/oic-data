@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1448</td><td>1994-08-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the execution of the agreement with WESTERN INDIAN LENDING\nASSOCIATION which provides for the sale and assignment of a portion of the\nIndian Economic Development Fund Loan Portfolio and for the transfer of\nloans securities related to these loans.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1448",
   "htmlHash": "c00dc465dec7bc626b6a36eb86c82756",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, TB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the execution of the agreement with WESTERN INDIAN LENDING\nASSOCIATION which provides for the sale and assignment of a portion of the\nIndian Economic Development Fund Loan Portfolio and for the transfer of\nloans securities related to these loans.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

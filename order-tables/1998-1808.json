@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1808</td><td>1998-10-08</td><td>0</td><td></td><td>ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING THE REMISSION OF CERTAIN DEBTS OWED TO HER\nMAJESTY IN RIGHT OF CANADA BY CERTAIN PROVINCES - which provides for the\nremission of provincial debts to the Crown accumulated over the years 1959\nto 1997, in the provision of humanitarian and disaster assistance.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0104  <strong>Publication Date:</strong> 1998-10-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1808",
   "htmlHash": "117396c2706c4d3b1241494becc3c3eb",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-08",
+  "chapter": "0",
+  "bill": "",
+  "department": "ND, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER RESPECTING THE REMISSION OF CERTAIN DEBTS OWED TO HER\nMAJESTY IN RIGHT OF CANADA BY CERTAIN PROVINCES - which provides for the\nremission of provincial debts to the Crown accumulated over the years 1959\nto 1997, in the provision of humanitarian and disaster assistance.\n",
+  "registration": "Registration: SI / 1998-0104  Publication Date: 1998-10-28",
+  "registration_type": "SI",
+  "registration_id": "1998-0104",
+  "registration_publication_date": "1998-10-28"
 }

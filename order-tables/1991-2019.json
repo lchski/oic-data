@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2019</td><td>1991-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the MOTOR VEHICLE SAFETY REGULATIONS Schedule No. 245 giving\nthe manufacturers of school buses the option of installing rearward facing\nseats so as to provide the benefits identified by the research performed\nby Transport Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0593  <strong>Publication Date:</strong> 1991-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2019",
   "htmlHash": "9a734e0e8f6d6f14c723a6dbc4eca352",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the MOTOR VEHICLE SAFETY REGULATIONS Schedule No. 245 giving\nthe manufacturers of school buses the option of installing rearward facing\nseats so as to provide the benefits identified by the research performed\nby Transport Canada.\n",
+  "registration": "Registration: SOR/ 1991-0593  Publication Date: 1991-11-06",
+  "registration_type": "SOR",
+  "registration_id": "1991-0593",
+  "registration_publication_date": "1991-11-06"
 }

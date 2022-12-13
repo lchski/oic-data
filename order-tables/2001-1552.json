@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1552</td><td>2001-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the LITTLE PINE BAND surrenders some\n6,090 hectares of Little Pine Indian Reserve No. 116 and Min-a-he-quo-sis\nIndian Reserve No. 116C, in Saskatchewan, for the exploration and\nexploitation of oil and gas purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1552",
   "htmlHash": "f370afedc58299ad5adfa7d40e4a6e75",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the LITTLE PINE BAND surrenders some\n6,090 hectares of Little Pine Indian Reserve No. 116 and Min-a-he-quo-sis\nIndian Reserve No. 116C, in Saskatchewan, for the exploration and\nexploitation of oil and gas purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

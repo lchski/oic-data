@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1008</td><td>2001-06-05</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of PAULAH JEAN DAUNS, of North Vancouver, British\nColumbia, and FRED HITCHCOCK, of Vancouver, British Columbia, as\nfull-time members of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Vancouver Regional Office), to hold office\nduring good behaviour for a term of five years, effective August 10, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1008",
   "htmlHash": "6b9be3e083a4a5504868101b5f7c27a4",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-06-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of PAULAH JEAN DAUNS, of North Vancouver, British\nColumbia, and FRED HITCHCOCK, of Vancouver, British Columbia, as\nfull-time members of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Vancouver Regional Office), to hold office\nduring good behaviour for a term of five years, effective August 10, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

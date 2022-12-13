@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0994</td><td>2002-06-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER THE\nFISHERIES ACT (MISCELLANEOUS PROGRAM) which exempt fishing and related\nactivities carried out under the authority of an Aboriginal Communal\nFishing Licence from the application of specific provisions of the\nRegulations set out below, and authorize the Minister or an aboriginal\norganization to designate the persons who and the vessels that may be used\nto fish under the authority of such a licence.\n.\n  1. Northwest Territories Fishery Regulations\n  2. Yukon Territory Fishery Regulations\n  3. Newfoundland Fishery Regulations\n  4. Atlantic Fishery Regulations, 1985\n  5. Ontario Fishery Regulations, 1989\n  6. Quebec Fishery Regulations, 1990\n  7. Fishery (General) Regulations\n  8. Pacific Fishery Regulations, 1993\n  9. Maritime Provinces Fishery Regulations\n 10. Aboriginal Communal Fishing Licences Regulations\n 11. British Columbia Sport Fishing Regulations, 1996\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0225  <strong>Publication Date:</strong> 2002-06-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0994",
   "htmlHash": "366acaeb1ce0b9bb760bc8b97ecf084b",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-06-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of REGULATIONS AMENDING CERTAIN REGULATIONS MADE UNDER THE\nFISHERIES ACT (MISCELLANEOUS PROGRAM) which exempt fishing and related\nactivities carried out under the authority of an Aboriginal Communal\nFishing Licence from the application of specific provisions of the\nRegulations set out below, and authorize the Minister or an aboriginal\norganization to designate the persons who and the vessels that may be used\nto fish under the authority of such a licence.\n.\n  1. Northwest Territories Fishery Regulations\n  2. Yukon Territory Fishery Regulations\n  3. Newfoundland Fishery Regulations\n  4. Atlantic Fishery Regulations, 1985\n  5. Ontario Fishery Regulations, 1989\n  6. Quebec Fishery Regulations, 1990\n  7. Fishery (General) Regulations\n  8. Pacific Fishery Regulations, 1993\n  9. Maritime Provinces Fishery Regulations\n 10. Aboriginal Communal Fishing Licences Regulations\n 11. British Columbia Sport Fishing Regulations, 1996\n.\n",
+  "registration": "Registration: SOR/ 2002-0225  Publication Date: 2002-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2002-0225",
+  "registration_publication_date": "2002-06-19"
 }

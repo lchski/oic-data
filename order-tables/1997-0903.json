@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0903</td><td>1997-07-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRDC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by considering\nemployment in the military reserves as eligible, giving workers credit for\nunpaid wages where the employer is bankrupt, ensuring that calculations for\nthe Family Supplement retain a direct connection to the Child Tax Benefit\nand by providing a means for converting insured weeks for 1996 or earlier\ninto insured hours.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0310  <strong>Publication Date:</strong> 1997-07-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0903",
   "htmlHash": "a464d18b9914e8a8362b2e9cd2b733c0",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HRDC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS by considering\nemployment in the military reserves as eligible, giving workers credit for\nunpaid wages where the employer is bankrupt, ensuring that calculations for\nthe Family Supplement retain a direct connection to the Child Tax Benefit\nand by providing a means for converting insured weeks for 1996 or earlier\ninto insured hours.\n",
+  "registration": "Registration: SOR/ 1997-0310  Publication Date: 1997-07-23",
+  "registration_type": "SOR",
+  "registration_id": "1997-0310",
+  "registration_publication_date": "1997-07-23"
 }

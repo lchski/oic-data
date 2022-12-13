@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0790</td><td>1992-04-30</td><td>0</td><td></td><td>AGR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a lease agreement with the Province of QUEBEC\nin order to use and occupy accommodation space in building number 157,\nsituated at 2000 Route 108 East, Lennoxville, Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0790",
   "htmlHash": "5cb013df65a1e39432b343de39a85fb1",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a lease agreement with the Province of QUEBEC\nin order to use and occupy accommodation space in building number 157,\nsituated at 2000 Route 108 East, Lennoxville, Quebec.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2199</td><td>1999-12-16</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE to the CUSTOMS TARIFF, 1999-5 - which removes\nthe customs duties on certain cotton-spandex and polyester-rayon fabrics\nused to manufacture clothing.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0005  <strong>Publication Date:</strong> 2000-01-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2199",
   "htmlHash": "d9ae1871553bbea5e7de486327a59d2b",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the SCHEDULE to the CUSTOMS TARIFF, 1999-5 - which removes\nthe customs duties on certain cotton-spandex and polyester-rayon fabrics\nused to manufacture clothing.\n",
+  "registration": "Registration: SOR/ 2000-0005  Publication Date: 2000-01-05",
+  "registration_type": "SOR",
+  "registration_id": "2000-0005",
+  "registration_publication_date": "2000-01-05"
 }

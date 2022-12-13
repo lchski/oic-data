@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0867</td><td>2002-05-23</td><td>41</td><td>2001</td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing WEDNESDAY, JUNE 12, 2002, as the day upon which section 52,\nsubsections 67(2) and (3) and section 74 of this Act [BILL C-36], being\nchapter 41 of the Statutes of Canada, 2001, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0086  <strong>Publication Date:</strong> 2002-06-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0867",
   "htmlHash": "3b574b2a40532cbd6ba13ca6008e125f",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-05-23",
+  "chapter": "41",
+  "bill": "2001",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing WEDNESDAY, JUNE 12, 2002, as the day upon which section 52,\nsubsections 67(2) and (3) and section 74 of this Act [BILL C-36], being\nchapter 41 of the Statutes of Canada, 2001, shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 2002-0086  Publication Date: 2002-06-05",
+  "registration_type": "SI",
+  "registration_id": "2002-0086",
+  "registration_publication_date": "2002-06-05"
 }

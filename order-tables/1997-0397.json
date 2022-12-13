@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0397</td><td>1997-03-19</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to raise funds in the 1997/98 fiscal year by the issue and sale\nof Treasury Bills or Notes or other Government of Canada Securities, to\ncover the cost of redeeming other securities that mature or are redeemed\nin the same fiscal year.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0397",
   "htmlHash": "65cfd3c3167eec9419d1cd9d75fe023d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to raise funds in the 1997/98 fiscal year by the issue and sale\nof Treasury Bills or Notes or other Government of Canada Securities, to\ncover the cost of redeeming other securities that mature or are redeemed\nin the same fiscal year.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

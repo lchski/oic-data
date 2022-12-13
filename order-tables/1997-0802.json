@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0802</td><td>1997-06-05</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the LICENCE (GL-268) to export natural gas to the U.S. issued\nto ENRON CAPITAL &amp; TRADE RESOURCES CORP. by the National Energy Board.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0802",
   "htmlHash": "58965d53fd9fc65be67fa11591e617a7",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-06-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the LICENCE (GL-268) to export natural gas to the U.S. issued\nto ENRON CAPITAL & TRADE RESOURCES CORP. by the National Energy Board.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

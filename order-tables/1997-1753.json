@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1753</td><td>1997-11-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue authorizing the minting of a\nFIVE DOLLAR SILVER COIN commemorating the 60th Anniversary of the arrival\nin China of Dr. Norman Bethune.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0570  <strong>Publication Date:</strong> 1997-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1753",
   "htmlHash": "b18fb22837c7407a4721c670af5497ac",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-11-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PWGS",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue authorizing the minting of a\nFIVE DOLLAR SILVER COIN commemorating the 60th Anniversary of the arrival\nin China of Dr. Norman Bethune.\n",
+  "registration": "Registration: SOR/ 1997-0570  Publication Date: 1997-12-24",
+  "registration_type": "SOR",
+  "registration_id": "1997-0570",
+  "registration_publication_date": "1997-12-24"
 }

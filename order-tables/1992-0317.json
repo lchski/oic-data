@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0317</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing certain employees of the Canadian Coast Guard as a\n\"STEAMSHIP INSPECTOR\" or as an \"INSPECTOR OF SHIPS' TACKLE\", or both, and\n(b) terminating a number of previous appointments.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0317",
   "htmlHash": "192dd34307dd966eefb7a4acc0dbf8a7",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) appointing certain employees of the Canadian Coast Guard as a\n\"STEAMSHIP INSPECTOR\" or as an \"INSPECTOR OF SHIPS' TACKLE\", or both, and\n(b) terminating a number of previous appointments.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

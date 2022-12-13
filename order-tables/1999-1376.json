@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1376</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the GITANMAAX INDIAN BAND surrenders,\nfor a term of 100 years, some 4.49 hectares of land on Gitanmaax Indian\nReserve No. 1, in British Columbia, in order to allow them to be leased for\ncommercial purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1376",
   "htmlHash": "cf4efe126d1fba903a0f0a8ed4fb83ea",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the GITANMAAX INDIAN BAND surrenders,\nfor a term of 100 years, some 4.49 hectares of land on Gitanmaax Indian\nReserve No. 1, in British Columbia, in order to allow them to be leased for\ncommercial purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

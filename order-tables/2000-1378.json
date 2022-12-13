@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1378</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Promotion of the following OFFICERS of the Royal Canadian Mounted Police:\n.\n    OFFICER                                         NEW RANK\n    -------------------------------------------     ----------------------\n.\n 1. Chief Superintendent Gary David BASS            Assistant Commissioner\n 2. Inspector Paul Ernest BROWN                     Superintendent\n 3. Superintendent Joseph André Jacques BUISSON     Chief Superintendent\n 4. Inspector Peter Maurice GERMAN                  Superintendent\n 5. Superintendent Bradley Charles HOLMAN           Chief Superintendent\n 6. Superintendent Chester Roland KARY              Chief Superintendent\n 7. Inspector Robert Earl MOULTON                   Chief Superintendent\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1378",
   "htmlHash": "62c6be0ab49c82d3d123af1f17909fc4",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , SGC",
+  "act": "",
+  "subject": "",
+  "precis": "Promotion of the following OFFICERS of the Royal Canadian Mounted Police:\n.\n    OFFICER                                         NEW RANK\n    -------------------------------------------     ----------------------\n.\n 1. Chief Superintendent Gary David BASS            Assistant Commissioner\n 2. Inspector Paul Ernest BROWN                     Superintendent\n 3. Superintendent Joseph André Jacques BUISSON     Chief Superintendent\n 4. Inspector Peter Maurice GERMAN                  Superintendent\n 5. Superintendent Bradley Charles HOLMAN           Chief Superintendent\n 6. Superintendent Chester Roland KARY              Chief Superintendent\n 7. Inspector Robert Earl MOULTON                   Chief Superintendent\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

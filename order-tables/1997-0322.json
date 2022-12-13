@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0322</td><td>1997-03-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the the Minister of Foreign Affairs to sign an Instrument\nof Approval (a) of the Amendments to the AGREEMENT relating to the\nINTERNATIONAL TELECOMMUNICATIONS SATELLITE ORGANIZATION (INTELSAT), with\nAnnexes, and (b) the OPERATING AGREEMENT relating to the INTELSAT, with\nAnnex, done at Washington August 20, 1971, allowing Parties to designate\nmore than one Signatory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0322",
   "htmlHash": "e1330debbab4f0ae79b8e3d26c9c232a",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the the Minister of Foreign Affairs to sign an Instrument\nof Approval (a) of the Amendments to the AGREEMENT relating to the\nINTERNATIONAL TELECOMMUNICATIONS SATELLITE ORGANIZATION (INTELSAT), with\nAnnexes, and (b) the OPERATING AGREEMENT relating to the INTELSAT, with\nAnnex, done at Washington August 20, 1971, allowing Parties to designate\nmore than one Signatory.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0930</td><td>1998-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY (1998-\nNo.5, FIRST NATION OF NACHO NYAK DUN, Y.T.) - which prohibits the staking\nof mineral claims or prospecting for precious minerals in certain areas of\nthe Yukon, and (b) provides for the repeal of the Prohibition Order made by\nOrder in Council P.C. 1995-277.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0310  <strong>Publication Date:</strong> 1998-06-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0930",
   "htmlHash": "6a53cb51ebc969a0911e3fc1fa2f8e72",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY (1998-\nNo.5, FIRST NATION OF NACHO NYAK DUN, Y.T.) - which prohibits the staking\nof mineral claims or prospecting for precious minerals in certain areas of\nthe Yukon, and (b) provides for the repeal of the Prohibition Order made by\nOrder in Council P.C. 1995-277.\n",
+  "registration": "Registration: SOR/ 1998-0310  Publication Date: 1998-06-10",
+  "registration_type": "SOR",
+  "registration_id": "1998-0310",
+  "registration_publication_date": "1998-06-10"
 }

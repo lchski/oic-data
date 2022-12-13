@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0678</td><td>2000-05-09</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the requests made by the Chairman of the Pension Appeals Board\nto 14 Judges or former Judges to act as TEMPORARY MEMBERS of the\nPENSION APPEALS BOARD.\n(HONOURABLE HUGH MICHAEL O'CONNELL; HONOURABLE W. KENNETH MOORE;\nHONOURABLE C. ROSS WIMMER; HONOURABLE VERNOR W.M. SMITH; HONOURABLE\nEMILE R. MILLETTE; HONOURABLE ROBERT C. DESMARAIS; HONOURABLE\nJAMES B. CHADWICK; HONOURABLE ALBERT J. ROY; HONOUABLE JOHN F. McCART;\nHONOURABLE STANTON B. HOGG; HONOURABLE DAVID B. HINDS; HONOURABLE\nJOHN D. BRACCO; HONOURABLE GEORGE T. WALSH; and HONOURABLE\nHOWARD L. IRVING)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0678",
   "htmlHash": "667a7668d9d119f2cd4742173939f716",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, HRDC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the requests made by the Chairman of the Pension Appeals Board\nto 14 Judges or former Judges to act as TEMPORARY MEMBERS of the\nPENSION APPEALS BOARD.\n(HONOURABLE HUGH MICHAEL O'CONNELL; HONOURABLE W. KENNETH MOORE;\nHONOURABLE C. ROSS WIMMER; HONOURABLE VERNOR W.M. SMITH; HONOURABLE\nEMILE R. MILLETTE; HONOURABLE ROBERT C. DESMARAIS; HONOURABLE\nJAMES B. CHADWICK; HONOURABLE ALBERT J. ROY; HONOUABLE JOHN F. McCART;\nHONOURABLE STANTON B. HOGG; HONOURABLE DAVID B. HINDS; HONOURABLE\nJOHN D. BRACCO; HONOURABLE GEORGE T. WALSH; and HONOURABLE\nHOWARD L. IRVING)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

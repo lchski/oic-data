@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1885</td><td>1999-10-21</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER AUTHORIZING FEDERAL EMPLOYEES TO ACQUIRE INTERESTS\nIN CERTAIN LANDS IN THE NORTHWEST TERRITORIES (ORDER NO.3, 1999) - which\nauthorizes Wayne Angus Keefe, of the Town of Hay River, N.W.T., to lease\nsome 0.54 hectares of un-surveyed land situated near the 36th kilometre of\nHighway No. 1, in the Northwest Territories, for recreational purposes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0422  <strong>Publication Date:</strong> 1999-11-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1885",
   "htmlHash": "5c23e428bc55b5453beb15bec2e8d452",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-10-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER AUTHORIZING FEDERAL EMPLOYEES TO ACQUIRE INTERESTS\nIN CERTAIN LANDS IN THE NORTHWEST TERRITORIES (ORDER NO.3, 1999) - which\nauthorizes Wayne Angus Keefe, of the Town of Hay River, N.W.T., to lease\nsome 0.54 hectares of un-surveyed land situated near the 36th kilometre of\nHighway No. 1, in the Northwest Territories, for recreational purposes.\n",
+  "registration": "Registration: SOR/ 1999-0422  Publication Date: 1999-11-10",
+  "registration_type": "SOR",
+  "registration_id": "1999-0422",
+  "registration_publication_date": "1999-11-10"
 }

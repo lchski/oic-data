@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0085</td><td>2000-02-01</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (USER-READY\nTETHER ANCHORAGES FOR RESTRAINT SYSTEMS - NO. 2) by allowing manufacturers\nto choose between one of two graphic symbols that must be affixed to any\nremovable cover concealing the location of a tether anchorage for a child\nrestraint system, specifying the minimum size of the symbols (20 mm),\nextending the requirement to multi-purpose passenger vehicles and trucks\nas of September 1, 2000, and by correcting errors in some illustrations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0044  <strong>Publication Date:</strong> 2000-02-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0085",
   "htmlHash": "3870e9c6522d1fb9166a3c3b517987cb",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-02-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (USER-READY\nTETHER ANCHORAGES FOR RESTRAINT SYSTEMS - NO. 2) by allowing manufacturers\nto choose between one of two graphic symbols that must be affixed to any\nremovable cover concealing the location of a tether anchorage for a child\nrestraint system, specifying the minimum size of the symbols (20 mm),\nextending the requirement to multi-purpose passenger vehicles and trucks\nas of September 1, 2000, and by correcting errors in some illustrations.\n",
+  "registration": "Registration: SOR/ 2000-0044  Publication Date: 2000-02-16",
+  "registration_type": "SOR",
+  "registration_id": "2000-0044",
+  "registration_publication_date": "2000-02-16"
 }

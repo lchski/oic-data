@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2016-0540</td><td>2016-06-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; DFO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Fisheries and Oceans of DWIGHT WILLIAMSON of Winnipeg, Manitoba, as a director of the Board of Directors of the Freshwater Fish Marketing Corporation, to hold office during pleasure for a term of one year, or until such time as a successor is appointed, whichever occurs first, effective August 26, 2016.</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2016-0540",
   "htmlHash": "7bc2389197f0cd083a8a0b3c4870cbb9",
-  "attachments": []
+  "attachments": [],
+  "date": "2016-06-15",
+  "chapter": "",
+  "bill": "",
+  "department": ", , DFO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister of Fisheries and Oceans of DWIGHT WILLIAMSON of Winnipeg, Manitoba, as a director of the Board of Directors of the Freshwater Fish Marketing Corporation, to hold office during pleasure for a term of one year, or until such time as a successor is appointed, whichever occurs first, effective August 26, 2016.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

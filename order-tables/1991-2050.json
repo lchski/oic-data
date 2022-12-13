@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2050</td><td>1991-10-24</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax, a penalty and corresponding interest payable by\nMr. WILLIAM ELLIOTT in respect of the 1983 taxation year.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0141  <strong>Publication Date:</strong> 1991-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2050",
   "htmlHash": "7ad5401eaa587681fb65a7d7e4ec60aa",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of income tax, a penalty and corresponding interest payable by\nMr. WILLIAM ELLIOTT in respect of the 1983 taxation year.\n",
+  "registration": "Registration: SI / 1991-0141  Publication Date: 1991-11-06",
+  "registration_type": "SI",
+  "registration_id": "1991-0141",
+  "registration_publication_date": "1991-11-06"
 }

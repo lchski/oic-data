@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0557</td><td>1991-03-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ISTC,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into AGREEMENTS with the PROVINCES of BRITISH COLUMBIA,\nONTARIO, QUEBEC and SASKATCHEWAN which set out the terms and conditions\nin accordance with which the Provinces will make financial contributions\ntowards the works being done in their respective Provinces in connection\nwith the \"RADARSAT\" satellite development program.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0557",
   "htmlHash": "ff820c05b73f9e929975cfaa16fddbcf",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-03-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , ISTC, TB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into AGREEMENTS with the PROVINCES of BRITISH COLUMBIA,\nONTARIO, QUEBEC and SASKATCHEWAN which set out the terms and conditions\nin accordance with which the Provinces will make financial contributions\ntowards the works being done in their respective Provinces in connection\nwith the \"RADARSAT\" satellite development program.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

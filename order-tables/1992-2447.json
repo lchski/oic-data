@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2447</td><td>1992-11-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT to provide for an unsecured loan of up\nto twenty million dollars in favour of PWA Corporation and Canadian\nAirlines International Ltd., with a maturity date of June 30, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2447",
   "htmlHash": "e2cde299903148bae4be1637eca4dc1d",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , ISTC, TB",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into an AGREEMENT to provide for an unsecured loan of up\nto twenty million dollars in favour of PWA Corporation and Canadian\nAirlines International Ltd., with a maturity date of June 30, 1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

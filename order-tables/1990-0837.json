@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0837</td><td>1990-05-03</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decline to vary or rescind Order No. 1989-R-182 of the National\nTransportation Agency petitioned by the Annapolis Valley Affiliated\nBoards of Trade.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0837",
   "htmlHash": "91c7920ea1161a2ba1220d4e4f759789",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Decline to vary or rescind Order No. 1989-R-182 of the National\nTransportation Agency petitioned by the Annapolis Valley Affiliated\nBoards of Trade.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

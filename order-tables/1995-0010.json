@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0010</td><td>1995-01-11</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment (SCHEDULE No. 939) to the FOOD AND DRUG REGULATIONS which sets\na Maximum Residue Limit on the amount of the herbicide \"FENOXAPROP-ETHYL\"\nthat can be detected in milk, due to the possibility that livestock may\ningest it from eating treated forage or crops.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0057  <strong>Publication Date:</strong> 1995-01-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0010",
   "htmlHash": "a2c7ff2b09f523ef90334011a447bbdb",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-01-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "HWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment (SCHEDULE No. 939) to the FOOD AND DRUG REGULATIONS which sets\na Maximum Residue Limit on the amount of the herbicide \"FENOXAPROP-ETHYL\"\nthat can be detected in milk, due to the possibility that livestock may\ningest it from eating treated forage or crops.\n",
+  "registration": "Registration: SOR/ 1995-0057  Publication Date: 1995-01-25",
+  "registration_type": "SOR",
+  "registration_id": "1995-0057",
+  "registration_publication_date": "1995-01-25"
 }

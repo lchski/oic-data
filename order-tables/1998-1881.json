@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1881</td><td>1998-10-22</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the RULES AMENDING THE PUBLIC INQUIRY (COOPERATIVE CREDIT\nASSOCIATIONS) RULES which make minor changes to section 2 and repeal\nsection 1 and paragraph 6(2)(a).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0533  <strong>Publication Date:</strong> 1998-11-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1881",
   "htmlHash": "9e84072b58adab971c30c82388e8c2cf",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-22",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the RULES AMENDING THE PUBLIC INQUIRY (COOPERATIVE CREDIT\nASSOCIATIONS) RULES which make minor changes to section 2 and repeal\nsection 1 and paragraph 6(2)(a).\n",
+  "registration": "Registration: SOR/ 1998-0533  Publication Date: 1998-11-11",
+  "registration_type": "SOR",
+  "registration_id": "1998-0533",
+  "registration_publication_date": "1998-11-11"
 }

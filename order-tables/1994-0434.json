@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0434</td><td>1994-03-17</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the MOTOR VEHICLE TIRE SAFETY REGULATIONS (Schedule No. 257)\namending subsections 1(1) and 2(1) of Schedule V respecting tire and rim\nmatching information and allowing for the use of tire and rim assemblies\nthat are designed to operate \"flat\" for a limited period of time\n(CT tires).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0243  <strong>Publication Date:</strong> 1994-04-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0434",
   "htmlHash": "21476387c0bf1ea1ff0b073d3ecb0e8b",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-03-17",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the MOTOR VEHICLE TIRE SAFETY REGULATIONS (Schedule No. 257)\namending subsections 1(1) and 2(1) of Schedule V respecting tire and rim\nmatching information and allowing for the use of tire and rim assemblies\nthat are designed to operate \"flat\" for a limited period of time\n(CT tires).\n",
+  "registration": "Registration: SOR/ 1994-0243  Publication Date: 1994-04-06",
+  "registration_type": "SOR",
+  "registration_id": "1994-0243",
+  "registration_publication_date": "1994-04-06"
 }

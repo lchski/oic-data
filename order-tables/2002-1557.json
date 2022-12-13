@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1557</td><td>2002-09-24</td><td>25</td><td>2001</td><td>,&nbsp; ,&nbsp; ,&nbsp; CCRA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing (a) OCTOBER 7, 2002, as the day upon which several sections\nand subsections [24-25-27-28-30-63-72(1)-73-74(1)] of this Act [BILL S-23],\nbeing chapter 25 of the Statutes of Canada, 2001, shall COME INTO FORCE,\nand (b) APRIL 1, 2003 as the day on which section 36 COMES INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0128  <strong>Publication Date:</strong> 2002-10-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1557",
   "htmlHash": "83b2f6f665979602574aa246a413a366",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-24",
+  "chapter": "25",
+  "bill": "2001",
+  "department": ", , , CCRA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing (a) OCTOBER 7, 2002, as the day upon which several sections\nand subsections [24-25-27-28-30-63-72(1)-73-74(1)] of this Act [BILL S-23],\nbeing chapter 25 of the Statutes of Canada, 2001, shall COME INTO FORCE,\nand (b) APRIL 1, 2003 as the day on which section 36 COMES INTO FORCE.\n",
+  "registration": "Registration: SI / 2002-0128  Publication Date: 2002-10-09",
+  "registration_type": "SI",
+  "registration_id": "2002-0128",
+  "registration_publication_date": "2002-10-09"
 }

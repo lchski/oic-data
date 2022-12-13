@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1958</td><td>1995-11-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mr. GILLES DUGUAY as Ambassador Extraordinary and\nPlenipotentiary of Canada to the REPUBLIC OF BULGARIA.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1958",
   "htmlHash": "fb5158d0fe28a8549298a5b6f6d7fb64",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Mr. GILLES DUGUAY as Ambassador Extraordinary and\nPlenipotentiary of Canada to the REPUBLIC OF BULGARIA.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

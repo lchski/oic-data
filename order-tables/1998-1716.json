@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1716</td><td>1998-09-24</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the MUSKOWEKWAN BAND, of some\n116 hectares of land in Saskatchewan, mines and minerals included, as\nMuskowekwan Indian Reserve No. 85-32.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1716",
   "htmlHash": "0d3bd30b9c8a80da7aa59a6b2762b7b7",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the MUSKOWEKWAN BAND, of some\n116 hectares of land in Saskatchewan, mines and minerals included, as\nMuskowekwan Indian Reserve No. 85-32.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

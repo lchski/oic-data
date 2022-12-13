@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0939</td><td>2001-05-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of THEO RUDOLF SCHWEIKER as Honorary Consul of Canada at\nStuttgart, the Federal Republic of Germany, for a period of three years,\neffective June 23, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0939",
   "htmlHash": "1d169024289330df64d6202ac37451cb",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of THEO RUDOLF SCHWEIKER as Honorary Consul of Canada at\nStuttgart, the Federal Republic of Germany, for a period of three years,\neffective June 23, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

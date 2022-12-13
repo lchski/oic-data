@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0269</td><td>1992-02-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister (a) to withdraw a certain amount of capital from\nthe Consolidated Revenue Fund and pay it to the FARM CREDIT CORPORATION,\nand (b) to amend the terms and conditions applicable to certain loans made\nto the Corporation by Orders in Council made in 1988, 1989 and 1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0269",
   "htmlHash": "b7a6aaa45ad50f66c34954bb6b6dcb49",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister (a) to withdraw a certain amount of capital from\nthe Consolidated Revenue Fund and pay it to the FARM CREDIT CORPORATION,\nand (b) to amend the terms and conditions applicable to certain loans made\nto the Corporation by Orders in Council made in 1988, 1989 and 1990.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

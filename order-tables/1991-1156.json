@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1156</td><td>1991-06-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the entry into an agreement with B.C. TREE FRUITS LTD. of\nKelowna, B.C., for the marketing of a quantity of CHERRIES, PEACHES,\nPRUNES AND APRICOTS produced in BRITISH COLUMBIA during 1991 and approval\nof the appointment of Rutherford Bazett &amp; Co., of Kelowna, B.C., to\ninspect and audit the books and accounts.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1156",
   "htmlHash": "f55566822277b08a19903bee659ee578",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-06-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the entry into an agreement with B.C. TREE FRUITS LTD. of\nKelowna, B.C., for the marketing of a quantity of CHERRIES, PEACHES,\nPRUNES AND APRICOTS produced in BRITISH COLUMBIA during 1991 and approval\nof the appointment of Rutherford Bazett & Co., of Kelowna, B.C., to\ninspect and audit the books and accounts.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1361</td><td>1996-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister to issue an Instrument of Full Powers\nauthorizing either the Hon. Arthur C. Eggleton, or Mr. Paul D. Durand, to\nsign a PROTOCOL ON RUM TO THE TRADE AND ECONOMIC CO-OPERATION AGREEMENT\nwith the Governments of the Member States of the CARIBBEAN COMMON MARKET.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1361",
   "htmlHash": "b16917e48fddd17ad27628d7ab6c0f24",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FAIT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister to issue an Instrument of Full Powers\nauthorizing either the Hon. Arthur C. Eggleton, or Mr. Paul D. Durand, to\nsign a PROTOCOL ON RUM TO THE TRADE AND ECONOMIC CO-OPERATION AGREEMENT\nwith the Governments of the Member States of the CARIBBEAN COMMON MARKET.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

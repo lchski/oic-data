@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1635</td><td>1999-09-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Board of Directors of the Canadian\nCentre on Substance Abuse of MICHEL PERRON, of Orléans, Ontario, as\nChief Executive Officer of the Canadian Centre on Substance Abuse, to\nhold office during pleasure for a term of three years, effective\nNovember 1, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1635",
   "htmlHash": "abb82ff373f151da8e1e83fc7bb02e66",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HEALTH",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Board of Directors of the Canadian\nCentre on Substance Abuse of MICHEL PERRON, of Orléans, Ontario, as\nChief Executive Officer of the Canadian Centre on Substance Abuse, to\nhold office during pleasure for a term of three years, effective\nNovember 1, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

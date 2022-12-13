@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2584</td><td>1992-12-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ACOA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into AGREEMENTS with the four Atlantic Provinces for\nthe purpose of making a financial contribution towards the cost of the\nPAN-ATLANTIC COORDINATION AND RESEARCH INITIATIVE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2584",
   "htmlHash": "d524a2f48616bc9d62291d22d9dda3b7",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , ACOA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into AGREEMENTS with the four Atlantic Provinces for\nthe purpose of making a financial contribution towards the cost of the\nPAN-ATLANTIC COORDINATION AND RESEARCH INITIATIVE.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

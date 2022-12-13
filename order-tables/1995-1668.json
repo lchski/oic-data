@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1668</td><td>1995-10-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of INDIRA VASANTI SAMARASEKERA, of Vancouver, British Columbia,\nas a member of the National Research Council of Canada to hold office\nfor a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1668",
   "htmlHash": "699f0c3c4aea963b706b3d5ec431509b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-10-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INDUSTRY, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of INDIRA VASANTI SAMARASEKERA, of Vancouver, British Columbia,\nas a member of the National Research Council of Canada to hold office\nfor a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0665</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HERITAGE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of ANDREW D.M. OGARANKO, of Winnipeg, Manitoba, as a member\nof the Board of Trustees of the National Arts Centre Corporation to hold\noffice during pleasure for a term of three years, effective May 31, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0665",
   "htmlHash": "20b14147da68e8d61e4cb92b4f1feaff",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HERITAGE",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of ANDREW D.M. OGARANKO, of Winnipeg, Manitoba, as a member\nof the Board of Trustees of the National Arts Centre Corporation to hold\noffice during pleasure for a term of three years, effective May 31, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

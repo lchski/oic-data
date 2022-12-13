@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1992</td><td>1999-11-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the LAW LIST REGULATIONS by updating a number of\nreferences to other Acts of Parliament cited therein and to Regulations\nmade pursuant thereto.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0438  <strong>Publication Date:</strong> 1999-11-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1992",
   "htmlHash": "6c68aad898786b8f178b29bf062ab002",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-11-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the LAW LIST REGULATIONS by updating a number of\nreferences to other Acts of Parliament cited therein and to Regulations\nmade pursuant thereto.\n",
+  "registration": "Registration: SOR/ 1999-0438  Publication Date: 1999-11-24",
+  "registration_type": "SOR",
+  "registration_id": "1999-0438",
+  "registration_publication_date": "1999-11-24"
 }

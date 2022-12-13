@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1017</td><td>1990-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Jean Pierre Sabourin, of Gloucester, Ontario, as President\nand Chief Executive Officer of the Canada Deposit Insurance Corporation\nto hold office during pleasure for a term of one year, effective June 1,\n1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1017",
   "htmlHash": "86b0051f7a17e10dce148224446cf8ee",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Jean Pierre Sabourin, of Gloucester, Ontario, as President\nand Chief Executive Officer of the Canada Deposit Insurance Corporation\nto hold office during pleasure for a term of one year, effective June 1,\n1990.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

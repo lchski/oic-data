@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0520</td><td>1994-03-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Clerk of the Privy Council to make ex gratia payments\nin order to offset some of the legal expenses incurred by intervenors as a\nresult of their participation in the Commission of Inquiry on the Blood\nSystem in Canada, as recommended by the Chairman, the Honourable\nMr. Justice Horace Krever.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0520",
   "htmlHash": "021ec5ba2fb02efd71b648d2d4383563",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-03-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Clerk of the Privy Council to make ex gratia payments\nin order to offset some of the legal expenses incurred by intervenors as a\nresult of their participation in the Commission of Inquiry on the Blood\nSystem in Canada, as recommended by the Chairman, the Honourable\nMr. Justice Horace Krever.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

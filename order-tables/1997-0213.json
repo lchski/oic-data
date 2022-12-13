@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0213</td><td>1997-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HRDC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DONALD HUGH HORNE, of Port Colborne, Ontario, as a member\nof the Review Tribunal for the region of St. Catharines to hold office\nduring pleasure for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0213",
   "htmlHash": "1c78510e8cbc6928958ebf4fecc042c2",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-02-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HRDC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DONALD HUGH HORNE, of Port Colborne, Ontario, as a member\nof the Review Tribunal for the region of St. Catharines to hold office\nduring pleasure for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

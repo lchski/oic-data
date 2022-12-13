@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1210</td><td>1995-07-26</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Part VI of the INCOME TAX REGULATIONS which adds new\nprovisions to the list in respect of which the Minister may permit\ntaxpayers to request permission to make a late or amended election, or to\nrevoke an earlier one.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0367  <strong>Publication Date:</strong> 1995-08-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1210",
   "htmlHash": "2480677a76d0c86114f761c0784fa34f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Part VI of the INCOME TAX REGULATIONS which adds new\nprovisions to the list in respect of which the Minister may permit\ntaxpayers to request permission to make a late or amended election, or to\nrevoke an earlier one.\n",
+  "registration": "Registration: SOR/ 1995-0367  Publication Date: 1995-08-09",
+  "registration_type": "SOR",
+  "registration_id": "1995-0367",
+  "registration_publication_date": "1995-08-09"
 }

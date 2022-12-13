@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1200</td><td>1994-07-15</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to sign an Instrument of Acceptance of the INTERNATIONAL\nCONVENTION ON TONNAGE MEASUREMENT OF SHIPS, 1969, done at London and\nsigned by Canada on June 23, 1969.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1200",
   "htmlHash": "ad3d956ad9a8e244bd82f6d53ab4ab77",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "EA, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to sign an Instrument of Acceptance of the INTERNATIONAL\nCONVENTION ON TONNAGE MEASUREMENT OF SHIPS, 1969, done at London and\nsigned by Canada on June 23, 1969.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

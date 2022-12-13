@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1905</td><td>2001-10-18</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the COOK'S FERRY BAND surrenders, for\nan indefinite term, a strip of land running across seven of its reserves in\nBritish Columbia (Kumcheen I.R. No. 1, Spences Bridge I.R. No. 4, Lower\nShawniken I.R. No. 4A, Pemynoos I.R. No. 9, Pokheitsk I.R. No. 10, Spatsum\nI.R. No. 11 and Spatsum I.R. No. 11A), for the purpose of granting a right-\nof-way to the Canadian Pacific Railway Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1905",
   "htmlHash": "80847499ea364007fe2a87865cb75495",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the COOK'S FERRY BAND surrenders, for\nan indefinite term, a strip of land running across seven of its reserves in\nBritish Columbia (Kumcheen I.R. No. 1, Spences Bridge I.R. No. 4, Lower\nShawniken I.R. No. 4A, Pemynoos I.R. No. 9, Pokheitsk I.R. No. 10, Spatsum\nI.R. No. 11 and Spatsum I.R. No. 11A), for the purpose of granting a right-\nof-way to the Canadian Pacific Railway Company.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

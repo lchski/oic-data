@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2324</td><td>2001-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the PROVINCE OF ALBERTA of its statutory\npower to acquire several pieces of land on Wabasca Indian Reserve No. 166,\nfor the purposes of Highway 813, and (b) in lieu thereof, transferring the\nlands to the Province for so long as they are used for those purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2324",
   "htmlHash": "670ffe0009d522f41cc2611b6ed5fde4",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) consenting to the use by the PROVINCE OF ALBERTA of its statutory\npower to acquire several pieces of land on Wabasca Indian Reserve No. 166,\nfor the purposes of Highway 813, and (b) in lieu thereof, transferring the\nlands to the Province for so long as they are used for those purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

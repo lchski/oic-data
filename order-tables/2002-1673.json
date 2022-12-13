@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1673</td><td>2002-09-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SARWANJIT KAUR RANDHAWA of Toronto, Ontario, to be a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years,\neffective October 16, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1673",
   "htmlHash": "43112b877a38e71910d16f81606b1f27",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , CITIZENSHIP, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of SARWANJIT KAUR RANDHAWA of Toronto, Ontario, to be a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years,\neffective October 16, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

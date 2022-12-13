@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0579</td><td>2002-04-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the Schedule to Order in Council P.C. 1999-1889 which corrects\nan error in the reference to a Township Plan in the legal description of\nthe land thereby set apart for the BEARDY'S &amp; OKEMASIS BAND as an addition\nto their Reserve No. 96 &amp; 97-A, in Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0579",
   "htmlHash": "ed9fad2cf6b5d8bc734fc3d48ed9bd78",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the Schedule to Order in Council P.C. 1999-1889 which corrects\nan error in the reference to a Township Plan in the legal description of\nthe land thereby set apart for the BEARDY'S & OKEMASIS BAND as an addition\nto their Reserve No. 96 & 97-A, in Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

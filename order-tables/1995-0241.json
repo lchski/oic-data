@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0241</td><td>1995-02-15</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Renaud Caron, of Cap-Rouge, Quebec, as Special Advisor to\nthe Minister responsible for the Federal Office of Regional Development -\nQuebec, to hold office during pleasure, effective February 20, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0241",
   "htmlHash": "56cfd0516b4a622d0386ce1fa434371d",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Renaud Caron, of Cap-Rouge, Quebec, as Special Advisor to\nthe Minister responsible for the Federal Office of Regional Development -\nQuebec, to hold office during pleasure, effective February 20, 1995.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

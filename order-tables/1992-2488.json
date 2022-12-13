@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2488</td><td>1992-12-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the borrowing for public works and general purposes by the\nissue and sale of securities other than treasury bills or treasury notes\nAND an additional sum for the payment of the Government of Canada bonds\nmaturing on February 1, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2488",
   "htmlHash": "ae82306aaaf0a8ba82632a297152485d",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the borrowing for public works and general purposes by the\nissue and sale of securities other than treasury bills or treasury notes\nAND an additional sum for the payment of the Government of Canada bonds\nmaturing on February 1, 1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

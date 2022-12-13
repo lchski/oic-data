@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0801</td><td>2001-05-02</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the YUKON FOREST PROTECTION REGULATIONS to the extent\nthat, should an emergency situation exist, the occupant of the lands is to\nbe given notice and an opportunity to remedy the situation before forestry\nofficers enter their lands to correct the situation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0163  <strong>Publication Date:</strong> 2001-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0801",
   "htmlHash": "10447402d548a6b4e689037eaad5fe29",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the YUKON FOREST PROTECTION REGULATIONS to the extent\nthat, should an emergency situation exist, the occupant of the lands is to\nbe given notice and an opportunity to remedy the situation before forestry\nofficers enter their lands to correct the situation.\n",
+  "registration": "Registration: SOR/ 2001-0163  Publication Date: 2001-05-23",
+  "registration_type": "SOR",
+  "registration_id": "2001-0163",
+  "registration_publication_date": "2001-05-23"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1923</td><td>1998-10-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE CUSTOMS TARIFF (CERTAIN PERIODICALS)\nby removing the prohibition on the importation of foreign split-run\nmagazines and on foreign magazines having more than five percent of their\nadvertising specifically directed at the Canadian market.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0543  <strong>Publication Date:</strong> 1998-11-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1923",
   "htmlHash": "c7c5f79b33dce6bfed9fb9c6dc0a5446",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the SCHEDULE TO THE CUSTOMS TARIFF (CERTAIN PERIODICALS)\nby removing the prohibition on the importation of foreign split-run\nmagazines and on foreign magazines having more than five percent of their\nadvertising specifically directed at the Canadian market.\n",
+  "registration": "Registration: SOR/ 1998-0543  Publication Date: 1998-11-11",
+  "registration_type": "SOR",
+  "registration_id": "1998-0543",
+  "registration_publication_date": "1998-11-11"
 }

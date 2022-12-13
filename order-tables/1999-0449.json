@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0449</td><td>1999-03-18</td><td>0</td><td></td><td>,&nbsp; HERITAGE,&nbsp; PSC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the (a) PUBLIC SERVICE OFFICIAL LANGUAGES EXCLUSION APPROVAL\nORDER and to the (b) PUBLIC SERVICE OFFICIAL LANGUAGES APPOINTMENT\nREGULATIONS  - whereby candidates for non-imperative bilingual positions in\nthe CAREER ASSIGNMENT PROGRAM would not have to demonstrate their potential\nto attain the required proficiency in the other official language through\ngovernment-financed training, effective March 31, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0135  <strong>Publication Date:</strong> 1999-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0449",
   "htmlHash": "915122f8f7ae3284d80f6d382b36df3c",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HERITAGE, PSC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the (a) PUBLIC SERVICE OFFICIAL LANGUAGES EXCLUSION APPROVAL\nORDER and to the (b) PUBLIC SERVICE OFFICIAL LANGUAGES APPOINTMENT\nREGULATIONS  - whereby candidates for non-imperative bilingual positions in\nthe CAREER ASSIGNMENT PROGRAM would not have to demonstrate their potential\nto attain the required proficiency in the other official language through\ngovernment-financed training, effective March 31, 1999.\n",
+  "registration": "Registration: SOR/ 1999-0135  Publication Date: 1999-03-31",
+  "registration_type": "SOR",
+  "registration_id": "1999-0135",
+  "registration_publication_date": "1999-03-31"
 }

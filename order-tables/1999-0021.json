@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0021</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue designating Albania, Austria,\nthe Azerbaijani Republic, Bulgaria, Finland, Georgia, Kazakhstan, Moldova,\nSlovenia, Spain, Sweden, the former Yugoslav Republic of Macedonia and\nthe Republic of Uzbekistan as \"designated states\" for the purposes of this\nAct, and declaring that the Act, except Part VI, shall apply to them.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0086  <strong>Publication Date:</strong> 1999-03-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0021",
   "htmlHash": "7fd965ee4827fb1f3ede4b0c967b4ced",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT, ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue designating Albania, Austria,\nthe Azerbaijani Republic, Bulgaria, Finland, Georgia, Kazakhstan, Moldova,\nSlovenia, Spain, Sweden, the former Yugoslav Republic of Macedonia and\nthe Republic of Uzbekistan as \"designated states\" for the purposes of this\nAct, and declaring that the Act, except Part VI, shall apply to them.\n",
+  "registration": "Registration: SOR/ 1999-0086  Publication Date: 1999-03-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0086",
+  "registration_publication_date": "1999-03-03"
 }

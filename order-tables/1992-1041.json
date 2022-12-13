@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1041</td><td>1992-05-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1992, NO. 3 prohibiting the\nstaking of mining claims or the prospecting for precious metals on a parcel\nof land known as the Fishing Branch Ecological Reserve in the Yukon\nTerritory.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0286  <strong>Publication Date:</strong> 1992-06-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1041",
   "htmlHash": "ea4b27eee25884a5f704853636831590",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-05-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1992, NO. 3 prohibiting the\nstaking of mining claims or the prospecting for precious metals on a parcel\nof land known as the Fishing Branch Ecological Reserve in the Yukon\nTerritory.\n",
+  "registration": "Registration: SOR/ 1992-0286  Publication Date: 1992-06-03",
+  "registration_type": "SOR",
+  "registration_id": "1992-0286",
+  "registration_publication_date": "1992-06-03"
 }

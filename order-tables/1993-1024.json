@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1024</td><td>1993-05-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of Alex Taylor, of Mississauga, Ontario, as a member of the\nNational Advisory Panel on Advanced Industrial Materials to hold office\nduring pleasure for a term ending December 31, 1993; and designation of\nthe said Alex Taylor as Chairperson of the said Panel to hold office\nduring pleasure for a term ending December 31, 1993, effective June 7,\n1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1024",
   "htmlHash": "43d689d4b8e57d55b04d3e687481583c",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ISTC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of Alex Taylor, of Mississauga, Ontario, as a member of the\nNational Advisory Panel on Advanced Industrial Materials to hold office\nduring pleasure for a term ending December 31, 1993; and designation of\nthe said Alex Taylor as Chairperson of the said Panel to hold office\nduring pleasure for a term ending December 31, 1993, effective June 7,\n1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

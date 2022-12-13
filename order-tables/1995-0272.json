@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0272</td><td>1995-02-21</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">WITHDRAWAL FROM DISPOSAL ORDER (CHAMPAGNE AND AISHIHIK FIRST NATIONS,\nY.T.) providing for the withdrawal from disposal of certain lands in the\nYukon Territory, to facilitate the settlement of Aboriginal land claims.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0029  <strong>Publication Date:</strong> 1995-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0272",
   "htmlHash": "515188fb56848d9a4d979443b86e7822",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "WITHDRAWAL FROM DISPOSAL ORDER (CHAMPAGNE AND AISHIHIK FIRST NATIONS,\nY.T.) providing for the withdrawal from disposal of certain lands in the\nYukon Territory, to facilitate the settlement of Aboriginal land claims.\n",
+  "registration": "Registration: SI / 1995-0029  Publication Date: 1995-03-08",
+  "registration_type": "SI",
+  "registration_id": "1995-0029",
+  "registration_publication_date": "1995-03-08"
 }

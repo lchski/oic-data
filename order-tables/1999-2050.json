@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2050</td><td>1999-11-18</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to Mrs. RENDINA HAMILTON, widow of the Hon. Howard\nJohn Hamilton, a retired Judge of the Supreme Court of British Columbia,\nwho died on October 3, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2050",
   "htmlHash": "f3da3665b09cc75c8eebabbe04599123",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-11-18",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of an annuity to Mrs. RENDINA HAMILTON, widow of the Hon. Howard\nJohn Hamilton, a retired Judge of the Supreme Court of British Columbia,\nwho died on October 3, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

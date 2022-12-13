@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0974</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Export Development Corporation to enter into insurance\ncontracts in order to provide Canadian exporters with protection against\ncertain financial risks associated with or resulting from the sale of\nvarious goods to the Republic of Poland.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0974",
   "htmlHash": "18119321c843bb7e4d95a8897b5d7c10",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Export Development Corporation to enter into insurance\ncontracts in order to provide Canadian exporters with protection against\ncertain financial risks associated with or resulting from the sale of\nvarious goods to the Republic of Poland.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0985</td><td>1994-06-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; F&amp;O,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the COASTAL FISHERIES PROTECTION REGULATIONS which will\nrequire the operators of foreign commercial fishing vessels to obtain a\nlicence to pass through specific waters off the coast of continental\nBritish Columbia, and in particular, the waters between Vancouver Island or\nthe Queen Charlotte Island and the mainland.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0444  <strong>Publication Date:</strong> 1994-06-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0985",
   "htmlHash": "ece4414b19dac59691bc4283fc4c9a7d",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , F&O, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the COASTAL FISHERIES PROTECTION REGULATIONS which will\nrequire the operators of foreign commercial fishing vessels to obtain a\nlicence to pass through specific waters off the coast of continental\nBritish Columbia, and in particular, the waters between Vancouver Island or\nthe Queen Charlotte Island and the mainland.\n",
+  "registration": "Registration: SOR/ 1994-0444  Publication Date: 1994-06-29",
+  "registration_type": "SOR",
+  "registration_id": "1994-0444",
+  "registration_publication_date": "1994-06-29"
 }

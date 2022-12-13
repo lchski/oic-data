@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1234</td><td>2001-07-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INT'L COOP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving the consolidation and new repayment schedule for 43\nloans made to the Islamic Republic of PAKISTAN, and (b) designating High\nCommissioner Mr. Ferry de Kerckhove to sign the necessary amendments.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1234",
   "htmlHash": "40be5b3589e799f2fe139826ca09510d",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-07-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INT'L COOP, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) approving the consolidation and new repayment schedule for 43\nloans made to the Islamic Republic of PAKISTAN, and (b) designating High\nCommissioner Mr. Ferry de Kerckhove to sign the necessary amendments.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

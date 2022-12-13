@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0638</td><td>2000-05-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGS,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that the FINANCIAL YEAR of the CANADA POST CORPORATION\nshall begin on the first day of January in any given calendar year and\nterminate on the 31st day of December in that same year, commencing on\nJanuary 1, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0638",
   "htmlHash": "916480df27699216ab4ba02308fca5fd",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-05-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PWGS, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that the FINANCIAL YEAR of the CANADA POST CORPORATION\nshall begin on the first day of January in any given calendar year and\nterminate on the 31st day of December in that same year, commencing on\nJanuary 1, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

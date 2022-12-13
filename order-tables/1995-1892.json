@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1892</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the NATIONAL CAPITAL COMMISSION to enter into a number of\nreal estate transactions with the Corporation of the CITY OF OTTAWA which\ninvolve 18 different parcels of land located throughout the city, all of\nwhich are used for recreational purposes or as parkland.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1892",
   "htmlHash": "3ab3d96cdd9331e1345c1f3e9ca15fa5",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM, TB",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the NATIONAL CAPITAL COMMISSION to enter into a number of\nreal estate transactions with the Corporation of the CITY OF OTTAWA which\ninvolve 18 different parcels of land located throughout the city, all of\nwhich are used for recreational purposes or as parkland.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

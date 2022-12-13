@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1450</td><td>1995-08-30</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the ATLANTIC PILOTAGE AUTHORITY REGULATIONS which relax the\nrequirement for candidates wishing to qualify for pilotage licences and\ncertificates to hold an NO1 certificate of competency during two of the\nthree years watchkeeping service required, and removes the grandfathering\nprovision for the issue of licences and certificates to person with\nqualifying service prior to April 10, 1974.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0430  <strong>Publication Date:</strong> 1995-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1450",
   "htmlHash": "5ca0e23779ff90d7ddcf1d538cd6faf4",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the ATLANTIC PILOTAGE AUTHORITY REGULATIONS which relax the\nrequirement for candidates wishing to qualify for pilotage licences and\ncertificates to hold an NO1 certificate of competency during two of the\nthree years watchkeeping service required, and removes the grandfathering\nprovision for the issue of licences and certificates to person with\nqualifying service prior to April 10, 1974.\n",
+  "registration": "Registration: SOR/ 1995-0430  Publication Date: 1995-09-20",
+  "registration_type": "SOR",
+  "registration_id": "1995-0430",
+  "registration_publication_date": "1995-09-20"
 }

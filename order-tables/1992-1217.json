@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1217</td><td>1992-06-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of PRINCE EDWARD ISLAND of the administration and\ncontrol of a parcel of land and land covered by water situate at\nCAMPBELL'S COVE, in King's County, which contains an area of some 1,795\nsquare metres.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1217",
   "htmlHash": "df4736f80c417a2f866879f444b1d008",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PWC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the Province of PRINCE EDWARD ISLAND of the administration and\ncontrol of a parcel of land and land covered by water situate at\nCAMPBELL'S COVE, in King's County, which contains an area of some 1,795\nsquare metres.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

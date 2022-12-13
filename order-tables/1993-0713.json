@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0713</td><td>1993-04-05</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Yves Dupras, of Île-des-Soeurs, Quebec, as a full-time\nmember of the Canadian Radio-television and Telecommunications Commission\nto hold office during good behaviour for a term of five years;\ndesignation of the said Yves Dupras for the Quebec region, as established\nunder subsection 10(1.1) of that Act; and determine that he shall reside\nwithin 100 kilometres of the Quebec regional office.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0713",
   "htmlHash": "6ec6cc3d3f5a442039e40da2260c5670",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-05",
+  "chapter": "0",
+  "bill": "",
+  "department": "COM, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Yves Dupras, of Île-des-Soeurs, Quebec, as a full-time\nmember of the Canadian Radio-television and Telecommunications Commission\nto hold office during good behaviour for a term of five years;\ndesignation of the said Yves Dupras for the Quebec region, as established\nunder subsection 10(1.1) of that Act; and determine that he shall reside\nwithin 100 kilometres of the Quebec regional office.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

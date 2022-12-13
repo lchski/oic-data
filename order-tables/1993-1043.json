@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1043</td><td>1993-05-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the INCOME TAX REGULATIONS adding new references as a result\nof recent amendments to the Act, deleting a position as a result of a\ndepartmental reorganization and re-delegating certain powers and duties\nof the Minister to levels more appropriate within the organization.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0280  <strong>Publication Date:</strong> 1993-06-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1043",
   "htmlHash": "6f6b935f022ca8ea63c0ef99875adc17",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the INCOME TAX REGULATIONS adding new references as a result\nof recent amendments to the Act, deleting a position as a result of a\ndepartmental reorganization and re-delegating certain powers and duties\nof the Minister to levels more appropriate within the organization.\n",
+  "registration": "Registration: SOR/ 1993-0280  Publication Date: 1993-06-16",
+  "registration_type": "SOR",
+  "registration_id": "1993-0280",
+  "registration_publication_date": "1993-06-16"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0144</td><td>2001-01-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) amending the GROUND LEASE issued by the Crown to GREATER MONCTON\nAIRPORT AUTHORITY INC., by inserting references in the legal description\nof the airport grounds to certain Easements affecting that property, and\n(b) revoking a prior amendment to the legal description (P.C. 1999-2221).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0144",
   "htmlHash": "1224a7a267966709326feab229f78974",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-01-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) amending the GROUND LEASE issued by the Crown to GREATER MONCTON\nAIRPORT AUTHORITY INC., by inserting references in the legal description\nof the airport grounds to certain Easements affecting that property, and\n(b) revoking a prior amendment to the legal description (P.C. 1999-2221).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

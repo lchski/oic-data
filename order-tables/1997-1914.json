@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1914</td><td>1997-12-17</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (REVOCATION OF SURRENDER) wherein the\nYALE BAND OF INDIANS revokes a surrender it made in 1934 for leasing\npurposes of the whole of Stullawheets Indian Reserve No. 8, in\nBritish Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1914",
   "htmlHash": "e4c8a5d03368efea052193c109989e6a",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-17",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an Instrument (REVOCATION OF SURRENDER) wherein the\nYALE BAND OF INDIANS revokes a surrender it made in 1934 for leasing\npurposes of the whole of Stullawheets Indian Reserve No. 8, in\nBritish Columbia.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

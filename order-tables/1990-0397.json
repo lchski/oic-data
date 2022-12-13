@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0397</td><td>1990-02-23</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Designation of the Minister of Industry, Science and Technology as the\nMinister for the purposes of the Corporations and Labour Unions Returns\nAct; Order in Council P.C. 1989-342, revoked.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0038  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0397",
   "htmlHash": "0b6c0b6c33da66408d60e3508b2bddd5",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of the Minister of Industry, Science and Technology as the\nMinister for the purposes of the Corporations and Labour Unions Returns\nAct; Order in Council P.C. 1989-342, revoked.\n",
+  "registration": "Registration: SI / 1990-0038  Publication Date: 1990-03-14",
+  "registration_type": "SI",
+  "registration_id": "1990-0038",
+  "registration_publication_date": "1990-03-14"
 }

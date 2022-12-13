@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1178</td><td>1999-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TRADE-MARKS REGULATIONS (1996) which allow\napplicants and their agents to file trade-mark applications electronically\nand to transmit a number of other documents to the Canadian Intellectual\nProperty Office by electronic means.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0292  <strong>Publication Date:</strong> 1999-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1178",
   "htmlHash": "9772b42d422c6b1998c0f974f9e34e2e",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the TRADE-MARKS REGULATIONS (1996) which allow\napplicants and their agents to file trade-mark applications electronically\nand to transmit a number of other documents to the Canadian Intellectual\nProperty Office by electronic means.\n",
+  "registration": "Registration: SOR/ 1999-0292  Publication Date: 1999-07-07",
+  "registration_type": "SOR",
+  "registration_id": "1999-0292",
+  "registration_publication_date": "1999-07-07"
 }

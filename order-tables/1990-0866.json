@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0866</td><td>1990-05-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the salaries payable to certain individuals who were appointed to\ntheir positions by the Governor in Council.\n.\n  CANADIAN CENTRE FOR OCCUPATIONAL HEALTH AND SAFETY\n  Conseil canadien d'hygiène et de sécurité au travail\n.\n- Mr. J. Arthur St-Aubin (President/président)\n.\n.\n  OFFICE OF THE COORDINATOR - STATUS OF WOMEN\n  Bureau de la Coordonnatrice de la situation de la femme\n.\n- Kathleen L. Stanley (Coordinator/coordonnatrice)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0866",
   "htmlHash": "ed1550819fd337dd42cfc3c39d4a1284",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the salaries payable to certain individuals who were appointed to\ntheir positions by the Governor in Council.\n.\n  CANADIAN CENTRE FOR OCCUPATIONAL HEALTH AND SAFETY\n  Conseil canadien d'hygiène et de sécurité au travail\n.\n- Mr. J. Arthur St-Aubin (President/président)\n.\n.\n  OFFICE OF THE COORDINATOR - STATUS OF WOMEN\n  Bureau de la Coordonnatrice de la situation de la femme\n.\n- Kathleen L. Stanley (Coordinator/coordonnatrice)\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

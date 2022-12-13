@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0533</td><td>2002-04-11</td><td>0</td><td></td><td>HRDC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of a REMISSION ORDER CONCERNING CERTAIN EMPLOYMENT INSURANCE\nCLAIMANTS - which provides for the refunding of money paid to or recovered\nby the Receiver General of Canada from employees of Sharbell's Fish Mart in\nconnection with certain E.I. benefit overpayments and penalties.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0066  <strong>Publication Date:</strong> 2002-04-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0533",
   "htmlHash": "d899af0310cfc76da6cf172006c4ac7e",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "HRDC, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of a REMISSION ORDER CONCERNING CERTAIN EMPLOYMENT INSURANCE\nCLAIMANTS - which provides for the refunding of money paid to or recovered\nby the Receiver General of Canada from employees of Sharbell's Fish Mart in\nconnection with certain E.I. benefit overpayments and penalties.\n",
+  "registration": "Registration: SI / 2002-0066  Publication Date: 2002-04-24",
+  "registration_type": "SI",
+  "registration_id": "2002-0066",
+  "registration_publication_date": "2002-04-24"
 }

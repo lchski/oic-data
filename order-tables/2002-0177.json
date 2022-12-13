@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0177</td><td>2002-02-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to The Hon. EDWARD F. WREN, a Judge of the\nSuperior Court of Justice (Ontario), upon his retirement on March 13, 2002,\nat the age of 75.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0177",
   "htmlHash": "9065843b6d3a760283d0ff2fa8bb190b",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-02-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of an annuity to The Hon. EDWARD F. WREN, a Judge of the\nSuperior Court of Justice (Ontario), upon his retirement on March 13, 2002,\nat the age of 75.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

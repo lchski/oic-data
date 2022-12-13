@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1811</td><td>1996-11-26</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) appointing certain employees of the Department of Transport as\n\"EXAMINERS OF ENGINEERS\", and (b) terminating the appointments made\nby Order in Council P.C. 1994-639.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1811",
   "htmlHash": "0c9de5d8d44bfd0ac70d8134496def0d",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) appointing certain employees of the Department of Transport as\n\"EXAMINERS OF ENGINEERS\", and (b) terminating the appointments made\nby Order in Council P.C. 1994-639.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

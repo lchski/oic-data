@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1100</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PROCESSING AND DISTRIBUTION OF SEMEN FOR ASSISTED\nCONCEPTION REGULATIONS (1218 - ALTERNATIVE TESTS) by allowing processors to\nuse alternative tests that are equivalent to or superior at detecting\ndisease agents or markers than those set out in the (year) 2000 Guidelines\nfor Therapeutic Donor Insemination published by the Canadian Fertility and\nAndrology Society.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0299  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1100",
   "htmlHash": "b0934faa74735c372724d8ef0bce9237",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HEALTH, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PROCESSING AND DISTRIBUTION OF SEMEN FOR ASSISTED\nCONCEPTION REGULATIONS (1218 - ALTERNATIVE TESTS) by allowing processors to\nuse alternative tests that are equivalent to or superior at detecting\ndisease agents or markers than those set out in the (year) 2000 Guidelines\nfor Therapeutic Donor Insemination published by the Canadian Fertility and\nAndrology Society.\n",
+  "registration": "Registration: SOR/ 2000-0299  Publication Date: 2000-08-16",
+  "registration_type": "SOR",
+  "registration_id": "2000-0299",
+  "registration_publication_date": "2000-08-16"
 }

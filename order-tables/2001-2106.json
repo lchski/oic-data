@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2106</td><td>2001-11-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CHRISTOPHER R. BARNES, of Victoria, British Columbia,\nas a permanent member of the Canadian Nuclear Safety Commission to hold\noffice during good behaviour for a term of three years, on a part-time\nbasis, effective January 23, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2106",
   "htmlHash": "eaa240a30e44ce7d0dc8fb609f190a51",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-11-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , RESOURCES",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of CHRISTOPHER R. BARNES, of Victoria, British Columbia,\nas a permanent member of the Canadian Nuclear Safety Commission to hold\noffice during good behaviour for a term of three years, on a part-time\nbasis, effective January 23, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

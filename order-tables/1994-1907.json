@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1907</td><td>1994-11-15</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving notice that the Governor in Council declines to vary or\nrescind Decision No. 1994-R-255 made by the National Transportation Agency\nrespecting the abandonment by the Canadian National Railway Company of the\noperation of the MIDLAND SUBDIVISION between Midland and Uhthoff, in the\nProvince of Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1907",
   "htmlHash": "dc001850a1a78c96c3569cd84224c705",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-11-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order giving notice that the Governor in Council declines to vary or\nrescind Decision No. 1994-R-255 made by the National Transportation Agency\nrespecting the abandonment by the Canadian National Railway Company of the\noperation of the MIDLAND SUBDIVISION between Midland and Uhthoff, in the\nProvince of Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

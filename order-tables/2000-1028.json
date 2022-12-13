@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1028</td><td>2000-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FIREARMS FEES REGULATIONS by repealing section\n21.1 whereby a credit of $35 was established for those who paid the full\nprice for a \"possession-only\" firearms licence prior to June 10, 2000,\nwhich could then be used to offset the cost of renewing that Licence or\nfor the issuance or renewal of a Possession &amp; Acquisition Licence.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0259  <strong>Publication Date:</strong> 2000-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1028",
   "htmlHash": "c93d95756d60d2a01121002df315ee05",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-06-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FIREARMS FEES REGULATIONS by repealing section\n21.1 whereby a credit of $35 was established for those who paid the full\nprice for a \"possession-only\" firearms licence prior to June 10, 2000,\nwhich could then be used to offset the cost of renewing that Licence or\nfor the issuance or renewal of a Possession & Acquisition Licence.\n",
+  "registration": "Registration: SOR/ 2000-0259  Publication Date: 2000-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2000-0259",
+  "registration_publication_date": "2000-07-05"
 }

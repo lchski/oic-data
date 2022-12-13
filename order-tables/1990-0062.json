@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0062</td><td>1990-01-18</td><td>0</td><td></td><td>,&nbsp; ER,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister for External Relations to enter into an\nadministrative arrangement with the Quebec Department of International\nAffairs (Ministère des affaires internationales du Québec) respecting the\nexecution of a project aimed at developing and implementing the Small-Scale\nIndustry Development Project in Thailand.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0062",
   "htmlHash": "d4675a9eea75ad2577fbe57971b8c2ae",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-01-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", ER, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister for External Relations to enter into an\nadministrative arrangement with the Quebec Department of International\nAffairs (Ministère des affaires internationales du Québec) respecting the\nexecution of a project aimed at developing and implementing the Small-Scale\nIndustry Development Project in Thailand.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

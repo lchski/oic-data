@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0722</td><td>1994-05-03</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Jon Buttrum, of Hamilton, Ontario, as a member of the\nNational Council of Welfare, to hold office during pleasure for a term of\nthree years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0722",
   "htmlHash": "61b63fc0b762a2e901ec55a8efb129b8",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-05-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "EIC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Jon Buttrum, of Hamilton, Ontario, as a member of the\nNational Council of Welfare, to hold office during pleasure for a term of\nthree years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

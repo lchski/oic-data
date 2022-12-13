@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2385</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an instrument (Revocation of Surrender) duly approved by the\nmembers of the BIRDTAIL SIOUX BAND OF INDIANS which revokes a 1953\nsurrender whereby some 320 acres of Birdtail Creek Indian Reserve No. 57,\nin the Province of Manitoba, were surrendered by the Band for leasing to\nthird party interests.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2385",
   "htmlHash": "00a8e325710d97b5eef50c87973b5393",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an instrument (Revocation of Surrender) duly approved by the\nmembers of the BIRDTAIL SIOUX BAND OF INDIANS which revokes a 1953\nsurrender whereby some 320 acres of Birdtail Creek Indian Reserve No. 57,\nin the Province of Manitoba, were surrendered by the Band for leasing to\nthird party interests.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

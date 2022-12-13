@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2531</td><td>1990-11-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the entry by the NATIONAL FILM BOARD into a collective agreement\nwith the CANADIAN UNION OF PUBLIC EMPLOYEES covering all employees in the\nAdministrative Support and Operational categories.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2531",
   "htmlHash": "9adf131ad3661446d5c4014272923c5c",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , COM, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approve the entry by the NATIONAL FILM BOARD into a collective agreement\nwith the CANADIAN UNION OF PUBLIC EMPLOYEES covering all employees in the\nAdministrative Support and Operational categories.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

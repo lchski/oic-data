@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2403</td><td>1991-12-05</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS\nSchedule No. 14 introducing requirements for the design, construction,\nretesting, selection, use and handling of non-bulk packagings and cylinders\nused for the transportation of dangerous goods by road, rail and domestic\nmarine.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0711  <strong>Publication Date:</strong> 1991-12-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2403",
   "htmlHash": "d032bca38925a5d2efd60b26f5b22131",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-12-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the TRANSPORTATION OF DANGEROUS GOODS REGULATIONS\nSchedule No. 14 introducing requirements for the design, construction,\nretesting, selection, use and handling of non-bulk packagings and cylinders\nused for the transportation of dangerous goods by road, rail and domestic\nmarine.\n",
+  "registration": "Registration: SOR/ 1991-0711  Publication Date: 1991-12-18",
+  "registration_type": "SOR",
+  "registration_id": "1991-0711",
+  "registration_publication_date": "1991-12-18"
 }

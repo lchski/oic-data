@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2123</td><td>1995-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) setting apart some 258.998 hectares of land in Saskatchewan for\nthe SWEETGRASS BAND as Sweetgrass Indian Reserves Nos. 113.C7 and 113.C19,\nand (b) consenting to the exercise by TRANSGAS LIMITED of its powers to\nexpropriate land on those Reserves as easements for its natural gas\npipeline.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2123",
   "htmlHash": "564e5296030d45860009f8153f140ad0",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) setting apart some 258.998 hectares of land in Saskatchewan for\nthe SWEETGRASS BAND as Sweetgrass Indian Reserves Nos. 113.C7 and 113.C19,\nand (b) consenting to the exercise by TRANSGAS LIMITED of its powers to\nexpropriate land on those Reserves as easements for its natural gas\npipeline.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

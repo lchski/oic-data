@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-2004</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; TB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of REGULATIONS AMENDING THE CITIZENSHIP REGULATIONS, 1993 which\nincrease fees for the processing of an application for a change in\ncitizenship status, for the granting, the retaining and registering, the\nrenunciation and the resumption of citizenship under sections 3, 4, 5, 6,\n7 and 8, and for the processing of applications for citizenship status\ndocuments and searches.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0023  <strong>Publication Date:</strong> 1997-01-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-2004",
   "htmlHash": "1010d2741a3a292cfe38b16b6efced6c",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-12-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , CITIZENSHIP, TB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of REGULATIONS AMENDING THE CITIZENSHIP REGULATIONS, 1993 which\nincrease fees for the processing of an application for a change in\ncitizenship status, for the granting, the retaining and registering, the\nrenunciation and the resumption of citizenship under sections 3, 4, 5, 6,\n7 and 8, and for the processing of applications for citizenship status\ndocuments and searches.\n",
+  "registration": "Registration: SOR/ 1997-0023  Publication Date: 1997-01-08",
+  "registration_type": "SOR",
+  "registration_id": "1997-0023",
+  "registration_publication_date": "1997-01-08"
 }

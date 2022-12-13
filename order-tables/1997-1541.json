@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1541</td><td>1997-10-23</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of four EASEMENTS to SASKATCHEWAN POWER CORPORATION, for the\npurposes of electrical power transmission lines, etc., and one to the RURAL\nMUNICIPALITY OF BIG QUILL NO. 308, for the purposes of sloping and\nbacksloping, over land on Beardy's and Okemasis Indian Reserves No. 96 &amp;\n97-B and No. 96 &amp; 97-A, IN LIEU OF their expropriation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1541",
   "htmlHash": "33ad0f62e5b52bef7ba9fc18e6a7d89b",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-10-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of four EASEMENTS to SASKATCHEWAN POWER CORPORATION, for the\npurposes of electrical power transmission lines, etc., and one to the RURAL\nMUNICIPALITY OF BIG QUILL NO. 308, for the purposes of sloping and\nbacksloping, over land on Beardy's and Okemasis Indian Reserves No. 96 &\n97-B and No. 96 & 97-A, IN LIEU OF their expropriation.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

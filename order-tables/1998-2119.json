@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2119</td><td>1998-12-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Transport of\nROBERT ALLAN FRIESEN, of Vancouver, British Columbia, as a director of the\nboard of directors of the Vancouver Port Corporation to hold office during\npleasure for a term ending April 30, 1999, effective December 30, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2119",
   "htmlHash": "5074c5bb4eb442ad8e43f12e2cc13501",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-12-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the re-appointment by the Minister of Transport of\nROBERT ALLAN FRIESEN, of Vancouver, British Columbia, as a director of the\nboard of directors of the Vancouver Port Corporation to hold office during\npleasure for a term ending April 30, 1999, effective December 30, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

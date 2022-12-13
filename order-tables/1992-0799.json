@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0799</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order confirming a request made to the Hon. Rev. WALTER FRANKLIN McLEAN,\nP.C., M.P., to travel to New York City as head of the Canadian Delegation\nto a UNITED NATIONS meeting concerning a Program of Action for African\nEconomic Recovery and Development (Sept. 2-5 and 8-10, 1991).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0799",
   "htmlHash": "a4f8a4be88afcaee84a61e257c1358fb",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order confirming a request made to the Hon. Rev. WALTER FRANKLIN McLEAN,\nP.C., M.P., to travel to New York City as head of the Canadian Delegation\nto a UNITED NATIONS meeting concerning a Program of Action for African\nEconomic Recovery and Development (Sept. 2-5 and 8-10, 1991).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

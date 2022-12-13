@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1351</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the EXCEPTIONS FOR EDUCATIONAL INSTITUTIONS, LIBRARIES,\nARCHIVES AND MUSEUMS REGULATIONS which permit non-profit libraries,\narchives and museums, or persons acting under their authority, to do\nanything on behalf of a person that a person may do while he or she is\nengaged in the research, private study, criticism or review of copyrighted\nmaterial, effective September 1, 1999.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0325  <strong>Publication Date:</strong> 1999-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1351",
   "htmlHash": "f394050a496fcacc72094d0f236bf58c",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the EXCEPTIONS FOR EDUCATIONAL INSTITUTIONS, LIBRARIES,\nARCHIVES AND MUSEUMS REGULATIONS which permit non-profit libraries,\narchives and museums, or persons acting under their authority, to do\nanything on behalf of a person that a person may do while he or she is\nengaged in the research, private study, criticism or review of copyrighted\nmaterial, effective September 1, 1999.\n",
+  "registration": "Registration: SOR/ 1999-0325  Publication Date: 1999-08-18",
+  "registration_type": "SOR",
+  "registration_id": "1999-0325",
+  "registration_publication_date": "1999-08-18"
 }

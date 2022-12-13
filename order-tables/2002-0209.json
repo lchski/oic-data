@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0209</td><td>2002-02-21</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PENSION BENEFITS STANDARDS REGULATIONS, 1985 by\nallowing financial institutions to become administrators of simplified\npension plans, by prescribing the basic information that must be provided\nto plan members or reported to the Office of the Superintendent of\nFinancial Institutions, and by allowing the Superintendent to ask an\nadministrator for additional information about a plan.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0078  <strong>Publication Date:</strong> 2002-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0209",
   "htmlHash": "d217ec94ccd445cfd722b7c6a0db3026",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-02-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PENSION BENEFITS STANDARDS REGULATIONS, 1985 by\nallowing financial institutions to become administrators of simplified\npension plans, by prescribing the basic information that must be provided\nto plan members or reported to the Office of the Superintendent of\nFinancial Institutions, and by allowing the Superintendent to ask an\nadministrator for additional information about a plan.\n",
+  "registration": "Registration: SOR/ 2002-0078  Publication Date: 2002-03-13",
+  "registration_type": "SOR",
+  "registration_id": "2002-0078",
+  "registration_publication_date": "2002-03-13"
 }

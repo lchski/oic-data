@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1019</td><td>1999-06-03</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the RENNIE INC. REMISSION ORDER which provides for the\nreimbursement of some of the customs duties paid or payable by this\ncompany under the Customs Tariff on tailored collar shirts imported in\n1988 and in 1990.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0235  <strong>Publication Date:</strong> 1999-06-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1019",
   "htmlHash": "6988ab69e310eec12bac2d4751cded91",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the RENNIE INC. REMISSION ORDER which provides for the\nreimbursement of some of the customs duties paid or payable by this\ncompany under the Customs Tariff on tailored collar shirts imported in\n1988 and in 1990.\n",
+  "registration": "Registration: SOR/ 1999-0235  Publication Date: 1999-06-23",
+  "registration_type": "SOR",
+  "registration_id": "1999-0235",
+  "registration_publication_date": "1999-06-23"
 }

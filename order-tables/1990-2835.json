@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2835</td><td>1990-12-20</td><td>0</td><td></td><td>SWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Advisory Council on the\nStatus of Women to hold office during pleasure for a term of three years.\n(Sharon Nattrass, Regina, Saskatchewan; Alice Hill, Yellowknife,\nNorthwest Territories; Mercedes Durossel, Rivière-des-Prairies, Quebec;\nand Johanne Robertson, Sillery, Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2835",
   "htmlHash": "f98c41821ceda49c6903b46a1ceb645e",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "SWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members of the Advisory Council on the\nStatus of Women to hold office during pleasure for a term of three years.\n(Sharon Nattrass, Regina, Saskatchewan; Alice Hill, Yellowknife,\nNorthwest Territories; Mercedes Durossel, Rivière-des-Prairies, Quebec;\nand Johanne Robertson, Sillery, Quebec)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

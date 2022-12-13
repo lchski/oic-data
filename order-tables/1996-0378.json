@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0378</td><td>1996-03-19</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CARL E. FLECK, Q.C., of Sarnia, Ontario, and\nRUTH S. GOLDHAR, of Toronto, Ontario, as members of the Human Rights\nTribunal Panel to hold office during good behaviour for a term ending\nSeptember 30, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0378",
   "htmlHash": "5d36f5c4b9fec86bbb6a0e37049cbeba",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of CARL E. FLECK, Q.C., of Sarnia, Ontario, and\nRUTH S. GOLDHAR, of Toronto, Ontario, as members of the Human Rights\nTribunal Panel to hold office during good behaviour for a term ending\nSeptember 30, 1996.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

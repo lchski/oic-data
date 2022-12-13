@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0648</td><td>1998-04-23</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS by designating an\nadditional 225 offences under a number of federal statutes, for example,\nthe NATIONAL DEFENCE ACT, the RADIOCOMMUNICATION ACT and the NON-SMOKERS'\nHEALTH ACT, as contraventions that may be dealt with by imposing a fine.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0253  <strong>Publication Date:</strong> 1998-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0648",
   "htmlHash": "80dec6c3f9f47ac7dbc733e5f18076b5",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CONTRAVENTIONS REGULATIONS by designating an\nadditional 225 offences under a number of federal statutes, for example,\nthe NATIONAL DEFENCE ACT, the RADIOCOMMUNICATION ACT and the NON-SMOKERS'\nHEALTH ACT, as contraventions that may be dealt with by imposing a fine.\n",
+  "registration": "Registration: SOR/ 1998-0253  Publication Date: 1998-05-13",
+  "registration_type": "SOR",
+  "registration_id": "1998-0253",
+  "registration_publication_date": "1998-05-13"
 }

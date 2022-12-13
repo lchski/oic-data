@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1146</td><td>1998-06-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs (a) to sign the PROTOCOL ON\nPERSISTENT ORGANIC POLLUTANTS to the 1979 CONVENTION ON LONG-RANGE\nTRANSBOUNDARY AIR POLLUTION, or (b) to issue an Instrument of Full Powers\nauthorizing other Canadian officials to sign the Protocol for Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1146",
   "htmlHash": "f9f7046214f065979600013b2ae82e34",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-06-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FAIT, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister of Foreign Affairs (a) to sign the PROTOCOL ON\nPERSISTENT ORGANIC POLLUTANTS to the 1979 CONVENTION ON LONG-RANGE\nTRANSBOUNDARY AIR POLLUTION, or (b) to issue an Instrument of Full Powers\nauthorizing other Canadian officials to sign the Protocol for Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

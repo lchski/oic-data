@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0792</td><td>2002-05-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MEDICAL DEVICES REGULATIONS by improving their\ncompliance with the Official Languages Act and by correcting several\noversights and inconsistencies.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0190  <strong>Publication Date:</strong> 2002-05-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0792",
   "htmlHash": "15309bce230c8d027ca4316571c077c7",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HEALTH, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MEDICAL DEVICES REGULATIONS by improving their\ncompliance with the Official Languages Act and by correcting several\noversights and inconsistencies.\n",
+  "registration": "Registration: SOR/ 2002-0190  Publication Date: 2002-05-22",
+  "registration_type": "SOR",
+  "registration_id": "2002-0190",
+  "registration_publication_date": "2002-05-22"
 }

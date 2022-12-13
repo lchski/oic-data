@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2391</td><td>1990-11-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Export Development Order respecting insurance in support of a sale by\nSOCIÉTÉ D'INGÉNIERIE DE SYSTÈMES ELECTRONIQUES of equipment and services\nfor the expansion of the rural telephone system in CAMEROON.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2391",
   "htmlHash": "40c448ff462ea9f2767435c29bca65ad",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IT",
+  "act": "",
+  "subject": "",
+  "precis": "Export Development Order respecting insurance in support of a sale by\nSOCIÉTÉ D'INGÉNIERIE DE SYSTÈMES ELECTRONIQUES of equipment and services\nfor the expansion of the rural telephone system in CAMEROON.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

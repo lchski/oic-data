@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1520</td><td>1997-10-23</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council to UPHOLD a ruling (CRTC 97-362) made\nby the Canadian Radio-television and Telecommunications Commission with\nrespect to moving radio station CBL Toronto from the AM to the FM band.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1997-0126  <strong>Publication Date:</strong> 1997-11-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1520",
   "htmlHash": "2875e572feabe51d425f4843b9bfd918",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-10-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Decision of the Governor in Council to UPHOLD a ruling (CRTC 97-362) made\nby the Canadian Radio-television and Telecommunications Commission with\nrespect to moving radio station CBL Toronto from the AM to the FM band.\n",
+  "registration": "Registration: SI / 1997-0126  Publication Date: 1997-11-12",
+  "registration_type": "SI",
+  "registration_id": "1997-0126",
+  "registration_publication_date": "1997-11-12"
 }

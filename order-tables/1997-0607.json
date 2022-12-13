@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0607</td><td>1997-04-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LAB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the per diem payable to MARC GRAVEL, a Conciliation Commissioner\nor a Mediator in disputes involving:\n.\n  1. Laurentian Bank of Canada and Local 434 of the Office and\n     Professional Employees Union; and\n.\n  2. the Canadian Lake Carriers Association, Canada Steamship Lines Inc.\n     and the Canadian Marine Officers Union.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0607",
   "htmlHash": "0689f88c350568a47fff8aab22146a6c",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , LAB",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the per diem payable to MARC GRAVEL, a Conciliation Commissioner\nor a Mediator in disputes involving:\n.\n  1. Laurentian Bank of Canada and Local 434 of the Office and\n     Professional Employees Union; and\n.\n  2. the Canadian Lake Carriers Association, Canada Steamship Lines Inc.\n     and the Canadian Marine Officers Union.\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

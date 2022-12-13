@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0867</td><td>2000-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LGHC,&nbsp; CEO-OLD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEDERAL ELECTIONS FEES TARIFF by making it\nconsistent with the new Canada Elections Act [BILL C-2], now chapter 9 of\nthe Statutes of Canada, 2000, particularly in the areas of terminology and\nsection numbering.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0227  <strong>Publication Date:</strong> 2000-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0867",
   "htmlHash": "4dbc203995282417e23388e68af5d32f",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-06-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , LGHC, CEO-OLD",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FEDERAL ELECTIONS FEES TARIFF by making it\nconsistent with the new Canada Elections Act [BILL C-2], now chapter 9 of\nthe Statutes of Canada, 2000, particularly in the areas of terminology and\nsection numbering.\n",
+  "registration": "Registration: SOR/ 2000-0227  Publication Date: 2000-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2000-0227",
+  "registration_publication_date": "2000-06-21"
 }

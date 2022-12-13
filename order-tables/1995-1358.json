@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1358</td><td>1995-08-16</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PERSONS AND POSITIONS EXCLUSION APPROVAL ORDER (PERSONS EMPLOYED FIVE YEARS\nOR MORE) NO. 35 - which will facilitate the appointment of certain term\nemployees, each of whom has been employed in the Public Service of Canada\nfor five years or more, to positions of an indeterminate duration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0094  <strong>Publication Date:</strong> 1995-09-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1358",
   "htmlHash": "79400cdb2cdd83f121e0c37bd1ae56a3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": "COM, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "PERSONS AND POSITIONS EXCLUSION APPROVAL ORDER (PERSONS EMPLOYED FIVE YEARS\nOR MORE) NO. 35 - which will facilitate the appointment of certain term\nemployees, each of whom has been employed in the Public Service of Canada\nfor five years or more, to positions of an indeterminate duration.\n",
+  "registration": "Registration: SI / 1995-0094  Publication Date: 1995-09-06",
+  "registration_type": "SI",
+  "registration_id": "1995-0094",
+  "registration_publication_date": "1995-09-06"
 }

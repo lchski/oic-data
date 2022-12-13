@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1571</td><td>1990-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Commissions do issue under the Great Seal of Canada, appointing Marie\nRachel LANDRY and Marie Micheline Ginette BELLEHUMEUR Commissioners to\nadminister oaths in relation to the Competition Tribunal's proceedings.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1571",
   "htmlHash": "08d995eafc6f280dce35a5e24e988713",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Commissions do issue under the Great Seal of Canada, appointing Marie\nRachel LANDRY and Marie Micheline Ginette BELLEHUMEUR Commissioners to\nadminister oaths in relation to the Competition Tribunal's proceedings.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

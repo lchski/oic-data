@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0825</td><td>1994-05-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; GRAY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Sandra Kusugak, of Rankin Inlet, Northwest Territories, as\nthe Returning Officer for the electoral district of Nunatsiaq.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0825",
   "htmlHash": "4d00968367ab7d02dae9947f6bd4c479",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-05-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , GRAY",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Sandra Kusugak, of Rankin Inlet, Northwest Territories, as\nthe Returning Officer for the electoral district of Nunatsiaq.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

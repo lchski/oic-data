@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1459</td><td>1995-08-30</td><td>0</td><td></td><td>,&nbsp; LGC,&nbsp; CEO-OLD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the NORTHWEST TERRITORIES ELECTIONS FEES TARIFF modifying the\nTariff with respect to the rate structure for payments to Returning\nOfficers for the supervision of enumeration outside of an election\nperiod, the addition of training fees for specified positions, and an\nincrease of 6% to certain rates paid to election officers.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0439  <strong>Publication Date:</strong> 1995-09-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1459",
   "htmlHash": "996afb68d87a06beb783f14b60d8e847",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", LGC, CEO-OLD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the NORTHWEST TERRITORIES ELECTIONS FEES TARIFF modifying the\nTariff with respect to the rate structure for payments to Returning\nOfficers for the supervision of enumeration outside of an election\nperiod, the addition of training fees for specified positions, and an\nincrease of 6% to certain rates paid to election officers.\n",
+  "registration": "Registration: SOR/ 1995-0439  Publication Date: 1995-09-20",
+  "registration_type": "SOR",
+  "registration_id": "1995-0439",
+  "registration_publication_date": "1995-09-20"
 }

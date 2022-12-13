@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0899</td><td>1998-05-28</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CANADIAN FOOD INSPECTION AGENCY to enter into a COLLECTIVE\nAGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA\nwhich is applicable to all employees in the Science and Administration\nGroup.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0899",
   "htmlHash": "24811adb78f04af91cd2ea473297a322",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGRI-FOOD, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval for the CANADIAN FOOD INSPECTION AGENCY to enter into a COLLECTIVE\nAGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA\nwhich is applicable to all employees in the Science and Administration\nGroup.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

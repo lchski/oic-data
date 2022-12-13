@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0105</td><td>1997-01-28</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Confirmation of the authority vested in Mr. BERNARD DUSSAULT, High\nCommissioner for Canada to the Republic of UGANDA, to sign a STATUS OF\nFORCES AGREEMENT between Canada and Uganda.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0105",
   "htmlHash": "f75d6a4ffbdbc87b59946767ddf78c2b",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-01-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Confirmation of the authority vested in Mr. BERNARD DUSSAULT, High\nCommissioner for Canada to the Republic of UGANDA, to sign a STATUS OF\nFORCES AGREEMENT between Canada and Uganda.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

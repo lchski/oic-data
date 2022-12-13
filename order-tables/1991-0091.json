@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0091</td><td>1991-01-17</td><td>0</td><td></td><td>FIN,&nbsp; IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Export Development Order respecting financing for the sale by LAVALIN INC.\nto the CHINA NATIONAL OVERSEAS TRADING COMPANY and HEILONGJIANG COAL\nECONOMIC AND TECHNOLOGY CORPORATION of goods and services for an activated\ncarbon plant.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0091",
   "htmlHash": "51af6ec551e93bc1f50c1d5245a2bdc3",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-01-17",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, IT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Export Development Order respecting financing for the sale by LAVALIN INC.\nto the CHINA NATIONAL OVERSEAS TRADING COMPANY and HEILONGJIANG COAL\nECONOMIC AND TECHNOLOGY CORPORATION of goods and services for an activated\ncarbon plant.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

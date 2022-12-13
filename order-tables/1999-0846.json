@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0846</td><td>1999-05-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the POUNDMAKER BAND, of some\n259 hectares of land in Saskatchewan, mines and minerals included, as\nPoundmaker Indian Reserves No. 114-4A and 114-5B.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0846",
   "htmlHash": "12901cdb8e4662fd054c98a239be43e2",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the POUNDMAKER BAND, of some\n259 hectares of land in Saskatchewan, mines and minerals included, as\nPoundmaker Indian Reserves No. 114-4A and 114-5B.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

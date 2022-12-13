@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0763</td><td>1992-04-15</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">UNITED NATIONS LIBYA REGULATIONS respecting measures to give effect to a\nresolution of the Security Council of the United Nations concerning Libya.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0222  <strong>Publication Date:</strong> 1992-05-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0763",
   "htmlHash": "3ce3bf4b4c68fb310b31658ff165e665",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "UNITED NATIONS LIBYA REGULATIONS respecting measures to give effect to a\nresolution of the Security Council of the United Nations concerning Libya.\n",
+  "registration": "Registration: SOR/ 1992-0222  Publication Date: 1992-05-06",
+  "registration_type": "SOR",
+  "registration_id": "1992-0222",
+  "registration_publication_date": "1992-05-06"
 }

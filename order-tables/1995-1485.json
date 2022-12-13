@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1485</td><td>1995-08-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of the following officers of the Royal Canadian Mounted Police:\n.\n     OFFICER                                        NEW RANK\n     --------------------------------------------   ----------------------\n  1. Inspector Kenneth Deane BYRT                   Superintendent\n  2. Superintendent Joseph Gordon HRANKOWSKI        Chief Superintendent\n  3. Inspector Richard George MacPHEE               Superintendent\n  4. Superintendent Raymond Louis Joseph MERCIER    Chief Superintendent\n  5. Superintendent Donald Rowland Anthony SUGRUE   Chief Superintendent\n  6. Chief Superintendent Giuliano ZACCARDELLI      Assistant Commissioner\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1485",
   "htmlHash": "ee713682b73cfe4158e6e4046154c9b8",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , SGC",
+  "act": "",
+  "subject": "",
+  "precis": "PROMOTION of the following officers of the Royal Canadian Mounted Police:\n.\n     OFFICER                                        NEW RANK\n     --------------------------------------------   ----------------------\n  1. Inspector Kenneth Deane BYRT                   Superintendent\n  2. Superintendent Joseph Gordon HRANKOWSKI        Chief Superintendent\n  3. Inspector Richard George MacPHEE               Superintendent\n  4. Superintendent Raymond Louis Joseph MERCIER    Chief Superintendent\n  5. Superintendent Donald Rowland Anthony SUGRUE   Chief Superintendent\n  6. Chief Superintendent Giuliano ZACCARDELLI      Assistant Commissioner\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

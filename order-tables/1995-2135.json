@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2135</td><td>1995-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PCO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order advising that the date upon which the COMMISSION OF INQUIRY into the\nBLOOD SYSTEM IN CANADA shall submit its final report to the Governor in\nCouncil, shall be postponed from December 31, 1995 to September 30, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2135",
   "htmlHash": "27e6dfbb2c20623a55632c3451b49ef2",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PCO",
+  "act": "",
+  "subject": "",
+  "precis": "Order advising that the date upon which the COMMISSION OF INQUIRY into the\nBLOOD SYSTEM IN CANADA shall submit its final report to the Governor in\nCouncil, shall be postponed from December 31, 1995 to September 30, 1996.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0651</td><td>2002-04-18</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the UNITED NATIONS SUPPRESSION OF TERRORISM\nREGULATIONS by adding more names to the list of individuals and entities\nfor which there are reasonable grounds to believe that they may be or are\ninvolved in or associated with terrorist activities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0161  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0651",
   "htmlHash": "65ad25297d63535aaf95e824b9481bd9",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-18",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the UNITED NATIONS SUPPRESSION OF TERRORISM\nREGULATIONS by adding more names to the list of individuals and entities\nfor which there are reasonable grounds to believe that they may be or are\ninvolved in or associated with terrorist activities.\n",
+  "registration": "Registration: SOR/ 2002-0161  Publication Date: 2002-05-08",
+  "registration_type": "SOR",
+  "registration_id": "2002-0161",
+  "registration_publication_date": "2002-05-08"
 }

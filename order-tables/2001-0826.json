@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0826</td><td>2001-05-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CLOSELY RELATED CORPORATIONS (GST) REGULATIONS by\ndesignating CUE Datawest Ltd. as a \"prescribed corporation\" in relation to\ncredit unions and by updating references to another prescribed corporation\nfollowing its reorganization.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0169  <strong>Publication Date:</strong> 2001-05-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0826",
   "htmlHash": "a244efd0278ab3f6c7469da91aa7e275",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CLOSELY RELATED CORPORATIONS (GST) REGULATIONS by\ndesignating CUE Datawest Ltd. as a \"prescribed corporation\" in relation to\ncredit unions and by updating references to another prescribed corporation\nfollowing its reorganization.\n",
+  "registration": "Registration: SOR/ 2001-0169  Publication Date: 2001-05-23",
+  "registration_type": "SOR",
+  "registration_id": "2001-0169",
+  "registration_publication_date": "2001-05-23"
 }

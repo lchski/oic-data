@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2211</td><td>2001-11-29</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the CHAMBRE DE COMMERCE DE CHERTSEY in Quebec to change its\nname to Chambre de commerce de Saint-Calixte.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2211",
   "htmlHash": "c74e5347d465c33afe7ecb3c4c3acb2f",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-11-29",
+  "chapter": "0",
+  "bill": "",
+  "department": "INDUSTRY, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval for the CHAMBRE DE COMMERCE DE CHERTSEY in Quebec to change its\nname to Chambre de commerce de Saint-Calixte.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

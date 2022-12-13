@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0171</td><td>1994-01-27</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Renewable Resources\nBoard for a term of five years.\n(James Thomas Hickling; Kevin Joseph McCormick; James Ross; James B.\nFirth; Joseph Benoit; and Roger Binne)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0171",
   "htmlHash": "819b9e20ebb2f35f491383def1b11327",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members of the Renewable Resources\nBoard for a term of five years.\n(James Thomas Hickling; Kevin Joseph McCormick; James Ross; James B.\nFirth; Joseph Benoit; and Roger Binne)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

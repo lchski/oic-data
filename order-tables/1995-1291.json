@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1291</td><td>1995-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the CANADA GRAIN REGULATIONS which relax the restrictions\non the use of grade names by unlicensed dealers and allow licensed dealers\nand elevator operators to issue receipts and tickets, under certain\nconditions, without using grades and grade names.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0385  <strong>Publication Date:</strong> 1995-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1291",
   "htmlHash": "9a00a8879646de29ba296a1d55fe6641",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the CANADA GRAIN REGULATIONS which relax the restrictions\non the use of grade names by unlicensed dealers and allow licensed dealers\nand elevator operators to issue receipts and tickets, under certain\nconditions, without using grades and grade names.\n",
+  "registration": "Registration: SOR/ 1995-0385  Publication Date: 1995-08-23",
+  "registration_type": "SOR",
+  "registration_id": "1995-0385",
+  "registration_publication_date": "1995-08-23"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1345</td><td>1997-09-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXPERTS ON MISSIONS FOR THE ORGANIZATION FOR THE PROHIBITION OF CHEMICAL\nWEAPONS PRIVILEGES AND IMMUNITIES IN CANADA ORDER granting to the\ninspectors, inspections assistants and observers as experts performing\nmissions for the Organization in Canada, certain privileges and immunities\ncontained in Article VI of the Convention on the Privileges and Immunities\nof the United Nations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0449  <strong>Publication Date:</strong> 1997-10-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1345",
   "htmlHash": "e72a6bd28d4bcb94531d15a08af640d2",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-09-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "EXPERTS ON MISSIONS FOR THE ORGANIZATION FOR THE PROHIBITION OF CHEMICAL\nWEAPONS PRIVILEGES AND IMMUNITIES IN CANADA ORDER granting to the\ninspectors, inspections assistants and observers as experts performing\nmissions for the Organization in Canada, certain privileges and immunities\ncontained in Article VI of the Convention on the Privileges and Immunities\nof the United Nations.\n",
+  "registration": "Registration: SOR/ 1997-0449  Publication Date: 1997-10-15",
+  "registration_type": "SOR",
+  "registration_id": "1997-0449",
+  "registration_publication_date": "1997-10-15"
 }

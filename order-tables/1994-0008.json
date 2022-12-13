@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0008</td><td>1994-01-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 883 providing\nfor the use of the \"maltogenic amylase\" enzyme in the hydrolysis of edible\nstarches for the production of dextrins, maltose, glucose and glucose\nsolids, as well as to delay staling in bread and bakery products.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0029  <strong>Publication Date:</strong> 1994-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0008",
   "htmlHash": "5706965cb7efe52f7f64c1dd82f08c63",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HWC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 883 providing\nfor the use of the \"maltogenic amylase\" enzyme in the hydrolysis of edible\nstarches for the production of dextrins, maltose, glucose and glucose\nsolids, as well as to delay staling in bread and bakery products.\n",
+  "registration": "Registration: SOR/ 1994-0029  Publication Date: 1994-01-26",
+  "registration_type": "SOR",
+  "registration_id": "1994-0029",
+  "registration_publication_date": "1994-01-26"
 }

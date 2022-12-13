@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0139</td><td>1998-02-05</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment to the rank of INSPECTOR of the following Non-Commissioned\nOfficers of the Royal Canadian Mounted Police:\n.\n  1. Staff Sergeant/le sergent d'état-major James John BEGLEY\n  2. Staff Sergeant/le sergent d'état-major Dale Reinard ERICKSON\n  3. Staff Sergeant/le sergent d'état-major Peter Douglas Frederick\n     HENSCHEL\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0139",
   "htmlHash": "ac0e6301cdad7de400f1bff240aa3262",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment to the rank of INSPECTOR of the following Non-Commissioned\nOfficers of the Royal Canadian Mounted Police:\n.\n  1. Staff Sergeant/le sergent d'état-major James John BEGLEY\n  2. Staff Sergeant/le sergent d'état-major Dale Reinard ERICKSON\n  3. Staff Sergeant/le sergent d'état-major Peter Douglas Frederick\n     HENSCHEL\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

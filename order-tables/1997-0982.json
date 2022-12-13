@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0982</td><td>1997-07-11</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment as ADMINISTRATORS of the Government of ONTARIO of the Hon.\nPATRICK JOSEPH LESAGE for the period July 14 to July 26, 1997, inclusive;\nand of the Hon. SIDNEY B. LINDEN, for the period August 17 to\nAugust 22, 1997, inclusive.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0982",
   "htmlHash": "2c80653fdf6a87295c0aef07e3287806",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment as ADMINISTRATORS of the Government of ONTARIO of the Hon.\nPATRICK JOSEPH LESAGE for the period July 14 to July 26, 1997, inclusive;\nand of the Hon. SIDNEY B. LINDEN, for the period August 17 to\nAugust 22, 1997, inclusive.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

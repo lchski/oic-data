@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0372</td><td>2001-03-15</td><td>0</td><td></td><td>,&nbsp; CCRA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INSURABLE EARNINGS AND COLLECTION OF PREMIUMS REGULATIONS which set out the pay ranges used to prepare the table of premiums for 2001.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0105  <strong>Publication Date:</strong> 2001-03-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0372",
   "htmlHash": "0b13c6b6cd116d19a6654e631a94c188",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CCRA, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INSURABLE EARNINGS AND COLLECTION OF PREMIUMS REGULATIONS which set out the pay ranges used to prepare the table of premiums for 2001.",
+  "registration": "Registration: SOR/ 2001-0105  Publication Date: 2001-03-28",
+  "registration_type": "SOR",
+  "registration_id": "2001-0105",
+  "registration_publication_date": "2001-03-28"
 }

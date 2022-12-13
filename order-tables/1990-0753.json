@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0753</td><td>1990-04-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the INCOME TAX REGULATIONS concerning Class 34 Energy\nConservation Equipment.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0257  <strong>Publication Date:</strong> 1990-05-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0753",
   "htmlHash": "b37ec593444e68ed80ab2ae1a628dad4",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-04-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the INCOME TAX REGULATIONS concerning Class 34 Energy\nConservation Equipment.\n",
+  "registration": "Registration: SOR/ 1990-0257  Publication Date: 1990-05-09",
+  "registration_type": "SOR",
+  "registration_id": "1990-0257",
+  "registration_publication_date": "1990-05-09"
 }

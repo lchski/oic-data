@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0583</td><td>1992-03-26</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax and all relevent interest payable by ROLAND GUAY\nfor the year 1979.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0064  <strong>Publication Date:</strong> 1992-04-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0583",
   "htmlHash": "3e90e8b751443522c2215e245984d082",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of income tax and all relevent interest payable by ROLAND GUAY\nfor the year 1979.\n",
+  "registration": "Registration: SI / 1992-0064  Publication Date: 1992-04-08",
+  "registration_type": "SI",
+  "registration_id": "1992-0064",
+  "registration_publication_date": "1992-04-08"
 }

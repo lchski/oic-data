@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1536</td><td>2000-10-04</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the NATIONAL HISTORIC PARKS ORDER to correct an error in the\nFrench version of the description of the land comprising Fort Langley\nNational Historic Park in New Westminster, British Columbia.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0382  <strong>Publication Date:</strong> 2000-10-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1536",
   "htmlHash": "5484680bf12253c80847e5ffc5d02867",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-10-04",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the NATIONAL HISTORIC PARKS ORDER to correct an error in the\nFrench version of the description of the land comprising Fort Langley\nNational Historic Park in New Westminster, British Columbia.\n",
+  "registration": "Registration: SOR/ 2000-0382  Publication Date: 2000-10-25",
+  "registration_type": "SOR",
+  "registration_id": "2000-0382",
+  "registration_publication_date": "2000-10-25"
 }

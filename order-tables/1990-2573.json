@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2573</td><td>1990-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; CCAC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the application made by the CHAMBRE DE COMMERCE DE MARIEVILLE\nto change the boundaries of its district so that they correspond to the\nboundaries of the Municipality of Marieville, in the Province of Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2573",
   "htmlHash": "695a62af7619d27910c86f19a9f67599",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , CCAC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the application made by the CHAMBRE DE COMMERCE DE MARIEVILLE\nto change the boundaries of its district so that they correspond to the\nboundaries of the Municipality of Marieville, in the Province of Quebec.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

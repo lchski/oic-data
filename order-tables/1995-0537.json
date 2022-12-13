@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0537</td><td>1995-03-29</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Minister of FINANCE the powers, duties and functions of the\nMinister of Industry under subsection 4(2) and sections 8 to 10, 13 to 15\nand 17 to 21 of the Department of Industry Act in relation to REGIONAL\nECONOMIC DEVELOPMENT in the Province of QUEBEC, except for certain\nagreements.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0049  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0537",
   "htmlHash": "4ff0958ade08f06662fb277296f643e4",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-29",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the Minister of FINANCE the powers, duties and functions of the\nMinister of Industry under subsection 4(2) and sections 8 to 10, 13 to 15\nand 17 to 21 of the Department of Industry Act in relation to REGIONAL\nECONOMIC DEVELOPMENT in the Province of QUEBEC, except for certain\nagreements.\n",
+  "registration": "Registration: SI / 1995-0049  Publication Date: 1995-04-19",
+  "registration_type": "SI",
+  "registration_id": "1995-0049",
+  "registration_publication_date": "1995-04-19"
 }

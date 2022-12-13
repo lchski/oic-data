@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1433</td><td>1996-09-11</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Dissolution of the CHAMBRE DE COMMERCE DE ST-BERNARD, CTÉ DE ST-JEAN, in\nthe Province of Quebec, whose formation was recorded in 1967.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1433",
   "htmlHash": "f6470b782e93eebdfc645affb75ac25a",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-09-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Dissolution of the CHAMBRE DE COMMERCE DE ST-BERNARD, CTÉ DE ST-JEAN, in\nthe Province of Quebec, whose formation was recorded in 1967.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

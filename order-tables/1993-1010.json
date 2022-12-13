@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1010</td><td>1993-05-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Transport of George W.\nWickett, of Rosetown, Saskatchewan, as a director of the Board of Directors\nof the Canadian National Railway Company to hold office during pleasure\nfor a term of three years, in the plae of Alfred James Bentley, whose term\nhas expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1010",
   "htmlHash": "785abb0a293478d6d865fe2b8a056baf",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Transport of George W.\nWickett, of Rosetown, Saskatchewan, as a director of the Board of Directors\nof the Canadian National Railway Company to hold office during pleasure\nfor a term of three years, in the plae of Alfred James Bentley, whose term\nhas expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }
