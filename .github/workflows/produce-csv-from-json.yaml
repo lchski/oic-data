@@ -1,6 +1,13 @@
 # First, stream JSON files to mlr, converting them from JSON to CSV; use xargs because the file list exhausts argument limits (~5k per batch).
 # Then, remove extra header rows caused by calling mlr multiple times through xargs.
 # Then, remove the processing file, and save the output.
+#
+# NB, differences in format between this and output of `oic-analysis` (which runs against the HTML):
+# - pcNumber and htmlHash column names remain in camelCase
+# - attachments is a stringified JSON array
+# - year and number are not extracted from pcNumber
+# - department is not processed after extraction, department_raw is not created
+# - text column (html_text2 of the html column) is not created
 name: Produce CSV from JSON order tables
 
 on:
