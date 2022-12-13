@@ -29,7 +29,7 @@ jobs:
     - name: Run conversions with miller
       run: |-
         find order-tables -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > orders-interim.csv
-        mlr --csv --from orders-interim.csv filter '$html != "html"' then cut -x -f html > processed-csvs/orders.csv
+        mlr --csv --from orders-interim.csv filter '$html != "html"' then cut -x -f html then sort -f pcNumber > processed-csvs/orders.csv
         rm orders-interim.csv
     - name: Commit and push if it changed
       run: |-
