@@ -1,0 +1,30 @@
+# First, stream JSON files to mlr, converting them from JSON to CSV; use xargs because the file list exhausts argument limits (~5k per batch).
+# Then, remove extra header rows caused by calling mlr multiple times through xargs.
+# Then, remove the processing file, and save the output.
+name: Produce CSV from JSON order tables
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-oics:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Install miller
+      run: |-
+        sudo apt-get install miller
+    - name: Run conversions with miller
+      run: |-
+        find order-tables -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > orders-interim.csv
+        mlr --csv --from orders-interim.csv filter '$html != "html"' then cut -x -f html > processed-csvs/orders.csv
+        rm orders-interim.csv
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add processed-csvs/orders.csv
+        timestamp=$(date -u)
+        git commit -m "CSV from JSON as of: ${timestamp}" || exit 0
+        git push
