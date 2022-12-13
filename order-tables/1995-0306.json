@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0306</td><td>1995-02-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the CITIZENSHIP REGULATIONS, 1993 increasing fees for various\ncitizenship services and introducing a new fee of $100 payable by all\napplicants 18 years of age or older at the time of filing an application\nfor the Conferral of Right to Citizenship.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0122  <strong>Publication Date:</strong> 1995-03-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0306",
   "htmlHash": "072634cace6ddf6d197de3b29840a3c3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TB, CITIZENSHIP, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the CITIZENSHIP REGULATIONS, 1993 increasing fees for various\ncitizenship services and introducing a new fee of $100 payable by all\napplicants 18 years of age or older at the time of filing an application\nfor the Conferral of Right to Citizenship.\n",
+  "registration": "Registration: SOR/ 1995-0122  Publication Date: 1995-03-22",
+  "registration_type": "SOR",
+  "registration_id": "1995-0122",
+  "registration_publication_date": "1995-03-22"
 }

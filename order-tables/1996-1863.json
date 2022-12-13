@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1863</td><td>1996-12-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip made by the Senator and four M.P.s listed below\nin order to attend the UNITED NATIONS GENERAL ASSEMBLY held in New York\nCity from November 17 to November 20, 1996.\n.\n       1. The Hon./L'hon. MIRA SPIVAK, Senator/Sénateur\n       2. The Hon./L'hon. AUDREY McLAUGHLIN, P.C./c.p.\n       3. Mr./Monsieur FRANCIS G. LeBLANC\n       4. Mr./Monsieur EDWARD W. (Ted) McWHINNEY, Q.C./c.r.\n       5. Ms./Mme GEORGETTE SHERIDAN\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1863",
   "htmlHash": "9ae7fbfe5add75f6875531a044460ffc",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-12-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip made by the Senator and four M.P.s listed below\nin order to attend the UNITED NATIONS GENERAL ASSEMBLY held in New York\nCity from November 17 to November 20, 1996.\n.\n       1. The Hon./L'hon. MIRA SPIVAK, Senator/Sénateur\n       2. The Hon./L'hon. AUDREY McLAUGHLIN, P.C./c.p.\n       3. Mr./Monsieur FRANCIS G. LeBLANC\n       4. Mr./Monsieur EDWARD W. (Ted) McWHINNEY, Q.C./c.r.\n       5. Ms./Mme GEORGETTE SHERIDAN\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

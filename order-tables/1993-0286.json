@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0286</td><td>1993-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Transport to direct the National\nTransportation Agency to consider applications from Canadian and foreign\nair carriers to carry international cargo shipments to and from WINDSOR\nAIRPORT at Windsor, Ontario, that originate in and are destined for points\noutside the territory of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0286",
   "htmlHash": "52bd0af5f2621ec3591ecc94a9ce566f",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-02-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EA, TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Transport to direct the National\nTransportation Agency to consider applications from Canadian and foreign\nair carriers to carry international cargo shipments to and from WINDSOR\nAIRPORT at Windsor, Ontario, that originate in and are destined for points\noutside the territory of Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

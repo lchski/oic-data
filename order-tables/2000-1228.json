@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1228</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JIM BEAR, of Scanterbury, Manitoba, as Chairman of the\nBoard of Directors of the Freshwater Fish Marketing Corporation to hold\noffice during pleasure for a term of three years, effective\nJanuary 27, 2001, to replace Sam Murdock, whose term will expire on\nJanuary 26, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1228",
   "htmlHash": "2541af8684685374e0a89c651b0f2717",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JIM BEAR, of Scanterbury, Manitoba, as Chairman of the\nBoard of Directors of the Freshwater Fish Marketing Corporation to hold\noffice during pleasure for a term of three years, effective\nJanuary 27, 2001, to replace Sam Murdock, whose term will expire on\nJanuary 26, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

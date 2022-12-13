@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0011</td><td>2002-01-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment adding the OFFICE OF INFRASTRUCTURE AND CROWN CORPORATIONS OF\nCANADA to the list of Other Government Institutions in SCHEDULE I to the\nAccess to Information Act.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0043  <strong>Publication Date:</strong> 2002-01-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0011",
   "htmlHash": "416d98dfa55d22a0eaf3781bcff07d89",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-01-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment adding the OFFICE OF INFRASTRUCTURE AND CROWN CORPORATIONS OF\nCANADA to the list of Other Government Institutions in SCHEDULE I to the\nAccess to Information Act.\n",
+  "registration": "Registration: SOR/ 2002-0043  Publication Date: 2002-01-30",
+  "registration_type": "SOR",
+  "registration_id": "2002-0043",
+  "registration_publication_date": "2002-01-30"
 }

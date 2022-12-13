@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1302</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by the SASKATCHEWAN POWER CORPORATION and\nby SASKATCHEWAN TELECOMMUNICATIONS of their statutory powers to expropriate\nland on SAULTEAUX INDIAN RESERVES NO. 159 G, 159 J, 159 N and 159 O, for\nthe purposes of their electrical power and telecommunications systems, and\n(b) in lieu of expropriation, granting them easement for those purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1302",
   "htmlHash": "9eb4bf82e7be60b5a6929387677adc43",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) consenting to the use by the SASKATCHEWAN POWER CORPORATION and\nby SASKATCHEWAN TELECOMMUNICATIONS of their statutory powers to expropriate\nland on SAULTEAUX INDIAN RESERVES NO. 159 G, 159 J, 159 N and 159 O, for\nthe purposes of their electrical power and telecommunications systems, and\n(b) in lieu of expropriation, granting them easement for those purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

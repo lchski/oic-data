@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0012</td><td>1993-01-05</td><td>0</td><td></td><td>,&nbsp; LAB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Madeleine Delaney-LeBlanc, of Dieppe, New Brunswick, as\na governor of the Council of the Canadian Centre for Occupational Health\nand Safety being the nominee of the Government of New Brunswick, to hold\noffice during pleasure, for a term of four years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0012",
   "htmlHash": "4591cf0b4789f99b1115b4e86e72a4dc",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-01-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", LAB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of Madeleine Delaney-LeBlanc, of Dieppe, New Brunswick, as\na governor of the Council of the Canadian Centre for Occupational Health\nand Safety being the nominee of the Government of New Brunswick, to hold\noffice during pleasure, for a term of four years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

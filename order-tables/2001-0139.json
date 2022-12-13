@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0139</td><td>2001-01-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SUPERVISORY INFORMATION (AUTHORIZED FOREIGN BANKS)\nREGULATIONS which will prevent foreign banks and their affiliates from\ndisclosing confidential supervisory information provided by the Office of\nthe Superintendent of Financial Institutions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0058  <strong>Publication Date:</strong> 2001-02-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0139",
   "htmlHash": "3e8860298e4e3a6d23481048c52fe748",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-01-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the SUPERVISORY INFORMATION (AUTHORIZED FOREIGN BANKS)\nREGULATIONS which will prevent foreign banks and their affiliates from\ndisclosing confidential supervisory information provided by the Office of\nthe Superintendent of Financial Institutions.\n",
+  "registration": "Registration: SOR/ 2001-0058  Publication Date: 2001-02-14",
+  "registration_type": "SOR",
+  "registration_id": "2001-0058",
+  "registration_publication_date": "2001-02-14"
 }

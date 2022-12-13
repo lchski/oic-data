@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0092</td><td>1996-01-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 0.310 hectares of land located in the New Westminster\nDistrict, in the Province of British Columbia, for the use and benefit of\nthe SQUAMISH BAND as an addition to Seymour Creek Indian Reserve No. 2.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0092",
   "htmlHash": "e40e3a15712cf30df325f1200d2bff5d",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of some 0.310 hectares of land located in the New Westminster\nDistrict, in the Province of British Columbia, for the use and benefit of\nthe SQUAMISH BAND as an addition to Seymour Creek Indian Reserve No. 2.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

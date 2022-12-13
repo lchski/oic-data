@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0941</td><td>1994-06-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment (SCHEDULE No. 921) to the FOOD AND DRUG REGULATIONS providing for\nthe use of sucrose acetate isobutyrate, as a density adjusting agent or\nstabilizer in citrus flavoured and spruce flavoured beverages at a\nmaximum level of 300 ppm.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0416  <strong>Publication Date:</strong> 1994-06-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0941",
   "htmlHash": "ca3a6d87b8d2cc506c23d73aec084711",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HWC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment (SCHEDULE No. 921) to the FOOD AND DRUG REGULATIONS providing for\nthe use of sucrose acetate isobutyrate, as a density adjusting agent or\nstabilizer in citrus flavoured and spruce flavoured beverages at a\nmaximum level of 300 ppm.\n",
+  "registration": "Registration: SOR/ 1994-0416  Publication Date: 1994-06-15",
+  "registration_type": "SOR",
+  "registration_id": "1994-0416",
+  "registration_publication_date": "1994-06-15"
 }

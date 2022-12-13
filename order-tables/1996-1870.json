@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1870</td><td>1996-12-05</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the WITHDRAWAL FROM DISPOSAL ORDER (KLUANE FIRST NATION AND\nWHITE RIVER FIRST NATION, Y.T.) - which provides for the withdrawal from\ndisposal of land in the Yukon in order to facilitate the settlement of\nland claims made by the Kluane First Nation and White River First Nation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1996-0112  <strong>Publication Date:</strong> 1996-12-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1870",
   "htmlHash": "8226f70e00b9e38320727d9f294c162a",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-12-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the WITHDRAWAL FROM DISPOSAL ORDER (KLUANE FIRST NATION AND\nWHITE RIVER FIRST NATION, Y.T.) - which provides for the withdrawal from\ndisposal of land in the Yukon in order to facilitate the settlement of\nland claims made by the Kluane First Nation and White River First Nation.\n",
+  "registration": "Registration: SI / 1996-0112  Publication Date: 1996-12-25",
+  "registration_type": "SI",
+  "registration_id": "1996-0112",
+  "registration_publication_date": "1996-12-25"
 }

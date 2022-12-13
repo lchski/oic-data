@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0542</td><td>1994-04-14</td><td>0</td><td></td><td>,&nbsp; ISTC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PATENT COOPERATION TREATY REGULATIONS which extend both\nthe time limit during which applicants must submit prescribed information\nto the Patent Office in an international patent application and the time\nperiod to reinstate an application, as well as replace the French word\n\"domicilié\" with the word \"résident\".\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0284  <strong>Publication Date:</strong> 1994-05-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0542",
   "htmlHash": "168abb6fec90516ebb4dd38e5c13ffdc",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", ISTC, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the PATENT COOPERATION TREATY REGULATIONS which extend both\nthe time limit during which applicants must submit prescribed information\nto the Patent Office in an international patent application and the time\nperiod to reinstate an application, as well as replace the French word\n\"domicilié\" with the word \"résident\".\n",
+  "registration": "Registration: SOR/ 1994-0284  Publication Date: 1994-05-04",
+  "registration_type": "SOR",
+  "registration_id": "1994-0284",
+  "registration_publication_date": "1994-05-04"
 }

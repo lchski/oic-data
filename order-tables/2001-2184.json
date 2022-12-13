@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2184</td><td>2001-11-27</td><td>0</td><td></td><td>PMO,&nbsp; PSC,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of YVES BASTIEN, of Gaspé, Quebec, as Commissioner for\nAquaculture Development, reporting to the Minister of Fisheries and Oceans,\nto hold office during pleasure for a term ending March 24, 2004, effective\nJanuary 25, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2184",
   "htmlHash": "5ba84fe45362a2e183d0671415f02df9",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-11-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, PSC, F&O, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of YVES BASTIEN, of Gaspé, Quebec, as Commissioner for\nAquaculture Development, reporting to the Minister of Fisheries and Oceans,\nto hold office during pleasure for a term ending March 24, 2004, effective\nJanuary 25, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

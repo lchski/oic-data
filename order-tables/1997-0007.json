@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0007</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES A.J. JUDD, as Alternate Governor of the\nInter-American Development Bank; Alternate Governor of the Asian\nDevelopment Bank; Alternate Governor of the Caribbean Development Bank;\nand Alternate Governor of the African Development Bank; to hold office\nduring pleasure, in the place of Thomas A. Bernes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0007",
   "htmlHash": "e4ffd15d4f713cb614351750c82e740c",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-01-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JAMES A.J. JUDD, as Alternate Governor of the\nInter-American Development Bank; Alternate Governor of the Asian\nDevelopment Bank; Alternate Governor of the Caribbean Development Bank;\nand Alternate Governor of the African Development Bank; to hold office\nduring pleasure, in the place of Thomas A. Bernes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

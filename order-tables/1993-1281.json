@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1281</td><td>1993-06-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Donald V. Stirling, of Aurora, Ontario, as a part-time\nmember of the National Parole Board, Ontario Regional Division, to hold\noffice during good behaviour for a period of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1281",
   "htmlHash": "5533500a867aa1fcd8d025d37b48b7a4",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , SGC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Donald V. Stirling, of Aurora, Ontario, as a part-time\nmember of the National Parole Board, Ontario Regional Division, to hold\noffice during good behaviour for a period of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

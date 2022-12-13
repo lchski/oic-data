@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0105</td><td>1993-01-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing Canadian Pacific Limited and the Ontario and Quebec\nRailway Company to sell, assign, transfer or otherwise dispose of the\nproperty associated with and surrounding the site of WINDSOR STATION, a\ndesignated heritage railway station situated in downtown Montreal, Quebec,\nand to restore, renovate or rehabilitate the railway station in connection\nwith the New Montreal Forum Project.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0105",
   "htmlHash": "6c702be3cfb6f97cc721c3bdeb177637",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-01-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing Canadian Pacific Limited and the Ontario and Quebec\nRailway Company to sell, assign, transfer or otherwise dispose of the\nproperty associated with and surrounding the site of WINDSOR STATION, a\ndesignated heritage railway station situated in downtown Montreal, Quebec,\nand to restore, renovate or rehabilitate the railway station in connection\nwith the New Montreal Forum Project.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

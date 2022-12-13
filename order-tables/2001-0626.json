@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0626</td><td>2001-04-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of BASIL SKODYN, of Kelowna, British Columbia, as the Returning\nOfficer for the electoral district of Kelowna, as established in the\nRepresentation Order proclaimed on January 8, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0626",
   "htmlHash": "b665c63021118187c7d3a177c81024e8",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-04-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , LGC",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of BASIL SKODYN, of Kelowna, British Columbia, as the Returning\nOfficer for the electoral district of Kelowna, as established in the\nRepresentation Order proclaimed on January 8, 1996.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0801</td><td>1996-05-28</td><td>0</td><td></td><td>,&nbsp; COM,&nbsp; ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appropriation, for the purposes of THE NATIONAL BATTLEFIELDS COMMISSION, of\nsome 7,235 square metres of land situated next to the Plains of Abraham in\nQuébec City, together with the HMCS Montcalm Building at 835 Laurier Ave.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0801",
   "htmlHash": "7cf9aa9663f7a25a4c48c6048d2aba51",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", COM, ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appropriation, for the purposes of THE NATIONAL BATTLEFIELDS COMMISSION, of\nsome 7,235 square metres of land situated next to the Plains of Abraham in\nQuébec City, together with the HMCS Montcalm Building at 835 Laurier Ave.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0620</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS which\nestablish the initial \"sums certain\" to be paid for the base grade of\nAMBER DURUM WHEAT delivered in the 1996-97 crop year, effective April 28,\n1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0223  <strong>Publication Date:</strong> 1997-05-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0620",
   "htmlHash": "b748aa01ed3e65310045883a58dd076e",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS which\nestablish the initial \"sums certain\" to be paid for the base grade of\nAMBER DURUM WHEAT delivered in the 1996-97 crop year, effective April 28,\n1997.\n",
+  "registration": "Registration: SOR/ 1997-0223  Publication Date: 1997-05-14",
+  "registration_type": "SOR",
+  "registration_id": "1997-0223",
+  "registration_publication_date": "1997-05-14"
 }

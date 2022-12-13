@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2042</td><td>1998-11-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of THE JACQUES-CARTIER AND CHAMPLAIN BRIDGES INC. REGULATIONS\nwhich provide that subsection 3(2) and sections 4, 9, 16, 17, 22, 24 and 25\nof the St. Lawrence Seaway Authority Act, as it read on November 30, 1998,\nshall apply, in a modified form, to these bridge companies, effective\nDecember 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0568  <strong>Publication Date:</strong> 1998-12-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2042",
   "htmlHash": "40b91fbcc96f3492b63304a5050a66a6",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of THE JACQUES-CARTIER AND CHAMPLAIN BRIDGES INC. REGULATIONS\nwhich provide that subsection 3(2) and sections 4, 9, 16, 17, 22, 24 and 25\nof the St. Lawrence Seaway Authority Act, as it read on November 30, 1998,\nshall apply, in a modified form, to these bridge companies, effective\nDecember 1, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0568  Publication Date: 1998-12-09",
+  "registration_type": "SOR",
+  "registration_id": "1998-0568",
+  "registration_publication_date": "1998-12-09"
 }

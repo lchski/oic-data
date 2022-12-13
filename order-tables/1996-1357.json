@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1357</td><td>1996-08-28</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to adjust its accounts as of\nMarch 31, 1996, by transferring the remaining balances in the 1988/89 pool\naccount for WHEAT and in the 1985/86, 1986/87, 1987/88 and 1988/89 pool\naccount for AMBER DURUM WHEAT, to a separate account.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1357",
   "htmlHash": "27c3e70b6e6b056232d5de8024c10933",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGRI-FOOD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for THE CANADIAN WHEAT BOARD to adjust its accounts as of\nMarch 31, 1996, by transferring the remaining balances in the 1988/89 pool\naccount for WHEAT and in the 1985/86, 1986/87, 1987/88 and 1988/89 pool\naccount for AMBER DURUM WHEAT, to a separate account.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

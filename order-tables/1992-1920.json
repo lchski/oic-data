@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1920</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Commissioner of the Northwest\nTerritories of the administration and control over Lots 571-1 and 571-2 in\nthe Town of Iqaluit, N.W.T., which together contain a total area of some\n0.25 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1920",
   "htmlHash": "7532435167a3c9419bf437c1bec4be37",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the transfer from the Commissioner of the Northwest\nTerritories of the administration and control over Lots 571-1 and 571-2 in\nthe Town of Iqaluit, N.W.T., which together contain a total area of some\n0.25 hectares.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

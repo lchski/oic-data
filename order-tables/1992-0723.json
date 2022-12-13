@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0723</td><td>1992-04-09</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order varying the \"letter decision\" issued by the NATIONAL TRANSPORTATION\nAGENCY on February 14, 1992 to accept the Canadian National Railway\nCompany's request for the continuation of its branch line subsidies for\nthe continued operation of an uneconomic portion of the TASCHEREAU\nSUBDIVISION that was originally targeted for abandonment.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0723",
   "htmlHash": "7922f232f4aa9a7e790b5e6ca65e30b8",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order varying the \"letter decision\" issued by the NATIONAL TRANSPORTATION\nAGENCY on February 14, 1992 to accept the Canadian National Railway\nCompany's request for the continuation of its branch line subsidies for\nthe continued operation of an uneconomic portion of the TASCHEREAU\nSUBDIVISION that was originally targeted for abandonment.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

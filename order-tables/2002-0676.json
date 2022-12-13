@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0676</td><td>2002-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the DESIGNER REMISSION ORDER, 2001 by widening the range\nof fabrics covered by the definitions \"apparel\" and \"fabric\", by defining\nthe term \"limited quantities\", and by renumbering references to the tariff\nprovisions in Chapter 60 of the Customs Tariff.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0169  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0676",
   "htmlHash": "f3a748f856d892dcdfb61a2feb03aa86",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the DESIGNER REMISSION ORDER, 2001 by widening the range\nof fabrics covered by the definitions \"apparel\" and \"fabric\", by defining\nthe term \"limited quantities\", and by renumbering references to the tariff\nprovisions in Chapter 60 of the Customs Tariff.\n",
+  "registration": "Registration: SOR/ 2002-0169  Publication Date: 2002-05-08",
+  "registration_type": "SOR",
+  "registration_id": "2002-0169",
+  "registration_publication_date": "2002-05-08"
 }

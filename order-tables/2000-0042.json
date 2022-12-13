@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0042</td><td>2000-01-12</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of six Variation Orders made by the NATIONAL ENERGY BOARD which\napprove a change in name of the authorized holder of Gas Export Licences\nGL-258, GL-268, GL-277, GL-278, GL-279 and GL-293 from Enron Capital &amp;\nTrade Resources Corp. to ENRON NORTH AMERICA CORP.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0042",
   "htmlHash": "e1705b108e6c67326b816dac626be652",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-01-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of six Variation Orders made by the NATIONAL ENERGY BOARD which\napprove a change in name of the authorized holder of Gas Export Licences\nGL-258, GL-268, GL-277, GL-278, GL-279 and GL-293 from Enron Capital &\nTrade Resources Corp. to ENRON NORTH AMERICA CORP.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

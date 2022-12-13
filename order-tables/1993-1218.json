@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1218</td><td>1993-06-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the BOATING RESTRICTION REGULATIONS relating to boats, modes\nof propulsion, engine power limits, speed limits, water-skiing and\nregattas as requested by the Provinces of British Columbia, Saskatchewan,\nOntario, and Quebec.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0308  <strong>Publication Date:</strong> 1993-06-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1218",
   "htmlHash": "82d8eb0f4f64ee2a34e763aacafb0728",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the BOATING RESTRICTION REGULATIONS relating to boats, modes\nof propulsion, engine power limits, speed limits, water-skiing and\nregattas as requested by the Provinces of British Columbia, Saskatchewan,\nOntario, and Quebec.\n",
+  "registration": "Registration: SOR/ 1993-0308  Publication Date: 1993-06-30",
+  "registration_type": "SOR",
+  "registration_id": "1993-0308",
+  "registration_publication_date": "1993-06-30"
 }

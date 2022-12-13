@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1264</td><td>1998-07-15</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the FACSIMILE MODEM REMISSION ORDER which provides for the\nremission of customs duties paid or payable on facsimile modems (Tariff\nItem No. 8517.50.10) imported in the 1996 calendar year.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0390  <strong>Publication Date:</strong> 1998-08-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1264",
   "htmlHash": "d9e57ddc267151ec24ccdf80fe22fd9c",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the FACSIMILE MODEM REMISSION ORDER which provides for the\nremission of customs duties paid or payable on facsimile modems (Tariff\nItem No. 8517.50.10) imported in the 1996 calendar year.\n",
+  "registration": "Registration: SOR/ 1998-0390  Publication Date: 1998-08-05",
+  "registration_type": "SOR",
+  "registration_id": "1998-0390",
+  "registration_publication_date": "1998-08-05"
 }

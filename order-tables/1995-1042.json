@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1042</td><td>1995-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION whereby the ISKUT BAND surrenders, for a term\nof 25 years, some 0.763 hectares of land on ISKUT INDIAN RESERVE No. 6 in\nBritish Columbia, for leasing purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1042",
   "htmlHash": "f08f09f2c2ac77e6e79ddd3d148248df",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION whereby the ISKUT BAND surrenders, for a term\nof 25 years, some 0.763 hectares of land on ISKUT INDIAN RESERVE No. 6 in\nBritish Columbia, for leasing purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

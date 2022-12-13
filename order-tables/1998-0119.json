@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0119</td><td>1998-02-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of F. RONALD LIPSETT, of Annan, Ontario, as Chairpersosn of\nthe Boards of Referees for the Ontario Regional Division, and particularly\nfor the District of Owen Sound, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0119",
   "htmlHash": "e0737537c4b01ee2c1de5e94cb7ec543",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HRD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of F. RONALD LIPSETT, of Annan, Ontario, as Chairpersosn of\nthe Boards of Referees for the Ontario Regional Division, and particularly\nfor the District of Owen Sound, for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0031</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of REGULATIONS AMENDING THE CARRIERS INFORMATION REGULATIONS which\nempower the Department of Transport to collect financial and statistical\ninformation and data on traffic volumes from different segments of the\ntransportation sector, such as airport management authorities, air\nnavigation services and deep waterway undertakings.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0092  <strong>Publication Date:</strong> 1997-01-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0031",
   "htmlHash": "1e45b7685eef945dd3370c48e38ad41d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-01-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of REGULATIONS AMENDING THE CARRIERS INFORMATION REGULATIONS which\nempower the Department of Transport to collect financial and statistical\ninformation and data on traffic volumes from different segments of the\ntransportation sector, such as airport management authorities, air\nnavigation services and deep waterway undertakings.\n",
+  "registration": "Registration: SOR/ 1997-0092  Publication Date: 1997-01-22",
+  "registration_type": "SOR",
+  "registration_id": "1997-0092",
+  "registration_publication_date": "1997-01-22"
 }

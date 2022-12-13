@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2118</td><td>1992-09-18</td><td>0</td><td></td><td>EC,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of a number of debts owed by the Sunshine Village Corporation, of\nBanff, Alberta, in return for its assuming all responsibility for avalanche\ncontrol within the Sunshine ski area in Banff National Park.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0009  <strong>Publication Date:</strong> 1993-01-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2118",
   "htmlHash": "ef492f93e178fb8a96af8326022958c2",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-09-18",
+  "chapter": "0",
+  "bill": "",
+  "department": "EC, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of a number of debts owed by the Sunshine Village Corporation, of\nBanff, Alberta, in return for its assuming all responsibility for avalanche\ncontrol within the Sunshine ski area in Banff National Park.\n",
+  "registration": "Registration: SI / 1993-0009  Publication Date: 1993-01-27",
+  "registration_type": "SI",
+  "registration_id": "1993-0009",
+  "registration_publication_date": "1993-01-27"
 }

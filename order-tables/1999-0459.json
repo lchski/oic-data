@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0459</td><td>1999-03-18</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (1999, No. 1, WHITE RIVER FIRST NATION, Y.T.) - which\n(a) prohibits staking mineral claims or prospecting for precious minerals\non lands which may be required for the settlement of Aboriginal land\nclaims, and (b) repeals the Prohibition Order made by Order in Council\nP.C. 1996-1846.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0138  <strong>Publication Date:</strong> 1999-03-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0459",
   "htmlHash": "ef030afb9f288f18fa2a3d826588f573",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (1999, No. 1, WHITE RIVER FIRST NATION, Y.T.) - which\n(a) prohibits staking mineral claims or prospecting for precious minerals\non lands which may be required for the settlement of Aboriginal land\nclaims, and (b) repeals the Prohibition Order made by Order in Council\nP.C. 1996-1846.\n",
+  "registration": "Registration: SOR/ 1999-0138  Publication Date: 1999-03-31",
+  "registration_type": "SOR",
+  "registration_id": "1999-0138",
+  "registration_publication_date": "1999-03-31"
 }

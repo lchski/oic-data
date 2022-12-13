@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1788</td><td>1996-11-26</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Repeal of the NATIONAL PARKS FOREST TELEPHONE REGULATIONS since park\ntelephone systems have either become the property of Bell Canada or no\nlonger exist.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0514  <strong>Publication Date:</strong> 1996-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1788",
   "htmlHash": "6a863fd947a9500c39b81cef688606e3",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Repeal of the NATIONAL PARKS FOREST TELEPHONE REGULATIONS since park\ntelephone systems have either become the property of Bell Canada or no\nlonger exist.\n",
+  "registration": "Registration: SOR/ 1996-0514  Publication Date: 1996-12-11",
+  "registration_type": "SOR",
+  "registration_id": "1996-0514",
+  "registration_publication_date": "1996-12-11"
 }

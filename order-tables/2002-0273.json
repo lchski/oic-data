@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0273</td><td>2002-02-28</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the INDEX-LINKED DEPOSITS INTEREST DISCLOSURE REGULATIONS\nwhich specify the kind of information that must be provided to consumers\nwho purchase, either in person or over the telephone, index-linked deposit\nproducts, as well as in the advertising of those products.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0102  <strong>Publication Date:</strong> 2002-03-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0273",
   "htmlHash": "accf454bbd4bf6faaaa8b7f15b2b288f",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-02-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the INDEX-LINKED DEPOSITS INTEREST DISCLOSURE REGULATIONS\nwhich specify the kind of information that must be provided to consumers\nwho purchase, either in person or over the telephone, index-linked deposit\nproducts, as well as in the advertising of those products.\n",
+  "registration": "Registration: SOR/ 2002-0102  Publication Date: 2002-03-13",
+  "registration_type": "SOR",
+  "registration_id": "2002-0102",
+  "registration_publication_date": "2002-03-13"
 }

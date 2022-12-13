@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1338</td><td>2001-07-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Industry of\nROBERT (BOB) McLEOD, of Yellowknife, Northwest Territories, as a director\nof the Board of Directors of the Canadian Tourism Commission to hold\noffice during pleasure for a term of three years, in the place of\nRobert Fessenden, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1338",
   "htmlHash": "70058d06d3c52a179fbfb412ef8a90c8",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-07-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Industry of\nROBERT (BOB) McLEOD, of Yellowknife, Northwest Territories, as a director\nof the Board of Directors of the Canadian Tourism Commission to hold\noffice during pleasure for a term of three years, in the place of\nRobert Fessenden, whose term has expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

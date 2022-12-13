@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0926</td><td>2001-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARYANTONETT FLUMIAN, of Ottawa, Ontario, as Associate\nDeputy Minister of Human Resources Development, to hold office during\npleasure and as a commissioner of the Canada Employment Insurance\nCommission, who shall be the Vice-Chairperson of the Commission;\neffective July 3, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0926",
   "htmlHash": "12ded8b2ee3b28a9c3c405a5e75e7385",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , HRD, PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MARYANTONETT FLUMIAN, of Ottawa, Ontario, as Associate\nDeputy Minister of Human Resources Development, to hold office during\npleasure and as a commissioner of the Canada Employment Insurance\nCommission, who shall be the Vice-Chairperson of the Commission;\neffective July 3, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0811</td><td>1996-06-04</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to NEW YORK CITY made by JOHN CANNIS and\nJOSEPH COMUZZI, Members of Parliament, from April 30 to May 3, 1996, in\norder to attend the High-Level Meeting of the United Nations Commission\non Sustainable Development.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0811",
   "htmlHash": "dec1400d18a4852d06b9aa37871edc8b",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-06-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to NEW YORK CITY made by JOHN CANNIS and\nJOSEPH COMUZZI, Members of Parliament, from April 30 to May 3, 1996, in\norder to attend the High-Level Meeting of the United Nations Commission\non Sustainable Development.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1164</td><td>1999-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the DISCLOSURE OF CHARGES (AUTHORIZED FOREIGN BANKS)\nREGULATIONS which will subject foreign banks to the same rules currently\napplied to Canadian chartered banks.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0278  <strong>Publication Date:</strong> 1999-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1164",
   "htmlHash": "ce1ca9129305b0d227f2f05dfb178d49",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the DISCLOSURE OF CHARGES (AUTHORIZED FOREIGN BANKS)\nREGULATIONS which will subject foreign banks to the same rules currently\napplied to Canadian chartered banks.\n",
+  "registration": "Registration: SOR/ 1999-0278  Publication Date: 1999-07-07",
+  "registration_type": "SOR",
+  "registration_id": "1999-0278",
+  "registration_publication_date": "1999-07-07"
 }

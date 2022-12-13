@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0044</td><td>1999-01-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PWGS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue authorizing the minting of a\n$350 PURE GOLD COIN featuring an image of the Lady's Slipper, the official\nfloral emblem of Prince Edward Island, designed by Henry Purdy.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0087  <strong>Publication Date:</strong> 1999-03-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0044",
   "htmlHash": "b08948abb9794bae03f117afa1849193",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PWGS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue authorizing the minting of a\n$350 PURE GOLD COIN featuring an image of the Lady's Slipper, the official\nfloral emblem of Prince Edward Island, designed by Henry Purdy.\n",
+  "registration": "Registration: SOR/ 1999-0087  Publication Date: 1999-03-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0087",
+  "registration_publication_date": "1999-03-03"
 }

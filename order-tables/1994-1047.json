@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1047</td><td>1994-06-21</td><td>0</td><td></td><td>ISTC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Andrew E. Fenus, of Nepean, Ontario, as a full-time member\nof the Copyright Board to hold office duirng good behaviour for a term of\nfive years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1047",
   "htmlHash": "96d072cceaeb939a2de5d409d5ecc7d7",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "ISTC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Andrew E. Fenus, of Nepean, Ontario, as a full-time member\nof the Copyright Board to hold office duirng good behaviour for a term of\nfive years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

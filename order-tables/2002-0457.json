@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0457</td><td>2002-03-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MARY LOUISE BERNARD, of Wagmatcook Reserve, Cape Breton,\nNova Scotia, INDIRA V. SAMARASEKERA, of Vancouver, British Columbia, and\nJUDITH A. WHITTICK, of St. John's, Newfoundland and Labrador, as members\nof the Canada Foundation for Sustainable Development Technology, to hold\noffice during good behaviour for a term of five years, effective\nMarch 22, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0457",
   "htmlHash": "fe2baca747c64606bad8cd33f6a326bb",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-03-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , RESOURCES",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MARY LOUISE BERNARD, of Wagmatcook Reserve, Cape Breton,\nNova Scotia, INDIRA V. SAMARASEKERA, of Vancouver, British Columbia, and\nJUDITH A. WHITTICK, of St. John's, Newfoundland and Labrador, as members\nof the Canada Foundation for Sustainable Development Technology, to hold\noffice during good behaviour for a term of five years, effective\nMarch 22, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

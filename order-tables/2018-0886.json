@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2018-0886</td><td>2018-06-22</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INAC</td></tr><tr><td>Subject</td><td colspan=\"5\">Kahnawake Indian Reserve No. 14, Quebec ** Addition **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Setting apart 70.09 hectares (173.19 acres), excluding mines and minerals, for the use and benefit of the Mohawks of Kahnawà:ke Band as an addition to KAHNAWAKE INDIAN RESERVE NO. 14 in Quebec.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2018-0886",
   "htmlHash": "2516062cab4982d8ad26b23fd61a5a5f",
-  "attachments": []
+  "attachments": [],
+  "date": "2018-06-22",
+  "chapter": "",
+  "bill": "",
+  "department": ", , , , INAC",
+  "act": "",
+  "subject": "Kahnawake Indian Reserve No. 14, Quebec ** Addition **",
+  "precis": "Order Setting apart 70.09 hectares (173.19 acres), excluding mines and minerals, for the use and benefit of the Mohawks of Kahnawà:ke Band as an addition to KAHNAWAKE INDIAN RESERVE NO. 14 in Quebec.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

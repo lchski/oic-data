@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0212</td><td>1996-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1996, NO. 1 - which\nprohibits the staking of mineral claims on certain parcels of lands\nsituated along the KLONDIKE VALLEY, near Dawson City, in the Yukon\nTerritory.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0126  <strong>Publication Date:</strong> 1996-03-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0212",
   "htmlHash": "329db98b8c6bbaa30b7c3e6a4fe0ea82",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1996, NO. 1 - which\nprohibits the staking of mineral claims on certain parcels of lands\nsituated along the KLONDIKE VALLEY, near Dawson City, in the Yukon\nTerritory.\n",
+  "registration": "Registration: SOR/ 1996-0126  Publication Date: 1996-03-06",
+  "registration_type": "SOR",
+  "registration_id": "1996-0126",
+  "registration_publication_date": "1996-03-06"
 }

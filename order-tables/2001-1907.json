@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1907</td><td>2001-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the SEABIRD ISLAND BAND surrenders, for\nan indefinite term, a strip of land running across Seabird Island Indian\nReserve in British Columbia, for the purpose of granting a right-of-way to\nthe Canadian Pacific Railway Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1907",
   "htmlHash": "99a78e91fdcbc2ab22bdc6b5786cb9e3",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the SEABIRD ISLAND BAND surrenders, for\nan indefinite term, a strip of land running across Seabird Island Indian\nReserve in British Columbia, for the purpose of granting a right-of-way to\nthe Canadian Pacific Railway Company.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

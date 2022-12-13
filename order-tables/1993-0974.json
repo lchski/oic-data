@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0974</td><td>1993-05-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of George MacLaren, of Westmount, Quebec, as a member of the\nBoard of Trustees of the National Arts Centre Corporation for a term of\nthree years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0974",
   "htmlHash": "c940c86492a2cad1a97036e5ffc28b79",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of George MacLaren, of Westmount, Quebec, as a member of the\nBoard of Trustees of the National Arts Centre Corporation for a term of\nthree years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

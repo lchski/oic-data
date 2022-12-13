@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1821</td><td>1990-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">IDENTIFICATION OF AIRCRAFT AND OTHER AERONAUTICAL PRODUCTS REGULATIONS\nrequiring that a fireproof identification plate bearing information\nregarding an aircraft's manufacture be affixed to the aircraft.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0590  <strong>Publication Date:</strong> 1990-09-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1821",
   "htmlHash": "8e21fc99b53f59814ba983adb1f43ef6",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "IDENTIFICATION OF AIRCRAFT AND OTHER AERONAUTICAL PRODUCTS REGULATIONS\nrequiring that a fireproof identification plate bearing information\nregarding an aircraft's manufacture be affixed to the aircraft.\n",
+  "registration": "Registration: SOR/ 1990-0590  Publication Date: 1990-09-12",
+  "registration_type": "SOR",
+  "registration_id": "1990-0590",
+  "registration_publication_date": "1990-09-12"
 }

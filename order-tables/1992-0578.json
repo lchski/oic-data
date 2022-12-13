@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0578</td><td>1992-03-26</td><td>0</td><td></td><td>NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of income tax, penalties, debts and corresponding interest\npayable by Mr. MILLARD KYLER and Mrs. FREDA KYLER in respect of the 1979,\n1980 and 1983 taxation years.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0059  <strong>Publication Date:</strong> 1992-04-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0578",
   "htmlHash": "7c503591d7230ec73806760fb9713d0d",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, TB, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of income tax, penalties, debts and corresponding interest\npayable by Mr. MILLARD KYLER and Mrs. FREDA KYLER in respect of the 1979,\n1980 and 1983 taxation years.\n",
+  "registration": "Registration: SI / 1992-0059  Publication Date: 1992-04-08",
+  "registration_type": "SI",
+  "registration_id": "1992-0059",
+  "registration_publication_date": "1992-04-08"
 }

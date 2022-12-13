@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0216</td><td>1992-02-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to enter into a \"SETTLEMENT AGREEMENT\" with the\nKAHKEWISTAHAW BAND OF INDIANS of Saskatchewan which is designed to resolve\nspecific claims pertaining to the setting apart of fishing grounds on its\nReserve No. 72A, this reserve having been set aside in 1889 by Order in\nCouncil P.C. 1151, and (b) to accept an INSTRUMENT OF SURRENDER within the\ncontext of this settlement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0216",
   "htmlHash": "d5f5eaca05cf6436bbc81e2430a604d0",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority (a) to enter into a \"SETTLEMENT AGREEMENT\" with the\nKAHKEWISTAHAW BAND OF INDIANS of Saskatchewan which is designed to resolve\nspecific claims pertaining to the setting apart of fishing grounds on its\nReserve No. 72A, this reserve having been set aside in 1889 by Order in\nCouncil P.C. 1151, and (b) to accept an INSTRUMENT OF SURRENDER within the\ncontext of this settlement.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

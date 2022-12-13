@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0482</td><td>1999-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CLAUDE BAILLARGEON as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Central African Republic and the\nRepublic of Chad, with residence in Yaoundé; JAMES K. BARTLEMAN as High\nCommissioner for Canada to the Kingdom of Lesotho and the Kingdom of\nSwaziland, with residence in Pretoria; DENIS BRIAND as High Commissioner\nfor Canada to the Republic of Sierra Leone, with residence in Conakry;\nGERALD K. CAMPBELL as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Rwandese Republic, and the Republic of Burundi, with\nresidence in Nairobi; JANET GRAHAM as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Republic of Benin, with residence in\nAccra; JEREMY KINSMAN as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Republic of Albania, with residence in Rome;\nCLAUDE LAVERDURE as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Grand Duchy of Luxembourg, with residence in Brussels;\nJOHN NOBLE as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe Principality of Liechtenstein, with residence in Berne; and\nJOHN SCHRAM as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe Republic of Djibouti, and to Eritrea, with residence in Addis Ababa.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0482",
   "htmlHash": "168e00c0546346827bf919ab5bbd7f9d",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FAIT, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CLAUDE BAILLARGEON as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Central African Republic and the\nRepublic of Chad, with residence in Yaoundé; JAMES K. BARTLEMAN as High\nCommissioner for Canada to the Kingdom of Lesotho and the Kingdom of\nSwaziland, with residence in Pretoria; DENIS BRIAND as High Commissioner\nfor Canada to the Republic of Sierra Leone, with residence in Conakry;\nGERALD K. CAMPBELL as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Rwandese Republic, and the Republic of Burundi, with\nresidence in Nairobi; JANET GRAHAM as Ambassador Extraordinary and\nPlenipotentiary of Canada to the Republic of Benin, with residence in\nAccra; JEREMY KINSMAN as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Republic of Albania, with residence in Rome;\nCLAUDE LAVERDURE as Ambassador Extraordinary and Plenipotentiary of\nCanada to the Grand Duchy of Luxembourg, with residence in Brussels;\nJOHN NOBLE as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe Principality of Liechtenstein, with residence in Berne; and\nJOHN SCHRAM as Ambassador Extraordinary and Plenipotentiary of Canada to\nthe Republic of Djibouti, and to Eritrea, with residence in Addis Ababa.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

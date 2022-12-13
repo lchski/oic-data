@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0349</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; EC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the EXPORT CONTROL LIST NOTIFICATION REGULATIONS which specify\nthe kind of information and the time frame within which it must be provided\nto the Minister of the Environment by those who export any substance that\nappears on the Export Control List set out in Schedule 3 to the Act,\neffective March 31, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0108  <strong>Publication Date:</strong> 2000-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0349",
   "htmlHash": "2e670366d01338394ffd19d22acb7496",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HEALTH, EC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the EXPORT CONTROL LIST NOTIFICATION REGULATIONS which specify\nthe kind of information and the time frame within which it must be provided\nto the Minister of the Environment by those who export any substance that\nappears on the Export Control List set out in Schedule 3 to the Act,\neffective March 31, 2000.\n",
+  "registration": "Registration: SOR/ 2000-0108  Publication Date: 2000-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2000-0108",
+  "registration_publication_date": "2000-03-29"
 }

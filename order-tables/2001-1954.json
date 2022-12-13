@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1954</td><td>2001-10-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1230 - CYMOXANIL) by\nsetting maximum limits on residues (MRLs) of this fungicide that may be\npresent on or in a variety of foods.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0458  <strong>Publication Date:</strong> 2001-11-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1954",
   "htmlHash": "a2bc9d6ee7fa855cc5d728b7a37db2a7",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HEALTH, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (1230 - CYMOXANIL) by\nsetting maximum limits on residues (MRLs) of this fungicide that may be\npresent on or in a variety of foods.\n",
+  "registration": "Registration: SOR/ 2001-0458  Publication Date: 2001-11-07",
+  "registration_type": "SOR",
+  "registration_id": "2001-0458",
+  "registration_publication_date": "2001-11-07"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1550</td><td>1993-07-21</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GOVERNMENT EMPLOYEES LAND ACQUISITION ORDER, 1993, NO. 4 authorizing\nJohn Michael Demko, an employee of the Department of Transport, to acquire\nan interest in territorial lands in the Northwest Territories.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0397  <strong>Publication Date:</strong> 1993-08-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1550",
   "htmlHash": "34b45aebb5a5022d575adc6bf07c930f",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-07-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "GOVERNMENT EMPLOYEES LAND ACQUISITION ORDER, 1993, NO. 4 authorizing\nJohn Michael Demko, an employee of the Department of Transport, to acquire\nan interest in territorial lands in the Northwest Territories.\n",
+  "registration": "Registration: SOR/ 1993-0397  Publication Date: 1993-08-11",
+  "registration_type": "SOR",
+  "registration_id": "1993-0397",
+  "registration_publication_date": "1993-08-11"
 }

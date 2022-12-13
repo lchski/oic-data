@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0372</td><td>1994-03-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the INCOME TAX REGULATIONS which set forth the manner in\nwhich employers shall determine how much income tax should be deducted from\ntheir employees' earnings, as of January 1, 1993.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0238  <strong>Publication Date:</strong> 1994-03-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0372",
   "htmlHash": "90e094e76e9f20223a6fee253fd77bec",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-03-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the INCOME TAX REGULATIONS which set forth the manner in\nwhich employers shall determine how much income tax should be deducted from\ntheir employees' earnings, as of January 1, 1993.\n",
+  "registration": "Registration: SOR/ 1994-0238  Publication Date: 1994-03-23",
+  "registration_type": "SOR",
+  "registration_id": "1994-0238",
+  "registration_publication_date": "1994-03-23"
 }

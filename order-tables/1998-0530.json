@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0530</td><td>1998-03-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of HERVÉ H. DUROCHER, of Edmonton, Alberta, as a member of\nthe Human Rights Tribunal Panel to hold office during good behaviour for\na term ending June 30, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0530",
   "htmlHash": "4634afa1d4bd7e2d39cec02d175ebd33",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of HERVÉ H. DUROCHER, of Edmonton, Alberta, as a member of\nthe Human Rights Tribunal Panel to hold office during good behaviour for\na term ending June 30, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

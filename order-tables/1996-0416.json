@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0416</td><td>1996-03-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INDUSTRY,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Industry of\nPETER JOLLYMORE, of Saint John, New Brunswick, as a director of the\nBoard of Directors of the Business Development Bank of Canada for a term\nof three years, in the place of Hugh J. (Ted) Flemming, whose term has\nexpired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0416",
   "htmlHash": "0213a6e20bcd7ed5d5de688757b7c493",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-03-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INDUSTRY, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Industry of\nPETER JOLLYMORE, of Saint John, New Brunswick, as a director of the\nBoard of Directors of the Business Development Bank of Canada for a term\nof three years, in the place of Hugh J. (Ted) Flemming, whose term has\nexpired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

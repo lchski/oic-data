@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0241</td><td>1990-02-15</td><td>0</td><td></td><td>EC,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">POLYBROMINATED BIPHENYLS REGULATIONS, 1989 respecting the prohibition of\nthe manufacture, use, processing, offering for sale, sale or import of\npolybrominated biphenyls.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0129  <strong>Publication Date:</strong> 1990-02-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0241",
   "htmlHash": "4e94d6a7dc6073b0fc6bdb18afc8ddec",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "EC, HWC, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "POLYBROMINATED BIPHENYLS REGULATIONS, 1989 respecting the prohibition of\nthe manufacture, use, processing, offering for sale, sale or import of\npolybrominated biphenyls.\n",
+  "registration": "Registration: SOR/ 1990-0129  Publication Date: 1990-02-28",
+  "registration_type": "SOR",
+  "registration_id": "1990-0129",
+  "registration_publication_date": "1990-02-28"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1291</td><td>1998-07-15</td><td>0</td><td></td><td>NR,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CERTAIN TAXPAYERS REMISSION ORDER, 1998-1 - which provides\nfor the remission of income tax payable by 15 individuals, including GST\nrefund overpayments and interest.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0086  <strong>Publication Date:</strong> 1998-08-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1291",
   "htmlHash": "17e3024ba1b8456d5e41b32713406483",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, TB, , , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the CERTAIN TAXPAYERS REMISSION ORDER, 1998-1 - which provides\nfor the remission of income tax payable by 15 individuals, including GST\nrefund overpayments and interest.\n",
+  "registration": "Registration: SI / 1998-0086  Publication Date: 1998-08-05",
+  "registration_type": "SI",
+  "registration_id": "1998-0086",
+  "registration_publication_date": "1998-08-05"
 }

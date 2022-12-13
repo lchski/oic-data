@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2354</td><td>2001-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the MOSQUITO, GRIZZLY BEAR'S HEAD,\nLEAN MAN FIRST NATION BAND surrenders, for term of 49 years, approximately\n3.3 hectares of land on Gold Eagle Indian Reserve in Saskatchewan, for\nleasing purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2354",
   "htmlHash": "6f640ebb066613e78e421456d1878a9e",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the MOSQUITO, GRIZZLY BEAR'S HEAD,\nLEAN MAN FIRST NATION BAND surrenders, for term of 49 years, approximately\n3.3 hectares of land on Gold Eagle Indian Reserve in Saskatchewan, for\nleasing purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

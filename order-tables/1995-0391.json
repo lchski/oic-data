@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0391</td><td>1995-03-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; SSC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the UNDELIVERABLE AND REDIRECTED MAIL REGULATIONS which\nincreases the rate for the return of undeliverable Second Class Mail\n(publications) from 56¢ to 58¢, effective April 1, 1995.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0142  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0391",
   "htmlHash": "296871d136e395ef8a5fe8ab163e4de1",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , SSC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the UNDELIVERABLE AND REDIRECTED MAIL REGULATIONS which\nincreases the rate for the return of undeliverable Second Class Mail\n(publications) from 56¢ to 58¢, effective April 1, 1995.\n",
+  "registration": "Registration: SOR/ 1995-0142  Publication Date: 1995-04-05",
+  "registration_type": "SOR",
+  "registration_id": "1995-0142",
+  "registration_publication_date": "1995-04-05"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1597</td><td>1991-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Commission under the Great Seal of Canada do issue\nappointing the following persons to conduct an inquiry and report upon the\nevolution of the relationship among aboriginal peoples (Indian, Inuit and\nMétis), the Canadian government and Canadian society, which inquiry shall\nbe known as the ROYAL COMMISSION ON ABORIGINAL PEOPLES.\n.\n  1. Hon./L'hon. Allan Emrys Blakeney\n  2. Paul Chartrand\n  3. Hon./L'hon René Dussault - Chairperson/président\n  4. Georges Erasmus          - Chairperson/président\n  5. Viola Robinson\n  6. Mary Sillett\n  7. Hon./L'hon. Bertha Wilson\n  8. Jean T. Fournier - Executive Director/directeur exécutif\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1597",
   "htmlHash": "51739e79ea83215483ef840666f558bc",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , PMO, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a Commission under the Great Seal of Canada do issue\nappointing the following persons to conduct an inquiry and report upon the\nevolution of the relationship among aboriginal peoples (Indian, Inuit and\nMétis), the Canadian government and Canadian society, which inquiry shall\nbe known as the ROYAL COMMISSION ON ABORIGINAL PEOPLES.\n.\n  1. Hon./L'hon. Allan Emrys Blakeney\n  2. Paul Chartrand\n  3. Hon./L'hon René Dussault - Chairperson/président\n  4. Georges Erasmus          - Chairperson/président\n  5. Viola Robinson\n  6. Mary Sillett\n  7. Hon./L'hon. Bertha Wilson\n  8. Jean T. Fournier - Executive Director/directeur exécutif\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1733</td><td>1998-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-1661 which delays the coming into\nforce of certain provisions of the Firearms Act [BILL C-68], being\nchapter 39 of the Statutes of Canada, 1995, from OCTOBER 1, 1998 to\nDECEMBER 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0095  <strong>Publication Date:</strong> 1998-09-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1733",
   "htmlHash": "a4604a0f0f461a09bde418dca3c11c52",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1998-1661 which delays the coming into\nforce of certain provisions of the Firearms Act [BILL C-68], being\nchapter 39 of the Statutes of Canada, 1995, from OCTOBER 1, 1998 to\nDECEMBER 1, 1998.\n",
+  "registration": "Registration: SI / 1998-0095  Publication Date: 1998-09-30",
+  "registration_type": "SI",
+  "registration_id": "1998-0095",
+  "registration_publication_date": "1998-09-30"
 }

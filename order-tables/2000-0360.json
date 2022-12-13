@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0360</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of amendments made by the National Energy Board (\"NEB\") to the Gas\nExport Licences (GL-277 and GL-278) held by ENRON NORTH AMERICA CORP.,\nwhich take into account a small increase in the amount of gas to be\nexported thereunder, as set forth in NEB Orders AO-2-GL-277 and\nAO-2-GL-278.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0360",
   "htmlHash": "313d599003d8992eecfa57759e41a820",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of amendments made by the National Energy Board (\"NEB\") to the Gas\nExport Licences (GL-277 and GL-278) held by ENRON NORTH AMERICA CORP.,\nwhich take into account a small increase in the amount of gas to be\nexported thereunder, as set forth in NEB Orders AO-2-GL-277 and\nAO-2-GL-278.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1512</td><td>1992-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EMR,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of certain persons as members of the Oil and Gas\nCommittee, established by Order in Council P.C. 1973-265 of February 1,\n1973, to hold office for a term of three years, and to designate\nEdward (Ted) W. Best as chairman of the Oil and Gas Committee for a term\nof three years, effective July 27, 1992.\n(Edward (Ted) W. Best, Calgary, Alberta; Laura Jean Nelson, Yellowknife,\nNorthwest Territories; Steven Malcolm Millan, St. John's, Newfoundland;\nJacques Farmer, Montreal, Quebec; and John Boyd, Calgary, Alberta)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1512",
   "htmlHash": "2c25c5e6b81efce896a325d8f42e6981",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EMR, IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of certain persons as members of the Oil and Gas\nCommittee, established by Order in Council P.C. 1973-265 of February 1,\n1973, to hold office for a term of three years, and to designate\nEdward (Ted) W. Best as chairman of the Oil and Gas Committee for a term\nof three years, effective July 27, 1992.\n(Edward (Ted) W. Best, Calgary, Alberta; Laura Jean Nelson, Yellowknife,\nNorthwest Territories; Steven Malcolm Millan, St. John's, Newfoundland;\nJacques Farmer, Montreal, Quebec; and John Boyd, Calgary, Alberta)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

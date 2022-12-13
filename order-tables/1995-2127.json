@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2127</td><td>1995-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INT'L TRADE</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to WASHINGTON, D.C., to be undertaken by\nMr. MAC HARB, Parliamentary Secretary to the Minister for International\nTrade, from January 8 to January 11, 1996, in order to represent the\nGovernment of Canada at the Fourth WEST-EAST CONFERENCE OF MINISTER of the\nECONOMY, INDUSTRY AND TRADE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2127",
   "htmlHash": "f4fa3f2b051b688b0a350fd7534d7416",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , INT'L TRADE",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to WASHINGTON, D.C., to be undertaken by\nMr. MAC HARB, Parliamentary Secretary to the Minister for International\nTrade, from January 8 to January 11, 1996, in order to represent the\nGovernment of Canada at the Fourth WEST-EAST CONFERENCE OF MINISTER of the\nECONOMY, INDUSTRY AND TRADE.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

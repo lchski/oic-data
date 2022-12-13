@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0418</td><td>1993-03-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LEAST DEVELOPED DEVELOPING COUNTRIES ORDER (CAMBODIA, LIBERIA, MADAGASCAR,\nMOZAMBIQUE, SOLOMON ISLANDS, ZAIRE AND ZAMBIA) - which designates these\ncountries as \"least developed developing countries\" and extends the benefit\nof free rates of customs duty to all goods that originate there.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0123  <strong>Publication Date:</strong> 1993-03-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0418",
   "htmlHash": "ec74dfabf32913fd6007c51244dc0887",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-03-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "LEAST DEVELOPED DEVELOPING COUNTRIES ORDER (CAMBODIA, LIBERIA, MADAGASCAR,\nMOZAMBIQUE, SOLOMON ISLANDS, ZAIRE AND ZAMBIA) - which designates these\ncountries as \"least developed developing countries\" and extends the benefit\nof free rates of customs duty to all goods that originate there.\n",
+  "registration": "Registration: SOR/ 1993-0123  Publication Date: 1993-03-24",
+  "registration_type": "SOR",
+  "registration_id": "1993-0123",
+  "registration_publication_date": "1993-03-24"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1006</td><td>1999-06-03</td><td>0</td><td></td><td>FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (a) the PRIME MINISTER or the Minister of Foreign Affairs\nto sign a TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS between\nCanada and JAMAICA, or (b) the Minister of Foreign Affairs to issue an\nInstrument of Full Powers authorizing other representatives to sign the\nTreaty on behalf of Canada.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1006",
   "htmlHash": "01a0cae30c11930694a103203f62bd8b",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing (a) the PRIME MINISTER or the Minister of Foreign Affairs\nto sign a TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS between\nCanada and JAMAICA, or (b) the Minister of Foreign Affairs to issue an\nInstrument of Full Powers authorizing other representatives to sign the\nTreaty on behalf of Canada.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

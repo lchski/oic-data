@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2208</td><td>1995-12-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs (a) to sign an AGREEMENT ON\nAUDIO-VISUAL CO-PRODUCTION between Canada and the Republic of VENEZUELA, or\n(b) to issue an Instrument of Full Powers authorizing either the\nHon. Michel Dupuy, Suzanne Hurtubise, Ambassador Yves Gagnon or Pierre\nGiroux, Counsellor and Consul, to sign it instead.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2208",
   "htmlHash": "c67cf348c2817b0db7c9fbd9620cdf7b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister of Foreign Affairs (a) to sign an AGREEMENT ON\nAUDIO-VISUAL CO-PRODUCTION between Canada and the Republic of VENEZUELA, or\n(b) to issue an Instrument of Full Powers authorizing either the\nHon. Michel Dupuy, Suzanne Hurtubise, Ambassador Yves Gagnon or Pierre\nGiroux, Counsellor and Consul, to sign it instead.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

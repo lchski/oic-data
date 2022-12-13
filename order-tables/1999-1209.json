@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1209</td><td>1999-06-23</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 14.47 hectares of land situated in Manitoba, mines\nand minerals included, for the use and benefit of the SPLIT LAKE CREE\nFIRST NATION BAND as an addition to Split Lake Indian Reserve No. 171.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1209",
   "htmlHash": "3ba1bf52ffc6d772a1e6e5c8b6b69d51",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of some 14.47 hectares of land situated in Manitoba, mines\nand minerals included, for the use and benefit of the SPLIT LAKE CREE\nFIRST NATION BAND as an addition to Split Lake Indian Reserve No. 171.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

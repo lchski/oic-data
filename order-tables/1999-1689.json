@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1689</td><td>1999-09-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of some 192 hectares of land in Saskatchewan, mines and\nminerals included, for the use and benefit of the CARRY THE KETTLE BAND\nas Carry The Kettle Nakota First Nation Indian Reserve No. 76-1, together\nwith the mineral rights associated with another 0.93 hectares.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1689",
   "htmlHash": "6bc4c00cb0ff503954a56efce954c89e",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of some 192 hectares of land in Saskatchewan, mines and\nminerals included, for the use and benefit of the CARRY THE KETTLE BAND\nas Carry The Kettle Nakota First Nation Indian Reserve No. 76-1, together\nwith the mineral rights associated with another 0.93 hectares.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

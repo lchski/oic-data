@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1242</td><td>1994-07-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EMR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of LICENCE GL-245 issued to WESTERN GAS MARKETING LIMITED by the\nNational Energy Board for the exportation of natural gas to the United\nStates from a point situated near Emerson, Manitoba.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1242",
   "htmlHash": "90ea38058873a05c263662d65b7d5c3c",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-07-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EMR",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of LICENCE GL-245 issued to WESTERN GAS MARKETING LIMITED by the\nNational Energy Board for the exportation of natural gas to the United\nStates from a point situated near Emerson, Manitoba.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

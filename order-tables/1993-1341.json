@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1341</td><td>1993-06-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of approximately 0.960 hectares of land situated at HARD LUCK\nCREEK, in furtherance of the Territorial Homestead and Squatter Policies.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1341",
   "htmlHash": "117279248ce6ac35ad43a123a8bad651",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of approximately 0.960 hectares of land situated at HARD LUCK\nCREEK, in furtherance of the Territorial Homestead and Squatter Policies.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

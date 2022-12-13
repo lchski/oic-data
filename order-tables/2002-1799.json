@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1799</td><td>2002-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1311 - PYRIDABEN) by setting a maximum limit of 0.15 ppm on residues (MRLs) of this product resulting from its use on tomatoes as a miticide.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0387  <strong>Publication Date:</strong> 2002-11-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1799",
   "htmlHash": "0da5a98fe9066df2f244a644ad6c3c86",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HEALTH",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (1311 - PYRIDABEN) by setting a maximum limit of 0.15 ppm on residues (MRLs) of this product resulting from its use on tomatoes as a miticide.\n",
+  "registration": "Registration: SOR/ 2002-0387  Publication Date: 2002-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2002-0387",
+  "registration_publication_date": "2002-11-06"
 }

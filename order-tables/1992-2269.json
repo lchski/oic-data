@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2269</td><td>1992-10-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO,&nbsp; PSC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SPECIAL APPOINTMENT REGULATIONS, No. 1992-8 respecting the appointment of\nMRS. LORETTE GOULET.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0627  <strong>Publication Date:</strong> 1992-11-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2269",
   "htmlHash": "e5516a36002aff5c47631715f7bdccf2",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-10-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , PMO, PSC, ",
+  "act": "",
+  "subject": "",
+  "precis": "SPECIAL APPOINTMENT REGULATIONS, No. 1992-8 respecting the appointment of\nMRS. LORETTE GOULET.\n",
+  "registration": "Registration: SOR/ 1992-0627  Publication Date: 1992-11-18",
+  "registration_type": "SOR",
+  "registration_id": "1992-0627",
+  "registration_publication_date": "1992-11-18"
 }

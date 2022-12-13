@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0946</td><td>1993-05-11</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the revocation of the ROAD AUTHORITY ACCOUNTS REGULATIONS,\nas ordered by the National Transportation Agency on April 29, 1993\n(NTA Order No. 1993-R-125).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0249  <strong>Publication Date:</strong> 1993-06-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0946",
   "htmlHash": "ab343f7d97c6347fb54196df32ed1b23",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the revocation of the ROAD AUTHORITY ACCOUNTS REGULATIONS,\nas ordered by the National Transportation Agency on April 29, 1993\n(NTA Order No. 1993-R-125).\n",
+  "registration": "Registration: SOR/ 1993-0249  Publication Date: 1993-06-02",
+  "registration_type": "SOR",
+  "registration_id": "1993-0249",
+  "registration_publication_date": "1993-06-02"
 }

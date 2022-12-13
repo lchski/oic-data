@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1264</td><td>1997-09-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; RESOURCES,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of GEORGE T. YATES, of Unionville, Ontario, as a member of\nthe Board of Examiners to hold office during pleasure for a period of\nthree years, effective July 29, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1264",
   "htmlHash": "fe6f6c8ffe71f97d4386464e10052e38",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-09-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , RESOURCES, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of GEORGE T. YATES, of Unionville, Ontario, as a member of\nthe Board of Examiners to hold office during pleasure for a period of\nthree years, effective July 29, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

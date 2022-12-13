@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1783</td><td>1996-11-26</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PACIFIC FISHERY REGULATIONS, 1993 which require fishers\nto pay an additional $10 per annum for their Fisher's Registration Cards,\nand increase the fees for commercial salmon licences.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0509  <strong>Publication Date:</strong> 1996-12-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1783",
   "htmlHash": "4da6c020c59805d636e9c65d127c1f55",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the PACIFIC FISHERY REGULATIONS, 1993 which require fishers\nto pay an additional $10 per annum for their Fisher's Registration Cards,\nand increase the fees for commercial salmon licences.\n",
+  "registration": "Registration: SOR/ 1996-0509  Publication Date: 1996-12-11",
+  "registration_type": "SOR",
+  "registration_id": "1996-0509",
+  "registration_publication_date": "1996-12-11"
 }

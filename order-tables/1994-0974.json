@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0974</td><td>1994-06-09</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to issue an Instrument of Full Powers authorizing either the Hon.\nSheila M. Copps, the Hon. Charles L. Caccia or Ambassador Robert E.\nPedersen to sign the PROTOCOL on the FURTHER REDUCTION OF SULPHUR EMISSIONS\nto the 1979 CONVENTION ON LONG-RANGE TRANSBOUNDARY AIR POLLUTION.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0974",
   "htmlHash": "51d7e6022cc81a29e68989b7db16100a",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EA, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to issue an Instrument of Full Powers authorizing either the Hon.\nSheila M. Copps, the Hon. Charles L. Caccia or Ambassador Robert E.\nPedersen to sign the PROTOCOL on the FURTHER REDUCTION OF SULPHUR EMISSIONS\nto the 1979 CONVENTION ON LONG-RANGE TRANSBOUNDARY AIR POLLUTION.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

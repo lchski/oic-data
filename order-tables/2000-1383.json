@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1383</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the MOTOR VEHICLES TARIFF ORDER, 1998 by removing the\nreferences to the production-to-sales ratio, effective September 17, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0342  <strong>Publication Date:</strong> 2000-09-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1383",
   "htmlHash": "d49c2823a3cb30e90834407687660dd8",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the MOTOR VEHICLES TARIFF ORDER, 1998 by removing the\nreferences to the production-to-sales ratio, effective September 17, 2000.\n",
+  "registration": "Registration: SOR/ 2000-0342  Publication Date: 2000-09-13",
+  "registration_type": "SOR",
+  "registration_id": "2000-0342",
+  "registration_publication_date": "2000-09-13"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0845</td><td>1995-05-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION whereby the GOD'S LAKE FIRST NATION BAND\nsurrenders, for an indefinite term, some 9.065 hectares of GOD'S LAKE\nINDIAN RESERVE NO. 23 in Manitoba for the purpose of granting an Easement\nto The Manitoba Hydro-Electric Board.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0845",
   "htmlHash": "20ecfc3eb9738a6d7ca1a2d97112045f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-05-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION whereby the GOD'S LAKE FIRST NATION BAND\nsurrenders, for an indefinite term, some 9.065 hectares of GOD'S LAKE\nINDIAN RESERVE NO. 23 in Manitoba for the purpose of granting an Easement\nto The Manitoba Hydro-Electric Board.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

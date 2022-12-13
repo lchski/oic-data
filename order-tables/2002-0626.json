@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0626</td><td>2002-04-17</td><td>9</td><td>2002</td><td>,&nbsp; ,&nbsp; FIN,&nbsp; HRDC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing WEDNESDAY, APRIL 17, 2002, as they day upon which sections\n12 to 18 (Part 3) of the Budget Implementation Act, 2001 [BILL C-49], being\nchapter 9 of the Statutes of Canada, 2002, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0076  <strong>Publication Date:</strong> 2002-05-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0626",
   "htmlHash": "b5aaf16d07fcc9401bfa1dd2a16c7d8f",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-17",
+  "chapter": "9",
+  "bill": "2002",
+  "department": ", , FIN, HRDC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing WEDNESDAY, APRIL 17, 2002, as they day upon which sections\n12 to 18 (Part 3) of the Budget Implementation Act, 2001 [BILL C-49], being\nchapter 9 of the Statutes of Canada, 2002, shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 2002-0076  Publication Date: 2002-05-08",
+  "registration_type": "SI",
+  "registration_id": "2002-0076",
+  "registration_publication_date": "2002-05-08"
 }

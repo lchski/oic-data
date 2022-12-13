@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0688</td><td>2001-04-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRDC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OLD AGE SECURITY REGULATIONS by including, under\nthe definition of pension income, government assistance programs set up\nunder the Department of Human Resources Development Act and other similar\nassistance programs.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0148  <strong>Publication Date:</strong> 2001-05-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0688",
   "htmlHash": "b8f3c9f7032d410574f647e40110516f",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-04-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HRDC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the OLD AGE SECURITY REGULATIONS by including, under\nthe definition of pension income, government assistance programs set up\nunder the Department of Human Resources Development Act and other similar\nassistance programs.\n",
+  "registration": "Registration: SOR/ 2001-0148  Publication Date: 2001-05-09",
+  "registration_type": "SOR",
+  "registration_id": "2001-0148",
+  "registration_publication_date": "2001-05-09"
 }

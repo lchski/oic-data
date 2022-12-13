@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1446</td><td>1999-08-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Assignment of the Hon. GILBERT NORMAND, a Minister of State to be known as\nSecretary of State (SCIENCE, RESEARCH AND DEVELOPMENT), to assist the\nMinister of Industry in the discharge of his responsibilities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0089  <strong>Publication Date:</strong> 1999-08-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1446",
   "htmlHash": "88b9768d2665bbaafdd4cd30244d640d",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-08-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Assignment of the Hon. GILBERT NORMAND, a Minister of State to be known as\nSecretary of State (SCIENCE, RESEARCH AND DEVELOPMENT), to assist the\nMinister of Industry in the discharge of his responsibilities.\n",
+  "registration": "Registration: SI / 1999-0089  Publication Date: 1999-08-18",
+  "registration_type": "SI",
+  "registration_id": "1999-0089",
+  "registration_publication_date": "1999-08-18"
 }

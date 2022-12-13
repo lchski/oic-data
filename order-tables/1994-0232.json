@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0232</td><td>1994-02-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1994, NO. 1 - prohibiting\nprospecting and mining on 388 square kilometres of land located in the\nYukon Territory (Tombstone Territorial Park Reservation), until\nDecember 31, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0171  <strong>Publication Date:</strong> 1994-02-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0232",
   "htmlHash": "60fc9921421040d196c8b2f8a4d5ab6f",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-02-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1994, NO. 1 - prohibiting\nprospecting and mining on 388 square kilometres of land located in the\nYukon Territory (Tombstone Territorial Park Reservation), until\nDecember 31, 1998.\n",
+  "registration": "Registration: SOR/ 1994-0171  Publication Date: 1994-02-23",
+  "registration_type": "SOR",
+  "registration_id": "1994-0171",
+  "registration_publication_date": "1994-02-23"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-2216</td><td>1993-12-29</td><td>0</td><td></td><td></td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members of the Immigration Appeal\nDivision of the Immigration and Refugee Board (Toronto Regional Office),\nto hold office during good behaviour, for a term of three years,\neffective January 1, 1994.\n(Ellen Turley, Toronto, Ontario; Laron Hopkins, East York, Ontario; and\nNajib Tahiri, Mississauga, Ontario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-2216",
   "htmlHash": "e5c6b5a96bc52dac4d23f5842e7a2d37",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-12-29",
+  "chapter": "0",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members of the Immigration Appeal\nDivision of the Immigration and Refugee Board (Toronto Regional Office),\nto hold office during good behaviour, for a term of three years,\neffective January 1, 1994.\n(Ellen Turley, Toronto, Ontario; Laron Hopkins, East York, Ontario; and\nNajib Tahiri, Mississauga, Ontario)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

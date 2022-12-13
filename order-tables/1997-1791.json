@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1791</td><td>1997-12-04</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY (1997-\nNo.11, RAMPART HOUSE HISTORIC SITE, Y.T.) - which prohibits the staking of\nmineral claims or prospecting for precious minerals on some 5.83 hectares\nof land situated on the Yukon-Alaska border, on a permanent basis.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0539  <strong>Publication Date:</strong> 1997-12-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1791",
   "htmlHash": "a2312434c6c6829da9e772490ccb823f",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-04",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY (1997-\nNo.11, RAMPART HOUSE HISTORIC SITE, Y.T.) - which prohibits the staking of\nmineral claims or prospecting for precious minerals on some 5.83 hectares\nof land situated on the Yukon-Alaska border, on a permanent basis.\n",
+  "registration": "Registration: SOR/ 1997-0539  Publication Date: 1997-12-24",
+  "registration_type": "SOR",
+  "registration_id": "1997-0539",
+  "registration_publication_date": "1997-12-24"
 }

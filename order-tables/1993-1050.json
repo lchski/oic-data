@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1050</td><td>1993-05-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval (a) to enter into an AGREEMENT with MAR-BRITE FOODS CO-OPERATIVE\nLTD. which provides for the implementation of a cooperative plan for the\nmarketing of JUICE APPLES produced in ONTARIO during 1992, and (b) to\nappoint PEAT MARWICK &amp; THORNE to inspect and audit the books and accounts\nof the aforementioned organization.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1050",
   "htmlHash": "87addeefdc4ce790895d760115c35006",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-05-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval (a) to enter into an AGREEMENT with MAR-BRITE FOODS CO-OPERATIVE\nLTD. which provides for the implementation of a cooperative plan for the\nmarketing of JUICE APPLES produced in ONTARIO during 1992, and (b) to\nappoint PEAT MARWICK & THORNE to inspect and audit the books and accounts\nof the aforementioned organization.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

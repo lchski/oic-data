@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1247</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CITIZENSHIP,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1993-753 of April 15, 1993 respecting\nthe appointment of MICHEL M. J. SHORE to the Immigration and Refugee Board\n(Montreal Regional Office).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1247",
   "htmlHash": "8bdd28d67e3f7d091583ac2d8f9dfe69",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , CITIZENSHIP, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1993-753 of April 15, 1993 respecting\nthe appointment of MICHEL M. J. SHORE to the Immigration and Refugee Board\n(Montreal Regional Office).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

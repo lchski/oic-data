@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0866</td><td>1999-05-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the WILDLIFE AREA REGULATIONS by revising the legal\ndescription of the lands comprising CAPE JOURIMAIN NATIONAL WILDLIFE AREA\nin New Brunswick, following the removal of some 4.9 hectares on Jourimain\nIsland, near the Confederation Bridge, and the addition of another 74.2\nhectares to the reserve.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0217  <strong>Publication Date:</strong> 1999-05-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0866",
   "htmlHash": "96c56d2a3a09792823d21a8bd36732e8",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the WILDLIFE AREA REGULATIONS by revising the legal\ndescription of the lands comprising CAPE JOURIMAIN NATIONAL WILDLIFE AREA\nin New Brunswick, following the removal of some 4.9 hectares on Jourimain\nIsland, near the Confederation Bridge, and the addition of another 74.2\nhectares to the reserve.\n",
+  "registration": "Registration: SOR/ 1999-0217  Publication Date: 1999-05-26",
+  "registration_type": "SOR",
+  "registration_id": "1999-0217",
+  "registration_publication_date": "1999-05-26"
 }

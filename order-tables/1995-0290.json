@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0290</td><td>1995-02-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be undertaken of the investment by SPORTMART\nINC. to establish a new Canadian business through Sportmart Canada Inc. and\nSportdepot Stores Inc. at Toronto, Ontario.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0290",
   "htmlHash": "3761fc696a0f3dad0dcd9eedbadae3e7",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , ISTC",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a review be undertaken of the investment by SPORTMART\nINC. to establish a new Canadian business through Sportmart Canada Inc. and\nSportdepot Stores Inc. at Toronto, Ontario.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

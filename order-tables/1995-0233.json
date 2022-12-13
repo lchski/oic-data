@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0233</td><td>1995-02-14</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PASSOVER PRODUCTS REMISSION ORDER which set a limit on\nthe total amount of Kosher margarine that may be imported free of duty at\nthe time of the Passover holiday and reclassifies it under Tariff Item No.\n1517.10.10 of Schedule I.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0025  <strong>Publication Date:</strong> 1995-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0233",
   "htmlHash": "5cf02e1dae109bb88097b85ea9dcb621",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the PASSOVER PRODUCTS REMISSION ORDER which set a limit on\nthe total amount of Kosher margarine that may be imported free of duty at\nthe time of the Passover holiday and reclassifies it under Tariff Item No.\n1517.10.10 of Schedule I.\n",
+  "registration": "Registration: SI / 1995-0025  Publication Date: 1995-03-08",
+  "registration_type": "SI",
+  "registration_id": "1995-0025",
+  "registration_publication_date": "1995-03-08"
 }

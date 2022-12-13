@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2229</td><td>2001-12-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of LÉONARD J. LeBLANC, of Dieppe, New Brunswick, as a\nfull-time member of the National Parole Board, Atlantic Regional\nDivision, to hold office during good behaviour for a period of five\nyears; and designation of LÉONARD J. LeBLANC as Vice-Chairperson for the\nAtlantic Regional Division of the National Parole Board; effective\nMarch 18, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2229",
   "htmlHash": "8a6453d9d145cfe84e3f5a9ca86fcdf9",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-12-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , SGC",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of LÉONARD J. LeBLANC, of Dieppe, New Brunswick, as a\nfull-time member of the National Parole Board, Atlantic Regional\nDivision, to hold office during good behaviour for a period of five\nyears; and designation of LÉONARD J. LeBLANC as Vice-Chairperson for the\nAtlantic Regional Division of the National Parole Board; effective\nMarch 18, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0586</td><td>1997-04-15</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY which\nprohibits the staking of mineral claims on certain land in the Yukon that\nmay be required for the settlement of land claims (SELKIRK FIRST NATION).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0207  <strong>Publication Date:</strong> 1997-04-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0586",
   "htmlHash": "d8cae3ec572bcd61d16f095b70bdd0ac",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON TERRITORY which\nprohibits the staking of mineral claims on certain land in the Yukon that\nmay be required for the settlement of land claims (SELKIRK FIRST NATION).\n",
+  "registration": "Registration: SOR/ 1997-0207  Publication Date: 1997-04-30",
+  "registration_type": "SOR",
+  "registration_id": "1997-0207",
+  "registration_publication_date": "1997-04-30"
 }

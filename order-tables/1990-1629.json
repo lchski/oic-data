@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1629</td><td>1990-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; AGR,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the entry into an Agreement with Cérégrains Inc. of the City\nLongueuil for the marketing of an agricultural product produced in\nQuébec during 1990; and (b) for the appointment of Maheu Noiseux of the\nCity of Montreal, Quebec, to inspect and audit its books and accounts.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1629",
   "htmlHash": "8bd72992e41bc4dcefadafab504f6283",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , AGR, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the entry into an Agreement with Cérégrains Inc. of the City\nLongueuil for the marketing of an agricultural product produced in\nQuébec during 1990; and (b) for the appointment of Maheu Noiseux of the\nCity of Montreal, Quebec, to inspect and audit its books and accounts.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

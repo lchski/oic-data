@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1682</td><td>1993-08-26</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which eliminate the\nneed for employers to have a formally-recognized Supplemental Unemployment\nBenefit Plan where they provide their employees with supplementary income\nbenefits while on maternity or parental leave, EFFECTIVE September 5, 1993.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0434  <strong>Publication Date:</strong> 1993-09-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1682",
   "htmlHash": "338178878fef829fbfc3236d30d85e1d",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EIC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which eliminate the\nneed for employers to have a formally-recognized Supplemental Unemployment\nBenefit Plan where they provide their employees with supplementary income\nbenefits while on maternity or parental leave, EFFECTIVE September 5, 1993.\n",
+  "registration": "Registration: SOR/ 1993-0434  Publication Date: 1993-09-08",
+  "registration_type": "SOR",
+  "registration_id": "1993-0434",
+  "registration_publication_date": "1993-09-08"
 }

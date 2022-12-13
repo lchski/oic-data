@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2148</td><td>1990-09-27</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of British Columbia of the\nadministration and control over a parcel of vacant land situate at PORT\nGRAVES on Gambier Island, that contains an area of some 0.332 hectares,\nwhich is to be used for public wharf purposes, etc. (Lot 5419, Group 1,\nNew Westminster District)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2148",
   "htmlHash": "f5a36b1d7c11565e239dee3d6f5da08e",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-09-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the transfer from the Province of British Columbia of the\nadministration and control over a parcel of vacant land situate at PORT\nGRAVES on Gambier Island, that contains an area of some 0.332 hectares,\nwhich is to be used for public wharf purposes, etc. (Lot 5419, Group 1,\nNew Westminster District)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

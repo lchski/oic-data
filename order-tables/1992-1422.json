@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1422</td><td>1992-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing:\n(a) June 23, 1992 as the day upon which sections 10 to 32 of this Act shall\n    COME INTO FORCE,\n(b) June 30, 1992 as the day upon which sections 6 to 9 and 33 of this Act\n    shall COME INTO FORCE\n(c) October 1, 1992 as the day upon which sections 1 to 5 and 34 to 37 of\n    this Act shall COME INTO FORCE.\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0126  <strong>Publication Date:</strong> 1992-07-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1422",
   "htmlHash": "1353566207d2213eb2f4a4a70b8b7989",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing:\n(a) June 23, 1992 as the day upon which sections 10 to 32 of this Act shall\n    COME INTO FORCE,\n(b) June 30, 1992 as the day upon which sections 6 to 9 and 33 of this Act\n    shall COME INTO FORCE\n(c) October 1, 1992 as the day upon which sections 1 to 5 and 34 to 37 of\n    this Act shall COME INTO FORCE.\n.\n",
+  "registration": "Registration: SI / 1992-0126  Publication Date: 1992-07-15",
+  "registration_type": "SI",
+  "registration_id": "1992-0126",
+  "registration_publication_date": "1992-07-15"
 }

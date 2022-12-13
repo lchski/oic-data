@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1647</td><td>2001-09-20</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (1255 - FLUDIOXONIL) by\nsetting maximum limits on residues (MRLs) of the fungicide Fludioxonil that\nmay be present on or in a variety of foods.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0350  <strong>Publication Date:</strong> 2001-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1647",
   "htmlHash": "465b4ea89175b61113c7934d4a0083b1",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-09-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (1255 - FLUDIOXONIL) by\nsetting maximum limits on residues (MRLs) of the fungicide Fludioxonil that\nmay be present on or in a variety of foods.\n",
+  "registration": "Registration: SOR/ 2001-0350  Publication Date: 2001-10-10",
+  "registration_type": "SOR",
+  "registration_id": "2001-0350",
+  "registration_publication_date": "2001-10-10"
 }

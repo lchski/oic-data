@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1744</td><td>1993-08-26</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Remission of the interest payable by Mr. JOSEPH A. BECKINGHAM under Parts I\nand I.1 of the Income Tax Act for the years 1982 to 1984, based on\ndepartmental error.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0181  <strong>Publication Date:</strong> 1993-09-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1744",
   "htmlHash": "298d2ea9cc4770c93adbc5f6fa2238fa",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Remission of the interest payable by Mr. JOSEPH A. BECKINGHAM under Parts I\nand I.1 of the Income Tax Act for the years 1982 to 1984, based on\ndepartmental error.\n",
+  "registration": "Registration: SI / 1993-0181  Publication Date: 1993-09-08",
+  "registration_type": "SI",
+  "registration_id": "1993-0181",
+  "registration_publication_date": "1993-09-08"
 }

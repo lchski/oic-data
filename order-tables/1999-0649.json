@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0649</td><td>1999-04-15</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the INSURANCE COMPANIES ASSESSED EXPENSES RECOVERY REGULATIONS\nwhich enable the Office of the Superintendent of Financial Institutions to\nreimburse insurance companies, on a pro rata basis, for assessed expenses\nin cases where the proceeds from the liquidation of a failed insurance\ncompany exceed a certain threshold.\n\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0182  <strong>Publication Date:</strong> 1999-04-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0649",
   "htmlHash": "4c48239eda54bb11bf6207bc33017e24",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the INSURANCE COMPANIES ASSESSED EXPENSES RECOVERY REGULATIONS\nwhich enable the Office of the Superintendent of Financial Institutions to\nreimburse insurance companies, on a pro rata basis, for assessed expenses\nin cases where the proceeds from the liquidation of a failed insurance\ncompany exceed a certain threshold.\n\n",
+  "registration": "Registration: SOR/ 1999-0182  Publication Date: 1999-04-28",
+  "registration_type": "SOR",
+  "registration_id": "1999-0182",
+  "registration_publication_date": "1999-04-28"
 }

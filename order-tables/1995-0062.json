@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0062</td><td>1995-01-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SSC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of James Caldwell Corkery, of Stratford, Ontario, as\nChairman of the Board of Directors of the Royal Canadian Mint to hold\noffice during pleasure for a term ending May 31, 1995, effective\nNovember 25, 1994.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0062",
   "htmlHash": "378b7f59fce33f5188f51e1b2cbcdb2f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-01-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , SSC",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of James Caldwell Corkery, of Stratford, Ontario, as\nChairman of the Board of Directors of the Royal Canadian Mint to hold\noffice during pleasure for a term ending May 31, 1995, effective\nNovember 25, 1994.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

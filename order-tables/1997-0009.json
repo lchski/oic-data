@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0009</td><td>1997-01-07</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approve the appointment by the Minister of Finance of WILLIAM R. TESCHKE,\nof Vancouver, British Columbia, as director of the Canada Development\nInvestment Corporation to hold office during pleasure for a term of two\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0009",
   "htmlHash": "169be5a913edd6d08e53e9cf1a4892b2",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-01-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approve the appointment by the Minister of Finance of WILLIAM R. TESCHKE,\nof Vancouver, British Columbia, as director of the Canada Development\nInvestment Corporation to hold office during pleasure for a term of two\nyears.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

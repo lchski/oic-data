@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2122</td><td>1995-12-13</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to THALINA UHURA TCHULOKOVSKY, of the City of Whitehorse, Yukon, of\nsome three hectares of land situated near the east bank of an unnamed\ncreek located just to the south of the Yukon River, in Quad 105 D/10.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2122",
   "htmlHash": "a60bd14bedb2fa1c01fc1a875049d495",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Sale to THALINA UHURA TCHULOKOVSKY, of the City of Whitehorse, Yukon, of\nsome three hectares of land situated near the east bank of an unnamed\ncreek located just to the south of the Yukon River, in Quad 105 D/10.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

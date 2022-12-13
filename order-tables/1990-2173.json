@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2173</td><td>1990-10-04</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Change of the name of the Chambre de Commerce du Secteur de Dolbeau-\nMistassini to the CHAMBRE DE COMMERCE DE DOLBEAU and change of the\nboundaries of the district of the Chambre de Commerce du Secteur de\nDolbeau-Mistassini to the sector of the territorial boundaries of the Town\nof Dolbeau.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2173",
   "htmlHash": "9b88f356ad36c4d122154da8cbb12d12",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-10-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CCAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Change of the name of the Chambre de Commerce du Secteur de Dolbeau-\nMistassini to the CHAMBRE DE COMMERCE DE DOLBEAU and change of the\nboundaries of the district of the Chambre de Commerce du Secteur de\nDolbeau-Mistassini to the sector of the territorial boundaries of the Town\nof Dolbeau.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

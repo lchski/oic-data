@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0015</td><td>1990-01-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the FEEDS REGULATIONS, 1983 which revise numerous provisions\nin order to address the concerns of the Standing Joint Committee for the\nScrutiny of Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0073  <strong>Publication Date:</strong> 1990-01-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0015",
   "htmlHash": "6603df0994ba8a208f3d8058e815854d",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-01-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGR",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the FEEDS REGULATIONS, 1983 which revise numerous provisions\nin order to address the concerns of the Standing Joint Committee for the\nScrutiny of Regulations.\n",
+  "registration": "Registration: SOR/ 1990-0073  Publication Date: 1990-01-31",
+  "registration_type": "SOR",
+  "registration_id": "1990-0073",
+  "registration_publication_date": "1990-01-31"
 }

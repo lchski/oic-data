@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2669</td><td>1990-12-06</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the Province of BRITISH COLUMBIA of the administration and\ncontrol over some 0.0050 hectares of land situate near the Town of\nSMITHERS, required by the Province for roadway improvements.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2669",
   "htmlHash": "ed9438eb9664eab57a9a73ec7ae92ce4",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-06",
+  "chapter": "0",
+  "bill": "",
+  "department": "PWC, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the Province of BRITISH COLUMBIA of the administration and\ncontrol over some 0.0050 hectares of land situate near the Town of\nSMITHERS, required by the Province for roadway improvements.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1563</td><td>1998-09-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; HRD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT JEAN YVON GIROUX, of Gatineau, Quebec, and\nJACQUELYN THAYER SCOTT, of East Bay, Nova Scotia, as members of the\nCanada Millennium Scholarship Foundation to hold office for a term of\nfour years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1563",
   "htmlHash": "b4c0e843dc64666c41f2f3a856c2762a",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, HRD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ROBERT JEAN YVON GIROUX, of Gatineau, Quebec, and\nJACQUELYN THAYER SCOTT, of East Bay, Nova Scotia, as members of the\nCanada Millennium Scholarship Foundation to hold office for a term of\nfour years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

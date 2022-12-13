@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1500</td><td>1995-09-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the terms and conditions, the rates of interest, the individual\npurchase limit and to enter into a Proposed Arrangement with chartered\nbanks and others appointing them as Authorized Issuing Agents or Authorized\nSales Agents in connection with 1995 Series of CANADA SAVINGS BONDS.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1500",
   "htmlHash": "986950b2c0a0088847667427e8fa5e05",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the terms and conditions, the rates of interest, the individual\npurchase limit and to enter into a Proposed Arrangement with chartered\nbanks and others appointing them as Authorized Issuing Agents or Authorized\nSales Agents in connection with 1995 Series of CANADA SAVINGS BONDS.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

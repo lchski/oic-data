@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0344</td><td>1995-02-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the Honourable Margaret E.L. Larlee as a Judge of The Court\nof Queen's Bench of New Brunswick, Trial Division, and ex officio a Judge\nof The Court of Appeal of New Brunswick, effective March 6, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0344",
   "htmlHash": "b0ef489cebd24c9ac58cf2333e9dc2b5",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the Honourable Margaret E.L. Larlee as a Judge of The Court\nof Queen's Bench of New Brunswick, Trial Division, and ex officio a Judge\nof The Court of Appeal of New Brunswick, effective March 6, 1995.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

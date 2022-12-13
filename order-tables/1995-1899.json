@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1899</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF INDUSTRY) 1995-1\ncorrecting the following regulations:\n.\n- Canada Business Corporations Regulations\n- Electricity and Gas Inspection Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0532  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1899",
   "htmlHash": "a8295d2df47494025c5202e7c3ca0bf8",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INDUSTRY, ",
+  "act": "",
+  "subject": "",
+  "precis": "MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF INDUSTRY) 1995-1\ncorrecting the following regulations:\n.\n- Canada Business Corporations Regulations\n- Electricity and Gas Inspection Regulations\n.\n",
+  "registration": "Registration: SOR/ 1995-0532  Publication Date: 1995-11-29",
+  "registration_type": "SOR",
+  "registration_id": "1995-0532",
+  "registration_publication_date": "1995-11-29"
 }

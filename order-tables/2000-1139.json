@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1139</td><td>2000-07-27</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER RESPECTING THE WITHDRAWAL FROM DISPOSAL OF CERTAIN\nLANDS IN THE YUKON TERRITORY (NORDENSKIOLD WETLAND HABITAT PROTECTION AREA,\nY.T.) - which (a) provides for the withdrawal from disposal of a number of\ntracts of land in the Yukon Territory, until August 31, 2005, and\n(b) repeals the Withdrawal from Disposal Order (Nordenskiold Wetland\nHabitat Protection Area, Y.T.), made by Order in Council P.C. 1997-1305.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0075  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1139",
   "htmlHash": "773f396c57e1b2d2caf87af08a6e6955",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER RESPECTING THE WITHDRAWAL FROM DISPOSAL OF CERTAIN\nLANDS IN THE YUKON TERRITORY (NORDENSKIOLD WETLAND HABITAT PROTECTION AREA,\nY.T.) - which (a) provides for the withdrawal from disposal of a number of\ntracts of land in the Yukon Territory, until August 31, 2005, and\n(b) repeals the Withdrawal from Disposal Order (Nordenskiold Wetland\nHabitat Protection Area, Y.T.), made by Order in Council P.C. 1997-1305.\n",
+  "registration": "Registration: SI / 2000-0075  Publication Date: 2000-08-16",
+  "registration_type": "SI",
+  "registration_id": "2000-0075",
+  "registration_publication_date": "2000-08-16"
 }

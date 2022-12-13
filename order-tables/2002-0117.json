@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0117</td><td>2002-01-31</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transmission of the ORDINANCES made by the Commissioner in Council of the\nNORTHWEST TERRITORIES during the Fourth Session of the 14th Legislative\nAssembly (Bills No. 5 to 8, 11, and 13 to 15).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0117",
   "htmlHash": "50044c27856b9c653c1bc182d29d3539",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-01-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transmission of the ORDINANCES made by the Commissioner in Council of the\nNORTHWEST TERRITORIES during the Fourth Session of the 14th Legislative\nAssembly (Bills No. 5 to 8, 11, and 13 to 15).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

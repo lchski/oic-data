@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1139</td><td>1992-05-21</td><td>0</td><td></td><td>,&nbsp; CCAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of L. Jack Smith, of Vancouver, British Columbia, as a\nmember of the Competition Tribunal to hold office during good behaviour\nfor a term of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1139",
   "htmlHash": "4973ae1a2c5e64d61d1031b64679a1df",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-05-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CCAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of L. Jack Smith, of Vancouver, British Columbia, as a\nmember of the Competition Tribunal to hold office during good behaviour\nfor a term of five years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

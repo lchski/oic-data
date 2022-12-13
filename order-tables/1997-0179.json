@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0179</td><td>1997-02-04</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the CANADIAN WHEAT BOARD REGULATIONS which establishes the\ninitial \"sums certain\" to be paid for the base grade of DESIGNATED BARLEY\ndelivered in the 1996-97 crop year, effective February 10, 1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0113  <strong>Publication Date:</strong> 1997-02-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0179",
   "htmlHash": "b5cc714a6ee1839507cd17336b5496e2",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-02-04",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGRI-FOOD, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the CANADIAN WHEAT BOARD REGULATIONS which establishes the\ninitial \"sums certain\" to be paid for the base grade of DESIGNATED BARLEY\ndelivered in the 1996-97 crop year, effective February 10, 1997.\n",
+  "registration": "Registration: SOR/ 1997-0113  Publication Date: 1997-02-19",
+  "registration_type": "SOR",
+  "registration_id": "1997-0113",
+  "registration_publication_date": "1997-02-19"
 }

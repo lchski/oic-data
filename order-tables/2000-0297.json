@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0297</td><td>2000-03-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION wherein the MILLBROOK FIRST NATION BAND\nsurrenders, for a term of 49 years, some 46 hectares of land on Millbrook\nIndian Reserve No. 27, in Colchester County, Nova Scotia, for general and\nresidential leasing purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0297",
   "htmlHash": "662cf27a75d5781c6b2d09b923ca643d",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION wherein the MILLBROOK FIRST NATION BAND\nsurrenders, for a term of 49 years, some 46 hectares of land on Millbrook\nIndian Reserve No. 27, in Colchester County, Nova Scotia, for general and\nresidential leasing purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

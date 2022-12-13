@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0748</td><td>1995-05-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; SSC,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADA LANDS COMPANY LIMITED AUTHORIZATION ORDER NO. 2, 1995 - which\nauthorizes the newly incorporated wholly-owned subsidiary of the\naforementioned to acquire all or substantially all of the assets and\nliabilities of the Queens Quay West Land Corporation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0748",
   "htmlHash": "11783c21d9b8cfbfd818e078aaeab89f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , , SSC, TB",
+  "act": "",
+  "subject": "",
+  "precis": "CANADA LANDS COMPANY LIMITED AUTHORIZATION ORDER NO. 2, 1995 - which\nauthorizes the newly incorporated wholly-owned subsidiary of the\naforementioned to acquire all or substantially all of the assets and\nliabilities of the Queens Quay West Land Corporation.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

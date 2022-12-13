@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2401</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the salaries and conditions of employment applicable to certain\nindividuals who were appointed by the Governor in Council.\n.\n  DEPARTMENT OF JUSTICE/Ministère de la Justice\n.\n  (Mr./M.) Eric Bowie - Associate Deputy Minister/Sous-ministre délégué\n.\n  PRIVY COUNCIL OFFICE/Bureau du Conseil privé\n.\n  (Mrs./Mme) Marie-P. Poulin -\n  Deputy Secretary to the Cabinet (Communications and Consultations)\n  Sous-secrétaire du Cabinet (Communications et Consultations)\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2401",
   "htmlHash": "198085c1d39319c768d9632da72c63f9",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the salaries and conditions of employment applicable to certain\nindividuals who were appointed by the Governor in Council.\n.\n  DEPARTMENT OF JUSTICE/Ministère de la Justice\n.\n  (Mr./M.) Eric Bowie - Associate Deputy Minister/Sous-ministre délégué\n.\n  PRIVY COUNCIL OFFICE/Bureau du Conseil privé\n.\n  (Mrs./Mme) Marie-P. Poulin -\n  Deputy Secretary to the Cabinet (Communications and Consultations)\n  Sous-secrétaire du Cabinet (Communications et Consultations)\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

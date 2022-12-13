@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2109</td><td>1991-10-31</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into an agreement for AQUACULTURE DEVELOPMENT with the\nGovernment of NEW BRUNSWICK for the purpose of establishing a mutual regime\nfor the orderly development and growth of aquaculture and of identifying\nand clarifying their respective roles in advancement relating to the\naquaculture industry in New Brunswick.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2109",
   "htmlHash": "40b58205430c7c3efc270d35250ac50b",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-31",
+  "chapter": "0",
+  "bill": "",
+  "department": "F&O, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval to enter into an agreement for AQUACULTURE DEVELOPMENT with the\nGovernment of NEW BRUNSWICK for the purpose of establishing a mutual regime\nfor the orderly development and growth of aquaculture and of identifying\nand clarifying their respective roles in advancement relating to the\naquaculture industry in New Brunswick.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

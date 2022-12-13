@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2128</td><td>1992-09-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Ole M. Ingstrup, of Ottawa, Ontario, as Principal of the\nCanadian Centre for Management Development, to hold office during pleasure\nfor a term of five years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2128",
   "htmlHash": "d7c77fbef7fa6039076bce4d56b0a13f",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-09-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Ole M. Ingstrup, of Ottawa, Ontario, as Principal of the\nCanadian Centre for Management Development, to hold office during pleasure\nfor a term of five years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

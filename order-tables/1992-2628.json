@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2628</td><td>1992-12-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EIC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Robert Jutras, of Victoriaville, Quebec, as Chairperson of\nthe Boards of Referees for the Quebec Regional Division, and particularly\nfor the District of Victoriaville, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2628",
   "htmlHash": "a27e06920aa1ae8adcd32d54ee5f78b1",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EIC",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Robert Jutras, of Victoriaville, Quebec, as Chairperson of\nthe Boards of Referees for the Quebec Regional Division, and particularly\nfor the District of Victoriaville, for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

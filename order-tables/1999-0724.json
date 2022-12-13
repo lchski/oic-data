@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0724</td><td>1999-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of FRED C. TOLMIE, of Prince Rupert, British Columbia, as a\ndirector of the Prince Rupert Port Authority, to hold office for a term of\ntwo years, effective May 1, 1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0724",
   "htmlHash": "dfa37fbd08bfd3658738ca0d9586dc60",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of FRED C. TOLMIE, of Prince Rupert, British Columbia, as a\ndirector of the Prince Rupert Port Authority, to hold office for a term of\ntwo years, effective May 1, 1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

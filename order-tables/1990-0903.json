@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0903</td><td>1990-05-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing the\nMinister for International Trade or Ambassador Mary E. Vandenhoff to sign a\nConvention between Canada and Finland for the Avoidance of Double Taxation\nand the Prevention of Fiscal Evasion with Respect to Taxes on Income.\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0903",
   "htmlHash": "0f44d41d1b7222680ade0f7254157cc4",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to execute and issue an Instrument of Full Powers authorizing the\nMinister for International Trade or Ambassador Mary E. Vandenhoff to sign a\nConvention between Canada and Finland for the Avoidance of Double Taxation\nand the Prevention of Fiscal Evasion with Respect to Taxes on Income.\n\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

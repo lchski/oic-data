@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1377</td><td>1994-08-16</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a Memorandum of Understanding with the Government\nof NEWFOUNDLAND concerning the strategic initiative entitled \"Transitions\n- The Changes Within\", Education to Work, Work to Education Initiative.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1377",
   "htmlHash": "af4e98017c0f2a491a28a460b5136d0a",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EIC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a Memorandum of Understanding with the Government\nof NEWFOUNDLAND concerning the strategic initiative entitled \"Transitions\n- The Changes Within\", Education to Work, Work to Education Initiative.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1122</td><td>1996-07-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following Non-Commissioned Officers of the\nROYAL CANADIAN MOUNTED POLICE to the rank of INSPECTOR, namely:\n.\n  1. Staff Sergeant/Le sergent d'état-major Joseph Frederic Michel BACHAND\n  2. Corporal/Le caporal Joseph Denis André CONSTANT\n  3. Staff Sergeant/Le sergent d'état-major Peter Maurice GERMAN\n  4. Staff Sergeant/Le sergent d'état-major Angus Norman MacINTOSH\n  5. Sergeant/Le sergent Allison Harold MISNER\n  6. Sergeant/Le sergent Everett William SUMMERFIELD\n  7. Staff Sergeant/Le sergent d'état-major Eric Rankine WHEELER\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1122",
   "htmlHash": "248e563506e8b3a15336cbe075d4a6e1",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-07-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , SGC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following Non-Commissioned Officers of the\nROYAL CANADIAN MOUNTED POLICE to the rank of INSPECTOR, namely:\n.\n  1. Staff Sergeant/Le sergent d'état-major Joseph Frederic Michel BACHAND\n  2. Corporal/Le caporal Joseph Denis André CONSTANT\n  3. Staff Sergeant/Le sergent d'état-major Peter Maurice GERMAN\n  4. Staff Sergeant/Le sergent d'état-major Angus Norman MacINTOSH\n  5. Sergeant/Le sergent Allison Harold MISNER\n  6. Sergeant/Le sergent Everett William SUMMERFIELD\n  7. Staff Sergeant/Le sergent d'état-major Eric Rankine WHEELER\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

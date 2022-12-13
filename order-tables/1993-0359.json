@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0359</td><td>1993-02-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order varying Order No. 1991-R-40 of the National Transportation Agency,\nwhich the Agency Order authorized the Rural Municipality of Canaan and the\nVillage of Lucky Lake together with CN to proceed with the construction of\na crossing, by deleting the clauses authorizing construction of the\ncrossing and assigning costs of maintenance and of construction to the\nmunicipalities and by replacing them with clauses ordering the closure of\nthe crossing.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1993-0101  <strong>Publication Date:</strong> 1993-03-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0359",
   "htmlHash": "fbae34d73d84360eed9f8ace81e170bf",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-02-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order varying Order No. 1991-R-40 of the National Transportation Agency,\nwhich the Agency Order authorized the Rural Municipality of Canaan and the\nVillage of Lucky Lake together with CN to proceed with the construction of\na crossing, by deleting the clauses authorizing construction of the\ncrossing and assigning costs of maintenance and of construction to the\nmunicipalities and by replacing them with clauses ordering the closure of\nthe crossing.\n",
+  "registration": "Registration: SOR/ 1993-0101  Publication Date: 1993-03-10",
+  "registration_type": "SOR",
+  "registration_id": "1993-0101",
+  "registration_publication_date": "1993-03-10"
 }

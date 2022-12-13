@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1173</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as members or alternates of the Renewable\nResources Board, for a term of five years:\n.\n        MEMBERS                                   ALTERNATES\n Dr. Paul Bernard Latour                    Kevin Joseph McCormick\n Russell Brian Hall                         Dr. Diane F. Malley\n                                            George Barnaby\n Isadore Yukon                              Mark David Hoppe\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1173",
   "htmlHash": "3af288168e2c930c1a0eb8970f50707b",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as members or alternates of the Renewable\nResources Board, for a term of five years:\n.\n        MEMBERS                                   ALTERNATES\n Dr. Paul Bernard Latour                    Kevin Joseph McCormick\n Russell Brian Hall                         Dr. Diane F. Malley\n                                            George Barnaby\n Isadore Yukon                              Mark David Hoppe\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

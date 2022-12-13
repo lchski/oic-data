@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1261</td><td>2002-07-17</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the POLLUTANT SUBSTANCES REGULATIONS by replacing its\nLong Title with one that more accurately reflects the intent of the\nregulations, by ensuring that the prohibitions therein are accurately\ndescribed, and by rectifying certain discrepancies between the English and\nFrench versions or between these Regulations and other Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0276  <strong>Publication Date:</strong> 2002-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1261",
   "htmlHash": "79c5d9b3eb024013b161602a1beed9b1",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-07-17",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the POLLUTANT SUBSTANCES REGULATIONS by replacing its\nLong Title with one that more accurately reflects the intent of the\nregulations, by ensuring that the prohibitions therein are accurately\ndescribed, and by rectifying certain discrepancies between the English and\nFrench versions or between these Regulations and other Regulations.\n",
+  "registration": "Registration: SOR/ 2002-0276  Publication Date: 2002-07-31",
+  "registration_type": "SOR",
+  "registration_id": "2002-0276",
+  "registration_publication_date": "2002-07-31"
 }

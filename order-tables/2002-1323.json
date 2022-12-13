@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1323</td><td>2002-08-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PMO,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE I.1 to the FINANCIAL ADMINISTRATION ACT by\nadding the Office of Infrastructure of Canada to Schedule I.1 (Divisions or\nBranches of the Public Service of Canada and their appropriate Ministers).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0289  <strong>Publication Date:</strong> 2002-08-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1323",
   "htmlHash": "17d476695b5ac4326f6b603a66f21d74",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-08-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PMO, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending SCHEDULE I.1 to the FINANCIAL ADMINISTRATION ACT by\nadding the Office of Infrastructure of Canada to Schedule I.1 (Divisions or\nBranches of the Public Service of Canada and their appropriate Ministers).\n",
+  "registration": "Registration: SOR/ 2002-0289  Publication Date: 2002-08-28",
+  "registration_type": "SOR",
+  "registration_id": "2002-0289",
+  "registration_publication_date": "2002-08-28"
 }

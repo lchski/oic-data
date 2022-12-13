@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2284</td><td>1992-11-12</td><td>0</td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EXPORT AND IMPORT OF HAZARDOUS WASTES REGULATIONS designed to control\nhazardous wastes destined for recycling and disposal.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0637  <strong>Publication Date:</strong> 1992-12-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2284",
   "htmlHash": "3dc63176d6f3ca2a717d581e2f2f56a5",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-12",
+  "chapter": "0",
+  "bill": "",
+  "department": "EC, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "EXPORT AND IMPORT OF HAZARDOUS WASTES REGULATIONS designed to control\nhazardous wastes destined for recycling and disposal.\n",
+  "registration": "Registration: SOR/ 1992-0637  Publication Date: 1992-12-02",
+  "registration_type": "SOR",
+  "registration_id": "1992-0637",
+  "registration_publication_date": "1992-12-02"
 }

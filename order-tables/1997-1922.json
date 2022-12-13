@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1922</td><td>1997-12-17</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Repealing the WITHDRAWAL FROM DISPOSAL ORDER made by P.C. 1970-526\nof March 24, 1970, and replacing it by the ORDER RESPECTING THE WITHDRAWAL\nFROM DISPOSAL OF CERTAIN LANDS IN THE NORTHWEST TERRITORIES in order to\nprotect an area in the East Arm of Great Slave Lake National Park left\nunprotected by the closing of an hydroelectric plant.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0003  <strong>Publication Date:</strong> 1998-01-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1922",
   "htmlHash": "39e6c1a77430a347c1cbfe88936331fc",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Repealing the WITHDRAWAL FROM DISPOSAL ORDER made by P.C. 1970-526\nof March 24, 1970, and replacing it by the ORDER RESPECTING THE WITHDRAWAL\nFROM DISPOSAL OF CERTAIN LANDS IN THE NORTHWEST TERRITORIES in order to\nprotect an area in the East Arm of Great Slave Lake National Park left\nunprotected by the closing of an hydroelectric plant.\n",
+  "registration": "Registration: SI / 1998-0003  Publication Date: 1998-01-07",
+  "registration_type": "SI",
+  "registration_id": "1998-0003",
+  "registration_publication_date": "1998-01-07"
 }

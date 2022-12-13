@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1367</td><td>2000-08-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) consenting to the use by SASKATCHEWAN TELECOMMUNICATIONS of its\nstatutory power to acquire a right-of-way on COWESSESS INDIAN RESERVE\nNO. 73, for telecommunications system purposes, and (b) granting them an\nEasement for those purposes, in lieu thereof.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1367",
   "htmlHash": "3d47d82df2e434ba98dbc4df1951352e",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-08-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) consenting to the use by SASKATCHEWAN TELECOMMUNICATIONS of its\nstatutory power to acquire a right-of-way on COWESSESS INDIAN RESERVE\nNO. 73, for telecommunications system purposes, and (b) granting them an\nEasement for those purposes, in lieu thereof.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1687</td><td>1995-10-03</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">DIRECT OR INDIRECT HOLDING AUTHORIZATION ORDER - FINAXA - which authorizes\nthe aforementioned, a foreign bank, to hold directly or indirectly shares\nin Alliance Capital Management Canada, Inc., in such a number as to cause\nthe latter to become a non-bank affiliate of a foreign bank.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1687",
   "htmlHash": "155b4c71d5ddf13e26a9db2d8b754994",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-10-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "DIRECT OR INDIRECT HOLDING AUTHORIZATION ORDER - FINAXA - which authorizes\nthe aforementioned, a foreign bank, to hold directly or indirectly shares\nin Alliance Capital Management Canada, Inc., in such a number as to cause\nthe latter to become a non-bank affiliate of a foreign bank.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

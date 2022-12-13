@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0817</td><td>1999-05-04</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointments of PAUL LATOUR, of Yellowknife, Northwest Territories, as a\nmember of the Renewable Resources Board, as nominated by the Department\nof the Environment; ROGER PEET, of Winnipeg, Manitoba, as a member of the\nBoard, as nominated by the Department of Fisheries and Oceans; and\nMS. VICTORIA JOHNSTON, of Yellowknife, Northwest Territories, as an\nalternate member of the Board, as nominated by the Department of the\nEnvironment; reappointments of JOSEPH BENOIT, of Aklavik, Northwest\nTerritories, as a member of the Board, as nominated by the Gwich'in\nTribal Council; and JAMES B. FIRTH, of Inuvik, Northwest Territories, as a\nmember of the Board, as nominated by the Council; appointments of\nROBERT ALEXIE Sr., of Fort McPherson, Northwest Territories, as a member\nof the Board, as nominated by the Council; ROBERT ELIAS, of Fort\nMcPherson, Northwest Territories, as an alternate member of the Board, as\nnominated by the Council; MS. MELBA MITCHELL of Aklavik, Northwest\nTerritories, as an alternate member of the Board, as nominated by the\nCouncil; and NORM SNOWSHOE, of Inuvik, Northwest Territories, as an\nalternate member of the Board, as nominated by the Council, for a term of\nfive years, unless removed from office for cause.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0817",
   "htmlHash": "85817f78fecaee9af29f439a60da3c22",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointments of PAUL LATOUR, of Yellowknife, Northwest Territories, as a\nmember of the Renewable Resources Board, as nominated by the Department\nof the Environment; ROGER PEET, of Winnipeg, Manitoba, as a member of the\nBoard, as nominated by the Department of Fisheries and Oceans; and\nMS. VICTORIA JOHNSTON, of Yellowknife, Northwest Territories, as an\nalternate member of the Board, as nominated by the Department of the\nEnvironment; reappointments of JOSEPH BENOIT, of Aklavik, Northwest\nTerritories, as a member of the Board, as nominated by the Gwich'in\nTribal Council; and JAMES B. FIRTH, of Inuvik, Northwest Territories, as a\nmember of the Board, as nominated by the Council; appointments of\nROBERT ALEXIE Sr., of Fort McPherson, Northwest Territories, as a member\nof the Board, as nominated by the Council; ROBERT ELIAS, of Fort\nMcPherson, Northwest Territories, as an alternate member of the Board, as\nnominated by the Council; MS. MELBA MITCHELL of Aklavik, Northwest\nTerritories, as an alternate member of the Board, as nominated by the\nCouncil; and NORM SNOWSHOE, of Inuvik, Northwest Territories, as an\nalternate member of the Board, as nominated by the Council, for a term of\nfive years, unless removed from office for cause.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

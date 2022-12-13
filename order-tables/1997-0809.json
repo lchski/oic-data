@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0809</td><td>1997-06-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the transfer to EXPRESS PIPELINE LTD. IN TRUST FOR EXPRESS\nPIPELINE LIMITED PARTNERSHIP of Certificate of Public Convenience and\nNecessity No. OC-40, in accordance with N.E.B. Order No. AO-2-OC-40.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0809",
   "htmlHash": "88c60dd562e65134c9ead7c30f919b2d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-06-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , RESOURCES",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the transfer to EXPRESS PIPELINE LTD. IN TRUST FOR EXPRESS\nPIPELINE LIMITED PARTNERSHIP of Certificate of Public Convenience and\nNecessity No. OC-40, in accordance with N.E.B. Order No. AO-2-OC-40.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

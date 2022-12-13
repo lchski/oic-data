@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0618</td><td>1990-03-29</td><td>0</td><td></td><td>ISTC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into a supplementary Agreement (No. 2) with the Gov't of\nQuebec which will amend the HELICOPTER ASSISTANCE AGREEMENT which provided\nfinancial assistance to the Bell Helicopter Division of Textron Canada\nLtd. for the establishment of a helicopter production facility, so that\nthe funding may be reallocated towards the development of the Bell 230\nhelicopter model.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0618",
   "htmlHash": "d36c10b719486ef84f6e91b9959034d5",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-03-29",
+  "chapter": "0",
+  "bill": "",
+  "department": "ISTC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into a supplementary Agreement (No. 2) with the Gov't of\nQuebec which will amend the HELICOPTER ASSISTANCE AGREEMENT which provided\nfinancial assistance to the Bell Helicopter Division of Textron Canada\nLtd. for the establishment of a helicopter production facility, so that\nthe funding may be reallocated towards the development of the Bell 230\nhelicopter model.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

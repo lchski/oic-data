@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1435</td><td>1997-10-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) setting apart, for the use and benefit of the OCHAPOWACE INDIAN\nBAND, some 757 hectares of land in Saskatchewan, including mines and\nminerals, as Ochapowace Indian Reserves Nos. 71-44, 71-45, 71-46, 71-47,\n71-48 and 71-49, (b) consenting to the use by SASKATCHEWAN\nTELECOMMUNICATIONS of its statutory powers to expropriate an EASEMENT over\nsome of those lands for telephone transmission lines, etc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1435",
   "htmlHash": "da031a07bd7c49fcba912ceeecb02968",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-10-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) setting apart, for the use and benefit of the OCHAPOWACE INDIAN\nBAND, some 757 hectares of land in Saskatchewan, including mines and\nminerals, as Ochapowace Indian Reserves Nos. 71-44, 71-45, 71-46, 71-47,\n71-48 and 71-49, (b) consenting to the use by SASKATCHEWAN\nTELECOMMUNICATIONS of its statutory powers to expropriate an EASEMENT over\nsome of those lands for telephone transmission lines, etc.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

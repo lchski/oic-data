@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0272</td><td>2000-03-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MIGRATORY BIRDS REGULATIONS by introducing and\ndefining the term \"farmland\", setting out the criteria to be used by\nRegional Directors to evaluate requests and to make decisions concerning\nthe issuance of hunting permits, removing references to species (Ross'\nGeese) that are not overabundant, and by expanding the special conservation\nseason to include the whole of southern Manitoba.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0088  <strong>Publication Date:</strong> 2000-03-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0272",
   "htmlHash": "82b8b03b648030c531149e4d838f8a68",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EC",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MIGRATORY BIRDS REGULATIONS by introducing and\ndefining the term \"farmland\", setting out the criteria to be used by\nRegional Directors to evaluate requests and to make decisions concerning\nthe issuance of hunting permits, removing references to species (Ross'\nGeese) that are not overabundant, and by expanding the special conservation\nseason to include the whole of southern Manitoba.\n",
+  "registration": "Registration: SOR/ 2000-0088  Publication Date: 2000-03-15",
+  "registration_type": "SOR",
+  "registration_id": "2000-0088",
+  "registration_publication_date": "2000-03-15"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1925</td><td>2001-10-23</td><td>0</td><td></td><td>PCO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DAN QUIGLEY, of Victoria, British Columbia, as a full-time\nmember of the Public Service Staff Relations Board to hold office during\ngood behaviour for a period of two years; and order that DAN QUIGLEY\nshall be deemed to be employed in the Public Service for the purposes of\nthe Public Service Superannuation Act, effective November 19, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1925",
   "htmlHash": "468faa697b7060fdad4345d1e13987be",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-10-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "PCO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DAN QUIGLEY, of Victoria, British Columbia, as a full-time\nmember of the Public Service Staff Relations Board to hold office during\ngood behaviour for a period of two years; and order that DAN QUIGLEY\nshall be deemed to be employed in the Public Service for the purposes of\nthe Public Service Superannuation Act, effective November 19, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

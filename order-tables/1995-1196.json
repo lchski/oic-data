@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1196</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; EIC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which link pay periods\nto the earnings supplements paid under an experimental project developed to\nassess the effectiveness of paying supplements to claimants who take a new\njob at a lower salary level.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0355  <strong>Publication Date:</strong> 1995-08-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1196",
   "htmlHash": "344f11b6d788f77ad80c8668c7bb3c6d",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EIC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS which link pay periods\nto the earnings supplements paid under an experimental project developed to\nassess the effectiveness of paying supplements to claimants who take a new\njob at a lower salary level.\n",
+  "registration": "Registration: SOR/ 1995-0355  Publication Date: 1995-08-09",
+  "registration_type": "SOR",
+  "registration_id": "1995-0355",
+  "registration_publication_date": "1995-08-09"
 }

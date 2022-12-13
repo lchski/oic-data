@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1935</td><td>1992-08-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; NR,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the INDIAN BRIDGE WORKERS REMISSION ORDER remitting income tax\non bridge pay until the litigation is resolved and remitting income taxes,\nfrom 1984 until the resolution, of other taxpayers, such as spouses and\nchildren, accruing because of the inclusion of the bridge pay in the income\nof the Indians.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0166  <strong>Publication Date:</strong> 1992-09-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1935",
   "htmlHash": "1c1fea003ae914da7356d2cf00cff037",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , NR, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the INDIAN BRIDGE WORKERS REMISSION ORDER remitting income tax\non bridge pay until the litigation is resolved and remitting income taxes,\nfrom 1984 until the resolution, of other taxpayers, such as spouses and\nchildren, accruing because of the inclusion of the bridge pay in the income\nof the Indians.\n",
+  "registration": "Registration: SI / 1992-0166  Publication Date: 1992-09-23",
+  "registration_type": "SI",
+  "registration_id": "1992-0166",
+  "registration_publication_date": "1992-09-23"
 }

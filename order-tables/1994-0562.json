@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0562</td><td>1994-04-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing Canadian Pacific Limited to sell its railway station\nlocated in Mission, British Columbia, being a designated heritage railway\nstation, to the KINSMEN CLUB OF MISSION CITY.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0562",
   "htmlHash": "03756187cb7de43c43ac128f0d70a763",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing Canadian Pacific Limited to sell its railway station\nlocated in Mission, British Columbia, being a designated heritage railway\nstation, to the KINSMEN CLUB OF MISSION CITY.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

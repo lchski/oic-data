@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1517</td><td>1999-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TB,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the leasing by the NATIONAL CAPITAL COMMISSION to\nCASILOC INC., for a term of 50 years, of some 60 hectares of vacant land\nsituated within or adjacent to Leamy Lake Park in Hull, Quebec, for the\ndevelopment of a public golf course facility.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1517",
   "htmlHash": "e4a5c2463c889003e57397bac6f4c561",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TB, HERITAGE, , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the leasing by the NATIONAL CAPITAL COMMISSION to\nCASILOC INC., for a term of 50 years, of some 60 hectares of vacant land\nsituated within or adjacent to Leamy Lake Park in Hull, Quebec, for the\ndevelopment of a public golf course facility.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

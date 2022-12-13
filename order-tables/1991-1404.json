@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1404</td><td>1991-08-01</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of GERALD SANFORD LEVEY, of the City of Vancouver, British\nColumbia, as Chairman of the Boards of Referees for the British Columbia\nRegional Division (District of Vancouver), for a further term of three\nyears beginning September 21, 1991.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1404",
   "htmlHash": "d9762bd57279ee2f39c11344894110df",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-08-01",
+  "chapter": "0",
+  "bill": "",
+  "department": "EIC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of GERALD SANFORD LEVEY, of the City of Vancouver, British\nColumbia, as Chairman of the Boards of Referees for the British Columbia\nRegional Division (District of Vancouver), for a further term of three\nyears beginning September 21, 1991.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

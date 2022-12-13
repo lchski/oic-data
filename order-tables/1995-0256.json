@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0256</td><td>1995-02-21</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NEWFOUNDLAND OFFSHORE AREA PETROLEUM PRODUCTION AND CONSERVATION\nREGULATIONS respecting safety, conservation practices and the protection of\nthe environment in operations undertaken in the Newfoundland offshore area.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0103  <strong>Publication Date:</strong> 1995-03-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0256",
   "htmlHash": "cc643309bca94dde9cfd37206958017e",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-02-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "RESOURCES, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "NEWFOUNDLAND OFFSHORE AREA PETROLEUM PRODUCTION AND CONSERVATION\nREGULATIONS respecting safety, conservation practices and the protection of\nthe environment in operations undertaken in the Newfoundland offshore area.\n",
+  "registration": "Registration: SOR/ 1995-0103  Publication Date: 1995-03-08",
+  "registration_type": "SOR",
+  "registration_id": "1995-0103",
+  "registration_publication_date": "1995-03-08"
 }

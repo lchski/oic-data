@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2666</td><td>1990-12-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Accept the resignation of the HON. BERTHA WILSON, a Judge of the Supreme\nCourt of Canada, and grant her an annuity.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2666",
   "htmlHash": "b497b02e3c31be1fc921d24f741667a5",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Accept the resignation of the HON. BERTHA WILSON, a Judge of the Supreme\nCourt of Canada, and grant her an annuity.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

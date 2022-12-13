@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0874</td><td>1999-05-13</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer, to the COMMISSIONER of the YUKON TERRITORY, for community\ndevelopment purposes, of the administration and control of the entire\ninterest of the Crown in a total of some 396.80 hectares of land situated\nin and around the Village of HAINES JUNCTION, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0874",
   "htmlHash": "53c27f65ebf838d2b94cf2cc3f4f0a6a",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer, to the COMMISSIONER of the YUKON TERRITORY, for community\ndevelopment purposes, of the administration and control of the entire\ninterest of the Crown in a total of some 396.80 hectares of land situated\nin and around the Village of HAINES JUNCTION, in the Yukon Territory.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

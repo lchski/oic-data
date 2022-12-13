@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0779</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SODIUM CARBONATE REMISSION ORDER, NO. 3 extending, until December 31, 1997,\nduty remission on disodium carbonate (soda ash) used by Consumers Packaging\nInc., Lavington, B.C. in the manufacture of glass bottles.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0247  <strong>Publication Date:</strong> 1992-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0779",
   "htmlHash": "46af693ff056eb119e5a6b28d9970d02",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "SODIUM CARBONATE REMISSION ORDER, NO. 3 extending, until December 31, 1997,\nduty remission on disodium carbonate (soda ash) used by Consumers Packaging\nInc., Lavington, B.C. in the manufacture of glass bottles.\n",
+  "registration": "Registration: SOR/ 1992-0247  Publication Date: 1992-05-20",
+  "registration_type": "SOR",
+  "registration_id": "1992-0247",
+  "registration_publication_date": "1992-05-20"
 }

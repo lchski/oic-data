@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0407</td><td>2000-03-23</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the ACCESS TO INFORMATION ACT HEADS OF GOVERNMENT\nINSTITUTIONS DESIGNATION ORDER by designating the Chief Executive Officer\nas \"head\" of the Parks Canada Agency for the purposes of this Act,\neffective March 1, 2000.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0018  <strong>Publication Date:</strong> 2000-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0407",
   "htmlHash": "f62912beb41d4527448652bc1049592a",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the ACCESS TO INFORMATION ACT HEADS OF GOVERNMENT\nINSTITUTIONS DESIGNATION ORDER by designating the Chief Executive Officer\nas \"head\" of the Parks Canada Agency for the purposes of this Act,\neffective March 1, 2000.\n",
+  "registration": "Registration: SI / 2000-0018  Publication Date: 2000-04-12",
+  "registration_type": "SI",
+  "registration_id": "2000-0018",
+  "registration_publication_date": "2000-04-12"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1220</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Discharge (RETIREMENT) of Superintendent RICHARD ALVON BUNN from the\nRoyal Canadian Mounted Police.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1220",
   "htmlHash": "a4cb870f53e1ca3227be398b3e3c981b",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Discharge (RETIREMENT) of Superintendent RICHARD ALVON BUNN from the\nRoyal Canadian Mounted Police.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

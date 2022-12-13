@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1710</td><td>1996-11-05</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LINDA ANNE LUSBY, of Wolfville, Nova Scotia, as a member\nof the Standards Council of Canada to hold office during pleasure for a\nterm of three years; designation of LINDA ANNE LUSBY, of Wolfville, Nova\nScotia, as Vice-Chairperson of the Standards Council of Canada to hold\noffice during pleasure for a term of three years; appointment of\nHANS KONOW, of Westmount, Quebec, MARCIA SCHAEFER, of Westmount, Quebec;\nHEATHER SHANNON, of Vancouver, British Columbia, ANDREI SULZENKO, of\nOttawa, Ontario, and STEPHEN VAN HOUTEN, of Toronto, Ontario, as members\nof the Standards Council of Canada to hold office during pleasure for a\nterm of three years; and appointment of ANDRÉ FLEURY, of Montreal,\nQuebec, HUGH A. KRENTZ, of Mississauga, Ontario, LISE LACHAPELLE, of\nWestmount, Quebec, PHILIP SAUNDERS, of Mississauga, Ontario, and\nIRENE A. SEIFERLING, of Saskatoon, Saskatchewan, as members of the\nStandards Council of Canada to hold office during please for a term of\ntwo years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1710",
   "htmlHash": "40d39e38035ea187b147db0bfe21335f",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-11-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , INDUSTRY",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LINDA ANNE LUSBY, of Wolfville, Nova Scotia, as a member\nof the Standards Council of Canada to hold office during pleasure for a\nterm of three years; designation of LINDA ANNE LUSBY, of Wolfville, Nova\nScotia, as Vice-Chairperson of the Standards Council of Canada to hold\noffice during pleasure for a term of three years; appointment of\nHANS KONOW, of Westmount, Quebec, MARCIA SCHAEFER, of Westmount, Quebec;\nHEATHER SHANNON, of Vancouver, British Columbia, ANDREI SULZENKO, of\nOttawa, Ontario, and STEPHEN VAN HOUTEN, of Toronto, Ontario, as members\nof the Standards Council of Canada to hold office during pleasure for a\nterm of three years; and appointment of ANDRÉ FLEURY, of Montreal,\nQuebec, HUGH A. KRENTZ, of Mississauga, Ontario, LISE LACHAPELLE, of\nWestmount, Quebec, PHILIP SAUNDERS, of Mississauga, Ontario, and\nIRENE A. SEIFERLING, of Saskatoon, Saskatchewan, as members of the\nStandards Council of Canada to hold office during please for a term of\ntwo years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

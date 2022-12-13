@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0586</td><td>1999-04-01</td><td>0</td><td></td><td>,&nbsp; F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PULP AND PAPER EFFLUENT REGULATIONS by postponing\nfrom April 1, 1999 to April 1, 2000, the deadline for manufacturers to\nsubmit Environmental Effects Monitoring interpretive reports and supporting\ndata.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0166  <strong>Publication Date:</strong> 1999-04-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0586",
   "htmlHash": "0405503d4f5fd4049c0670791532161c",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", F&O, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PULP AND PAPER EFFLUENT REGULATIONS by postponing\nfrom April 1, 1999 to April 1, 2000, the deadline for manufacturers to\nsubmit Environmental Effects Monitoring interpretive reports and supporting\ndata.\n",
+  "registration": "Registration: SOR/ 1999-0166  Publication Date: 1999-04-14",
+  "registration_type": "SOR",
+  "registration_id": "1999-0166",
+  "registration_publication_date": "1999-04-14"
 }

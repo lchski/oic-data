@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1192</td><td>1998-06-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PMO</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of VICTOR V. GOLDBLOOM, of Montreal, Quebec, to hold office\nwhile the office of Commissioner of Official Languages for Canada is\nvacant, for a term of six months.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1192",
   "htmlHash": "9c3b4176bdeeea3e3aa7ce520e42f698",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-06-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PMO",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of VICTOR V. GOLDBLOOM, of Montreal, Quebec, to hold office\nwhile the office of Commissioner of Official Languages for Canada is\nvacant, for a term of six months.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0088</td><td>2002-01-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; LAB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the CANADA INDUSTRIAL RELATIONS REGULATIONS which prescribe\nthe kind of information that must be set out in notices, requests and\nreports to or by the Minister, and by employers and trade unions engaged in\nthe process of collective bargaining, conciliation, strikes, lockouts, etc.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0054  <strong>Publication Date:</strong> 2002-02-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0088",
   "htmlHash": "e38c34d1df34876d08c844b3c0eff0f5",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-01-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , LAB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the CANADA INDUSTRIAL RELATIONS REGULATIONS which prescribe\nthe kind of information that must be set out in notices, requests and\nreports to or by the Minister, and by employers and trade unions engaged in\nthe process of collective bargaining, conciliation, strikes, lockouts, etc.\n",
+  "registration": "Registration: SOR/ 2002-0054  Publication Date: 2002-02-13",
+  "registration_type": "SOR",
+  "registration_id": "2002-0054",
+  "registration_publication_date": "2002-02-13"
 }

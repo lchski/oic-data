@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1106</td><td>1995-07-06</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the DIRECTIONS TO THE CRTC (DIRECT-TO-HOME (DTH) PAY-PER-VIEW\nTELEVISION PROGRAMMING UNDERTAKINGS) ORDER which issues directions to the\nCanadian Radio-television and Telecommunications Commission to promote,\nthrough licensing, a dynamically competitive market for DTH pay-per-view\ntelevision programming undertakings.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0320  <strong>Publication Date:</strong> 1995-07-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1106",
   "htmlHash": "0fd5dc5b23f70eac2ccaede1537d02b4",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , COM",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the DIRECTIONS TO THE CRTC (DIRECT-TO-HOME (DTH) PAY-PER-VIEW\nTELEVISION PROGRAMMING UNDERTAKINGS) ORDER which issues directions to the\nCanadian Radio-television and Telecommunications Commission to promote,\nthrough licensing, a dynamically competitive market for DTH pay-per-view\ntelevision programming undertakings.\n",
+  "registration": "Registration: SOR/ 1995-0320  Publication Date: 1995-07-26",
+  "registration_type": "SOR",
+  "registration_id": "1995-0320",
+  "registration_publication_date": "1995-07-26"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1652</td><td>1996-10-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; LGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the following persons as Returning Officers for certain\nelectoral districts which were established in the Representation Order\nproclaimed on January 8, 1996.\n(PATRICK RODRIGUE, of Saint-Georges, Quebec, (Beauce); SUZIE GUILMAIN, of\nSt-Pie, Quebec, (Saint-Hyacinthe--Bagot); MICHELLE ROCHELEAU, of\nTrois-Rivières, Quebec, (Trois-Rivières); and ARLEEN E. ALBIEZ, of\nLethbridge, Alberta, (Lethbridge))\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1652",
   "htmlHash": "84f95d64cd1b5eb04b4b81157ecb4d55",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , LGC",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the following persons as Returning Officers for certain\nelectoral districts which were established in the Representation Order\nproclaimed on January 8, 1996.\n(PATRICK RODRIGUE, of Saint-Georges, Quebec, (Beauce); SUZIE GUILMAIN, of\nSt-Pie, Quebec, (Saint-Hyacinthe--Bagot); MICHELLE ROCHELEAU, of\nTrois-Rivières, Quebec, (Trois-Rivières); and ARLEEN E. ALBIEZ, of\nLethbridge, Alberta, (Lethbridge))\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

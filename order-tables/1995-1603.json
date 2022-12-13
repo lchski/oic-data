@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1603</td><td>1995-09-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing OCTOBER 1, 1995 as the day on which sections 91 and 93 of that\nAct shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0109  <strong>Publication Date:</strong> 1995-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1603",
   "htmlHash": "d8aca4c3aa8083f6f6da5c5897ac37bb",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing OCTOBER 1, 1995 as the day on which sections 91 and 93 of that\nAct shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 1995-0109  Publication Date: 1995-10-04",
+  "registration_type": "SI",
+  "registration_id": "1995-0109",
+  "registration_publication_date": "1995-10-04"
 }

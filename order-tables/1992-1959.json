@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1959</td><td>1992-08-27</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1992-1161 which appointed GERALD A.\nBERGER to the position of Special Advisor to the Minister of State (Fitness\nand Amateur Sport) and Federal Coordinator for the 1994 Commonwealth Games.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1959",
   "htmlHash": "96cee3e24ed49ef4e97c7f47e7ba1cc1",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1992-1161 which appointed GERALD A.\nBERGER to the position of Special Advisor to the Minister of State (Fitness\nand Amateur Sport) and Federal Coordinator for the 1994 Commonwealth Games.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1506</td><td>2002-09-05</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ANDRÉ BACHAND of Cowansville, Quebec, to be a full-time\nmember of the National Parole Board, to hold office during good behaviour\nfor a period of five years; and designation of ANDRÉ BACHAND to be a\nfull-time member of the Appeal Division of the National Parole Board;\neffective September 16, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1506",
   "htmlHash": "6cd98b3512b620462fdca9967cd44b5f",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of ANDRÉ BACHAND of Cowansville, Quebec, to be a full-time\nmember of the National Parole Board, to hold office during good behaviour\nfor a period of five years; and designation of ANDRÉ BACHAND to be a\nfull-time member of the Appeal Division of the National Parole Board;\neffective September 16, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

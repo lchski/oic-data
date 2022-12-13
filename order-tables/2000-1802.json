@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1802</td><td>2000-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amend Order in Council P.C. 2000-1599 of October 17, 2000 by replacing\nthe words \"for a term ending December 31, 2000\" with the words \"for a\nterm ending January 31, 2001\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1802",
   "htmlHash": "46784c0dfd5f0a2c6100ef4fead2b1f9",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , RESOURCES, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amend Order in Council P.C. 2000-1599 of October 17, 2000 by replacing\nthe words \"for a term ending December 31, 2000\" with the words \"for a\nterm ending January 31, 2001\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

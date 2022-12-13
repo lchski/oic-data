@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0448</td><td>1993-03-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND,&nbsp; NR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADIAN FORCES 1992 INCOME TAX REMISSION ORDER - which effectively allows\nmembers of the Canadian Armed Forces who are part of or serve in immediate\nsupport of a number of United Nations military operations to make late\ncontributions to registered retirement savings plans (RRSP) for 1992 on or\nbefore October 31, 1993, without penalties.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0038  <strong>Publication Date:</strong> 1993-03-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0448",
   "htmlHash": "8a629530d242074f0d37cfb15dffd767",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-03-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , ND, NR",
+  "act": "",
+  "subject": "",
+  "precis": "CANADIAN FORCES 1992 INCOME TAX REMISSION ORDER - which effectively allows\nmembers of the Canadian Armed Forces who are part of or serve in immediate\nsupport of a number of United Nations military operations to make late\ncontributions to registered retirement savings plans (RRSP) for 1992 on or\nbefore October 31, 1993, without penalties.\n",
+  "registration": "Registration: SI / 1993-0038  Publication Date: 1993-03-24",
+  "registration_type": "SI",
+  "registration_id": "1993-0038",
+  "registration_publication_date": "1993-03-24"
 }

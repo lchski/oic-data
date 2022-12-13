@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0034</td><td>1994-01-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; F&amp;O,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MANITOBA FISHERY REGULATIONS, 1987 which update the\nschedules dealing with high quality management waters, common and\nscientific names of fish, stocked trout waters, close times, daily quotas\nand size limits, and restrict the use of powered boats on specified bodies\nof water.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0055  <strong>Publication Date:</strong> 1994-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0034",
   "htmlHash": "f97272ad0dfea60a90286e90e8f987b2",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , F&O, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the MANITOBA FISHERY REGULATIONS, 1987 which update the\nschedules dealing with high quality management waters, common and\nscientific names of fish, stocked trout waters, close times, daily quotas\nand size limits, and restrict the use of powered boats on specified bodies\nof water.\n",
+  "registration": "Registration: SOR/ 1994-0055  Publication Date: 1994-01-26",
+  "registration_type": "SOR",
+  "registration_id": "1994-0055",
+  "registration_publication_date": "1994-01-26"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0431</td><td>1997-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALBERT W. SCHATZKE, of Stony Plain, Alberta, as a\ncommissioner of the Canadian Grain Commission to hold office, during good\nbehaviour for a term effective April 1, 1997 and ending March 31, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0431",
   "htmlHash": "822226aad3f2fd2f9f1c168f073e469a",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGRI-FOOD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ALBERT W. SCHATZKE, of Stony Plain, Alberta, as a\ncommissioner of the Canadian Grain Commission to hold office, during good\nbehaviour for a term effective April 1, 1997 and ending March 31, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

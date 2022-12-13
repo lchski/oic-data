@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0358</td><td>1998-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing TEMPORARY ADMINISTRATORS of the Government of ONTARIO\nfor the following period of time:\n.\n 1. The Hon. John W. MORDEN - March 18 to March 23, 1998\n 2. The Hon. Sidney B. LINDEN - March 24 to March 27, 1998.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0358",
   "htmlHash": "be1e7ae1214ba30aac1d6ea361645c39",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-03-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HERITAGE, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing TEMPORARY ADMINISTRATORS of the Government of ONTARIO\nfor the following period of time:\n.\n 1. The Hon. John W. MORDEN - March 18 to March 23, 1998\n 2. The Hon. Sidney B. LINDEN - March 24 to March 27, 1998.\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

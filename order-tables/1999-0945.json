@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0945</td><td>1999-05-27</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PERSONS AND POSITIONS EXCLUSION APPROVAL ORDER (PERSONS\nEMPLOYED FIVE YEARS OR MORE) NO. 41 - which exempts the appointments of 78\nterm employees, each of whom has been employed in the same department and\nin the same position for five or more years, from the application of\nspecific provisions of the Public Service Employment Act upon their\nassignment to a position of indeterminate duration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0054  <strong>Publication Date:</strong> 1999-06-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0945",
   "htmlHash": "1b9dad21d1870a72279afa9831159809",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the PERSONS AND POSITIONS EXCLUSION APPROVAL ORDER (PERSONS\nEMPLOYED FIVE YEARS OR MORE) NO. 41 - which exempts the appointments of 78\nterm employees, each of whom has been employed in the same department and\nin the same position for five or more years, from the application of\nspecific provisions of the Public Service Employment Act upon their\nassignment to a position of indeterminate duration.\n",
+  "registration": "Registration: SI / 1999-0054  Publication Date: 1999-06-09",
+  "registration_type": "SI",
+  "registration_id": "1999-0054",
+  "registration_publication_date": "1999-06-09"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1356</td><td>1994-08-16</td><td>0</td><td></td><td>TC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FRASER RIVER HARBOUR COMMISSION BY-LAWS, requested by\nthe Standing Joint Committee for the Scrutiny of Regulations, clarifying\nthe wording of the Commission's By-laws penalty section.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0555  <strong>Publication Date:</strong> 1994-09-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1356",
   "htmlHash": "44fa220b4bdf3d29b922e7e0284bb73e",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": "TC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FRASER RIVER HARBOUR COMMISSION BY-LAWS, requested by\nthe Standing Joint Committee for the Scrutiny of Regulations, clarifying\nthe wording of the Commission's By-laws penalty section.\n",
+  "registration": "Registration: SOR/ 1994-0555  Publication Date: 1994-09-07",
+  "registration_type": "SOR",
+  "registration_id": "1994-0555",
+  "registration_publication_date": "1994-09-07"
 }

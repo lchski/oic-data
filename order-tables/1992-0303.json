@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0303</td><td>1992-02-20</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of administration\nand control over a parcel of land situate at FORT LIARD, N.W.T., which\ncontain a total area of some 0.02 hectares (Lot 145, C.L.S.R. Plan 70925).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0303",
   "htmlHash": "5ce9f920f8d8b40e37b0a5e4013b00fe",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of administration\nand control over a parcel of land situate at FORT LIARD, N.W.T., which\ncontain a total area of some 0.02 hectares (Lot 145, C.L.S.R. Plan 70925).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

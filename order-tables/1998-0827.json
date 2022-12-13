@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0827</td><td>1998-05-12</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Board of Directors of the Canadian\nCentre on Substance Abuse of JACQUES GEORGES LeCAVALIER, of Cantley,\nQuebec, as Chief Executive Officer of the Canadian Centre on Substance\nAbuse, to hold office during pleasure for a term ending June 1, 1999,\neffective March 13, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0827",
   "htmlHash": "31a82d37c8c909d47d57a7e15c684a3c",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the re-appointment by the Board of Directors of the Canadian\nCentre on Substance Abuse of JACQUES GEORGES LeCAVALIER, of Cantley,\nQuebec, as Chief Executive Officer of the Canadian Centre on Substance\nAbuse, to hold office during pleasure for a term ending June 1, 1999,\neffective March 13, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

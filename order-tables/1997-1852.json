@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1852</td><td>1997-12-09</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1993-20 of January 5, 1993, which will\nextend the term of appointment of GRANT L. REUBER as Chairman of the Board\nof Directors of the Canada Deposit Insurance Corporation until July 8,\n1999.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1852",
   "htmlHash": "d26ae394b5e958c45b74bdfe1d3681b6",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-09",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1993-20 of January 5, 1993, which will\nextend the term of appointment of GRANT L. REUBER as Chairman of the Board\nof Directors of the Canada Deposit Insurance Corporation until July 8,\n1999.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

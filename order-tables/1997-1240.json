@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1240</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">(a) Approval of the entry by the Attorney General of Canada into an\nAGREEMENT with the REPUBLIC OF TRINIDAD AND TOBAGO ON THE SHARING OF\nFORFEITED ASSETS AND EQUIVALENT FUNDS, and (b) authority to issue an\nInstrument of Full Powers authorizing either the Hon. A. Anne McLellan,\nDaniel A. Bellemare, or Michael F. Kergin to sign the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1240",
   "htmlHash": "7b078a365cba6b69c5f81c857a48a6db",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "(a) Approval of the entry by the Attorney General of Canada into an\nAGREEMENT with the REPUBLIC OF TRINIDAD AND TOBAGO ON THE SHARING OF\nFORFEITED ASSETS AND EQUIVALENT FUNDS, and (b) authority to issue an\nInstrument of Full Powers authorizing either the Hon. A. Anne McLellan,\nDaniel A. Bellemare, or Michael F. Kergin to sign the said Agreement.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

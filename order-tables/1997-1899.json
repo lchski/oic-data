@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1899</td><td>1997-12-17</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUGS REGULATIONS (1099) which exempts\ntraditional medicines, homeopathic preparations and vitamin and mineral\nsupplements from the Establishment Licensing Framework.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0007  <strong>Publication Date:</strong> 1998-01-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1899",
   "htmlHash": "6535e737e632b8d6edf8002a92730a4d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUGS REGULATIONS (1099) which exempts\ntraditional medicines, homeopathic preparations and vitamin and mineral\nsupplements from the Establishment Licensing Framework.\n",
+  "registration": "Registration: SOR/ 1998-0007  Publication Date: 1998-01-07",
+  "registration_type": "SOR",
+  "registration_id": "1998-0007",
+  "registration_publication_date": "1998-01-07"
 }

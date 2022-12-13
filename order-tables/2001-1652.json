@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1652</td><td>2001-09-20</td><td>0</td><td></td><td>FAIT,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to present a GIFT to the Government of AUSTRALIA consisting of\nan artistic work in the form of an inlaid stone paving mosaic, on the\noccasion of the Centenary of Australia's Federation.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1652",
   "htmlHash": "c3eb9509931c011dbe684f9b8357cc0c",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-09-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "FAIT, TB, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to present a GIFT to the Government of AUSTRALIA consisting of\nan artistic work in the form of an inlaid stone paving mosaic, on the\noccasion of the Centenary of Australia's Federation.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

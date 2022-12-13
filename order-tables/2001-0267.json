@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0267</td><td>2001-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into the HORSE LAKE FIRST NATION SPECIFIC CLAIM\nSETTLEMENT AGREEMENT for the purpose of compensating the Horse Lake First\nNation of Alberta for an invalid surrender of its reserves which took place\nin 1928.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0267",
   "htmlHash": "c07513527192db2d84b66b75348f6189",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-02-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, TB, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into the HORSE LAKE FIRST NATION SPECIFIC CLAIM\nSETTLEMENT AGREEMENT for the purpose of compensating the Horse Lake First\nNation of Alberta for an invalid surrender of its reserves which took place\nin 1928.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

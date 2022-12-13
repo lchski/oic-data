@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0390</td><td>1994-03-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Waiving of the reservation unto the Crown with respect to that strip of\nLot 11 of Block E, in the City of Yellowknife, N.W.T., lying within 100\nfeet of the ordinary high water mark of Great Slave Lake, as well as any\nportion lying below the mark, in order to facilitate the granting of title\nto the City of Yellowknife.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0028  <strong>Publication Date:</strong> 1994-03-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0390",
   "htmlHash": "ce3cfdc290667d8c5085e68f1f29314b",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-03-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Waiving of the reservation unto the Crown with respect to that strip of\nLot 11 of Block E, in the City of Yellowknife, N.W.T., lying within 100\nfeet of the ordinary high water mark of Great Slave Lake, as well as any\nportion lying below the mark, in order to facilitate the granting of title\nto the City of Yellowknife.\n",
+  "registration": "Registration: SI / 1994-0028  Publication Date: 1994-03-23",
+  "registration_type": "SI",
+  "registration_id": "1994-0028",
+  "registration_publication_date": "1994-03-23"
 }

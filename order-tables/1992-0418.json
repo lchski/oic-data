@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0418</td><td>1992-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Dissolution of the WINDERMERE DISTRICT CHAMBER OF COMMERCE, incorporated in\nthe Province of British Columbia and registered in 1913, because it has\nceased to exercise its franchises.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0418",
   "htmlHash": "b779633b9c80acc70c6975c762b4204a",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , CCAC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Dissolution of the WINDERMERE DISTRICT CHAMBER OF COMMERCE, incorporated in\nthe Province of British Columbia and registered in 1913, because it has\nceased to exercise its franchises.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

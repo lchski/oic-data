@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1417</td><td>1992-06-23</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an Agreement with the SPLIT LAKE CREE FIRST NATION,\nthe Province of MANITOBA and THE MANITOBA HYDRO-ELECTRIC BOARD, to conclude\nSplit Lake Cree obligations under the Northern Flood Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1417",
   "htmlHash": "6596d858775b1594b7f508da42d26d93",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into an Agreement with the SPLIT LAKE CREE FIRST NATION,\nthe Province of MANITOBA and THE MANITOBA HYDRO-ELECTRIC BOARD, to conclude\nSplit Lake Cree obligations under the Northern Flood Agreement.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1026</td><td>1997-07-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the LIVESTOCK AND POULTRY CARCASS GRADING REGULATIONS\nwhich increase the maximum allowable carcass weight for VEAL and the\nmaximum graded carcass weight, make grade-stamping optional for heavier\ncarcasses and slightly modify the muscling requirements for grades\nCanada A and B.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0370  <strong>Publication Date:</strong> 1997-08-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1026",
   "htmlHash": "bcfa1ced65a6dedd6dcf4981aa82c54d",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the LIVESTOCK AND POULTRY CARCASS GRADING REGULATIONS\nwhich increase the maximum allowable carcass weight for VEAL and the\nmaximum graded carcass weight, make grade-stamping optional for heavier\ncarcasses and slightly modify the muscling requirements for grades\nCanada A and B.\n",
+  "registration": "Registration: SOR/ 1997-0370  Publication Date: 1997-08-20",
+  "registration_type": "SOR",
+  "registration_id": "1997-0370",
+  "registration_publication_date": "1997-08-20"
 }

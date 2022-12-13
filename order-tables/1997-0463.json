@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0463</td><td>1997-04-08</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1994-610 of April 14, 1994 which will\nextend the appointment of JEAN-PAUL MORENCY as Vice-Chairman of the board\nof directors of the Port of Quebec Corporation until December 31, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0463",
   "htmlHash": "180e35f3624512ad188e4d01515d9634",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1994-610 of April 14, 1994 which will\nextend the appointment of JEAN-PAUL MORENCY as Vice-Chairman of the board\nof directors of the Port of Quebec Corporation until December 31, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

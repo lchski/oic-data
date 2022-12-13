@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2098</td><td>1998-11-26</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sale to WILLIAM CARLOUS WESCHE, of the Town of Faro, Yukon Territory, of\nsome 4.8 hectares of land situated near Kilometre 458.2 of the Campbell\nHighway (Y.T. HWY # 4), in Quad 105K/4, in the Yukon Territory.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2098",
   "htmlHash": "b5f74360cf31cd2b8cc6015535b5cb18",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Sale to WILLIAM CARLOUS WESCHE, of the Town of Faro, Yukon Territory, of\nsome 4.8 hectares of land situated near Kilometre 458.2 of the Campbell\nHighway (Y.T. HWY # 4), in Quad 105K/4, in the Yukon Territory.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0827</td><td>1992-04-30</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of leave to three Judges to absent themselves from their judicial\nduties for a period of six months (Jan. 1 - June 30, 1992) so that they can\nparticipate in the NATIONAL JUDICIAL STUDY LEAVE FELLOWSHIP PROGRAM.\n1. Mr. Justice GUY LEBRUN        (Superior Court of Quebec)\n2. Mr. Justice DAVID G. RICHE    (Supreme Court of Newfoundland)\n3. Mr. Justice MELVIN L. ROTHMAN (Court of Appeal of Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0827",
   "htmlHash": "cf1ac820ac5491813a7908251ce4c56e",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of leave to three Judges to absent themselves from their judicial\nduties for a period of six months (Jan. 1 - June 30, 1992) so that they can\nparticipate in the NATIONAL JUDICIAL STUDY LEAVE FELLOWSHIP PROGRAM.\n1. Mr. Justice GUY LEBRUN        (Superior Court of Quebec)\n2. Mr. Justice DAVID G. RICHE    (Supreme Court of Newfoundland)\n3. Mr. Justice MELVIN L. ROTHMAN (Court of Appeal of Quebec)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

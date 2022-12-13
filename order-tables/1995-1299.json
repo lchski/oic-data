@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1299</td><td>1995-08-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the IMPORT CONTROL LIST which place wheat, barley and their\nproducts and certain dairy products on the List, for the purposes\nof implementing the WTO Agreement on Agriculture by controlling their\nimportation, and ensuring that such products are permitted entry in\nperiods of scarcity in Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0395  <strong>Publication Date:</strong> 1995-08-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1299",
   "htmlHash": "ddfa79cc28d1beede14258094e884298",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-08-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FAIT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the IMPORT CONTROL LIST which place wheat, barley and their\nproducts and certain dairy products on the List, for the purposes\nof implementing the WTO Agreement on Agriculture by controlling their\nimportation, and ensuring that such products are permitted entry in\nperiods of scarcity in Canada.\n",
+  "registration": "Registration: SOR/ 1995-0395  Publication Date: 1995-08-23",
+  "registration_type": "SOR",
+  "registration_id": "1995-0395",
+  "registration_publication_date": "1995-08-23"
 }

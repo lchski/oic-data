@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1767</td><td>1992-08-05</td><td>0</td><td></td><td>,&nbsp; TC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of Alan Scales, of Charlottetown, Prince Edward Island, as\nChairman of Marine Atlantic Inc. to hold office during plesure for a term\nof three years, effective August 17, 1992.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1767",
   "htmlHash": "38b24c2d21489272642d3118c0aadee1",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-08-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", TC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of Alan Scales, of Charlottetown, Prince Edward Island, as\nChairman of Marine Atlantic Inc. to hold office during plesure for a term\nof three years, effective August 17, 1992.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

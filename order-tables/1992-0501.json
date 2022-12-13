@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0501</td><td>1992-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1989-7/1236 (whereby the NATIONAL\nCAPITAL COMMISSION was authorized to transfer land to the City of\nGloucester for the construction of the Blackburn Hamlet By-Pass) which\nrevises the dimensions of the land thereby transferred.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0501",
   "htmlHash": "ecefb32990c1ebffe356fee71f210a6b",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PWC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1989-7/1236 (whereby the NATIONAL\nCAPITAL COMMISSION was authorized to transfer land to the City of\nGloucester for the construction of the Blackburn Hamlet By-Pass) which\nrevises the dimensions of the land thereby transferred.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

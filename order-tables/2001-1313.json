@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1313</td><td>2001-07-31</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JUDITH E. ROSS, of Ottawa, Ontario, as a full-time member\nof the National Parole Board to hold office during good behaviour\nfor a period of three years; and designation of JUDITH E. ROSS as a full-\ntime member of the Appeal Division of the National Parole Board; effective\nSeptember 25, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1313",
   "htmlHash": "a5d6cd9bc74a8b95deb4452eb6565fe7",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-07-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of JUDITH E. ROSS, of Ottawa, Ontario, as a full-time member\nof the National Parole Board to hold office during good behaviour\nfor a period of three years; and designation of JUDITH E. ROSS as a full-\ntime member of the Appeal Division of the National Parole Board; effective\nSeptember 25, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

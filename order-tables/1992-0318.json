@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0318</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; NTA,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Sanction of the agreement between the NORFOLK AND WESTERN RAILWAY COMPANY,\nCNCP NIAGARA-DETROIT and the CANADIAN NATIONAL RAILWAY COMPANY,\nconcerning the granting to the Norfolk and Western Railway Company of the\nright to use the tracks and related facilities of the Van de Water Yard and\na segment of the line of the CNCP Niagara-Detroit in the CASO Subdivision\nbetween Windsor and Fargo.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0318",
   "htmlHash": "0cd2d8734aea2d6531fbdaab9a874ebd",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , NTA, TC",
+  "act": "",
+  "subject": "",
+  "precis": "Sanction of the agreement between the NORFOLK AND WESTERN RAILWAY COMPANY,\nCNCP NIAGARA-DETROIT and the CANADIAN NATIONAL RAILWAY COMPANY,\nconcerning the granting to the Norfolk and Western Railway Company of the\nright to use the tracks and related facilities of the Van de Water Yard and\na segment of the line of the CNCP Niagara-Detroit in the CASO Subdivision\nbetween Windsor and Fargo.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

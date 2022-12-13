@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1516</td><td>1991-08-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Grant of an annuity to the WIDOW of the HON. ANTOINE LACOURCIÈRE, who was a\nPuisne Judge of the Superior Court of Quebec.\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1516",
   "htmlHash": "a6e6a032a81f34e935b9874f78f894e6",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-08-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , JUS, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Grant of an annuity to the WIDOW of the HON. ANTOINE LACOURCIÈRE, who was a\nPuisne Judge of the Superior Court of Quebec.\n\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

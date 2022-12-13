@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0436</td><td>1997-03-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FORDQ,&nbsp; PTB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a supplementary agreement with the Province of\nQUEBEC to amend the CANADA-QUEBEC CONTRIBUTION AGREEMENT ON INFRASTRUCTURE.\nin order to postpone its expiration date until July 31, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0436",
   "htmlHash": "af5fd7b37c948f85186dc6b46a7b6601",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FORDQ, PTB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval to enter into a supplementary agreement with the Province of\nQUEBEC to amend the CANADA-QUEBEC CONTRIBUTION AGREEMENT ON INFRASTRUCTURE.\nin order to postpone its expiration date until July 31, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

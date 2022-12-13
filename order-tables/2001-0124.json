@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0124</td><td>2001-01-23</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a COMMISSION do issue under the Great Seal of Canada\nempowering JACQUELINE CLERMONT to administer oaths and to take and receive\naffidavits, etc., within or outside Canada, in or concerning any proceeding\nbefore the TAX COURT OF CANADA.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0124",
   "htmlHash": "85caedfab1332db40f3e89d3b82982f3",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a COMMISSION do issue under the Great Seal of Canada\nempowering JACQUELINE CLERMONT to administer oaths and to take and receive\naffidavits, etc., within or outside Canada, in or concerning any proceeding\nbefore the TAX COURT OF CANADA.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

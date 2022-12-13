@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0909</td><td>1998-05-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) revoking Order in Council P.C. 1998-50 which gave consent to\nMoneyGram Payment Systems, Inc. to establish and acquire all the shares of\nMoneyGram Payment Systems Canada Inc., and (b) giving consent to VIAD CORP,\na foreign bank, to acquire and hold shares of MONEYGRAM PAYMENT SYSTEMS\nCANADA INC.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0909",
   "htmlHash": "e6f7b28ca6c175dead9cc09d900f7cdb",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-05-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) revoking Order in Council P.C. 1998-50 which gave consent to\nMoneyGram Payment Systems, Inc. to establish and acquire all the shares of\nMoneyGram Payment Systems Canada Inc., and (b) giving consent to VIAD CORP,\na foreign bank, to acquire and hold shares of MONEYGRAM PAYMENT SYSTEMS\nCANADA INC.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

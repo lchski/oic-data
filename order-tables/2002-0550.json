@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0550</td><td>2002-04-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CHARTS AND NAUTICAL PUBLICATIONS REGULATIONS, 1995\nby repealing Item 1 of the Schedule to the Regulations (Code of Nautical\nProcedures and Practices, 1985 - TP 1018).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2002-0152  <strong>Publication Date:</strong> 2002-04-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0550",
   "htmlHash": "58ce85e4c525b899ff9bda15e77e8993",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CHARTS AND NAUTICAL PUBLICATIONS REGULATIONS, 1995\nby repealing Item 1 of the Schedule to the Regulations (Code of Nautical\nProcedures and Practices, 1985 - TP 1018).\n",
+  "registration": "Registration: SOR/ 2002-0152  Publication Date: 2002-04-24",
+  "registration_type": "SOR",
+  "registration_id": "2002-0152",
+  "registration_publication_date": "2002-04-24"
 }

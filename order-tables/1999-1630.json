@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1630</td><td>1999-09-28</td><td>0</td><td></td><td>IT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister for International Trade of\nDENNIS WOOD, of Magog, Quebec, as a director of the Board of Directors of\nthe Export Development Corporation to hold office during pleasure for a\nterm of three years, in the place of Marcel Dufour, whose term has\nexpired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1630",
   "htmlHash": "cd6d788c710ff0b4136e5d188722c5f5",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "IT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister for International Trade of\nDENNIS WOOD, of Magog, Quebec, as a director of the Board of Directors of\nthe Export Development Corporation to hold office during pleasure for a\nterm of three years, in the place of Marcel Dufour, whose term has\nexpired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

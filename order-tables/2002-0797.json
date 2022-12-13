@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0797</td><td>2002-05-09</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain Senior Judges to the office of ADMINISTRATOR of the\nGovernment of ONTARIO for the following short periods of time:\n:\n     --------------------------------     --------------------------\n     Period of Time                       Judge\n     --------------------------------     --------------------------\n  1. May 11 to May 16, 2002               The Hon. John W. MORDEN\n  2. May 17 to May 19, 2002               The Hon. Heather J. SMITH\n  3. May 20 to May 25, 2002               The Hon. Patrick J. LeSAGE\n:\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0797",
   "htmlHash": "2f94dabdfc2760cf68512306ec61fa2d",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain Senior Judges to the office of ADMINISTRATOR of the\nGovernment of ONTARIO for the following short periods of time:\n:\n     --------------------------------     --------------------------\n     Period of Time                       Judge\n     --------------------------------     --------------------------\n  1. May 11 to May 16, 2002               The Hon. John W. MORDEN\n  2. May 17 to May 19, 2002               The Hon. Heather J. SMITH\n  3. May 20 to May 25, 2002               The Hon. Patrick J. LeSAGE\n:\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

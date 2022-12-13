@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1021</td><td>1995-06-23</td><td>0</td><td></td><td>EC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MIGRATORY BIRDS REGULATIONS establishing hunting season\ndates for 1995, the number of migratory game birds that may be taken or\npossessed during those dates, and to re-define certain hunting districts.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0296  <strong>Publication Date:</strong> 1995-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1021",
   "htmlHash": "1ea0a97c611dc90345b14606a6533609",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "EC, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the MIGRATORY BIRDS REGULATIONS establishing hunting season\ndates for 1995, the number of migratory game birds that may be taken or\npossessed during those dates, and to re-define certain hunting districts.\n",
+  "registration": "Registration: SOR/ 1995-0296  Publication Date: 1995-07-12",
+  "registration_type": "SOR",
+  "registration_id": "1995-0296",
+  "registration_publication_date": "1995-07-12"
 }

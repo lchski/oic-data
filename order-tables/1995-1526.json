@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1526</td><td>1995-09-13</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments (SCHEDULE No. 887) to the FOOD AND DRUG REGULATIONS concerning\nthe labelling of gluten-free foods, which come into force on May 1, 1996.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0444  <strong>Publication Date:</strong> 1995-10-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1526",
   "htmlHash": "c5ae4050d2d0e8fe8b2087175b14af49",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HWC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments (SCHEDULE No. 887) to the FOOD AND DRUG REGULATIONS concerning\nthe labelling of gluten-free foods, which come into force on May 1, 1996.\n",
+  "registration": "Registration: SOR/ 1995-0444  Publication Date: 1995-10-04",
+  "registration_type": "SOR",
+  "registration_id": "1995-0444",
+  "registration_publication_date": "1995-10-04"
 }

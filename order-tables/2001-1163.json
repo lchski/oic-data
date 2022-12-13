@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-1163</td><td>2001-06-14</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval to enter into a SUPPLEMENTARY AGREEMENT with QUEBEC in order to\namend Part VII of the AGREEMENT with respect to the ADMINISTRATION BY\nQUEBEC OF PART IX of the EXCISE TAX ACT relating to the GOODS AND SERVICES\nTAX so that the actual ratio used to calculate the ceiling on the\ncompensation payable to Quebec shall be that of the previous fiscal year.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-1163",
   "htmlHash": "00443ce79b92ab76d67a0fb1649ed6bd",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "CCRA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval to enter into a SUPPLEMENTARY AGREEMENT with QUEBEC in order to\namend Part VII of the AGREEMENT with respect to the ADMINISTRATION BY\nQUEBEC OF PART IX of the EXCISE TAX ACT relating to the GOODS AND SERVICES\nTAX so that the actual ratio used to calculate the ceiling on the\ncompensation payable to Quebec shall be that of the previous fiscal year.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

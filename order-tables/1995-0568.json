@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0568</td><td>1995-04-04</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF FINANCE AND OFFICE OF\nTHE SUPERINTENDENT OF FINANCIAL INSTITUTIONS) 1995-1 correcting the\nfollowing regulations:\n.\n- Registration of Bank Special Security Regulations\n- Insurance Business (Banks) Regulations\n- Complaint Information (Canadian Insurance Companies) Regulations\n- Complaint Information (Foreign Insurance Companies) Regulations\n- Pension Benefits Standards Regulations, 1985\n- Insurance Business (Trust and Loan Companies) Regulations\n.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0171  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0568",
   "htmlHash": "bdd491153084189990f02b3a54a39d12",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-04-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "MISCELLANEOUS AMENDMENTS REGULATIONS (DEPARTMENT OF FINANCE AND OFFICE OF\nTHE SUPERINTENDENT OF FINANCIAL INSTITUTIONS) 1995-1 correcting the\nfollowing regulations:\n.\n- Registration of Bank Special Security Regulations\n- Insurance Business (Banks) Regulations\n- Complaint Information (Canadian Insurance Companies) Regulations\n- Complaint Information (Foreign Insurance Companies) Regulations\n- Pension Benefits Standards Regulations, 1985\n- Insurance Business (Trust and Loan Companies) Regulations\n.\n",
+  "registration": "Registration: SOR/ 1995-0171  Publication Date: 1995-04-19",
+  "registration_type": "SOR",
+  "registration_id": "1995-0171",
+  "registration_publication_date": "1995-04-19"
 }

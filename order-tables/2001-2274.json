@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2274</td><td>2001-12-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order extending the mandate of the OFFICE OF THE TREATY COMMISSIONER IN\nSASKATCHEWAN as a recognized federal institution to function in the\nProvince of Saskatchewan.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2274",
   "htmlHash": "75536615bf74a3273d4e410d0648418a",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-12-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, TB, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order extending the mandate of the OFFICE OF THE TREATY COMMISSIONER IN\nSASKATCHEWAN as a recognized federal institution to function in the\nProvince of Saskatchewan.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

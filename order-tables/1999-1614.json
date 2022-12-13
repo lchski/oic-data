@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1614</td><td>1999-09-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HERITAGE,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of\nJOHN R. ENGLISH, of Kitchener, Ontario, as Chairperson of the Board of\nTrustees of the Canadian Museum of Civilization to hold office during\npleasure for a term of four years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1614",
   "htmlHash": "f38b6616339a31845ee699accecb954f",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HERITAGE, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Canadian Heritage of\nJOHN R. ENGLISH, of Kitchener, Ontario, as Chairperson of the Board of\nTrustees of the Canadian Museum of Civilization to hold office during\npleasure for a term of four years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1958</td><td>1993-12-02</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order setting aside the election of LYLE PEIGAN as a Councillor of the\nPASQUA BAND OF INDIANS in Saskatchewan due to a violation of subsection\n77(1) of the Indian Act that might have affected the results of the vote\nheld on February 23, 1993.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1958",
   "htmlHash": "fec865000d065123af187dffe3a4d810",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-12-02",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order setting aside the election of LYLE PEIGAN as a Councillor of the\nPASQUA BAND OF INDIANS in Saskatchewan due to a violation of subsection\n77(1) of the Indian Act that might have affected the results of the vote\nheld on February 23, 1993.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

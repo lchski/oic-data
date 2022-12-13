@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0336</td><td>2001-03-09</td><td>0</td><td></td><td>NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of WILLIAM GRANT HINCHEY, of Yellowknife, Northwest\nTerritories, selected from a list of nominees submitted by the Northwest\nTerritories, as a director of the Board of Management of the Canada Customs\nand Revenue Agency, to hold office during pleasure for a term of three\nyears, in the place of David A. Ordish, whose term has expired.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0336",
   "htmlHash": "fffaab06eb8652642b1783da84273da2",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-09",
+  "chapter": "0",
+  "bill": "",
+  "department": "NR, , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of WILLIAM GRANT HINCHEY, of Yellowknife, Northwest\nTerritories, selected from a list of nominees submitted by the Northwest\nTerritories, as a director of the Board of Management of the Canada Customs\nand Revenue Agency, to hold office during pleasure for a term of three\nyears, in the place of David A. Ordish, whose term has expired.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

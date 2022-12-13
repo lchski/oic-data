@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1940</td><td>1998-11-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of SAM MURDOCK, of Koostatak, Manitoba, as Chairman of the\nBoard of Directors of the Freshwater Fish Marketing Corporation to hold\noffice during pleasure for a term of six months, effective October 24,\n1998; and approval of the authorization by the Board of Directors of the\nFreshater Fish Marketing Corporation of SAM MURDOCK to act as President\nof the Corporation for a period ending April 23, 1999 or until such time\nas a President is appointed.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1940",
   "htmlHash": "69f2a76c7beab9117a53887ff1ab1a3c",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-11-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of SAM MURDOCK, of Koostatak, Manitoba, as Chairman of the\nBoard of Directors of the Freshwater Fish Marketing Corporation to hold\noffice during pleasure for a term of six months, effective October 24,\n1998; and approval of the authorization by the Board of Directors of the\nFreshater Fish Marketing Corporation of SAM MURDOCK to act as President\nof the Corporation for a period ending April 23, 1999 or until such time\nas a President is appointed.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

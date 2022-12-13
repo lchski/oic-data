@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1924</td><td>1998-10-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the London offices of CITIBANK, N.A. as the agent of the\nGovernment of Canada in connection with the sale of Securities (U.S. Dollar\nBonds) issued pursuant to five Orders in Council [P.C. 1994-150,\nP.C. 1995-803, P.C. 1995-1124, P.C. 1996-774 and P.C. 1996-1308], as the\nreplacement for the Morgan Guaranty Trust Company of New York in London.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1924",
   "htmlHash": "398c800f732d95320a3dc42142b37035",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the London offices of CITIBANK, N.A. as the agent of the\nGovernment of Canada in connection with the sale of Securities (U.S. Dollar\nBonds) issued pursuant to five Orders in Council [P.C. 1994-150,\nP.C. 1995-803, P.C. 1995-1124, P.C. 1996-774 and P.C. 1996-1308], as the\nreplacement for the Morgan Guaranty Trust Company of New York in London.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0857</td><td>1991-05-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Ordinances (Bills No. 1, 11, 12, 14, 17, 19, 20, 21, 22, 27, 28 and 33)\nmade by the Commissioner in Council of the NORTHWEST TERRITORY during the\neighth Session of the eleventh Council.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0857",
   "htmlHash": "9e0dbe0d116deb5110dc4b504fed9caa",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Ordinances (Bills No. 1, 11, 12, 14, 17, 19, 20, 21, 22, 27, 28 and 33)\nmade by the Commissioner in Council of the NORTHWEST TERRITORY during the\neighth Session of the eleventh Council.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2282</td><td>1998-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment made by the NATIONAL ENERGY BOARD to Gas Export\nLicence GL-276 issued to CoENERGY TRADING COMPANY which reduces the maximum\ndaily quantity of gas that may be exported pursuant thereto, in accordance\nwith N.E.B. Order AO-1-GL-276.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2282",
   "htmlHash": "c741657323e04b646704f3e17aa3cd42",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , RESOURCES",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of an amendment made by the NATIONAL ENERGY BOARD to Gas Export\nLicence GL-276 issued to CoENERGY TRADING COMPANY which reduces the maximum\ndaily quantity of gas that may be exported pursuant thereto, in accordance\nwith N.E.B. Order AO-1-GL-276.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0076</td><td>1996-01-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the PACIFIC PILOTAGE TARIFF REGULATIONS which increase the\ntariff rates in all compulsory pilotage areas by 1.5% as well the travel-\nrelated rates, and introduce a new port-to-port fee of $360 per assignment,\neffective February 1, 1996.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0091  <strong>Publication Date:</strong> 1996-02-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0076",
   "htmlHash": "96f21d22564c5774cdef8dc18f41285e",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the PACIFIC PILOTAGE TARIFF REGULATIONS which increase the\ntariff rates in all compulsory pilotage areas by 1.5% as well the travel-\nrelated rates, and introduce a new port-to-port fee of $360 per assignment,\neffective February 1, 1996.\n",
+  "registration": "Registration: SOR/ 1996-0091  Publication Date: 1996-02-07",
+  "registration_type": "SOR",
+  "registration_id": "1996-0091",
+  "registration_publication_date": "1996-02-07"
 }

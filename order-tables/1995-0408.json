@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0408</td><td>1995-03-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to MADRID, Spain, made by two Members of\nParliament, Richard Bélisle (La Prairie) and Herbert G. Grubel\n(Capilano -- Howe Sound), between September 28 and October 5, 1994, as\nmembers of the Canadian Delegation to the Annual Meetings of the WORLD BANK\nand the INTERNATIONAL MONETARY FUND.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0408",
   "htmlHash": "44c8d4d2c9d60b0cb6c79f92a9af6872",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the trip to MADRID, Spain, made by two Members of\nParliament, Richard Bélisle (La Prairie) and Herbert G. Grubel\n(Capilano -- Howe Sound), between September 28 and October 5, 1994, as\nmembers of the Canadian Delegation to the Annual Meetings of the WORLD BANK\nand the INTERNATIONAL MONETARY FUND.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

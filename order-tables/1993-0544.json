@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0544</td><td>1993-03-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for Elizabeth Châtillon of the Departemnt of Communications\nto sign an Exchange of Notes with the REPUBLIC OF FRANCE Constituting an\nAgreement amending the following Agreements:\n- Cinematograhic Relations\n- Promotion of film and video co-production projects in the field of\n   animation\n- Television relations\n- Development of French language audiovisual co-production projects for\n   television.\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0544",
   "htmlHash": "b9407d391a58ebd48c383f8c6613521e",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-03-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for Elizabeth Châtillon of the Departemnt of Communications\nto sign an Exchange of Notes with the REPUBLIC OF FRANCE Constituting an\nAgreement amending the following Agreements:\n- Cinematograhic Relations\n- Promotion of film and video co-production projects in the field of\n   animation\n- Television relations\n- Development of French language audiovisual co-production projects for\n   television.\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

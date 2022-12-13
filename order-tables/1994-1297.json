@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1297</td><td>1994-08-03</td><td>0</td><td></td><td>F&amp;O,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ABORIGINAL COMMUNAL FISHING LICENCES REGULATIONS which\nauthorizes the Minister of Natural Resources for Ontario (a) to issue\nAboriginal communal fishing licences in areas where fisheries are directly\nmanaged by his Ministry, and (b) to fix the terms and conditions of such\nlicences.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0531  <strong>Publication Date:</strong> 1994-08-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1297",
   "htmlHash": "442e94849c8ae7b925240f0aa882cb1a",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "F&O, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the ABORIGINAL COMMUNAL FISHING LICENCES REGULATIONS which\nauthorizes the Minister of Natural Resources for Ontario (a) to issue\nAboriginal communal fishing licences in areas where fisheries are directly\nmanaged by his Ministry, and (b) to fix the terms and conditions of such\nlicences.\n",
+  "registration": "Registration: SOR/ 1994-0531  Publication Date: 1994-08-24",
+  "registration_type": "SOR",
+  "registration_id": "1994-0531",
+  "registration_publication_date": "1994-08-24"
 }

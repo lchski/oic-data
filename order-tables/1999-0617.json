@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0617</td><td>1999-04-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-2111 of December 1, 1998\nappointing MICHEL FOURNIER, of St-Jean-sur-Richelieu, Quebec, as\npresident of The Federal Bridge Corporation Limited, by replacing the\nwords \"for a term of three years\" with the words \"for a term of five\nyears\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0617",
   "htmlHash": "e48fd08d9a8c49a1deeaf3dac5fcb3d3",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1998-2111 of December 1, 1998\nappointing MICHEL FOURNIER, of St-Jean-sur-Richelieu, Quebec, as\npresident of The Federal Bridge Corporation Limited, by replacing the\nwords \"for a term of three years\" with the words \"for a term of five\nyears\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0020</td><td>1992-01-09</td><td>0</td><td></td><td>EMR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Daniel R. Whelan, of Gloucester, Ontario, as a member of\nthe Development Fund Committee.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0020",
   "htmlHash": "3b26d8b19e3f0af7b10cde00278a9ee5",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-01-09",
+  "chapter": "0",
+  "bill": "",
+  "department": "EMR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Daniel R. Whelan, of Gloucester, Ontario, as a member of\nthe Development Fund Committee.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0098</td><td>2001-01-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of KEITH G. MARTELL, of Saskatoon, Saskatchewan,\nBARBARA BENDER, of Rothesay, New Brunswick, and LYNN LOEWEN, of Dartmouth,\nNova Scotia, as directors of the Public Sector Pension Investment Board to\nhold office during good behaviour for a term of two years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0098",
   "htmlHash": "de6f7f1c908e9ee08ddf400c9b554bc5",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TB",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KEITH G. MARTELL, of Saskatoon, Saskatchewan,\nBARBARA BENDER, of Rothesay, New Brunswick, and LYNN LOEWEN, of Dartmouth,\nNova Scotia, as directors of the Public Sector Pension Investment Board to\nhold office during good behaviour for a term of two years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

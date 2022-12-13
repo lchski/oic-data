@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2501</td><td>1991-12-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FIN,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Indirect Share Acquisition Authorization Order - SEARS, ROEBUCK AND CO. -\nwhich authorizes the aforementioned to indirectly acquire more than 10% of\nthe shares in Midland Walwyn Capital Inc. through the indirect acquisition\nof up to 13% of the ordinary shares in Midland Walwyn Inc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2501",
   "htmlHash": "7582707516768f8e26915f1dc352cdde",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-12-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FIN, ",
+  "act": "",
+  "subject": "",
+  "precis": "Indirect Share Acquisition Authorization Order - SEARS, ROEBUCK AND CO. -\nwhich authorizes the aforementioned to indirectly acquire more than 10% of\nthe shares in Midland Walwyn Capital Inc. through the indirect acquisition\nof up to 13% of the ordinary shares in Midland Walwyn Inc.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

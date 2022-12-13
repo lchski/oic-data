@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1560</td><td>1995-09-13</td><td>0</td><td></td><td>,&nbsp; VAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as permanent members of the Veterans\nReview and Appeal Board to hold office during good behaviour for a term\neffective September 15, 1995 and ending June 30, 1997.\n(YVES CARON, Laprairie, Quebec; SHIRLEY F. CHEEVERS, Ottawa, Ontario;\nMAURICE DUPLESSIS, Sainte-Foy, Quebec; CAPTAIN LARRY FRANCIS GRAY, C.D.\n(RETIRED), Nepean, Ontario; THE HONOURABLE JAMES MATTHEW LEE, P.C.,\nStanhope, Prince Edward Island; UNA MacLEAN EVANS, Edmonton, Alberta; and\nRENÉ COUSINEAU, Gatineau, Quebec)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1560",
   "htmlHash": "4e5eb7da7c1dc51f9ab56ca0470f84b6",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-09-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", VAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as permanent members of the Veterans\nReview and Appeal Board to hold office during good behaviour for a term\neffective September 15, 1995 and ending June 30, 1997.\n(YVES CARON, Laprairie, Quebec; SHIRLEY F. CHEEVERS, Ottawa, Ontario;\nMAURICE DUPLESSIS, Sainte-Foy, Quebec; CAPTAIN LARRY FRANCIS GRAY, C.D.\n(RETIRED), Nepean, Ontario; THE HONOURABLE JAMES MATTHEW LEE, P.C.,\nStanhope, Prince Edward Island; UNA MacLEAN EVANS, Edmonton, Alberta; and\nRENÉ COUSINEAU, Gatineau, Quebec)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

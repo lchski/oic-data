@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0413</td><td>1990-03-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PUBLIC WORKS NUISANCES REGULATIONS which will prohibit\nthe making of loud, disruptive noises, demonstrating or distributing\nliterature within a 50 metre radius of entrances to the Parliament\nBuildings in Ottawa.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0155  <strong>Publication Date:</strong> 1990-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0413",
   "htmlHash": "734ed1e55a39b819d28bbcd5249ce0bc",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-03-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PWC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the PUBLIC WORKS NUISANCES REGULATIONS which will prohibit\nthe making of loud, disruptive noises, demonstrating or distributing\nliterature within a 50 metre radius of entrances to the Parliament\nBuildings in Ottawa.\n",
+  "registration": "Registration: SOR/ 1990-0155  Publication Date: 1990-03-14",
+  "registration_type": "SOR",
+  "registration_id": "1990-0155",
+  "registration_publication_date": "1990-03-14"
 }

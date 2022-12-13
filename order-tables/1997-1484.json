@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1484</td><td>1997-10-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; VAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of SHIRLEY F. CHEEVERS, of Ottawa, Ontario, and\nMAURICE DUPLESSIS, of Sainte-Foy, Quebec, as permanent members of the\nVeterans Review and Appeal Board to hold office during good behaviour for\na term of six months, effective October 1, 1997.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1484",
   "htmlHash": "365b4bbc9ae9ae5a59d15d1672b2f7a9",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-10-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , VAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of SHIRLEY F. CHEEVERS, of Ottawa, Ontario, and\nMAURICE DUPLESSIS, of Sainte-Foy, Quebec, as permanent members of the\nVeterans Review and Appeal Board to hold office during good behaviour for\na term of six months, effective October 1, 1997.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

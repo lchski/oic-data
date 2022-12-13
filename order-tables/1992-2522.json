@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2522</td><td>1992-12-07</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Patricia McCaffrey, of Ottawa, Ontario, as a member of the\nOfficial Residences Council to hold office during pleasure.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2522",
   "htmlHash": "e58fe48ed07fa6545268d57c28fe92cd",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-07",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Patricia McCaffrey, of Ottawa, Ontario, as a member of the\nOfficial Residences Council to hold office during pleasure.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

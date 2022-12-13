@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2865</td><td>1990-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the dismissal of the directors of HARBOURFRONT\nCORPORATION listed hereinafter, effective December 31, 1990.\n.\n1. Suzanne Borup                  9. Stephen LeDrew\n2. Richard Cavanagh              10. Molly Nightingale\n3. Sesto DeLuca                  11. John Parsons\n4. Donna Digby                   12. John Rankin\n5. Wanda Mary Dorosz             13. Norman Meredith Seagram\n6. Susan A. Fish                 14. John Tory\n7. Harold F. Huff                15. Antonio Vaz\n8. Dan Peter La Caprara          16. Robert E. Wharton\n                                 17. Peter Paul Zakarow\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2865",
   "htmlHash": "fb481c0a9976a80058e35548bb0df71b",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PWC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the dismissal of the directors of HARBOURFRONT\nCORPORATION listed hereinafter, effective December 31, 1990.\n.\n1. Suzanne Borup                  9. Stephen LeDrew\n2. Richard Cavanagh              10. Molly Nightingale\n3. Sesto DeLuca                  11. John Parsons\n4. Donna Digby                   12. John Rankin\n5. Wanda Mary Dorosz             13. Norman Meredith Seagram\n6. Susan A. Fish                 14. John Tory\n7. Harold F. Huff                15. Antonio Vaz\n8. Dan Peter La Caprara          16. Robert E. Wharton\n                                 17. Peter Paul Zakarow\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

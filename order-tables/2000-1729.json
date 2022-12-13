@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1729</td><td>2000-11-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; INT'L COOP,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authorization for the trip to BANGLADESH undertaken by JOHN G. WILLIAMS,\nM.P. (St. Albert), from September 6 to September 14, 2000, for the purpose\nof attending a Conference entitled \"Improving Oversight Functions:\nChallenges for the New Millenium\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1729",
   "htmlHash": "a0d93940aacb0d0a805547dd5c64cd1d",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-11-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , INT'L COOP, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authorization for the trip to BANGLADESH undertaken by JOHN G. WILLIAMS,\nM.P. (St. Albert), from September 6 to September 14, 2000, for the purpose\nof attending a Conference entitled \"Improving Oversight Functions:\nChallenges for the New Millenium\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

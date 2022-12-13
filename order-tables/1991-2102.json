@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2102</td><td>1991-10-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1981-407 which transferred to the\nMinister of the Environment the management, charge and direction of the\nAltantic Charter Monument Site in the Province of Newfoundland, by\nrevising the terms and conditions.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2102",
   "htmlHash": "8c42914f9fb4aa095aca8c219417aa4f",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EC, TC",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1981-407 which transferred to the\nMinister of the Environment the management, charge and direction of the\nAltantic Charter Monument Site in the Province of Newfoundland, by\nrevising the terms and conditions.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

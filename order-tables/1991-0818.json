@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0818</td><td>1991-05-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CCAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the TEXTILE LABELLING AND ADVERTISING REGULATIONS exempting\nconsumer textile articles involved in certain transactions from all\nlabelling requirements of the Regulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0299  <strong>Publication Date:</strong> 1991-05-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0818",
   "htmlHash": "db0df8fae4eb262c54f1bff5ac21085d",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-05-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , CCAC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the TEXTILE LABELLING AND ADVERTISING REGULATIONS exempting\nconsumer textile articles involved in certain transactions from all\nlabelling requirements of the Regulations.\n",
+  "registration": "Registration: SOR/ 1991-0299  Publication Date: 1991-05-22",
+  "registration_type": "SOR",
+  "registration_id": "1991-0299",
+  "registration_publication_date": "1991-05-22"
 }

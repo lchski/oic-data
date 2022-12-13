@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0387</td><td>1997-03-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the GENERAL PREFERENTIAL TARIFF EXTENSION OF BENEFIT ORDER\n(THE REPUBLIC OF CROATIA) - which extends the benefit of the General\nPreferential Tariff to all goods originating in the Republic of Croatia.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0157  <strong>Publication Date:</strong> 1997-04-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0387",
   "htmlHash": "762e0422cefb690f68ca66284fe9f1f7",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the GENERAL PREFERENTIAL TARIFF EXTENSION OF BENEFIT ORDER\n(THE REPUBLIC OF CROATIA) - which extends the benefit of the General\nPreferential Tariff to all goods originating in the Republic of Croatia.\n",
+  "registration": "Registration: SOR/ 1997-0157  Publication Date: 1997-04-02",
+  "registration_type": "SOR",
+  "registration_id": "1997-0157",
+  "registration_publication_date": "1997-04-02"
 }

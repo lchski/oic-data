@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1703</td><td>1998-09-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; SGC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue declaring the last Sunday in\nthe month of September of every year as \"POLICE AND PEACE OFFICERS'\nNATIONAL MEMORIAL DAY\".\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0097  <strong>Publication Date:</strong> 1998-10-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1703",
   "htmlHash": "b5b43442ec19078eee79c27d8d2b6781",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , SGC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION do issue declaring the last Sunday in\nthe month of September of every year as \"POLICE AND PEACE OFFICERS'\nNATIONAL MEMORIAL DAY\".\n",
+  "registration": "Registration: SI / 1998-0097  Publication Date: 1998-10-14",
+  "registration_type": "SI",
+  "registration_id": "1998-0097",
+  "registration_publication_date": "1998-10-14"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1115</td><td>1994-06-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ISTC,&nbsp; IT,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to enter into an AGREEMENT with the Province of NEW BRUNSWICK and\nSecondary Wood Products Group Ltd. of New Brunswick, which provides for the\nimplementation of a cost-shared program intitled \"COOPERATIVE INDUSTRIAL\nAND MARKET DEVELOPMENT - NEW BRUNSWICK\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1115",
   "htmlHash": "7d25df50909cf512b0d6830d7e3b4b3a",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , , , , , , , ISTC, IT, TB",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to enter into an AGREEMENT with the Province of NEW BRUNSWICK and\nSecondary Wood Products Group Ltd. of New Brunswick, which provides for the\nimplementation of a cost-shared program intitled \"COOPERATIVE INDUSTRIAL\nAND MARKET DEVELOPMENT - NEW BRUNSWICK\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0626</td><td>1999-04-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the AUTOMOBILE OPERATING EXPENSE BENEFIT (GST) REGULATIONS\nwhich set the rate (\"prescribed percentage\") at which the GST or the HST\nis applicable to automobile operating expense benefits.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0176  <strong>Publication Date:</strong> 1999-04-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0626",
   "htmlHash": "ae6851f75dea9236448033480ecdfa25",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-04-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the AUTOMOBILE OPERATING EXPENSE BENEFIT (GST) REGULATIONS\nwhich set the rate (\"prescribed percentage\") at which the GST or the HST\nis applicable to automobile operating expense benefits.\n",
+  "registration": "Registration: SOR/ 1999-0176  Publication Date: 1999-04-28",
+  "registration_type": "SOR",
+  "registration_id": "1999-0176",
+  "registration_publication_date": "1999-04-28"
 }

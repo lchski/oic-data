@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0589</td><td>2000-05-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; RESOURCES,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of HIGHER INITIAL PRICES to be paid by The Canadian Wheat Board\nfor other grades of BARLEY delivered in the 1999-2000 crop year, on and\nafter May 2, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0589",
   "htmlHash": "7e0c18a2cfc82b8f784b88e531effa8b",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-05-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , RESOURCES, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of HIGHER INITIAL PRICES to be paid by The Canadian Wheat Board\nfor other grades of BARLEY delivered in the 1999-2000 crop year, on and\nafter May 2, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

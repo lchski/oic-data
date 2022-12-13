@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0639</td><td>1997-04-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the exercise by the Province of ONTARIO of its powers\nto expropriate some 186 hectares of land on Garden River Indian Reserve\nNo. 14, in the Territorial District of Algoma, for public highway\npurposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0639",
   "htmlHash": "4cde003f9d79bcef668ecb02c6ea5962",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-04-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order consenting to the exercise by the Province of ONTARIO of its powers\nto expropriate some 186 hectares of land on Garden River Indian Reserve\nNo. 14, in the Territorial District of Algoma, for public highway\npurposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

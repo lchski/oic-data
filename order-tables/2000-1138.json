@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1138</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2000 - No. 5, NORDENSKIOLD WETLAND HABITAT PROTECTION AREA,\nY.T.) - which (a) prohibits the staking of mineral claims or prospecting\nfor precious minerals on specified tracts of land in the Yukon until\nAugust 31, 2005, and (b) repeals the Prohibition of Entry on Certain Lands\nOrder, No. 7 of 1997.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0315  <strong>Publication Date:</strong> 2000-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1138",
   "htmlHash": "7bd3846e7689c97b129ebc87e3ee42e6",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of an ORDER PROHIBITING ENTRY ON CERTAIN LANDS IN THE YUKON\nTERRITORY (2000 - No. 5, NORDENSKIOLD WETLAND HABITAT PROTECTION AREA,\nY.T.) - which (a) prohibits the staking of mineral claims or prospecting\nfor precious minerals on specified tracts of land in the Yukon until\nAugust 31, 2005, and (b) repeals the Prohibition of Entry on Certain Lands\nOrder, No. 7 of 1997.\n",
+  "registration": "Registration: SOR/ 2000-0315  Publication Date: 2000-08-16",
+  "registration_type": "SOR",
+  "registration_id": "2000-0315",
+  "registration_publication_date": "2000-08-16"
 }

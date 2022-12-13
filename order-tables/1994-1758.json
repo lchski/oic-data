@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1758</td><td>1994-10-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EA,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to sign an AGREEMENT FOR THE PROMOTION AND RECIPROCAL\nPROTECTION OF INVESTMENTS between Canada and UKRAINE or (b) to execute and\nissue an Instrument of Full Powers authorizing Ambassador François Mathys\nto sign it instead.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1758",
   "htmlHash": "e6a983af8f57743a3a8f53bd9f2503c7",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-10-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EA, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority (a) to sign an AGREEMENT FOR THE PROMOTION AND RECIPROCAL\nPROTECTION OF INVESTMENTS between Canada and UKRAINE or (b) to execute and\nissue an Instrument of Full Powers authorizing Ambassador François Mathys\nto sign it instead.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

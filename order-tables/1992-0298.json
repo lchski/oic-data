@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0298</td><td>1992-02-20</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Confirmation of the request made to the Hon. Rev. Walter Franklin McLean,\nP.C., M.P. (Waterloo), to travel to New Delhi and to Rome, from\nSeptember 10 to the 17th, 1991, in connection with the meeting of the\nCommonwealth Committee of Foreign Ministers on Southern Africa held in\nNew Delhi, India.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0298",
   "htmlHash": "ba066f7384a5b94d2ba8c9adb5b03ddc",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Confirmation of the request made to the Hon. Rev. Walter Franklin McLean,\nP.C., M.P. (Waterloo), to travel to New Delhi and to Rome, from\nSeptember 10 to the 17th, 1991, in connection with the meeting of the\nCommonwealth Committee of Foreign Ministers on Southern Africa held in\nNew Delhi, India.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

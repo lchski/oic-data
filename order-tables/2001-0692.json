@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0692</td><td>2001-04-26</td><td>0</td><td></td><td>CCRA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the DONALD McMILLAN REMISSION ORDER - which remits the Excise Tax and the GST paid on a used automobile.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0059  <strong>Publication Date:</strong> 2001-05-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0692",
   "htmlHash": "2fdf11feaaa56f40a18152a4b9167714",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-04-26",
+  "chapter": "0",
+  "bill": "",
+  "department": "CCRA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the DONALD McMILLAN REMISSION ORDER - which remits the Excise Tax and the GST paid on a used automobile.",
+  "registration": "Registration: SI / 2001-0059  Publication Date: 2001-05-09",
+  "registration_type": "SI",
+  "registration_id": "2001-0059",
+  "registration_publication_date": "2001-05-09"
 }

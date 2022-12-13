@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1072</td><td>2002-06-13</td><td>16</td><td>2002</td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, JUNE 21, 2002, as the day upon which the provisions of\nthis Act [BILL C-23], being chapter 16 of the Statutes of Canada, 2002,\nshall COME INTO FORCE, except for section 124.1 of the Competition Act, as\nenacted by section 15.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2002-0100  <strong>Publication Date:</strong> 2002-07-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1072",
   "htmlHash": "ce4ddfab37a436fd2bf46859731fe821",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-06-13",
+  "chapter": "16",
+  "bill": "2002",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing FRIDAY, JUNE 21, 2002, as the day upon which the provisions of\nthis Act [BILL C-23], being chapter 16 of the Statutes of Canada, 2002,\nshall COME INTO FORCE, except for section 124.1 of the Competition Act, as\nenacted by section 15.\n",
+  "registration": "Registration: SI / 2002-0100  Publication Date: 2002-07-03",
+  "registration_type": "SI",
+  "registration_id": "2002-0100",
+  "registration_publication_date": "2002-07-03"
 }

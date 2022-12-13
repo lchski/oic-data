@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1461</td><td>1994-08-30</td><td>0</td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\"></td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1461",
   "htmlHash": "79db4340d7c48b49a635516a1610b6da",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "CITIZENSHIP, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0617</td><td>1995-04-25</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Secretary of State for External Affairs (a) to sign a\nCONVENTION with the Government of the REPUBLIC OF LATVIA for the\nAvoidance of Double Taxation and the Prevention of Fiscal Evasion with\nrespect to TAXES ON INCOME AND ON CAPITAL, OR (b) to issue an Instrument\nof Full Powers authorizing Michael B. Phillips to sign the said\nConvention.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0617",
   "htmlHash": "0b9094ebd3d6ac2d44a3c9d0dfccc3f8",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-04-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EA, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Secretary of State for External Affairs (a) to sign a\nCONVENTION with the Government of the REPUBLIC OF LATVIA for the\nAvoidance of Double Taxation and the Prevention of Fiscal Evasion with\nrespect to TAXES ON INCOME AND ON CAPITAL, OR (b) to issue an Instrument\nof Full Powers authorizing Michael B. Phillips to sign the said\nConvention.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0257</td><td>2001-02-22</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION\nORDER by designating the position of Chairman of the Canadian Forces\nGrievance Boar as the \"head\" of that institution for the purposes of this\nAct.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0034  <strong>Publication Date:</strong> 2001-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0257",
   "htmlHash": "68071729a09ea98c3a868af90b93308d",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-02-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the PRIVACY ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION\nORDER by designating the position of Chairman of the Canadian Forces\nGrievance Boar as the \"head\" of that institution for the purposes of this\nAct.\n",
+  "registration": "Registration: SI / 2001-0034  Publication Date: 2001-03-14",
+  "registration_type": "SI",
+  "registration_id": "2001-0034",
+  "registration_publication_date": "2001-03-14"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0016</td><td>1996-01-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; VAC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the AWARD REGULATIONS which set out the rules for applying for\nand deciding upon veteran's pensions and other benefits, for reviewing such\nawards and for informing applicants about decisions and their rights to\nappeal.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0066  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0016",
   "htmlHash": "dd65cfcf489c9de8de28cbbc286a1d2d",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-01-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , VAC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the AWARD REGULATIONS which set out the rules for applying for\nand deciding upon veteran's pensions and other benefits, for reviewing such\nawards and for informing applicants about decisions and their rights to\nappeal.\n",
+  "registration": "Registration: SOR/ 1996-0066  Publication Date: 1996-01-24",
+  "registration_type": "SOR",
+  "registration_id": "1996-0066",
+  "registration_publication_date": "1996-01-24"
 }

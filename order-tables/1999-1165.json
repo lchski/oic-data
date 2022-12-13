@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1165</td><td>1999-06-23</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the NOTICES OF DEPOSITS RESTRICTIONS (AUTHORIZED FOREIGN\nBANKS) REGULATIONS which require full-service branches of those banks to\npost notices and provide written notices indicating that deposits with the\nbranch are not insured by the Canada Deposit Insurance Corporation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0279  <strong>Publication Date:</strong> 1999-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1165",
   "htmlHash": "08be76af019bc6ddfeaf2c8bb285e9b4",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the NOTICES OF DEPOSITS RESTRICTIONS (AUTHORIZED FOREIGN\nBANKS) REGULATIONS which require full-service branches of those banks to\npost notices and provide written notices indicating that deposits with the\nbranch are not insured by the Canada Deposit Insurance Corporation.\n",
+  "registration": "Registration: SOR/ 1999-0279  Publication Date: 1999-07-07",
+  "registration_type": "SOR",
+  "registration_id": "1999-0279",
+  "registration_publication_date": "1999-07-07"
 }

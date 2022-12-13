@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2479</td><td>1992-12-03</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GAS TURBINES REMISSION ORDER - which provides for the remission of the\ncustoms duties payable by DRESSER-RAND CANADA INC. on gas turbines imported\nover the course of a 26-month period commencing on November 1, 1992 and\nending on December 31, 1994, for the repair, under warranty, of six gas\nline compressor sets.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0711  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2479",
   "htmlHash": "c604a6e66fbc21e10ce73d43a14a9ac9",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-03",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "GAS TURBINES REMISSION ORDER - which provides for the remission of the\ncustoms duties payable by DRESSER-RAND CANADA INC. on gas turbines imported\nover the course of a 26-month period commencing on November 1, 1992 and\nending on December 31, 1994, for the repair, under warranty, of six gas\nline compressor sets.\n",
+  "registration": "Registration: SOR/ 1992-0711  Publication Date: 1992-12-16",
+  "registration_type": "SOR",
+  "registration_id": "1992-0711",
+  "registration_publication_date": "1992-12-16"
 }

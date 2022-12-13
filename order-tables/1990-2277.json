@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2277</td><td>1990-10-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of the transfer from the Province of Quebec of the use of a\nbeach and deep water lot (460.72 m²) situate in the Registry Division of\nLotbinière, which is to be used as a site to maintain a mooring wharf and\nas a ferry boat landing.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2277",
   "htmlHash": "f22f9973bc384eb08eddeebefa6e98c6",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-10-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of the transfer from the Province of Quebec of the use of a\nbeach and deep water lot (460.72 m²) situate in the Registry Division of\nLotbinière, which is to be used as a site to maintain a mooring wharf and\nas a ferry boat landing.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

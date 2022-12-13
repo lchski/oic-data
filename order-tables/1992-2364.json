@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2364</td><td>1992-11-19</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip undertaken by several Members of Parliament,\nnamely Mr. IAIN F. ANGUS, Mrs. GABRIELLE BERTRAND, Mr. MURRAY DORIN and the\nHon. ROY MacLAREN, from July 1 to July 10, 1992, for the purpose of\naccompanying the Minister for International Trade on his trip to Russia,\nthe Ukraine and Kazakhstan, in order to promote trade between Canada and\nthe new countries formed by the restructuring of the former U.S.S.R.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2364",
   "htmlHash": "7fc426dc271ac68c577d34a3474b0b4a",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "EA, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the trip undertaken by several Members of Parliament,\nnamely Mr. IAIN F. ANGUS, Mrs. GABRIELLE BERTRAND, Mr. MURRAY DORIN and the\nHon. ROY MacLAREN, from July 1 to July 10, 1992, for the purpose of\naccompanying the Minister for International Trade on his trip to Russia,\nthe Ukraine and Kazakhstan, in order to promote trade between Canada and\nthe new countries formed by the restructuring of the former U.S.S.R.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

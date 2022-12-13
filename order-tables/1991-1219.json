@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1219</td><td>1991-07-10</td><td>0</td><td></td><td>PWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ST. ANDREW'S LOCK REGULATIONS respecting the management and proper use of\nthe St. Andrews Lock, dam, bridge and related facilities at Lockport,\nManitoba.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0444  <strong>Publication Date:</strong> 1991-07-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1219",
   "htmlHash": "e030aa4a4d47ed64ae8655a892a8f168",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-07-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "PWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "ST. ANDREW'S LOCK REGULATIONS respecting the management and proper use of\nthe St. Andrews Lock, dam, bridge and related facilities at Lockport,\nManitoba.\n",
+  "registration": "Registration: SOR/ 1991-0444  Publication Date: 1991-07-31",
+  "registration_type": "SOR",
+  "registration_id": "1991-0444",
+  "registration_publication_date": "1991-07-31"
 }

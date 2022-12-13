@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1007</td><td>1998-06-11</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order giving consent to ASSOCIATES FIRST CAPITAL CORPORATION, a foreign\nbank, (a) to establish a new Canadian business - ASSOCIATES CREDIT\nCORPORATION OF CANADA LTD., and (b) to acquire shares in that business.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1007",
   "htmlHash": "1ea5eb861c42e831eeb8d7faaa643b3d",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-06-11",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order giving consent to ASSOCIATES FIRST CAPITAL CORPORATION, a foreign\nbank, (a) to establish a new Canadian business - ASSOCIATES CREDIT\nCORPORATION OF CANADA LTD., and (b) to acquire shares in that business.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

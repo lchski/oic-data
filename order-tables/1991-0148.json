@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0148</td><td>1991-01-24</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Salaries of:\n  Traitements de:\n.\n    CANADA COUNCIL/Conseil des Arts du Canada\n.\n    -  NAIM KATTAN (Associate Director/directeur associé)\n.\n.\n    CIVIL AVIATION TRIBUNAL/Tribunal de l'aviation civile\n.\n    -  GHISLAINE RICHARD (Chairman/président)\n    -  BRUCE L. PULTZ    (Vice-Chairman/vice-président)\n.\n.\n    COMPETITION TRIBUNAL/Tribunal de la concurrence\n.\n    - Part-time Lay members/autres membres à temps partiel\n\n\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0148",
   "htmlHash": "4ca7f2cce35bee977683bc48c0373468",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-01-24",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Salaries of:\n  Traitements de:\n.\n    CANADA COUNCIL/Conseil des Arts du Canada\n.\n    -  NAIM KATTAN (Associate Director/directeur associé)\n.\n.\n    CIVIL AVIATION TRIBUNAL/Tribunal de l'aviation civile\n.\n    -  GHISLAINE RICHARD (Chairman/président)\n    -  BRUCE L. PULTZ    (Vice-Chairman/vice-président)\n.\n.\n    COMPETITION TRIBUNAL/Tribunal de la concurrence\n.\n    - Part-time Lay members/autres membres à temps partiel\n\n\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

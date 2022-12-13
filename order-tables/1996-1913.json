@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1913</td><td>1996-12-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGISTRATION OF STORAGE TANK SYSTEMS FOR PETROLEUM PRODUCTS AND\nALLIED PETROLEUM PRODUCTS ON FEDERAL LANDS REGULATIONS which will require\nall underground and large surface petroleum storage tank systems (more than\n4,000 litres) located on federal property be registered with the department\nor agency responsible for its administration.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0010  <strong>Publication Date:</strong> 1997-01-08</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1913",
   "htmlHash": "c3257a185ab033c42353ac04e8d84e69",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-12-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EC",
+  "act": "",
+  "subject": "",
+  "precis": "REGISTRATION OF STORAGE TANK SYSTEMS FOR PETROLEUM PRODUCTS AND\nALLIED PETROLEUM PRODUCTS ON FEDERAL LANDS REGULATIONS which will require\nall underground and large surface petroleum storage tank systems (more than\n4,000 litres) located on federal property be registered with the department\nor agency responsible for its administration.\n",
+  "registration": "Registration: SOR/ 1997-0010  Publication Date: 1997-01-08",
+  "registration_type": "SOR",
+  "registration_id": "1997-0010",
+  "registration_publication_date": "1997-01-08"
 }

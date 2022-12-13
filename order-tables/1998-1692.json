@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1692</td><td>1998-09-22</td><td>0</td><td></td><td>CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of ROGER E. BOIRE, of Agincourt, Ontario, as a full-time\nmember of the Convention Refugee Determination Division of the Immigration\nand Refugee Board (Toronto Regional Office) to hold office during good\nbehaviour, for a term of five years, effective November 4, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1692",
   "htmlHash": "b107508405daa3b209615f48b24873a4",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-22",
+  "chapter": "0",
+  "bill": "",
+  "department": "CITIZENSHIP, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of ROGER E. BOIRE, of Agincourt, Ontario, as a full-time\nmember of the Convention Refugee Determination Division of the Immigration\nand Refugee Board (Toronto Regional Office) to hold office during good\nbehaviour, for a term of five years, effective November 4, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

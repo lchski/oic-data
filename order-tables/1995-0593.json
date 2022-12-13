@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0593</td><td>1995-04-04</td><td>0</td><td></td><td>PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer of certain powers, duties and functions of the Minister of Finance\nfor making a SPECIAL ADJUSTMENT PAYMENT to each province, as follows:\n  1. to the Minister of NATIONAL HEALTH AND WELFARE with respect to both\nthe insured health services program and the extended health care services\nprogram, and\n  2.  to the Minister of EMPLOYMENT AND IMMIGRATION with respect to the\npost-secondary education program.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1995-0052  <strong>Publication Date:</strong> 1995-04-19</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0593",
   "htmlHash": "88fcc5708b02241498aa45d3d6904542",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-04-04",
+  "chapter": "0",
+  "bill": "",
+  "department": "PMO, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer of certain powers, duties and functions of the Minister of Finance\nfor making a SPECIAL ADJUSTMENT PAYMENT to each province, as follows:\n  1. to the Minister of NATIONAL HEALTH AND WELFARE with respect to both\nthe insured health services program and the extended health care services\nprogram, and\n  2.  to the Minister of EMPLOYMENT AND IMMIGRATION with respect to the\npost-secondary education program.\n",
+  "registration": "Registration: SI / 1995-0052  Publication Date: 1995-04-19",
+  "registration_type": "SI",
+  "registration_id": "1995-0052",
+  "registration_publication_date": "1995-04-19"
 }

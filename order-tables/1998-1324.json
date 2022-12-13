@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1324</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PWGS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1998-232 which authorized the issuance\nof a Proclamation in connection with the minting of a SET OF SILVER COINS\nreplicating the 50¢, 25¢, ten, five and one-cent coins first produced in\n1908, in order to correct an error in the references to the metallic\ncomposition of the one-cent coin.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0413  <strong>Publication Date:</strong> 1998-09-02</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1324",
   "htmlHash": "bec4bad14dc05db9f3927dde628cb138",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , PWGS",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1998-232 which authorized the issuance\nof a Proclamation in connection with the minting of a SET OF SILVER COINS\nreplicating the 50¢, 25¢, ten, five and one-cent coins first produced in\n1908, in order to correct an error in the references to the metallic\ncomposition of the one-cent coin.\n",
+  "registration": "Registration: SOR/ 1998-0413  Publication Date: 1998-09-02",
+  "registration_type": "SOR",
+  "registration_id": "1998-0413",
+  "registration_publication_date": "1998-09-02"
 }

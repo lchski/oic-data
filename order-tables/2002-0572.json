@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0572</td><td>2002-04-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (REVOCATION OF DESIGNATION IN PART) wherein the\nMOWACHAHT/MUCHALAHT BAND (formerly the Nootka Band) revokes a 1963\nSurrender insofar as it applies to a strip of land on Ahaminaquus Indian\nReserve No. 12 in British Columbia, that will be transferred to the\nProvince for highway purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0572",
   "htmlHash": "7de5d54122ae1ed4b4ec81216691a2f4",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an Instrument (REVOCATION OF DESIGNATION IN PART) wherein the\nMOWACHAHT/MUCHALAHT BAND (formerly the Nootka Band) revokes a 1963\nSurrender insofar as it applies to a strip of land on Ahaminaquus Indian\nReserve No. 12 in British Columbia, that will be transferred to the\nProvince for highway purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

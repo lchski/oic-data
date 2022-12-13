@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1374</td><td>1999-07-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart of (a) some 965 hectares of land, mines and minerals included\nand 0.4 hectares of mines and mineral only, situated in Saskatchewan, for\nthe use and benefit of the PIAPOT BAND as Piapot Cree First Nation Indian\nReserve No. 75 \"I\", and (b) some 2.5 hectares of mines and minerals only,\nas an addition to Piapot Cree First Nation Indian Reserve No. 75 \"J\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1374",
   "htmlHash": "7e64a4c6c91575aa7ccab5532f2e02ac",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-07-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart of (a) some 965 hectares of land, mines and minerals included\nand 0.4 hectares of mines and mineral only, situated in Saskatchewan, for\nthe use and benefit of the PIAPOT BAND as Piapot Cree First Nation Indian\nReserve No. 75 \"I\", and (b) some 2.5 hectares of mines and minerals only,\nas an addition to Piapot Cree First Nation Indian Reserve No. 75 \"J\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

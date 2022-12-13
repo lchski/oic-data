@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1663</td><td>1998-09-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the REGULATIONS REPEALING CERTAIN ORDERS AND REGULATIONS MADE\nUNDER THE CRIMINAL CODE which provide for the repeal of Prohibited Weapons\nOrders Nos. 1 to 13, the Cartridge Magazine Control Regulations and the\nRestricted Weapons Order, as of October 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0463  <strong>Publication Date:</strong> 1998-09-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1663",
   "htmlHash": "c8c2887a934928dc948953b79dba0e65",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the REGULATIONS REPEALING CERTAIN ORDERS AND REGULATIONS MADE\nUNDER THE CRIMINAL CODE which provide for the repeal of Prohibited Weapons\nOrders Nos. 1 to 13, the Cartridge Magazine Control Regulations and the\nRestricted Weapons Order, as of October 1, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0463  Publication Date: 1998-09-30",
+  "registration_type": "SOR",
+  "registration_id": "1998-0463",
+  "registration_publication_date": "1998-09-30"
 }

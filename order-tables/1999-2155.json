@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2155</td><td>1999-12-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of the HONOURABLE JOHN M. EVANS as a Judge of the Federal\nCourt of Canada - Appeal Division, and as a member ex officio of the\nTrial Division of that Court.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2155",
   "htmlHash": "09ccf2a71a1bd6a2e95680cb0240e2a0",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE JOHN M. EVANS as a Judge of the Federal\nCourt of Canada - Appeal Division, and as a member ex officio of the\nTrial Division of that Court.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

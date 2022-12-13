@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0728</td><td>1997-05-20</td><td>0</td><td></td><td>,&nbsp; HEALTH,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FOOD AND DRUG REGULATIONS (719) which will provide\nenhanced assurance regarding the composition of cocoa and chocolate\nproducts in the Canadian marketplace.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0263  <strong>Publication Date:</strong> 1997-06-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0728",
   "htmlHash": "f03afeb7acbfa020d9425c76c8cff5ce",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-05-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HEALTH, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FOOD AND DRUG REGULATIONS (719) which will provide\nenhanced assurance regarding the composition of cocoa and chocolate\nproducts in the Canadian marketplace.\n",
+  "registration": "Registration: SOR/ 1997-0263  Publication Date: 1997-06-11",
+  "registration_type": "SOR",
+  "registration_id": "1997-0263",
+  "registration_publication_date": "1997-06-11"
 }

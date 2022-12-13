@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1808</td><td>1995-10-24</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Decision of the Governor in Council, having considered the petition of the\nCanadian Business Telecommunications Alliance, that it is not in the public\ninterest to vary TELECOM DECISION CRTC 95-4 rendered by the Canadian Radio-\ntelevision and Telecommunications Commission on March 31, 1995, concerning\ncontribution charges.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1808",
   "htmlHash": "8cd0e3ba62dbba172c2d83b8bdf85d67",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-10-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , INDUSTRY",
+  "act": "",
+  "subject": "",
+  "precis": "Decision of the Governor in Council, having considered the petition of the\nCanadian Business Telecommunications Alliance, that it is not in the public\ninterest to vary TELECOM DECISION CRTC 95-4 rendered by the Canadian Radio-\ntelevision and Telecommunications Commission on March 31, 1995, concerning\ncontribution charges.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2222</td><td>1991-11-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Full Powers authorizing\nFernand G. Hurtubise or Paul G. Dubois to sign the Protocol to the 1979\nConvention on Long-Range Transboundary Air Pollution Concerning the Control\nof Emissions of Volatile Organic Compounds done at Geneva.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2222",
   "htmlHash": "f1e4d019299c2d34c85a05daf6b184ce",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-11-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to execute and issue an Instrument of Full Powers authorizing\nFernand G. Hurtubise or Paul G. Dubois to sign the Protocol to the 1979\nConvention on Long-Range Transboundary Air Pollution Concerning the Control\nof Emissions of Volatile Organic Compounds done at Geneva.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0062</td><td>1992-01-23</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS SCHEDULE NO. 813 providing for\nthe use of pentosanase enzyme derived from Trichoderma reesei in baked\ngoods to improve dough and bread characteristics and in distiller's mash\nviscosity.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0063  <strong>Publication Date:</strong> 1992-02-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0062",
   "htmlHash": "f1a7d6b671e1a4cd0ac05a1cd339e38e",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-01-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HWC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FOOD AND DRUG REGULATIONS SCHEDULE NO. 813 providing for\nthe use of pentosanase enzyme derived from Trichoderma reesei in baked\ngoods to improve dough and bread characteristics and in distiller's mash\nviscosity.\n",
+  "registration": "Registration: SOR/ 1992-0063  Publication Date: 1992-02-12",
+  "registration_type": "SOR",
+  "registration_id": "1992-0063",
+  "registration_publication_date": "1992-02-12"
 }

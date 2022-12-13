@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0027</td><td>2000-01-12</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the KITSUMKALUM BAND, of some\n40.5 hectares of land in British Columbia (Lot 8061, CLSR Plan 78428), as\nan addition to Dalk-ka-gila-quoeux Indian Reserve No. 2.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0027",
   "htmlHash": "5928d9bbe0ef9ffa1d8a5228b9fd4776",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-01-12",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the KITSUMKALUM BAND, of some\n40.5 hectares of land in British Columbia (Lot 8061, CLSR Plan 78428), as\nan addition to Dalk-ka-gila-quoeux Indian Reserve No. 2.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

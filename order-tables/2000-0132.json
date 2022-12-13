@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0132</td><td>2000-02-10</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PRESCRIBED DEPOSITS (AUTHORIZED FOREIGN BANKS) REGULATIONS\nwhich itemize the exceptions to the minimum deposit requirement of $150,000\nimposed on full-service foreign bank branches operating in Canada.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0053  <strong>Publication Date:</strong> 2000-03-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0132",
   "htmlHash": "0d598d30293bb6dd5c05335b60949d75",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-02-10",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the PRESCRIBED DEPOSITS (AUTHORIZED FOREIGN BANKS) REGULATIONS\nwhich itemize the exceptions to the minimum deposit requirement of $150,000\nimposed on full-service foreign bank branches operating in Canada.\n",
+  "registration": "Registration: SOR/ 2000-0053  Publication Date: 2000-03-01",
+  "registration_type": "SOR",
+  "registration_id": "2000-0053",
+  "registration_publication_date": "2000-03-01"
 }

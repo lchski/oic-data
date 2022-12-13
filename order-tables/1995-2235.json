@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2235</td><td>1995-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SCHEDULE III TO THE CUSTOMS TARIFF AMENDMENT ORDER\nrespecting amendments that are technical and are required as a result of\nconcerns raised by the Standing Joint Committee for the Scrutiny of\nRegulations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1996-0028  <strong>Publication Date:</strong> 1996-01-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2235",
   "htmlHash": "1633c0d51c860dbfd1b0cb8ccf45b091",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , FIN",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the SCHEDULE III TO THE CUSTOMS TARIFF AMENDMENT ORDER\nrespecting amendments that are technical and are required as a result of\nconcerns raised by the Standing Joint Committee for the Scrutiny of\nRegulations.\n",
+  "registration": "Registration: SOR/ 1996-0028  Publication Date: 1996-01-24",
+  "registration_type": "SOR",
+  "registration_id": "1996-0028",
+  "registration_publication_date": "1996-01-24"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1310</td><td>1998-07-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an Instrument (REVOCATION OF SURRENDER) wherein the DITIDAHT\nBAND OF INDIANS revokes the surrender it made on May 17, 1943, with respect\nto the harvesting of the marketable timber on Chuchummisapo Indian Reserve\nNo. 15 and on Saouk Indian Reserve No. 16, in British Columbia.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1310",
   "htmlHash": "35c5be8581d4faa5b73d0e83b95d8413",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-07-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an Instrument (REVOCATION OF SURRENDER) wherein the DITIDAHT\nBAND OF INDIANS revokes the surrender it made on May 17, 1943, with respect\nto the harvesting of the marketable timber on Chuchummisapo Indian Reserve\nNo. 15 and on Saouk Indian Reserve No. 16, in British Columbia.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

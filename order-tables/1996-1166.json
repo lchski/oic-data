@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1166</td><td>1996-07-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; INDUSTRY,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a review be done of the investment by VIACOM INC. to\nacquire control of the business carried on by LE CLUB VIDEO TELECINO at\nRosemere, Quebec.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1166",
   "htmlHash": "793cd78ac04644e831ce99a5e9c4cbc2",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-07-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , INDUSTRY, ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a review be done of the investment by VIACOM INC. to\nacquire control of the business carried on by LE CLUB VIDEO TELECINO at\nRosemere, Quebec.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0031</td><td>1994-01-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; F&amp;O</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MARINE MAMMAL REGULATIONS of a technical or housekeeping\nnature (Omnibus).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0052  <strong>Publication Date:</strong> 1994-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0031",
   "htmlHash": "bb4514fc697d619e49b262316f4f410a",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , F&O",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the MARINE MAMMAL REGULATIONS of a technical or housekeeping\nnature (Omnibus).\n",
+  "registration": "Registration: SOR/ 1994-0052  Publication Date: 1994-01-26",
+  "registration_type": "SOR",
+  "registration_id": "1994-0052",
+  "registration_publication_date": "1994-01-26"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1975</td><td>1994-11-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PROHIBITED WEAPONS ORDER, NO. 3.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0742  <strong>Publication Date:</strong> 1994-12-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1975",
   "htmlHash": "14bdd36114b464d3b4ed46764e0170d0",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-11-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , JUS, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the PROHIBITED WEAPONS ORDER, NO. 3.\n",
+  "registration": "Registration: SOR/ 1994-0742  Publication Date: 1994-12-14",
+  "registration_type": "SOR",
+  "registration_id": "1994-0742",
+  "registration_publication_date": "1994-12-14"
 }

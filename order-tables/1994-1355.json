@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1355</td><td>1994-08-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; TC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the DANGEROUS GOODS SHIPPING REGULATIONS which introduce the\nlatest amendments to the International Maritime Dangerous Goods Code\n(26-91) dealing with new technologies, new chemicals and updated emergency\nresponse procedures.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0554  <strong>Publication Date:</strong> 1994-09-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1355",
   "htmlHash": "6d3c5c379e50e7698e8aea9022a63b95",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-08-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , TC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the DANGEROUS GOODS SHIPPING REGULATIONS which introduce the\nlatest amendments to the International Maritime Dangerous Goods Code\n(26-91) dealing with new technologies, new chemicals and updated emergency\nresponse procedures.\n",
+  "registration": "Registration: SOR/ 1994-0554  Publication Date: 1994-09-07",
+  "registration_type": "SOR",
+  "registration_id": "1994-0554",
+  "registration_publication_date": "1994-09-07"
 }

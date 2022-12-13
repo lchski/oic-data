@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2213</td><td>1999-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the MILITARY POLICE PROFESSIONAL CODE OF CONDUCT which\nprescribe standards of professional conduct for members of the military\npolice.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2000-0014  <strong>Publication Date:</strong> 2000-01-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2213",
   "htmlHash": "b4afbde6a8e3fff9af32e57e7c8705a2",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , ND",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the MILITARY POLICE PROFESSIONAL CODE OF CONDUCT which\nprescribe standards of professional conduct for members of the military\npolice.\n",
+  "registration": "Registration: SOR/ 2000-0014  Publication Date: 2000-01-05",
+  "registration_type": "SOR",
+  "registration_id": "2000-0014",
+  "registration_publication_date": "2000-01-05"
 }

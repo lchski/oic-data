@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0050</td><td>1990-01-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the BEEF CARCASS GRADING REGULATIONS which substantially\nrevise various provisions concerning fat levels on Grade A beef and the\nnumber of grade stamps applied to a carcass, as well as the wording of the\nseizure and detention sections.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0085  <strong>Publication Date:</strong> 1990-01-31</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0050",
   "htmlHash": "5a41a2fefa843abb430b08358a004d00",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-01-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGR",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the BEEF CARCASS GRADING REGULATIONS which substantially\nrevise various provisions concerning fat levels on Grade A beef and the\nnumber of grade stamps applied to a carcass, as well as the wording of the\nseizure and detention sections.\n",
+  "registration": "Registration: SOR/ 1990-0085  Publication Date: 1990-01-31",
+  "registration_type": "SOR",
+  "registration_id": "1990-0085",
+  "registration_publication_date": "1990-01-31"
 }

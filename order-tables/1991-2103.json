@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-2103</td><td>1991-10-31</td><td>0</td><td></td><td>EMR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, NOVEMBER 1, 1991, as the day upon which sections 1 and\n2 of An Act to amend the National Energy Board Act, being chapter 27 of the\nStatutes of Canada, 1991, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1991-0145  <strong>Publication Date:</strong> 1991-11-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-2103",
   "htmlHash": "26a5bf64d0b30495e3baa139c5c2086a",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-10-31",
+  "chapter": "0",
+  "bill": "",
+  "department": "EMR, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing FRIDAY, NOVEMBER 1, 1991, as the day upon which sections 1 and\n2 of An Act to amend the National Energy Board Act, being chapter 27 of the\nStatutes of Canada, 1991, shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 1991-0145  Publication Date: 1991-11-20",
+  "registration_type": "SI",
+  "registration_id": "1991-0145",
+  "registration_publication_date": "1991-11-20"
 }

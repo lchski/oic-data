@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1128</td><td>1994-07-04</td><td>0</td><td></td><td>,&nbsp; AGR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the HEALTH OF ANIMALS REGULATIONS which define the term\n\"poultry\" and remove the requirement whereby ruminants exported to the\nUnited States for slaughter must be inspected and certified before export.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0491  <strong>Publication Date:</strong> 1994-07-27</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1128",
   "htmlHash": "fd8a4266f5f0c819468358e345c63449",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-07-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the HEALTH OF ANIMALS REGULATIONS which define the term\n\"poultry\" and remove the requirement whereby ruminants exported to the\nUnited States for slaughter must be inspected and certified before export.\n",
+  "registration": "Registration: SOR/ 1994-0491  Publication Date: 1994-07-27",
+  "registration_type": "SOR",
+  "registration_id": "1994-0491",
+  "registration_publication_date": "1994-07-27"
 }

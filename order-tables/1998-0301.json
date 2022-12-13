@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0301</td><td>1998-02-26</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) authorizing members of The Canadian Corps of Commissionaires to\nwear the COMMISSIONAIRE LONG SERVICE MEDAL, and any Bars subsequently\nawarded, in conjunction with other official awards, and (b) establishing\nthe medal's order of precedence in the Canadian Honours System.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1998-0038  <strong>Publication Date:</strong> 1998-03-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0301",
   "htmlHash": "b06e76f57ff8d959f19a810ae7da3b99",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) authorizing members of The Canadian Corps of Commissionaires to\nwear the COMMISSIONAIRE LONG SERVICE MEDAL, and any Bars subsequently\nawarded, in conjunction with other official awards, and (b) establishing\nthe medal's order of precedence in the Canadian Honours System.\n",
+  "registration": "Registration: SI / 1998-0038  Publication Date: 1998-03-18",
+  "registration_type": "SI",
+  "registration_id": "1998-0038",
+  "registration_publication_date": "1998-03-18"
 }

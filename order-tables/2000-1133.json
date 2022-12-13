@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1133</td><td>2000-07-27</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PWGS,&nbsp; TB,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an amendment to the five-year CORPORATE PLAN of CANADA MORTGAGE\nAND HOUSING CORPORATION for the calendar years 2000 to 2004, thereby\nallowing CMHC to provide financial assistance for the repair of moisture-\ndamaged residential buildings in British Columbia, who will seek to do so\nin cooperation with the provincial Homeowner's Reconstruction Loan Program.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1133",
   "htmlHash": "05f8bde9d928f3f912b36426f2259c6e",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-07-27",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PWGS, TB, FIN, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of an amendment to the five-year CORPORATE PLAN of CANADA MORTGAGE\nAND HOUSING CORPORATION for the calendar years 2000 to 2004, thereby\nallowing CMHC to provide financial assistance for the repair of moisture-\ndamaged residential buildings in British Columbia, who will seek to do so\nin cooperation with the provincial Homeowner's Reconstruction Loan Program.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

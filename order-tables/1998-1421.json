@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1421</td><td>1998-08-26</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of MOHAMMED AZHAR ALI KHAN, of Nepean, Ontario, as a\nfull-time member of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Ottawa/Atlantic Regional Office), to hold\noffice during good behaviour for a term of five years, effective\nSeptember 30, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1421",
   "htmlHash": "35fb15e9b69d3c2aeb3ef9dd54a358fb",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of MOHAMMED AZHAR ALI KHAN, of Nepean, Ontario, as a\nfull-time member of the Convention Refugee Determination Division of the\nImmigration and Refugee Board (Ottawa/Atlantic Regional Office), to hold\noffice during good behaviour for a term of five years, effective\nSeptember 30, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

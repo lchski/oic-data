@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0270</td><td>1998-02-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 1996-1406 of September 11, 1996, which\nwill extend the term of appointment of DR. HENRY FRIESEN as President of\nthe Medical Research Council until January 17, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0270",
   "htmlHash": "62638016dc4ba06afb3d22cc2cb04488",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-02-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HEALTH",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 1996-1406 of September 11, 1996, which\nwill extend the term of appointment of DR. HENRY FRIESEN as President of\nthe Medical Research Council until January 17, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

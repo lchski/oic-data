@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1020</td><td>1995-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; TB</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROTECTION FOR THE INCOME OF MILK PRODUCERS REGULATIONS (1995-2) respecting\nprotection for the income of milk producers for the period beginning on\nAugust 1, 1995 and ending on March 31, 1996.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0295  <strong>Publication Date:</strong> 1995-07-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1020",
   "htmlHash": "6ec96542d6f23b6e662c75a45487fe90",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGRI-FOOD, TB",
+  "act": "",
+  "subject": "",
+  "precis": "PROTECTION FOR THE INCOME OF MILK PRODUCERS REGULATIONS (1995-2) respecting\nprotection for the income of milk producers for the period beginning on\nAugust 1, 1995 and ending on March 31, 1996.\n",
+  "registration": "Registration: SOR/ 1995-0295  Publication Date: 1995-07-12",
+  "registration_type": "SOR",
+  "registration_id": "1995-0295",
+  "registration_publication_date": "1995-07-12"
 }

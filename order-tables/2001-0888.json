@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0888</td><td>2001-05-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HRDC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing (a) OCTOBER 1, 2000, as the day upon which sections 7 and 8 of\nthis Act [BILL C-2], being chapter 5 of the Statutes of Canada, 2001, are\nDEEMED TO HAVE COME INTO FORCE, and (b) WEDNESDAY, MAY 16, 2001, as the\nday upon which the other sections come into force (sections 1 to 6 and\n9 to 14, inclusive).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0063  <strong>Publication Date:</strong> 2001-06-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0888",
   "htmlHash": "dac2618644e046322f900c5c57b8cabd",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HRDC",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing (a) OCTOBER 1, 2000, as the day upon which sections 7 and 8 of\nthis Act [BILL C-2], being chapter 5 of the Statutes of Canada, 2001, are\nDEEMED TO HAVE COME INTO FORCE, and (b) WEDNESDAY, MAY 16, 2001, as the\nday upon which the other sections come into force (sections 1 to 6 and\n9 to 14, inclusive).\n",
+  "registration": "Registration: SI / 2001-0063  Publication Date: 2001-06-06",
+  "registration_type": "SI",
+  "registration_id": "2001-0063",
+  "registration_publication_date": "2001-06-06"
 }

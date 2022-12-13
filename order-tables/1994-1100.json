@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1100</td><td>1994-06-23</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart for the use and benefit of the MISSISSAUGAS OF THE CREDIT\nBAND of Indians of some 23.771 hectares of land situated in the Town of\nHaldimand, Ontario, as an addition to New Credit Indian Reserve No. 40A.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1100",
   "htmlHash": "9b655469c5210fd2bbdaaa4606fcc46c",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart for the use and benefit of the MISSISSAUGAS OF THE CREDIT\nBAND of Indians of some 23.771 hectares of land situated in the Town of\nHaldimand, Ontario, as an addition to New Credit Indian Reserve No. 40A.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

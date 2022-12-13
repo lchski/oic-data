@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1864</td><td>1990-08-28</td><td>0</td><td></td><td>EA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Instrument of Full Powers authorizing Donald H. Lander, Georges C.\nClermont, Edward B. Fournier and Gary Halpin, or Paul Raynaud to sign the\nACTS OF THE XIVTH CONGRESS OF THE POSTAL UNION OF THE AMERICAS AND SPAIN.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1864",
   "htmlHash": "8ac13c45d1f90cefbb644faca9d91a82",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": "EA, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Instrument of Full Powers authorizing Donald H. Lander, Georges C.\nClermont, Edward B. Fournier and Gary Halpin, or Paul Raynaud to sign the\nACTS OF THE XIVTH CONGRESS OF THE POSTAL UNION OF THE AMERICAS AND SPAIN.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

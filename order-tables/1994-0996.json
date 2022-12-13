@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0996</td><td>1994-06-14</td><td>0</td><td></td><td></td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of certain persons as full-time members of the Convention\nRefugee Determination Division of the Immigration and Refugee Board\n(Toronto Regional Office), to hold office during good behaviour, for a\nterm of three years.\n(Ninette Kelley, Toronto, Ontario; Elena Schlanger, North York, Ontario;\nRenée Marcelle Bourassa, Toronto, Ontario; Milagros J. Eustaquio,\nMississauga, Ontario; John C. Hilborn, Exeter, Ontario; Douglas R.\nMillar, Toronto, Ontario; Felix Mora, Mississauga, Ontario; A. Raza\nNaqvi, Mississauga, Ontario; Michele Antemia, Weston, Ontario; and\nElke Homsi, Toronto, Ontario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0996",
   "htmlHash": "a49ab665d904bc31064fe8dd95e38318",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain persons as full-time members of the Convention\nRefugee Determination Division of the Immigration and Refugee Board\n(Toronto Regional Office), to hold office during good behaviour, for a\nterm of three years.\n(Ninette Kelley, Toronto, Ontario; Elena Schlanger, North York, Ontario;\nRenée Marcelle Bourassa, Toronto, Ontario; Milagros J. Eustaquio,\nMississauga, Ontario; John C. Hilborn, Exeter, Ontario; Douglas R.\nMillar, Toronto, Ontario; Felix Mora, Mississauga, Ontario; A. Raza\nNaqvi, Mississauga, Ontario; Michele Antemia, Weston, Ontario; and\nElke Homsi, Toronto, Ontario)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0022</td><td>1994-01-13</td><td>0</td><td></td><td>AGR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the FEED GRAIN TRANSPORTATION AND STORAGE ASSISTANCE\nREGULATIONS adding a number of new destinations eligible for subsidies\nunder the Feed Freight Equalization Program.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0043  <strong>Publication Date:</strong> 1994-01-26</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0022",
   "htmlHash": "20e4c2019d4332d4e93ffa70d945d26c",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-01-13",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the FEED GRAIN TRANSPORTATION AND STORAGE ASSISTANCE\nREGULATIONS adding a number of new destinations eligible for subsidies\nunder the Feed Freight Equalization Program.\n",
+  "registration": "Registration: SOR/ 1994-0043  Publication Date: 1994-01-26",
+  "registration_type": "SOR",
+  "registration_id": "1994-0043",
+  "registration_publication_date": "1994-01-26"
 }

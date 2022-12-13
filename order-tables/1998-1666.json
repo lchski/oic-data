@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1666</td><td>1998-09-16</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the REGULATIONS PRESCRIBING PUBLIC OFFICERS which define who\nis a \"public officer\" (i.e. court employees, police officers, forensic\ntechnicians, House of Commons security guards, etc.) for the purposes of\nparagraph 117.07(2)(g) of the Criminal Code, as of October 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0466  <strong>Publication Date:</strong> 1998-09-30</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1666",
   "htmlHash": "6683034927ec2ccfc65494bb76ba3fe2",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-16",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the REGULATIONS PRESCRIBING PUBLIC OFFICERS which define who\nis a \"public officer\" (i.e. court employees, police officers, forensic\ntechnicians, House of Commons security guards, etc.) for the purposes of\nparagraph 117.07(2)(g) of the Criminal Code, as of October 1, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0466  Publication Date: 1998-09-30",
+  "registration_type": "SOR",
+  "registration_id": "1998-0466",
+  "registration_publication_date": "1998-09-30"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0300</td><td>1996-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to Order in Council P.C. 1992-972 which change the employment\nstatus of Mr. LAURENT MERCIER, a member and Vice-Chairman of the National\nFarm Products Council, from full-time to part-time.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0300",
   "htmlHash": "a73e18ce646be6ae5dd7c2e011a6428b",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-03-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGRI-FOOD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to Order in Council P.C. 1992-972 which change the employment\nstatus of Mr. LAURENT MERCIER, a member and Vice-Chairman of the National\nFarm Products Council, from full-time to part-time.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

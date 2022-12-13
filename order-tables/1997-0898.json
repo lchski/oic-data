@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-0898</td><td>1997-07-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; AGRI-FOOD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HONEY REGULATIONS which establish fees for the\ninspection and certification of honey and for the registration of\nestablishments that prepare honey.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1997-0304  <strong>Publication Date:</strong> 1997-07-23</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-0898",
   "htmlHash": "7f8392f3001050f6bae15db9a8c071bc",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , AGRI-FOOD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the HONEY REGULATIONS which establish fees for the\ninspection and certification of honey and for the registration of\nestablishments that prepare honey.\n",
+  "registration": "Registration: SOR/ 1997-0304  Publication Date: 1997-07-23",
+  "registration_type": "SOR",
+  "registration_id": "1997-0304",
+  "registration_publication_date": "1997-07-23"
 }

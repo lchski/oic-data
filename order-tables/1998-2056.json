@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-2056</td><td>1998-11-19</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Partial revocation of a DESIGNATION (for leasing purposes) whereby the\nGITANMAAX INDIAN BAND rescinds the surrender it made in 1995 which\nencumbered Parcel 1 (CLSR Plan 80075) on GITANMAAX INDIAN RESERVE NO. 1 in\nBritish Columbia, to allow for the completion of a road-widening project.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-2056",
   "htmlHash": "cf12dd9df235117b3429c0d7fb4343c6",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Partial revocation of a DESIGNATION (for leasing purposes) whereby the\nGITANMAAX INDIAN BAND rescinds the surrender it made in 1995 which\nencumbered Parcel 1 (CLSR Plan 80075) on GITANMAAX INDIAN RESERVE NO. 1 in\nBritish Columbia, to allow for the completion of a road-widening project.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1864</td><td>1995-11-07</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the MEDICAL DEVICES REGULATIONS which remove menstrual\ntampons having an absorption capacity of 15 grams or less from the Table\nto Part V (PRE-MARKET REVIEW) and introduce new provisions (Schedule XIV)\nconcerning the labelling of tampons and establishing a standard test method\nfor determining the absorbency capacity of these products.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0520  <strong>Publication Date:</strong> 1995-11-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1864",
   "htmlHash": "b1dcc7a1f86eb0d3123a572d350bb707",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-11-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HWC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the MEDICAL DEVICES REGULATIONS which remove menstrual\ntampons having an absorption capacity of 15 grams or less from the Table\nto Part V (PRE-MARKET REVIEW) and introduce new provisions (Schedule XIV)\nconcerning the labelling of tampons and establishing a standard test method\nfor determining the absorbency capacity of these products.\n",
+  "registration": "Registration: SOR/ 1995-0520  Publication Date: 1995-11-29",
+  "registration_type": "SOR",
+  "registration_id": "1995-0520",
+  "registration_publication_date": "1995-11-29"
 }

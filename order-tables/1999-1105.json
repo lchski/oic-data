@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1105</td><td>1999-06-17</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the transfer to ONTARIO HYDRO NETWORKS COMPANY INC. of the\nCertificates of Public Convenience and Necessity (EC-11 through EC-18,\nEC-III-6, EC-III-13 and EC-III-20) issued by the National Energy Board and\ncurrently held by Ontario Hydro Services Company Inc.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1105",
   "htmlHash": "a875d1d0f5841a7a6ba9113ec5a1bd76",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the transfer to ONTARIO HYDRO NETWORKS COMPANY INC. of the\nCertificates of Public Convenience and Necessity (EC-11 through EC-18,\nEC-III-6, EC-III-13 and EC-III-20) issued by the National Energy Board and\ncurrently held by Ontario Hydro Services Company Inc.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

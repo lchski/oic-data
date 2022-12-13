@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1684</td><td>1991-09-05</td><td>0</td><td></td><td>,&nbsp; SGC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of MANITOBA of the transfer of the\nadministration and control of a parcel of vacant land (0.279 hec) situate\nat MOOSE LAKE, Manitoba, for the purpose of a Royal Canadian Mounted\nPolice community office site.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1684",
   "htmlHash": "b9a1227fe63754ba344460ee65a0c6d1",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-09-05",
+  "chapter": "0",
+  "bill": "",
+  "department": ", SGC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance from the Province of MANITOBA of the transfer of the\nadministration and control of a parcel of vacant land (0.279 hec) situate\nat MOOSE LAKE, Manitoba, for the purpose of a Royal Canadian Mounted\nPolice community office site.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0744</td><td>1994-05-05</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (a) approving a \"SETTLEMENT AGREEMENT\" between the Federal Crown, the\nProvince of British Columbia and the SONGHEES INDIAN BAND which is designed\nto resolve and extinguish a specific claim pertaining to the cutting-off in\n1924 of some 0.5 acres of land from its reserve, more particularly, Halkett\nIsland in Victoria Harbour, and (b) setting apart that island for the use\nand benefit of the Band as (Deadman's) HALKETT ISLAND INDIAN RESERVE NO. 2.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0744",
   "htmlHash": "986c79fc715db4ee7a0435eb0f2fabdd",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-05-05",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order (a) approving a \"SETTLEMENT AGREEMENT\" between the Federal Crown, the\nProvince of British Columbia and the SONGHEES INDIAN BAND which is designed\nto resolve and extinguish a specific claim pertaining to the cutting-off in\n1924 of some 0.5 acres of land from its reserve, more particularly, Halkett\nIsland in Victoria Harbour, and (b) setting apart that island for the use\nand benefit of the Band as (Deadman's) HALKETT ISLAND INDIAN RESERVE NO. 2.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

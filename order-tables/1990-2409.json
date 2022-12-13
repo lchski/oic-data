@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2409</td><td>1990-11-08</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance from the Province of QUEBEC, of the administration of two\nparcels of land (14,972.3 m²) of the Cadastre of the Township of Natashquan\nQuebec, for use as a site for approach lights to a landing strip at\nNatashquan airport.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2409",
   "htmlHash": "9ed81c90ffb7e9c2148e0994bd58b41a",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-11-08",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance from the Province of QUEBEC, of the administration of two\nparcels of land (14,972.3 m²) of the Cadastre of the Township of Natashquan\nQuebec, for use as a site for approach lights to a landing strip at\nNatashquan airport.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

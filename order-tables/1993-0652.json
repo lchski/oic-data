@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0652</td><td>1993-03-30</td><td>0</td><td></td><td>IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of an instrument (Revocation of Surrender) duly approved by the\nmembers of the TSUU T'INA NATION BAND OF INDIANS which provides for the\npartial revocation of a 1974 surrender so that a parcel of land (60.6\nhectares) situated on Sarcee Indian Reserve No. 145 in Alberta which had\nbeen surrendered for leasing to third party interests can be returned to\nreserve status.  (Lot 11, C.L.S.R. Plan 67856)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0652",
   "htmlHash": "97fde125363aea538b037beba2234cbb",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-03-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "IA&ND, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of an instrument (Revocation of Surrender) duly approved by the\nmembers of the TSUU T'INA NATION BAND OF INDIANS which provides for the\npartial revocation of a 1974 surrender so that a parcel of land (60.6\nhectares) situated on Sarcee Indian Reserve No. 145 in Alberta which had\nbeen surrendered for leasing to third party interests can be returned to\nreserve status.  (Lot 11, C.L.S.R. Plan 67856)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0448</td><td>1992-03-12</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of the Environment to enter into amending\nagreements with seven eastern Provinces respecting a SULPHUR DIOXIDE\nREDUCTION PROGRAM.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0448",
   "htmlHash": "f9e80a571344f19d8de16949b5480246",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-03-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister of the Environment to enter into amending\nagreements with seven eastern Provinces respecting a SULPHUR DIOXIDE\nREDUCTION PROGRAM.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0629</td><td>1998-04-23</td><td>0</td><td></td><td>FIN,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS by expanding on the kind of\ninvestments that can be made with the funds in a Registered Retirement\nSaving Plan (RRSP) or Income Fund (RRIF) or in a Deferred Profit Sharing\nPlan, to include debts issued by a mutual fund trust as well as rights to\na share in the capital stock of a corporation.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0250  <strong>Publication Date:</strong> 1998-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0629",
   "htmlHash": "295e9c8e90cf0fd428cd2f61a6cedced",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS by expanding on the kind of\ninvestments that can be made with the funds in a Registered Retirement\nSaving Plan (RRSP) or Income Fund (RRIF) or in a Deferred Profit Sharing\nPlan, to include debts issued by a mutual fund trust as well as rights to\na share in the capital stock of a corporation.\n",
+  "registration": "Registration: SOR/ 1998-0250  Publication Date: 1998-05-13",
+  "registration_type": "SOR",
+  "registration_id": "1998-0250",
+  "registration_publication_date": "1998-05-13"
 }

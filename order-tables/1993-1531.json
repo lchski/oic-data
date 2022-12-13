@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1531</td><td>1993-07-06</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the trip to United Nations Headquarters in New York City\nto be undertaken by the Hon. John Carnell Crosbie, from July 9 to July 30,\n1993, as the personal representative of the Prime Minister at the\nCONFERENCE ON HIGH SEAS FISHING.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1531",
   "htmlHash": "87ca87afd348e4b8c4a0a0b3e6355592",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-07-06",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the trip to United Nations Headquarters in New York City\nto be undertaken by the Hon. John Carnell Crosbie, from July 9 to July 30,\n1993, as the personal representative of the Prime Minister at the\nCONFERENCE ON HIGH SEAS FISHING.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1766</td><td>1998-10-01</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Setting apart, for the use and benefit of the WASAGAMACK BAND, of some\n1,066 hectares of land in Manitoba, mines and minerals included, as an\naddition to Wasagamack Indian Reserve.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1766",
   "htmlHash": "d2a3d68a22efa640a3136acb64f083a4",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-10-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Setting apart, for the use and benefit of the WASAGAMACK BAND, of some\n1,066 hectares of land in Manitoba, mines and minerals included, as an\naddition to Wasagamack Indian Reserve.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

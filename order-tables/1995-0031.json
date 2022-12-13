@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0031</td><td>1995-01-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; EA,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to issue an INSTRUMENT OF ACCEPTANCE of the amendments made in\n1992 to Article 8 of the INTERNATIONAL CONVENTION ON THE ELIMINATION OF ALL\nFORMS OF RACIAL DISCRIMINATION (1966).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0031",
   "htmlHash": "f69b8baede5f536dc9d641ae96ee173f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-01-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , EA, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to issue an INSTRUMENT OF ACCEPTANCE of the amendments made in\n1992 to Article 8 of the INTERNATIONAL CONVENTION ON THE ELIMINATION OF ALL\nFORMS OF RACIAL DISCRIMINATION (1966).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0978</td><td>2001-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Fixing of the fees (per diem) payable to Commissioners of the INDIAN\nSPECIFIC CLAIMS COMMISSION serving as Interim Co-Chairpersons, effective\nOctober 1, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0978",
   "htmlHash": "722ba809af438ac73633621a82f3092a",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , IA&ND, PMO, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Fixing of the fees (per diem) payable to Commissioners of the INDIAN\nSPECIFIC CLAIMS COMMISSION serving as Interim Co-Chairpersons, effective\nOctober 1, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

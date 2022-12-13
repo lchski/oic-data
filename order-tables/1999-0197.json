@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0197</td><td>1999-02-11</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HEALTH,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the TOBACCO (ACCESS) REGULATIONS which specify how and where\nsigns informing the public that furnishing tobacco products to young\npersons is prohibited by law shall be displayed in retail outlets, and the\nkind of documents that may be used to verify a person's age.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0093  <strong>Publication Date:</strong> 1999-03-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0197",
   "htmlHash": "15fc854727812166d34eb0dd3af2e821",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-02-11",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HEALTH, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the TOBACCO (ACCESS) REGULATIONS which specify how and where\nsigns informing the public that furnishing tobacco products to young\npersons is prohibited by law shall be displayed in retail outlets, and the\nkind of documents that may be used to verify a person's age.\n",
+  "registration": "Registration: SOR/ 1999-0093  Publication Date: 1999-03-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0093",
+  "registration_publication_date": "1999-03-03"
 }

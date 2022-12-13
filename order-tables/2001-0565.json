@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0565</td><td>2001-04-03</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARY L. BAEHR, of Prince George, British Columbia, as\nChairperson of the Boards of Referees for the British Columbia Regional\nDivision, and particularly for the District of Prince George, for a term\nof three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0565",
   "htmlHash": "c99d2928b07558e9b9535f64cf8ec7e4",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-04-03",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HRD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of MARY L. BAEHR, of Prince George, British Columbia, as\nChairperson of the Boards of Referees for the British Columbia Regional\nDivision, and particularly for the District of Prince George, for a term\nof three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

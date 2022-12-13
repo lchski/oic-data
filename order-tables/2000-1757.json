@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1757</td><td>2000-12-12</td><td>0</td><td></td><td>,&nbsp; AGRI-FOOD,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CARL E. HARRISON, of Oakville, Ontario, as a member of the\nCanadian Dairy Commission to hold office during pleasure, on a part-time\nbasis, for a term of three years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1757",
   "htmlHash": "688c7948e2c1c7b341f33df47468e58d",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-12",
+  "chapter": "0",
+  "bill": "",
+  "department": ", AGRI-FOOD, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CARL E. HARRISON, of Oakville, Ontario, as a member of the\nCanadian Dairy Commission to hold office during pleasure, on a part-time\nbasis, for a term of three years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

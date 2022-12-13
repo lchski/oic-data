@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1686</td><td>2002-09-30</td><td>0</td><td></td><td>HEALTH,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of MICHAEL GORDON of Willowdale, Ontario, to be a member of\nthe National Advisory Council on Aging, to hold office during pleasure for\na term of three years, effective August 26, 2002.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1686",
   "htmlHash": "e097b2043a365e957474b64c907db54e",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-09-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "HEALTH, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of MICHAEL GORDON of Willowdale, Ontario, to be a member of\nthe National Advisory Council on Aging, to hold office during pleasure for\na term of three years, effective August 26, 2002.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

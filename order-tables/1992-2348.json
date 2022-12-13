@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2348</td><td>1992-11-19</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; PTB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the ACCESS TO INFORMATION REGULATIONS providing the\nrequirement fee schedule reflecting the cost of the medium in which the\nalternative format is produced for people with sensory disabilities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0687  <strong>Publication Date:</strong> 1992-12-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2348",
   "htmlHash": "2a78fd63468e73f0b72558ed46053860",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-19",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , PTB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the ACCESS TO INFORMATION REGULATIONS providing the\nrequirement fee schedule reflecting the cost of the medium in which the\nalternative format is produced for people with sensory disabilities.\n",
+  "registration": "Registration: SOR/ 1992-0687  Publication Date: 1992-12-16",
+  "registration_type": "SOR",
+  "registration_id": "1992-0687",
+  "registration_publication_date": "1992-12-16"
 }

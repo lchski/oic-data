@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-1096</td><td>1992-05-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">DISCLOSURE OF INTEREST (BANKS) REGULATIONS respecting the disclosure of\ninterest rates relating to deposit accounts and debt obligations.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0321  <strong>Publication Date:</strong> 1992-06-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-1096",
   "htmlHash": "6ba70331ec5d9e1f967a82a380717e5b",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-05-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "DISCLOSURE OF INTEREST (BANKS) REGULATIONS respecting the disclosure of\ninterest rates relating to deposit accounts and debt obligations.\n",
+  "registration": "Registration: SOR/ 1992-0321  Publication Date: 1992-06-03",
+  "registration_type": "SOR",
+  "registration_id": "1992-0321",
+  "registration_publication_date": "1992-06-03"
 }

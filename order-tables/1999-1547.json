@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1547</td><td>1999-08-27</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of DAVID C. COLVILLE, of Halifax, Nova Scotia, as a\nfull-time member of the Canadian Radio-television and Telecommunications\nCommission to hold office during good behaviour for a term of four years;\ndesignation of DAVID C. COLVILLE as a representative of the Atlantic\nregion and determination that he shall reside within 100 kilometres of\nthe Atlantic regional office; and designation of DAVID C. COLVILLE as\nVice-Chairman of the Canadian Radio-television and Telecommunications\nCommission to hold office during pleasure; effective January 1, 2000.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1547",
   "htmlHash": "6232afb1aa6b602613229a8aef960695",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-08-27",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of DAVID C. COLVILLE, of Halifax, Nova Scotia, as a\nfull-time member of the Canadian Radio-television and Telecommunications\nCommission to hold office during good behaviour for a term of four years;\ndesignation of DAVID C. COLVILLE as a representative of the Atlantic\nregion and determination that he shall reside within 100 kilometres of\nthe Atlantic regional office; and designation of DAVID C. COLVILLE as\nVice-Chairman of the Canadian Radio-television and Telecommunications\nCommission to hold office during pleasure; effective January 1, 2000.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

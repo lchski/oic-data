@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1813</td><td>2000-12-20</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for THE CANADIAN WHEAT BOARD to make a FINAL PAYMENT to\nproducers of BARLEY from the balance remaining in last year's account\n(1999-2000), effective January 2, 2001.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1813",
   "htmlHash": "c3067c3c2fa4dba026dceb3d634f3fee",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for THE CANADIAN WHEAT BOARD to make a FINAL PAYMENT to\nproducers of BARLEY from the balance remaining in last year's account\n(1999-2000), effective January 2, 2001.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

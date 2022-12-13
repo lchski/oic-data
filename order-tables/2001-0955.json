@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0955</td><td>2001-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; PSC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Assignment to the PUBLIC SERVICE COMMISSION of the duty to act as an expert\nresource body and provide programs and services to the federal public\nservice in the area of PREVENTION AND RESOLUTION OF HARASSMENT.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0955",
   "htmlHash": "93b0ab39b8741a344af4e873810a64dc",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-05-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HERITAGE, PSC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Assignment to the PUBLIC SERVICE COMMISSION of the duty to act as an expert\nresource body and provide programs and services to the federal public\nservice in the area of PREVENTION AND RESOLUTION OF HARASSMENT.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

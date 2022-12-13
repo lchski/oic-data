@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0376</td><td>1995-03-14</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EIC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Agnes M. Kelly, of Corner Brook, Newfoundland, as\nChairperson of the Boards of Referees for the Newfoundland Regional\nDivision, and particularly for the District of Corner Brook, for a term of\nthree years, effective March 19, 1995.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0376",
   "htmlHash": "eaeab2c31bea412745f41be5e126c17a",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-14",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EIC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Agnes M. Kelly, of Corner Brook, Newfoundland, as\nChairperson of the Boards of Referees for the Newfoundland Regional\nDivision, and particularly for the District of Corner Brook, for a term of\nthree years, effective March 19, 1995.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

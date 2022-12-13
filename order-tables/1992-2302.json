@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2302</td><td>1992-11-16</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">AMI - DEPATTERNED PERSONS ASSISTANCE ORDER - which authorizes the Minister\nof Justice to make ex gratia payments of $100,000 to patients of Dr. Ewen\nCameron who received full or substantial depatterning treatment at the\nAllan Memorial Institute in Montreal between the years 1950 and 1965.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2302",
   "htmlHash": "49c677382a43305a788454289311507a",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, TB, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "AMI - DEPATTERNED PERSONS ASSISTANCE ORDER - which authorizes the Minister\nof Justice to make ex gratia payments of $100,000 to patients of Dr. Ewen\nCameron who received full or substantial depatterning treatment at the\nAllan Memorial Institute in Montreal between the years 1950 and 1965.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

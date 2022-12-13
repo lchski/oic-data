@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2426</td><td>1992-11-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; EC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a NOTICE be published in Part I of the Canada Gazette\nindicating that the Minister of the Environment has formulated a\nNATIONAL GUIDELINE FOR BUILDING MATERIALS: THERMAL INSULATION (ECP-40-91)\nwhich is available to the general public upon request.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2426",
   "htmlHash": "012878f85cfad5206d1f5ee0ee9444c8",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-11-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , EC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a NOTICE be published in Part I of the Canada Gazette\nindicating that the Minister of the Environment has formulated a\nNATIONAL GUIDELINE FOR BUILDING MATERIALS: THERMAL INSULATION (ECP-40-91)\nwhich is available to the general public upon request.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2222</td><td>1995-12-20</td><td>0</td><td></td><td>,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) for the Right Hon. Jean Chrétien or the Minister of Foreign\nAffairs to sign with the Government of MALAYSIA an AGREEMENT ON AIR\nTRANSPORT, or (b) for the Minister of Foreign Affairs to issue an\nInstrument of Full Powers authorizing either the Hon. Roy MacLaren, the\nHon. Raymond Chan, or John Peter Bell to sign the said Agreement.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2222",
   "htmlHash": "e7ee188a148f925f1356f2fbe1221972",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority (a) for the Right Hon. Jean Chrétien or the Minister of Foreign\nAffairs to sign with the Government of MALAYSIA an AGREEMENT ON AIR\nTRANSPORT, or (b) for the Minister of Foreign Affairs to issue an\nInstrument of Full Powers authorizing either the Hon. Roy MacLaren, the\nHon. Raymond Chan, or John Peter Bell to sign the said Agreement.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

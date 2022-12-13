@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-1701</td><td>1998-09-23</td><td>0</td><td></td><td>HERITAGE,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of W. THOMAS R. WILSON, of Toronto, Ontario, as a director\nof the Board of Directors of the Canadian Broadcasting Corporation\nto hold office during good behaviour for a term of four years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-1701",
   "htmlHash": "9bb0a160e0d5fea270ff4bd355ad1fa7",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-09-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "HERITAGE, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of W. THOMAS R. WILSON, of Toronto, Ontario, as a director\nof the Board of Directors of the Canadian Broadcasting Corporation\nto hold office during good behaviour for a term of four years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

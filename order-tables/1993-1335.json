@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1335</td><td>1993-06-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CCAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Dissolution as a corporation the Chambre de Commerce de POINTE-CALUMET,\nin the Province of Quebec, because it has ceased to exercise its\nfranchises.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1335",
   "htmlHash": "f5f0a921aa67c4881adb3090a45d51ef",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-06-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , CCAC",
+  "act": "",
+  "subject": "",
+  "precis": "Dissolution as a corporation the Chambre de Commerce de POINTE-CALUMET,\nin the Province of Quebec, because it has ceased to exercise its\nfranchises.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

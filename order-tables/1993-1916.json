@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1916</td><td>1993-11-04</td><td>0</td><td></td><td>,&nbsp; PMO,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Assignment of the Honourable RAYMOND CHAN, who shall be known as the\nSecretary of State (ASIA-PACIFIC), to assist the Minister of Foreign\nAffairs in the carrying out of his responsibilities.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1993-0214  <strong>Publication Date:</strong> 1993-11-17</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1916",
   "htmlHash": "8f999d20bcf992337ef80d7de486c4de",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-11-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", PMO, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Assignment of the Honourable RAYMOND CHAN, who shall be known as the\nSecretary of State (ASIA-PACIFIC), to assist the Minister of Foreign\nAffairs in the carrying out of his responsibilities.\n",
+  "registration": "Registration: SI / 1993-0214  Publication Date: 1993-11-17",
+  "registration_type": "SI",
+  "registration_id": "1993-0214",
+  "registration_publication_date": "1993-11-17"
 }

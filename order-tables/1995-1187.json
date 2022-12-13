@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-1187</td><td>1995-07-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the MAYO AIRPORT ZONING REGULATIONS which impose restrictions\non the use or developmment of land situated within a four-kilometre radius\nMayo Airport, in the Yukon Territory.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0346  <strong>Publication Date:</strong> 1995-08-09</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-1187",
   "htmlHash": "b1ad865f081167ad9d51bfe836053b27",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-07-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the MAYO AIRPORT ZONING REGULATIONS which impose restrictions\non the use or developmment of land situated within a four-kilometre radius\nMayo Airport, in the Yukon Territory.\n",
+  "registration": "Registration: SOR/ 1995-0346  Publication Date: 1995-08-09",
+  "registration_type": "SOR",
+  "registration_id": "1995-0346",
+  "registration_publication_date": "1995-08-09"
 }

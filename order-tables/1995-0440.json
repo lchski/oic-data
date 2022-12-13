@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0440</td><td>1995-03-14</td><td>0</td><td></td><td>COM,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval for the NATIONAL CAPITAL COMMISSION, as lessee, to enter into a\nlicence of occupation and two 15-year Leases with the Crown with respect to\nits tenancy in the BIRKS BUILDING, the MARSHALL BUILDING and the adjoining\nplaza located opposite Parliament Hill in Ottawa, for the operation of a\ntourist information centre.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0440",
   "htmlHash": "f4cd5e0b881283200788709724dad1b7",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-14",
+  "chapter": "0",
+  "bill": "",
+  "department": "COM, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval for the NATIONAL CAPITAL COMMISSION, as lessee, to enter into a\nlicence of occupation and two 15-year Leases with the Crown with respect to\nits tenancy in the BIRKS BUILDING, the MARSHALL BUILDING and the adjoining\nplaza located opposite Parliament Hill in Ottawa, for the operation of a\ntourist information centre.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

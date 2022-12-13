@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-0683</td><td>1994-04-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a proclamation do issue giving notice that the\nProtocol amending the Convention between the Government of Canada and the\nGovernment of ITALY for the avoidance of double taxation with respect to\ntaxes on income and for the prevention of fiscal evasion came into force,\npursuant to Article 2 of the Protocol, on February 22, 1994.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1994-0073  <strong>Publication Date:</strong> 1994-06-01</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-0683",
   "htmlHash": "61ba6b5a9d199dde5d5e8c7df2a2c0fa",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-04-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a proclamation do issue giving notice that the\nProtocol amending the Convention between the Government of Canada and the\nGovernment of ITALY for the avoidance of double taxation with respect to\ntaxes on income and for the prevention of fiscal evasion came into force,\npursuant to Article 2 of the Protocol, on February 22, 1994.\n",
+  "registration": "Registration: SI / 1994-0073  Publication Date: 1994-06-01",
+  "registration_type": "SI",
+  "registration_id": "1994-0073",
+  "registration_publication_date": "1994-06-01"
 }

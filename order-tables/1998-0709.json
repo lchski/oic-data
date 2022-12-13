@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1998-0709</td><td>1998-04-30</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HUMANITARIAN DESIGNATED CLASSES REGULATIONS which\nset back their expiry date to December 31, 1998, add Cambodia, Colombia and\nLiberia to the list of countries whose citizens may be eligible to enter\nCanada on humanitarian grounds, and oblige the sponsors of a refugee who\nintends to settle in Quebec to submit their application to the appropriate\nprovincial authorities, effective May 1, 1998.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1998-0271  <strong>Publication Date:</strong> 1998-05-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1998-0709",
   "htmlHash": "20c30e8d4b5dffd012fed9c605dca6dd",
-  "attachments": []
+  "attachments": [],
+  "date": "1998-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the HUMANITARIAN DESIGNATED CLASSES REGULATIONS which\nset back their expiry date to December 31, 1998, add Cambodia, Colombia and\nLiberia to the list of countries whose citizens may be eligible to enter\nCanada on humanitarian grounds, and oblige the sponsors of a refugee who\nintends to settle in Quebec to submit their application to the appropriate\nprovincial authorities, effective May 1, 1998.\n",
+  "registration": "Registration: SOR/ 1998-0271  Publication Date: 1998-05-13",
+  "registration_type": "SOR",
+  "registration_id": "1998-0271",
+  "registration_publication_date": "1998-05-13"
 }

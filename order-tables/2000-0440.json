@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0440</td><td>2000-03-30</td><td>0</td><td></td><td>INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing FRIDAY, MARCH 31, 2000, as the day upon which sections 8 and\n10 and subsections 9(2) to (4) of An Act to Amend the Telecommunications\nAct and the Teleglobe Canada Reorganization and Divestiture Act\n[BILL C-17], being chapter 8 of the Statutes of Canada, 1998, shall COME\nINTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2000-0022  <strong>Publication Date:</strong> 2000-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0440",
   "htmlHash": "07a9bcce46d7007929f3dd610d582149",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-03-30",
+  "chapter": "0",
+  "bill": "",
+  "department": "INDUSTRY, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing FRIDAY, MARCH 31, 2000, as the day upon which sections 8 and\n10 and subsections 9(2) to (4) of An Act to Amend the Telecommunications\nAct and the Teleglobe Canada Reorganization and Divestiture Act\n[BILL C-17], being chapter 8 of the Statutes of Canada, 1998, shall COME\nINTO FORCE.\n",
+  "registration": "Registration: SI / 2000-0022  Publication Date: 2000-04-12",
+  "registration_type": "SI",
+  "registration_id": "2000-0022",
+  "registration_publication_date": "2000-04-12"
 }

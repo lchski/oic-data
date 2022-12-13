@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1024</td><td>1990-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; TC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the PACIFIC PILOTAGE TARIFF REGULATIONS proposing an increase\nof 5.7% to pilotage tariffs to offset increased costs related to the\nEnglish Bay and Nanaimo launch operations respectively, etc.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0313  <strong>Publication Date:</strong> 1990-06-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1024",
   "htmlHash": "5f80c18ba72134065e10ee0b9fe51421",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , TC",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the PACIFIC PILOTAGE TARIFF REGULATIONS proposing an increase\nof 5.7% to pilotage tariffs to offset increased costs related to the\nEnglish Bay and Nanaimo launch operations respectively, etc.\n",
+  "registration": "Registration: SOR/ 1990-0313  Publication Date: 1990-06-20",
+  "registration_type": "SOR",
+  "registration_id": "1990-0313",
+  "registration_publication_date": "1990-06-20"
 }

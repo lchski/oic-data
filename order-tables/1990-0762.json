@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0762</td><td>1990-04-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; SGC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Grant of a Licence of Occupation to the CANADIAN WESTERN NATURAL GAS\nCOMPANY LIMITED, for a term of forty-nine years, for the installation,\noperation, maintenance, etc., of an underground natural gas pipeline\nunder the site of the R.C.M.P. station in Turner Valley, Alberta.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0762",
   "htmlHash": "67aff2ab7cd325b54bf11689a3197f16",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-04-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , SGC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Grant of a Licence of Occupation to the CANADIAN WESTERN NATURAL GAS\nCOMPANY LIMITED, for a term of forty-nine years, for the installation,\noperation, maintenance, etc., of an underground natural gas pipeline\nunder the site of the R.C.M.P. station in Turner Valley, Alberta.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0483</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; JUS,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of an annuity to the Hon. SAMUEL G.M. GRANGE, a Judge of the Court\nof Appeal for Ontario, who will cease to hold office.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0483",
   "htmlHash": "34b75d043e09dd717147953cefecc54a",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , JUS, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of an annuity to the Hon. SAMUEL G.M. GRANGE, a Judge of the Court\nof Appeal for Ontario, who will cease to hold office.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0725</td><td>1995-05-02</td><td>0</td><td></td><td>,&nbsp; EA,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Submission to Parliament of a REPORT on the operation of the Regulations\nand Orders made in 1993 and 1994 under the Special Economic Measures Act\nwhich imposed sanctions against HAITI as recommended by the United Nations\nSecurity Council and the Organization of American States.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0725",
   "htmlHash": "d236dbab732ccdd0431d2eaaeea10b2c",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-05-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EA, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Submission to Parliament of a REPORT on the operation of the Regulations\nand Orders made in 1993 and 1994 under the Special Economic Measures Act\nwhich imposed sanctions against HAITI as recommended by the United Nations\nSecurity Council and the Organization of American States.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

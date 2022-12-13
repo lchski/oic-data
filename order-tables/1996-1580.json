@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-1580</td><td>1996-10-08</td><td>0</td><td></td><td>SGC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROMOTION of the following officers of the Royal Canadian Mounted Police:\n.\n     OFFICER                                        NEW RANK\n     --------------------------------------------   ----------------------\n  1. Inspector David Bryon JEGGO                    Superintendent\n  2. Chief Superintendent Murray James JOHNSTON     Assistant Commissioner\n  3. Inspector Joseph Lucien Bernard LEBLANC        Superintendent\n  4. Inspector John Robert Franklin SPICE           Superintendent\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-1580",
   "htmlHash": "5bc1914f334413b39f2be88828a011e6",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-10-08",
+  "chapter": "0",
+  "bill": "",
+  "department": "SGC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "PROMOTION of the following officers of the Royal Canadian Mounted Police:\n.\n     OFFICER                                        NEW RANK\n     --------------------------------------------   ----------------------\n  1. Inspector David Bryon JEGGO                    Superintendent\n  2. Chief Superintendent Murray James JOHNSTON     Assistant Commissioner\n  3. Inspector Joseph Lucien Bernard LEBLANC        Superintendent\n  4. Inspector John Robert Franklin SPICE           Superintendent\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-2736</td><td>1992-12-30</td><td>0</td><td></td><td>,&nbsp; JUS,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of certain persons as members of the Human Rights Tribunal\nPanel to hold office during good behaviour for a term of three years,\neffective January 1, 1993.\n(Perry Winston Schulman, Q.C., Winnipeg, Manitoba; and William Charles\nKushneryk, Winnipeg, Manitoba)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-2736",
   "htmlHash": "bf8c73087edeb4dd51e4c71f30582a71",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-12-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", JUS, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of certain persons as members of the Human Rights Tribunal\nPanel to hold office during good behaviour for a term of three years,\neffective January 1, 1993.\n(Perry Winston Schulman, Q.C., Winnipeg, Manitoba; and William Charles\nKushneryk, Winnipeg, Manitoba)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

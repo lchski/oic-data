@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0498</td><td>1991-03-19</td><td>0</td><td></td><td>PRIVATIZAT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of State (Finance and\nPrivatization) of certain persons as directors of Petro-Canada\nto hold office during pleasure for a term of one year.\n(William W. Siebens, Calgary, Alberta; Alfred Barroll, Calgary, Alberta;\nJames M. Stanford, Calgary, Alberta; William McBurney Elliott, Regina,\nSaskatchewan; H. Reuben Cohen, Moncton, New Brunswick; Claude Fontaine,\nVille Mont-Royal, Quebec; William H. Jarvis, Ottawa, Ontario; and Thomas\nE. Kierans, Toronto, Ontario)\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0498",
   "htmlHash": "b7e7dbe766e7d01350abc7864e8f6014",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-03-19",
+  "chapter": "0",
+  "bill": "",
+  "department": "PRIVATIZAT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of State (Finance and\nPrivatization) of certain persons as directors of Petro-Canada\nto hold office during pleasure for a term of one year.\n(William W. Siebens, Calgary, Alberta; Alfred Barroll, Calgary, Alberta;\nJames M. Stanford, Calgary, Alberta; William McBurney Elliott, Regina,\nSaskatchewan; H. Reuben Cohen, Moncton, New Brunswick; Claude Fontaine,\nVille Mont-Royal, Quebec; William H. Jarvis, Ottawa, Ontario; and Thomas\nE. Kierans, Toronto, Ontario)\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

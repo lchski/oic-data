@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-0785</td><td>1991-04-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority (a) to issue CANADA SAVINGS BONDS during the fiscal year ending\non March 31, 1992, and (b) to fund the costs and expenses incurred in\nconnection therewith out of the Consolidated Revenue Fund.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-0785",
   "htmlHash": "1246b131b3e229cd3a50bd51cb60ae67",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-04-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority (a) to issue CANADA SAVINGS BONDS during the fiscal year ending\non March 31, 1992, and (b) to fund the costs and expenses incurred in\nconnection therewith out of the Consolidated Revenue Fund.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-2172</td><td>1999-12-09</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; TB,&nbsp; PTB,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the dates when different provisions of this Act [BILL C-78]\nshall COME INTO FORCE.                  (ROYAL ASSENT:  September 14, 1999)\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1999-0138  <strong>Publication Date:</strong> 1999-12-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-2172",
   "htmlHash": "73608ef25f326f529b4d5ae19d3eeecc",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-12-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , TB, PTB, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the dates when different provisions of this Act [BILL C-78]\nshall COME INTO FORCE.                  (ROYAL ASSENT:  September 14, 1999)\n",
+  "registration": "Registration: SI / 1999-0138  Publication Date: 1999-12-22",
+  "registration_type": "SI",
+  "registration_id": "1999-0138",
+  "registration_publication_date": "1999-12-22"
 }

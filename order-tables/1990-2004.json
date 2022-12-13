@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2004</td><td>1990-09-20</td><td>0</td><td></td><td>FIN,&nbsp; IT,&nbsp; NR,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the SPECIAL IMPORT MEASURES REGULATIONS removing\nthe obligation to have a notice of intent published in the Canada Gazette\nthus effectively restoring the full 20 days for notification, by service,\non interested parties.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0662  <strong>Publication Date:</strong> 1990-10-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2004",
   "htmlHash": "c09d673069347003f73138b050a8f980",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-09-20",
+  "chapter": "0",
+  "bill": "",
+  "department": "FIN, IT, NR, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the SPECIAL IMPORT MEASURES REGULATIONS removing\nthe obligation to have a notice of intent published in the Canada Gazette\nthus effectively restoring the full 20 days for notification, by service,\non interested parties.\n",
+  "registration": "Registration: SOR/ 1990-0662  Publication Date: 1990-10-10",
+  "registration_type": "SOR",
+  "registration_id": "1990-0662",
+  "registration_publication_date": "1990-10-10"
 }

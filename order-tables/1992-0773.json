@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0773</td><td>1992-04-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HWC,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 833 providing a\nnew source of alpha-amylase that could be used in the production of\nsweetening agents to increase glucose yields and reduce saccharification\ntimes.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1992-0231  <strong>Publication Date:</strong> 1992-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0773",
   "htmlHash": "a82db58f785f3d171daf6f15741588d7",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-04-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HWC, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the FOOD AND DRUG REGULATIONS Schedule No. 833 providing a\nnew source of alpha-amylase that could be used in the production of\nsweetening agents to increase glucose yields and reduce saccharification\ntimes.\n",
+  "registration": "Registration: SOR/ 1992-0231  Publication Date: 1992-05-20",
+  "registration_type": "SOR",
+  "registration_id": "1992-0231",
+  "registration_publication_date": "1992-05-20"
 }

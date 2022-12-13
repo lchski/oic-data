@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0344</td><td>1999-03-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of By-law No. 131 made by the NASKAPI BAND OF QUEBEC on April 3,\n1996, which changes the English, French and Naskapi names of the Band to\n\"Naskapi Nation of Kawawachikamach\", \"Nation Naskapi de Kawawachikamach\"\nand \"Naskapi Eeyouch Kawawachikamach\", respectively.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0344",
   "htmlHash": "f8e5c4b9f71efa8eca35d5760a060c77",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-03-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of By-law No. 131 made by the NASKAPI BAND OF QUEBEC on April 3,\n1996, which changes the English, French and Naskapi names of the Band to\n\"Naskapi Nation of Kawawachikamach\", \"Nation Naskapi de Kawawachikamach\"\nand \"Naskapi Eeyouch Kawawachikamach\", respectively.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-0237</td><td>2000-02-24</td><td>0</td><td></td><td>,&nbsp; INDUSTRY,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of an application made by LA CHAMBRE DE COMMERCE DE L'OUEST-DE-\nL'ÎLE/THE WEST ISLAND CHAMBER OF COMMERCE, duly incorporated in Quebec and\nregistered in 1962, to change its name to \"La Chambre de Commerce de\nl'Ouest-de-l'Île de Montréal/The West Island of Montreal Chamber of\nCommerce\".\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-0237",
   "htmlHash": "945b0d1978320a3b9bd54224d22e707a",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-02-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", INDUSTRY, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of an application made by LA CHAMBRE DE COMMERCE DE L'OUEST-DE-\nL'ÎLE/THE WEST ISLAND CHAMBER OF COMMERCE, duly incorporated in Quebec and\nregistered in 1962, to change its name to \"La Chambre de Commerce de\nl'Ouest-de-l'Île de Montréal/The West Island of Montreal Chamber of\nCommerce\".\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

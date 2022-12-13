@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1048</td><td>1990-05-31</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; SGC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Administrative discharge (retirement) of Superintendent Joseph Albert Leo\nGuy Davignon of the Royal Canadian Mounted Police, effective midnight,\nJuly 18, 1990.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1048",
   "htmlHash": "2e1941fd16f8baa27c6c3ba3a11331e3",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-31",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , SGC",
+  "act": "",
+  "subject": "",
+  "precis": "Administrative discharge (retirement) of Superintendent Joseph Albert Leo\nGuy Davignon of the Royal Canadian Mounted Police, effective midnight,\nJuly 18, 1990.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

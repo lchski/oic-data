@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0864</td><td>1990-05-10</td><td>0</td><td></td><td>HWC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a Proclamation do issue giving notice that the\nConvention on Social Security between Canada and the Grand Duchy of\nLuxembourg came into force on April 1, 1990.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1990-0073  <strong>Publication Date:</strong> 1990-07-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0864",
   "htmlHash": "12d0213c3164b243b8b5d5ec1ec8593c",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-10",
+  "chapter": "0",
+  "bill": "",
+  "department": "HWC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a Proclamation do issue giving notice that the\nConvention on Social Security between Canada and the Grand Duchy of\nLuxembourg came into force on April 1, 1990.\n",
+  "registration": "Registration: SI / 1990-0073  Publication Date: 1990-07-04",
+  "registration_type": "SI",
+  "registration_id": "1990-0073",
+  "registration_publication_date": "1990-07-04"
 }

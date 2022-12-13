@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1242</td><td>1997-08-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Minister of Foreign Affairs (a) to sign the INTERNATIONAL\nCONVENTION ON LIABILITY AND COMPENSATION FOR DAMAGE IN CONNECTION WITH THE\nCARRIAGE OF HAZARDOUS AND NOXIOUS SUBSTANCES BY SEA, 1996, or (b) to\nissue an Instrument of Full Powers authorizing either the Hon. David M.\nCollenette or the Hon. Roy MacLaren to sign the said Convention.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1242",
   "htmlHash": "51d78ba7ec3789370b06633ea5151876",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-08-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FAIT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Minister of Foreign Affairs (a) to sign the INTERNATIONAL\nCONVENTION ON LIABILITY AND COMPENSATION FOR DAMAGE IN CONNECTION WITH THE\nCARRIAGE OF HAZARDOUS AND NOXIOUS SUBSTANCES BY SEA, 1996, or (b) to\nissue an Instrument of Full Powers authorizing either the Hon. David M.\nCollenette or the Hon. Roy MacLaren to sign the said Convention.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0478</td><td>1995-03-21</td><td>0</td><td></td><td>JUS,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Granting of a leave of absence to the Hon. JULES BLANCHET, a Puisne Judge\nof the Superior Court of Quebec, from December 21, 1994 to December 21,\n1995, on account of ill-health.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0478",
   "htmlHash": "308cb922f070397808af4c28f68274ad",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "JUS, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Granting of a leave of absence to the Hon. JULES BLANCHET, a Puisne Judge\nof the Superior Court of Quebec, from December 21, 1994 to December 21,\n1995, on account of ill-health.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

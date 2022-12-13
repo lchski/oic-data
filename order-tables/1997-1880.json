@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1880</td><td>1997-12-16</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of BENJAMIN SHECTER, of Côte Saint-Luc, Quebec, as a member\nof the Human Rights Tribunal Panel to hold office during good behaviour for\na term ending March 31, 2000, effective January 1, 1998.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1880",
   "htmlHash": "ea575d96f43f1eb226a65ff25a0fbd98",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-12-16",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of BENJAMIN SHECTER, of Côte Saint-Luc, Quebec, as a member\nof the Human Rights Tribunal Panel to hold office during good behaviour for\na term ending March 31, 2000, effective January 1, 1998.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

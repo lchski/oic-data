@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1997-1097</td><td>1997-07-30</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; FAIT,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for Ambassador Raymond A.J. Chrétien, Kathryn E. McCallion or\nVictor G. Bradley to sign an EXCHANGE OF NOTES between Canada and the\nU.S.A. constituting an AGREEMENT ON THE MICROGRAVITY ISOLATION MOUNT for\nuse on the SPACE SHUTTLE.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1997-1097",
   "htmlHash": "53b64d323b6feefaab05e85a7c433c08",
-  "attachments": []
+  "attachments": [],
+  "date": "1997-07-30",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , FAIT, ",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for Ambassador Raymond A.J. Chrétien, Kathryn E. McCallion or\nVictor G. Bradley to sign an EXCHANGE OF NOTES between Canada and the\nU.S.A. constituting an AGREEMENT ON THE MICROGRAVITY ISOLATION MOUNT for\nuse on the SPACE SHUTTLE.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

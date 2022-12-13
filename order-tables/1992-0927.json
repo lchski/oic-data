@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1992-0927</td><td>1992-05-07</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; FIN,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing Monday, June 1, 1992, as the day upon which the BANK ACT,\nbeing chapter 46 of the Statutes of Canada, 1991, shall COME INTO FORCE.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 1992-0090  <strong>Publication Date:</strong> 1992-05-20</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1992-0927",
   "htmlHash": "15ea0013c788896071c9ad02b4457636",
-  "attachments": []
+  "attachments": [],
+  "date": "1992-05-07",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , FIN, , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing Monday, June 1, 1992, as the day upon which the BANK ACT,\nbeing chapter 46 of the Statutes of Canada, 1991, shall COME INTO FORCE.\n",
+  "registration": "Registration: SI / 1992-0090  Publication Date: 1992-05-20",
+  "registration_type": "SI",
+  "registration_id": "1992-0090",
+  "registration_publication_date": "1992-05-20"
 }

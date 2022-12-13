@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0816</td><td>1996-06-04</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of the\nadministration and control of the entire interest of the Crown in\n0.506 hectares of land of Lot 2, Block 61 in the Town of INUVIK.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0816",
   "htmlHash": "7a1f65e3adfc88d7772e05d249e5ec30",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-06-04",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , IA&ND, ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the NORTHWEST TERRITORIES of the\nadministration and control of the entire interest of the Crown in\n0.506 hectares of land of Lot 2, Block 61 in the Town of INUVIK.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

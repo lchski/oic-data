@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-2119</td><td>1995-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; IA&amp;ND</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Acceptance of a DESIGNATION unto Her Majesty whereby the BURRARD BAND OF\nINDIANS (Tsleil'waututh Nation) surrenders, for a term of 109 years, some\n4.05 hectares (10 acres) of land (Lots 79-2 and 79-4, C.L.S.R. Plan\nNo. 77079) on BURRARD INLET INDIAN RESERVE NO. 3 in British Columbia, for\nthe purposes of constructing and sub-leasing residential premises.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-2119",
   "htmlHash": "bb7aee6316bb86e08fe815f99c89151f",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , IA&ND",
+  "act": "",
+  "subject": "",
+  "precis": "Acceptance of a DESIGNATION unto Her Majesty whereby the BURRARD BAND OF\nINDIANS (Tsleil'waututh Nation) surrenders, for a term of 109 years, some\n4.05 hectares (10 acres) of land (Lots 79-2 and 79-4, C.L.S.R. Plan\nNo. 77079) on BURRARD INLET INDIAN RESERVE NO. 3 in British Columbia, for\nthe purposes of constructing and sub-leasing residential premises.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1013</td><td>2000-06-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; HERITAGE,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing TEMPORARY ADMINISTRATORS of the Government of NOVA SCOTIA\nfor the following periods of time:\n.\n 1. The Hon. Gerald B. FREEMAN - July 10 to July 16, 2000\n 2. The Hon. Elizabeth A. ROSCOE - August 5 and August 6, 2000\n.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1013",
   "htmlHash": "25e7dbd0c550a18e4c8bb2cdbf7c1948",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-06-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , HERITAGE, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing TEMPORARY ADMINISTRATORS of the Government of NOVA SCOTIA\nfor the following periods of time:\n.\n 1. The Hon. Gerald B. FREEMAN - July 10 to July 16, 2000\n 2. The Hon. Elizabeth A. ROSCOE - August 5 and August 6, 2000\n.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

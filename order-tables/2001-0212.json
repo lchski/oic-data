@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0212</td><td>2001-02-09</td><td>0</td><td></td><td>,&nbsp; CITIZENSHIP,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the SINGLE-ENTRY VISITOR VISA FEE (SPORTING AND CULTURAL\nEVENTS) REMISSION ORDER which remits the visa fee of $75 to participants\nof the IAAF World Championships in Athletics in Edmonton in 2001 or the\n2001 Games of La Francophonie.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI / 2001-0027  <strong>Publication Date:</strong> 2001-02-28</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0212",
   "htmlHash": "4878c6d6f7266be0254bb9e02f262642",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-02-09",
+  "chapter": "0",
+  "bill": "",
+  "department": ", CITIZENSHIP, TB, , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the SINGLE-ENTRY VISITOR VISA FEE (SPORTING AND CULTURAL\nEVENTS) REMISSION ORDER which remits the visa fee of $75 to participants\nof the IAAF World Championships in Athletics in Edmonton in 2001 or the\n2001 Games of La Francophonie.\n",
+  "registration": "Registration: SI / 2001-0027  Publication Date: 2001-02-28",
+  "registration_type": "SI",
+  "registration_id": "2001-0027",
+  "registration_publication_date": "2001-02-28"
 }

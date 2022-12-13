@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0940</td><td>1990-05-24</td><td>0</td><td></td><td>,&nbsp; OLD INAC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1989, NO. 9 -\nwhich prohibits entry upon certain lands situated in the Yukon Territory\nfor the purposes of prospecting for precious minerals, in order to\nfacilitate the settlement of land claims by the Liard Indian Band; and (b)\nrevokes a similiar Order (P.C. 1988-2466 of October 31, 1988).\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0305  <strong>Publication Date:</strong> 1990-06-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0940",
   "htmlHash": "18c1993411126c8ee8cf7154c5fbac71",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-24",
+  "chapter": "0",
+  "bill": "",
+  "department": ", OLD INAC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the PROHIBITION OF ENTRY ON CERTAIN LANDS ORDER, 1989, NO. 9 -\nwhich prohibits entry upon certain lands situated in the Yukon Territory\nfor the purposes of prospecting for precious minerals, in order to\nfacilitate the settlement of land claims by the Liard Indian Band; and (b)\nrevokes a similiar Order (P.C. 1988-2466 of October 31, 1988).\n",
+  "registration": "Registration: SOR/ 1990-0305  Publication Date: 1990-06-06",
+  "registration_type": "SOR",
+  "registration_id": "1990-0305",
+  "registration_publication_date": "1990-06-06"
 }

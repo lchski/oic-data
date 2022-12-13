@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-1021</td><td>1990-05-29</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mr. Justice Herbert B. Morgan, a Judge of the Court of\nAppeal of Newfoundland, as Temporary Administrator of the Government of\nNewfoundland, who shall execute the office and functions of the\nLieutenant Governor over the course of three brief periods in May, June\nand July 1990 (May 30 - June 1;  June 19 - 21;  June 26 - July 2).\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-1021",
   "htmlHash": "5df0d61b63dd24f72b743447fccd5366",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Mr. Justice Herbert B. Morgan, a Judge of the Court of\nAppeal of Newfoundland, as Temporary Administrator of the Government of\nNewfoundland, who shall execute the office and functions of the\nLieutenant Governor over the course of three brief periods in May, June\nand July 1990 (May 30 - June 1;  June 19 - 21;  June 26 - July 2).\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1991-1106</td><td>1991-06-13</td><td>0</td><td></td><td>,&nbsp; EMR,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of Licence No. GL-160 issued by the National Energy Board to\nNew England Power Company.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1991-1106",
   "htmlHash": "d40653a885feb0468130fca2d6c594c7",
-  "attachments": []
+  "attachments": [],
+  "date": "1991-06-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", EMR, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of Licence No. GL-160 issued by the National Energy Board to\nNew England Power Company.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

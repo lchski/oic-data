@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-2018</td><td>2001-11-01</td><td>0</td><td></td><td>,&nbsp; FIN,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the FINANCIAL CONSUMER AGENCY OF CANADA ASSESSMENT OF\nFINANCIAL INSTITUTIONS REGULATIONS which establish a system for allocating\nthe operating costs of the Financial Consumer Agency of Canada among\ndomestic and foreign banks, retail associations, trust and loan companies,\nlife insurance companies and property and casualty insurance companies.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0474  <strong>Publication Date:</strong> 2001-11-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-2018",
   "htmlHash": "9767214d06d1f9527c68ecd2fab9d7aa",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-11-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", FIN, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the FINANCIAL CONSUMER AGENCY OF CANADA ASSESSMENT OF\nFINANCIAL INSTITUTIONS REGULATIONS which establish a system for allocating\nthe operating costs of the Financial Consumer Agency of Canada among\ndomestic and foreign banks, retail associations, trust and loan companies,\nlife insurance companies and property and casualty insurance companies.\n",
+  "registration": "Registration: SOR/ 2001-0474  Publication Date: 2001-11-21",
+  "registration_type": "SOR",
+  "registration_id": "2001-0474",
+  "registration_publication_date": "2001-11-21"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1186</td><td>1999-06-23</td><td>0</td><td></td><td>AGRI-FOOD,&nbsp; TB,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Enactment of the AGRICULTURAL MARKETING PROGRAMS REGULATIONS which define\nor explain the circumstances whereby a producer ceases to own or be\nresponsible for marketing a crop, the formula for establishing the\nliability of both the administrator and the Government, how advances are\nto be attributed to an individual producer, the limits on how much of any\nparticular crop may be sold by a producer without proof to that effect, and\nthe conditions that must be complied with before payment of a guarantee.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0295  <strong>Publication Date:</strong> 1999-07-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1186",
   "htmlHash": "89546497ddd04996f696cb12c81539cb",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "AGRI-FOOD, TB, , , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Enactment of the AGRICULTURAL MARKETING PROGRAMS REGULATIONS which define\nor explain the circumstances whereby a producer ceases to own or be\nresponsible for marketing a crop, the formula for establishing the\nliability of both the administrator and the Government, how advances are\nto be attributed to an individual producer, the limits on how much of any\nparticular crop may be sold by a producer without proof to that effect, and\nthe conditions that must be complied with before payment of a guarantee.\n",
+  "registration": "Registration: SOR/ 1999-0295  Publication Date: 1999-07-07",
+  "registration_type": "SOR",
+  "registration_id": "1999-0295",
+  "registration_publication_date": "1999-07-07"
 }

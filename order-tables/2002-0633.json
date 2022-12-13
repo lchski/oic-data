@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-0633</td><td>2002-04-18</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; JUS</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DONNA C. READ, of Edmonton, Alberta, as a Justice of the\nCourt of Queen's Bench of Alberta and as a member ex officio of the\nCourt of Appeal of Alberta.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-0633",
   "htmlHash": "6ed3c1ddd348d879d34991cd44f0f31c",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-04-18",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , JUS",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DONNA C. READ, of Edmonton, Alberta, as a Justice of the\nCourt of Queen's Bench of Alberta and as a member ex officio of the\nCourt of Appeal of Alberta.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

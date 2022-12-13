@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1996-0220</td><td>1996-02-20</td><td>0</td><td></td><td>,&nbsp; IA&amp;ND,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of 103.93 hectares of public land situate near the City of\nWhitehorse, in Quad 105 D/10, for community planning and local\nadministration purposes.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1996-0220",
   "htmlHash": "6c3e94b2ec7914c5e203c8fffc578310",
-  "attachments": []
+  "attachments": [],
+  "date": "1996-02-20",
+  "chapter": "0",
+  "bill": "",
+  "department": ", IA&ND, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Transfer to the COMMISSIONER of the YUKON TERRITORY of the administration\nand control of 103.93 hectares of public land situate near the City of\nWhitehorse, in Quad 105 D/10, for community planning and local\nadministration purposes.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

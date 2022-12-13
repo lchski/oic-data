@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2001-0304</td><td>2001-03-01</td><td>0</td><td></td><td>,&nbsp; RESOURCES,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS by replacing an\nincorrect cross-reference to the Act found in section 29, and by broadening\nthe definition of \"other grades\" of amber durum wheat so that it covers all\nother grades, instead of just the off grades, effective August 1, 2001.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0092  <strong>Publication Date:</strong> 2001-03-14</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2001-0304",
   "htmlHash": "9924bbc9f32ba24293b171e8558ac57c",
-  "attachments": []
+  "attachments": [],
+  "date": "2001-03-01",
+  "chapter": "0",
+  "bill": "",
+  "department": ", RESOURCES, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN WHEAT BOARD REGULATIONS by replacing an\nincorrect cross-reference to the Act found in section 29, and by broadening\nthe definition of \"other grades\" of amber durum wheat so that it covers all\nother grades, instead of just the off grades, effective August 1, 2001.\n",
+  "registration": "Registration: SOR/ 2001-0092  Publication Date: 2001-03-14",
+  "registration_type": "SOR",
+  "registration_id": "2001-0092",
+  "registration_publication_date": "2001-03-14"
 }

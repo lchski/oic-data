@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1994-1060</td><td>1994-06-23</td><td>0</td><td></td><td>EIC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS changing the\nboundaries of the Moncton and Restigouche-Charlotte UI economic regions,\nin order to more accurately reflect local labour market conditions.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1994-0457  <strong>Publication Date:</strong> 1994-07-13</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1994-1060",
   "htmlHash": "1ce04c4251f4eb053a723e1618b10ada",
-  "attachments": []
+  "attachments": [],
+  "date": "1994-06-23",
+  "chapter": "0",
+  "bill": "",
+  "department": "EIC, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendments to the UNEMPLOYMENT INSURANCE REGULATIONS changing the\nboundaries of the Moncton and Restigouche-Charlotte UI economic regions,\nin order to more accurately reflect local labour market conditions.\n",
+  "registration": "Registration: SOR/ 1994-0457  Publication Date: 1994-07-13",
+  "registration_type": "SOR",
+  "registration_id": "1994-0457",
+  "registration_publication_date": "1994-07-13"
 }

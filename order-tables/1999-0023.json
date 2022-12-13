@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0023</td><td>1999-01-21</td><td>0</td><td></td><td>RESOURCES,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the NATIONAL ENERGY BOARD EXPORT AND IMPORT REPORTING\nREGULATIONS which correct non-substantive problems identified by the\nNational Energy Board.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1999-0061  <strong>Publication Date:</strong> 1999-02-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0023",
   "htmlHash": "df65e64ab753193b59d393f28aabd228",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-01-21",
+  "chapter": "0",
+  "bill": "",
+  "department": "RESOURCES, , , , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the NATIONAL ENERGY BOARD EXPORT AND IMPORT REPORTING\nREGULATIONS which correct non-substantive problems identified by the\nNational Energy Board.\n",
+  "registration": "Registration: SOR/ 1999-0061  Publication Date: 1999-02-03",
+  "registration_type": "SOR",
+  "registration_id": "1999-0061",
+  "registration_publication_date": "1999-02-03"
 }

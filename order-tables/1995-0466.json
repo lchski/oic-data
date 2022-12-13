@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1995-0466</td><td>1995-03-21</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; PSC,&nbsp; COM</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">(1) STATISTICS CANADA 1996 CENSUS OF POPULATION TERMS EXCLUSION APPROVAL\n    ORDER, and\n(2) STATISTICS CANADA 1996 CENSUS OF POPULATION TERMS REGULATIONS - both of\nwhich facilitate the selection and employment of workers involved in the\ncollection and processing of 1996 census data.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1995-0153  <strong>Publication Date:</strong> 1995-04-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1995-0466",
   "htmlHash": "f31381da55cefd4cda98b35346bb24b3",
-  "attachments": []
+  "attachments": [],
+  "date": "1995-03-21",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , , PSC, COM",
+  "act": "",
+  "subject": "",
+  "precis": "(1) STATISTICS CANADA 1996 CENSUS OF POPULATION TERMS EXCLUSION APPROVAL\n    ORDER, and\n(2) STATISTICS CANADA 1996 CENSUS OF POPULATION TERMS REGULATIONS - both of\nwhich facilitate the selection and employment of workers involved in the\ncollection and processing of 1996 census data.\n",
+  "registration": "Registration: SOR/ 1995-0153  Publication Date: 1995-04-05",
+  "registration_type": "SOR",
+  "registration_id": "1995-0153",
+  "registration_publication_date": "1995-04-05"
 }

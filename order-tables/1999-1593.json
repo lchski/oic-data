@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-1593</td><td>1999-09-15</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; JUS,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MAURICE LARAMÉE, of Montreal, Quebec, as a Puisne Judge\nof the Superior Court for the District of Montreal in the Province\nof Quebec, with residence in the City of Montreal.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-1593",
   "htmlHash": "2fe607af97ee5ef7157c32e260f40dbe",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-09-15",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , JUS, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MAURICE LARAMÉE, of Montreal, Quebec, as a Puisne Judge\nof the Superior Court for the District of Montreal in the Province\nof Quebec, with residence in the City of Montreal.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

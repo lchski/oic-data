@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0905</td><td>1990-05-17</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority for the Secretary of State for External Affairs to sign an\nAgreement on Air Services with the Government of Finland or to execute and\nissue an Instrument of Full Powers authorizing the Minister for\nInternational Trade or Ambassador Mary E. Vandenhoff to do so.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0905",
   "htmlHash": "cc62e968b835ea606e6ce0e932cbfe3f",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-05-17",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Authority for the Secretary of State for External Affairs to sign an\nAgreement on Air Services with the Government of Finland or to execute and\nissue an Instrument of Full Powers authorizing the Minister for\nInternational Trade or Ambassador Mary E. Vandenhoff to do so.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

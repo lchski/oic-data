@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1999-0922</td><td>1999-05-25</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; HRD,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SUSAN C. TURNER, of Fredericton, New Brunswick, as\nChairperson of the Boards of Referees for the New Brunswick Regional\nDivision, and particularly for the District of Fredericton, for a term of\nthree years.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1999-0922",
   "htmlHash": "a48ce655de4b1f8b0469b35d230acb73",
-  "attachments": []
+  "attachments": [],
+  "date": "1999-05-25",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , HRD, ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SUSAN C. TURNER, of Fredericton, New Brunswick, as\nChairperson of the Boards of Referees for the New Brunswick Regional\nDivision, and particularly for the District of Fredericton, for a term of\nthree years.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0205</td><td>1990-02-02</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Michael Kinnear, of Winnipeg, Manitoba, as a member of the\nHistoric Sites and Monuments Board of Canada, as a representative of the\nProvince of Manitoba to hold office during pleasure for a period of three\nyears.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0205",
   "htmlHash": "7e50a42263f136963688b5ce0088e306",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-02-02",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EC",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Michael Kinnear, of Winnipeg, Manitoba, as a member of the\nHistoric Sites and Monuments Board of Canada, as a representative of the\nProvince of Manitoba to hold office during pleasure for a period of three\nyears.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

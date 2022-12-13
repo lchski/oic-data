@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2002-1873</td><td>2002-10-31</td><td></td><td></td><td>,&nbsp; ,&nbsp; FAIT,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ROBERT ANDRIGO as Ambassador of Canada to the Republic of Lithuania, with residence in Riga; FERRY de KERCKHOVE as Ambassador of Canada to the Democratic Republic of East Timor, with residence in Jakarta; ROLAND GOULET as Ambassador of Canada to the Republic of the Congo, with residence in Kinshasa; MICHAEL LEIR as Ambassador of Canada to the Republic of Azerbaijan, with residence in Ankara; RALPH LYSYSHYN as Ambassador of Canada to the Republic of Belarus, with residence in Warsaw; ROSALINE MURRAY as Ambassador of Canada to the Republic of Sudan and to the Republic of Djibouti, with residence in Addis Ababa; JOHN SCHRAM as Ambassador of Canada to the Republic of Angola and to the Republic of Mozambique, and as High Commissioner for Canada in the Republic of Botswana, with residence in Harare; and JAMES WALL as High Commissioner for Canada in the Republic of Urganda, and as Ambassador of Canada to the Rwandese Republic, to the Republic of Burundi and to the State of Eritrea, with residence in Nairobi.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2002-1873",
   "htmlHash": "23c5ebc72f9956ada11c7c826fd75e48",
-  "attachments": []
+  "attachments": [],
+  "date": "2002-10-31",
+  "chapter": "",
+  "bill": "",
+  "department": ", , FAIT, , , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ROBERT ANDRIGO as Ambassador of Canada to the Republic of Lithuania, with residence in Riga; FERRY de KERCKHOVE as Ambassador of Canada to the Democratic Republic of East Timor, with residence in Jakarta; ROLAND GOULET as Ambassador of Canada to the Republic of the Congo, with residence in Kinshasa; MICHAEL LEIR as Ambassador of Canada to the Republic of Azerbaijan, with residence in Ankara; RALPH LYSYSHYN as Ambassador of Canada to the Republic of Belarus, with residence in Warsaw; ROSALINE MURRAY as Ambassador of Canada to the Republic of Sudan and to the Republic of Djibouti, with residence in Addis Ababa; JOHN SCHRAM as Ambassador of Canada to the Republic of Angola and to the Republic of Mozambique, and as High Commissioner for Canada in the Republic of Botswana, with residence in Harare; and JAMES WALL as High Commissioner for Canada in the Republic of Urganda, and as Ambassador of Canada to the Rwandese Republic, to the Republic of Burundi and to the State of Eritrea, with residence in Nairobi.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

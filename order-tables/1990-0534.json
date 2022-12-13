@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-0534</td><td>1990-03-22</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to the NARCOTIC CONTROL REGULATIONS adding pentazocine to the\nlist of excluded narcotics.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1990-0189  <strong>Publication Date:</strong> 1990-04-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-0534",
   "htmlHash": "58e05cb6f995c944e3d7511225e3cde4",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-03-22",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HWC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to the NARCOTIC CONTROL REGULATIONS adding pentazocine to the\nlist of excluded narcotics.\n",
+  "registration": "Registration: SOR/ 1990-0189  Publication Date: 1990-04-11",
+  "registration_type": "SOR",
+  "registration_id": "1990-0189",
+  "registration_publication_date": "1990-04-11"
 }

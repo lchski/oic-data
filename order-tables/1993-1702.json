@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-1702</td><td>1993-08-26</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; EA</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Authority to execute and issue an Instrument of Ratification of the\nProtocols of WASHINGTON and MANAGUA relating to the amendment of the\nCHARTER OF THE ORGANIZATION OF AMERICAN STATES.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-1702",
   "htmlHash": "c8209ef322e9319d1f9c819edb04d2ed",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-08-26",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , EA",
+  "act": "",
+  "subject": "",
+  "precis": "Authority to execute and issue an Instrument of Ratification of the\nProtocols of WASHINGTON and MANAGUA relating to the amendment of the\nCHARTER OF THE ORGANIZATION OF AMERICAN STATES.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

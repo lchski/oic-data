@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1993-0869</td><td>1993-04-29</td><td>0</td><td></td><td>,&nbsp; HWC,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of Mary Olding Hebb, of Halifax, Nova Scotia, as a member of\nthe Review Tribunal for the region of Halifax for a term ending\nFebruary 10, 1996.\n</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1993-0869",
   "htmlHash": "a14afec61f9b4233f6e71e6a98ea2a0a",
-  "attachments": []
+  "attachments": [],
+  "date": "1993-04-29",
+  "chapter": "0",
+  "bill": "",
+  "department": ", HWC, , , ",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of Mary Olding Hebb, of Halifax, Nova Scotia, as a member of\nthe Review Tribunal for the region of Halifax for a term ending\nFebruary 10, 1996.\n",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": ""
 }

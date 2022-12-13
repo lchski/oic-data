@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2000-1761</td><td>2000-12-13</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; HEALTH,&nbsp; EC,&nbsp; </td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OZONE-DEPLETING SUBSTANCES REGULATIONS, 1998 by\nmaking improvement to administrative control measures, prohibiting the\nproduction and consumption of bromochloromethane (Halon 1011) as of\nJanuary 1, 2002, and by restricting future trade in HCFCs to countries who\nare party to the Montreal Protocol.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2001-0002  <strong>Publication Date:</strong> 2001-01-03</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "2000-1761",
   "htmlHash": "629b9c063725923e41bd0562f8806b68",
-  "attachments": []
+  "attachments": [],
+  "date": "2000-12-13",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , HEALTH, EC, ",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the OZONE-DEPLETING SUBSTANCES REGULATIONS, 1998 by\nmaking improvement to administrative control measures, prohibiting the\nproduction and consumption of bromochloromethane (Halon 1011) as of\nJanuary 1, 2002, and by restricting future trade in HCFCs to countries who\nare party to the Montreal Protocol.\n",
+  "registration": "Registration: SOR/ 2001-0002  Publication Date: 2001-01-03",
+  "registration_type": "SOR",
+  "registration_id": "2001-0002",
+  "registration_publication_date": "2001-01-03"
 }

@@ -2,5 +2,16 @@
   "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>1990-2866</td><td>1990-12-28</td><td>0</td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; AGR</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">EEC AGED CHEDDAR CHEESE EXPORT REGULATIONS respecting the allotment of\nexport entitlements for the export of aged Canadian cheddar cheese to the\nEuropean Economic Community at a special customs tariff.\n</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 1991-0084  <strong>Publication Date:</strong> 1991-01-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"></td></tr></tbody></table>",
   "pcNumber": "1990-2866",
   "htmlHash": "ccec0665c7c8e02ff58382dc16acc456",
-  "attachments": []
+  "attachments": [],
+  "date": "1990-12-28",
+  "chapter": "0",
+  "bill": "",
+  "department": ", , , , AGR",
+  "act": "",
+  "subject": "",
+  "precis": "EEC AGED CHEDDAR CHEESE EXPORT REGULATIONS respecting the allotment of\nexport entitlements for the export of aged Canadian cheddar cheese to the\nEuropean Economic Community at a special customs tariff.\n",
+  "registration": "Registration: SOR/ 1991-0084  Publication Date: 1991-01-16",
+  "registration_type": "SOR",
+  "registration_id": "1991-0084",
+  "registration_publication_date": "1991-01-16"
 }
