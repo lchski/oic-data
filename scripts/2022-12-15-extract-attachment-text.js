@@ -5,8 +5,7 @@ import fs from 'fs';
 const attachmentIdsPath = 'attachment-ids.json';
 const savedAttachmentsPath = 'attachments/';
 
-// const attachmentIds = JSON.parse(fs.readFileSync(attachmentIdsPath));
-const attachmentIds = ['10001', '10003', '42949'];
+const attachmentIds = JSON.parse(fs.readFileSync(attachmentIdsPath));
 
 for (const attachmentId of attachmentIds) {
 	const savedAttachmentPath = `${savedAttachmentsPath}${attachmentId}.json`;
