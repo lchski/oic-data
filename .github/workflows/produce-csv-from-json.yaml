@@ -33,11 +33,19 @@ jobs:
         mlr --csv --from orders-interim2.csv cut -x -f html then sort -f pcNumber > processed-csvs/orders.csv
         mlr --csv --from orders-interim2.csv then cut -f pcNumber,html then sort -f pcNumber > processed-csvs/orders-html.csv
         rm orders-interim1.csv orders-interim2.csv
+    - name: Run attachment conversions with miller
+      run: |-
+        find attachments -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > attachments-interim1.csv
+        mlr --csv --from attachments-interim1.csv filter '$attachmentHtml != "attachmentHtml"' > attachments-interim2.csv
+        mlr --csv --from attachments-interim2.csv cut -x -f attachmentHtml then sort -n id > processed-csvs/attachments.csv
+        mlr --csv --from attachments-interim2.csv then cut -f id,attachmentHtml then sort -n id > processed-csvs/attachments-html.csv
+        rm attachments-interim1.csv attachments-interim2.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add processed-csvs/orders.csv processed-csvs/orders-html.csv
+        git add processed-csvs/attachments.csv processed-csvs/attachments-html.csv
         timestamp=$(date -u)
         git commit -m "CSV from JSON as of: ${timestamp}" || exit 0
         git push
