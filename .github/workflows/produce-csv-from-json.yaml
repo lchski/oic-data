@@ -18,7 +18,7 @@ on:
       - completed
 
 jobs:
-  update-oics:
+  update-csvs-from-json:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
