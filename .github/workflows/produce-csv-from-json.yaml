@@ -38,7 +38,7 @@ jobs:
         find attachments -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > attachments-interim1.csv
         mlr --csv --from attachments-interim1.csv filter '$attachmentHtml != "attachmentHtml"' > attachments-interim2.csv
         mlr --csv --from attachments-interim2.csv cut -x -f attachmentHtml then sort -n id > processed-csvs/attachments.csv
-        mlr --csv --from attachments-interim2.csv then cut -f id,attachmentHtml then sort -n id > processed-csvs/attachments-html.csv
+        mlr --csv --from attachments-interim2.csv then cut -f id,attachmentHtml then sort -n id | gzip > processed-csvs/attachments-html.csv.gz
         rm attachments-interim1.csv attachments-interim2.csv
     - name: Commit and push if it changed
       run: |-
