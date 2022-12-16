@@ -26,16 +26,18 @@ jobs:
     - name: Install miller
       run: |-
         sudo apt-get install miller
-    - name: Run conversions with miller
+    - name: Run order table conversions with miller
       run: |-
-        find order-tables -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > orders-interim.csv
-        mlr --csv --from orders-interim.csv filter '$html != "html"' then cut -x -f html then sort -f pcNumber > processed-csvs/orders.csv
-        rm orders-interim.csv
+        find order-tables -iname "*.json" | xargs mlr --ijson --ocsv --no-auto-flatten regularize > orders-interim1.csv
+        mlr --csv --from orders-interim1.csv filter '$html != "html"' > orders-interim2.csv
+        mlr --csv --from orders-interim2.csv cut -x -f html then sort -f pcNumber > processed-csvs/orders.csv
+        mlr --csv --from orders-interim2.csv then cut -f pcNumber,html then sort -f pcNumber > processed-csvs/orders-html.csv
+        rm orders-interim1.csv orders-interim2.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add processed-csvs/orders.csv
+        git add processed-csvs/orders.csv processed-csvs/orders-html.csv
         timestamp=$(date -u)
         git commit -m "CSV from JSON as of: ${timestamp}" || exit 0
         git push
