@@ -51,8 +51,10 @@ function extractArticle(html) {
 	const $ = cheerio.load(html);
 
 	const attachmentHtml = $('main').html();
+	const attachmentText = $('main').prop('innerText');
 
 	return {
-		attachmentHtml
+		attachmentHtml,
+		attachmentText
 	};
 }
