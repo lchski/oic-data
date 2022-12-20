@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1315</td><td>2022-12-15</td><td></td><td></td><td>HC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Hazardous Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Hazardous Products Regulations (GHS, Seventh Revised Edition)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the HAZARDOUS PRODUCTS REGULATIONS (GHS, SEVENTH REVISED EDITION) in order to (1) align the Regulations with the seventh revised edition of the Globally Harmonized System of Classification and Labelling of Chemicals (GHS); (2) adopt a new physical hazard class, Chemicals Under Pressure, from the eighth revised edition of the GHS; (3) clarify and amend the certain provisions of the Regulations to better reflect the original intent; and (4) make minor administrative updates to the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0272  <strong>Publication Date:</strong> 2023-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43038&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1315",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "HC,  ,  ,  ,  , ",
+  "act": "Hazardous Products Act",
+  "subject": "Regulations Amending the Hazardous Products Regulations (GHS, Seventh Revised Edition)",
+  "precis": "Regulations Amending the HAZARDOUS PRODUCTS REGULATIONS (GHS, SEVENTH REVISED EDITION) in order to (1) align the Regulations with the seventh revised edition of the Globally Harmonized System of Classification and Labelling of Chemicals (GHS); (2) adopt a new physical hazard class, Chemicals Under Pressure, from the eighth revised edition of the GHS; (3) clarify and amend the certain provisions of the Regulations to better reflect the original intent; and (4) make minor administrative updates to the Regulations.",
+  "registration": "Registration: SOR/ 2022-0272  Publication Date: 2023-01-04",
+  "registration_type": "SOR",
+  "registration_id": "2022-0272",
+  "registration_publication_date": "2023-01-04",
+  "attachments": [
+    "43038"
+  ],
+  "htmlHash": "4955d88654c9e8bad8f152d4951666eb"
+}

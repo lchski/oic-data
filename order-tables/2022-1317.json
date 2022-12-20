@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1317</td><td>2022-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; CIRNAC,&nbsp; NA,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canada Petroleum Resources Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Prohibiting Certain Activities in Arctic Offshore Waters, 2022</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER PROHIBITING CERTAIN ACTIVITIES IN ARCTIC OFFSHORE WATERS, 2022 in order to (1) extend the Order to December 31, 2023; (2) continue to prohibit any person or oil and gas licence holder from beginning or continuing any work or activity in Canada’s Arctic waters; and (3) continue to preserve the rights of active oil and gas licence holders.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0274  <strong>Publication Date:</strong> 2023-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43040&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1317",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": ",  ,  ,  CIRNAC,  NA, ",
+  "act": "Canada Petroleum Resources Act",
+  "subject": "Order Prohibiting Certain Activities in Arctic Offshore Waters, 2022",
+  "precis": "ORDER PROHIBITING CERTAIN ACTIVITIES IN ARCTIC OFFSHORE WATERS, 2022 in order to (1) extend the Order to December 31, 2023; (2) continue to prohibit any person or oil and gas licence holder from beginning or continuing any work or activity in Canada’s Arctic waters; and (3) continue to preserve the rights of active oil and gas licence holders.",
+  "registration": "Registration: SOR/ 2022-0274  Publication Date: 2023-01-04",
+  "registration_type": "SOR",
+  "registration_id": "2022-0274",
+  "registration_publication_date": "2023-01-04",
+  "attachments": [
+    "43040"
+  ],
+  "htmlHash": "c62a3d788ee1f0566b2a46f3a68785c9"
+}

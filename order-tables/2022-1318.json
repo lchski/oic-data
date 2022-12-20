@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1318</td><td>2022-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; FIN</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Goods and Services Tax Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedules 1 and 2 to the First Nations Goods and Services Tax Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending Schedules 1 and 2 to the FIRST NATIONS GOODS AND SERVICES TAX ACT in order to (1) add the names of seven requesting First Nations, their governing bodies, and the description of their reserves to Schedule 1; and (2) change the name of one First Nation in Schedule 2.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2022-0275  <strong>Publication Date:</strong> 2023-01-04</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43041&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1318",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": ",  ,  ,  ,  ,  FIN",
+  "act": "First Nations Goods and Services Tax Act",
+  "subject": "Order Amending Schedules 1 and 2 to the First Nations Goods and Services Tax Act",
+  "precis": "Order Amending Schedules 1 and 2 to the FIRST NATIONS GOODS AND SERVICES TAX ACT in order to (1) add the names of seven requesting First Nations, their governing bodies, and the description of their reserves to Schedule 1; and (2) change the name of one First Nation in Schedule 2.",
+  "registration": "Registration: SOR/ 2022-0275  Publication Date: 2023-01-04",
+  "registration_type": "SOR",
+  "registration_id": "2022-0275",
+  "registration_publication_date": "2023-01-04",
+  "attachments": [
+    "43041"
+  ],
+  "htmlHash": "a433083fd7f00240e58d682058875272"
+}

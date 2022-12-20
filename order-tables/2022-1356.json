@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1356</td><td>2022-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ESDC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DENIS PAUL BOURGEOIS of Cocagne, New Brunswick, to be a full-time member of the Social Security Tribunal for the Employment Insurance Section, to hold office during good behaviour for a term of two years, effective January 9, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42980&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1356",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": ",  ,  ESDC,  , ",
+  "act": "Department of Employment and Social Development Act",
+  "subject": "",
+  "precis": "Appointment of DENIS PAUL BOURGEOIS of Cocagne, New Brunswick, to be a full-time member of the Social Security Tribunal for the Employment Insurance Section, to hold office during good behaviour for a term of two years, effective January 9, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "42980"
+  ],
+  "htmlHash": "554ab7bb82eb8e09589baa76af055f83"
+}

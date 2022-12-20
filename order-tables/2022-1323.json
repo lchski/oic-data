@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1323</td><td>2022-12-15</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Consenting to the Amendments to the Tsawwassen First Nation Final Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the amendments to the TSAWWASSEN FIRST NATION FINAL AGREEMENT in order to (1) reinstate the application of the tax exemption on the portion of Tsawwassen Lands that were formerly reserve lands prior to the Tsawwassen First Nation Final Agreement coming into effect; and (2) reinstate the application of the tax exemption to Tsawwassen Members who are registered under the Act.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43046&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1323",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": ",  ,  ,  ,  ,  CIRNAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Consenting to the Amendments to the Tsawwassen First Nation Final Agreement",
+  "precis": "Order consenting to the amendments to the TSAWWASSEN FIRST NATION FINAL AGREEMENT in order to (1) reinstate the application of the tax exemption on the portion of Tsawwassen Lands that were formerly reserve lands prior to the Tsawwassen First Nation Final Agreement coming into effect; and (2) reinstate the application of the tax exemption to Tsawwassen Members who are registered under the Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43046"
+  ],
+  "htmlHash": "2d3e16ff32543fcaaa8fe922e960ae4e"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-1331</td><td>2022-12-15</td><td></td><td></td><td>,&nbsp; AAFC,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Agriculture and Agri-Food Administrative Monetary Penalties Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of EMILY CROCCO of Ottawa, Ontario, to be a full-time member and Chairperson of the Canada Agricultural Review Tribunal, to hold office during good behaviour for a term of five years, effective January 17, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=42955&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-1331",
+  "date": "2022-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": ",  AAFC,  ,  ,  ,  , ",
+  "act": "Agriculture and Agri-Food Administrative Monetary Penalties Act",
+  "subject": "",
+  "precis": "Appointment of EMILY CROCCO of Ottawa, Ontario, to be a full-time member and Chairperson of the Canada Agricultural Review Tribunal, to hold office during good behaviour for a term of five years, effective January 17, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "42955"
+  ],
+  "htmlHash": "9d9704361c44c8049298e033d723d14d"
+}
