@@ -1,10 +1,10 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0005</td><td>2023-01-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; ,&nbsp; GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Sri Lanka) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (SRI LANKA) REGULATIONS in order to add two (2) individuals individuals to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0004  <strong>Publication Date:</strong> 2023-01-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43076&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0005</td><td>2023-01-05</td><td></td><td></td><td>,&nbsp; ,&nbsp; GAC,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Sri Lanka) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (SRI LANKA) REGULATIONS in order to add two (2) individuals individuals to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0004  <strong>Publication Date:</strong> 2023-01-18</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43076&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2023-0005",
   "date": "2023-01-05",
   "chapter": "",
   "bill": "",
-  "department": ",  ,  ,  GAC",
+  "department": ",  ,  GAC,  , ",
   "act": "Special Economic Measures Act",
   "subject": "Regulations Amending the Special Economic Measures (Sri Lanka) Regulations",
   "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (SRI LANKA) REGULATIONS in order to add two (2) individuals individuals to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
@@ -15,5 +15,5 @@
   "attachments": [
     "43076"
   ],
-  "htmlHash": "6fd079bc28553424d705d8edea249154"
+  "htmlHash": "07b4df80f65fee6b07b3a93e34efd5cc"
 }
