@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0018</td><td>2023-01-27</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Patent Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of THOMAS J. DIGBY of Vancouver, British Columbia, to be a member of the Patented Medicine Prices Review Board, to hold office during good behaviour for a period of five years; and his designation to be Chairperson of the Patented Medicine Prices Review Board.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43094&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0018",
+  "date": "2023-01-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "Patent Act",
+  "subject": "",
+  "precis": "Appointment of THOMAS J. DIGBY of Vancouver, British Columbia, to be a member of the Patented Medicine Prices Review Board, to hold office during good behaviour for a period of five years; and his designation to be Chairperson of the Patented Medicine Prices Review Board.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43094"
+  ],
+  "htmlHash": "c89f8ee48c1ab6d9e23e738c0cc50c79"
+}

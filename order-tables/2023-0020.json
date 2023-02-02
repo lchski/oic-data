@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0020</td><td>2023-01-27</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Historic Sites and Monuments Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of RUSSELL GROSSE of Halifax, Nova Scotia, to be a member of the Historic Sites and Monuments Board of Canada, as a representative of the Province of Nova Scotia, to hold office during pleasure for a period of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43096&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0020",
+  "date": "2023-01-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "Historic Sites and Monuments Act",
+  "subject": "",
+  "precis": "Appointment of RUSSELL GROSSE of Halifax, Nova Scotia, to be a member of the Historic Sites and Monuments Board of Canada, as a representative of the Province of Nova Scotia, to hold office during pleasure for a period of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43096"
+  ],
+  "htmlHash": "2bdf636e404a959cfe91d1a7bbae06b3"
+}

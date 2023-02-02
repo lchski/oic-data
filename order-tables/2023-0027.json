@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0027</td><td>2023-01-27</td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of LAURIER TURGEON of Québec, Quebec, as a trustee of the Board of Trustees of the Canadian Museum of History, to hold office during pleasure for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43103&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0027",
+  "date": "2023-01-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "Museums Act",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister of Canadian Heritage of LAURIER TURGEON of Québec, Quebec, as a trustee of the Board of Trustees of the Canadian Museum of History, to hold office during pleasure for a term of two years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43103"
+  ],
+  "htmlHash": "2ce16b0a5262d9643938a6670509bbf3"
+}
