@@ -1,10 +1,10 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0037</td><td>2023-01-27</td><td></td><td></td><td>NA,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; ,&nbsp; </td></tr><tr><td>Act</td><td colspan=\"5\">Canadian High Arctic Research Station Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN NIGHTINGALE of Vernon, British Columbia, as a member of the Board of Directors of the Canadian High Arctic Research Station, to hold office during pleasure for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0037</td><td>2023-01-27</td><td></td><td></td><td>NA</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian High Arctic Research Station Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of JOHN NIGHTINGALE of Vernon, British Columbia, as a member of the Board of Directors of the Canadian High Arctic Research Station, to hold office during pleasure for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2023-0037",
   "date": "2023-01-27",
   "chapter": "",
   "bill": "",
-  "department": "NA,  ,  ,  ,  , ",
+  "department": "NA",
   "act": "Canadian High Arctic Research Station Act",
   "subject": "",
   "precis": "Reappointment of JOHN NIGHTINGALE of Vernon, British Columbia, as a member of the Board of Directors of the Canadian High Arctic Research Station, to hold office during pleasure for a term of five years.",
@@ -15,5 +15,5 @@
   "attachments": [
     "43159"
   ],
-  "htmlHash": "0bd97b50d8b411291007305376262eda"
+  "htmlHash": "227e8c63d1ab02a6ac1f852b6619344b"
 }

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0038</td><td>2023-01-31</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing the Incorporation Canada Development Investment Corporation to Establish a Subsidiary</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing the Canada Development Investment Corporation to (1) procure the incorporation of a wholly-owned subsidiary that is yet to be named; (2) take such steps as are necessary to facilitate the implementation of its objects; and (3) ensure that the remuneration for the directors, chairperson and chief executive officer is fixed having regard to the standard remuneration usually provided by other corporations in the public and private sectors.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43199&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0038",
+  "date": "2023-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Financial Administration Act",
+  "subject": "Order Directing the Incorporation Canada Development Investment Corporation to Establish a Subsidiary",
+  "precis": "Order directing the Canada Development Investment Corporation to (1) procure the incorporation of a wholly-owned subsidiary that is yet to be named; (2) take such steps as are necessary to facilitate the implementation of its objects; and (3) ensure that the remuneration for the directors, chairperson and chief executive officer is fixed having regard to the standard remuneration usually provided by other corporations in the public and private sectors.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43199"
+  ],
+  "htmlHash": "6bb1b7059b356fbacc2dcce08e6ce88b"
+}
