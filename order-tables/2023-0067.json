@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0067</td><td>2023-02-03</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Species at Risk Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule 1 to the Species at Risk Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending SCHEDULE 1 to the SPECIES AT RISK ACT in order to add twelve (12) new species, reclassify four (4) species, and remove one (1) species from the Schedule.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0017  <strong>Publication Date:</strong> 2023-02-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43188&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0067",
+  "date": "2023-02-03",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Species at Risk Act",
+  "subject": "Order Amending Schedule 1 to the Species at Risk Act",
+  "precis": "Order Amending SCHEDULE 1 to the SPECIES AT RISK ACT in order to add twelve (12) new species, reclassify four (4) species, and remove one (1) species from the Schedule.",
+  "registration": "Registration: SOR/ 2023-0017  Publication Date: 2023-02-15",
+  "registration_type": "SOR",
+  "registration_id": "2023-0017",
+  "registration_publication_date": "2023-02-15",
+  "attachments": [
+    "43188"
+  ],
+  "htmlHash": "e3cc53f3cb187da0c04fe272992182d1"
+}

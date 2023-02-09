@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0068</td><td>2023-02-03</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act<br>Patent Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Concerning the Sale of Drugs (Public or Canadian Armed Forces Health Emergencies)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS CONCERNING THE SALE OF DRUGS (PUBLIC OR CANADIAN ARMED FORCES HEALTH EMERGENCIES) in order to (1) create a new division in the Regulations permitting the Minister of Health to authorize the sale of a drug from a manufacturer to a Canadian public health official for use in an immediate public health or military health emergency or for stockpiling the drug in anticipation of a future emergency, event or incident; and (2) make consequential amendments and minor non-substantive amendments.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0018  <strong>Publication Date:</strong> 2023-02-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43189&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0068",
+  "date": "2023-02-03",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Food and Drugs ActPatent Act",
+  "subject": "Regulations Amending Certain Regulations Concerning the Sale of Drugs (Public or Canadian Armed Forces Health Emergencies)",
+  "precis": "Regulations Amending CERTAIN REGULATIONS CONCERNING THE SALE OF DRUGS (PUBLIC OR CANADIAN ARMED FORCES HEALTH EMERGENCIES) in order to (1) create a new division in the Regulations permitting the Minister of Health to authorize the sale of a drug from a manufacturer to a Canadian public health official for use in an immediate public health or military health emergency or for stockpiling the drug in anticipation of a future emergency, event or incident; and (2) make consequential amendments and minor non-substantive amendments.",
+  "registration": "Registration: SOR/ 2023-0018  Publication Date: 2023-02-15",
+  "registration_type": "SOR",
+  "registration_id": "2023-0018",
+  "registration_publication_date": "2023-02-15",
+  "attachments": [
+    "43189"
+  ],
+  "htmlHash": "d594a001717c8b03e7729d24e0061986"
+}

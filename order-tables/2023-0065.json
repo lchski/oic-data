@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0065</td><td>2023-02-03</td><td></td><td></td><td>ECCC, HC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"5\">Prohibition of the Manufacture and Import of Wheel Weights Containing Lead in Canada Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROHIBITION OF THE MANUFACTURE AND IMPORTATION OF WHEEL WEIGHTS CONTAINING LEAD REGULATIONS in order to (1) prohibit the manufacture and import of wheel weights that contain more than 0.1% lead by weight; and (2) allow permit applications for specific use or situation in Canada when there are no alternatives to manufacturing or importing wheel weights containing lead, or the alternatives are not technically or economically feasible for the applicant.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0015  <strong>Publication Date:</strong> 2023-02-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43186&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0065",
+  "date": "2023-02-03",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC, HC",
+  "act": "Canadian Environmental Protection Act, 1999",
+  "subject": "Prohibition of the Manufacture and Import of Wheel Weights Containing Lead in Canada Regulations",
+  "precis": "PROHIBITION OF THE MANUFACTURE AND IMPORTATION OF WHEEL WEIGHTS CONTAINING LEAD REGULATIONS in order to (1) prohibit the manufacture and import of wheel weights that contain more than 0.1% lead by weight; and (2) allow permit applications for specific use or situation in Canada when there are no alternatives to manufacturing or importing wheel weights containing lead, or the alternatives are not technically or economically feasible for the applicant.",
+  "registration": "Registration: SOR/ 2023-0015  Publication Date: 2023-02-15",
+  "registration_type": "SOR",
+  "registration_id": "2023-0015",
+  "registration_publication_date": "2023-02-15",
+  "attachments": [
+    "43186"
+  ],
+  "htmlHash": "f86f130e03ce66101f526074651f1102"
+}

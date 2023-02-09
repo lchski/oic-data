@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0069</td><td>2023-02-03</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Medical Devices Regulations (Interim Order No. 3 Respecting the Importation and Sale of Medical Devices for Use in Relation to COVID-19)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the MEDICAL DEVICES REGULATIONS (INTERIM ORDER NO. 3 RESPECTING THE IMPORTATION AND SALE OF MEDICAL DEVICES FOR USE IN RELATION TO COVID-19) in order to (1) maintain all interim order authorizations and expanded use indications from the third interim order; (2) provide an alternative expedited authorization pathway and certain flexibilities for medical devices that meet an urgent public health need in relation to COVID-19 in Canada; (3) create a framework for the long-term importation, sale and advertising of authorized COVID-19 medical devices that are no longer on the List of Medical Devices for an Urgent Public Health Need in Relation to COVID-19; and (4) make consequential amendments to provisions related to advertising, serious risk of injury to human health, summary reporting, shortages, and special access.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0019  <strong>Publication Date:</strong> 2023-02-15</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43190&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0069",
+  "date": "2023-02-03",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Food and Drugs Act",
+  "subject": "Regulations Amending the Medical Devices Regulations (Interim Order No. 3 Respecting the Importation and Sale of Medical Devices for Use in Relation to COVID-19)",
+  "precis": "Regulations Amending the MEDICAL DEVICES REGULATIONS (INTERIM ORDER NO. 3 RESPECTING THE IMPORTATION AND SALE OF MEDICAL DEVICES FOR USE IN RELATION TO COVID-19) in order to (1) maintain all interim order authorizations and expanded use indications from the third interim order; (2) provide an alternative expedited authorization pathway and certain flexibilities for medical devices that meet an urgent public health need in relation to COVID-19 in Canada; (3) create a framework for the long-term importation, sale and advertising of authorized COVID-19 medical devices that are no longer on the List of Medical Devices for an Urgent Public Health Need in Relation to COVID-19; and (4) make consequential amendments to provisions related to advertising, serious risk of injury to human health, summary reporting, shortages, and special access.",
+  "registration": "Registration: SOR/ 2023-0019  Publication Date: 2023-02-15",
+  "registration_type": "SOR",
+  "registration_id": "2023-0019",
+  "registration_publication_date": "2023-02-15",
+  "attachments": [
+    "43190"
+  ],
+  "htmlHash": "f7d487571310e701481436dd0ce3092e"
+}
