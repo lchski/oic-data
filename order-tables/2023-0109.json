@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0109</td><td>2023-02-09</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Audiovisual Coproduction Treaty between the Government of Canada and the Government of the Republic of South Africa</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the AUDIOVISUAL COPRODUCTION TREATY BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Treaty.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43219&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0109",
+  "date": "2023-02-09",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Audiovisual Coproduction Treaty between the Government of Canada and the Government of the Republic of South Africa",
+  "precis": "Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the AUDIOVISUAL COPRODUCTION TREATY BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Treaty.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43219"
+  ],
+  "htmlHash": "567a713ec019fe349db664fd3cd28f2e"
+}

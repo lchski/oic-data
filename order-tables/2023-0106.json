@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0106</td><td>2023-02-09</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Food Inspection Agency Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HARPREET SINGH KOCHHAR of Ottawa, Ontario, to be President of the Canadian Food Inspection Agency, to hold office during pleasure for a term of five years, effective February 27, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0106",
+  "date": "2023-02-09",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Canadian Food Inspection Agency Act",
+  "subject": "",
+  "precis": "Appointment of HARPREET SINGH KOCHHAR of Ottawa, Ontario, to be President of the Canadian Food Inspection Agency, to hold office during pleasure for a term of five years, effective February 27, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43216"
+  ],
+  "htmlHash": "812d36675b87e2b5ca0292763e150c41"
+}
