@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0133</td><td>2023-02-10</td><td></td><td></td><td>ISI</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Name Change of the Battlefords Chamber of Commerce</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of the Battlefords Chamber of Commerce, in Saskatchewan, to change its name to “BATTLEFORDS &amp; DISTRICT CHAMBER OF COMMERCE”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43260&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0133",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "ISI",
+  "act": "Boards of Trade Act",
+  "subject": "Order Approving the Name Change of the Battlefords Chamber of Commerce",
+  "precis": "Order approving the application of the Battlefords Chamber of Commerce, in Saskatchewan, to change its name to “BATTLEFORDS & DISTRICT CHAMBER OF COMMERCE”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43260"
+  ],
+  "htmlHash": "62ad4518228b8391fc6176df62b3810f"
+}

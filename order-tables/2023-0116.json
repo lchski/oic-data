@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0116</td><td>2023-02-10</td><td></td><td></td><td>PS, CSIS</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Collective Agreement between the Canadian Security Intelligence Service and the Public Service Alliance of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Canadian Security Intelligence Service to ENTER INTO A COLLECTIVE AGREEMENT with the Public Service Alliance of Canada for the period beginning on April 1, 2018 and ending on March 31, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43243&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0116",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "PS, CSIS",
+  "act": "Federal Public Sector Labour Relations Act",
+  "subject": "Order Approving the Collective Agreement between the Canadian Security Intelligence Service and the Public Service Alliance of Canada",
+  "precis": "Order authorizing the Canadian Security Intelligence Service to ENTER INTO A COLLECTIVE AGREEMENT with the Public Service Alliance of Canada for the period beginning on April 1, 2018 and ending on March 31, 2021.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43243"
+  ],
+  "htmlHash": "454da069ce87c3403a96dbffc19f07d4"
+}

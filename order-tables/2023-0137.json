@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0137</td><td>2023-02-10</td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order appointing the Auditor General of Canada as Auditor for Atomic Energy of Canada Limited</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing the Auditor General of Canada as the AUDITOR of ATOMIC ENERGY OF CANADA LIMITED for the fiscal year ending on March 31, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0137",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "NRCAN",
+  "act": "Financial Administration Act",
+  "subject": "Order appointing the Auditor General of Canada as Auditor for Atomic Energy of Canada Limited",
+  "precis": "Order appointing the Auditor General of Canada as the AUDITOR of ATOMIC ENERGY OF CANADA LIMITED for the fiscal year ending on March 31, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43264"
+  ],
+  "htmlHash": "b252b223b52d143c467271e1663af5ea"
+}

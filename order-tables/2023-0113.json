@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0113</td><td>2023-02-10</td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Livestock Price Insurance Program Multilateral Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to amend the LIVESTOCK PRICE INSURANCE PROGRAM MULTILATERAL AGREEMENT with the provinces of British Columbia, Alberta, Saskatchewan and Manitoba in order to extend its duration to March 31, 2028.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43266&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0113",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "AAFC",
+  "act": "Farm Income Protection Act",
+  "subject": "Order Amending the Livestock Price Insurance Program Multilateral Agreement",
+  "precis": "Order authorizing the Minister of Agriculture and Agri-Food to amend the LIVESTOCK PRICE INSURANCE PROGRAM MULTILATERAL AGREEMENT with the provinces of British Columbia, Alberta, Saskatchewan and Manitoba in order to extend its duration to March 31, 2028.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43266"
+  ],
+  "htmlHash": "d8ef7c7039908fd7a1e9558102a701c4"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0115</td><td>2023-02-10</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Acts of the 24th Congress of the Postal Union of the Americas, Spain and Portugal</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Acts of the 24th Congress of the POSTAL UNION of the AMERICAS, SPAIN AND PORTUGAL.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43242&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0115",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Acts of the 24th Congress of the Postal Union of the Americas, Spain and Portugal",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Acts of the 24th Congress of the POSTAL UNION of the AMERICAS, SPAIN AND PORTUGAL.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43242"
+  ],
+  "htmlHash": "4f0c028becbfdb3005cdd7b8dc57e324"
+}

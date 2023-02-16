@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0126</td><td>2023-02-10</td><td></td><td></td><td>ISI</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Boundary Change of the district of the Bragg Creek and Area Chamber of Commerce</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application by the BRAGG CREEK AND AREA CHAMBER OF COMMERCE, in Alberta, to CHANGE THE BOUNDARIES of its district from Township 23 ranges 3, 4 and 5, and Township 24 range 4 to Townships 22 and 23 inclusive, ranges 3, 4 and 5 and Township 24 range 4, all being west of the Fifth Meridian in Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43253&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0126",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "ISI",
+  "act": "Boards of Trade Act",
+  "subject": "Order Approving the Boundary Change of the district of the Bragg Creek and Area Chamber of Commerce",
+  "precis": "Order approving the application by the BRAGG CREEK AND AREA CHAMBER OF COMMERCE, in Alberta, to CHANGE THE BOUNDARIES of its district from Township 23 ranges 3, 4 and 5, and Township 24 range 4 to Townships 22 and 23 inclusive, ranges 3, 4 and 5 and Township 24 range 4, all being west of the Fifth Meridian in Alberta.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43253"
+  ],
+  "htmlHash": "8819c49848111a819b244b78e658d071"
+}

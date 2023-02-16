@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0117</td><td>2023-02-10</td><td></td><td></td><td>PSPC, NCC</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving that National Capital Commission Extend the Easement with Hydro One Networks Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that National Capital Commission grant an extension of an existing easement to HYDRO ONE NETWORKS INC. for a period of 29 years, 9 months and 27 days, beginning on August 20, 2062, for the real property located in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43244&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0117",
+  "date": "2023-02-10",
+  "chapter": "",
+  "bill": "",
+  "department": "PSPC, NCC",
+  "act": "National Capital Act",
+  "subject": "Order Approving that National Capital Commission Extend the Easement with Hydro One Networks Inc.",
+  "precis": "Order approving that National Capital Commission grant an extension of an existing easement to HYDRO ONE NETWORKS INC. for a period of 29 years, 9 months and 27 days, beginning on August 20, 2062, for the real property located in Ottawa, Ontario.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43244"
+  ],
+  "htmlHash": "0f04ce722d7ba6e9568f5580e8d206e2"
+}
