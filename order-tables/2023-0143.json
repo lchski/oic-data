@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0143</td><td>2023-02-14</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2022 663 of June 16, 2022, by replacing the remuneration of Hubert Lacroix, former President of the Canadian Broadcasting Corporation, effective April 1, 2018.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43272&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0143",
+  "date": "2023-02-14",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2022 663 of June 16, 2022, by replacing the remuneration of Hubert Lacroix, former President of the Canadian Broadcasting Corporation, effective April 1, 2018.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43272"
+  ],
+  "htmlHash": "b01d4c7e84d224dd04898fd68e1517f0"
+}
