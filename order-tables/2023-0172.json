@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0172</td><td>2023-02-16</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Foreign Affairs to bring into force the Agreement on Social Security between Canada and the Argentine Republic</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE, on behalf of Canada, the AGREEMENT ON SOCIAL SECURITY between Canada and the ARGENTINE REPUBLIC, done at Buenos Aires on August 13, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43303&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0172",
+  "date": "2023-02-16",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Minister of Foreign Affairs to bring into force the Agreement on Social Security between Canada and the Argentine Republic",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE, on behalf of Canada, the AGREEMENT ON SOCIAL SECURITY between Canada and the ARGENTINE REPUBLIC, done at Buenos Aires on August 13, 2021.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43303"
+  ],
+  "htmlHash": "bbbcd281ceb8db569c7e3c0da8a2dd86"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0174</td><td>2023-02-16</td><td></td><td></td><td>PSPC, NCC</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Acquisition of Property by the National Capital Commission (NCC)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving (1) the acquisition by the National Capital Commission (NCC) from Public Works and Government Services Canada (PSPC) of the real property located at 100 Elgin Street, in Ottawa, Ontario; (2) the assumption by the NCC of the lease between PSPC and Gillin Engineering and Construction Limited for the leased premises located at 100 Elgin Street, in Ottawa, Ontario; and (3) the grant of a lease extension of 60 years to Gillin Engineering and Construction Limited to occupy the leased premises located at 100 Elgin Street, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43305&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0174",
+  "date": "2023-02-16",
+  "chapter": "",
+  "bill": "",
+  "department": "PSPC, NCC",
+  "act": "National Capital Act",
+  "subject": "Order Approving the Acquisition of Property by the National Capital Commission (NCC)",
+  "precis": "Order approving (1) the acquisition by the National Capital Commission (NCC) from Public Works and Government Services Canada (PSPC) of the real property located at 100 Elgin Street, in Ottawa, Ontario; (2) the assumption by the NCC of the lease between PSPC and Gillin Engineering and Construction Limited for the leased premises located at 100 Elgin Street, in Ottawa, Ontario; and (3) the grant of a lease extension of 60 years to Gillin Engineering and Construction Limited to occupy the leased premises located at 100 Elgin Street, in Ottawa, Ontario.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43305"
+  ],
+  "htmlHash": "9aed1a8429ce1551109396bb184b7b13"
+}

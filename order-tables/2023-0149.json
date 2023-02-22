@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0149</td><td>2023-02-16</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MICHAEL JOSEPH CORRIGAN of Victoria, British Columbia, as a director of the Vancouver Fraser Port Authority, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43280&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0149",
+  "date": "2023-02-16",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Canada Marine Act",
+  "subject": "",
+  "precis": "Reappointment of MICHAEL JOSEPH CORRIGAN of Victoria, British Columbia, as a director of the Vancouver Fraser Port Authority, to hold office for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43280"
+  ],
+  "htmlHash": "74b30c7be123b2c8c6c5b3d6321390be"
+}

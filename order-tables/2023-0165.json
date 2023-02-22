@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0165</td><td>2023-02-16</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SÉBASTIEN PIERRE-ROY of the City of Sherbrooke, in the Province of Quebec, Barrister-at-law, to be a Judge of the Superior Court of Quebec for the districts of Saint-François and Bedford, with residence in the territory of Ville de Sherbrooke or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43296&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0165",
+  "date": "2023-02-16",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of SÉBASTIEN PIERRE-ROY of the City of Sherbrooke, in the Province of Quebec, Barrister-at-law, to be a Judge of the Superior Court of Quebec for the districts of Saint-François and Bedford, with residence in the territory of Ville de Sherbrooke or in the immediate vicinity thereof.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43296"
+  ],
+  "htmlHash": "ace4ef29d7ae75fcf96ec01e4e036c81"
+}
