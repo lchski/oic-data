@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0181</td><td>2023-03-02</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Inquiries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Final Report - Public Inquiry into the 2022 Public Order Emergency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transmitting the FINAL REPORT of the COMMISSION in relation to the 2022 Public Order Emergency, which was established under Order in Council P.C. 2022-392 of April 25, 2022, as amended by Order in Council P.C. 2023-76 of February 3, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43324&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0181",
+  "date": "2023-03-02",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Inquiries Act",
+  "subject": "Final Report - Public Inquiry into the 2022 Public Order Emergency",
+  "precis": "Order transmitting the FINAL REPORT of the COMMISSION in relation to the 2022 Public Order Emergency, which was established under Order in Council P.C. 2022-392 of April 25, 2022, as amended by Order in Council P.C. 2023-76 of February 3, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43324"
+  ],
+  "htmlHash": "ce0e6e637446da7075ac0505fcfc85c1"
+}
