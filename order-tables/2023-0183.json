@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0183</td><td>2023-03-06</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Salary Order (Senior Public Service Leaders)</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43329&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0183",
+  "date": "2023-03-06",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Salary Order (Senior Public Service Leaders)",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43329"
+  ],
+  "htmlHash": "eba784ff1eca77cbb2ce53e6a7468522"
+}
