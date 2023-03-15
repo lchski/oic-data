@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0201</td><td>2023-03-09</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 245, Newfoundland and Labrador</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 245 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to NEWFOUNDLAND AND LABRADOR with respect to the rainstorm and strong winds that occurred from November 23 to November 24, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43347&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0201",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Emergency Management Act",
+  "subject": "Provincial Emergency Financial Assistance Order No. 245, Newfoundland and Labrador",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 245 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to NEWFOUNDLAND AND LABRADOR with respect to the rainstorm and strong winds that occurred from November 23 to November 24, 2021.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43347"
+  ],
+  "htmlHash": "017f48c10c24d51b405815335a8f2698"
+}

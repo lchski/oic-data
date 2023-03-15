@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0185</td><td>2023-03-09</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Labour Standards Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA LABOUR STANDARDS REGULATIONS (EMPLOYEES UNDER 18 YEARS OF AGE) in order to (1) raise the referenced minimum age of employment from 17 years to 18 years of age with respect to certain types of work; (2) establish that a person under 18 years of age may not work between 11:00 p.m. and 6:00 a.m. on the following day; and (3) require employers to keep records of the age of employees under 18 years of age.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0040  <strong>Publication Date:</strong> 2023-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43331&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0185",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Canada Labour Code",
+  "subject": "Regulations Amending the Canada Labour Standards Regulations",
+  "precis": "Regulations Amending the CANADA LABOUR STANDARDS REGULATIONS (EMPLOYEES UNDER 18 YEARS OF AGE) in order to (1) raise the referenced minimum age of employment from 17 years to 18 years of age with respect to certain types of work; (2) establish that a person under 18 years of age may not work between 11:00 p.m. and 6:00 a.m. on the following day; and (3) require employers to keep records of the age of employees under 18 years of age.",
+  "registration": "Registration: SOR/ 2023-0040  Publication Date: 2023-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2023-0040",
+  "registration_publication_date": "2023-03-29",
+  "attachments": [
+    "43331"
+  ],
+  "htmlHash": "c65f3969160d06542e2a7a3736fb1be6"
+}

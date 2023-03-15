@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0213</td><td>2023-03-09</td><td></td><td></td><td>GAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ANDERSON BLANC as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Liberia, with residence in Abidjan; and Appointment of SARA NICHOLLS to be Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Angola, with residence in Maputo.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43359&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0213",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ANDERSON BLANC as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Liberia, with residence in Abidjan; and Appointment of SARA NICHOLLS to be Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Angola, with residence in Maputo.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43359"
+  ],
+  "htmlHash": "48aba3c86cf806c16237474ee2d5172f"
+}

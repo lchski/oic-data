@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0184</td><td>2023-03-09</td><td>27</td><td>2018</td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the Day on which Sections 447 to 449 and 517 of the Budget Implementation Act, 2018, No. 2 Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing June 12, 2023 as the day on which sections 447 to 449 and 517 of the BUDGET IMPLEMENTATION ACT, 2018, No. 2, chapter 27 of the Statutes of Canada, 2018, COME INTO FORCE in order to increase the minimum age of employment from 17 years to 18 years with respect to certain types of work.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43330&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0184",
+  "date": "2023-03-09",
+  "chapter": "27",
+  "bill": "2018",
+  "department": "LAB",
+  "act": "Budget Implementation Act, 2018, No. 2",
+  "subject": "Order Fixing the Day on which Sections 447 to 449 and 517 of the Budget Implementation Act, 2018, No. 2 Come into Force",
+  "precis": "Order fixing June 12, 2023 as the day on which sections 447 to 449 and 517 of the BUDGET IMPLEMENTATION ACT, 2018, No. 2, chapter 27 of the Statutes of Canada, 2018, COME INTO FORCE in order to increase the minimum age of employment from 17 years to 18 years with respect to certain types of work.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43330"
+  ],
+  "htmlHash": "fceb5c5ca1dff64e8db0f9889028b4dc"
+}

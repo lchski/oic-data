@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0188</td><td>2023-03-09</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Large Diameter Line Pipe Anti-dumping Duty Remission Order, 2023</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">LARGE DIAMETER LINE PIPE ANTI-DUMPING DUTY REMISSION ORDER, 2023 in order to remit anti-dumping duties paid by the importer of record with respect to specific importations of large diameter line pipe from Japan, on the condition that the importer provides the Canada Border Services Agency with documentation demonstrating that the importer is entitled to such a remission and that a claim for remission is made within two years after the coming into force of this order.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0043  <strong>Publication Date:</strong> 2023-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43334&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0188",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Customs Tariff",
+  "subject": "Large Diameter Line Pipe Anti-dumping Duty Remission Order, 2023",
+  "precis": "LARGE DIAMETER LINE PIPE ANTI-DUMPING DUTY REMISSION ORDER, 2023 in order to remit anti-dumping duties paid by the importer of record with respect to specific importations of large diameter line pipe from Japan, on the condition that the importer provides the Canada Border Services Agency with documentation demonstrating that the importer is entitled to such a remission and that a claim for remission is made within two years after the coming into force of this order.",
+  "registration": "Registration: SOR/ 2023-0043  Publication Date: 2023-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2023-0043",
+  "registration_publication_date": "2023-03-29",
+  "attachments": [
+    "43334"
+  ],
+  "htmlHash": "a22ea7153972156f9772a22dd5c9f0b8"
+}

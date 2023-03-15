@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0193</td><td>2023-03-09</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Citizenship and Immigration to Enter into an Agreement with the Government of New Brunswick</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Citizenship and Immigration, on behalf of the Government of Canada, to ENTER INTO a CANADA-NEW BRUNSWICK IMMIGRATION AGREEMENT beginning on March 30, 2023 for a period of seven years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43339&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0193",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Department of Citizenship and Immigration ActImmigration and Refugee Protection Act",
+  "subject": "Order Authorizing the Minister of Citizenship and Immigration to Enter into an Agreement with the Government of New Brunswick",
+  "precis": "Order authorizing the Minister of Citizenship and Immigration, on behalf of the Government of Canada, to ENTER INTO a CANADA-NEW BRUNSWICK IMMIGRATION AGREEMENT beginning on March 30, 2023 for a period of seven years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43339"
+  ],
+  "htmlHash": "871c74080d17a373e171683641d52436"
+}

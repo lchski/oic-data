@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0212</td><td>2023-03-09</td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of LORRAINE ANDERSON to be High Commissioner for Canada in the Gabonese Republic, with residence in Yaoundé.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43360&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0212",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "FA",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of LORRAINE ANDERSON to be High Commissioner for Canada in the Gabonese Republic, with residence in Yaoundé.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43360"
+  ],
+  "htmlHash": "478d3d5e9c83ba396db9e02726092e49"
+}

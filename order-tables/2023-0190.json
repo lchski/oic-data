@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0190</td><td>2023-03-09</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Federal-Provincial Fiscal Arrangements Regulations, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 2007 in order to (1) align the information required on a provincial application with the new definitions for personal and corporate income tax revenues as amended by Budget Implementation Act, 2021, No. 1; (2) define elements that should be included in the calculation of personal and corporate income tax revenues; (3) change the date for finalization of claims from 32 months to 21 months after the end of the fiscal year for which the claim is being made; (4) specify elements that must be included in the annual certificate prepared by the Chief Statistician of Canada to the Minister of Finance to support the calculation of fiscal stabilization payments; (5) specify the information to be used in the determination of fiscal stabilization payments; (6) no longer treat the indexation of the personal income tax system as a policy change in the program; and (7) permit the Minister of Finance to use alternative information if the revenue information or other information prescribed for use in the determination of fiscal stabilization claims is incorrect or missing.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0045  <strong>Publication Date:</strong> 2023-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43336&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0190",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Federal-Provincial Fiscal Arrangements Act",
+  "subject": "Regulations Amending the Federal-Provincial Fiscal Arrangements Regulations, 2007",
+  "precis": "Regulations Amending the FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS REGULATIONS, 2007 in order to (1) align the information required on a provincial application with the new definitions for personal and corporate income tax revenues as amended by Budget Implementation Act, 2021, No. 1; (2) define elements that should be included in the calculation of personal and corporate income tax revenues; (3) change the date for finalization of claims from 32 months to 21 months after the end of the fiscal year for which the claim is being made; (4) specify elements that must be included in the annual certificate prepared by the Chief Statistician of Canada to the Minister of Finance to support the calculation of fiscal stabilization payments; (5) specify the information to be used in the determination of fiscal stabilization payments; (6) no longer treat the indexation of the personal income tax system as a policy change in the program; and (7) permit the Minister of Finance to use alternative information if the revenue information or other information prescribed for use in the determination of fiscal stabilization claims is incorrect or missing.",
+  "registration": "Registration: SOR/ 2023-0045  Publication Date: 2023-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2023-0045",
+  "registration_publication_date": "2023-03-29",
+  "attachments": [
+    "43336"
+  ],
+  "htmlHash": "7ff61ede598fae8f135064b852837f94"
+}

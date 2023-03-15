@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0186</td><td>2023-03-09</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Customs Tariff, 2022-2</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE CUSTOMS TARIFF, 2022-2 in order to restore the rate of customs duty for electronically heated tobacco products from 13 percent to 9.5 percent at Most-Favoured-Nation tariff rate.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0041  <strong>Publication Date:</strong> 2023-03-29</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43332&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0186",
+  "date": "2023-03-09",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Customs Tariff",
+  "subject": "Order Amending the Schedule to the Customs Tariff, 2022-2",
+  "precis": "Order Amending the SCHEDULE TO THE CUSTOMS TARIFF, 2022-2 in order to restore the rate of customs duty for electronically heated tobacco products from 13 percent to 9.5 percent at Most-Favoured-Nation tariff rate.",
+  "registration": "Registration: SOR/ 2023-0041  Publication Date: 2023-03-29",
+  "registration_type": "SOR",
+  "registration_id": "2023-0041",
+  "registration_publication_date": "2023-03-29",
+  "attachments": [
+    "43332"
+  ],
+  "htmlHash": "319d10fe5de4db30142bbab35ae5533a"
+}
