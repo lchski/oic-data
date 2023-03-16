@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0216</td><td>2023-03-10</td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Public Service Income Benefit for Survivors of Employees Slain on Duty Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order REMITTING OVERPAYMENTS that were paid under the PUBLIC SERVICE INCOME BENEFIT PLAN FOR SURVIVORS OF EMPLOYEES SLAIN ON DUTY to any beneficiaries who received overpayments of up to $350,000 before May 31, 2023 as a result of administrative errors.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43363&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0216",
+  "date": "2023-03-10",
+  "chapter": "",
+  "bill": "",
+  "department": "TBS",
+  "act": "Financial Administration Act",
+  "subject": "Public Service Income Benefit for Survivors of Employees Slain on Duty Remission Order",
+  "precis": "Order REMITTING OVERPAYMENTS that were paid under the PUBLIC SERVICE INCOME BENEFIT PLAN FOR SURVIVORS OF EMPLOYEES SLAIN ON DUTY to any beneficiaries who received overpayments of up to $350,000 before May 31, 2023 as a result of administrative errors.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43363"
+  ],
+  "htmlHash": "1edb65923965c90f7262276468b42e12"
+}
