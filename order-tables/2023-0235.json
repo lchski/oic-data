@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0235</td><td>2023-03-16</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHAEL ROBERT DUHEME of Ottawa, Ontario, to be Commissioner of the Royal Canadian Mounted Police, on an interim basis, to hold office during pleasure, for a term of two years or until such time as a new Commissioner is appointed, whichever occurs first, effective March 18, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43381&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0235",
+  "date": "2023-03-16",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Royal Canadian Mounted Police Act",
+  "subject": "",
+  "precis": "Appointment of MICHAEL ROBERT DUHEME of Ottawa, Ontario, to be Commissioner of the Royal Canadian Mounted Police, on an interim basis, to hold office during pleasure, for a term of two years or until such time as a new Commissioner is appointed, whichever occurs first, effective March 18, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43381"
+  ],
+  "htmlHash": "fd92d2273175afb06085d32ab89a828c"
+}
