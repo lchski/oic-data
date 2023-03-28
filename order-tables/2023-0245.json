@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0245</td><td>2023-03-22</td><td></td><td></td><td>PWGSC</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Public Works and Government Services of STÉPHAN DÉRY of Gatineau, Québec, to be President and Chief Executive Officer of Canada Lands Company Limited, to hold office during pleasure for a term of four years, effective April 12, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0245",
+  "date": "2023-03-22",
+  "chapter": "",
+  "bill": "",
+  "department": "PWGSC",
+  "act": "Financial Administration Act",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Public Works and Government Services of STÉPHAN DÉRY of Gatineau, Québec, to be President and Chief Executive Officer of Canada Lands Company Limited, to hold office during pleasure for a term of four years, effective April 12, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43396"
+  ],
+  "htmlHash": "2744ee7770b2e1f1992b7f5ec20b4fbb"
+}

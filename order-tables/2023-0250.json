@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0250</td><td>2023-03-22</td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of NEIL RUSSON of York County, New Brunswick, as Chairperson of the Board of Trustees of the National Museum of Science and Technology, to hold office during pleasure for a term of four years, effective May 9, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43401&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0250",
+  "date": "2023-03-22",
+  "chapter": "",
+  "bill": "",
+  "department": "PCH",
+  "act": "Museums Act",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister of Canadian Heritage of NEIL RUSSON of York County, New Brunswick, as Chairperson of the Board of Trustees of the National Museum of Science and Technology, to hold office during pleasure for a term of four years, effective May 9, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43401"
+  ],
+  "htmlHash": "05c38a5a67c08e9ba35bd2276a43013c"
+}

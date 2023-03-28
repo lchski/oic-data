@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0260</td><td>2023-03-23</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (Examination of Eligibility to Refer a Claim)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the Immigration and Refugee Protection Regulations (Examination of Eligibility to Refer a Claim) in order to (1) expand the application of the Safe Third Country Agreement (STCA) restrictions to include anyone who enters in between Point of Entries along the Canada-U.S. land border and makes a claim for asylum within 14 days; (2) clarify the definition of stateless person; and (3) clarify the authority of immigration officers to allow re-determination of claims for individuals deemed ineligible to enter Canada, but refused re-entry by the U.S.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43385&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0260",
+  "date": "2023-03-23",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "Regulations Amending the Immigration and Refugee Protection Regulations (Examination of Eligibility to Refer a Claim)",
+  "precis": "Regulations Amending the Immigration and Refugee Protection Regulations (Examination of Eligibility to Refer a Claim) in order to (1) expand the application of the Safe Third Country Agreement (STCA) restrictions to include anyone who enters in between Point of Entries along the Canada-U.S. land border and makes a claim for asylum within 14 days; (2) clarify the definition of stateless person; and (3) clarify the authority of immigration officers to allow re-determination of claims for individuals deemed ineligible to enter Canada, but refused re-entry by the U.S.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43385"
+  ],
+  "htmlHash": "b11aeec0cc747bc8c837f782ee68614f"
+}

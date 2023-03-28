@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0236</td><td>2023-03-22</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Air Transport Security Authority Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NADA SEMAAN of Ottawa, Ontario, to be Chief Executive Officer of the Canadian Air Transport Security Authority, to hold office during pleasure for a term of five years, effective April 3, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43387&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0236",
+  "date": "2023-03-22",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Canadian Air Transport Security Authority Act",
+  "subject": "",
+  "precis": "Appointment of NADA SEMAAN of Ottawa, Ontario, to be Chief Executive Officer of the Canadian Air Transport Security Authority, to hold office during pleasure for a term of five years, effective April 3, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43387"
+  ],
+  "htmlHash": "6233be725ffd321cc88afefa6373157d"
+}
