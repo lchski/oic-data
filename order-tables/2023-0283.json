@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0283</td><td>2023-03-27</td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving that the NCC Extend the Lease with 11219863 Canada Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the NATIONAL CAPITAL COMMISSION grant one option to extend the lease with IPSS INC. for real property located on the second floor at 541 Sussex Drive, in Ottawa, Ontario, for a period of three years beginning on August 1, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43429&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0283",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "PSPC",
+  "act": "National Capital Act",
+  "subject": "Order Approving that the NCC Extend the Lease with 11219863 Canada Inc.",
+  "precis": "Order approving that the NATIONAL CAPITAL COMMISSION grant one option to extend the lease with IPSS INC. for real property located on the second floor at 541 Sussex Drive, in Ottawa, Ontario, for a period of three years beginning on August 1, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43429"
+  ],
+  "htmlHash": "cc644ffa4ff96413cbb563f5cb826c80"
+}

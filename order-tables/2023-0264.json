@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0264</td><td>2023-03-27</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Schedule 2 to the Greenhouse Gas Pollution Pricing Act, Amending the Fuel Charge Regulations and Repealing the Part 1 of the Greenhouse Gas Pollution Pricing Act Regulations (Alberta)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending SCHEDULE 2 TO THE GREENHOUSE GAS POLLUTION PRICING ACT and REPEALING THE PART 1 OF THE GREENHOUSE GAS POLLUTION PRICING ACT REGULATIONS (ALBERTA) in order to (1) integrate the Alberta output-based pricing system (OBPS) and the Ontario OBPS with the fuel charge; (2) specify the fuel charge rates in Schedule 2 of the Act to reflect the new carbon price trajectory; (3) implement measures released for consultation on August 9, 2022; and (4) incorporate minor technical amendments related to the fuel charge system.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0062  <strong>Publication Date:</strong> 2023-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43410&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0264",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Greenhouse Gas Pollution Pricing Act",
+  "subject": "Regulations Amending Schedule 2 to the Greenhouse Gas Pollution Pricing Act, Amending the Fuel Charge Regulations and Repealing the Part 1 of the Greenhouse Gas Pollution Pricing Act Regulations (Alberta)",
+  "precis": "Regulations Amending SCHEDULE 2 TO THE GREENHOUSE GAS POLLUTION PRICING ACT and REPEALING THE PART 1 OF THE GREENHOUSE GAS POLLUTION PRICING ACT REGULATIONS (ALBERTA) in order to (1) integrate the Alberta output-based pricing system (OBPS) and the Ontario OBPS with the fuel charge; (2) specify the fuel charge rates in Schedule 2 of the Act to reflect the new carbon price trajectory; (3) implement measures released for consultation on August 9, 2022; and (4) incorporate minor technical amendments related to the fuel charge system.",
+  "registration": "Registration: SOR/ 2023-0062  Publication Date: 2023-04-12",
+  "registration_type": "SOR",
+  "registration_id": "2023-0062",
+  "registration_publication_date": "2023-04-12",
+  "attachments": [
+    "43410"
+  ],
+  "htmlHash": "f032aae5830a684568b61851ba57386a"
+}

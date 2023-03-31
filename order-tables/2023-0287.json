@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0287</td><td>2023-03-27</td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of MNP LLP to be the auditor of the Canadian Beef Cattle Research, Market Development and Promotion Agency</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order 1) replacing P.C. 2022-212; and 2) appointing MNP LLP of Calgary, Alberta, to be the auditor of the CANADIAN BEEF CATTLE RESEARCH, MARKET DEVELOPMENT AND PROMOTION AGENCY, for the fiscal years 2021-2022 to 2027-2028.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43433&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0287",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "AAFC",
+  "act": "Farm Products Agencies Act",
+  "subject": "Appointment of MNP LLP to be the auditor of the Canadian Beef Cattle Research, Market Development and Promotion Agency",
+  "precis": "Order 1) replacing P.C. 2022-212; and 2) appointing MNP LLP of Calgary, Alberta, to be the auditor of the CANADIAN BEEF CATTLE RESEARCH, MARKET DEVELOPMENT AND PROMOTION AGENCY, for the fiscal years 2021-2022 to 2027-2028.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43433"
+  ],
+  "htmlHash": "0afb4e2278fad9163184e24d64e9ebfe"
+}

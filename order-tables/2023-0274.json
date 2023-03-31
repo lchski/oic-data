@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0274</td><td>2023-03-27</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Pension Benefits Standards  Act, 1985</td></tr><tr><td>Subject</td><td colspan=\"5\">2023 Agreement Amending the 2020 Agreement Respecting Multi-Jurisdictional Pension Plans</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Finance to ENTER into the 2023 AGREEMENT AMENDING THE 2020 AGREEMENT RESPECTING MULTI-JURISDICTIONAL PENSION PLANS in order to (1) clarify and simplify the regulations of multi-jurisdictional pension plans across Canada; and (2) enable the governments of Manitoba and Newfoundland and Labrador to join the 2020 Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43420&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0274",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Pension Benefits Standards  Act, 1985",
+  "subject": "2023 Agreement Amending the 2020 Agreement Respecting Multi-Jurisdictional Pension Plans",
+  "precis": "Order authorizing the Minister of Finance to ENTER into the 2023 AGREEMENT AMENDING THE 2020 AGREEMENT RESPECTING MULTI-JURISDICTIONAL PENSION PLANS in order to (1) clarify and simplify the regulations of multi-jurisdictional pension plans across Canada; and (2) enable the governments of Manitoba and Newfoundland and Labrador to join the 2020 Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43420"
+  ],
+  "htmlHash": "c6809a921142f7998f5c139c88309c63"
+}

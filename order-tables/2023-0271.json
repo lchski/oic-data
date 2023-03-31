@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0271</td><td>2023-03-27</td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Consenting to the Amendment of the Carcross/Tagish First Nation, the LIttle Salmon/Carmacks First Nation, the Selkirk First Nation and the Ta'an Kwach'an Council Self-Government Agreements</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the amendment of section 17.0 of the CARCROSS/TAGISH First Nation, the LITTLE SALMON/CARMACKS First Nation, the SELKIRK First Nation and the TA'AN KWACH'AN Council SELF-GOVERNMENT AGREEMENTS in order to allow for negotiation of responsibility for education.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43417&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0271",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "CIRNAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Consenting to the Amendment of the Carcross/Tagish First Nation, the LIttle Salmon/Carmacks First Nation, the Selkirk First Nation and the Ta'an Kwach'an Council Self-Government Agreements",
+  "precis": "Order consenting to the amendment of section 17.0 of the CARCROSS/TAGISH First Nation, the LITTLE SALMON/CARMACKS First Nation, the SELKIRK First Nation and the TA'AN KWACH'AN Council SELF-GOVERNMENT AGREEMENTS in order to allow for negotiation of responsibility for education.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43417"
+  ],
+  "htmlHash": "0a87663a95bcc2e2dc2cab763cafb04f"
+}

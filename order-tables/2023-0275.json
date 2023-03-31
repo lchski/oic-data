@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0275</td><td>2023-03-27</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Pooled Registered Pension Plans Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Multilateral Agreement Respecting Pooled Registered Pension Plans and Voluntary Retirement Savings Plans with New Brunswick</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Finance to enter into the MULTILATERAL AGREEMENT RESPECTING POOLED REGISTERED PENSION PLANS AND VOLUNTARY RETIREMENT SAVINGS PLANS with the designated provinces, including NEW BRUNSWICK.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43421&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0275",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Pooled Registered Pension Plans Act",
+  "subject": "Multilateral Agreement Respecting Pooled Registered Pension Plans and Voluntary Retirement Savings Plans with New Brunswick",
+  "precis": "Order authorizing the Minister of Finance to enter into the MULTILATERAL AGREEMENT RESPECTING POOLED REGISTERED PENSION PLANS AND VOLUNTARY RETIREMENT SAVINGS PLANS with the designated provinces, including NEW BRUNSWICK.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43421"
+  ],
+  "htmlHash": "438e0148044dc553f3bca38011417939"
+}

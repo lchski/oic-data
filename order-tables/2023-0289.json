@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0289</td><td>2023-03-27</td><td></td><td></td><td>PS, TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Interest on Debts for Services Rendered by the Royal Canadian Mounted Police Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order REMITTING the INTEREST PAID OR PAYABLE ON DEBT owed by municipalities that contract the ROYAL CANADIAN MOUNTED POLICE for policing services for the retroactive compensation increases for the period beginning on April 1, 2017 and ending on March 31, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43441&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0289",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "PS, TB",
+  "act": "Financial Administration Act",
+  "subject": "Interest on Debts for Services Rendered by the Royal Canadian Mounted Police Remission Order",
+  "precis": "Order REMITTING the INTEREST PAID OR PAYABLE ON DEBT owed by municipalities that contract the ROYAL CANADIAN MOUNTED POLICE for policing services for the retroactive compensation increases for the period beginning on April 1, 2017 and ending on March 31, 2021.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43441"
+  ],
+  "htmlHash": "78a5e6f32990dbe292fb58da1863cd54"
+}

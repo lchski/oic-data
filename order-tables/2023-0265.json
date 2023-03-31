@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0265</td><td>2023-03-27</td><td></td><td></td><td>GAC, FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Northwest Atlantic Fisheries Organization Privileges and Immunities Order, 2023</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">NORTHWEST ATLANTIC FISHERIES ORGANIZATION PRIVILEGES AND IMMUNITIES ORDER, 2023 in order to 1) repeal the existing Northwest Atlantic Fisheries Organization Privileges and Immunities Order; and 2) implement the privileges and immunities set out in the Headquarters Agreement between the Government of Canada and the Northwest Atlantic Fisheries Organization.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0063  <strong>Publication Date:</strong> 2023-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43411&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0265",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC, FIN",
+  "act": "Foreign Missions and International  Organizations Act",
+  "subject": "Northwest Atlantic Fisheries Organization Privileges and Immunities Order, 2023",
+  "precis": "NORTHWEST ATLANTIC FISHERIES ORGANIZATION PRIVILEGES AND IMMUNITIES ORDER, 2023 in order to 1) repeal the existing Northwest Atlantic Fisheries Organization Privileges and Immunities Order; and 2) implement the privileges and immunities set out in the Headquarters Agreement between the Government of Canada and the Northwest Atlantic Fisheries Organization.",
+  "registration": "Registration: SOR/ 2023-0063  Publication Date: 2023-04-12",
+  "registration_type": "SOR",
+  "registration_id": "2023-0063",
+  "registration_publication_date": "2023-04-12",
+  "attachments": [
+    "43411"
+  ],
+  "htmlHash": "b86fcdc774a6fb4b77afa39d874f850c"
+}

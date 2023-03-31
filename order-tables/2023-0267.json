@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0267</td><td>2023-03-27</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to (1) allow for documents under Part III of the Code to be served by courier, electronically or by leaving them at an individual's last known place of residence or business, and create new proof of service provisions and clarify the date of service; (2) clarify calculations for compensation of employees for time spent in Canada Industrial Relations Board (CIRB) hearings, including those paid by regular rate of wages; and (3) reclassify violations for compensation related to attendance at the CIRB.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0065  <strong>Publication Date:</strong> 2023-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43413&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0267",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Canada Labour Code",
+  "subject": "Regulations Amending Certain Regulations Made Under the Canada Labour Code",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to (1) allow for documents under Part III of the Code to be served by courier, electronically or by leaving them at an individual's last known place of residence or business, and create new proof of service provisions and clarify the date of service; (2) clarify calculations for compensation of employees for time spent in Canada Industrial Relations Board (CIRB) hearings, including those paid by regular rate of wages; and (3) reclassify violations for compensation related to attendance at the CIRB.",
+  "registration": "Registration: SOR/ 2023-0065  Publication Date: 2023-04-12",
+  "registration_type": "SOR",
+  "registration_id": "2023-0065",
+  "registration_publication_date": "2023-04-12",
+  "attachments": [
+    "43413"
+  ],
+  "htmlHash": "a2676bca8f7973dcbd74d9f87deb1d6b"
+}

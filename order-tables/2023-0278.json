@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0278</td><td>2023-03-27</td><td></td><td></td><td>ISI</td></tr><tr><td>Act</td><td colspan=\"5\">Telecommunications Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Declining to Vary, Rescind or Refer Back to the CRTC Telecom Order CRTC 2022-79</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order DECLINING TO VARY, RESCIND, OR REFER BACK to the CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION (CRTC) for reconsideration the Telecom Decision CRTC 2022-79, thereby letting it stand.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43424&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0278",
+  "date": "2023-03-27",
+  "chapter": "",
+  "bill": "",
+  "department": "ISI",
+  "act": "Telecommunications Act",
+  "subject": "Order Declining to Vary, Rescind or Refer Back to the CRTC Telecom Order CRTC 2022-79",
+  "precis": "Order DECLINING TO VARY, RESCIND, OR REFER BACK to the CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION (CRTC) for reconsideration the Telecom Decision CRTC 2022-79, thereby letting it stand.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43424"
+  ],
+  "htmlHash": "792ef93e039e87a5d28070a653a61b4a"
+}
