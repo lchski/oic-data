@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2022-0133</td><td>2022-02-18</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Additional Protocol to the Agreement between the Government of Canada and the Government of the United States of America for Cooperation in the Examination of Refugee Status Claims from Nationals of Third Countries</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the ADDITIONAL PROTOCOL TO THE AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR COOPERATION IN THE EXAMINATION OF REFUGEE STATUS CLAIMS FROM NATIONALS OF THIRD COUNTRIES; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43439&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2022-0133",
+  "date": "2022-02-18",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Additional Protocol to the Agreement between the Government of Canada and the Government of the United States of America for Cooperation in the Examination of Refugee Status Claims from Nationals of Third Countries",
+  "precis": "Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the ADDITIONAL PROTOCOL TO THE AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA FOR COOPERATION IN THE EXAMINATION OF REFUGEE STATUS CLAIMS FROM NATIONALS OF THIRD COUNTRIES; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43439"
+  ],
+  "htmlHash": "2cb61ef224071b1d2bf8a3e6fb08f3a9"
+}
