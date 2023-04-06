@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0322</td><td>2023-03-31</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing the Financial Year of VIA HFR - VIA TGF Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that the financial year of VIA HFR - VIA TGF INC. begin on April 1 in one year and end on March 31 in the following year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43481&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0322",
+  "date": "2023-03-31",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Financial Administration Act",
+  "subject": "Order Directing the Financial Year of VIA HFR - VIA TGF Inc.",
+  "precis": "Order directing that the financial year of VIA HFR - VIA TGF INC. begin on April 1 in one year and end on March 31 in the following year.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43481"
+  ],
+  "htmlHash": "be0dfe227137fe6b9e93b7c2ebe27e06"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0316</td><td>2023-03-31</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the United Nations Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE UNITED NATIONS ACT (MISCELLANEOUS PROGRAM) in order to (1) address changes requested by the Standing Joint Committee for the Scrutiny of Regulations; and (2) correct miscellaneous errors identified by Global Affairs Canada in six Regulations relating to typographical or grammatical errors, ambiguity, consistency in English and French text, redundant provisions, duplications, renumbering provisions, and consistency across the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0070  <strong>Publication Date:</strong> 2023-04-12</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43475&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0316",
+  "date": "2023-03-31",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "United Nations Act",
+  "subject": "Regulations Amending Certain Regulations Made Under the United Nations Act (Miscellaneous Program)",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE UNITED NATIONS ACT (MISCELLANEOUS PROGRAM) in order to (1) address changes requested by the Standing Joint Committee for the Scrutiny of Regulations; and (2) correct miscellaneous errors identified by Global Affairs Canada in six Regulations relating to typographical or grammatical errors, ambiguity, consistency in English and French text, redundant provisions, duplications, renumbering provisions, and consistency across the Regulations.",
+  "registration": "Registration: SOR/ 2023-0070  Publication Date: 2023-04-12",
+  "registration_type": "SOR",
+  "registration_id": "2023-0070",
+  "registration_publication_date": "2023-04-12",
+  "attachments": [
+    "43475"
+  ],
+  "htmlHash": "6113857bc0086e6468c1d82f2f223943"
+}

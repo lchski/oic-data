@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0321</td><td>2023-03-31</td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Appointing Ernst &amp; Young LLP as the Auditor and the Auditor General of Canada as Joint Auditor of the Canada Post Corporation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing (1) ERNST &amp; YOUNG LLP as AUDITOR; and (2) the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the Canada Post Corporation for the fiscal year ending on December 31, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43480&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0321",
+  "date": "2023-03-31",
+  "chapter": "",
+  "bill": "",
+  "department": "PSPC",
+  "act": "Financial Administration Act",
+  "subject": "Order Appointing Ernst & Young LLP as the Auditor and the Auditor General of Canada as Joint Auditor of the Canada Post Corporation",
+  "precis": "Order appointing (1) ERNST & YOUNG LLP as AUDITOR; and (2) the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the Canada Post Corporation for the fiscal year ending on December 31, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43480"
+  ],
+  "htmlHash": "fb51fb7bd300852888a46bb4ac88ef2b"
+}

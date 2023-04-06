@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0308</td><td>2023-03-31</td><td></td><td></td><td>ESDC, HC</td></tr><tr><td>Act</td><td colspan=\"5\">Order in Council P.C. 2007-281 of March 2, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of SAMIR KUMAR SINHA of Toronto, Ontario, as a member of the National Seniors Council, to hold office during pleasure for a term of two years, effective April 1, 2023</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43467&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0308",
+  "date": "2023-03-31",
+  "chapter": "",
+  "bill": "",
+  "department": "ESDC, HC",
+  "act": "Order in Council P.C. 2007-281 of March 2, 2007",
+  "subject": "",
+  "precis": "Re-appointment of SAMIR KUMAR SINHA of Toronto, Ontario, as a member of the National Seniors Council, to hold office during pleasure for a term of two years, effective April 1, 2023",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43467"
+  ],
+  "htmlHash": "e7f2e02e58132c8575ad0f522583b85b"
+}
