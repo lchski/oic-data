@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0324</td><td>2023-04-05</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Establishing the Mandate of the Independent Special Rapporteur on Foreign Interference</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order establishing the MANDATE of the INDEPENDENT SPECIAL RAPPORTEUR ON FOREIGN INTERFERENCE in order to outline the duties and manner in which the Independent Special Rapporteur on Foreign Interference will provide independent advice to the Prime Minister and make expert recommendations on how to further protect our democracy and uphold Canadians’ confidence.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43487&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0324",
+  "date": "2023-04-05",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Employment Act",
+  "subject": "Order Establishing the Mandate of the Independent Special Rapporteur on Foreign Interference",
+  "precis": "Order establishing the MANDATE of the INDEPENDENT SPECIAL RAPPORTEUR ON FOREIGN INTERFERENCE in order to outline the duties and manner in which the Independent Special Rapporteur on Foreign Interference will provide independent advice to the Prime Minister and make expert recommendations on how to further protect our democracy and uphold Canadians’ confidence.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43487"
+  ],
+  "htmlHash": "89b211bc440ae5ec90f64efc893c9d9a"
+}
