@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0330</td><td>2023-04-19</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Environmental Assessment Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Deciding that the Environmental Effects of the Proposed Roberts Bank Terminal 2 Project are Justified</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order deciding that the significant adverse environmental effects that are likely to be caused by the ROBERTS BANK TERMINAL 2 PROJECT, proposed by Vancouver Fraser Port Authority, are justified in the circumstances.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43502&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0330",
+  "date": "2023-04-19",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Canadian Environmental Assessment Act, 2012",
+  "subject": "Order Deciding that the Environmental Effects of the Proposed Roberts Bank Terminal 2 Project are Justified",
+  "precis": "Order deciding that the significant adverse environmental effects that are likely to be caused by the ROBERTS BANK TERMINAL 2 PROJECT, proposed by Vancouver Fraser Port Authority, are justified in the circumstances.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43502"
+  ],
+  "htmlHash": "7cc1994d2bf4baee0eb30ea3578d43b4"
+}
