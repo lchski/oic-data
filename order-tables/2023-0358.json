@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0358</td><td>2023-04-20</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order forming a single merged entity operating under the name Canadian North</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order varying the Terms and Conditions set out in the annexed schedule to Order in Council 2019-805, which authorized the acquisition and merger of Canadian North Inc. by Bradley Air Services (doing business as First Air) in order to form a single merged entity, operating under the name Canadian North.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43507&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0358",
+  "date": "2023-04-20",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Canada Transportation Act",
+  "subject": "Order forming a single merged entity operating under the name Canadian North",
+  "precis": "Order varying the Terms and Conditions set out in the annexed schedule to Order in Council 2019-805, which authorized the acquisition and merger of Canadian North Inc. by Bradley Air Services (doing business as First Air) in order to form a single merged entity, operating under the name Canadian North.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43507"
+  ],
+  "htmlHash": "a60d5f730e4604d1d115b9a4e14068bb"
+}
