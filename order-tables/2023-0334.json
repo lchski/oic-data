@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0334</td><td>2023-04-21</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of LEAH ANDERSON of Ottawa, Ontario, as President and Chief Executive Officer of the Canada Deposit Insurance Corporation, to hold office during pleasure for a term of five years, effective August 16, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43503&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0334",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Financial Administration Act",
+  "subject": "",
+  "precis": "Re-appointment of LEAH ANDERSON of Ottawa, Ontario, as President and Chief Executive Officer of the Canada Deposit Insurance Corporation, to hold office during pleasure for a term of five years, effective August 16, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43503"
+  ],
+  "htmlHash": "90151ddbebbd7b198f701bd77ef4c151"
+}

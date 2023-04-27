@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0360</td><td>2023-04-21</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order fixing the date of the coming to force of certain provisions of the Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the 60th day after the day on which this Order is published in the Canada Gazette, Part II, as the day on which sections 486, 502, 523, 527 and 528 of the BUDGET IMPLEMENTATION ACT, 2018, COME INTO FORCE in order to (1) modernize federal labour standards related to the recovery of unpaid work-related expenses; and (2) clarify employees’ conditions of employment in the federally regulated private sector.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ </td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43532&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0360",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Budget Implementation Act, 2018, No. 2",
+  "subject": "Order fixing the date of the coming to force of certain provisions of the Budget Implementation Act, 2018, No. 2",
+  "precis": "Order fixing the 60th day after the day on which this Order is published in the Canada Gazette, Part II, as the day on which sections 486, 502, 523, 527 and 528 of the BUDGET IMPLEMENTATION ACT, 2018, COME INTO FORCE in order to (1) modernize federal labour standards related to the recovery of unpaid work-related expenses; and (2) clarify employees’ conditions of employment in the federally regulated private sector.",
+  "registration": "Registration: SI/ ",
+  "registration_type": "SI",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43532"
+  ],
+  "htmlHash": "ba2704034fa7cf26062d68219dd6810b"
+}

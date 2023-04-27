@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0341</td><td>2023-04-21</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Marine Liability Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of CHIAMAKA OBIAGELI MOGO of Calgary, Alberta, to be the Deputy Administrator of the Ship-source Oil Pollution Fund, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43514&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0341",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Marine Liability Act",
+  "subject": "",
+  "precis": "Appointment of CHIAMAKA OBIAGELI MOGO of Calgary, Alberta, to be the Deputy Administrator of the Ship-source Oil Pollution Fund, to hold office during good behaviour for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43514"
+  ],
+  "htmlHash": "33a542b5c23bc9248fe82ee55f9defa2"
+}

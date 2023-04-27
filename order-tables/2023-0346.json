@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0346</td><td>2023-04-21</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Appropriation Act No. 1, 2017-18</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of HANS KARL JANZ JANZEN to be Honorary Consul of Canada in Asunción, Republic of Paraguay, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43519&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0346",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Appropriation Act No. 1, 2017-18",
+  "subject": "",
+  "precis": "Appointment of HANS KARL JANZ JANZEN to be Honorary Consul of Canada in Asunción, Republic of Paraguay, for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43519"
+  ],
+  "htmlHash": "b5be4bf9c0387e0c18c5eff41f68d001"
+}

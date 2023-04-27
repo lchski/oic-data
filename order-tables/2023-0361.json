@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0361</td><td>2023-04-21</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Labour Code</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Regulations Made Under the Canada Labour Code</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to (1) require employers to reimburse their employees for work-related expenses within 30 days of an employee submitting a claim for payment, where there is no written agreement setting out an alternative time limit; (2) prescribe the factors to consider in determining if an expense is or is not work-related; (3) prescribe the factors to consider in determining if an expense is or is not reasonable; (4) prescribe what information should be provided in the written employment statement; and (5) designate new provisions under the Code relating to employer and employee rights and obligations for the purposes of administrative monetary penalties.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0079  <strong>Publication Date:</strong> 2023-05-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43533&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0361",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Canada Labour Code",
+  "subject": "Regulations Amending Certain Regulations Made Under the Canada Labour Code",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA LABOUR CODE in order to (1) require employers to reimburse their employees for work-related expenses within 30 days of an employee submitting a claim for payment, where there is no written agreement setting out an alternative time limit; (2) prescribe the factors to consider in determining if an expense is or is not work-related; (3) prescribe the factors to consider in determining if an expense is or is not reasonable; (4) prescribe what information should be provided in the written employment statement; and (5) designate new provisions under the Code relating to employer and employee rights and obligations for the purposes of administrative monetary penalties.",
+  "registration": "Registration: SOR/ 2023-0079  Publication Date: 2023-05-10",
+  "registration_type": "SOR",
+  "registration_id": "2023-0079",
+  "registration_publication_date": "2023-05-10",
+  "attachments": [
+    "43533"
+  ],
+  "htmlHash": "1c0044bee31e9dfbfe7f51e9d11b872a"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0363</td><td>2023-04-21</td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Proclamation Amending the Chicken Farmers of Canada Proclamation</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION do issue AMENDING THE CHICKEN FARMERS OF CANADA PROCLAMATION in order to (1) remove section 9 of the Proclamation as it is beyond the powers of the Act; (2) provide a timeframe for payment in the marketing plan as prescribed in section 36 of the Act; (3) amend certain definitions; and (4) update the names of the Commodity Boards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0080  <strong>Publication Date:</strong> 2023-05-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43535&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0363",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "AAFC",
+  "act": "Farm Products Agencies Act",
+  "subject": "Proclamation Amending the Chicken Farmers of Canada Proclamation",
+  "precis": "Order directing that a PROCLAMATION do issue AMENDING THE CHICKEN FARMERS OF CANADA PROCLAMATION in order to (1) remove section 9 of the Proclamation as it is beyond the powers of the Act; (2) provide a timeframe for payment in the marketing plan as prescribed in section 36 of the Act; (3) amend certain definitions; and (4) update the names of the Commodity Boards.",
+  "registration": "Registration: SOR/ 2023-0080  Publication Date: 2023-05-10",
+  "registration_type": "SOR",
+  "registration_id": "2023-0080",
+  "registration_publication_date": "2023-05-10",
+  "attachments": [
+    "43535"
+  ],
+  "htmlHash": "0e298d5f68b3fe3dd2bd28247eff386f"
+}

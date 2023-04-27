@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0370</td><td>2023-04-21</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Transfer to PMG Technologies Inc. of the use of Certain Movable Public Properties</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2022-1155 of October 20, 2022; and (2) authorizing the Minister of Transport to TRANSFER to PMG TECHNOLOGIES INC. the use of certain movable public properties listed in or contemplated by contract T8127-200020/001/MTP made by the Minister of Public Works and Government Services, pertaining to the operation and maintenance of the Motor Vehicle Test Centre at Blainville, Quebec, for the period beginning on July 1, 2023 and ending on March 31, 2038.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43542&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0370",
+  "date": "2023-04-21",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Financial Administration Act",
+  "subject": "Order Authorizing the Transfer to PMG Technologies Inc. of the use of Certain Movable Public Properties",
+  "precis": "Order (1) repealing Order in Council P.C. 2022-1155 of October 20, 2022; and (2) authorizing the Minister of Transport to TRANSFER to PMG TECHNOLOGIES INC. the use of certain movable public properties listed in or contemplated by contract T8127-200020/001/MTP made by the Minister of Public Works and Government Services, pertaining to the operation and maintenance of the Motor Vehicle Test Centre at Blainville, Quebec, for the period beginning on July 1, 2023 and ending on March 31, 2038.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43542"
+  ],
+  "htmlHash": "42fd736598bb7503fd8a177b2b2faefb"
+}
