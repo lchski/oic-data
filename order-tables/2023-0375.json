@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0375</td><td>2023-04-28</td><td></td><td></td><td>JUS, TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Justice to Provide Gifts Recognizing or Honouring First Nations, Inuit and Métis</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Justice to transfer public property in the form of nominal non-monetary GIFTS to a FIRST NATION, INUIT OR MÉTIS RECIPIENT, not to exceed a value of $500 without the approval of the deputy head, in order to recognize or honour the collaborative efforts made by the recipient’s community with respect to Indigenous ceremonies and other collaborative events or activities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43547&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0375",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS, TB",
+  "act": "Financial Administration Act",
+  "subject": "Order Authorizing the Minister of Justice to Provide Gifts Recognizing or Honouring First Nations, Inuit and Métis",
+  "precis": "Order authorizing the Minister of Justice to transfer public property in the form of nominal non-monetary GIFTS to a FIRST NATION, INUIT OR MÉTIS RECIPIENT, not to exceed a value of $500 without the approval of the deputy head, in order to recognize or honour the collaborative efforts made by the recipient’s community with respect to Indigenous ceremonies and other collaborative events or activities.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43547"
+  ],
+  "htmlHash": "986d215339edbea50702a8659554bc9a"
+}

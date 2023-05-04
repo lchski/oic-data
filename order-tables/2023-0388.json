@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0388</td><td>2023-04-28</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Transportation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of STEVE D. ANDERSON of Shelburne, Ontario, to be the Deputy Administrator of the Fund for Railway Accidents Involving Designated Goods, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43560&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0388",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "Canada Transportation Act",
+  "subject": "",
+  "precis": "Appointment of STEVE D. ANDERSON of Shelburne, Ontario, to be the Deputy Administrator of the Fund for Railway Accidents Involving Designated Goods, to hold office during good behaviour for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43560"
+  ],
+  "htmlHash": "01d1303842674a8e64d5e1a04aff80b3"
+}

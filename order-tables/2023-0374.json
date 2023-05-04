@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0374</td><td>2023-04-28</td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Government Contracts Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the GOVERNMENT CONTRACTS REGULATIONS in order to (1) remove the legal requirement for the Treasury Board (TB) to approve the timing and amounts of advance payments where TB approval for contract entry is required; (2) remove the general provisions regarding entry into a contract that provide for the making of advance and progress payments; (3) replace the title of \"Commissioner of the Communications Security Establishment\" with \"Intelligence Commissioner\"; and (4) exclude service contracts for expert advice or testimony for the purpose of informing or advancing His Majesty's legal position from the requirements to solicit bids.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0082  <strong>Publication Date:</strong> 2023-05-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43546&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0374",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "TBS",
+  "act": "Financial Administration Act",
+  "subject": "Regulations Amending the Government Contracts Regulations",
+  "precis": "Regulations Amending the GOVERNMENT CONTRACTS REGULATIONS in order to (1) remove the legal requirement for the Treasury Board (TB) to approve the timing and amounts of advance payments where TB approval for contract entry is required; (2) remove the general provisions regarding entry into a contract that provide for the making of advance and progress payments; (3) replace the title of \"Commissioner of the Communications Security Establishment\" with \"Intelligence Commissioner\"; and (4) exclude service contracts for expert advice or testimony for the purpose of informing or advancing His Majesty's legal position from the requirements to solicit bids.",
+  "registration": "Registration: SOR/ 2023-0082  Publication Date: 2023-05-10",
+  "registration_type": "SOR",
+  "registration_id": "2023-0082",
+  "registration_publication_date": "2023-05-10",
+  "attachments": [
+    "43546"
+  ],
+  "htmlHash": "05ca168813962c53f4896ca5387fb627"
+}

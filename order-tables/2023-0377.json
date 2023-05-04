@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0377</td><td>2023-04-28</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 252, British Columbia</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 252 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to BRITISH COLUMBIA with respect to the interface fires that occurred from June 30 to September 27, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0377",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Emergency Management Act",
+  "subject": "Provincial Emergency Financial Assistance Order No. 252, British Columbia",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 252 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to BRITISH COLUMBIA with respect to the interface fires that occurred from June 30 to September 27, 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43549"
+  ],
+  "htmlHash": "1b73b3d88ed7da0f1268f0962dcfcab5"
+}

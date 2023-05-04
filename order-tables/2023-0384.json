@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0384</td><td>2023-04-28</td><td></td><td></td><td>PWGSC</td></tr><tr><td>Act</td><td colspan=\"5\">National Capital Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Public Works and Government Services of CATHERINE (CATHY) HELEN LEWIS of Ottawa, Ontario, to be a member of the Board of Directors of the National Capital Commission, to hold office during pleasure for a term of four years, in the place of Sara Jane O'Neill, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43556&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0384",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "PWGSC",
+  "act": "National Capital Act",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Public Works and Government Services of CATHERINE (CATHY) HELEN LEWIS of Ottawa, Ontario, to be a member of the Board of Directors of the National Capital Commission, to hold office during pleasure for a term of four years, in the place of Sara Jane O'Neill, whose term has expired.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43556"
+  ],
+  "htmlHash": "e8ad7881cedabeacbc430b741412b379"
+}

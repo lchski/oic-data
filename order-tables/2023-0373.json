@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0373</td><td>2023-04-28</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Tax Court of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Associate Judges (Tax Court of Canada) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ASSOCIATE JUDGES (TAX COURT OF CANADA) REGULATIONS in order to (1) establish that two associate judges may be appointed to the Tax Court of Canada; and (2) establish that the workload of a supernumerary associate judge is at least 50% of the workload of a non-supernumerary judge.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0084  <strong>Publication Date:</strong> 2023-05-10</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43545&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0373",
+  "date": "2023-04-28",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Tax Court of Canada Act",
+  "subject": "Associate Judges (Tax Court of Canada) Regulations",
+  "precis": "ASSOCIATE JUDGES (TAX COURT OF CANADA) REGULATIONS in order to (1) establish that two associate judges may be appointed to the Tax Court of Canada; and (2) establish that the workload of a supernumerary associate judge is at least 50% of the workload of a non-supernumerary judge.",
+  "registration": "Registration: SOR/ 2023-0084  Publication Date: 2023-05-10",
+  "registration_type": "SOR",
+  "registration_id": "2023-0084",
+  "registration_publication_date": "2023-05-10",
+  "attachments": [
+    "43545"
+  ],
+  "htmlHash": "1952e7f57c757ae895e87e48d67213a1"
+}
