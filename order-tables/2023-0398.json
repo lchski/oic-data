@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0398</td><td>2023-05-04</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order terminating the appointment of YASIR NAQVI as Parliamentary Secretary to the President of the King's Privy Council made by Order in Council P.C. 2022-1299 of December 1, 2022, effective March 14, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43578&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0398",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Parliament of Canada Act",
+  "subject": "",
+  "precis": "Order terminating the appointment of YASIR NAQVI as Parliamentary Secretary to the President of the King's Privy Council made by Order in Council P.C. 2022-1299 of December 1, 2022, effective March 14, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43578"
+  ],
+  "htmlHash": "d9d57b44ac18828085b515d41b6b3f06"
+}

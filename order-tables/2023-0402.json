@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0402</td><td>2023-05-04</td><td></td><td></td><td>ISI</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Business Corporations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Business Corporations Regulations, 2001</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA BUSINESS CORPORATIONS REGULATIONS, 2001 in order to (1) exempt certain classes of corporations from having to create and maintain a register of individuals with significant control (ISCs); (2) specify that annually updating the ISC register includes sending a notice to registered shareholders, any known ISCs, and any other person that the corporation has reasonable cause to believe would have relevant knowledge in order to request information on known ISCs; and (3) specify that if a corporation is unable to identify an ISC of a corporation, the corporation will set out a statement to that effect and a summary of the steps taken to try to identify the corporation’s ISCs in its ISC register.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0088  <strong>Publication Date:</strong> 2023-05-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0402",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "ISI",
+  "act": "Canada Business Corporations Act",
+  "subject": "Regulations Amending the Canada Business Corporations Regulations, 2001",
+  "precis": "Regulations Amending the CANADA BUSINESS CORPORATIONS REGULATIONS, 2001 in order to (1) exempt certain classes of corporations from having to create and maintain a register of individuals with significant control (ISCs); (2) specify that annually updating the ISC register includes sending a notice to registered shareholders, any known ISCs, and any other person that the corporation has reasonable cause to believe would have relevant knowledge in order to request information on known ISCs; and (3) specify that if a corporation is unable to identify an ISC of a corporation, the corporation will set out a statement to that effect and a summary of the steps taken to try to identify the corporation’s ISCs in its ISC register.",
+  "registration": "Registration: SOR/ 2023-0088  Publication Date: 2023-05-24",
+  "registration_type": "SOR",
+  "registration_id": "2023-0088",
+  "registration_publication_date": "2023-05-24",
+  "attachments": [
+    "43593"
+  ],
+  "htmlHash": "e7cbc3ebfa908ac99da5065040fe5d71"
+}

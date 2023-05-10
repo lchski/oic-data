@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0399</td><td>2023-05-04</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order directing that a proclamation be issued fixing the day for the celebration in Canada of the birthday of the Sovereign to be Victoria Day</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION be issued fixing the day for the celebration in Canada of the BIRTHDAY OF THE SOVEREIGN to be Victoria Day.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43596&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0399",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order directing that a proclamation be issued fixing the day for the celebration in Canada of the birthday of the Sovereign to be Victoria Day",
+  "precis": "Order directing that a PROCLAMATION be issued fixing the day for the celebration in Canada of the BIRTHDAY OF THE SOVEREIGN to be Victoria Day.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43596"
+  ],
+  "htmlHash": "467d54c6c35e35640cde2ff5bd32daf4"
+}

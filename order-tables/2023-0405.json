@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0405</td><td>2023-05-04</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"5\">United States Enforcement Officers Exemption Order, 2023 (Multi-modal Transportation of Firearms)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order making the UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER, 2023 (MULTI-MODAL TRANSPORTATION OF FIREARMS) in order to allow for United States Border Patrol and National Park Service officers to transit through the Waterton Lakes National Park (Alberta) and the E.C. Manning Provincial Park (British Columbia) with their duty firearms.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43590&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0405",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Firearms Act",
+  "subject": "United States Enforcement Officers Exemption Order, 2023 (Multi-modal Transportation of Firearms)",
+  "precis": "Order making the UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER, 2023 (MULTI-MODAL TRANSPORTATION OF FIREARMS) in order to allow for United States Border Patrol and National Park Service officers to transit through the Waterton Lakes National Park (Alberta) and the E.C. Manning Provincial Park (British Columbia) with their duty firearms.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43590"
+  ],
+  "htmlHash": "44fb99f3604609d54c8aac89514316b1"
+}

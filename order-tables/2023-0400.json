@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0400</td><td>2023-05-04</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order authorizing the Minister of Foreign Affairs to bring into force for Canada the Convention Abolishing the Requirement of Legalisation for Foreign Public Documents</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to BRING INTO FORCE for Canada the CONVENTION ABOLISHING THE REQUIREMENT OF LEGALISATION FOR FOREIGN PUBLIC DOCUMENTS.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43595&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0400",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order authorizing the Minister of Foreign Affairs to bring into force for Canada the Convention Abolishing the Requirement of Legalisation for Foreign Public Documents",
+  "precis": "Order authorizing the Minister of Foreign Affairs to BRING INTO FORCE for Canada the CONVENTION ABOLISHING THE REQUIREMENT OF LEGALISATION FOR FOREIGN PUBLIC DOCUMENTS.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43595"
+  ],
+  "htmlHash": "f845808433a417fae84b678c6800740a"
+}

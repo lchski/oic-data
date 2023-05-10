@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0410</td><td>2023-05-04</td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Council for the Arts Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MICHELLE CHAWLA, of Ottawa, Ontario, to be Director of the Canada Council for the Arts to hold office during pleasure for a term of five years, effective June 26, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43582&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0410",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "PCH",
+  "act": "Canada Council for the Arts Act",
+  "subject": "",
+  "precis": "Appointment of MICHELLE CHAWLA, of Ottawa, Ontario, to be Director of the Canada Council for the Arts to hold office during pleasure for a term of five years, effective June 26, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43582"
+  ],
+  "htmlHash": "f1aa7def106404b6dcc2a808d4d2daa3"
+}

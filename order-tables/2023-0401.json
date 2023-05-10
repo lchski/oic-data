@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0401</td><td>2023-05-04</td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Agricultural Marketing Programs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Agricultural Marketing Programs Regulations (2023)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the AGRICULTURAL MARKETING PROGRAMS REGULATIONS in order to temporarily increase the interest-free loan limit under the Advance Payments Program to $350,000 for all eligible agricultural producers for the 2023 program year.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0080  <strong>Publication Date:</strong> 2023-05-24</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43594&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0401",
+  "date": "2023-05-04",
+  "chapter": "",
+  "bill": "",
+  "department": "AAFC",
+  "act": "Agricultural Marketing Programs Act",
+  "subject": "Regulations Amending the Agricultural Marketing Programs Regulations (2023)",
+  "precis": "Regulations Amending the AGRICULTURAL MARKETING PROGRAMS REGULATIONS in order to temporarily increase the interest-free loan limit under the Advance Payments Program to $350,000 for all eligible agricultural producers for the 2023 program year.",
+  "registration": "Registration: SOR/ 2023-0080  Publication Date: 2023-05-24",
+  "registration_type": "SOR",
+  "registration_id": "2023-0080",
+  "registration_publication_date": "2023-05-24",
+  "attachments": [
+    "43594"
+  ],
+  "htmlHash": "bd6cf183c634d0acf767f05312622d28"
+}
