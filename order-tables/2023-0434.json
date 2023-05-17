@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0434</td><td>2023-05-11</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DEVON BARNHART to be Honorary Consul of Canada in Richmond, Virginia, United States of America, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43621&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0434",
+  "date": "2023-05-11",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of DEVON BARNHART to be Honorary Consul of Canada in Richmond, Virginia, United States of America, for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43621"
+  ],
+  "htmlHash": "aefd71816223e02fb06ac20c0cb8fc55"
+}
