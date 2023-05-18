@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0443</td><td>2023-05-12</td><td></td><td></td><td>PCO</td></tr><tr><td>Subject</td><td colspan=\"5\">By-election - Oxford</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a WRIT OF ELECTION do issue in order to fill the vacancy in the House of Commons for the electoral district of Oxford (Ontario), with polling to take place on June 19, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43631&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0443",
+  "date": "2023-05-12",
+  "chapter": "",
+  "bill": "",
+  "department": "PCO",
+  "act": "",
+  "subject": "By-election - Oxford",
+  "precis": "Order directing that a WRIT OF ELECTION do issue in order to fill the vacancy in the House of Commons for the electoral district of Oxford (Ontario), with polling to take place on June 19, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43631"
+  ],
+  "htmlHash": "e79467891a2264caa4f15b712109a6da"
+}

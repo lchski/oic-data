@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0436</td><td>2023-05-12</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order directing that a proclamation be issued requesting observance of the first Friday in June of every year as a National Day Against Gun Violence</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION be issued requesting that the people of Canada observe the first Friday in June of every year as a NATIONAL DAY AGAINST DUN VIOLENCE</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43625&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0436",
+  "date": "2023-05-12",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order directing that a proclamation be issued requesting observance of the first Friday in June of every year as a National Day Against Gun Violence",
+  "precis": "Order directing that a PROCLAMATION be issued requesting that the people of Canada observe the first Friday in June of every year as a NATIONAL DAY AGAINST DUN VIOLENCE",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43625"
+  ],
+  "htmlHash": "76cf38236d1f3c77ec37249172a7c757"
+}
