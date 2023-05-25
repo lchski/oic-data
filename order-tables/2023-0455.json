@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0455</td><td>2023-05-18</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Pest Control Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Pest Control Products Regulations (Exclusive Rights and Compensable Data)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PEST CONTROL PRODUCTS REGULATIONS (EXCLUSIVE RIGHTS AND COMPENSABLE DATA) in order to (1) clarify the data protection provisions for re-evaluations and special reviews; (2) clarify what data is subject to compensation; (3) clarify the documentation required when registrants wish to rely on existing data to support their application; (4) clarify that the Minister of Health can make available a single list of test data, instead of lists for each registrant, at the end of the re-evaluation or special review; (5) allow compensation payable for exclusive rights status data; (6) clarify when to initiate negotiations and binding arbitration; and (7) include provisions that provide a clear transition from the current regulations to the amendments when they come into force.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0104  <strong>Publication Date:</strong> 2023-06-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0455",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Pest Control Products Act",
+  "subject": "Regulations Amending the Pest Control Products Regulations (Exclusive Rights and Compensable Data)",
+  "precis": "Regulations Amending the PEST CONTROL PRODUCTS REGULATIONS (EXCLUSIVE RIGHTS AND COMPENSABLE DATA) in order to (1) clarify the data protection provisions for re-evaluations and special reviews; (2) clarify what data is subject to compensation; (3) clarify the documentation required when registrants wish to rely on existing data to support their application; (4) clarify that the Minister of Health can make available a single list of test data, instead of lists for each registrant, at the end of the re-evaluation or special review; (5) allow compensation payable for exclusive rights status data; (6) clarify when to initiate negotiations and binding arbitration; and (7) include provisions that provide a clear transition from the current regulations to the amendments when they come into force.",
+  "registration": "Registration: SOR/ 2023-0104  Publication Date: 2023-06-07",
+  "registration_type": "SOR",
+  "registration_id": "2023-0104",
+  "registration_publication_date": "2023-06-07",
+  "attachments": [
+    "43644"
+  ],
+  "htmlHash": "2473bc54c33a8b16f4cc325d9a6ce57b"
+}

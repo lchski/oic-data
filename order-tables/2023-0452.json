@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0452</td><td>2023-05-18</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Carriages and Strollers Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CARRIAGES AND STROLLERS REGULATIONS in order to (1) align with the mechanical requirements in other jurisdictions through an ambulatory incorporation by reference of international standards, including a period during which stakeholders may meet the mechanical requirements of either the previous or new version of an international standard; (2) align surface coating materials requirements and toxicological requirements with the Toys Regulations; (3) align phthalates requirements with the Phthalates Regulations; (4) update and clarify terminology relating to information and warnings; and (5) align the information and warning requirements in other jurisdictions through an ambulatory incorporation by reference of international standards.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0101  <strong>Publication Date:</strong> 2023-06-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43641&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0452",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Canada Consumer Product Safety Act",
+  "subject": "Carriages and Strollers Regulations",
+  "precis": "CARRIAGES AND STROLLERS REGULATIONS in order to (1) align with the mechanical requirements in other jurisdictions through an ambulatory incorporation by reference of international standards, including a period during which stakeholders may meet the mechanical requirements of either the previous or new version of an international standard; (2) align surface coating materials requirements and toxicological requirements with the Toys Regulations; (3) align phthalates requirements with the Phthalates Regulations; (4) update and clarify terminology relating to information and warnings; and (5) align the information and warning requirements in other jurisdictions through an ambulatory incorporation by reference of international standards.",
+  "registration": "Registration: SOR/ 2023-0101  Publication Date: 2023-06-07",
+  "registration_type": "SOR",
+  "registration_id": "2023-0101",
+  "registration_publication_date": "2023-06-07",
+  "attachments": [
+    "43641"
+  ],
+  "htmlHash": "97f62bef2f194ace32e17eb9d067627b"
+}

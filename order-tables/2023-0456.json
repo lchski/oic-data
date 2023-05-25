@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0456</td><td>2023-05-18</td><td></td><td></td><td>TC, NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">Arctic Waters Pollution Prevention Act<br>Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of Transport Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN DEPARTMENT OF TRANSPORT REGULATIONS (MISCELLANEOUS PROGRAM) in order to make minor administrative and technical amendments to certain regulations, such as correcting discrepancies between English and French, improving the clarity of certain provisions, correcting ship classification names and adding one classification description, and removing a reference to a non-existent provision.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0105  <strong>Publication Date:</strong> 2023-06-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43645&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0456",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "TC, NRCAN",
+  "act": "Arctic Waters Pollution Prevention ActCanada Shipping Act, 2001",
+  "subject": "Regulations Amending Certain Department of Transport Regulations (Miscellaneous Program)",
+  "precis": "Regulations Amending CERTAIN DEPARTMENT OF TRANSPORT REGULATIONS (MISCELLANEOUS PROGRAM) in order to make minor administrative and technical amendments to certain regulations, such as correcting discrepancies between English and French, improving the clarity of certain provisions, correcting ship classification names and adding one classification description, and removing a reference to a non-existent provision.",
+  "registration": "Registration: SOR/ 2023-0105  Publication Date: 2023-06-07",
+  "registration_type": "SOR",
+  "registration_id": "2023-0105",
+  "registration_publication_date": "2023-06-07",
+  "attachments": [
+    "43645"
+  ],
+  "htmlHash": "5153ab37db68fbc6efe2fa25cae8c535"
+}

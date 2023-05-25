@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0448</td><td>2023-05-18</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Tobacco and Vaping Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Tobacco Products Regulations (Plain and Standardized Appearance)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the TOBACCO PRODUCTS REGULATIONS (PLAIN AND STANDARDIZED APPEARANCE) in order to (1) extend the display of health warnings and toxicity information to all tobacco product packages; (2) introduce a rotation scheme for all health-related messages; (3) introduce a mandatory display of health warnings directly on individual cigarettes, little cigars that have a filter, and tubes; (4) allow the use of ‘RS’ or ‘KS’ on cigarette packages as alternatives to ‘regular size’ or ‘king size’; and (5) consolidate all tobacco product labelling and packaging requirements in a single set of regulations.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0097  <strong>Publication Date:</strong> 2023-06-07</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0448",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Tobacco and Vaping Products Act",
+  "subject": "Regulations Amending the Tobacco Products Regulations (Plain and Standardized Appearance)",
+  "precis": "Regulations Amending the TOBACCO PRODUCTS REGULATIONS (PLAIN AND STANDARDIZED APPEARANCE) in order to (1) extend the display of health warnings and toxicity information to all tobacco product packages; (2) introduce a rotation scheme for all health-related messages; (3) introduce a mandatory display of health warnings directly on individual cigarettes, little cigars that have a filter, and tubes; (4) allow the use of ‘RS’ or ‘KS’ on cigarette packages as alternatives to ‘regular size’ or ‘king size’; and (5) consolidate all tobacco product labelling and packaging requirements in a single set of regulations.",
+  "registration": "Registration: SOR/ 2023-0097  Publication Date: 2023-06-07",
+  "registration_type": "SOR",
+  "registration_id": "2023-0097",
+  "registration_publication_date": "2023-06-07",
+  "attachments": [
+    "43637"
+  ],
+  "htmlHash": "4b967007fcba88a5e2949c7d942f8dfa"
+}

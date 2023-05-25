@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0457</td><td>2023-05-18</td><td></td><td></td><td>SNRS</td></tr><tr><td>Act</td><td colspan=\"5\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing that a Proclamation be Issued for the Coming into Force of the Agreement on Social Security between Canada and the Republic of Austria</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a PROCLAMATION be issued giving notice that the AGREEMENT ON SOCIAL SECURITY BETWEEN CANADA AND THE REPUBLIC OF AUSTRIA is in force as of July 1, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43646&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0457",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "SNRS",
+  "act": "Old Age Security Act",
+  "subject": "Order Directing that a Proclamation be Issued for the Coming into Force of the Agreement on Social Security between Canada and the Republic of Austria",
+  "precis": "Order directing that a PROCLAMATION be issued giving notice that the AGREEMENT ON SOCIAL SECURITY BETWEEN CANADA AND THE REPUBLIC OF AUSTRIA is in force as of July 1, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43646"
+  ],
+  "htmlHash": "3902a8e713cda78fb6b4ccde60bee98a"
+}

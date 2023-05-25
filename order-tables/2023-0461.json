@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0461</td><td>2023-05-18</td><td></td><td></td><td>WAGE</td></tr><tr><td>Act</td><td colspan=\"5\">Department for Women and Gender Equality Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Canada-Québec Agreement to Address Gender-Based Violence</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister for Women and Gender Equality ENTER INTO the CANADA–QUÉBEC AGREEMENT TO ADDRESS GENDER-BASED VIOLENCE with the government of Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43650&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0461",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "WAGE",
+  "act": "Department for Women and Gender Equality Act",
+  "subject": "Order Authorizing the Canada-Québec Agreement to Address Gender-Based Violence",
+  "precis": "Order approving that the Minister for Women and Gender Equality ENTER INTO the CANADA–QUÉBEC AGREEMENT TO ADDRESS GENDER-BASED VIOLENCE with the government of Quebec.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43650"
+  ],
+  "htmlHash": "5c920f628f9125ceb193596297b06f82"
+}

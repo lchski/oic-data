@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0460</td><td>2023-05-18</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Divorce Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Minister of Justice to Enter into an Agreement with the Government of Manitoba</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Justice, on behalf of the Government of Canada, to ENTER INTO AN AGREEMENT with the Government of MANITOBA in order to (1) designate the Manitoba Child Support Recalculation Service as a provincial child support service; and (2) authorize that service to recalculate child support amounts.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43649&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0460",
+  "date": "2023-05-18",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Divorce Act",
+  "subject": "Order Authorizing the Minister of Justice to Enter into an Agreement with the Government of Manitoba",
+  "precis": "Order authorizing the Minister of Justice, on behalf of the Government of Canada, to ENTER INTO AN AGREEMENT with the Government of MANITOBA in order to (1) designate the Manitoba Child Support Recalculation Service as a provincial child support service; and (2) authorize that service to recalculate child support amounts.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43649"
+  ],
+  "htmlHash": "f16d87fec674f0181330433ce8a7ef97"
+}
