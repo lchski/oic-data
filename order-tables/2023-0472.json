@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0472</td><td>2023-05-29</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2023-107, dated February 9, 2023, by removing “and COVID Recovery” after the title “Deputy Secretary to the Cabinet (Emergency Preparedness)”, and adding before that title, “Deputy National Security and Intelligence Advisor to the Prime Minister and”, effective May 31, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43663&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0472",
+  "date": "2023-05-29",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Employment Act",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2023-107, dated February 9, 2023, by removing “and COVID Recovery” after the title “Deputy Secretary to the Cabinet (Emergency Preparedness)”, and adding before that title, “Deputy National Security and Intelligence Advisor to the Prime Minister and”, effective May 31, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43663"
+  ],
+  "htmlHash": "f8ebea7195f3c02c021e235fe5ad2cd4"
+}

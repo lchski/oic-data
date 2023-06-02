@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0473</td><td>2023-05-29</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Foreign Affairs, Trade and Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to P.C. 2022-10 dated January 4, 2022, by adding “to be concurrently Personal Representative of the Prime Minister for the G7 Summit” after the title “Associate Deputy Minister of Foreign Affairs”, effective May 31, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43664&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0473",
+  "date": "2023-05-29",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Department of Foreign Affairs, Trade and Development Act",
+  "subject": "",
+  "precis": "Amendment to P.C. 2022-10 dated January 4, 2022, by adding “to be concurrently Personal Representative of the Prime Minister for the G7 Summit” after the title “Associate Deputy Minister of Foreign Affairs”, effective May 31, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43664"
+  ],
+  "htmlHash": "33106a30069e322fa5cbf89c09a69887"
+}
