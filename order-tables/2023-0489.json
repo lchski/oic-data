@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0489</td><td>2023-05-31</td><td></td><td></td><td>PWGSC</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JAMES ROBERT KNOPP of Ottawa, Ontario, to be a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective September 4, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43679&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0489",
+  "date": "2023-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "PWGSC",
+  "act": "Federal Public Sector Labour Relations and Employment Board Act",
+  "subject": "",
+  "precis": "Appointment of JAMES ROBERT KNOPP of Ottawa, Ontario, to be a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective September 4, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43679"
+  ],
+  "htmlHash": "2935c6c0afb9d2531b9f5b7a4b0661d0"
+}
