@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0523</td><td>2023-06-01</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 2</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing February 1, 2024 as the Day on Which Certain Sections of the Budget Implementation Act, 2018, No. 2 Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing February 1, 2024  as the day on which sections 483, 485, and 522 of the BUDGET IMPLEMENTATION ACT, 2018, NO. 2 COME INTO FORCE in order to establish a graduated notice of individual termination of employment for employees in federally regulated workplaces based on their length of continuous employment.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43719&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0523",
+  "date": "2023-06-01",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Budget Implementation Act, 2018, No. 2",
+  "subject": "Order Fixing February 1, 2024 as the Day on Which Certain Sections of the Budget Implementation Act, 2018, No. 2 Come into Force",
+  "precis": "Order fixing February 1, 2024  as the day on which sections 483, 485, and 522 of the BUDGET IMPLEMENTATION ACT, 2018, NO. 2 COME INTO FORCE in order to establish a graduated notice of individual termination of employment for employees in federally regulated workplaces based on their length of continuous employment.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43719"
+  ],
+  "htmlHash": "6325503b32af1c878f1f8da51f126610"
+}

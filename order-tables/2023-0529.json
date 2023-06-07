@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0529</td><td>2023-06-01</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Exchange of Letters Constituting an Agreement Amending the Agreement for Co-operation Concerning Civil Uses of Atomic Energy between the Government of Canada and the Government of the United States of America</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the EXCHANGE OF LETTERS CONSTITUTING AN AGREEMENT AMENDING THE AGREEMENT FOR CO-OPERATION CONCERNING CIVIL USES OF ATOMIC ENERGY BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA, done at Washington on 15 June 1955, as amended; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43725&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0529",
+  "date": "2023-06-01",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Exchange of Letters Constituting an Agreement Amending the Agreement for Co-operation Concerning Civil Uses of Atomic Energy between the Government of Canada and the Government of the United States of America",
+  "precis": "Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the EXCHANGE OF LETTERS CONSTITUTING AN AGREEMENT AMENDING THE AGREEMENT FOR CO-OPERATION CONCERNING CIVIL USES OF ATOMIC ENERGY BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA, done at Washington on 15 June 1955, as amended; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43725"
+  ],
+  "htmlHash": "3aea49c7a35081b2352b31a09907131a"
+}
