@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0566</td><td>2023-06-08</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Ukraine Goods Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the UKRAINE GOODS REMISSION ORDER in order to remit customs duties paid or payable under the CUSTOMS TARIFF, as well as anti-dumping and countervailing duties paid or payable under the SPECIAL IMPORT MEASURES ACT, for all goods originating in Ukraine and imported into Canada, with the exception of over-access supply-managed products after June 9, 2023, unless these goods were already in transit to Canada on or before that date.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0121  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0566",
+  "date": "2023-06-08",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Customs Tariff",
+  "subject": "Order Amending the Ukraine Goods Remission Order",
+  "precis": "Order Amending the UKRAINE GOODS REMISSION ORDER in order to remit customs duties paid or payable under the CUSTOMS TARIFF, as well as anti-dumping and countervailing duties paid or payable under the SPECIAL IMPORT MEASURES ACT, for all goods originating in Ukraine and imported into Canada, with the exception of over-access supply-managed products after June 9, 2023, unless these goods were already in transit to Canada on or before that date.",
+  "registration": "Registration: SOR/ 2023-0121  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0121",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43763"
+  ],
+  "htmlHash": "4f6c13a3653ddbc9a250e3a739374f39"
+}

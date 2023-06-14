@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0536</td><td>2023-06-08</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Special Economic Measures (Ukraine) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (UKRAINE) REGULATIONS in order to add twenty-four (24) individuals and seventeen (17) entities to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0119  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43733&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0536",
+  "date": "2023-06-08",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Special Economic Measures Act",
+  "subject": "Regulations Amending the Special Economic Measures (Ukraine) Regulations",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (UKRAINE) REGULATIONS in order to add twenty-four (24) individuals and seventeen (17) entities to Schedule 1 of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
+  "registration": "Registration: SOR/ 2023-0119  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0119",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43733"
+  ],
+  "htmlHash": "485030f87d25e9ee1ac86ef66e85cd55"
+}

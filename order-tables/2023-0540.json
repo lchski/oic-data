@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0540</td><td>2023-06-08</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">National Security and Intelligence Committee of Parliamentarians and the National Security and Intelligence Review Agency - Access to Cabinet Confidential Documents</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that the NATIONAL SECURITY AND INTELLIGENCE COMMITTEE OF PARLIAMENTARIANS (Committee) and the NATIONAL SECURITY AND INTELLIGENCE REVIEW AGENCY (Agency) be granted access to cabinet confidential documents that comes into existence on or after November 4, 2015 and that were provided to the Independent Special Raporteur on Foreign Interference in relation to the preparetion of his First Report, dated May 23, 2023, in order to enable the Committee and the Agency to examine the documents and review the conclusions in the Report.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43737&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0540",
+  "date": "2023-06-08",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "National Security and Intelligence Committee of Parliamentarians and the National Security and Intelligence Review Agency - Access to Cabinet Confidential Documents",
+  "precis": "Order directing that the NATIONAL SECURITY AND INTELLIGENCE COMMITTEE OF PARLIAMENTARIANS (Committee) and the NATIONAL SECURITY AND INTELLIGENCE REVIEW AGENCY (Agency) be granted access to cabinet confidential documents that comes into existence on or after November 4, 2015 and that were provided to the Independent Special Raporteur on Foreign Interference in relation to the preparetion of his First Report, dated May 23, 2023, in order to enable the Committee and the Agency to examine the documents and review the conclusions in the Report.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43737"
+  ],
+  "htmlHash": "7bbf7d18cfe5e2b0a76c59993486947c"
+}

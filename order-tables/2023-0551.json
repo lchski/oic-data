@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0551</td><td>2023-06-08</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Respecting the Seizure of Property Situated in Canada (Volga-Dnepr Airlines or Volga-Dnepr Group)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing a seizure of the aircraft that is located at Lester B. Pearson International Airport (CYYZ) in Toronto and that is owned or that is held or controlled, directly or indirectly by Volga-Dnepr Airlines or Volga-Dnepr Group.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0120  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43748&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0551",
+  "date": "2023-06-08",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Special Economic Measures Act",
+  "subject": "Order Respecting the Seizure of Property Situated in Canada (Volga-Dnepr Airlines or Volga-Dnepr Group)",
+  "precis": "Order directing a seizure of the aircraft that is located at Lester B. Pearson International Airport (CYYZ) in Toronto and that is owned or that is held or controlled, directly or indirectly by Volga-Dnepr Airlines or Volga-Dnepr Group.",
+  "registration": "Registration: SOR/ 2023-0120  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0120",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43748"
+  ],
+  "htmlHash": "d14019e7616eab2b3c0da9e5342aacec"
+}
