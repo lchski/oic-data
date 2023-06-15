@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0552</td><td>2023-06-09</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Metal and Diamond Mining Effluent Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the METAL AND DIAMOND MINING EFFLUENT REGULATIONS in order to list four specific geographic areas in Schedule 2, designate them as tailings impoundment areas and authorize their destruction for the purpose of depositing deleterious substances.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0122  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43749&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0552",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Fisheries Act",
+  "subject": "Regulations Amending the Metal and Diamond Mining Effluent Regulations",
+  "precis": "Regulations Amending the METAL AND DIAMOND MINING EFFLUENT REGULATIONS in order to list four specific geographic areas in Schedule 2, designate them as tailings impoundment areas and authorize their destruction for the purpose of depositing deleterious substances.",
+  "registration": "Registration: SOR/ 2023-0122  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0122",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43749"
+  ],
+  "htmlHash": "62426e8007eb0e9747c3e863fe7627f5"
+}

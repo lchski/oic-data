@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0562</td><td>2023-06-09</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Decision of the Canada-European Union Joint Customs Cooperation Committee Concerning the Mutual Recognition of the Partners in Protection Programme of Canada and the Authorized Economic Operator Programme of the European Union</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the DECISION OF THE CANADA-EUROPEAN UNION JOINT CUSTOMS COOPERATION COMMITTEE CONCERNING THE MUTUAL RECOGNITION OF THE PARTNERS IN PROTECTION PROGRAMME OF CANADA AND THE AUTHORIZED ECONOMIC OPERATOR PROGRAMME OF THE EUROPEAN UNION, done at Brussels on October 28, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43759&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0562",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Decision of the Canada-European Union Joint Customs Cooperation Committee Concerning the Mutual Recognition of the Partners in Protection Programme of Canada and the Authorized Economic Operator Programme of the European Union",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the DECISION OF THE CANADA-EUROPEAN UNION JOINT CUSTOMS COOPERATION COMMITTEE CONCERNING THE MUTUAL RECOGNITION OF THE PARTNERS IN PROTECTION PROGRAMME OF CANADA AND THE AUTHORIZED ECONOMIC OPERATOR PROGRAMME OF THE EUROPEAN UNION, done at Brussels on October 28, 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43759"
+  ],
+  "htmlHash": "2a354d53e187c489c07b1ad38c6a6d66"
+}

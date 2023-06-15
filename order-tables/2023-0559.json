@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0559</td><td>2023-06-09</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">State Immunity Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Accepting the Recommendation Concerning the List of Foreign State Supporters of Terrorism on September 7, 2022</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting the recommendation that each of the foreign states set out on the LIST OF FOREIGN STATE SUPPORTERS OF TERRORISM on September 7, 2022 should remain set out on the list and that no other foreign state should be set out on the list.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43756&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0559",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "State Immunity Act",
+  "subject": "Order Accepting the Recommendation Concerning the List of Foreign State Supporters of Terrorism on September 7, 2022",
+  "precis": "Order accepting the recommendation that each of the foreign states set out on the LIST OF FOREIGN STATE SUPPORTERS OF TERRORISM on September 7, 2022 should remain set out on the list and that no other foreign state should be set out on the list.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43756"
+  ],
+  "htmlHash": "45f54557eb340ed1e655cd6d405ef130"
+}

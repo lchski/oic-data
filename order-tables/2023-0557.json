@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0557</td><td>2023-06-09</td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Seting Aside the Election held for the Kinonjeoshtegon First Nation,</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order SETTING ASIDE THE ELECTION held in Manitoba on September 27, 2021 of Rod Travers to the position of chief and Melanie Harper, Vicki Thomas, Tony Travers, and Dakotah Travers to the positions of councillors on the KINONJEOSHTEGON FIRST NATION BAND COUNCIL.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43754&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0557",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "ISC",
+  "act": "Indian Act",
+  "subject": "Order Seting Aside the Election held for the Kinonjeoshtegon First Nation,",
+  "precis": "Order SETTING ASIDE THE ELECTION held in Manitoba on September 27, 2021 of Rod Travers to the position of chief and Melanie Harper, Vicki Thomas, Tony Travers, and Dakotah Travers to the positions of councillors on the KINONJEOSHTEGON FIRST NATION BAND COUNCIL.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43754"
+  ],
+  "htmlHash": "fcd41969e2fcd96363e5c1dd80a81719"
+}

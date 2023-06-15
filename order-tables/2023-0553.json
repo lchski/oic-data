@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0553</td><td>2023-06-09</td><td></td><td></td><td>HC, MHA</td></tr><tr><td>Act</td><td colspan=\"5\">Tobacco and Vaping Products Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Vaping Products Reporting Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">VAPING PRODUCTS REPORTING REGULATIONS in order to require manufacturers of vaping products to provide Health Canada with information on their vaping product sales and ingredients.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0123  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43750&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0553",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "HC, MHA",
+  "act": "Tobacco and Vaping Products Act",
+  "subject": "Vaping Products Reporting Regulations",
+  "precis": "VAPING PRODUCTS REPORTING REGULATIONS in order to require manufacturers of vaping products to provide Health Canada with information on their vaping product sales and ingredients.",
+  "registration": "Registration: SOR/ 2023-0123  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0123",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43750"
+  ],
+  "htmlHash": "3f088bd696121de0a6f18b392d87ac65"
+}

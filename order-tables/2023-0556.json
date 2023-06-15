@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0556</td><td>2023-06-09</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Family Orders and Agreements Enforcement Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Release of Information for Family Orders and Agreements Enforcement Assistance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RELEASE OF INFORMATION FOR FAMILY ORDERS AND AGREEMENTS ENFORCEMENT ASSISTANCE REGULATIONS in order to (1) add newly defined terms; (2) add new entities that may submit an application; (3) list the names of the departments responsible for the federal information banks that will be searched and the information that will be searched; (4) specify which type of information will be released to which entities and under which circumstances and clarify that the Minister of Justice will be able to assist information bank directors in the conducting of a search; (5) remove the requirement for a provincial enforcement service to submit an affidavit; and (6) prescribe the information to be included in an application for the release of information form.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0125  <strong>Publication Date:</strong> 2023-06-21</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43753&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0556",
+  "date": "2023-06-09",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Family Orders and Agreements Enforcement Assistance Act",
+  "subject": "Release of Information for Family Orders and Agreements Enforcement Assistance Regulations",
+  "precis": "RELEASE OF INFORMATION FOR FAMILY ORDERS AND AGREEMENTS ENFORCEMENT ASSISTANCE REGULATIONS in order to (1) add newly defined terms; (2) add new entities that may submit an application; (3) list the names of the departments responsible for the federal information banks that will be searched and the information that will be searched; (4) specify which type of information will be released to which entities and under which circumstances and clarify that the Minister of Justice will be able to assist information bank directors in the conducting of a search; (5) remove the requirement for a provincial enforcement service to submit an affidavit; and (6) prescribe the information to be included in an application for the release of information form.",
+  "registration": "Registration: SOR/ 2023-0125  Publication Date: 2023-06-21",
+  "registration_type": "SOR",
+  "registration_id": "2023-0125",
+  "registration_publication_date": "2023-06-21",
+  "attachments": [
+    "43753"
+  ],
+  "htmlHash": "62705ccf862ca7379ffc518b5339cb32"
+}
