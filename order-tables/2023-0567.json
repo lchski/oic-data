@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0567</td><td>2023-06-12</td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"5\">Expropriation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Directing the Expropriation of the Lac-Mégantic Rail Bypass Project</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that there be substituted for the 90 days referred to in paragraph 19(1)(c) of the Act a period of 46 days in order to grant early physical possession of the lands expropriated by the Minister of Public Services and Procurement for the LAC-MÉGANTIC RAIL BYPASS PROJECT to avoid construction delays.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43764&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0567",
+  "date": "2023-06-12",
+  "chapter": "",
+  "bill": "",
+  "department": "PSPC",
+  "act": "Expropriation Act",
+  "subject": "Order Directing the Expropriation of the Lac-Mégantic Rail Bypass Project",
+  "precis": "Order directing that there be substituted for the 90 days referred to in paragraph 19(1)(c) of the Act a period of 46 days in order to grant early physical possession of the lands expropriated by the Minister of Public Services and Procurement for the LAC-MÉGANTIC RAIL BYPASS PROJECT to avoid construction delays.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43764"
+  ],
+  "htmlHash": "58a97244fc8e88a554b2dc7baee44f5c"
+}

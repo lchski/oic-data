@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0569</td><td>2023-06-13</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the re-appointment by the Minister of Finance of GREG STEWART, of Regina, Saskatchewan, as a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending on February 28, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43769&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0569",
+  "date": "2023-06-13",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Bank of Canada Act",
+  "subject": "",
+  "precis": "Approval of the re-appointment by the Minister of Finance of GREG STEWART, of Regina, Saskatchewan, as a director of the Board of Directors of the Bank of Canada, to hold office during good behaviour for a term ending on February 28, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43769"
+  ],
+  "htmlHash": "f17e6e0e8af99be19c8c0cb068b0013d"
+}
