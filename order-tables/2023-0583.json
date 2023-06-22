@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0583</td><td>2023-06-16</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Contraventions Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS in order to expand the list of offences contained in regulations made under the Canadian Environmental Protection Act, 1999 and the Migratory Birds Conventions Act, 1994, which could be prosecuted by means of a contraventions ticket.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0136  <strong>Publication Date:</strong> 2023-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43784&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0583",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Contraventions Act",
+  "subject": "Regulations Amending the Contraventions Regulations",
+  "precis": "Regulations Amending the CONTRAVENTIONS REGULATIONS in order to expand the list of offences contained in regulations made under the Canadian Environmental Protection Act, 1999 and the Migratory Birds Conventions Act, 1994, which could be prosecuted by means of a contraventions ticket.",
+  "registration": "Registration: SOR/ 2023-0136  Publication Date: 2023-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2023-0136",
+  "registration_publication_date": "2023-07-05",
+  "attachments": [
+    "43784"
+  ],
+  "htmlHash": "bfc0fee059c5135b0242563dab977d18"
+}

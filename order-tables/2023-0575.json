@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0575</td><td>2023-06-16</td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Jurisdiction over Education in British Columbia Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Bringing Individual Agreements with First Nations into Effect</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER BRINGING INDIVIDUAL AGREEMENTS WITH FIRST NATIONS INTO EFFECT in order to (1) add Squamish Nation, Ditidaht First Nation, and Canim Lake to the schedule of the Act; and (2) give force of law to education jurisdiction agreements with these First Nations, thereby recognizing their jurisdiction over education for their First Nations as set out in the agreements.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0128  <strong>Publication Date:</strong> 2023-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43776&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0575",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "CIRNAC",
+  "act": "First Nations Jurisdiction over Education in British Columbia Act",
+  "subject": "Order Bringing Individual Agreements with First Nations into Effect",
+  "precis": "ORDER BRINGING INDIVIDUAL AGREEMENTS WITH FIRST NATIONS INTO EFFECT in order to (1) add Squamish Nation, Ditidaht First Nation, and Canim Lake to the schedule of the Act; and (2) give force of law to education jurisdiction agreements with these First Nations, thereby recognizing their jurisdiction over education for their First Nations as set out in the agreements.",
+  "registration": "Registration: SOR/ 2023-0128  Publication Date: 2023-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2023-0128",
+  "registration_publication_date": "2023-07-05",
+  "attachments": [
+    "43776"
+  ],
+  "htmlHash": "7d3bc3b576ba9514652455782e585704"
+}

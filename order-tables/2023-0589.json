@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0589</td><td>2023-06-16</td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of KAREN HAMBERG of Delta, British Columbia, to be a trustee of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of four years, in the place of Susan Jane Knott, whose term will expire, effective June 20, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43790&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0589",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "PCH",
+  "act": "Museums Act",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Canadian Heritage of KAREN HAMBERG of Delta, British Columbia, to be a trustee of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of four years, in the place of Susan Jane Knott, whose term will expire, effective June 20, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43790"
+  ],
+  "htmlHash": "d861ece8ef99ff9cc8b2c10a118713b1"
+}

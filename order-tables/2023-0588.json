@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0588</td><td>2023-06-16</td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"5\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Granting the Transfer of Administration and Control of Eel River Indian Reserve No. 3 and Indian Ranch Indian Reserve, New Brunswick</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) authorizing the transfer from His Majesty to the province of New Brunswick of the administration and control of certain lands in Eel River Indian Reserve No. 3 and Indian Ranch Indian Reserve, New Brunswick; and (2) consenting to the exercise by His Majesty of the power to take the lands described in Schedule 1 for operating and maintaining a provincial public highway.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43789&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0588",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "ISC",
+  "act": "Indian Act",
+  "subject": "Order Granting the Transfer of Administration and Control of Eel River Indian Reserve No. 3 and Indian Ranch Indian Reserve, New Brunswick",
+  "precis": "Order (1) authorizing the transfer from His Majesty to the province of New Brunswick of the administration and control of certain lands in Eel River Indian Reserve No. 3 and Indian Ranch Indian Reserve, New Brunswick; and (2) consenting to the exercise by His Majesty of the power to take the lands described in Schedule 1 for operating and maintaining a provincial public highway.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43789"
+  ],
+  "htmlHash": "8185ce8cbf2e518445f85a8e402fa30a"
+}

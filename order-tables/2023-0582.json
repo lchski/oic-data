@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0582</td><td>2023-06-16</td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Commercial and Industrial Development Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Squamish Nation Residential Tenancy Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SQUAMISH NATION RESIDENTIAL TENANCY REGULATIONS in order to (1) incorporate by reference certain key elements from British Columbia's Residential Tenancy Act and Manufactured Home Park Tenancy Act; and (2) provide the Squamish Nation with a process to request that the Regulations be applied to future residential projects on their reserve land.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0135  <strong>Publication Date:</strong> 2023-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43783&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0582",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "ISC",
+  "act": "First Nations Commercial and Industrial Development Act",
+  "subject": "Squamish Nation Residential Tenancy Regulations",
+  "precis": "SQUAMISH NATION RESIDENTIAL TENANCY REGULATIONS in order to (1) incorporate by reference certain key elements from British Columbia's Residential Tenancy Act and Manufactured Home Park Tenancy Act; and (2) provide the Squamish Nation with a process to request that the Regulations be applied to future residential projects on their reserve land.",
+  "registration": "Registration: SOR/ 2023-0135  Publication Date: 2023-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2023-0135",
+  "registration_publication_date": "2023-07-05",
+  "attachments": [
+    "43783"
+  ],
+  "htmlHash": "aa2d8da66b022e2e25fa65cec7848b89"
+}

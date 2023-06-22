@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0578</td><td>2023-06-16</td><td></td><td></td><td>FIN, MINT</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mint Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Issue of Two Two-dollar Commemorative Circulation Coins Specifying the Characteristics and Determining the Designs (National Indigenous Peoples Day)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Royal Canadian Mint to produce TWO TWO-DOLLAR commemorative circulation coins, representing the cultural heritage and symbols of the Métis, First Nations, and Inuit communities to celebrate NATIONAL INDIGENOUS PEOPLES DAY.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0131  <strong>Publication Date:</strong> 2023-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43779&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0578",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN, MINT",
+  "act": "Royal Canadian Mint Act",
+  "subject": "Order Authorizing the Issue of Two Two-dollar Commemorative Circulation Coins Specifying the Characteristics and Determining the Designs (National Indigenous Peoples Day)",
+  "precis": "Order authorizing the Royal Canadian Mint to produce TWO TWO-DOLLAR commemorative circulation coins, representing the cultural heritage and symbols of the Métis, First Nations, and Inuit communities to celebrate NATIONAL INDIGENOUS PEOPLES DAY.",
+  "registration": "Registration: SOR/ 2023-0131  Publication Date: 2023-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2023-0131",
+  "registration_publication_date": "2023-07-05",
+  "attachments": [
+    "43779"
+  ],
+  "htmlHash": "2b07062d9e3ad214e9ee3fe4b9778e8e"
+}

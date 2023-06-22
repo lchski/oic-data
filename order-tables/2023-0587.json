@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0587</td><td>2023-06-16</td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Consenting to the Amendment of Sections 13.5.3 and 13.5.4 of Ta'an Kwach'an Council Self-Government Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order consenting to the amendment of sections 13.5.3 and 13.5.4 of the TA'AN KWACH'AN COUNCIL SELF-GOVERNMENT AGREEMENT in order to facilitate the registration of the Ta'an Kwach'an Council Category A and B Settlement Land in the Yukon Land Titles Office.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43788&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0587",
+  "date": "2023-06-16",
+  "chapter": "",
+  "bill": "",
+  "department": "CIRNAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Consenting to the Amendment of Sections 13.5.3 and 13.5.4 of Ta'an Kwach'an Council Self-Government Agreement",
+  "precis": "Order consenting to the amendment of sections 13.5.3 and 13.5.4 of the TA'AN KWACH'AN COUNCIL SELF-GOVERNMENT AGREEMENT in order to facilitate the registration of the Ta'an Kwach'an Council Category A and B Settlement Land in the Yukon Land Titles Office.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43788"
+  ],
+  "htmlHash": "0582c2ae16445e906e42cbec70c03d23"
+}
