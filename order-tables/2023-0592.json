@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0592</td><td>2023-06-21</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of HEATHER POWELL LANK of Ottawa, Ontario, as Parliamentary Librarian, to hold office during pleasure for a term of sixteen months, effective June 21, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43814&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0592",
+  "date": "2023-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Parliament of Canada Act",
+  "subject": "",
+  "precis": "Reappointment of HEATHER POWELL LANK of Ottawa, Ontario, as Parliamentary Librarian, to hold office during pleasure for a term of sixteen months, effective June 21, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43814"
+  ],
+  "htmlHash": "207dec8ae2d28440bd3a9e2550c9a0db"
+}
