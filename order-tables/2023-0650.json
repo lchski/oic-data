@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0650</td><td>2023-06-22</td><td></td><td></td><td>NR, CRA</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving that the Canada Revenue Agency enter into a Collective Agreement with PSAC</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the CANADA REVENUE AGENCY enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA covering all employees of the Program Delivery and Administrative Services Group bargaining unit for the period beginning on November 1, 2021 and ending on October 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43872&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0650",
+  "date": "2023-06-22",
+  "chapter": "",
+  "bill": "",
+  "department": "NR, CRA",
+  "act": "Federal Public Sector Labour Relations Act",
+  "subject": "Order Approving that the Canada Revenue Agency enter into a Collective Agreement with PSAC",
+  "precis": "Order approving that the CANADA REVENUE AGENCY enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA covering all employees of the Program Delivery and Administrative Services Group bargaining unit for the period beginning on November 1, 2021 and ending on October 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43872"
+  ],
+  "htmlHash": "d44b4ec44ccea4e56b9b4cacd689743a"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0625</td><td>2023-06-22</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Tax Court of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of the HONOURABLE HENRY A. VISSER, a Judge of the Tax Court of Canada, as a member of the Independent Judicial Advisory Committee for the Tax Court of Canada, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43847&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0625",
+  "date": "2023-06-22",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Tax Court of Canada Act",
+  "subject": "",
+  "precis": "Reappointment of the HONOURABLE HENRY A. VISSER, a Judge of the Tax Court of Canada, as a member of the Independent Judicial Advisory Committee for the Tax Court of Canada, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43847"
+  ],
+  "htmlHash": "708e7096f56a7d2b2a7f0ca8b539402a"
+}

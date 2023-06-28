@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0607</td><td>2023-06-22</td><td></td><td></td><td>IT</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Commercial Corporation  Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Approval of the reappointment by the Minister for International Trade of MICHAEL JOHNSON of Whitehorse, Yukon, as a director of the Board of Directors of the Canadian Commercial Corporation, to hold office during pleasure for a term of four years, effective July 1, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43829&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0607",
+  "date": "2023-06-22",
+  "chapter": "",
+  "bill": "",
+  "department": "IT",
+  "act": "Canadian Commercial Corporation  Act",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister for International Trade of MICHAEL JOHNSON of Whitehorse, Yukon, as a director of the Board of Directors of the Canadian Commercial Corporation, to hold office during pleasure for a term of four years, effective July 1, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43829"
+  ],
+  "htmlHash": "bfd9e959c154aba1e5976d8a3271abe4"
+}

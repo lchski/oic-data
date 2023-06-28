@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0613</td><td>2023-06-22</td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"5\">Copyright Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of NATHALIE THÉBERGE of Gatineau, Quebec, as Vice-Chair of the Copyright Board, to hold office during good behaviour for a term of five years, effective October 1, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43835&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0613",
+  "date": "2023-06-22",
+  "chapter": "",
+  "bill": "",
+  "department": "IC",
+  "act": "Copyright Act",
+  "subject": "",
+  "precis": "Re-appointment of NATHALIE THÉBERGE of Gatineau, Quebec, as Vice-Chair of the Copyright Board, to hold office during good behaviour for a term of five years, effective October 1, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43835"
+  ],
+  "htmlHash": "6fee9c93ef6fc410b2376ef547d6a323"
+}
