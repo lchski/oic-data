@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0665</td><td>2023-06-23</td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"5\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Provision of Federal Grants to Dairy Producers</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to provide FEDERAL GRANTS of up to $1.2 billion to DAIRY PRODUCERS to protect against income losses as a result of the Canada-United States-Mexico Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43887&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0665",
+  "date": "2023-06-23",
+  "chapter": "",
+  "bill": "",
+  "department": "AAFC",
+  "act": "Farm Income Protection Act",
+  "subject": "Order Authorizing the Provision of Federal Grants to Dairy Producers",
+  "precis": "Order authorizing the Minister of Agriculture and Agri-Food to provide FEDERAL GRANTS of up to $1.2 billion to DAIRY PRODUCERS to protect against income losses as a result of the Canada-United States-Mexico Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43887"
+  ],
+  "htmlHash": "a087cf632e4fde313f5e517841fe0903"
+}

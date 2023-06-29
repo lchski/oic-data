@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0684</td><td>2023-06-23</td><td></td><td></td><td>ISI</td></tr><tr><td>Act</td><td colspan=\"5\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Name Change of the Chambre de commerce et d'industrie de la MRC de Montmagny</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the application of La Chambre de commerce de Montmagny, in Quebec, to change its name to “CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA MRC DE MONTMAGNY”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43906&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0684",
+  "date": "2023-06-23",
+  "chapter": "",
+  "bill": "",
+  "department": "ISI",
+  "act": "Boards of Trade Act",
+  "subject": "Order Approving the Name Change of the Chambre de commerce et d'industrie de la MRC de Montmagny",
+  "precis": "Order approving the application of La Chambre de commerce de Montmagny, in Quebec, to change its name to “CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA MRC DE MONTMAGNY”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43906"
+  ],
+  "htmlHash": "4a5846b43fd4a06d5695ecd1683edc12"
+}

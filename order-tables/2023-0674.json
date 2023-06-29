@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0674</td><td>2023-06-23</td><td></td><td></td><td>NA</td></tr><tr><td>Act</td><td colspan=\"5\">Agreement Between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Transfer of Administration and Control of Seabed Lands in Koojesse Inlet, near Iqaluit, Nunavut</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the TRANSFER to the COMMISSIONER OF NUNAVUT of the administration and control of the seabed lands located between the ordinary high water mark and the boundary, excluding any lands currently under the administration and control of the Commissioner of Nunavut, located in KOOJESSE INLET near Iqaluit, Nunavut.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43896&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0674",
+  "date": "2023-06-23",
+  "chapter": "",
+  "bill": "",
+  "department": "NA",
+  "act": "Agreement Between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada",
+  "subject": "Order Authorizing the Transfer of Administration and Control of Seabed Lands in Koojesse Inlet, near Iqaluit, Nunavut",
+  "precis": "Order authorizing the TRANSFER to the COMMISSIONER OF NUNAVUT of the administration and control of the seabed lands located between the ordinary high water mark and the boundary, excluding any lands currently under the administration and control of the Commissioner of Nunavut, located in KOOJESSE INLET near Iqaluit, Nunavut.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43896"
+  ],
+  "htmlHash": "9b6a646967bda59e7e39c16e75aba538"
+}

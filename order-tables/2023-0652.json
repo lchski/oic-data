@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0652</td><td>2023-06-23</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Part 2 of Schedule 1 to the Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending PART 2 of SCHEDULE 1 to the GREENHOUSE GAS POLLUTION PRICING ACT in order to delist Saskatchewan.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0148  <strong>Publication Date:</strong> 2023-07-05</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43874&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0652",
+  "date": "2023-06-23",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Greenhouse Gas Pollution Pricing Act",
+  "subject": "Order Amending Part 2 of Schedule 1 to the Greenhouse Gas Pollution Pricing Act",
+  "precis": "Order Amending PART 2 of SCHEDULE 1 to the GREENHOUSE GAS POLLUTION PRICING ACT in order to delist Saskatchewan.",
+  "registration": "Registration: SOR/ 2023-0148  Publication Date: 2023-07-05",
+  "registration_type": "SOR",
+  "registration_id": "2023-0148",
+  "registration_publication_date": "2023-07-05",
+  "attachments": [
+    "43874"
+  ],
+  "htmlHash": "32451264ac260ae5071db7777b896cb9"
+}
