@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0710</td><td>2023-06-30</td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Freshwater Fish Marketing Corporation to Acquire Interlake Freshwater Fisheries Inc.</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the FRESHWATER FISH MARKETING CORPORATION to ACQUIRE Interlake Freshwater Fisheries Inc.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43944&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0710",
+  "date": "2023-06-30",
+  "chapter": "",
+  "bill": "",
+  "department": "DFO",
+  "act": "Financial Administration Act",
+  "subject": "Order Authorizing the Freshwater Fish Marketing Corporation to Acquire Interlake Freshwater Fisheries Inc.",
+  "precis": "Order authorizing the FRESHWATER FISH MARKETING CORPORATION to ACQUIRE Interlake Freshwater Fisheries Inc.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43944"
+  ],
+  "htmlHash": "4de12321ce809cd10adf4503d5e456be"
+}
