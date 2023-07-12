@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0721</td><td>2023-07-06</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration and certain conditions of employment of JUDE PIERRE SAMSON, full-time member of the Social Security Tribunal for the Appeal Division, for the period he is acting as  Vice-Chairperson, effective January 28, 2023, until such time as he is no longer required to act as Vice-Chairperson.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43955&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0721",
+  "date": "2023-07-06",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Department of Employment and Social Development Act",
+  "subject": "",
+  "precis": "Order fixing the remuneration and certain conditions of employment of JUDE PIERRE SAMSON, full-time member of the Social Security Tribunal for the Appeal Division, for the period he is acting as  Vice-Chairperson, effective January 28, 2023, until such time as he is no longer required to act as Vice-Chairperson.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43955"
+  ],
+  "htmlHash": "83254131ef75bbd568ca4de83f1c5c15"
+}

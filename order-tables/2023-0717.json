@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0717</td><td>2023-07-06</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the remuneration and certain conditions of employment of SOLANGE LOSIER, full-time member of the Social Security Tribunal for the Employment Insurance Section, for the period she is acting as full-time member of the Social Security Tribunal for the Appeal Division, effective February 13, 2023, until such time as she is no longer required to act as a full-time member for the Appeal Division.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43951&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0717",
+  "date": "2023-07-06",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Department of Employment and Social Development Act",
+  "subject": "",
+  "precis": "Order fixing the remuneration and certain conditions of employment of SOLANGE LOSIER, full-time member of the Social Security Tribunal for the Employment Insurance Section, for the period she is acting as full-time member of the Social Security Tribunal for the Appeal Division, effective February 13, 2023, until such time as she is no longer required to act as a full-time member for the Appeal Division.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43951"
+  ],
+  "htmlHash": "7b735aa6a0d2eb8e46ac95da8b1c562a"
+}
