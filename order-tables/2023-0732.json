@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0732</td><td>2023-07-13</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Appointing the Hon. Michael K. McKelvey to be Deputy Judge of the Supreme Court of Yukon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing the HONOURABLE MICHAEL K. MCKELVEY, a judge of the Superior Court of Justice of Ontario, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43967&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0732",
+  "date": "2023-07-13",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Yukon Act",
+  "subject": "Order Appointing the Hon. Michael K. McKelvey to be Deputy Judge of the Supreme Court of Yukon",
+  "precis": "Order appointing the HONOURABLE MICHAEL K. MCKELVEY, a judge of the Superior Court of Justice of Ontario, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43967"
+  ],
+  "htmlHash": "53d2bd25435fd3d869fc3da609ac0af7"
+}

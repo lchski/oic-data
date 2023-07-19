@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0731</td><td>2023-07-13</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Appointing the Hon. Michael K. McKelvey to be Deputy Judge of the Supreme Court of the Northwest Territories</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing the HONOURABLE MICHAEL K. MCKELVEY, a judge of the Superior Court of Justice of Ontario, to be a DEPUTY JUDGE of the NORTHWEST TERRITORIES.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43966&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0731",
+  "date": "2023-07-13",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Northwest Territories Act",
+  "subject": "Order Appointing the Hon. Michael K. McKelvey to be Deputy Judge of the Supreme Court of the Northwest Territories",
+  "precis": "Order appointing the HONOURABLE MICHAEL K. MCKELVEY, a judge of the Superior Court of Justice of Ontario, to be a DEPUTY JUDGE of the NORTHWEST TERRITORIES.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43966"
+  ],
+  "htmlHash": "49226d64534dac946ba1ad6bbc5df6da"
+}

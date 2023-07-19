@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0730</td><td>2023-07-13</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Accepting the Resignation of the Hon. Terri A. MacPherson</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE TERRI A. MACPHERSON, a judge of the Supreme Court of Prince Edward Island.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0730",
+  "date": "2023-07-13",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Judges Act",
+  "subject": "Order Accepting the Resignation of the Hon. Terri A. MacPherson",
+  "precis": "Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE TERRI A. MACPHERSON, a judge of the Supreme Court of Prince Edward Island.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43965"
+  ],
+  "htmlHash": "089b83370f9dd93da859c6235e62045a"
+}
