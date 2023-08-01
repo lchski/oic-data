@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0770</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order replacing “the Minister of Seniors” with “the Minister of State (Seniors)”</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the schedule to Order in Council P.C. 2007-281 of March 2, 2007, as amended by Order in Council P.C. 2018-787 of June 14, 2018 and Order in Council P.C. 2018-1027 of July 18, 2018, by replacing “the Minister of Seniors” with “the MINISTER OF STATE (SENIORS)” in the portion of section 1 before paragraph (a), subsections 2(1) and (2), and section 4.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44006&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0770",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order replacing “the Minister of Seniors” with “the Minister of State (Seniors)”",
+  "precis": "Order Amending the schedule to Order in Council P.C. 2007-281 of March 2, 2007, as amended by Order in Council P.C. 2018-787 of June 14, 2018 and Order in Council P.C. 2018-1027 of July 18, 2018, by replacing “the Minister of Seniors” with “the MINISTER OF STATE (SENIORS)” in the portion of section 1 before paragraph (a), subsections 2(1) and (2), and section 4.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44006"
+  ],
+  "htmlHash": "7b4654c8ce67d2b179e3468fabc5ebfe"
+}

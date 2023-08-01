@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0754</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Salaries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Repealing an Order Made Under the Salaries Act (Minister of Housing and Diversity and Inclusion)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order REPEALING Order in Council P.C. 2022-28 of January 13, 2022 which designated the Department of Canadian Heritage, the Department for Women and Gender Equality, the Department of Employment and Social Development, and the Office of Infrastructure of Canada to provide support to the Minister of Housing and Diversity and Inclusion.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43990&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0754",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Salaries Act",
+  "subject": "Order Repealing an Order Made Under the Salaries Act (Minister of Housing and Diversity and Inclusion)",
+  "precis": "Order REPEALING Order in Council P.C. 2022-28 of January 13, 2022 which designated the Department of Canadian Heritage, the Department for Women and Gender Equality, the Department of Employment and Social Development, and the Office of Infrastructure of Canada to provide support to the Minister of Housing and Diversity and Inclusion.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43990"
+  ],
+  "htmlHash": "b8c2d81cfcb9dc74443f46135a346a62"
+}

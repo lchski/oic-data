@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0765</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring from the Minister of Infrastructure and Communities to the Minister of Public Safety and Emergency Preparedness the Control and Supervision of the Canadian Intergovernmental Conference Secretariat</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Transferring from the Minister of Infrastructure and Communities to the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS the Control and Supervision of the CANADIAN INTERGOVERNMENTAL CONFERENCE SECRETARIAT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44001&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0765",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Rearrangement and Transfer of Duties Act",
+  "subject": "Order Transferring from the Minister of Infrastructure and Communities to the Minister of Public Safety and Emergency Preparedness the Control and Supervision of the Canadian Intergovernmental Conference Secretariat",
+  "precis": "Order Transferring from the Minister of Infrastructure and Communities to the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS the Control and Supervision of the CANADIAN INTERGOVERNMENTAL CONFERENCE SECRETARIAT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44001"
+  ],
+  "htmlHash": "a63d9822ec13b2bf8a341af64738b3b4"
+}

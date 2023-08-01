@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0783</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring from the Department of Canadian Heritage to the Department of Employment and Social Development the Control and Supervision of the Anti-Racism Secretariat</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring from the Department of Canadian Heritage to the Department of EMPLOYMENT AND SOCIAL DEVELOPMENT the control and supervision of the portion of the federal public administration in the Department of Canadian Heritage known as the ANTI-RACISM SECRETARIAT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44022&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0783",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Rearrangement and Transfer of Duties Act",
+  "subject": "Order Transferring from the Department of Canadian Heritage to the Department of Employment and Social Development the Control and Supervision of the Anti-Racism Secretariat",
+  "precis": "Order transferring from the Department of Canadian Heritage to the Department of EMPLOYMENT AND SOCIAL DEVELOPMENT the control and supervision of the portion of the federal public administration in the Department of Canadian Heritage known as the ANTI-RACISM SECRETARIAT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44022"
+  ],
+  "htmlHash": "a43fe34b738fe8e2a96d5835e62e9e31"
+}

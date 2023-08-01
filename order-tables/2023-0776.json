@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0776</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Free Trade Agreement Implementation Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Public Safety and Emergency Preparedness as the Minister for the Purposes of the Canadian Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2022-25 of January 13, 2022; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADIAN FREE TRADE AGREEMENT IMPLEMENTATION ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44015&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0776",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Canadian Free Trade Agreement Implementation Act",
+  "subject": "Order Designating the Minister of Public Safety and Emergency Preparedness as the Minister for the Purposes of the Canadian Free Trade Agreement Implementation Act",
+  "precis": "Order (1) repealing Order in Council P.C. 2022-25 of January 13, 2022; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADIAN FREE TRADE AGREEMENT IMPLEMENTATION ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44015"
+  ],
+  "htmlHash": "ffe9f0d2fd77b5be1f3082a8a2f2e7c5"
+}

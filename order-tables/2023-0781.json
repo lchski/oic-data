@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0781</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Small Business Financing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Small Business and Tourism as the Minister for the Purposes of the Canada Small Business Financing Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2021-939 of October 26, 2021; and (2) designating the Minister of SMALL BUSINESS AND TOURISM, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADA SMALL BUSINESS FINANCING ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44020&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0781",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Canada Small Business Financing Act",
+  "subject": "Order Designating the Minister of Small Business and Tourism as the Minister for the Purposes of the Canada Small Business Financing Act",
+  "precis": "Order (1) repealing Order in Council P.C. 2021-939 of October 26, 2021; and (2) designating the Minister of SMALL BUSINESS AND TOURISM, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADA SMALL BUSINESS FINANCING ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44020"
+  ],
+  "htmlHash": "a5546e69eff73a7f6ad6658d1b5ccb2e"
+}

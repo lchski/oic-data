@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0780</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Public Safety and Emergency Preparedness as the Minister for the Purposes of the Electoral Boundaries Readjustment Suspension Act, 1994</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2021-943 of October 26, 2021; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the ELECTORAL BOUNDARIES READJUSTMENT SUSPENSION ACT, 1994.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44019&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0780",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Designating the Minister of Public Safety and Emergency Preparedness as the Minister for the Purposes of the Electoral Boundaries Readjustment Suspension Act, 1994",
+  "precis": "Order (1) repealing Order in Council P.C. 2021-943 of October 26, 2021; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the ELECTORAL BOUNDARIES READJUSTMENT SUSPENSION ACT, 1994.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44019"
+  ],
+  "htmlHash": "15e6d4e85e9efa9b898ecb00aa431e11"
+}

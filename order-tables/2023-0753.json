@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0753</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Terminating the Assignments of the Honourable (1) Mary F.Y. Ng; (2) Kamal Khera; (3) Wiliam Sterling Blair; (4) Ginette Petitpas Taylor; (5) Karina Gould; and (6) Randy Paul Andrew Boissonnault</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order TERMINATING the assignments of the (1) Honourable MARY F.Y. NG made by Order in Council P.C. 2019-1351 of November 20, 2019; (2) Honourable KAMAL KHERA made by Order in Council P.C. 2021-916 of October 26, 2021; (3) Honourable WILLIAM STERLING BLAIR made by Order in Council P.C. 2021-919 of October 26, 2021; (4) Honourable GINETTE PETITPAS TAYLOR made by Order in Council P.C. 2021-920 of October 26, 2021; (5) Honourable KARINA GOULD made by Order in Council P.C. 2021-921 of October 26, 2021; and (6) Honourable RANDY PAUL ANDREW BOISSONNAULT made by Order in Council P.C. 2021-922 of October 26, 2021.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43989&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0753",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Ministries and Ministers of State Act",
+  "subject": "Order Terminating the Assignments of the Honourable (1) Mary F.Y. Ng; (2) Kamal Khera; (3) Wiliam Sterling Blair; (4) Ginette Petitpas Taylor; (5) Karina Gould; and (6) Randy Paul Andrew Boissonnault",
+  "precis": "Order TERMINATING the assignments of the (1) Honourable MARY F.Y. NG made by Order in Council P.C. 2019-1351 of November 20, 2019; (2) Honourable KAMAL KHERA made by Order in Council P.C. 2021-916 of October 26, 2021; (3) Honourable WILLIAM STERLING BLAIR made by Order in Council P.C. 2021-919 of October 26, 2021; (4) Honourable GINETTE PETITPAS TAYLOR made by Order in Council P.C. 2021-920 of October 26, 2021; (5) Honourable KARINA GOULD made by Order in Council P.C. 2021-921 of October 26, 2021; and (6) Honourable RANDY PAUL ANDREW BOISSONNAULT made by Order in Council P.C. 2021-922 of October 26, 2021.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43989"
+  ],
+  "htmlHash": "9a51dd246b04c8b858fb89f39d2ea88b"
+}

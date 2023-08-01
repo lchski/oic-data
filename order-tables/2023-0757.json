@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0757</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Assigning the Minister of State (Seniors) to Assist the Minister of Employment and Social Development</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order assigning the Honourable SEAMUS THOMAS O'REGAN, Minister of State (Seniors) to assist the Minister of Employment and Social Development in the carrying out of that Minister's responsibilities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43993&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0757",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Ministries and Ministers of State Act",
+  "subject": "Order Assigning the Minister of State (Seniors) to Assist the Minister of Employment and Social Development",
+  "precis": "Order assigning the Honourable SEAMUS THOMAS O'REGAN, Minister of State (Seniors) to assist the Minister of Employment and Social Development in the carrying out of that Minister's responsibilities.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43993"
+  ],
+  "htmlHash": "5ce56cfa4e492eae5afcdfa6efc64c7f"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0762</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Salaries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Department of Health and the Department of Canadian Heritage to Provide Support to the Minister of Sport and Persons with Disabilities</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating the Department of HEALTH and the Department of CANADIAN HERITAGE to provide support to the Minister of SPORT AND PERSONS WITH DISABILITIES in the carrying out of that Minister's responsibilities.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=43998&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0762",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Salaries Act",
+  "subject": "Order Designating the Department of Health and the Department of Canadian Heritage to Provide Support to the Minister of Sport and Persons with Disabilities",
+  "precis": "Order designating the Department of HEALTH and the Department of CANADIAN HERITAGE to provide support to the Minister of SPORT AND PERSONS WITH DISABILITIES in the carrying out of that Minister's responsibilities.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "43998"
+  ],
+  "htmlHash": "b654c5feda3b001fe4ebbf497442a8b8"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0771</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Multiculturalism Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of State (Diversity, Inclusion and Persons with Disabilities) as the Minister for the Purposes of the Canadian Multiculturalism Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2021-950 of October 26, 2021; and (2) designating the Minister of State (DIVERSITY, INCLUSION AND PERSONS WITH DISABILITIES), a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADIAN MULTICULTURALISM ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44007&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0771",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Canadian Multiculturalism Act",
+  "subject": "Order Designating the Minister of State (Diversity, Inclusion and Persons with Disabilities) as the Minister for the Purposes of the Canadian Multiculturalism Act",
+  "precis": "Order (1) repealing Order in Council P.C. 2021-950 of October 26, 2021; and (2) designating the Minister of State (DIVERSITY, INCLUSION AND PERSONS WITH DISABILITIES), a member of the King’s Privy Council for Canada, as the Minister for the purposes of the CANADIAN MULTICULTURALISM ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44007"
+  ],
+  "htmlHash": "7e65ce3065073c908ea31eccb331f194"
+}

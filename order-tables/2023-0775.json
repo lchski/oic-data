@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0775</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Prohibition on the Purchase of Residential Property by Non-Canadians Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Infrastructure and Communities as the Minister for the Purposes of the Prohibition on the Purchase of Residential Property by Non-Canadians Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Order in Council P.C. 2022-1104 of October 19, 2022; and (2) designating the Minister of INFRASTRUCTURE AND COMMUNITIES, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the PROHIBITION ON THE PURCHASE OF RESIDENTIAL PROPERTY BY NON-CANADIANS ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44014&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0775",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Prohibition on the Purchase of Residential Property by Non-Canadians Act",
+  "subject": "Order Designating the Minister of Infrastructure and Communities as the Minister for the Purposes of the Prohibition on the Purchase of Residential Property by Non-Canadians Act",
+  "precis": "Order (1) repealing Order in Council P.C. 2022-1104 of October 19, 2022; and (2) designating the Minister of INFRASTRUCTURE AND COMMUNITIES, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the PROHIBITION ON THE PURCHASE OF RESIDENTIAL PROPERTY BY NON-CANADIANS ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44014"
+  ],
+  "htmlHash": "42f748bb063388bd5862d1a834047c4b"
+}

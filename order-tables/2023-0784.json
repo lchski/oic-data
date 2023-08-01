@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0784</td><td>2023-07-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring from the Treasury Board Secretariat to the Department of Employment and Social Development the Control and Supervision of the Canadian Digital Service</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order transferring from the Treasury Board Secretariat to the Department of EMPLOYMENT AND SOCIAL DEVELOPMENT the control and supervision of that portion of the federal public administration in the Treasury Board Secretariat known as the CANADIAN DIGITAL SERVICE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44023&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0784",
+  "date": "2023-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Rearrangement and Transfer of Duties Act",
+  "subject": "Order Transferring from the Treasury Board Secretariat to the Department of Employment and Social Development the Control and Supervision of the Canadian Digital Service",
+  "precis": "Order transferring from the Treasury Board Secretariat to the Department of EMPLOYMENT AND SOCIAL DEVELOPMENT the control and supervision of that portion of the federal public administration in the Treasury Board Secretariat known as the CANADIAN DIGITAL SERVICE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44023"
+  ],
+  "htmlHash": "d1268dbea6e21330911bf665c331d7ff"
+}
