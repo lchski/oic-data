@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0802</td><td>2023-08-04</td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Direction Amending the Direction to the Canadian Radio-Television and Telecommunications Commission Respecting the Implementation of the Canada-United States-Mexico Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Direction Amending the DIRECTION TO THE CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION RESPECTING THE IMPLEMENTATION OF THE CANADA-UNITED STATES-MEXICO AGREEMENT in order to list unmodified and modified U.S. home shopping programming services based in the United States for distribution in Canada.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0181  <strong>Publication Date:</strong> 2023-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44042&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0802",
+  "date": "2023-08-04",
+  "chapter": "",
+  "bill": "",
+  "department": "PCH",
+  "act": "Broadcasting Act",
+  "subject": "Direction Amending the Direction to the Canadian Radio-Television and Telecommunications Commission Respecting the Implementation of the Canada-United States-Mexico Agreement",
+  "precis": "Direction Amending the DIRECTION TO THE CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION RESPECTING THE IMPLEMENTATION OF THE CANADA-UNITED STATES-MEXICO AGREEMENT in order to list unmodified and modified U.S. home shopping programming services based in the United States for distribution in Canada.",
+  "registration": "Registration: SOR/ 2023-0181  Publication Date: 2023-08-16",
+  "registration_type": "SOR",
+  "registration_id": "2023-0181",
+  "registration_publication_date": "2023-08-16",
+  "attachments": [
+    "44042"
+  ],
+  "htmlHash": "0fe82082b25082fa6921ed63214f4ded"
+}

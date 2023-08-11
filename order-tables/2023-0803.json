@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0803</td><td>2023-08-04</td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"5\">Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing September 1, 2023 as the Day the Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing September 1, 2023 as the day the SELF-GOVERNMENT TREATY RECOGNIZING THE WHITECAP DAKOTA NATION / WAPAHA SKA DAKOTA OYATE ACT COMES INTO FORCE in order to (1) give effect to the Governance Treaty between Whitecap Dakota First Nation and His Majesty in right of Canada; and (2) establish the Whitecap Dakota Nation as a self-governing entity, with jurisdiction and authority over a broad range of matters related to the community’s governance and administration, reserve lands, membership, and programs and services.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SI/ 2023-0055  <strong>Publication Date:</strong> 2023-08-16</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44043&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0803",
+  "date": "2023-08-04",
+  "chapter": "",
+  "bill": "",
+  "department": "CIRNAC",
+  "act": "Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act",
+  "subject": "Order Fixing September 1, 2023 as the Day the Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act Comes into Force",
+  "precis": "Order fixing September 1, 2023 as the day the SELF-GOVERNMENT TREATY RECOGNIZING THE WHITECAP DAKOTA NATION / WAPAHA SKA DAKOTA OYATE ACT COMES INTO FORCE in order to (1) give effect to the Governance Treaty between Whitecap Dakota First Nation and His Majesty in right of Canada; and (2) establish the Whitecap Dakota Nation as a self-governing entity, with jurisdiction and authority over a broad range of matters related to the community’s governance and administration, reserve lands, membership, and programs and services.",
+  "registration": "Registration: SI/ 2023-0055  Publication Date: 2023-08-16",
+  "registration_type": "SI",
+  "registration_id": "2023-0055",
+  "registration_publication_date": "2023-08-16",
+  "attachments": [
+    "44043"
+  ],
+  "htmlHash": "ec206897c37a13e78c610a932b104d5b"
+}
