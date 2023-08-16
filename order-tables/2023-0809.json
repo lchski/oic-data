@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0809</td><td>2023-08-10</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ERIN KLEISINGER of Regina, Sasktatchewan, to be a special adviser to the Prime Minister, to serve as a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments, to hold office during pleasure for a term of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44049&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0809",
+  "date": "2023-08-10",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Employment Act",
+  "subject": "",
+  "precis": "Appointment of ERIN KLEISINGER of Regina, Sasktatchewan, to be a special adviser to the Prime Minister, to serve as a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments, to hold office during pleasure for a term of one year.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44049"
+  ],
+  "htmlHash": "3787c24b0f07887eb128c4dc38d8f930"
+}

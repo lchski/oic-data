@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0825</td><td>2023-08-10</td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Energy Regulator Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DARLENE HALWAS of Calgary, Alberta, to be a director of the Board of Directors of the Canadian Energy Regulator, to hold office during pleasure for a term of four years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44065&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0825",
+  "date": "2023-08-10",
+  "chapter": "",
+  "bill": "",
+  "department": "NRCAN",
+  "act": "Canadian Energy Regulator Act",
+  "subject": "",
+  "precis": "Appointment of DARLENE HALWAS of Calgary, Alberta, to be a director of the Board of Directors of the Canadian Energy Regulator, to hold office during pleasure for a term of four years, on a part-time basis.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44065"
+  ],
+  "htmlHash": "3975137624cb2dee688a282a50078b59"
+}
