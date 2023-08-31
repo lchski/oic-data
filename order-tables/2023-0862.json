@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0862</td><td>2023-08-23</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JODI R. WILDEMAN of the City of Regina, in the Province of Saskatchewan, one of His Majesty's Counsel learned in the law, to be a Judge of His Majesty's Court of King's Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44139&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0862",
+  "date": "2023-08-23",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of JODI R. WILDEMAN of the City of Regina, in the Province of Saskatchewan, one of His Majesty's Counsel learned in the law, to be a Judge of His Majesty's Court of King's Bench for Saskatchewan.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44139"
+  ],
+  "htmlHash": "d807c39c25f5b068936b42c4f62c7bf0"
+}

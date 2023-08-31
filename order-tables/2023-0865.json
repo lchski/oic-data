@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0865</td><td>2023-08-23</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of MIA MANOCCHIO of the city of Iqaluit, of the Province of Nunavut, Barrister-at-law, to be a Judge of the Nunavut Court of Justice, a Judge of the Court of Appeal of Nunavut, a Judge of the Court of Appeal for the Northwest Territories, and a Judge of the Court of Appeal of Yukon.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44142&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0865",
+  "date": "2023-08-23",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of MIA MANOCCHIO of the city of Iqaluit, of the Province of Nunavut, Barrister-at-law, to be a Judge of the Nunavut Court of Justice, a Judge of the Court of Appeal of Nunavut, a Judge of the Court of Appeal for the Northwest Territories, and a Judge of the Court of Appeal of Yukon.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44142"
+  ],
+  "htmlHash": "e14101726d4d25e581186b6e7cb44f4c"
+}
