@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0873</td><td>2023-08-30</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of ALAN HAMSON as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Uzbekistan, with residence in Astana.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0873",
+  "date": "2023-08-30",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of ALAN HAMSON as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Uzbekistan, with residence in Astana.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44158"
+  ],
+  "htmlHash": "f3bf41e12506693007324d6d9a8ed7e4"
+}
