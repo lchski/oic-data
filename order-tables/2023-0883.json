@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0883</td><td>2023-09-07</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Inquiry under the name of the Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions as a Department and the Prime Minister as the Appropriate Minister</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) designating the Commission named the PUBLIC INQUIRY INTO FOREIGN INTERFERENCE IN FEDERAL ELECTORAL PROCESSES AND DEMOCRATIC INSTITUTIONS as a department for the purposes of the Act; and (2) designating the Prime Minister as the appropriate Minister with respect to the Commission.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44170&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0883",
+  "date": "2023-09-07",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Financial Administration Act",
+  "subject": "Order Designating the Inquiry under the name of the Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions as a Department and the Prime Minister as the Appropriate Minister",
+  "precis": "Order (1) designating the Commission named the PUBLIC INQUIRY INTO FOREIGN INTERFERENCE IN FEDERAL ELECTORAL PROCESSES AND DEMOCRATIC INSTITUTIONS as a department for the purposes of the Act; and (2) designating the Prime Minister as the appropriate Minister with respect to the Commission.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44170"
+  ],
+  "htmlHash": "aedf08c38ba297d04a68177e32a28fb3"
+}

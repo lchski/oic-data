@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0881</td><td>2023-09-06</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Agreement between Canada and the Square Kilometre Array Observatory concerning the Accession of Canada to the Convention Establishing the Square Kilometre Array Observatory</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE SQUARE KILOMETRE ARRAY OBSERVATORY CONCERNING THE ACCESSION OF CANADA TO THE CONVENTION ESTABLISHING THE SQUARE KILOMETRE ARRAY OBSERVATORY; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44167&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0881",
+  "date": "2023-09-06",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Agreement between Canada and the Square Kilometre Array Observatory concerning the Accession of Canada to the Convention Establishing the Square Kilometre Array Observatory",
+  "precis": "Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE SQUARE KILOMETRE ARRAY OBSERVATORY CONCERNING THE ACCESSION OF CANADA TO THE CONVENTION ESTABLISHING THE SQUARE KILOMETRE ARRAY OBSERVATORY; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, subject to ratification, the Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44167"
+  ],
+  "htmlHash": "df61557b556a7318405f7727aee0e352"
+}

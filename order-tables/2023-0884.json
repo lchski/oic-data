@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0884</td><td>2023-09-07</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Security of Information Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending the Schedule to the Security of Information Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Amending the SCHEDULE TO THE SECURITY OF INFORMATION ACT in order to protect Canada's national security and intelligence interests.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44171&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0884",
+  "date": "2023-09-07",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Security of Information Act",
+  "subject": "Order Amending the Schedule to the Security of Information Act",
+  "precis": "Order Amending the SCHEDULE TO THE SECURITY OF INFORMATION ACT in order to protect Canada's national security and intelligence interests.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44171"
+  ],
+  "htmlHash": "1060027234481f620de6723b0337a2dd"
+}

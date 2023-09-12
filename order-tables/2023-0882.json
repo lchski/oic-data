@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0882</td><td>2023-09-07</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Judges Act<br>Inquiries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Commission of an Inquiry entitled Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) directing that a Commission do issue to conduct an Inquiry under the name of the PUBLIC INQUIRY INTO FOREIGN INTERFERENCE IN FEDERAL ELECTORAL PROCESSES AND DEMOCRATIC INSTITUTIONS; (2) appointing the Honourable MARIE-JOSÉE HOGUE, puisne judge of the Court of Appeal of Quebec, as Commissioner; and (3) directing that the Commissioner be given access to those confidential cabinet documents that came into existence on or after November 4, 2015 and that were provided to the Independent Special Rapporteur on Foreign Interference in relation to the preparation of his First Report, dated May 23, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44169&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0882",
+  "date": "2023-09-07",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Judges ActInquiries Act",
+  "subject": "Order Designating the Commission of an Inquiry entitled Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions",
+  "precis": "Order (1) directing that a Commission do issue to conduct an Inquiry under the name of the PUBLIC INQUIRY INTO FOREIGN INTERFERENCE IN FEDERAL ELECTORAL PROCESSES AND DEMOCRATIC INSTITUTIONS; (2) appointing the Honourable MARIE-JOSÉE HOGUE, puisne judge of the Court of Appeal of Quebec, as Commissioner; and (3) directing that the Commissioner be given access to those confidential cabinet documents that came into existence on or after November 4, 2015 and that were provided to the Independent Special Rapporteur on Foreign Interference in relation to the preparation of his First Report, dated May 23, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44169"
+  ],
+  "htmlHash": "f3fbf000de71ece96a75cca66202e546"
+}
