@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0886</td><td>2023-09-08</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JEAN-FRANÇOIS TREMBLAY of Ottawa, Ontario, to be Deputy Minister of the Environment, to be styled Deputy Minister of Environment and Climate Change, to hold office during pleasure, effective September 18, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44173&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0886",
+  "date": "2023-09-08",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of JEAN-FRANÇOIS TREMBLAY of Ottawa, Ontario, to be Deputy Minister of the Environment, to be styled Deputy Minister of Environment and Climate Change, to hold office during pleasure, effective September 18, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44173"
+  ],
+  "htmlHash": "92d69badbfc5c13f774646297751cbff"
+}
