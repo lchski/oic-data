@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0903</td><td>2023-09-20</td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"5\">Public Sector Pension Investment Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JUDY FAIRBURN of Calgary, Alberta, to be a director of the Public Sector Pension Investment Board, to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44193&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0903",
+  "date": "2023-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "TBS",
+  "act": "Public Sector Pension Investment Board Act",
+  "subject": "",
+  "precis": "Appointment of JUDY FAIRBURN of Calgary, Alberta, to be a director of the Public Sector Pension Investment Board, to hold office during good behaviour for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44193"
+  ],
+  "htmlHash": "ca9ffc772b60df66d633730f80f31401"
+}
