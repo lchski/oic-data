@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0905</td><td>2023-09-22</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Electoral Boundaries Readjustment Act<br>Preserving Provincial Representation in the House of Commons Acts</td></tr><tr><td>Subject</td><td colspan=\"5\">Order directing that a Proclamation do issue Declaring the Representation Orders to be in Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order directing that a proclamation do issue declaring the REPRESENTATION ORDERS RECEIVED FROM THE CHIEF ELECTORAL OFFICER to be in force effective on the first dissolution of Parliament that occurs at least seven months after the day on which the proclamation is issued.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44196&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0905",
+  "date": "2023-09-22",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Electoral Boundaries Readjustment ActPreserving Provincial Representation in the House of Commons Acts",
+  "subject": "Order directing that a Proclamation do issue Declaring the Representation Orders to be in Force",
+  "precis": "Order directing that a proclamation do issue declaring the REPRESENTATION ORDERS RECEIVED FROM THE CHIEF ELECTORAL OFFICER to be in force effective on the first dissolution of Parliament that occurs at least seven months after the day on which the proclamation is issued.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44196"
+  ],
+  "htmlHash": "8f8a793242e80a2f1a84417ca1bcc4c4"
+}
