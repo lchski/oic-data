@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0913</td><td>2023-09-25</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Insurance Companies Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Investments in Permitted Infrastructure Entities Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">REGULATIONS FOR PERMITTED INFRASTRUCTURE INVESTMENTS in order to (1) define the requirements for an entity to qualify as a permitted insurance entity; (2) prescribe the infrastructure assets and permitted infrastructure entity activities; and (3) establish the terms and conditions of the new power for life and health insurance entities to acquire controlling or substantial equity investments in permitted infrastructure entities.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0197  <strong>Publication Date:</strong> 2023-10-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44204&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0913",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Insurance Companies Act",
+  "subject": "Investments in Permitted Infrastructure Entities Regulations",
+  "precis": "REGULATIONS FOR PERMITTED INFRASTRUCTURE INVESTMENTS in order to (1) define the requirements for an entity to qualify as a permitted insurance entity; (2) prescribe the infrastructure assets and permitted infrastructure entity activities; and (3) establish the terms and conditions of the new power for life and health insurance entities to acquire controlling or substantial equity investments in permitted infrastructure entities.",
+  "registration": "Registration: SOR/ 2023-0197  Publication Date: 2023-10-11",
+  "registration_type": "SOR",
+  "registration_id": "2023-0197",
+  "registration_publication_date": "2023-10-11",
+  "attachments": [
+    "44204"
+  ],
+  "htmlHash": "0dc93c38bf45f7f26e5458619162bf3b"
+}

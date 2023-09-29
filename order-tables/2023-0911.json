@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0911</td><td>2023-09-25</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Financial Transactions and Reports Analysis Centre of Canada Assessment of Expenses Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">FINANCIAL TRANSACTIONS AND REPORTS ANALYSIS CENTRE OF CANADA ASSESSMENT OF EXPENSES REGULATIONS in order to require the Director of the Financial Transactions and Reports Analysis Centre of Canada to determine, by December 31 of each year, the costs incurred in the preceding fiscal year with respect to the administration of the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0195  <strong>Publication Date:</strong> 2023-10-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44202&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0911",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act",
+  "subject": "Financial Transactions and Reports Analysis Centre of Canada Assessment of Expenses Regulations",
+  "precis": "FINANCIAL TRANSACTIONS AND REPORTS ANALYSIS CENTRE OF CANADA ASSESSMENT OF EXPENSES REGULATIONS in order to require the Director of the Financial Transactions and Reports Analysis Centre of Canada to determine, by December 31 of each year, the costs incurred in the preceding fiscal year with respect to the administration of the Act.",
+  "registration": "Registration: SOR/ 2023-0195  Publication Date: 2023-10-11",
+  "registration_type": "SOR",
+  "registration_id": "2023-0195",
+  "registration_publication_date": "2023-10-11",
+  "attachments": [
+    "44202"
+  ],
+  "htmlHash": "8f57f4645d9223ac03cfd4acb62e6c18"
+}

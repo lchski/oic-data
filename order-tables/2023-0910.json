@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0910</td><td>2023-09-25</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REGULATIONS and the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) require all entities involved in the mortgage lending process to meet certain obligations; and (2) require Canadian financial entities to take reasonable measures to assess the reputation of the foreign financial entities and conduct risk assessments and ongoing monitoring of their correspondent banking relationships.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0194  <strong>Publication Date:</strong> 2023-10-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44201&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0910",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act",
+  "subject": "Regulations Amending the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations",
+  "precis": "Regulations Amending the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REGULATIONS and the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) require all entities involved in the mortgage lending process to meet certain obligations; and (2) require Canadian financial entities to take reasonable measures to assess the reputation of the foreign financial entities and conduct risk assessments and ongoing monitoring of their correspondent banking relationships.",
+  "registration": "Registration: SOR/ 2023-0194  Publication Date: 2023-10-11",
+  "registration_type": "SOR",
+  "registration_id": "2023-0194",
+  "registration_publication_date": "2023-10-11",
+  "attachments": [
+    "44201"
+  ],
+  "htmlHash": "a4950e1ed76324e401f8529726eb8ec7"
+}

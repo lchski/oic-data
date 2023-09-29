@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0941</td><td>2023-09-25</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of VIRGINIE BEAUBIEN of Sherbrooke, Quebec, to be a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years, effective October 12, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44232&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0941",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "",
+  "precis": "Appointment of VIRGINIE BEAUBIEN of Sherbrooke, Quebec, to be a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of three years, effective October 12, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44232"
+  ],
+  "htmlHash": "538f883627edd19f55dbdb8d84080c2f"
+}

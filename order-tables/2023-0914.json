@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0914</td><td>2023-09-25</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada-CARICOM Summit 2023 Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">CANADA-CARICOM SUMMIT 2023 PRIVILEGES AND IMMUNITIES ORDER in order to provide privileges and immunities to representatives of foreign states that are members and officials of CARICOM, to officials of other international organizations and to experts invited by Canada to attend the Summit.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0198  <strong>Publication Date:</strong> 2023-10-11</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44205&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0914",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Foreign Missions and International  Organizations Act",
+  "subject": "Canada-CARICOM Summit 2023 Privileges and Immunities Order",
+  "precis": "CANADA-CARICOM SUMMIT 2023 PRIVILEGES AND IMMUNITIES ORDER in order to provide privileges and immunities to representatives of foreign states that are members and officials of CARICOM, to officials of other international organizations and to experts invited by Canada to attend the Summit.",
+  "registration": "Registration: SOR/ 2023-0198  Publication Date: 2023-10-11",
+  "registration_type": "SOR",
+  "registration_id": "2023-0198",
+  "registration_publication_date": "2023-10-11",
+  "attachments": [
+    "44205"
+  ],
+  "htmlHash": "419ff54a264531a13450bddec1e8b412"
+}

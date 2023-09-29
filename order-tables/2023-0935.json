@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0935</td><td>2023-09-25</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of REBECCA LOUIS of Iqaluit, Nunavut, to be a full-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of three years, effective October 12, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44226&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0935",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "",
+  "precis": "Appointment of REBECCA LOUIS of Iqaluit, Nunavut, to be a full-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of three years, effective October 12, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44226"
+  ],
+  "htmlHash": "536861a2d076427099b8d63ded0c1b71"
+}

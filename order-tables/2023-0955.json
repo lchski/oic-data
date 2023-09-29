@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0955</td><td>2023-09-25</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Composition of the Treasury Board</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) terminating the nominations made by Order in Council P.C. 2023-785 of July 26, 2023; (2) nominating the Members of the King's Privy Council for Canada who, in addition to the President of the Treasury Board and the Minister of Finance, are to constitute the TREASURY BOARD; (3) nominating the Members of the King's Privy Council for Canada to be alternates to serve in their place; (4) declaring that three members of the Treasury Board constitute a quorum.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44246&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0955",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Financial Administration Act",
+  "subject": "Composition of the Treasury Board",
+  "precis": "Order (1) terminating the nominations made by Order in Council P.C. 2023-785 of July 26, 2023; (2) nominating the Members of the King's Privy Council for Canada who, in addition to the President of the Treasury Board and the Minister of Finance, are to constitute the TREASURY BOARD; (3) nominating the Members of the King's Privy Council for Canada to be alternates to serve in their place; (4) declaring that three members of the Treasury Board constitute a quorum.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44246"
+  ],
+  "htmlHash": "87ad683d340357e2853c061d7ea96e12"
+}

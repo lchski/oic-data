@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0906</td><td>2023-09-25</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Budget Implementation Act, 2018, No. 1</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing the Day on Which this Order is Made as the Day on Which Sections 342 to 348 of the Budget Implementation Act, 2018, No. 1, Come into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing the day after the day on which this Order is made as the day on which Sections 342 to 348 of the BUDGET IMPLEMENTATION ACT, 2018, No. 1, COME INTO FORCE in order to (1) bring into force legislative amendments that create a new category of permitted investment in infrastructure entities by federally regulated life insurance companies, fraternal benefit societies, and insurance holding companies; and (2) create new regulation-making authorities for the Governor in Council to prescribe the terms and conditions that are necessary to implement this new permission.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44197&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0906",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Budget Implementation Act, 2018, No. 1",
+  "subject": "Order Fixing the Day on Which this Order is Made as the Day on Which Sections 342 to 348 of the Budget Implementation Act, 2018, No. 1, Come into Force",
+  "precis": "Order fixing the day after the day on which this Order is made as the day on which Sections 342 to 348 of the BUDGET IMPLEMENTATION ACT, 2018, No. 1, COME INTO FORCE in order to (1) bring into force legislative amendments that create a new category of permitted investment in infrastructure entities by federally regulated life insurance companies, fraternal benefit societies, and insurance holding companies; and (2) create new regulation-making authorities for the Governor in Council to prescribe the terms and conditions that are necessary to implement this new permission.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44197"
+  ],
+  "htmlHash": "fe573e903362a980902043ae9a722f7b"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0943</td><td>2023-09-25</td><td></td><td></td><td>LAB</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian Centre for Occupational Health and Safety Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of JULIE HÉBERT of Montreal, Quebec, to be governor of the Council of the Canadian Centre for Occupational Health and Safety, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44234&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0943",
+  "date": "2023-09-25",
+  "chapter": "",
+  "bill": "",
+  "department": "LAB",
+  "act": "Canadian Centre for Occupational Health and Safety Act",
+  "subject": "",
+  "precis": "Appointment of JULIE HÉBERT of Montreal, Quebec, to be governor of the Council of the Canadian Centre for Occupational Health and Safety, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44234"
+  ],
+  "htmlHash": "0230ca1ba22dc2ff40a63f484e9922ec"
+}
