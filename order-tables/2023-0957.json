@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0957</td><td>2023-09-26</td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of NICOLAS SIMARD as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Mali.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44250&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0957",
+  "date": "2023-09-26",
+  "chapter": "",
+  "bill": "",
+  "department": "FA",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of NICOLAS SIMARD as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Mali.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44250"
+  ],
+  "htmlHash": "f6b4e4d21190412845ce1f705d8f9bba"
+}
