@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0961</td><td>2023-09-28</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Amendments to the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to accept, on behalf of Canada, the AMENDMENTS TO THE 1996 PROTOCOL TO THE CONVENTION ON THE PREVENTION OF MARINE POLLUTION BY DUMPING OF WASTES AND OTHER MATTER, 1972, adopted at London on October 7, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44255&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0961",
+  "date": "2023-09-28",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Order Authorizing the Amendments to the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to accept, on behalf of Canada, the AMENDMENTS TO THE 1996 PROTOCOL TO THE CONVENTION ON THE PREVENTION OF MARINE POLLUTION BY DUMPING OF WASTES AND OTHER MATTER, 1972, adopted at London on October 7, 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44255"
+  ],
+  "htmlHash": "7b019ce2aae4aa65963dc1accc1aae1c"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0958</td><td>2023-09-28</td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"5\">International Bridges and Tunnels Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Approving the Alteration of the Customs Facilities on the Canadian side of the Peace Bridge</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the alteration of the customs facilities on the Canadian side of the PEACE BRIDGE in Fort Erie, Ontario in order to build a permanent drive-through structure to facilitate the non-intrusive inspections of commercial vehicles entering the United States in advance of their arrival at a primary inspection booth at the port of entry.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44252&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0958",
+  "date": "2023-09-28",
+  "chapter": "",
+  "bill": "",
+  "department": "TC",
+  "act": "International Bridges and Tunnels Act",
+  "subject": "Order Approving the Alteration of the Customs Facilities on the Canadian side of the Peace Bridge",
+  "precis": "Order approving the alteration of the customs facilities on the Canadian side of the PEACE BRIDGE in Fort Erie, Ontario in order to build a permanent drive-through structure to facilitate the non-intrusive inspections of commercial vehicles entering the United States in advance of their arrival at a primary inspection booth at the port of entry.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44252"
+  ],
+  "htmlHash": "265a1b4d75fc528047ee41380735df9a"
+}
