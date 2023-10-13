@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1021</td><td>2023-10-06</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating Martin Roach as Commanding Officer</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating MARTIN ROACH of the Royal Canadian Mounted Police as Commanding Officer, \"C\" Division, for Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44319&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1021",
+  "date": "2023-10-06",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Royal Canadian Mounted Police Act",
+  "subject": "Order Designating Martin Roach as Commanding Officer",
+  "precis": "Order designating MARTIN ROACH of the Royal Canadian Mounted Police as Commanding Officer, \"C\" Division, for Quebec.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44319"
+  ],
+  "htmlHash": "277c95170f00b91e822c890fe8b1539a"
+}

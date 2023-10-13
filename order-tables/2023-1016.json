@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1016</td><td>2023-10-06</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">General Preferential Tariff, General Preferential Tariff Plus and Least Developed Country Tariff Rules of Origin Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">GENERAL PREFERENTIAL TARIFF, GENERAL PREFERENTIAL TARIFF PLUS AND LEAST DEVELOPED COUNTRY TARIFF RULES OF ORIGIN REGULATIONS in order to harmonize the rules of origin for apparel products under the programs allowing for the cutting and sewing of non-originating fabrics in developing countries to confer origin.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0210  <strong>Publication Date:</strong> 2023-10-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44314&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1016",
+  "date": "2023-10-06",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Customs Tariff",
+  "subject": "General Preferential Tariff, General Preferential Tariff Plus and Least Developed Country Tariff Rules of Origin Regulations",
+  "precis": "GENERAL PREFERENTIAL TARIFF, GENERAL PREFERENTIAL TARIFF PLUS AND LEAST DEVELOPED COUNTRY TARIFF RULES OF ORIGIN REGULATIONS in order to harmonize the rules of origin for apparel products under the programs allowing for the cutting and sewing of non-originating fabrics in developing countries to confer origin.",
+  "registration": "Registration: SOR/ 2023-0210  Publication Date: 2023-10-25",
+  "registration_type": "SOR",
+  "registration_id": "2023-0210",
+  "registration_publication_date": "2023-10-25",
+  "attachments": [
+    "44314"
+  ],
+  "htmlHash": "12c27dff09f1287c9ec007dcca8fe973"
+}

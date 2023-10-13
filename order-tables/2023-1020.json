@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1020</td><td>2023-10-06</td><td></td><td></td><td>FIN</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Fixing January 1, 2025 as the Day on Which Section 229 of the Budget Implementation Act, 2023, No. 1 Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order fixing January 1, 2025 as the day on which section 229 of the BUDGET IMPLEMENTATION ACT, 2023, NO. 1, Chapter 26 of the Statutes of Canada, 2023, COMES INTO FORCE in order to bring into effect changes to the Customs Tariff.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44318&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1020",
+  "date": "2023-10-06",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "",
+  "subject": "Order Fixing January 1, 2025 as the Day on Which Section 229 of the Budget Implementation Act, 2023, No. 1 Comes into Force",
+  "precis": "Order fixing January 1, 2025 as the day on which section 229 of the BUDGET IMPLEMENTATION ACT, 2023, NO. 1, Chapter 26 of the Statutes of Canada, 2023, COMES INTO FORCE in order to bring into effect changes to the Customs Tariff.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44318"
+  ],
+  "htmlHash": "0e27a14259e88a46cca71e113a9115ec"
+}

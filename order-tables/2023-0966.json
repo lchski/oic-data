@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-0966</td><td>2023-10-06</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Pension Plan Investment  Board Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of DEAN A. CONNOR of Toronto, Ontario, as a director of the board of directors of the Canada Pension Plan Investment Board, to hold office during good behaviour for a term of three years; and his designation as Chairperson of the board of directors of the Canada Pension Plan Investment Board, effective October 27, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-0966",
+  "date": "2023-10-06",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Canada Pension Plan Investment  Board Act",
+  "subject": "",
+  "precis": "Reappointment of DEAN A. CONNOR of Toronto, Ontario, as a director of the board of directors of the Canada Pension Plan Investment Board, to hold office during good behaviour for a term of three years; and his designation as Chairperson of the board of directors of the Canada Pension Plan Investment Board, effective October 27, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44264"
+  ],
+  "htmlHash": "967329466a161d26bb340c18bcf94cd0"
+}

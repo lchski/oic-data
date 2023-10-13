@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1018</td><td>2023-10-06</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"5\">Direct Shipment (Most-Favoured-Nation Tariff, General Preferential Tariff, General Preferential Tariff Plus, Least Developed Country Tariff, Commonwealth Caribbean Countries Tariff, Australia Tariff and New Zealand Tariff) Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">DIRECT SHIPMENT (MOST-FAVOURED-NATION TARIFF, GENERAL PREFERENTIAL TARIFF, GENERAL PREFERENTIAL TARIFF PLUS, LEAST DEVELOPED COUNTRY TARIFF, COMMONWEALTH CARIBBEAN COUNTRIES TARIFF, AUSTRALIA TARIFF AND NEW ZEALAND TARIFF) REGULATIONS in order to reinstate direct shipment and transhipment requirements to broaden the types of documentation that can serve as proof that goods were shipped directly to Canada, as well as to remove the time limit on the storage of goods in an intermediary country.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0212  <strong>Publication Date:</strong> 2023-10-25</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44316&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1018",
+  "date": "2023-10-06",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Customs Tariff",
+  "subject": "Direct Shipment (Most-Favoured-Nation Tariff, General Preferential Tariff, General Preferential Tariff Plus, Least Developed Country Tariff, Commonwealth Caribbean Countries Tariff, Australia Tariff and New Zealand Tariff) Regulations",
+  "precis": "DIRECT SHIPMENT (MOST-FAVOURED-NATION TARIFF, GENERAL PREFERENTIAL TARIFF, GENERAL PREFERENTIAL TARIFF PLUS, LEAST DEVELOPED COUNTRY TARIFF, COMMONWEALTH CARIBBEAN COUNTRIES TARIFF, AUSTRALIA TARIFF AND NEW ZEALAND TARIFF) REGULATIONS in order to reinstate direct shipment and transhipment requirements to broaden the types of documentation that can serve as proof that goods were shipped directly to Canada, as well as to remove the time limit on the storage of goods in an intermediary country.",
+  "registration": "Registration: SOR/ 2023-0212  Publication Date: 2023-10-25",
+  "registration_type": "SOR",
+  "registration_id": "2023-0212",
+  "registration_publication_date": "2023-10-25",
+  "attachments": [
+    "44316"
+  ],
+  "htmlHash": "e4a482c336867254d98f737679fa0f9f"
+}
