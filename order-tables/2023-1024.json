@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1024</td><td>2023-10-12</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DEBORAH LYONS of Ottawa, Ontario, to be a special adviser to the Minister of Foreign Affairs and the Minister of Diversity, Inclusion and Persons with Disabilities, to be known as Special Envoy on Preserving Holocaust Remembrance and Combatting Antisemitism, to hold office during pleasure for a term of two years, effective October 16, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44335&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1024",
+  "date": "2023-10-12",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Employment Act",
+  "subject": "",
+  "precis": "Appointment of DEBORAH LYONS of Ottawa, Ontario, to be a special adviser to the Minister of Foreign Affairs and the Minister of Diversity, Inclusion and Persons with Disabilities, to be known as Special Envoy on Preserving Holocaust Remembrance and Combatting Antisemitism, to hold office during pleasure for a term of two years, effective October 16, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44335"
+  ],
+  "htmlHash": "1919d83f6b2c154e78b12583d5d882b1"
+}
