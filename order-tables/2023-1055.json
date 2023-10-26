@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1055</td><td>2023-10-20</td><td></td><td></td><td>PARKS, ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Authorizing the Canadian Pacific Railway Company to Make Alterations its Railway Station in Medicine Hat, Alberta</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing CANADIAN PACIFIC RAILWAY COMPANY to make alterations to its railway station located at 402 North Railway Street in Medicine Hat, Alberta in order to repair or replace roof shingles and windows in a way that preserves the station’s heritage character.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44365&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1055",
+  "date": "2023-10-20",
+  "chapter": "",
+  "bill": "",
+  "department": "PARKS, ECCC",
+  "act": "Heritage Railway Stations  Protection Act",
+  "subject": "Order Authorizing the Canadian Pacific Railway Company to Make Alterations its Railway Station in Medicine Hat, Alberta",
+  "precis": "Order authorizing CANADIAN PACIFIC RAILWAY COMPANY to make alterations to its railway station located at 402 North Railway Street in Medicine Hat, Alberta in order to repair or replace roof shingles and windows in a way that preserves the station’s heritage character.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44365"
+  ],
+  "htmlHash": "11de5c00368164640c0c81d146daa9c6"
+}

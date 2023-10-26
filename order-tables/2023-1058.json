@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1058</td><td>2023-10-20</td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"5\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Provincial Emergency Financial Assistance Order No. 256, Quebec</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 256 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to QUEBEC with respect to the post-tropical storm Fiona that occurred from September 23 to 25, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44368&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1058",
+  "date": "2023-10-20",
+  "chapter": "",
+  "bill": "",
+  "department": "PS",
+  "act": "Emergency Management Act",
+  "subject": "Provincial Emergency Financial Assistance Order No. 256, Quebec",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 256 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to QUEBEC with respect to the post-tropical storm Fiona that occurred from September 23 to 25, 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44368"
+  ],
+  "htmlHash": "cceb8603b52de0c58bf38d69d711cc1d"
+}

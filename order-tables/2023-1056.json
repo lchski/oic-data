@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1056</td><td>2023-10-20</td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"5\">Convention on the International Recovery of Child Support and Other Forms of Family Maintenance</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to BRING INTO FORCE for Canada the CONVENTION on the INTERNATIONAL RECOVERY OF CHILD SUPPORT AND OTHER FORMS OF FAMILY MAINTENANCE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44366&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1056",
+  "date": "2023-10-20",
+  "chapter": "",
+  "bill": "",
+  "department": "GAC",
+  "act": "Other Than Statutory Authority",
+  "subject": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+  "precis": "Order authorizing the Minister of Foreign Affairs to BRING INTO FORCE for Canada the CONVENTION on the INTERNATIONAL RECOVERY OF CHILD SUPPORT AND OTHER FORMS OF FAMILY MAINTENANCE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44366"
+  ],
+  "htmlHash": "b52ef66d1611327b00e3f5766bbec258"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1050</td><td>2023-10-20</td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of DARREN REED of the City of Calgary, in the Province of Alberta, Barrister-at-law, to be a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44361&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1050",
+  "date": "2023-10-20",
+  "chapter": "",
+  "bill": "",
+  "department": "JUS",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Appointment of DARREN REED of the City of Calgary, in the Province of Alberta, Barrister-at-law, to be a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44361"
+  ],
+  "htmlHash": "579cdd75122b1ad79e179e5ea4dc8ec2"
+}
