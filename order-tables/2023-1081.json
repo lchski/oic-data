@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1081</td><td>2023-10-27</td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating a Commanding Officer</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order designating KENNETH DWAYNE McDONALD of the Royal Canadian Mounted Police as Commanding Officer, \"E\" Division, for British Columbia</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44395&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1081",
+  "date": "2023-10-27",
+  "chapter": "",
+  "bill": "",
+  "department": "PS, RCMP",
+  "act": "Royal Canadian Mounted Police Act",
+  "subject": "Order Designating a Commanding Officer",
+  "precis": "Order designating KENNETH DWAYNE McDONALD of the Royal Canadian Mounted Police as Commanding Officer, \"E\" Division, for British Columbia",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44395"
+  ],
+  "htmlHash": "2c065cb1af1bf0560de4eff6608f4d0d"
+}

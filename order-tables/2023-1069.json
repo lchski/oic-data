@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1069</td><td>2023-10-27</td><td></td><td></td><td>ESDC, TB</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Supplemental Benefits Received by Three Governor in Council Appointees Within the Department of Employment and Social Development Remission Order</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">SUPPLEMENTAL BENEFITS RECEIVED BY THREE GOVERNOR IN COUNCIL APPOINTEES WITHIN THE DEPARTMENT OF EMPLOYMENT AND SOCIAL DEVELOPMENT REMISSION ORDER in order to remit the debts unknowingly incurred by two full-time appointees to the National Advisory Council on Poverty and by the full-time Chief Accessibility Officer as a result of administrative error and oversight.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44408&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1069",
+  "date": "2023-10-27",
+  "chapter": "",
+  "bill": "",
+  "department": "ESDC, TB",
+  "act": "Financial Administration Act",
+  "subject": "Supplemental Benefits Received by Three Governor in Council Appointees Within the Department of Employment and Social Development Remission Order",
+  "precis": "SUPPLEMENTAL BENEFITS RECEIVED BY THREE GOVERNOR IN COUNCIL APPOINTEES WITHIN THE DEPARTMENT OF EMPLOYMENT AND SOCIAL DEVELOPMENT REMISSION ORDER in order to remit the debts unknowingly incurred by two full-time appointees to the National Advisory Council on Poverty and by the full-time Chief Accessibility Officer as a result of administrative error and oversight.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44408"
+  ],
+  "htmlHash": "0fc4ebf57cc56ec29a12992aaf57a2ad"
+}

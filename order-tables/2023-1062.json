@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1062</td><td>2023-10-27</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule I.1 to the Financial Administration Act (Office of the Commissioner of Official Languages)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order AMENDING SCHEDULE I.1 OF THE FINANCIAL ADMINISTRATION ACT by striking out the reference to the Minister of Infrastructure and Communities and substituting for the Minister of Public Safety and Emergency Preparedness as the appropriate Minister with respect to the OFFICE OF THE COMMISSIONER OF OFFICIAL LANGUAGES.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44374&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1062",
+  "date": "2023-10-27",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Financial Administration Act",
+  "subject": "Order Amending Schedule I.1 to the Financial Administration Act (Office of the Commissioner of Official Languages)",
+  "precis": "Order AMENDING SCHEDULE I.1 OF THE FINANCIAL ADMINISTRATION ACT by striking out the reference to the Minister of Infrastructure and Communities and substituting for the Minister of Public Safety and Emergency Preparedness as the appropriate Minister with respect to the OFFICE OF THE COMMISSIONER OF OFFICIAL LANGUAGES.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44374"
+  ],
+  "htmlHash": "d9b8e0c80b200f458fabb7cb3bd17d83"
+}

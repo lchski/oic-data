@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1061</td><td>2023-10-26</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of the Honorable Karina Gould and the Honourable Steven MacKinnon</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) terminating the appointments made by Order in Council P.C.2021-992 of December 1, 2021; and (2) appointing the Honourable KARINA GOULD and the Honourable STEVEN MACKINONN , members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44373&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1061",
+  "date": "2023-10-26",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Parliament of Canada Act",
+  "subject": "Appointment of the Honorable Karina Gould and the Honourable Steven MacKinnon",
+  "precis": "Order (1) terminating the appointments made by Order in Council P.C.2021-992 of December 1, 2021; and (2) appointing the Honourable KARINA GOULD and the Honourable STEVEN MACKINONN , members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44373"
+  ],
+  "htmlHash": "c12697afa04537e73ee995eabaf99b8c"
+}

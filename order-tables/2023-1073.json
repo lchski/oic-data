@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1073</td><td>2023-10-27</td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating a Deputy Commissioner - RCMP</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order appointing KENNETH DWAYNE McDONALD of the Royal Canadian Mounted Police to the rank of Deputy Commissioner .</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44387&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1073",
+  "date": "2023-10-27",
+  "chapter": "",
+  "bill": "",
+  "department": "PS, RCMP",
+  "act": "Royal Canadian Mounted Police Act",
+  "subject": "Order Designating a Deputy Commissioner - RCMP",
+  "precis": "Order appointing KENNETH DWAYNE McDONALD of the Royal Canadian Mounted Police to the rank of Deputy Commissioner .",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44387"
+  ],
+  "htmlHash": "ea4f501c7d8de727feaf37a08f8bb121"
+}
