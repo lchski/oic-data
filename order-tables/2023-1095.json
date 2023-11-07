@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1095</td><td>2023-11-01</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Indian Affairs and Northern Development Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of VALERIE GIDEON, President of the Federal Economic Development Agency for Northern Ontario, to be concurrently Deputy Minister of Crown-Indigenous Relations, to be styled Deputy Minister of Crown-Indigenous Relations and Northern Affairs, to hold office during pleasure, effective November 25, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44415&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1095",
+  "date": "2023-11-01",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Department of Indian Affairs and Northern Development Act",
+  "subject": "",
+  "precis": "Appointment of VALERIE GIDEON, President of the Federal Economic Development Agency for Northern Ontario, to be concurrently Deputy Minister of Crown-Indigenous Relations, to be styled Deputy Minister of Crown-Indigenous Relations and Northern Affairs, to hold office during pleasure, effective November 25, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44415"
+  ],
+  "htmlHash": "75932e2dd11a73d0dd521fcc953558c3"
+}
