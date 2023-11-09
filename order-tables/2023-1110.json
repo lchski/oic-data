@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1110</td><td>2023-11-03</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Amendment to Order in Council P.C. 2022-1122, dated October 20, 2022, by adding “to be styled Procurement Ombud,” after the title “as Procurement Obudsman”.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44447&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1110",
+  "date": "2023-11-03",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Other Than Statutory Authority",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2022-1122, dated October 20, 2022, by adding “to be styled Procurement Ombud,” after the title “as Procurement Obudsman”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44447"
+  ],
+  "htmlHash": "06dc519aa00ea6a1b3f5f3405be6fdf1"
+}

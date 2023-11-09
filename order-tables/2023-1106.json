@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1106</td><td>2023-11-03</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Retail Payment Activities Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Retail Payment Activities Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">RETAIL PAYMENT ACTIVITIES REGULATIONS in order to (1) introduce standards for operational risk management; (2) introduce requirements to safeguard end users' funds; (3) introduce requirements regarding payment service providers' registration with the Bank of Canada; (4) introduce reporting requirements; (5) introduce penalties for violating requirements; and (6) introduce the timelines and information requirements to support the national security review process as part of the Minister's national security authorities under the Act.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0229  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44443&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1106",
+  "date": "2023-11-03",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Retail Payment Activities Act",
+  "subject": "Retail Payment Activities Regulations",
+  "precis": "RETAIL PAYMENT ACTIVITIES REGULATIONS in order to (1) introduce standards for operational risk management; (2) introduce requirements to safeguard end users' funds; (3) introduce requirements regarding payment service providers' registration with the Bank of Canada; (4) introduce reporting requirements; (5) introduce penalties for violating requirements; and (6) introduce the timelines and information requirements to support the national security review process as part of the Minister's national security authorities under the Act.",
+  "registration": "Registration: SOR/ 2023-0229  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0229",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44443"
+  ],
+  "htmlHash": "e7bc525b07e403d6603821177cadf0aa"
+}

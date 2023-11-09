@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1104</td><td>2023-11-03</td><td></td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Student Financial Assistance Act<br>Canada Student Loans Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Canada Student Loans Regulations and the Canada Student Financial Assistance Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS and the CANADA STUDENT LOANS REGULATIONS in order to allow a family physician to be eligible for up to a maximum of $60,000 in loan forgiveness and a nurse or nurse practitioner to be eligible for up to $30,000 in loan forgiveness over five years.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0227  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44442&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1104",
+  "date": "2023-11-03",
+  "chapter": "",
+  "bill": "",
+  "department": "ESDC",
+  "act": "Canada Student Financial Assistance ActCanada Student Loans Act",
+  "subject": "Regulations Amending the Canada Student Loans Regulations and the Canada Student Financial Assistance Regulations",
+  "precis": "Regulations Amending the CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS and the CANADA STUDENT LOANS REGULATIONS in order to allow a family physician to be eligible for up to a maximum of $60,000 in loan forgiveness and a nurse or nurse practitioner to be eligible for up to $30,000 in loan forgiveness over five years.",
+  "registration": "Registration: SOR/ 2023-0227  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0227",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44442"
+  ],
+  "htmlHash": "15f17d82ecb89bc6a5f17d5cf494ba52"
+}
