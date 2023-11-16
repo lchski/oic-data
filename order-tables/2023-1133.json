@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1133</td><td>2023-11-09</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Greenhouse Gas Pollution Pricing Act<br>Environmental Violations Administrative Monetary Penalties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Output-Based Pricing System Regulations and the Environmental Violations Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the OUTPUT-BASED PRICING SYSTEM REGULATIONS and the ENVIRONMENTAL VIOLATIONS ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) add an annual tightening rate to most output-based standards, such that the Output-Based Pricing System (OBPS) will continue to met its objective by maintaining a marginal price on emissions; (2) introduce new and update existing output-based standards; (3) improve implementation; (4) ensure accurate reporting; and (5) streamline voluntary participation.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0240  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44475&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1133",
+  "date": "2023-11-09",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Greenhouse Gas Pollution Pricing ActEnvironmental Violations Administrative Monetary Penalties Act",
+  "subject": "Regulations Amending the Output-Based Pricing System Regulations and the Environmental Violations Administrative Monetary Penalties Regulations",
+  "precis": "Regulations Amending the OUTPUT-BASED PRICING SYSTEM REGULATIONS and the ENVIRONMENTAL VIOLATIONS ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) add an annual tightening rate to most output-based standards, such that the Output-Based Pricing System (OBPS) will continue to met its objective by maintaining a marginal price on emissions; (2) introduce new and update existing output-based standards; (3) improve implementation; (4) ensure accurate reporting; and (5) streamline voluntary participation.",
+  "registration": "Registration: SOR/ 2023-0240  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0240",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44475"
+  ],
+  "htmlHash": "3f113d0ab97a0ebd885bb51ec4881f36"
+}

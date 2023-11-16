@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1134</td><td>2023-11-09</td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"5\">Wild Animal and Plant Protection  and Regulation of International  and Interprovincial Trade Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Wild Animal and Plant Trade Regulations</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the WILD ANIMAL AND PLANT TRADE REGULATIONS in order to (1) prohibit the import and export of raw elephant ivory and raw rhinoceros horn, unless the specimens are destined for a museum or zoo, use in scientific research or use in support of law enforcement activities; and (2) remove permit exemption for worked elephant tusk and rhinoceros horn that is a personal or household effect.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0241  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44476&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1134",
+  "date": "2023-11-09",
+  "chapter": "",
+  "bill": "",
+  "department": "ECCC",
+  "act": "Wild Animal and Plant Protection  and Regulation of International  and Interprovincial Trade Act",
+  "subject": "Regulations Amending the Wild Animal and Plant Trade Regulations",
+  "precis": "Regulations Amending the WILD ANIMAL AND PLANT TRADE REGULATIONS in order to (1) prohibit the import and export of raw elephant ivory and raw rhinoceros horn, unless the specimens are destined for a museum or zoo, use in scientific research or use in support of law enforcement activities; and (2) remove permit exemption for worked elephant tusk and rhinoceros horn that is a personal or household effect.",
+  "registration": "Registration: SOR/ 2023-0241  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0241",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44476"
+  ],
+  "htmlHash": "cc9bf924e83269face35475b81a6c4e6"
+}

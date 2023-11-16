@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1135</td><td>2023-11-09</td><td></td><td></td><td>NR, CRA</td></tr><tr><td>Act</td><td colspan=\"5\">Excise Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Regulations Relieving Special Duty on Certain Tobacco Products and the Regulations Respecting Prescribed Brands of Manufactured Tobacco and Prescribed Cigarettes</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the REGULATIONS RELIEVING SPECIAL DUTY ON CERTAIN TOBACCO PRODUCTS AND THE REGULATIONS RESPECTING PRESCRIBED BRANDS OF MANUFACTURED TOBACCO AND PRESCRIBED CIGARETTES in order to extend relief from tobacco marking requirements and special duty for 32 brands of tobacco.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0242  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44477&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1135",
+  "date": "2023-11-09",
+  "chapter": "",
+  "bill": "",
+  "department": "NR, CRA",
+  "act": "Excise Act, 2001",
+  "subject": "Regulations Amending the Regulations Relieving Special Duty on Certain Tobacco Products and the Regulations Respecting Prescribed Brands of Manufactured Tobacco and Prescribed Cigarettes",
+  "precis": "Regulations Amending the REGULATIONS RELIEVING SPECIAL DUTY ON CERTAIN TOBACCO PRODUCTS AND THE REGULATIONS RESPECTING PRESCRIBED BRANDS OF MANUFACTURED TOBACCO AND PRESCRIBED CIGARETTES in order to extend relief from tobacco marking requirements and special duty for 32 brands of tobacco.",
+  "registration": "Registration: SOR/ 2023-0242  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0242",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44477"
+  ],
+  "htmlHash": "cca3cc102b9183dc1a21d929fb605120"
+}

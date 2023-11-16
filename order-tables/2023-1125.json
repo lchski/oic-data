@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1125</td><td>2023-11-09</td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"5\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Issuing Directions to the CRTC (Sustainable and Equitable Broadcasting Regulatory Framework)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">ORDER ISSUING DIRECTIONS TO THE CRTC (SUSTAINABLE AND EQUITABLE REGULATORY FRAMEWORK FOR BROADCASTING) in order to (1) ensure the meaningful participation of Indigenous persons in the broadcasting system; (2) exclude social media users and creators and their content from regulation; (3) support greater inclusion of equity-seeking groups and ethnocultural groups in the broadcasting system; (4) support the vitality of official language minority communities (OLMCs) in Canada and fostering the full recognition and use of both English and French in Canadian society;(5)Support Canadian creators and media, including independent and community-run elements; (6) implementing discoverability requirements in a way that minimizes the need to alter the algorithms of broadcasting undertakings and that, where possible, increases choice for users; (7) redefine Canadian programs; and (8) create an equitable, flexible and adaptable regulatory framework.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0239  <strong>Publication Date:</strong> 2023-11-22</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44468&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1125",
+  "date": "2023-11-09",
+  "chapter": "",
+  "bill": "",
+  "department": "PCH",
+  "act": "Broadcasting Act",
+  "subject": "Order Issuing Directions to the CRTC (Sustainable and Equitable Broadcasting Regulatory Framework)",
+  "precis": "ORDER ISSUING DIRECTIONS TO THE CRTC (SUSTAINABLE AND EQUITABLE REGULATORY FRAMEWORK FOR BROADCASTING) in order to (1) ensure the meaningful participation of Indigenous persons in the broadcasting system; (2) exclude social media users and creators and their content from regulation; (3) support greater inclusion of equity-seeking groups and ethnocultural groups in the broadcasting system; (4) support the vitality of official language minority communities (OLMCs) in Canada and fostering the full recognition and use of both English and French in Canadian society;(5)Support Canadian creators and media, including independent and community-run elements; (6) implementing discoverability requirements in a way that minimizes the need to alter the algorithms of broadcasting undertakings and that, where possible, increases choice for users; (7) redefine Canadian programs; and (8) create an equitable, flexible and adaptable regulatory framework.",
+  "registration": "Registration: SOR/ 2023-0239  Publication Date: 2023-11-22",
+  "registration_type": "SOR",
+  "registration_id": "2023-0239",
+  "registration_publication_date": "2023-11-22",
+  "attachments": [
+    "44468"
+  ],
+  "htmlHash": "97bf30c6c9bfe7be87372b99061ead19"
+}
