@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1140</td><td>2023-11-15</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Transferring from Shared Services Canada to the Department of Public Works and Government Services the Control and Supervision of the NexT Generation Human Resources and Pay System Initiative</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order Transferring from Shared Services Canada to the DEPARTMENT OF PUBLIC WORKS AND GOVERNMENT SERVICES the control and supervision of the NEXT GENERATION HUMAN RESOURCES AND PAY SYSTEM INITIATIVE.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44485&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1140",
+  "date": "2023-11-15",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Public Service Rearrangement and Transfer of Duties Act",
+  "subject": "Order Transferring from Shared Services Canada to the Department of Public Works and Government Services the Control and Supervision of the NexT Generation Human Resources and Pay System Initiative",
+  "precis": "Order Transferring from Shared Services Canada to the DEPARTMENT OF PUBLIC WORKS AND GOVERNMENT SERVICES the control and supervision of the NEXT GENERATION HUMAN RESOURCES AND PAY SYSTEM INITIATIVE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44485"
+  ],
+  "htmlHash": "96b766ea8f7d17312e2ec1f3a28ee11c"
+}
