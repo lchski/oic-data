@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1142</td><td>2023-11-23</td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Designating the Minister of Public Safety and Emergency Preparedness to be the Minister Referred to in Federal Public Sector Labour Relations and Employment Board Act and as the Minister for the Purposes of the Federal Public Sector Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order (1) repealing Orders in Council P.C. 2019-1352 of November 20, 2019 and P.C. 2019-1353 of November 20, 2019; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, who is not a member of the Treasury Board, to be the Minister for the purposes of the FEDERAL PUBLIC SECTOR LABOUR RELATIONS ACT.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44491&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1142",
+  "date": "2023-11-23",
+  "chapter": "",
+  "bill": "",
+  "department": "PMO",
+  "act": "Federal Public Sector Labour Relations Act",
+  "subject": "Order Designating the Minister of Public Safety and Emergency Preparedness to be the Minister Referred to in Federal Public Sector Labour Relations and Employment Board Act and as the Minister for the Purposes of the Federal Public Sector Labour Relations Act",
+  "precis": "Order (1) repealing Orders in Council P.C. 2019-1352 of November 20, 2019 and P.C. 2019-1353 of November 20, 2019; and (2) designating the Minister of PUBLIC SAFETY AND EMERGENCY PREPAREDNESS, who is not a member of the Treasury Board, to be the Minister for the purposes of the FEDERAL PUBLIC SECTOR LABOUR RELATIONS ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44491"
+  ],
+  "htmlHash": "bf7d9c6b70c90860ba9e519f806ce6e4"
+}

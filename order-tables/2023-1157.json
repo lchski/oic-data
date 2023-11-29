@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1157</td><td>2023-11-23</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Extending the Canada-Ontario Immigration Agreement</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving that the Minister of Citizenship and Immigration enter into an agreement with Ontario to extend the CANADA-ONTARIO IMMIGRATION AGREEMENT for a period of one year.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44492&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1157",
+  "date": "2023-11-23",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Department of Citizenship and Immigration ActImmigration and Refugee Protection Act",
+  "subject": "Order Extending the Canada-Ontario Immigration Agreement",
+  "precis": "Order approving that the Minister of Citizenship and Immigration enter into an agreement with Ontario to extend the CANADA-ONTARIO IMMIGRATION AGREEMENT for a period of one year.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44492"
+  ],
+  "htmlHash": "5c8888990800706c34393d4775d7c1c1"
+}
