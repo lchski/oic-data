@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1152</td><td>2023-11-24</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Appointment of SORAYA HINDE FARHA of Toronto, Ontario, to be a part-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years, effective November 26, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44502&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1152",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "",
+  "precis": "Appointment of SORAYA HINDE FARHA of Toronto, Ontario, to be a part-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years, effective November 26, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44502"
+  ],
+  "htmlHash": "d7b9d3986974a78246b2cd3531a67d68"
+}

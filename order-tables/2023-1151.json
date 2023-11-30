@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1151</td><td>2023-11-24</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Reappointment of MARK FERRARI of Burnaby, British Columbia, as a part-time member of the Immigration and Refugee Board (Vancouver Regional Office), to hold office during good behaviour for a term of five years, effective January 22, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44501&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1151",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "",
+  "precis": "Reappointment of MARK FERRARI of Burnaby, British Columbia, as a part-time member of the Immigration and Refugee Board (Vancouver Regional Office), to hold office during good behaviour for a term of five years, effective January 22, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44501"
+  ],
+  "htmlHash": "46903cb32e216b9d0bd91100b88e11b7"
+}

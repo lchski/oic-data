@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1160</td><td>2023-11-24</td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"5\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Ontario Fishery Regulations, 1989 and the Ontario Fishery Regulations, 2007</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the ONTARIO FISHERY REGULATIONS, 1989 (ONFR, 1989) AND THE ONTARIO FISHERY REGULATIONS, 2007 (ONFR, 2007), in order to (1) make technical amendments to the regulations; (2) make changes in the ONFR, 2007 to (i) authorize the provincial minister to vary gear and equipment, (ii) allow two lines while trolling throughout Lake Superior and when fishing from a vessel throughout Lake Erie, (iii) update the list of permitted baitfish species, and (iv) update the list of waters where possession or use of live baitfish is prohibited; and (3) make changes in the ONFR, 1989 to (i) create three new sanctuaries to protect aurora trout in Aurora Lake, Little Aurora Lake and Little Whitepine Lake, (ii) expand existing sanctuaries to include portions of Fushimi Lake, Hanlan Lake and a new segment of the Valentine River, and (iii) update the descriptions of 11 sanctuaries.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0245  <strong>Publication Date:</strong> 2023-12-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44507&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1160",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "DFO",
+  "act": "Fisheries Act",
+  "subject": "Regulations Amending the Ontario Fishery Regulations, 1989 and the Ontario Fishery Regulations, 2007",
+  "precis": "Regulations Amending the ONTARIO FISHERY REGULATIONS, 1989 (ONFR, 1989) AND THE ONTARIO FISHERY REGULATIONS, 2007 (ONFR, 2007), in order to (1) make technical amendments to the regulations; (2) make changes in the ONFR, 2007 to (i) authorize the provincial minister to vary gear and equipment, (ii) allow two lines while trolling throughout Lake Superior and when fishing from a vessel throughout Lake Erie, (iii) update the list of permitted baitfish species, and (iv) update the list of waters where possession or use of live baitfish is prohibited; and (3) make changes in the ONFR, 1989 to (i) create three new sanctuaries to protect aurora trout in Aurora Lake, Little Aurora Lake and Little Whitepine Lake, (ii) expand existing sanctuaries to include portions of Fushimi Lake, Hanlan Lake and a new segment of the Valentine River, and (iii) update the descriptions of 11 sanctuaries.",
+  "registration": "Registration: SOR/ 2023-0245  Publication Date: 2023-12-06",
+  "registration_type": "SOR",
+  "registration_id": "2023-0245",
+  "registration_publication_date": "2023-12-06",
+  "attachments": [
+    "44507"
+  ],
+  "htmlHash": "07f94d519d5494de80639ff87f60c416"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1162</td><td>2023-11-24</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act<br>Tobacco and Vaping Products Act<br>Canada Consumer Product Safety Act<br>Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending Certain Department of  Health Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN HEALTH CANADA REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) clarify a cross-reference to section numbering; (2) correct discrepancies between the French and English text of the regulations; (3) correct typographical or grammatical errors; (4) harmonize terms with those used in related regulations; (5) correct terminology discrepancies; (6) improve clarity for various provisions; (7) renumber certain sections; and (8) update references to standards and other documents incorporated by reference.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0247  <strong>Publication Date:</strong> 2023-12-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44509&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1162",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Controlled Drugs and Substances ActTobacco and Vaping Products ActCanada Consumer Product Safety ActFood and Drugs Act",
+  "subject": "Regulations Amending Certain Department of  Health Regulations (Miscellaneous Program)",
+  "precis": "Regulations Amending CERTAIN HEALTH CANADA REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) clarify a cross-reference to section numbering; (2) correct discrepancies between the French and English text of the regulations; (3) correct typographical or grammatical errors; (4) harmonize terms with those used in related regulations; (5) correct terminology discrepancies; (6) improve clarity for various provisions; (7) renumber certain sections; and (8) update references to standards and other documents incorporated by reference.",
+  "registration": "Registration: SOR/ 2023-0247  Publication Date: 2023-12-06",
+  "registration_type": "SOR",
+  "registration_id": "2023-0247",
+  "registration_publication_date": "2023-12-06",
+  "attachments": [
+    "44509"
+  ],
+  "htmlHash": "fc7eb85e9741e740baa44847ae0033b1"
+}

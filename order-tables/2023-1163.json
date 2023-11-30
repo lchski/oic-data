@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1163</td><td>2023-11-24</td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"5\">Controlled Drugs and Substances Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Order Amending Schedule VI to the Controlled Drugs and Substances Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending CERTAIN HEALTH CANADA REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct the discrepancy in the name of the precursor chemical between the French and English text.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0248  <strong>Publication Date:</strong> 2023-12-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44510&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1163",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "HC",
+  "act": "Controlled Drugs and Substances Act",
+  "subject": "Order Amending Schedule VI to the Controlled Drugs and Substances Act (Miscellaneous Program)",
+  "precis": "Regulations Amending CERTAIN HEALTH CANADA REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct the discrepancy in the name of the precursor chemical between the French and English text.",
+  "registration": "Registration: SOR/ 2023-0248  Publication Date: 2023-12-06",
+  "registration_type": "SOR",
+  "registration_id": "2023-0248",
+  "registration_publication_date": "2023-12-06",
+  "attachments": [
+    "44510"
+  ],
+  "htmlHash": "46bf880b04ff5a4638c289d39e293834"
+}

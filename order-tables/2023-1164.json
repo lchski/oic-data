@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1164</td><td>2023-11-24</td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"5\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Immigration and Refugee Protection Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct issues identified by the Standing Joint Committee for the Scrutiny of Regulations (SJCSR), such as grammatical errors, numbering, discrepancies between the French and English versions of the text, redundancies, and clarification of definitions.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0249  <strong>Publication Date:</strong> 2023-12-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44511&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1164",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "IRCC",
+  "act": "Immigration and Refugee Protection Act",
+  "subject": "Regulations Amending the Immigration and Refugee Protection Regulations (Miscellaneous Program)",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (MISCELLANEOUS PROGRAM) in order to correct issues identified by the Standing Joint Committee for the Scrutiny of Regulations (SJCSR), such as grammatical errors, numbering, discrepancies between the French and English versions of the text, redundancies, and clarification of definitions.",
+  "registration": "Registration: SOR/ 2023-0249  Publication Date: 2023-12-06",
+  "registration_type": "SOR",
+  "registration_id": "2023-0249",
+  "registration_publication_date": "2023-12-06",
+  "attachments": [
+    "44511"
+  ],
+  "htmlHash": "3e61b313ad85744a990f4664d18a5ca9"
+}

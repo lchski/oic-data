@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1167</td><td>2023-11-24</td><td></td><td></td><td>HC, CFIA</td></tr><tr><td>Act</td><td colspan=\"5\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Collective Agreement between Canadian Food Inspection Agency and Public Service Alliance of Canada</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the CANADIAN FOOD INSPECTION AGENCY to enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA (PSAC) that covers all employees in the PSAC Bargaining Unit for the period beginning on January 1, 2022 and ending on December 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44514&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1167",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "HC, CFIA",
+  "act": "Federal Public Sector Labour Relations Act",
+  "subject": "Collective Agreement between Canadian Food Inspection Agency and Public Service Alliance of Canada",
+  "precis": "Order authorizing the CANADIAN FOOD INSPECTION AGENCY to enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA (PSAC) that covers all employees in the PSAC Bargaining Unit for the period beginning on January 1, 2022 and ending on December 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44514"
+  ],
+  "htmlHash": "2bc66ca3a213390b03df2ba393f30b05"
+}

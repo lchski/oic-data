@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1145</td><td>2023-11-24</td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"5\">Canadian International Trade Tribunal Act</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Re-appointment of CHERYL BECKETT of Ottawa, Ontario, as a permanent member of the Canadian International Trade Tribunal, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44495&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1145",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "FIN",
+  "act": "Canadian International Trade Tribunal Act",
+  "subject": "",
+  "precis": "Re-appointment of CHERYL BECKETT of Ottawa, Ontario, as a permanent member of the Canadian International Trade Tribunal, to hold office during good behaviour for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44495"
+  ],
+  "htmlHash": "09fe5a70257f831425e55bff483d1a83"
+}

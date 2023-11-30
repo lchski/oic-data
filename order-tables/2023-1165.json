@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1165</td><td>2023-11-24</td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"5\">First Nations Commercial and Industrial Development Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Regulations Amending the Fort William First Nation Sawmill Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Regulations Amending the FORT WILLIAM FIRST NATION SAWMILL REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) update references to incorporated provincial laws and instruments that have been updated; and (2) add numbering to the schedule of incorporated provincial laws and instruments.</td></tr><tr><td>Registration</td><td colspan=\"5\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0250  <strong>Publication Date:</strong> 2023-12-06</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44512&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1165",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "ISC",
+  "act": "First Nations Commercial and Industrial Development Act",
+  "subject": "Regulations Amending the Fort William First Nation Sawmill Regulations (Miscellaneous Program)",
+  "precis": "Regulations Amending the FORT WILLIAM FIRST NATION SAWMILL REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) update references to incorporated provincial laws and instruments that have been updated; and (2) add numbering to the schedule of incorporated provincial laws and instruments.",
+  "registration": "Registration: SOR/ 2023-0250  Publication Date: 2023-12-06",
+  "registration_type": "SOR",
+  "registration_id": "2023-0250",
+  "registration_publication_date": "2023-12-06",
+  "attachments": [
+    "44512"
+  ],
+  "htmlHash": "a77bfa78bee230447531deb8ce1c7474"
+}
