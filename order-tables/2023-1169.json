@@ -1,12 +1,12 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1169</td><td>2023-11-24</td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"5\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Appointment of Officers ** RCMP **</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order authorizing the issue of a commission under the Great Seal of Canada to two hundred and one members of the Royal Canadian Mounted Police further to their first appointment to the rank of officer.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44516&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1169</td><td>2023-11-24</td><td></td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of Officers ** RCMP **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the issue of a commission under the Great Seal of Canada to two hundred and one members of the Royal Canadian Mounted Police further to their first appointment to the rank of officer.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44516&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2023-1169",
   "date": "2023-11-24",
   "chapter": "",
   "bill": "",
-  "department": "PS, RCMP",
-  "act": "Royal Canadian Mounted Police Act",
-  "subject": "Appointment of Officers ** RCMP **",
+  "department": "",
+  "act": "",
+  "subject": "",
   "precis": "Order authorizing the issue of a commission under the Great Seal of Canada to two hundred and one members of the Royal Canadian Mounted Police further to their first appointment to the rank of officer.",
   "registration": "",
   "registration_type": "",
@@ -15,5 +15,5 @@
   "attachments": [
     "44516"
   ],
-  "htmlHash": "c0562c9f5934b1be77bdd627850ea5e5"
+  "htmlHash": "a87217aec0773420fbbc0d6893f81302"
 }

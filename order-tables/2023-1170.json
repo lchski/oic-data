@@ -1,12 +1,12 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1170</td><td>2023-11-24</td><td></td><td></td><td>IAIC, TB</td></tr><tr><td>Act</td><td colspan=\"5\">Canada Infrastructure Bank Act<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"5\">Canada Infrastructure Bank's 2023-24 to 2027-28 Corporate Plan and 2023-24 Operating and Capital Budgets</td></tr><tr><td>Precis</td><td colspan=\"5\" id=\"precis\">Order approving the CORPORATE PLAN of the CANADA INFRASTRUCTURE BANK for the 2023-24 to 2027-28 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"5\"><a href=\"attachment.php?attach=44517&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1170</td><td>2023-11-24</td><td></td><td></td><td></td><td>IAIC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Infrastructure Bank Act<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Infrastructure Bank's 2023-24 to 2027-28 Corporate Plan and 2023-24 Operating and Capital Budgets</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the CORPORATE PLAN of the CANADA INFRASTRUCTURE BANK for the 2023-24 to 2027-28 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44517&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2023-1170",
   "date": "2023-11-24",
   "chapter": "",
   "bill": "",
-  "department": "IAIC, TB",
-  "act": "Canada Infrastructure Bank ActFinancial Administration Act",
-  "subject": "Canada Infrastructure Bank's 2023-24 to 2027-28 Corporate Plan and 2023-24 Operating and Capital Budgets",
+  "department": "",
+  "act": "",
+  "subject": "",
   "precis": "Order approving the CORPORATE PLAN of the CANADA INFRASTRUCTURE BANK for the 2023-24 to 2027-28 planning period.",
   "registration": "",
   "registration_type": "",
@@ -15,5 +15,5 @@
   "attachments": [
     "44517"
   ],
-  "htmlHash": "e035d9e447c7cbbeeb62a0080e01caa4"
+  "htmlHash": "f9278316861b11ff5f5d15b2d912663a"
 }

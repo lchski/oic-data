@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1168</td><td>2023-11-24</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the In-Flight Security Officers Exemption Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending the IN-FLIGHT SECURITY OFFICERS EXEMPTION ORDER in order to extend its validity to December 31, 2028.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44520&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1168",
+  "date": "2023-11-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending the IN-FLIGHT SECURITY OFFICERS EXEMPTION ORDER in order to extend its validity to December 31, 2028.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44520"
+  ],
+  "htmlHash": "11c15c83581f77296dce43a0693e6013"
+}
