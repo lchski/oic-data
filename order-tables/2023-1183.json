@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1183</td><td>2023-12-01</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing certain conditions of employment of KENNETH MACKILLOP, former Associate Deputy Minister of Veteran Affairs.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44532&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1183",
+  "date": "2023-12-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing certain conditions of employment of KENNETH MACKILLOP, former Associate Deputy Minister of Veteran Affairs.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44532"
+  ],
+  "htmlHash": "44330481df15683c24704b0120b0c886"
+}

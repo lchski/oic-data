@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1188</td><td>2023-12-01</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order providing for assistance to Saskatchewan beekepers</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing Minister of Agriculture and Agri-Food Canada to enter into the AGREEMENT with the province of Saskatchewan to provide federal contributions of up to $642,000 under the AGRICULTURAL DISASTER RELIEF PROGRAM (AgriRecovery) to assist the beekeepers with the extraordinary costs incurred as a result of the extreme cold temperatures of the winter of 2021-2022.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44538&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1188",
+  "date": "2023-12-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing Minister of Agriculture and Agri-Food Canada to enter into the AGREEMENT with the province of Saskatchewan to provide federal contributions of up to $642,000 under the AGRICULTURAL DISASTER RELIEF PROGRAM (AgriRecovery) to assist the beekeepers with the extraordinary costs incurred as a result of the extreme cold temperatures of the winter of 2021-2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44538"
+  ],
+  "htmlHash": "a189709ddbf5b0bef05defc6f558d11e"
+}

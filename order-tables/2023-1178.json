@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1178</td><td>2023-12-01</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of J. SCOTT BODIE, of the City of Calgary, in the Province of Alberta, Barrister-at-law, to be a Judge of the Tax Court of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44527&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1178",
+  "date": "2023-12-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of J. SCOTT BODIE, of the City of Calgary, in the Province of Alberta, Barrister-at-law, to be a Judge of the Tax Court of Canada.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44527"
+  ],
+  "htmlHash": "9c43ca55eb64b7cd2d38e5285d3d1722"
+}
