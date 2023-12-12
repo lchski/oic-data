@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1190</td><td>2023-12-05</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Russia) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (RUSSIA) REGULATIONS in order to prohibit the direct import of diamond and diamond-related products originating from Russia, excluding industrial diamonds.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0258  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44547&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1190",
+  "date": "2023-12-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (RUSSIA) REGULATIONS in order to prohibit the direct import of diamond and diamond-related products originating from Russia, excluding industrial diamonds.",
+  "registration": "Registration: SOR/ 2023-0258  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0258",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44547"
+  ],
+  "htmlHash": "b0fb632aa9a1e327b0baca11e68d27eb"
+}
