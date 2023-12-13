@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1193</td><td>2023-12-07</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of the HONOURABLE LEONARD MARCHAND, a Justice of Appeal of the Court of Appeal for British Columbia, to be Chief Justice of the Court of Appeal for British Columbia and Chief Justice of The Court of Appeal of Yukon during his tenure office as Chief Justice of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44549&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1193",
+  "date": "2023-12-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE LEONARD MARCHAND, a Justice of Appeal of the Court of Appeal for British Columbia, to be Chief Justice of the Court of Appeal for British Columbia and Chief Justice of The Court of Appeal of Yukon during his tenure office as Chief Justice of British Columbia.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44549"
+  ],
+  "htmlHash": "691f6f51bbb9c04457c17c80b30fec18"
+}

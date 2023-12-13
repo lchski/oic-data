@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1206</td><td>2023-12-07</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of DAPHNÉE OUELLET of Montréal, Quebec, as a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of five years, effective January 21, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44562&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1206",
+  "date": "2023-12-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of DAPHNÉE OUELLET of Montréal, Quebec, as a full-time member of the Immigration and Refugee Board (Montréal Regional Office), to hold office during good behaviour for a term of five years, effective January 21, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44562"
+  ],
+  "htmlHash": "8d1a30fb7fab3bf098bd750223f38d5a"
+}

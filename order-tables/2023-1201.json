@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1201</td><td>2023-12-07</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of FREDERICK BURCH of Regina, Saskatchewan, as a part-time member of the Prairies Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44557&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1201",
+  "date": "2023-12-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of FREDERICK BURCH of Regina, Saskatchewan, as a part-time member of the Prairies Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44557"
+  ],
+  "htmlHash": "ccce633f0f917c0ff8a9689ce04ba923"
+}
