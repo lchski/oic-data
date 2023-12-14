@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1219</td><td>2023-12-08</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of KPMG LLP of Ottawa, Ontario, as auditor for the Canadian Egg Marketing Agency</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Appointing KPMG LLP of Ottawa, Ontario, to be the AUDITOR for the CANADIAN EGG MARKETING AGENCY for the fiscal years 2023 to 2029.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44596&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1219",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Appointing KPMG LLP of Ottawa, Ontario, to be the AUDITOR for the CANADIAN EGG MARKETING AGENCY for the fiscal years 2023 to 2029.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44596"
+  ],
+  "htmlHash": "7774f374aae4fbdeafeab7b39eec9de0"
+}

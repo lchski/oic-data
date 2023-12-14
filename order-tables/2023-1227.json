@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1227</td><td>2023-12-08</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Vessel Operation Restriction Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the VESSEL OPERATION RESTRICTION REGULATIONS in order to (1) amend the prohibition for operating a power-driven vessel or a vessel driven by electrical propulsion by removing the reference to waters in public parks and controlled access bodies of water; (2) add federal fishing licences to the exemption for a person who holds a provincial fishing permit and whose livelihood depends on fishing; (3) remove the technical signage guidelines and incorporate them by reference to an existing Transport Canada publication; (4) introduce a new schedule that specifically provides for restrictions on wake surfing; (5) introduce 21 new restrictions to six bodies of water in response to requests made by local authorities; (6) designate port enforcement officers employed by the Windsor Port Authority as enforcement officers; and (7) correct the geographic coordinates and the name and/or the description for three bodies of water.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0274  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44604&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1227",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the VESSEL OPERATION RESTRICTION REGULATIONS in order to (1) amend the prohibition for operating a power-driven vessel or a vessel driven by electrical propulsion by removing the reference to waters in public parks and controlled access bodies of water; (2) add federal fishing licences to the exemption for a person who holds a provincial fishing permit and whose livelihood depends on fishing; (3) remove the technical signage guidelines and incorporate them by reference to an existing Transport Canada publication; (4) introduce a new schedule that specifically provides for restrictions on wake surfing; (5) introduce 21 new restrictions to six bodies of water in response to requests made by local authorities; (6) designate port enforcement officers employed by the Windsor Port Authority as enforcement officers; and (7) correct the geographic coordinates and the name and/or the description for three bodies of water.",
+  "registration": "Registration: SOR/ 2023-0274  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0274",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44604"
+  ],
+  "htmlHash": "f4b6467ad76e02097a5ca1da9482fe55"
+}

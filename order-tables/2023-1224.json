@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1224</td><td>2023-12-08</td><td></td><td></td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Student Financial Assistance Act<br>Apprentice Loans Act<br>Canada Student Loans Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Related to Student Loans and Apprentice Loans</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS RELATED TO STUDENT LOANS AND APPRENTICE LOANS in order to (1) remove regulatory authorities to prescribe interest-free and interest-reduced periods, and remove or amend interest-related provisions in the Canada Student Financial Assistance Regulations, the Canada Student Loans Regulations, and the Apprentice Loans Regulations (ALR); (2) create a process to establish a date for loan repayment independent of interest accrual and when payments are due, in case of ALR.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0273  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44601&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1224",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS RELATED TO STUDENT LOANS AND APPRENTICE LOANS in order to (1) remove regulatory authorities to prescribe interest-free and interest-reduced periods, and remove or amend interest-related provisions in the Canada Student Financial Assistance Regulations, the Canada Student Loans Regulations, and the Apprentice Loans Regulations (ALR); (2) create a process to establish a date for loan repayment independent of interest accrual and when payments are due, in case of ALR.",
+  "registration": "Registration: SOR/ 2023-0273  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0273",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44601"
+  ],
+  "htmlHash": "d234b15118c60e930bf164df25e64a18"
+}

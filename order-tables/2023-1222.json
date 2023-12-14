@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1222</td><td>2023-12-08</td><td></td><td></td><td></td><td>ESDC, CEIC</td></tr><tr><td>Act</td><td colspan=\"6\">Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Employment Insurance Regulations (Pilot Project No. 22)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS (PILOT PROJECT NO. 22) in order to introduce a pilot project that provides up to four additional weeks of EI regular benefits to seasonal claimants whose benefit period is established between September 10, 2023 and September 7, 2024.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0272  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44599&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1222",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the EMPLOYMENT INSURANCE REGULATIONS (PILOT PROJECT NO. 22) in order to introduce a pilot project that provides up to four additional weeks of EI regular benefits to seasonal claimants whose benefit period is established between September 10, 2023 and September 7, 2024.",
+  "registration": "Registration: SOR/ 2023-0272  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0272",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44599"
+  ],
+  "htmlHash": "7edbb96a3eeb65b4829d1f0ce6dac36b"
+}

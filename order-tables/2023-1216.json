@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1216</td><td>2023-12-08</td><td>29</td><td>2019</td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"6\">Budget Implementation Act, 2019, No. 1</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing the Day After the Day on Which this Order is Made as the Day on Which Division 26 of Part 4 of the Budget Implementation Act, 2019, No. 1 Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Fixing the Day After the Day on Which this Order is Made as the Day on Which Division 26 of Part 4 of the Budget Implementation Act, 2019, No. 1 COMES INTO FORCE in order to bring into force the FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK ACT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44593&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1216",
+  "date": "2023-12-08",
+  "chapter": "29",
+  "bill": "2019",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Fixing the Day After the Day on Which this Order is Made as the Day on Which Division 26 of Part 4 of the Budget Implementation Act, 2019, No. 1 COMES INTO FORCE in order to bring into force the FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44593"
+  ],
+  "htmlHash": "352ee9059d8289f41273d1d68196b9da"
+}

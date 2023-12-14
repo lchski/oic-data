@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1217</td><td>2023-12-08</td><td></td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Prompt Payment for Construction Work Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Federal Prompt Payment for Construction Work Regulations (Criteria, Time Limits, Interest and Circumstances)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK REGULATIONS (CRITERIA, TIME LIMITS, INTEREST AND CIRCUMSTANCES) in order to (1) define the criteria for the designation of provinces that have a reasonably similar prompt payment and adjudication regime; and (2) outline the time limits, interests and circumstances of the adjudication process.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0269  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44594&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1217",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK REGULATIONS (CRITERIA, TIME LIMITS, INTEREST AND CIRCUMSTANCES) in order to (1) define the criteria for the designation of provinces that have a reasonably similar prompt payment and adjudication regime; and (2) outline the time limits, interests and circumstances of the adjudication process.",
+  "registration": "Registration: SOR/ 2023-0269  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0269",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44594"
+  ],
+  "htmlHash": "e6b54e1f129579a1f945cd2f0a6ee8a4"
+}

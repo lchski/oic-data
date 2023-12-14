@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1229</td><td>2023-12-08</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Declining to Refer Back to the Canadian Radio-television and Telecommunications Commission Broadcasting Decision CRTC 2023-245</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ORDER DECLINING TO REFER BACK TO THE CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION BROADCASTING DECISION CRTC 2023-245 in order to decline to set aside or refer back to the CRTC for reconsideration and hearing the decision contained in the Broadcasting Decision CRTC Decision 2023-245 of August 8, 2023 which administratively renews the broadcasting licences for various television and distribution services.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44606&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1229",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER DECLINING TO REFER BACK TO THE CANADIAN RADIO-TELEVISION AND TELECOMMUNICATIONS COMMISSION BROADCASTING DECISION CRTC 2023-245 in order to decline to set aside or refer back to the CRTC for reconsideration and hearing the decision contained in the Broadcasting Decision CRTC Decision 2023-245 of August 8, 2023 which administratively renews the broadcasting licences for various television and distribution services.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44606"
+  ],
+  "htmlHash": "d0f1d7f6d4a980775c9e2f1a0a52f194"
+}

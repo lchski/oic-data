@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1212</td><td>2023-12-08</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Contraventions Regulations (Transportation of Dangerous Goods Act, 1992)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS in order to increase the fine amounts for the 12 offences designated in Schedule XV of the regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0265  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44589&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1212",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CONTRAVENTIONS REGULATIONS in order to increase the fine amounts for the 12 offences designated in Schedule XV of the regulations.",
+  "registration": "Registration: SOR/ 2023-0265  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0265",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44589"
+  ],
+  "htmlHash": "f5dd417e43f0330beaa07f592c419821"
+}

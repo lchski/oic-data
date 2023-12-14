@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1218</td><td>2023-12-08</td><td></td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Prompt Payment for Construction Work Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating Provinces Under Subsection 6(1) of the Federal Prompt Payment for Construction Work Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ORDER DESIGNATING PROVINCES UNDER SUBSECTION 6(1) OF THE FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK ACT in order to designate Ontario, Saskatchewan and Alberta as having enacted a reasonably similar regime for payment of contractors and subcontractors, and a reasonably similar adjudication regime in case of non-payment, taking into account the criteria set out  in section 2 of the Federal Prompt Payment for Construction Work Regulations (Criteria, Time Limits, Interest and Circumstances).</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0270  <strong>Publication Date:</strong> 2023-12-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44595&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1218",
+  "date": "2023-12-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER DESIGNATING PROVINCES UNDER SUBSECTION 6(1) OF THE FEDERAL PROMPT PAYMENT FOR CONSTRUCTION WORK ACT in order to designate Ontario, Saskatchewan and Alberta as having enacted a reasonably similar regime for payment of contractors and subcontractors, and a reasonably similar adjudication regime in case of non-payment, taking into account the criteria set out  in section 2 of the Federal Prompt Payment for Construction Work Regulations (Criteria, Time Limits, Interest and Circumstances).",
+  "registration": "Registration: SOR/ 2023-0270  Publication Date: 2023-12-20",
+  "registration_type": "SOR",
+  "registration_id": "2023-0270",
+  "registration_publication_date": "2023-12-20",
+  "attachments": [
+    "44595"
+  ],
+  "htmlHash": "205f78647345c3de9451b014213e0add"
+}
