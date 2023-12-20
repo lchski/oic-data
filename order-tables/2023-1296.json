@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1296</td><td>2023-12-14</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Online News Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Online News Act Application and Exemption Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ONLINE NEWS ACT APPLICATION AND EXEMPTION REGULATIONS in order to (1) establish the criteria that determine if the Act applies to a digital platform; (2) specify the timeframe for operators of digital platforms to notify the Canadian Radio-television and Telecommunications Commission (CRTC) if the Act applies to them; and (3) provide specific direction on how certain exemption criteria could be met.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44610&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1296",
+  "date": "2023-12-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ONLINE NEWS ACT APPLICATION AND EXEMPTION REGULATIONS in order to (1) establish the criteria that determine if the Act applies to a digital platform; (2) specify the timeframe for operators of digital platforms to notify the Canadian Radio-television and Telecommunications Commission (CRTC) if the Act applies to them; and (3) provide specific direction on how certain exemption criteria could be met.",
+  "registration": "Registration: SOR/ ",
+  "registration_type": "SOR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44610"
+  ],
+  "htmlHash": "b8abab277d4067c1efb64b81801feda7"
+}
