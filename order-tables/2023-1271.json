@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1271</td><td>2023-12-15</td><td></td><td></td><td></td><td>PPC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Transportation Accident Investigation and Safety Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of LEO DONATI of Ottawa, Ontario, to be a part-time member of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44651&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1271",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LEO DONATI of Ottawa, Ontario, to be a part-time member of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44651"
+  ],
+  "htmlHash": "c91e692a5d0b4bd734a08252980c5e69"
+}

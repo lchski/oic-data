@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1304</td><td>2023-12-15</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Bankruptcy and Insolvency Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Terminating the Appointment of Official Receivers</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order TERMINATING THE APPOINTMENT of five (5) officers of the Office of the Superintendent of Bankruptcy of the Department of Industry as OFFICIAL RECEIVERS.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44689&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1304",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order TERMINATING THE APPOINTMENT of five (5) officers of the Office of the Superintendent of Bankruptcy of the Department of Industry as OFFICIAL RECEIVERS.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44689"
+  ],
+  "htmlHash": "afea6ab866018cfd33096753c1fd2778"
+}

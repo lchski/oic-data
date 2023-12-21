@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1261</td><td>2023-12-15</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of S. MAUREEN JICKLING of Regina, Saskatchewan, to be a roster member of the Dispute and Appellate Rosters, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44652&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1261",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of S. MAUREEN JICKLING of Regina, Saskatchewan, to be a roster member of the Dispute and Appellate Rosters, for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44652"
+  ],
+  "htmlHash": "3bf320d9a0b37f511c768ef4853bae63"
+}

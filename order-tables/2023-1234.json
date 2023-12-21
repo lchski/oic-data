@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1234</td><td>2023-12-15</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order directing that a proclamation be issued establishing the Royal Style and Title of Charles III</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order directing that a PROCLAMATION be issued establishing for Canada the Royal Style and Titles for Charles the Third as \"Charles the Third, by the Grace of God King of Canada and His other Realms and Territories, Head of the Commonwealth\".</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44694&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1234",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION be issued establishing for Canada the Royal Style and Titles for Charles the Third as \"Charles the Third, by the Grace of God King of Canada and His other Realms and Territories, Head of the Commonwealth\".",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44694"
+  ],
+  "htmlHash": "3b4efcf8689fdd895269b7831a9ca8f7"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1298</td><td>2023-12-15</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Medical Devices Regulations (Medical Devices for an Urgent Public Health Need)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the MEDICAL DEVICES REGULATIONS (MEDICAL DEVICES FOR AN URGENT PUBLIC HEALTH NEED) in order to (1) broaden the previously published COVID-19 framework to apply to other public health emergencies; and (2) address a policy gap and clarify certain post-market requirements from the original framework.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0277  <strong>Publication Date:</strong> 2024-01-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44683&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1298",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MEDICAL DEVICES REGULATIONS (MEDICAL DEVICES FOR AN URGENT PUBLIC HEALTH NEED) in order to (1) broaden the previously published COVID-19 framework to apply to other public health emergencies; and (2) address a policy gap and clarify certain post-market requirements from the original framework.",
+  "registration": "Registration: SOR/ 2023-0277  Publication Date: 2024-01-03",
+  "registration_type": "SOR",
+  "registration_id": "2023-0277",
+  "registration_publication_date": "2024-01-03",
+  "attachments": [
+    "44683"
+  ],
+  "htmlHash": "a1f6682b1d4df1f2af19e298a45564de"
+}

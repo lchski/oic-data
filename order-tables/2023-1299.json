@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1299</td><td>2023-12-15</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (Immigration Loans Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (IMMIGRATION LOANS PROGRAM) in order to fix the total allowed advance amount from the Consolidated Revenue Fund for the Immigration Loans Program at $300 million.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0279  <strong>Publication Date:</strong> 2024-01-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44684&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1299",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (IMMIGRATION LOANS PROGRAM) in order to fix the total allowed advance amount from the Consolidated Revenue Fund for the Immigration Loans Program at $300 million.",
+  "registration": "Registration: SOR/ 2023-0279  Publication Date: 2024-01-03",
+  "registration_type": "SOR",
+  "registration_id": "2023-0279",
+  "registration_publication_date": "2024-01-03",
+  "attachments": [
+    "44684"
+  ],
+  "htmlHash": "0dbb19b1624748f742ebd9929a1cbb9b"
+}

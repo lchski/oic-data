@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1267</td><td>2023-12-15</td><td></td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"6\">International Convention for the Conservation of Atlantic Tunas</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of KATHRYN SCHLEIT of Halifax, Nova Scotia, to be a Canadian Commissioner to the International Commission for the Conservation of Atlantic Tunas, to hold office for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44647&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1267",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KATHRYN SCHLEIT of Halifax, Nova Scotia, to be a Canadian Commissioner to the International Commission for the Conservation of Atlantic Tunas, to hold office for a term of two years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44647"
+  ],
+  "htmlHash": "f746d987c75aa809bb5d525f81c2a666"
+}

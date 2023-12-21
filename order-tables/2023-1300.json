@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1300</td><td>2023-12-15</td><td></td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Commercial and Industrial Development Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Fort McKay First Nation Oil Sands Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the FORT McKAY FIRST NATION OIL SANDS REGULATIONS in order to update the incorporation by reference of Alberta statutes and regulations currently listed in the Schedule of incorporated laws in order to reflect changes made to those laws since the Regulations first came into force in 2007.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2023-0280  <strong>Publication Date:</strong> 2024-01-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44685&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1300",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the FORT McKAY FIRST NATION OIL SANDS REGULATIONS in order to update the incorporation by reference of Alberta statutes and regulations currently listed in the Schedule of incorporated laws in order to reflect changes made to those laws since the Regulations first came into force in 2007.",
+  "registration": "Registration: SOR/ 2023-0280  Publication Date: 2024-01-03",
+  "registration_type": "SOR",
+  "registration_id": "2023-0280",
+  "registration_publication_date": "2024-01-03",
+  "attachments": [
+    "44685"
+  ],
+  "htmlHash": "71bf5bee980413b9cbff586a1e0039e9"
+}

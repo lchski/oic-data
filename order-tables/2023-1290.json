@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1290</td><td>2023-12-15</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Nuclear Safety and Control Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Designation of TIMOTHY BERUBE of Thunder Bay, Ontario, to act as President of the Canadian Nuclear Safety Commission, to hold office during pleasure for a term ending on March 29, 2024, or until such time as a new President is designated, whichever occurs first.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44672&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1290",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of TIMOTHY BERUBE of Thunder Bay, Ontario, to act as President of the Canadian Nuclear Safety Commission, to hold office during pleasure for a term ending on March 29, 2024, or until such time as a new President is designated, whichever occurs first.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44672"
+  ],
+  "htmlHash": "1c014c1dae700b5d7b9b04a007d310fa"
+}

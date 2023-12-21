@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1248</td><td>2023-12-15</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of AHMED SHALABI of Ottawa, Ontario, to be a member of the Standards Council of Canada, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44627&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1248",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of AHMED SHALABI of Ottawa, Ontario, to be a member of the Standards Council of Canada, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44627"
+  ],
+  "htmlHash": "780ac76e69ba66b1ea077e80e1b9c71f"
+}

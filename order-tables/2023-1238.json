@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1238</td><td>2023-12-15</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the appointment by the Minister of Finance of CHARLES MALONE of Camox, British Columbia, as a director of the Board of Directors of the Canada Development Investment Corporation, to hold office during pleasure for a term of four years, in the place of Carole Malo, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44617&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1238",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Finance of CHARLES MALONE of Camox, British Columbia, as a director of the Board of Directors of the Canada Development Investment Corporation, to hold office during pleasure for a term of four years, in the place of Carole Malo, whose term has expired.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44617"
+  ],
+  "htmlHash": "1a776c73a88fc61e00bf44f51cc2f680"
+}

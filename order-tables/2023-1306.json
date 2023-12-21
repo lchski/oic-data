@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1306</td><td>2023-12-15</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Appointing the Hon. Jeanne E. Watchuk, to be deputy judge of the Nunavut Court of Justice</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing the HONOURABLE JEANNE E. WATCHUK, a judge of the Supreme Court of British Columbia, to be a DEPUTY JUDGE of the NUNAVUT COURT OF JUSTICE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44691&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1306",
+  "date": "2023-12-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing the HONOURABLE JEANNE E. WATCHUK, a judge of the Supreme Court of British Columbia, to be a DEPUTY JUDGE of the NUNAVUT COURT OF JUSTICE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44691"
+  ],
+  "htmlHash": "d12b7ad25c15846205c5d3ca1c8cb6d1"
+}

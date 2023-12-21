@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1301</td><td>2023-12-15</td><td>15</td><td>2023</td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">An Act for the Substantive Equality of Canada's Official Languages</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing January 1, 2024 as the Day on Which Section 23 of An Act for the Substantive Equality of Canada’s Official Languages Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing January 1, 2024 as the day on which section 23 of An Act for the Substantive Equality of Canada's Official Languages Comes into Force in order to require the Minister of Citizenship and Immigration to adopt a policy on francophone immigration.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SI/ 2024-0002  <strong>Publication Date:</strong> 2024-01-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44686&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1301",
+  "date": "2023-12-15",
+  "chapter": "15",
+  "bill": "2023",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing January 1, 2024 as the day on which section 23 of An Act for the Substantive Equality of Canada's Official Languages Comes into Force in order to require the Minister of Citizenship and Immigration to adopt a policy on francophone immigration.",
+  "registration": "Registration: SI/ 2024-0002  Publication Date: 2024-01-03",
+  "registration_type": "SI",
+  "registration_id": "2024-0002",
+  "registration_publication_date": "2024-01-03",
+  "attachments": [
+    "44686"
+  ],
+  "htmlHash": "61558b08417de34d4a1347d942a9302e"
+}
