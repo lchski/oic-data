@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2023-1315</td><td>2023-12-21</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Energy Regulator Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order -  Authorizing the Canadian Energy Regulatory Commission to issue a Certificate of Public Convenience and Necessity to NorthRiver Midstream NEBC Connector</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order -  Directing Commission of the Canadian Energy Regulator to issue CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY OC-067 to NorthRiver Midstream NEBC Connector GP Inc. in respect of the proposed construction and operation of the NEBC Connector Project.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44712&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2023-1315",
+  "date": "2023-12-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order -  Directing Commission of the Canadian Energy Regulator to issue CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY OC-067 to NorthRiver Midstream NEBC Connector GP Inc. in respect of the proposed construction and operation of the NEBC Connector Project.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44712"
+  ],
+  "htmlHash": "11d01435b697b55561ed96fb3d9a7011"
+}
