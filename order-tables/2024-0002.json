@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0002</td><td>2024-01-08</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Acting Ministers Minute</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Revised Minute of Council specifying those Cabinet Ministers who may act for the Prime Minister if he is unable to do so, as well as acting Ministers for all the statutory portfolios.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44716&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0002",
+  "date": "2024-01-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Revised Minute of Council specifying those Cabinet Ministers who may act for the Prime Minister if he is unable to do so, as well as acting Ministers for all the statutory portfolios.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44716"
+  ],
+  "htmlHash": "f2c67d6bd771c3d5f32bae8a2f3df414"
+}
