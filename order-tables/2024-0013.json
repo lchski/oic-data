@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0013</td><td>2024-01-11</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Shared Services Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of RAJAGOPALAN THUPPAL of Ottawa, Ontario, to be Executive Vice-President of Shared Services Canada, to hold office during pleasure, effective January 22, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44727&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0013",
+  "date": "2024-01-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of RAJAGOPALAN THUPPAL of Ottawa, Ontario, to be Executive Vice-President of Shared Services Canada, to hold office during pleasure, effective January 22, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44727"
+  ],
+  "htmlHash": "329f606651dbd8ee453521ff6094f123"
+}
