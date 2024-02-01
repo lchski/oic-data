@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0053</td><td>2024-01-26</td><td></td><td></td><td></td><td>IC, SB&amp;T</td></tr><tr><td>Act</td><td colspan=\"6\">Business Development Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MICHAEL LADHA of St. John's, Newfoundland and Labrador, to be a director of the Board of Directors of the Business Development Bank of Canada, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44773&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0053",
+  "date": "2024-01-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MICHAEL LADHA of St. John's, Newfoundland and Labrador, to be a director of the Board of Directors of the Business Development Bank of Canada, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44773"
+  ],
+  "htmlHash": "759603434e264b60b4e17ff7172c56a7"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0044</td><td>2024-01-26</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Free Trade Agreement Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DREW TYLER of Penticton, British Columbia, to be a roster member of the Dispute and Appellate Rosters, for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44763&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0044",
+  "date": "2024-01-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DREW TYLER of Penticton, British Columbia, to be a roster member of the Dispute and Appellate Rosters, for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44763"
+  ],
+  "htmlHash": "920febc9d9d0d997db798265e7a5a4eb"
+}

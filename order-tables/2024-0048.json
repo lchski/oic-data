@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0048</td><td>2024-01-26</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Re-appointment of RENÉ LÉGÈRE of Moncton, New Brunswick, as a director of the Board of Directors of the Canadian Broadcasting Corporation to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44768&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0048",
+  "date": "2024-01-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of RENÉ LÉGÈRE of Moncton, New Brunswick, as a director of the Board of Directors of the Canadian Broadcasting Corporation to hold office during good behaviour for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44768"
+  ],
+  "htmlHash": "c04323b86f0691b9ea0ea0d3614def44"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0037</td><td>2024-01-26</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of RALPH PAROLI of Ottawa, Ontario, to be a member of the Standards Council of Canada, to hold office during pleasure for a term of four years, in the place of William Thomas Bursey, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44756&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0037",
+  "date": "2024-01-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of RALPH PAROLI of Ottawa, Ontario, to be a member of the Standards Council of Canada, to hold office during pleasure for a term of four years, in the place of William Thomas Bursey, whose term has expired.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44756"
+  ],
+  "htmlHash": "e38670a6f129a8fd315d238919e510e8"
+}
