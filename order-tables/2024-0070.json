@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0070</td><td>2024-01-30</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) terminating the appointment of the Honourable Greg Fergus, P.C., made by Order in Council P.C. 2023-898 of September 16, 2023, effective October 3, 2023; (2) terminating the appointment of Darren Fisher, made by Order in Council P.C. 2023-898 of September 16, 2023, effective January 30, 2024; and (3) appointing certain Members of the House of Commons, to be Parliamentary Secretaries for a period ending on September 17, 2024 (3 appointees).</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44793&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0070",
+  "date": "2024-01-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) terminating the appointment of the Honourable Greg Fergus, P.C., made by Order in Council P.C. 2023-898 of September 16, 2023, effective October 3, 2023; (2) terminating the appointment of Darren Fisher, made by Order in Council P.C. 2023-898 of September 16, 2023, effective January 30, 2024; and (3) appointing certain Members of the House of Commons, to be Parliamentary Secretaries for a period ending on September 17, 2024 (3 appointees).",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44793"
+  ],
+  "htmlHash": "66fcf5a5f8b685908ec7bae8c834b074"
+}

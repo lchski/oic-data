@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0075</td><td>2024-01-30</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of the Honorable Steven Garrett MacKinnon and the Honourable Ruby Sahota</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2023-1061 of October 26, 2023; and (2) appointing the Honourable STEVEN GARRETT MACKINNON and the Honourable RUBY SAHOTA,  members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44794&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0075",
+  "date": "2024-01-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2023-1061 of October 26, 2023; and (2) appointing the Honourable STEVEN GARRETT MACKINNON and the Honourable RUBY SAHOTA,  members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44794"
+  ],
+  "htmlHash": "7cea0017cb01460fc3c857821a55e055"
+}

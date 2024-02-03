@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0069</td><td>2024-01-30</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order establishing an INNOVATION HUB in TORONTO</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs, or a delegate, to sign, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE BANK FOR INTERNATIONAL SETTLEMENTS ON THE ESTABLISHMENT OF AN OFFICE OF THE BANK IN CANADA FOR THE OPERATION OF THE BIS INNOVATION HUB TORONTO CENTRE.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44788&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0069",
+  "date": "2024-01-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs, or a delegate, to sign, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE BANK FOR INTERNATIONAL SETTLEMENTS ON THE ESTABLISHMENT OF AN OFFICE OF THE BANK IN CANADA FOR THE OPERATION OF THE BIS INNOVATION HUB TORONTO CENTRE.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44788"
+  ],
+  "htmlHash": "2dd9e17ca361cc553d9626115553809e"
+}
