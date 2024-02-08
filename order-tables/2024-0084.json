@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0084</td><td>2024-02-02</td><td></td><td></td><td></td><td>PPC, PSC</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Locally Engaged Staff Employment Regulations, 2024</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">LOCALLY ENGAGED STAFF EMPLOYMENT REGULATIONS, 2024 in order to (1) update requirements around authority, appointments, temporary employment and termination of employment as they pertain to the hiring of Locally Engaged Staff in missions and military support units outside Canada; and (2) set new requirements for oversight and reporting.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0016  <strong>Publication Date:</strong> 2024-02-14</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44840&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0084",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "LOCALLY ENGAGED STAFF EMPLOYMENT REGULATIONS, 2024 in order to (1) update requirements around authority, appointments, temporary employment and termination of employment as they pertain to the hiring of Locally Engaged Staff in missions and military support units outside Canada; and (2) set new requirements for oversight and reporting.",
+  "registration": "Registration: SOR/ 2024-0016  Publication Date: 2024-02-14",
+  "registration_type": "SOR",
+  "registration_id": "2024-0016",
+  "registration_publication_date": "2024-02-14",
+  "attachments": [
+    "44840"
+  ],
+  "htmlHash": "88131c6922523abd58a86f696edfe1c8"
+}

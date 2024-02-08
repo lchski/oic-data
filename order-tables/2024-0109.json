@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0109</td><td>2024-02-02</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of FARID DERMARKAR of Blackstock, Ontario, as President and Chief Executive Officer of Atomic Energy of Canada Limited, to hold office during pleasure for a term of three years, effective February 8, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44866&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0109",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of FARID DERMARKAR of Blackstock, Ontario, as President and Chief Executive Officer of Atomic Energy of Canada Limited, to hold office during pleasure for a term of three years, effective February 8, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44866"
+  ],
+  "htmlHash": "150c7c4003fbf3e44a2e83b065c1736e"
+}

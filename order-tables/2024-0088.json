@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0088</td><td>2024-02-02</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Agreement between Canada and the the Republic of Poland for Cooperation in the Peaceful Uses of Nuclear Energy (the “Agreement”).</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister or the Minister of Foreign Affairs, or a delegate, to sign, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE REPUBLIC OF POLAND FOR COOPERATION IN THE PEACEFUL USES OF NUCLEAR ENERGY.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44844&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0088",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister or the Minister of Foreign Affairs, or a delegate, to sign, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE REPUBLIC OF POLAND FOR COOPERATION IN THE PEACEFUL USES OF NUCLEAR ENERGY.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44844"
+  ],
+  "htmlHash": "bdae2ad33e75dac31863ef9f64a28804"
+}

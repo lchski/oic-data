@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0093</td><td>2024-02-02</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order approving the boudary change of the Saint John Board of Trade</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approuving the application by the SAINT JOHN BOARD OF TRADE, in New Brunswick, to change the boundaries of its district from City of Saint John to the City of Saint John, the Town of Grand Bay-Westfield, the Town of Rothesay, and the Town of Quispamsis.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44850&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0093",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approuving the application by the SAINT JOHN BOARD OF TRADE, in New Brunswick, to change the boundaries of its district from City of Saint John to the City of Saint John, the Town of Grand Bay-Westfield, the Town of Rothesay, and the Town of Quispamsis.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44850"
+  ],
+  "htmlHash": "6de2317134e2c3aeb6e60ea7ffd56438"
+}

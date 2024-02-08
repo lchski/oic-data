@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0078</td><td>2024-02-02</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Income Tax Regulations (2018 to 2022 Livestock Deferral)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (2018 to 2022 LIVESTOCK DEFERRAL) in order to prescribe the drought and excess moisture regions that are eligible for tax relief in the 2018 to 2022 taxation years.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0010  <strong>Publication Date:</strong> 2024-02-14</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44834&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0078",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS (2018 to 2022 LIVESTOCK DEFERRAL) in order to prescribe the drought and excess moisture regions that are eligible for tax relief in the 2018 to 2022 taxation years.",
+  "registration": "Registration: SOR/ 2024-0010  Publication Date: 2024-02-14",
+  "registration_type": "SOR",
+  "registration_id": "2024-0010",
+  "registration_publication_date": "2024-02-14",
+  "attachments": [
+    "44834"
+  ],
+  "htmlHash": "6de0af98822a1ba07ea9a63761cab7a8"
+}

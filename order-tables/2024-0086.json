@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0086</td><td>2024-02-02</td><td></td><td></td><td></td><td>PPC, PSC</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Locally Engaged Staff Exclusion Approval Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">LOCALLY ENGAGED STAFF EXCLUSION APPROVAL ORDER in order to replace the previous Order in Council P.C. 1967-444 to reference the new section of the Public Service Employment Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44842&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0086",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "LOCALLY ENGAGED STAFF EXCLUSION APPROVAL ORDER in order to replace the previous Order in Council P.C. 1967-444 to reference the new section of the Public Service Employment Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44842"
+  ],
+  "htmlHash": "2a040b47c1210c4fbc87fc04ec874955"
+}

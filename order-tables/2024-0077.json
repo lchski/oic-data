@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0077</td><td>2024-02-02</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Income Tax Regulations (Battery Assembly and Manufacturing Production Support)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (BATTERY ASSEMBLY AND MANUFACTURING PRODUCTION SUPPORT) in order to exempt the contributions received by NextStar and PowerCo under the special contribution agreements from income tax.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0009  <strong>Publication Date:</strong> 2024-02-14</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44833&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0077",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS (BATTERY ASSEMBLY AND MANUFACTURING PRODUCTION SUPPORT) in order to exempt the contributions received by NextStar and PowerCo under the special contribution agreements from income tax.",
+  "registration": "Registration: SOR/ 2024-0009  Publication Date: 2024-02-14",
+  "registration_type": "SOR",
+  "registration_id": "2024-0009",
+  "registration_publication_date": "2024-02-14",
+  "attachments": [
+    "44833"
+  ],
+  "htmlHash": "f352dca04c97e138bfb025cf6266eb98"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0096</td><td>2024-02-02</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Name Change of the Chambre of commerce de Cap-Pelé / Beaubassin East Chamber of Commerce Inc. in Nouveau-Brunswick.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application of the Chambre of commerce de Cap-Pelé / Beaubassin East Chamber of Commerce Inc. in Nouveau-Brunswick, to change its name to “CHAMBRE DE COMMERCE CAP-ACADIE INC/ CAP-ACADIE CHAMBER OF COMMERCE.”</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44853&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0096",
+  "date": "2024-02-02",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application of the Chambre of commerce de Cap-Pelé / Beaubassin East Chamber of Commerce Inc. in Nouveau-Brunswick, to change its name to “CHAMBRE DE COMMERCE CAP-ACADIE INC/ CAP-ACADIE CHAMBER OF COMMERCE.”",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44853"
+  ],
+  "htmlHash": "81036e99716a51a1b2b833cc22f79995"
+}

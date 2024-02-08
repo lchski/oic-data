@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0089</td><td>2024-02-01</td><td></td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"6\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Accepting the Surrender of a Portion of Cowichan Lake Indian Reserve - Ts'uubaa-asatx Surrender Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order accepting the absolute SURRENDER made to His Majesty in right of Canada by Ts'uubaa-asatx of a portion of COWICHAN LAKE INDIAN RESERVE, in British Columbia, which was assented to by Ts'uubaa-asatx on March 31, 2022, in order to use the reserve lands for public highway purposes.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44845&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0089",
+  "date": "2024-02-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order accepting the absolute SURRENDER made to His Majesty in right of Canada by Ts'uubaa-asatx of a portion of COWICHAN LAKE INDIAN RESERVE, in British Columbia, which was assented to by Ts'uubaa-asatx on March 31, 2022, in order to use the reserve lands for public highway purposes.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44845"
+  ],
+  "htmlHash": "0b06259b25d62e5b371d30f92b375672"
+}
