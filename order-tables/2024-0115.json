@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0115</td><td>2024-02-09</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of WILLIAM B. INNIS of Guysborough, Nova Scotia, as a full-time member of the Atlantic Regional Division of the Parole Board of Canada, to hold office during good behaviour for a term beginning on February 19, 2024 and ending on August 29, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44876&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0115",
+  "date": "2024-02-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of WILLIAM B. INNIS of Guysborough, Nova Scotia, as a full-time member of the Atlantic Regional Division of the Parole Board of Canada, to hold office during good behaviour for a term beginning on February 19, 2024 and ending on August 29, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44876"
+  ],
+  "htmlHash": "8c7b22e11d7c2c598600bd00fb0f3696"
+}
