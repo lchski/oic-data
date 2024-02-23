@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0156</td><td>2024-02-19</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Accepting the Resignation of the Hon. Donald H. Burrage.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE DONALD H. BURRAGE, a judge of the Supreme Court of Newfoundland and Labrador, General Division.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44953&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0156",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE DONALD H. BURRAGE, a judge of the Supreme Court of Newfoundland and Labrador, General Division.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44953"
+  ],
+  "htmlHash": "d9811fc9a23ff4ddfa31c08fbe100780"
+}

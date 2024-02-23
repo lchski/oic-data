@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0155</td><td>2024-02-19</td><td></td><td></td><td></td><td>INFC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of the Windsor-Detroit Bridge Authority Auditor</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing the AUDITOR GENERAL OF CANADA as the AUDITOR of the WINDSOR-DETROIT BRIDGE AUTHORITY for the fiscal year ending on March 31, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44952&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0155",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing the AUDITOR GENERAL OF CANADA as the AUDITOR of the WINDSOR-DETROIT BRIDGE AUTHORITY for the fiscal year ending on March 31, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44952"
+  ],
+  "htmlHash": "5dfd22c35e0dc28b263b9422cf157bab"
+}

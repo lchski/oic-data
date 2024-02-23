@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0147</td><td>2024-02-19</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Shipping Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Marine Safety Fees Regulations (Vessel Registry Fees)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the MARINE SAFETY FEES REGULATIONS (VESSEL REGISTRY FEES) in order to repeal the Vessel Registry Fees Tariff and incorporate updated vessel registry fees into the Regulations, and include, remove, increase and decrease certain fees.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0029  <strong>Publication Date:</strong> 2024-02-28</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44943&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0147",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MARINE SAFETY FEES REGULATIONS (VESSEL REGISTRY FEES) in order to repeal the Vessel Registry Fees Tariff and incorporate updated vessel registry fees into the Regulations, and include, remove, increase and decrease certain fees.",
+  "registration": "Registration: SOR/ 2024-0029  Publication Date: 2024-02-28",
+  "registration_type": "SOR",
+  "registration_id": "2024-0029",
+  "registration_publication_date": "2024-02-28",
+  "attachments": [
+    "44943"
+  ],
+  "htmlHash": "246d6fcd032bd6aa4d8a21da676b5f26"
+}

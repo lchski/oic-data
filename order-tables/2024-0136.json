@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0136</td><td>2024-02-19</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of NATHALIE THÉBERGE of Gatineau, Quebec, to be a full-time member of the Canadian Radio-television and Telecommunications Commission, and her desgination as Vice-Chairperson of the Canadian Radio-television and Telecommunications Commission, to hold office during good behaviour, for a term of five years, effective April 3, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44931&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0136",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of NATHALIE THÉBERGE of Gatineau, Quebec, to be a full-time member of the Canadian Radio-television and Telecommunications Commission, and her desgination as Vice-Chairperson of the Canadian Radio-television and Telecommunications Commission, to hold office during good behaviour, for a term of five years, effective April 3, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44931"
+  ],
+  "htmlHash": "491d2a5aa1cebd612e9b9970a709996c"
+}

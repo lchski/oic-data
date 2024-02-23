@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0143</td><td>2024-02-19</td><td></td><td></td><td></td><td>NRCAN, ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada–Newfoundland and Labrador Offshore Area Petroleum Operations Framework Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CANADA-NEWFOUNDLAND AND LABRADOR OFFSHORE AREA PETROLEUM OPERATIONS FRAMEWORK REGULATIONS in order to (1) repeal and replace nine regulations with one consolidated framework regulation in each of the Canada-Newfoundland and Labrador offshore areas; and (2) align requirements related to safety, environmental protection and resource management with international codes and standards for petroleum activities.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0025  <strong>Publication Date:</strong> 2024-02-28</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44938&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0143",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CANADA-NEWFOUNDLAND AND LABRADOR OFFSHORE AREA PETROLEUM OPERATIONS FRAMEWORK REGULATIONS in order to (1) repeal and replace nine regulations with one consolidated framework regulation in each of the Canada-Newfoundland and Labrador offshore areas; and (2) align requirements related to safety, environmental protection and resource management with international codes and standards for petroleum activities.",
+  "registration": "Registration: SOR/ 2024-0025  Publication Date: 2024-02-28",
+  "registration_type": "SOR",
+  "registration_id": "2024-0025",
+  "registration_publication_date": "2024-02-28",
+  "attachments": [
+    "44938"
+  ],
+  "htmlHash": "a5bcfedbb3f83fc7f9df2519a09acfce"
+}

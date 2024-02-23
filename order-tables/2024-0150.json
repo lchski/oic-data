@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0150</td><td>2024-02-19</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order authorizing the Minister of Foreign Affairs to sign, or delegate authority to sign</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs, or delegate, to sign on behalf of Canada, subject to ratification, the AGREEMENT UNDER THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA ON THE CONSERVATION AND SUSTAINABLE USE OF MARINE BIOLOGICAL DIVERSITY OF AREAS BEYOND NATIONAL JURISDICTION, adopted at New York on June 19, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44946&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0150",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs, or delegate, to sign on behalf of Canada, subject to ratification, the AGREEMENT UNDER THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA ON THE CONSERVATION AND SUSTAINABLE USE OF MARINE BIOLOGICAL DIVERSITY OF AREAS BEYOND NATIONAL JURISDICTION, adopted at New York on June 19, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44946"
+  ],
+  "htmlHash": "503a9e585230f4d8d3193685f527459f"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0146</td><td>2024-02-19</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canada-Nova Scotia Offshore Petroleum Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADA-NOVA SCOTIA OFFSHORE PETROLEUM ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to replace Parts 2 through 5 of Schedule 1 with a new part that references the relevant provisions from the Regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0028  <strong>Publication Date:</strong> 2024-02-28</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44942&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0146",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADA-NOVA SCOTIA OFFSHORE PETROLEUM ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to replace Parts 2 through 5 of Schedule 1 with a new part that references the relevant provisions from the Regulations.",
+  "registration": "Registration: SOR/ 2024-0028  Publication Date: 2024-02-28",
+  "registration_type": "SOR",
+  "registration_id": "2024-0028",
+  "registration_publication_date": "2024-02-28",
+  "attachments": [
+    "44942"
+  ],
+  "htmlHash": "b04837e8ed6c81d7cbf9b57e22e87d5f"
+}

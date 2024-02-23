@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0151</td><td>2024-02-19</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Interim Housing Assistance Program ** Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the Minister of Citizenship and Immigration ENTER INTO GRANT AGREEMENTS with any province, for certain costs associated with interim housing for refugee protection claimants under the INTERIM HOUSING ASSISTANCE PROGRAM.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44947&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0151",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the Minister of Citizenship and Immigration ENTER INTO GRANT AGREEMENTS with any province, for certain costs associated with interim housing for refugee protection claimants under the INTERIM HOUSING ASSISTANCE PROGRAM.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44947"
+  ],
+  "htmlHash": "6cf9b48ba3199cfc159ca55079b355ff"
+}

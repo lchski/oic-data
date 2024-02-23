@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0149</td><td>2024-02-19</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Bretton Woods and Related Agreements Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Special Drawing Rights ** International Monetary Fund **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the sum of money that is equivalent to 4.2 billion Special Drawing Rights as the maximum amount that the Minister of Finance may LEND to the INTERNATIONAL MONETARY FUND.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44945&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0149",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the sum of money that is equivalent to 4.2 billion Special Drawing Rights as the maximum amount that the Minister of Finance may LEND to the INTERNATIONAL MONETARY FUND.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44945"
+  ],
+  "htmlHash": "99df97e5fab9657fd47ad67240d59cc7"
+}

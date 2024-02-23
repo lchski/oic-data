@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0153</td><td>2024-02-19</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Broadcasting Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving a Lease Agreement between the Canadian Broadcasting Corporation and Zynga Game Canada Ltd</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the CANADIAN BROADCASTING CORPORATION enter into a lease agreement with Zynga Game Canada Ltd. for the lease of a portion of the real property located at 250 Front Street West in Toronto, Ontario, for a term of two years, four months, and one day, with the option to renew the lease for another period of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44949&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0153",
+  "date": "2024-02-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the CANADIAN BROADCASTING CORPORATION enter into a lease agreement with Zynga Game Canada Ltd. for the lease of a portion of the real property located at 250 Front Street West in Toronto, Ontario, for a term of two years, four months, and one day, with the option to renew the lease for another period of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44949"
+  ],
+  "htmlHash": "6692268f3d5e81cc23666d57c38065de"
+}
