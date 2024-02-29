@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0160</td><td>2024-02-23</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Bretton Woods and Related Agreements Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Minister of Finance to Provide Financial Assistance to Ukraine</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Finance to provide FINANCIAL ASSISTANCE TO UKRAINE up to $2 billion in the form of a sovereign loan under the Bretton Woods and Related Agreements Act (the Act) during the period of time beginning on the day on which the Minister of Finance is satisfied that the requirements set out in subsection 8.3(4) of the Act have been met, and ending on the earlier of March 31, 2026 and the day on which the Minister of Finance is no longer satisfied that those requirements are met.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44958&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0160",
+  "date": "2024-02-23",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Finance to provide FINANCIAL ASSISTANCE TO UKRAINE up to $2 billion in the form of a sovereign loan under the Bretton Woods and Related Agreements Act (the Act) during the period of time beginning on the day on which the Minister of Finance is satisfied that the requirements set out in subsection 8.3(4) of the Act have been met, and ending on the earlier of March 31, 2026 and the day on which the Minister of Finance is no longer satisfied that those requirements are met.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44958"
+  ],
+  "htmlHash": "38ae479c570bca5ab487909f53f7230f"
+}
