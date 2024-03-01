@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0161</td><td>2024-02-26</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (Electronic Travel Authorization)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (ELECTRONIC TRAVEL AUTHORIZATION) in order to (1) remove Mexico from the schedule of countries whose nationals are exempt from the Temporary Resident Visa (TRV) requirement to travel to Canada; (2) add Mexico to the list of countries whose nationals may be eligible to travel to Canada with an Electronic Travel Authorization (eTA) if they are travelling by air and have held a Canadian TRV in the last 10 years or hold a valid U.S. nonimmigrant visa; and (3) specify that eTAs of Mexican nationals remain valid for those who hold a valid work or study permit when the regulations come into force.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0034  <strong>Publication Date:</strong> 2024-03-13</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44959&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0161",
+  "date": "2024-02-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (ELECTRONIC TRAVEL AUTHORIZATION) in order to (1) remove Mexico from the schedule of countries whose nationals are exempt from the Temporary Resident Visa (TRV) requirement to travel to Canada; (2) add Mexico to the list of countries whose nationals may be eligible to travel to Canada with an Electronic Travel Authorization (eTA) if they are travelling by air and have held a Canadian TRV in the last 10 years or hold a valid U.S. nonimmigrant visa; and (3) specify that eTAs of Mexican nationals remain valid for those who hold a valid work or study permit when the regulations come into force.",
+  "registration": "Registration: SOR/ 2024-0034  Publication Date: 2024-03-13",
+  "registration_type": "SOR",
+  "registration_id": "2024-0034",
+  "registration_publication_date": "2024-03-13",
+  "attachments": [
+    "44959"
+  ],
+  "htmlHash": "9d17782e77294ddf6778685802da7f09"
+}
