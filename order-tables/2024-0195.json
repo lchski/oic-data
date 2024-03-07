@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0195</td><td>2024-03-01</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Grain Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canada Grain Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the CANADA GRAIN REGULATIONS (Miscellaneous Program) in order to incorporate by reference Chapter 2 of the Canada Grain Commission's Sampling Systems Handbook and Approval Guide.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0043  <strong>Publication Date:</strong> 2024-03-13</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44993&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0195",
+  "date": "2024-03-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the CANADA GRAIN REGULATIONS (Miscellaneous Program) in order to incorporate by reference Chapter 2 of the Canada Grain Commission's Sampling Systems Handbook and Approval Guide.",
+  "registration": "Registration: SOR/ 2024-0043  Publication Date: 2024-03-13",
+  "registration_type": "SOR",
+  "registration_id": "2024-0043",
+  "registration_publication_date": "2024-03-13",
+  "attachments": [
+    "44993"
+  ],
+  "htmlHash": "9433a673ffdfd64c8e7efd72a35216e7"
+}

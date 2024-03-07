@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0193</td><td>2024-03-01</td><td></td><td></td><td></td><td>PS, CBSA</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Act<br>Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Administered and Enforced by the Canada Border Services Agency</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE CANADA BORDER SERVICES AGENCY in order to (1) support electronic communication between the Canada Border Services Agency and trade chain partners by removing some requirements for in-person and paper-based communication and by adding some requirements for electronic communication; (2) update financial security requirements; (3) implement simplified billing cycles to provide more consistency among billing, accounting, and payment due dates for imported goods and to enable a period to make corrections to accounting documents without triggering a redetermination or a penalty; and (4) make consequential and administrative amendments to certain regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0041  <strong>Publication Date:</strong> 2024-03-13</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44991&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0193",
+  "date": "2024-03-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE CANADA BORDER SERVICES AGENCY in order to (1) support electronic communication between the Canada Border Services Agency and trade chain partners by removing some requirements for in-person and paper-based communication and by adding some requirements for electronic communication; (2) update financial security requirements; (3) implement simplified billing cycles to provide more consistency among billing, accounting, and payment due dates for imported goods and to enable a period to make corrections to accounting documents without triggering a redetermination or a penalty; and (4) make consequential and administrative amendments to certain regulations.",
+  "registration": "Registration: SOR/ 2024-0041  Publication Date: 2024-03-13",
+  "registration_type": "SOR",
+  "registration_id": "2024-0041",
+  "registration_publication_date": "2024-03-13",
+  "attachments": [
+    "44991"
+  ],
+  "htmlHash": "ba17d3813d25411477e4447e36774a24"
+}

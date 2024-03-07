@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0197</td><td>2024-03-01</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"6\">Interim Order Modifying the Operation of the Heavy-duty Vehicle and Engine Greenhouse Gas Emission Regulations (Trailer Standards)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the INTERIM ORDER MODIFYING THE OPERATION OF THE HEAVY-DUTY VEHICLE AND ENGINE GREENHOUSE GAS EMISSION REGULATIONS (TRAILER STANDARDS), made by the Minister of the Environment on February 19, 2024, in order to extend the suspension of the application of the trailer greenhouse gas emission standards by up to a year to ensure continued alignment with the United States.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44995&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0197",
+  "date": "2024-03-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the INTERIM ORDER MODIFYING THE OPERATION OF THE HEAVY-DUTY VEHICLE AND ENGINE GREENHOUSE GAS EMISSION REGULATIONS (TRAILER STANDARDS), made by the Minister of the Environment on February 19, 2024, in order to extend the suspension of the application of the trailer greenhouse gas emission standards by up to a year to ensure continued alignment with the United States.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44995"
+  ],
+  "htmlHash": "50804c8bf595c9cd0d88bf16c18e11e4"
+}

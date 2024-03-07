@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0172</td><td>2024-03-01</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of an auditor of the Bank of Canada for fiscal years 2024 to 2028.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing PRICEWATERHOUSECOOPERS LLP as AUDITOR of the BANK OF CANADA for the period from January 1, 2024 to December 31, 2028.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=44969&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0172",
+  "date": "2024-03-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing PRICEWATERHOUSECOOPERS LLP as AUDITOR of the BANK OF CANADA for the period from January 1, 2024 to December 31, 2028.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "44969"
+  ],
+  "htmlHash": "efca188ef9b918cad02006dab6fde697"
+}
