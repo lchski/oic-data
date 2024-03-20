@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0201</td><td>2024-03-14</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Convention Establishing the Square Kilometre Array Observatory ** CONVENTION **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the CONVENTION ESTABLISHING THE SQUARE KILOMETRE ARRAY OBSERVATORY, done at Rome on March 12, 2019.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45011&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0201",
+  "date": "2024-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the CONVENTION ESTABLISHING THE SQUARE KILOMETRE ARRAY OBSERVATORY, done at Rome on March 12, 2019.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45011"
+  ],
+  "htmlHash": "f75a8fdec9d115102d41d8acc32497c2"
+}
