@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0267</td><td>2024-03-25</td><td></td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of Auditor and Joint Auditor of the Public Sector Pension Investment Board</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing DELOITTE LLP of Montréal, Quebec as AUDITOR and the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the PUBLIC SECTOR PENSION INVESTMENT BOARD for the fiscal year ending on March 31, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45084&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0267",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing DELOITTE LLP of Montréal, Quebec as AUDITOR and the AUDITOR GENERAL OF CANADA as JOINT AUDITOR of the PUBLIC SECTOR PENSION INVESTMENT BOARD for the fiscal year ending on March 31, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45084"
+  ],
+  "htmlHash": "b4b9e2b6731d6ca4fe06827e8a8fdfbf"
+}

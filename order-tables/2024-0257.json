@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0257</td><td>2024-03-25</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Water Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Prairie Provinces Water Board Master Agreement on Apportionment ** Amendments **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of the Environment to enter into an AGREEMENT with the Governments of Manitoba, Saskatchewan and Alberta to amend the PRAIRIE PROVINCES WATER BOARD MASTER AGREEMENT ON APPORTIONMENT in order to introduce a framework for the collaborative management of transboundary aquifers and to make other related minor changes.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0257",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of the Environment to enter into an AGREEMENT with the Governments of Manitoba, Saskatchewan and Alberta to amend the PRAIRIE PROVINCES WATER BOARD MASTER AGREEMENT ON APPORTIONMENT in order to introduce a framework for the collaborative management of transboundary aquifers and to make other related minor changes.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45074"
+  ],
+  "htmlHash": "042f135f51f79e58f35acaba6b13902e"
+}

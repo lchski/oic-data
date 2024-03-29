@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0251</td><td>2024-03-25</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Fourth Session of the Intergovernmental Negotiating Committee on Plastic Pollution (Ottawa 2024 – INC-4) Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">FOURTH SESSION OF THE INTERGOVERNMENTAL NEGOTIATING COMMITTEE ON PLASTIC POLLUTION (OTTAWA 2024 - INC-4) PRIVILEGES AND IMMUNITIES ORDER in order to list the privileges and immunities provided to INC-4 and its participants.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0048  <strong>Publication Date:</strong> 2024-04-10</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45068&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0251",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "FOURTH SESSION OF THE INTERGOVERNMENTAL NEGOTIATING COMMITTEE ON PLASTIC POLLUTION (OTTAWA 2024 - INC-4) PRIVILEGES AND IMMUNITIES ORDER in order to list the privileges and immunities provided to INC-4 and its participants.",
+  "registration": "Registration: SOR/ 2024-0048  Publication Date: 2024-04-10",
+  "registration_type": "SOR",
+  "registration_id": "2024-0048",
+  "registration_publication_date": "2024-04-10",
+  "attachments": [
+    "45068"
+  ],
+  "htmlHash": "0fa078a061fbcebfa6c4aec69b3b5ac0"
+}

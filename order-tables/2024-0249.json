@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0249</td><td>2024-03-25</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">Mackenzie Valley Resource Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Preliminary Screening Requirement Regulations and the Exemption List Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the PRELIMINARY SCREENING REQUIREMENT REGULATIONS AND THE EXEMPTION LIST REGULATIONS in order to update legislative and regulatory references contained in the Regulations and make other necessary amendments to reflect the current legislative regulatory and environmental standards.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0047  <strong>Publication Date:</strong> 2024-04-10</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45065&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0249",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PRELIMINARY SCREENING REQUIREMENT REGULATIONS AND THE EXEMPTION LIST REGULATIONS in order to update legislative and regulatory references contained in the Regulations and make other necessary amendments to reflect the current legislative regulatory and environmental standards.",
+  "registration": "Registration: SOR/ 2024-0047  Publication Date: 2024-04-10",
+  "registration_type": "SOR",
+  "registration_id": "2024-0047",
+  "registration_publication_date": "2024-04-10",
+  "attachments": [
+    "45065"
+  ],
+  "htmlHash": "1f3b80fc59bedc7c2f2349fcaa98a6f5"
+}

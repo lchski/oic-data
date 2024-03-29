@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0266</td><td>2024-03-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Aggregate borrowing limit for the 2024-25 fiscal year</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending Order in Council P.C. 2024-0132 of February 15, 2024 to 1) specify $604 billion to be the maximum aggregate principal amount of money which may be borrowed by the Minister of Finance in the 2024-2025 fiscal year to permit operations related to the management of the public debt; and 2) designate which officials from Finance Canada and the Bank of Canada are authorized to sign and countersign securities of Canada.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45083&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0266",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending Order in Council P.C. 2024-0132 of February 15, 2024 to 1) specify $604 billion to be the maximum aggregate principal amount of money which may be borrowed by the Minister of Finance in the 2024-2025 fiscal year to permit operations related to the management of the public debt; and 2) designate which officials from Finance Canada and the Bank of Canada are authorized to sign and countersign securities of Canada.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45083"
+  ],
+  "htmlHash": "fc0a938f27c8090493a2842c4eb72229"
+}

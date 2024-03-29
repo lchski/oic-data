@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0258</td><td>2024-03-25</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite, done at Brussels on 21 May 1974.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the CONVENTION RELATING TO THE DISTRIBUTION OF PROGRAMME-CARRYING SIGNALS TRANSMITTED BY SATELLITE, done at Brussels on 21 May 1974.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45075&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0258",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the CONVENTION RELATING TO THE DISTRIBUTION OF PROGRAMME-CARRYING SIGNALS TRANSMITTED BY SATELLITE, done at Brussels on 21 May 1974.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45075"
+  ],
+  "htmlHash": "933bfd3a1a4995a70da94c2a41c43d5f"
+}

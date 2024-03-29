@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0250</td><td>2024-03-25</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Agreement between the United Nations and the Government of Canada Regarding the Fourth Session of the Intergovernmental Negotiating Committee to Develop an Internationally Legally Binding Instrument on Plastic Pollution, Including in the Marine Environment</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister or the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN THE UNITED NATIONS, AS REPRESENTED BY UNITED NATIONS ENVIRONMENT PROGRAMME, AND CANADA, REGARDING THE FOURTH SESSION OF THE INTERGOVERNMENTAL NEGOTIATING COMMITTEE TO DEVELOP AN INTERNATIONALLY LEGALLY BINDING INSTRUMENT ON PLASTIC POLLUTION, INCLUDING IN THE MARINE ENVIRONMENT, and to take the actions necessary to BRING INTO FORCE the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45066&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0250",
+  "date": "2024-03-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister or the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of the Governement of Canada, subject to ratification, the AGREEMENT BETWEEN THE UNITED NATIONS, AS REPRESENTED BY UNITED NATIONS ENVIRONMENT PROGRAMME, AND CANADA, REGARDING THE FOURTH SESSION OF THE INTERGOVERNMENTAL NEGOTIATING COMMITTEE TO DEVELOP AN INTERNATIONALLY LEGALLY BINDING INSTRUMENT ON PLASTIC POLLUTION, INCLUDING IN THE MARINE ENVIRONMENT, and to take the actions necessary to BRING INTO FORCE the Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45066"
+  ],
+  "htmlHash": "328183ce277ad6a78f49b62b35dc4395"
+}
