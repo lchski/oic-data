@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0316</td><td>2024-04-12</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Cannabis Act<br>Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Concerning the Disclosure of Cosmetic Ingredients</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS CONCERNING THE DISCLOSURE OF COSMETIC INGREDIENTS in order to (1) introduce a requirement to disclosure of certain fragrance allergens on cosmetic labels; (2) add greater flexibility for the disclosure of ingredients for cosmetics sold in small packages; (3) improve the oversight of cosmetics and support compliance and enforcement actions; and (4) changes of an administrative nature to correct the publisher for a referenced document, to revise entries in the Schedule to the Regulations, and to revise French definitions to reflect current drafting conventions.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0063  <strong>Publication Date:</strong> 2024-04-24</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45131&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0316",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS CONCERNING THE DISCLOSURE OF COSMETIC INGREDIENTS in order to (1) introduce a requirement to disclosure of certain fragrance allergens on cosmetic labels; (2) add greater flexibility for the disclosure of ingredients for cosmetics sold in small packages; (3) improve the oversight of cosmetics and support compliance and enforcement actions; and (4) changes of an administrative nature to correct the publisher for a referenced document, to revise entries in the Schedule to the Regulations, and to revise French definitions to reflect current drafting conventions.",
+  "registration": "Registration: SOR/ 2024-0063  Publication Date: 2024-04-24",
+  "registration_type": "SOR",
+  "registration_id": "2024-0063",
+  "registration_publication_date": "2024-04-24",
+  "attachments": [
+    "45131"
+  ],
+  "htmlHash": "29fc40b22eb021a19918b7537840b1f1"
+}

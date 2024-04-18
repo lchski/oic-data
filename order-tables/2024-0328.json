@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0328</td><td>2024-04-12</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Dissolution of the Chambre de Commerce de Beaulac-Garthby</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the DISSOLUTION of the CHAMBRE DE COMMERCE DE BEAULAC-GARTHBY, in Quebec.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45143&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0328",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the DISSOLUTION of the CHAMBRE DE COMMERCE DE BEAULAC-GARTHBY, in Quebec.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45143"
+  ],
+  "htmlHash": "4a5483bd512ea113a234cca12c6c9944"
+}

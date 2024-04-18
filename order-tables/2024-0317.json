@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0317</td><td>2024-04-12</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Small Business Financing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canada Small Business Financing Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADA SMALL BUSINESS FINANCING REGULATIONS in order to make technical, administrative and non-controversial changes.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0064  <strong>Publication Date:</strong> 2024-04-24</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45132&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0317",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADA SMALL BUSINESS FINANCING REGULATIONS in order to make technical, administrative and non-controversial changes.",
+  "registration": "Registration: SOR/ 2024-0064  Publication Date: 2024-04-24",
+  "registration_type": "SOR",
+  "registration_id": "2024-0064",
+  "registration_publication_date": "2024-04-24",
+  "attachments": [
+    "45132"
+  ],
+  "htmlHash": "e5c1087011afacaf04b156f349cf48d5"
+}

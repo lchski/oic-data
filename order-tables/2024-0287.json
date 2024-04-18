@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0287</td><td>2024-04-12</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Special Economic Measures (Sudan) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">SPECIAL ECONOMIC MEASURES (SUDAN) REGULATIONS in order to add six (6) individuals to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0061  <strong>Publication Date:</strong> 2024-04-24</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45101&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0287",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "SPECIAL ECONOMIC MEASURES (SUDAN) REGULATIONS in order to add six (6) individuals to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
+  "registration": "Registration: SOR/ 2024-0061  Publication Date: 2024-04-24",
+  "registration_type": "SOR",
+  "registration_id": "2024-0061",
+  "registration_publication_date": "2024-04-24",
+  "attachments": [
+    "45101"
+  ],
+  "htmlHash": "78a9e48ef84210b67d12d0ab86d1ac97"
+}

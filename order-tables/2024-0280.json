@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0280</td><td>2024-04-12</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MAUREEN J. MCGUIRE of the City of Edmonton, in the Province of Alberta, one of His Majesty's Counsel learned in the law, to be a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45094&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0280",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MAUREEN J. MCGUIRE of the City of Edmonton, in the Province of Alberta, one of His Majesty's Counsel learned in the law, to be a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45094"
+  ],
+  "htmlHash": "573eb785caeaf6482ac99c84ba0ca414"
+}

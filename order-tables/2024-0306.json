@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0306</td><td>2024-04-12</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of ALISON JOANNA KENNEDY of Ottawa, Ontario, to be a full-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of five years, effective May 6, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45120&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0306",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ALISON JOANNA KENNEDY of Ottawa, Ontario, to be a full-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of five years, effective May 6, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45120"
+  ],
+  "htmlHash": "f3146537cf887108f83187a164389999"
+}

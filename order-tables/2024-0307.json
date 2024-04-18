@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0307</td><td>2024-04-12</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of PAULA LYNNE THOMPSON of Ottawa, Ontario, to be a part-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of five years, effective September 16, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45121&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0307",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of PAULA LYNNE THOMPSON of Ottawa, Ontario, to be a part-time member of the Immigration and Refugee Board (Ottawa District Office), to hold office during good behaviour for a term of five years, effective September 16, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45121"
+  ],
+  "htmlHash": "8ac4218d1c8dbab02cae681bcb581391"
+}

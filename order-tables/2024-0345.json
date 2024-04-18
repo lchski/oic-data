@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0345</td><td>2024-04-12</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Early Learning and Child Care Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Minister of Families, Children and Social Development as the Minister for the Purposes of the Canada Early Learning and Child Care Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order designating the Minister of FAMILIES, CHILDREN AND SOCIAL DEVELOPMENT as the Minister for the Purposes of the CANADA EARLY LEARNING AND CHILD CARE ACT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45162&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0345",
+  "date": "2024-04-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating the Minister of FAMILIES, CHILDREN AND SOCIAL DEVELOPMENT as the Minister for the Purposes of the CANADA EARLY LEARNING AND CHILD CARE ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45162"
+  ],
+  "htmlHash": "b42a7862b9395ed349debe1648305f42"
+}
