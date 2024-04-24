@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0358</td><td>2024-04-18</td><td></td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of KATHERINE LYNNE GOSHULAK RIVERA as Honorary Consul of Canada in Cebu, the Republic of the Philippines, to hold office during pleasure for a term of five years, effective July 9, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45177&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0358",
+  "date": "2024-04-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of KATHERINE LYNNE GOSHULAK RIVERA as Honorary Consul of Canada in Cebu, the Republic of the Philippines, to hold office during pleasure for a term of five years, effective July 9, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45177"
+  ],
+  "htmlHash": "fa14618214f2cb4fd5e0eed4083fecbf"
+}
