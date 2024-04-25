@@ -1,5 +1,5 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0379</td><td>2024-04-18</td><td></td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"6\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of ALBERTINE V. CROOK of Hay River, Northwest Territories, to be Deputy Commissioner of the Northwest Territories, to execute the office and functions of the Commissioner during the absence or illness or inability of the latter or when that office is vacant, for a term of three years, effective April 26, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45200&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0379</td><td>2024-04-18</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of ALBERTINE V. CROOK of Hay River, Northwest Territories, to be Deputy Commissioner of the Northwest Territories, to execute the office and functions of the Commissioner during the absence or illness or inability of the latter or when that office is vacant, for a term of three years, effective April 26, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45334&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2024-0379",
   "date": "2024-04-18",
   "chapter": "",
@@ -13,7 +13,7 @@
   "registration_id": "",
   "registration_publication_date": "",
   "attachments": [
-    "45200"
+    "45334"
   ],
-  "htmlHash": "d51488b6205349e66c3f77d9c3111f33"
+  "htmlHash": "2cdf11f6962ff5a913f986ff04b0893f"
 }

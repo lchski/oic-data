@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0396</td><td>2024-04-19</td><td></td><td></td><td></td><td>GAC, FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Bank for International Settlements Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">BANK FOR INTERNATIONAL SETTLEMENTS PRIVILEGES AND IMMUNITIES ORDER in order to (1) incorporate by reference the Privileges and Immunities provided to the Bank for International Settlements under the Agreement with respect to immunity from legal process for the BIS and its officials; inviolability of premises and archives of the BIS; exemption from tax and customs duties for goods used solely for the official, non-commercial functions of the BIS; exemption from taxation on the salaries and emoluments paid to Innovation Hub officials by the BIS; exemption from duties and taxes for furniture and personal effects at the time of the Innovation Hub official for their first post in Canada ; and  P&amp;I for the accredited family members of officials of the Innovation Hub, which would include immunity from immigration restrictions and alien registration; and the same repatriation facilities in times of international crisis as diplomatic envoys.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0071  <strong>Publication Date:</strong> 2024-05-08</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45218&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0396",
+  "date": "2024-04-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "BANK FOR INTERNATIONAL SETTLEMENTS PRIVILEGES AND IMMUNITIES ORDER in order to (1) incorporate by reference the Privileges and Immunities provided to the Bank for International Settlements under the Agreement with respect to immunity from legal process for the BIS and its officials; inviolability of premises and archives of the BIS; exemption from tax and customs duties for goods used solely for the official, non-commercial functions of the BIS; exemption from taxation on the salaries and emoluments paid to Innovation Hub officials by the BIS; exemption from duties and taxes for furniture and personal effects at the time of the Innovation Hub official for their first post in Canada ; and  P&I for the accredited family members of officials of the Innovation Hub, which would include immunity from immigration restrictions and alien registration; and the same repatriation facilities in times of international crisis as diplomatic envoys.",
+  "registration": "Registration: SOR/ 2024-0071  Publication Date: 2024-05-08",
+  "registration_type": "SOR",
+  "registration_id": "2024-0071",
+  "registration_publication_date": "2024-05-08",
+  "attachments": [
+    "45218"
+  ],
+  "htmlHash": "74bda5a936dafb47f09ab0498f09e030"
+}

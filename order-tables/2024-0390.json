@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0390</td><td>2024-04-19</td><td></td><td></td><td></td><td>IRCC, GAC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Remission Order in Respect of Certain Fees for the Issuance of Identity and Travel Documents (Russian Invasion of Ukraine)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">REMISSION ORDER IN RESPECT OF CERTAIN FEES FOR THE ISSUANCE OF IDENTITY AND TRAVEL DOCUMENTS (RUSSIAN INVASION OF UKRAINE) in order to remit fees payable for Canadian travel documents, Permanent Resident Travel Documents, and certificates of Canadian citizenship under the responsibility of the Minister of Citizenship and Immigration, as well as consular services fees for adult travel documents under the responsibility of the Minister of Foreign Affairs, for applications received between February 22, 2022, and March 31, 2023; (2) reimburse fees for temporary resident visas, work and study permits, and all associated biometrics fees paid by Ukrainian nationals and their immediate family members applying under the Canada-Ukraine Authorization for Emergency Travel (CUAET) between February 22, 2022, and March 14, 2022; and (3) reimburse overpayment amounts for temporary resident visas, work and study permits, and all associated biometrics fees paid by Ukrainian nationals and their immediate family members.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45212&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0390",
+  "date": "2024-04-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "REMISSION ORDER IN RESPECT OF CERTAIN FEES FOR THE ISSUANCE OF IDENTITY AND TRAVEL DOCUMENTS (RUSSIAN INVASION OF UKRAINE) in order to remit fees payable for Canadian travel documents, Permanent Resident Travel Documents, and certificates of Canadian citizenship under the responsibility of the Minister of Citizenship and Immigration, as well as consular services fees for adult travel documents under the responsibility of the Minister of Foreign Affairs, for applications received between February 22, 2022, and March 31, 2023; (2) reimburse fees for temporary resident visas, work and study permits, and all associated biometrics fees paid by Ukrainian nationals and their immediate family members applying under the Canada-Ukraine Authorization for Emergency Travel (CUAET) between February 22, 2022, and March 14, 2022; and (3) reimburse overpayment amounts for temporary resident visas, work and study permits, and all associated biometrics fees paid by Ukrainian nationals and their immediate family members.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45212"
+  ],
+  "htmlHash": "d60b72350f17aad6692ef9b44aef9331"
+}

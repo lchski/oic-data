@@ -1,5 +1,5 @@
 {
-  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0378</td><td>2024-04-18</td><td></td><td></td><td></td><td></td></tr><tr><td>Act</td><td colspan=\"6\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of GERALD W. KISOUN, of Inuvik, Northwest Territories, to be Commissioner of the Northwest Territories, to hold office during pleasure for a term of five years, effective April 26, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45199&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0378</td><td>2024-04-18</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Northwest Territories Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of GERALD W. KISOUN, of Inuvik, Northwest Territories, to be Commissioner of the Northwest Territories, to hold office during pleasure for a term of five years, effective April 26, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45333&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
   "pcNumber": "2024-0378",
   "date": "2024-04-18",
   "chapter": "",
@@ -13,7 +13,7 @@
   "registration_id": "",
   "registration_publication_date": "",
   "attachments": [
-    "45199"
+    "45333"
   ],
-  "htmlHash": "83201b02862af1aee56a737fe84adae1"
+  "htmlHash": "1631128929283f0572d86754ac30a93c"
 }

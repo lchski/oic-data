@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0387</td><td>2024-04-19</td><td></td><td></td><td></td><td>IRCC, GAC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Remission Order in Respect of Certain Fees for the Issuance of Identity and Travel Documents (Hurricane Fiona)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">REMISSION ORDER IN RESPECT OF CERTAIN FEES FOR THE ISSUANCE OF IDENTITY AND TRAVEL DOCUMENTS (HURRICANE FIONA) in order to remit the associated fees for the issuance of replacement Canadian travel documents, Permanent Resident Cards, and certificates of Canadian citizenship that were rendered lost, damaged, destroyed, or inaccessible as a result of Hurricane Fiona in September 2022.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45209&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0387",
+  "date": "2024-04-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "REMISSION ORDER IN RESPECT OF CERTAIN FEES FOR THE ISSUANCE OF IDENTITY AND TRAVEL DOCUMENTS (HURRICANE FIONA) in order to remit the associated fees for the issuance of replacement Canadian travel documents, Permanent Resident Cards, and certificates of Canadian citizenship that were rendered lost, damaged, destroyed, or inaccessible as a result of Hurricane Fiona in September 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45209"
+  ],
+  "htmlHash": "3d83b57e2aa00bcae06890f8dd3db555"
+}
