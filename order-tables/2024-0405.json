@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0405</td><td>2024-04-25</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MICHAEL ROBERT DUHEME of Ottawa, Ontario, an officer of the Royal Canada Mounted Police, to be Commissioner of the Royal Canadian Mounted Police, to hold office during pleasure.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45345&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0405",
+  "date": "2024-04-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MICHAEL ROBERT DUHEME of Ottawa, Ontario, an officer of the Royal Canada Mounted Police, to be Commissioner of the Royal Canadian Mounted Police, to hold office during pleasure.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45345"
+  ],
+  "htmlHash": "c371f01718fe9df6eae3ca0a7c74c120"
+}
