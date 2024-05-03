@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0406</td><td>2024-04-29</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending Order in Council P.C. 2023-898 of September 16, 2023 by replacing  the reference to “Ryan Turnbull, to be styled Parliamentary Secretary to the Minister of Innovation, Science and Industry” with “Ryan Turnbull, to be styled Parliamentary Secretary to the Deputy Prime Minister and Minister of Finance and Parliamentary Secretary to the Minister of Innovation, Science and Industry\".</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45350&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0406",
+  "date": "2024-04-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending Order in Council P.C. 2023-898 of September 16, 2023 by replacing  the reference to “Ryan Turnbull, to be styled Parliamentary Secretary to the Minister of Innovation, Science and Industry” with “Ryan Turnbull, to be styled Parliamentary Secretary to the Deputy Prime Minister and Minister of Finance and Parliamentary Secretary to the Minister of Innovation, Science and Industry\".",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45350"
+  ],
+  "htmlHash": "69293826072dcdd55f48d6bff8476f6e"
+}
