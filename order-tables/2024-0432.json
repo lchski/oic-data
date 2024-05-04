@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0432</td><td>2024-04-30</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of KONRAD SIOUI of Wendake, Quebec, as a member of the Independent Judicial Advisory Committee for the Province of Quebec - East, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45402&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0432",
+  "date": "2024-04-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of KONRAD SIOUI of Wendake, Quebec, as a member of the Independent Judicial Advisory Committee for the Province of Quebec - East, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45402"
+  ],
+  "htmlHash": "a8d9af1196ddf4f10eaf33cbafe40a08"
+}
