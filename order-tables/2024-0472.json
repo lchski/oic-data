@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0472</td><td>2024-05-03</td><td></td><td></td><td></td><td>NRC, CER</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Energy Regulator  - Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by Canada Energy Regulator into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada that covers all employees in the national Energy Board bargaining unit, for the period beginning on November 1, 2022, and ending on October 31, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45446&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0472",
+  "date": "2024-05-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by Canada Energy Regulator into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada that covers all employees in the national Energy Board bargaining unit, for the period beginning on November 1, 2022, and ending on October 31, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45446"
+  ],
+  "htmlHash": "4d1eed4c32ce7df358865f035772c732"
+}

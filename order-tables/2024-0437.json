@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0437</td><td>2024-05-03</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Social Sciences and Humanities Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the re-election of NORMAND LABRIE of Toronto, Ontario, a member of the Social Sciences and Humanities Research Council, as Vice-President of the Social Sciences and Humanities Research Council, to hold office during pleasure for a term ending on July 6, 2027, effective July 7, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45407&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0437",
+  "date": "2024-05-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the re-election of NORMAND LABRIE of Toronto, Ontario, a member of the Social Sciences and Humanities Research Council, as Vice-President of the Social Sciences and Humanities Research Council, to hold office during pleasure for a term ending on July 6, 2027, effective July 7, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45407"
+  ],
+  "htmlHash": "2c478fc392b478ba73ed9a839dea6dc8"
+}

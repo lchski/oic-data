@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0468</td><td>2024-05-03</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Telefilm Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of SYLVAIN LAFRANCE of Outremont, Quebec, to be a member of Telefilm Canada, to hold office during pleasure for a term of five years; and his designation as Chairperson of Telefilm Canada, effective May 9, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45442&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0468",
+  "date": "2024-05-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SYLVAIN LAFRANCE of Outremont, Quebec, to be a member of Telefilm Canada, to hold office during pleasure for a term of five years; and his designation as Chairperson of Telefilm Canada, effective May 9, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45442"
+  ],
+  "htmlHash": "a76a17003bcb66ce64ab6301571eebee"
+}

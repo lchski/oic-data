@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0467</td><td>2024-05-03</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Radio-television and Telecommunications Commission Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of CLAIRE ANDERSON of Whitehorse, Yukon, as a full-time member of the Canadian Radio-television and Telecommunications Commission, to hold office during good behaviour for a term of five years and her designation for the British Columbia/Yukon region, effective August 26, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45441&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0467",
+  "date": "2024-05-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of CLAIRE ANDERSON of Whitehorse, Yukon, as a full-time member of the Canadian Radio-television and Telecommunications Commission, to hold office during good behaviour for a term of five years and her designation for the British Columbia/Yukon region, effective August 26, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45441"
+  ],
+  "htmlHash": "35bb4c76762c66f922ddd900081b4841"
+}

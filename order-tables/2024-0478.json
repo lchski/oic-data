@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0478</td><td>2024-05-03</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Appointing the Hon. John P. L. McDermot to be Deputy Judge of the Supreme Court of Yukon</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing the HONOURABLE JOHN P.L. McDERMOT, a judge of the Superior Court of Justice of Ontario, Family Court, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45452&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0478",
+  "date": "2024-05-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing the HONOURABLE JOHN P.L. McDERMOT, a judge of the Superior Court of Justice of Ontario, Family Court, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45452"
+  ],
+  "htmlHash": "fad6e3a2a0a37e96eb3459bf50afeb8e"
+}
