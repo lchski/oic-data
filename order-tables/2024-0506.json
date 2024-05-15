@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0506</td><td>2024-05-09</td><td></td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Superannuation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Supplementary Death Benefit Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SUPPLEMENTARY DEATH BENEFIT REGULATIONS in order to (1) allow the plan participants to name up to five beneficiaries, which include registered charitable organizations, but excludes corporations; (2) outline the essential criteria for making a valid designation rather than referencing a prescribed form; (3) permit the use of digital communication for beneficiary designation and communication with the Government of Canada Pension Centre; and (4) clarify language and update terminology to be gender neutral.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0085  <strong>Publication Date:</strong> 2024-05-22</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45482&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0506",
+  "date": "2024-05-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SUPPLEMENTARY DEATH BENEFIT REGULATIONS in order to (1) allow the plan participants to name up to five beneficiaries, which include registered charitable organizations, but excludes corporations; (2) outline the essential criteria for making a valid designation rather than referencing a prescribed form; (3) permit the use of digital communication for beneficiary designation and communication with the Government of Canada Pension Centre; and (4) clarify language and update terminology to be gender neutral.",
+  "registration": "Registration: SOR/ 2024-0085  Publication Date: 2024-05-22",
+  "registration_type": "SOR",
+  "registration_id": "2024-0085",
+  "registration_publication_date": "2024-05-22",
+  "attachments": [
+    "45482"
+  ],
+  "htmlHash": "1c3efe6a180fa1362d8bd4b4b613dd04"
+}

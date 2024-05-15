@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0508</td><td>2024-05-09</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">Territorial Lands Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Withdrawal from Disposal of Certain Tracts of Territorial Lands in Nunavut (Kivalliq area) Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">WITHDRAWAL FROM DISPOSAL OF CERTAIN TRACTS OF TERRITORIAL LANDS IN NUNAVUT (KIVALLIQ AREA) ORDER in order to withdraw certain tracts of territorial lands in Nunavut from disposal for a period of ten years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45492&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0508",
+  "date": "2024-05-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "WITHDRAWAL FROM DISPOSAL OF CERTAIN TRACTS OF TERRITORIAL LANDS IN NUNAVUT (KIVALLIQ AREA) ORDER in order to withdraw certain tracts of territorial lands in Nunavut from disposal for a period of ten years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45492"
+  ],
+  "htmlHash": "2714fb83517d8c6091fe226517a529f9"
+}
