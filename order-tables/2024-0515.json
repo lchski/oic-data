@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0515</td><td>2024-05-16</td><td></td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"6\">Appropriation Act No. 2, 2013-14</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MICHAEL GORT as Ambassador and Deputy Permanent Representative of Canada to the United Nations, in New York.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45500&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0515",
+  "date": "2024-05-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MICHAEL GORT as Ambassador and Deputy Permanent Representative of Canada to the United Nations, in New York.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45500"
+  ],
+  "htmlHash": "5337a3738188e4470ad925f5f758eb68"
+}

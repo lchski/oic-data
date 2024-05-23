@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0512</td><td>2024-05-16</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Atlantic Canada Opportunities Agency Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of LAURA LEE LANGLEY of Halifax, Nova Scotia, to be President of the Atlantic Canada Opportunities Agency, to hold office during pleasure, effective July 2, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45497&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0512",
+  "date": "2024-05-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LAURA LEE LANGLEY of Halifax, Nova Scotia, to be President of the Atlantic Canada Opportunities Agency, to hold office during pleasure, effective July 2, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45497"
+  ],
+  "htmlHash": "8b7819f039038bd1a7c798c3e03e2de5"
+}
