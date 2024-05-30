@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0591</td><td>2024-05-24</td><td></td><td></td><td></td><td>NRCAN, CNSC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canadian Nuclear Safety Commission  - Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by Canadian Nuclear Safety Commission into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada in respect of those of the Canadian Nuclear Safety Commission's employees who are represented by the Professional Institute of the Public Service of Canada, for the period beginning on April 1, 2022 to March 31, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45600&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0591",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by Canadian Nuclear Safety Commission into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada in respect of those of the Canadian Nuclear Safety Commission's employees who are represented by the Professional Institute of the Public Service of Canada, for the period beginning on April 1, 2022 to March 31, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45600"
+  ],
+  "htmlHash": "5e0d0102445597a48b963fbd62e87da4"
+}

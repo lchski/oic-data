@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0570</td><td>2024-05-24</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Budget Implementation Act, 2022, No. 1</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing the Day on Which this Order is Made as the Day on Which Division 8 of Part 4 of the Budget Implementation Act, 2021, No. 1 Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Fixing the Day on Which this Order is Made as the Day on Which Division 8 of Part 4 of the Budget Implementation Act, 2021, No. 1, chapter 23 of the Statutes of Canada, 2021, COMES INTO FORCE in order to amend the Pension Benefits Standards Act, 1985 to provide a revised framework for negotiated contribution plans.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45563&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0570",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Fixing the Day on Which this Order is Made as the Day on Which Division 8 of Part 4 of the Budget Implementation Act, 2021, No. 1, chapter 23 of the Statutes of Canada, 2021, COMES INTO FORCE in order to amend the Pension Benefits Standards Act, 1985 to provide a revised framework for negotiated contribution plans.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45563"
+  ],
+  "htmlHash": "c6e0f610c5f616c55a13697144c4e38f"
+}

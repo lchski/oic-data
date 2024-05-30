@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0585</td><td>2024-05-24</td><td></td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"6\">Indian Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Granting an Easement on the lands in Pheasant Rump Nakota First Nation Indian Reserve No. 68G, SK - LSSK2075</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order consenting to the exercise by SASKATCHEWAN TELECOMMUNICATIONS of the power to take an EASEMENT on the lands in Pheasant Rump Nakota Indian Reserve No. 68G, Saskatchewan, for the purposes of operating and maintaining a telecommunications transmission line.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45598&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0585",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order consenting to the exercise by SASKATCHEWAN TELECOMMUNICATIONS of the power to take an EASEMENT on the lands in Pheasant Rump Nakota Indian Reserve No. 68G, Saskatchewan, for the purposes of operating and maintaining a telecommunications transmission line.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45598"
+  ],
+  "htmlHash": "983d4263125b4bbb410f2ca05a5bbee6"
+}

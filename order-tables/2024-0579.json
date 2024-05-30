@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0579</td><td>2024-05-24</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Goods and Services Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending Schedule 1 to the First Nations Goods and Services Tax Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending SCHEDULE 1 TO THE FIRST NATIONS GOODS AND SERVICES TAX ACT in order to (1) modify the name of the Tla’amin Nation from Sliammon to Tla’amin Nation, the name of its governing body from Council of Sliammon to Tla’amin Government, and the description of its treaty settlement lands where its First Nations Goods and Services Tax law could apply from Reserve of Sliammon to Tla’amin Lands; and (2) add the name of the Metepenagiag Mi’kmaq Nation, the name of its governing body, the Council of the Metepenagiag Mi’kmaq Nation, and the description of its reserves where its law could apply.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0103  <strong>Publication Date:</strong> 2024-06-05</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45574&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0579",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending SCHEDULE 1 TO THE FIRST NATIONS GOODS AND SERVICES TAX ACT in order to (1) modify the name of the Tla’amin Nation from Sliammon to Tla’amin Nation, the name of its governing body from Council of Sliammon to Tla’amin Government, and the description of its treaty settlement lands where its First Nations Goods and Services Tax law could apply from Reserve of Sliammon to Tla’amin Lands; and (2) add the name of the Metepenagiag Mi’kmaq Nation, the name of its governing body, the Council of the Metepenagiag Mi’kmaq Nation, and the description of its reserves where its law could apply.",
+  "registration": "Registration: SOR/ 2024-0103  Publication Date: 2024-06-05",
+  "registration_type": "SOR",
+  "registration_id": "2024-0103",
+  "registration_publication_date": "2024-06-05",
+  "attachments": [
+    "45574"
+  ],
+  "htmlHash": "1a7ce5d0267f4a3362df2fb092b40118"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0594</td><td>2024-05-24</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Accepting the Resignation of the Hon. Philippe H. Bélanger</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE PHILIPPE H. BÉLANGER, a judge of the Superior Court of Québec for the district of Montréal.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45595&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0594",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE PHILIPPE H. BÉLANGER, a judge of the Superior Court of Québec for the district of Montréal.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45595"
+  ],
+  "htmlHash": "d66f9e5129f84bdc452b0ff34647f8dc"
+}

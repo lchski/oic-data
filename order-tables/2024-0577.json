@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0577</td><td>2024-05-24</td><td></td><td></td><td></td><td>LAB, ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Pay Equity Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Pay Equity Regulations (Administrative Monetary Penalties and Technical Amendments)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the PAY EQUITY REGULATIONS (ADMINISTRATIVE MONETARY PENALTIES AND TECHNICAL AMENDMENTS) in order to (1) establish a process for updating pay equity plans in workplaces with no predominantly male job classes; (2) revise the rules for calculating the hourly rates of pay for a “typical job class”; (3) require additional information in the annual statement to better determine the impact of the pay equity regime on the gender wage gap; (4) amend the posting deadline for a group of employers to post their notice of obligations; and (5) establish an administrative monetary penalties system to designate violations and penalty ranges.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0101  <strong>Publication Date:</strong> 2024-06-05</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45572&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0577",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PAY EQUITY REGULATIONS (ADMINISTRATIVE MONETARY PENALTIES AND TECHNICAL AMENDMENTS) in order to (1) establish a process for updating pay equity plans in workplaces with no predominantly male job classes; (2) revise the rules for calculating the hourly rates of pay for a “typical job class”; (3) require additional information in the annual statement to better determine the impact of the pay equity regime on the gender wage gap; (4) amend the posting deadline for a group of employers to post their notice of obligations; and (5) establish an administrative monetary penalties system to designate violations and penalty ranges.",
+  "registration": "Registration: SOR/ 2024-0101  Publication Date: 2024-06-05",
+  "registration_type": "SOR",
+  "registration_id": "2024-0101",
+  "registration_publication_date": "2024-06-05",
+  "attachments": [
+    "45572"
+  ],
+  "htmlHash": "63884cf99a14bf0a8555510e3588e5be"
+}

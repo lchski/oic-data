@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0598</td><td>2024-05-24</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order amending the mandate of the Leaders' Debate Commission</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending the Order in Council establishing the Leaders' Debates Commission in order to allow the most the senior-most executive member of the Commission to exercise the powers and perform the duties of the Commissioner in the event of a vacancy, absence, or incapacity.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45596&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0598",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending the Order in Council establishing the Leaders' Debates Commission in order to allow the most the senior-most executive member of the Commission to exercise the powers and perform the duties of the Commissioner in the event of a vacancy, absence, or incapacity.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45596"
+  ],
+  "htmlHash": "4d643ef76331bbd2c4de08333f23951b"
+}

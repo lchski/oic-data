@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0572</td><td>2024-05-24</td><td></td><td></td><td></td><td>ECCC, PARKS</td></tr><tr><td>Act</td><td colspan=\"6\">Rouge National Urban Park Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Schedule to the Rouge National Urban Park Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending the SCHEDULE TO THE ROUGE NATIONAL URBAN PARK ACT in order to formally add the lands described in the Order to the Rouge National Urban Park.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0096  <strong>Publication Date:</strong> 2024-06-05</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45565&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0572",
+  "date": "2024-05-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the SCHEDULE TO THE ROUGE NATIONAL URBAN PARK ACT in order to formally add the lands described in the Order to the Rouge National Urban Park.",
+  "registration": "Registration: SOR/ 2024-0096  Publication Date: 2024-06-05",
+  "registration_type": "SOR",
+  "registration_id": "2024-0096",
+  "registration_publication_date": "2024-06-05",
+  "attachments": [
+    "45565"
+  ],
+  "htmlHash": "9ba9a58a3b50dfbd32e9b7255c87d944"
+}
