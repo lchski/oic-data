@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0607</td><td>2024-05-30</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Citizenship Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of ANTHONY BLAIR of Brampton, Ontario, to be a citizenship judge on a full-time basis for a term of three years, effective June 10, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45612&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0607",
+  "date": "2024-05-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ANTHONY BLAIR of Brampton, Ontario, to be a citizenship judge on a full-time basis for a term of three years, effective June 10, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45612"
+  ],
+  "htmlHash": "f7358ed3252dba473cf7ef5ac61dfc11"
+}

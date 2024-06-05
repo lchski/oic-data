@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0606</td><td>2024-05-30</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Budget Implementation Act, 1997</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of PIERRE BILODEAU of Chelsea, Quebec, to be a director of the board of directors of the Canada Foundation for Innovation, to hold office during pleasure for a term of three years, in the place of Lynda Brown-Ganzert, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45610&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0606",
+  "date": "2024-05-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of PIERRE BILODEAU of Chelsea, Quebec, to be a director of the board of directors of the Canada Foundation for Innovation, to hold office during pleasure for a term of three years, in the place of Lynda Brown-Ganzert, whose term has expired.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45610"
+  ],
+  "htmlHash": "c3b5fcc79f8a310b2751a9efb9a8ba96"
+}

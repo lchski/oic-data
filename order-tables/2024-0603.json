@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0603</td><td>2024-05-30</td><td></td><td></td><td></td><td>NR</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Revenue Agency Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of COLIN YOUNKER of Charlottetown, Prince Edward Island, as a director of the Board of Management of the Canada Revenue Agency, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45607&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0603",
+  "date": "2024-05-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of COLIN YOUNKER of Charlottetown, Prince Edward Island, as a director of the Board of Management of the Canada Revenue Agency, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45607"
+  ],
+  "htmlHash": "7c9ab9536a57711c39cb3b4f77f88280"
+}
