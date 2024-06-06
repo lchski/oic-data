@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0632</td><td>2024-05-31</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Exchange of Letters constituting an agreement amending the AGREEMENT FOR CO-OPERATION Concerning Civil Uses of ATOMIC ENERGY between the Canada and the UNITED STATES OF AMERICA</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE the Exchange of Letters constituting an agreement amending the AGREEMENT FOR CO-OPERATION Concerning Civil Uses of ATOMIC ENERGY between the Canada and the UNITED STATES OF AMERICA, DONE at Ottawa on July 7, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45637&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0632",
+  "date": "2024-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE the Exchange of Letters constituting an agreement amending the AGREEMENT FOR CO-OPERATION Concerning Civil Uses of ATOMIC ENERGY between the Canada and the UNITED STATES OF AMERICA, DONE at Ottawa on July 7, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45637"
+  ],
+  "htmlHash": "c78864e530c3d9ff7941444293717897"
+}

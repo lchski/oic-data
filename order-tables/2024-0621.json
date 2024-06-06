@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0621</td><td>2024-05-31</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Food and Drugs Act<br>Pest Control Products Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Biocides Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">BIOCIDES REGULATIONS in order to (1) create a new set of regulations to encompass surface sanitizers for use on non-living and non-liquid surfaces that meet the definition of a drug and are regulated under the Pest Control Products Act, disinfectants regulated under the Food and Drug Regulations, and all surface sanitizers for use in food premises that fall under the purview of the Food and Drugs Act; (2) create of a new, modern authorization and regulatory framework with safety, efficacy and quality requirements tailored to biocides; (3) support the continuous post-market oversight of a biocide’s benefits and risks; and (4) create of a pathway for authorization based on decisions from other regulators, starting with the United States Environmental Protection Agency.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0110  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45626&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0621",
+  "date": "2024-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "BIOCIDES REGULATIONS in order to (1) create a new set of regulations to encompass surface sanitizers for use on non-living and non-liquid surfaces that meet the definition of a drug and are regulated under the Pest Control Products Act, disinfectants regulated under the Food and Drug Regulations, and all surface sanitizers for use in food premises that fall under the purview of the Food and Drugs Act; (2) create of a new, modern authorization and regulatory framework with safety, efficacy and quality requirements tailored to biocides; (3) support the continuous post-market oversight of a biocide’s benefits and risks; and (4) create of a pathway for authorization based on decisions from other regulators, starting with the United States Environmental Protection Agency.",
+  "registration": "Registration: SOR/ 2024-0110  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0110",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45626"
+  ],
+  "htmlHash": "8dd6b43ac136e320895e38914a764276"
+}

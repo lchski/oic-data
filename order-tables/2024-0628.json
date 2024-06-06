@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0628</td><td>2024-05-31</td><td></td><td></td><td></td><td>LAB, ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Pay Equity Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Application of the Pay Equity Act to Ministers’ Offices Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">APPLICATION OF THE PAY EQUITY ACT TO MINISTERS’ OFFICES REGULATIONS in order to (1) ensure the application of the Act to all ministers’ offices, independent of size and ensure the current regulatory provisions related to groups of employers apply to the ministers’ offices grouped by Order in Council; (2) set a date on which ministers’ offices grouped by OIC become subject to the Act; (3) ensure the group of ministers’ offices can only establish and update a single pay equity plan; (4) provide that the groups of ministers’ offices are required to make all reasonable efforts to establish a pay equity committee; (5) reduce the amount of time allowed for ministers’ offices to conduct the pay equity maintenance review exercise; (6) promote continuity of the pay equity exercise in ministers’ offices and ensure that ministers’ offices increase compensation in lump sum; (7) ensure that ministers' offices with less than 10 ministerial staff are assigned the same penalty ranges under the administrative monetary penalties system as ministers' offices with 10 to 99 ministerial staff.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0117  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45633&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0628",
+  "date": "2024-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "APPLICATION OF THE PAY EQUITY ACT TO MINISTERS’ OFFICES REGULATIONS in order to (1) ensure the application of the Act to all ministers’ offices, independent of size and ensure the current regulatory provisions related to groups of employers apply to the ministers’ offices grouped by Order in Council; (2) set a date on which ministers’ offices grouped by OIC become subject to the Act; (3) ensure the group of ministers’ offices can only establish and update a single pay equity plan; (4) provide that the groups of ministers’ offices are required to make all reasonable efforts to establish a pay equity committee; (5) reduce the amount of time allowed for ministers’ offices to conduct the pay equity maintenance review exercise; (6) promote continuity of the pay equity exercise in ministers’ offices and ensure that ministers’ offices increase compensation in lump sum; (7) ensure that ministers' offices with less than 10 ministerial staff are assigned the same penalty ranges under the administrative monetary penalties system as ministers' offices with 10 to 99 ministerial staff.",
+  "registration": "Registration: SOR/ 2024-0117  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0117",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45633"
+  ],
+  "htmlHash": "942ff925dff89e0fe48ff264127b780a"
+}

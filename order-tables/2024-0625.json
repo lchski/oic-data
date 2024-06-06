@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0625</td><td>2024-05-31</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"6\">Criminal Interest Rate Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CRIMINAL INTEREST RATE REGULATIONS in order to (1) exempt (i) commercial loans valued above $10,000 and up to $500,000 from the criminal interest rate, so long as the annual percentage rate (APR) on these loans does not exceed 48 per cent, and (ii) small dollar, non-recourse collateralized loans, commonly referred to as pawn loans from the criminal interest rate, so long as the APR on these loans does not exceed 48 per cent and the loan is valued at less than $1,000; (2) impose a new federal limit on the cost of borrowing for payday loans of $14 per $100 borrowed in all provinces that have an approved payday loan regime; and (3) exclude dishonoured cheque fees of $20 or less from the calculation of the $14 rate limit, as well as the interest on outstanding loan amounts.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0114  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45630&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0625",
+  "date": "2024-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CRIMINAL INTEREST RATE REGULATIONS in order to (1) exempt (i) commercial loans valued above $10,000 and up to $500,000 from the criminal interest rate, so long as the annual percentage rate (APR) on these loans does not exceed 48 per cent, and (ii) small dollar, non-recourse collateralized loans, commonly referred to as pawn loans from the criminal interest rate, so long as the APR on these loans does not exceed 48 per cent and the loan is valued at less than $1,000; (2) impose a new federal limit on the cost of borrowing for payday loans of $14 per $100 borrowed in all provinces that have an approved payday loan regime; and (3) exclude dishonoured cheque fees of $20 or less from the calculation of the $14 rate limit, as well as the interest on outstanding loan amounts.",
+  "registration": "Registration: SOR/ 2024-0114  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0114",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45630"
+  ],
+  "htmlHash": "dbd024b87720becc3701edde0274dac7"
+}

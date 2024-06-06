@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0630</td><td>2024-05-31</td><td></td><td></td><td></td><td>RCMP, PS</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Pension Continuation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Royal Canadian Mounted Police (Dependants) Pension Fund Increase in Benefits Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ROYAL CANADIAN MOUNTED POLICE (DEPENDANTS) PENSION FUND INCREASE IN BENEFITS ORDER in order to (1) increase pensions for widows by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025; (2) increase the lump sum benefits payable on the death of a former member who contributed to the plan and who is not survived by a widow by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025; and (3) increase the residual amounts payable on the death of a former member’s widow who dies in the 2024, 2025 or 2026 plan year by increasing the former member’s deemed contributions as of April 1, 2022 by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0119  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45635&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0630",
+  "date": "2024-05-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ROYAL CANADIAN MOUNTED POLICE (DEPENDANTS) PENSION FUND INCREASE IN BENEFITS ORDER in order to (1) increase pensions for widows by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025; (2) increase the lump sum benefits payable on the death of a former member who contributed to the plan and who is not survived by a widow by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025; and (3) increase the residual amounts payable on the death of a former member’s widow who dies in the 2024, 2025 or 2026 plan year by increasing the former member’s deemed contributions as of April 1, 2022 by 5% on April 1, 2023 and by 1.2% on April 1, 2024 and April 1, 2025.",
+  "registration": "Registration: SOR/ 2024-0119  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0119",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45635"
+  ],
+  "htmlHash": "981411e89211b0f08af091c904e267ce"
+}
