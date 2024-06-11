@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0654</td><td>2024-06-05</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Administrative Tribunals Support Service of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Re-appointment of ORLANDO DA SILVA, of Uxbridge, Ontario, as Chief Administrator of the Administrative Tribunals Support Service of Canada, to hold office during pleasure for a term of five years, effective October 27, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45660&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0654",
+  "date": "2024-06-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of ORLANDO DA SILVA, of Uxbridge, Ontario, as Chief Administrator of the Administrative Tribunals Support Service of Canada, to hold office during pleasure for a term of five years, effective October 27, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45660"
+  ],
+  "htmlHash": "52f3984676f64e6e15474692bcf57220"
+}
