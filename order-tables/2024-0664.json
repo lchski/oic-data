@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0664</td><td>2024-06-10</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Superintendent of Financial Institutions of Canada  - The Professional Institute of the Public Service of Canada  ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by Superintendent of Financial Institutions of Canada into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada that covers all employees in the Professional Employees Group bargaining unit for the period beginning on April 1, 2022 and ending on March 31, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45678&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0664",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by Superintendent of Financial Institutions of Canada into a COLLECTIVE AGREEMENT with the Professional Institute of the Public Service of Canada that covers all employees in the Professional Employees Group bargaining unit for the period beginning on April 1, 2022 and ending on March 31, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45678"
+  ],
+  "htmlHash": "dc5a45f49ef40122f53c06dcd9ac6163"
+}

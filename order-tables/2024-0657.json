@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0657</td><td>2024-06-10</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Metal and Diamond Mining Effluent Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the METAL AND DIAMOND MINING EFFLUENT REGULATIONS in order to list two water bodies and one geographic area encompassing six water bodies to Schedule 2, designating them as tailings impoundment areas and authorize their destruction for the purpose of depositing mine waste disposal.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0124  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45671&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0657",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the METAL AND DIAMOND MINING EFFLUENT REGULATIONS in order to list two water bodies and one geographic area encompassing six water bodies to Schedule 2, designating them as tailings impoundment areas and authorize their destruction for the purpose of depositing mine waste disposal.",
+  "registration": "Registration: SOR/ 2024-0124  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0124",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45671"
+  ],
+  "htmlHash": "80f332a1937487046a8b034431569f8b"
+}

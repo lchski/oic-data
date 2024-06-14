@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0655</td><td>2024-06-10</td><td></td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"6\">Oceans Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Tang.ɢwan — ḥačxʷiqak — Tsigis Marine Protected Area Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">TANG.GWAN - HACXWIQAK - TSIGIS MARINE PROTECTED AREA REGULATIONS in order to (1) establish the boundaries of the Tang.gwan - hacxwiqak - Tsigis Marine Protected Area (MPA), including the proposed zoning approach; (2) prohibit activities that are likely to disturb, damage, destroy, or remove any living marine organism or any part of its habitat; (3) identify specific exceptions to allow certain activities that do not compromise the conservation objectives identified for the MPA; (4) define the criteria for the approval of activity plans authorizing scientific research and monitoring and educational activities in the MPA; and (5) repeal the Endeavour Hydrothermal Vents Marine Protected Area Regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0122  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45669&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0655",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "TANG.GWAN - HACXWIQAK - TSIGIS MARINE PROTECTED AREA REGULATIONS in order to (1) establish the boundaries of the Tang.gwan - hacxwiqak - Tsigis Marine Protected Area (MPA), including the proposed zoning approach; (2) prohibit activities that are likely to disturb, damage, destroy, or remove any living marine organism or any part of its habitat; (3) identify specific exceptions to allow certain activities that do not compromise the conservation objectives identified for the MPA; (4) define the criteria for the approval of activity plans authorizing scientific research and monitoring and educational activities in the MPA; and (5) repeal the Endeavour Hydrothermal Vents Marine Protected Area Regulations.",
+  "registration": "Registration: SOR/ 2024-0122  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0122",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45669"
+  ],
+  "htmlHash": "2f4110be9cc7bef1e78b2749ed79bf4b"
+}

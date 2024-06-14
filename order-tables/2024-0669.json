@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0669</td><td>2024-06-10</td><td></td><td></td><td></td><td>TC, FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Halifax Port Authority ** LETTERS PATENT **  **AMENDMENT**</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the supplementary LETTERS PATENT provisions increasing the aggregate limit on the power of the HALIFAX PORT AUTHORIRY to borrow money on its credit for port purposes from $75 million to $160 million.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45686&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0669",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the supplementary LETTERS PATENT provisions increasing the aggregate limit on the power of the HALIFAX PORT AUTHORIRY to borrow money on its credit for port purposes from $75 million to $160 million.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45686"
+  ],
+  "htmlHash": "f56adc8ad9e668484533b08d335e5ab2"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0670</td><td>2024-06-10</td><td></td><td></td><td></td><td>TC, FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Hamilton-Oshawa Port Authority ** LETTERS PATENT **  **AMENDMENT**</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the proposed supplementary LETTERS PATENT provisions in order to increase the aggregate limit on the power of the HAMILTON-OSHAWA PORT AUTHORIRY to borrow money on its credit for port purposes from $45.5 million to $100 million.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45687&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0670",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the proposed supplementary LETTERS PATENT provisions in order to increase the aggregate limit on the power of the HAMILTON-OSHAWA PORT AUTHORIRY to borrow money on its credit for port purposes from $45.5 million to $100 million.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45687"
+  ],
+  "htmlHash": "56e4dd756e5506f768d2f27cc3e35df6"
+}

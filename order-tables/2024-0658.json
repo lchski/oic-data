@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0658</td><td>2024-06-10</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"6\">CTMA Ranger Remission Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CTMA RANGER REMISSION ORDER in order to allow CTMA to be eligible for partial remission of customs duties in the amount of approximately $0.6 million – the difference between the 25% tariff CTMA expected to pay, and the 35% tariff it paid.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0125  <strong>Publication Date:</strong> 2024-06-19</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45672&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0658",
+  "date": "2024-06-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CTMA RANGER REMISSION ORDER in order to allow CTMA to be eligible for partial remission of customs duties in the amount of approximately $0.6 million – the difference between the 25% tariff CTMA expected to pay, and the 35% tariff it paid.",
+  "registration": "Registration: SOR/ 2024-0125  Publication Date: 2024-06-19",
+  "registration_type": "SOR",
+  "registration_id": "2024-0125",
+  "registration_publication_date": "2024-06-19",
+  "attachments": [
+    "45672"
+  ],
+  "htmlHash": "bec623bad1d6e5807461f9383b1777da"
+}
