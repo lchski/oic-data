@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0676</td><td>2024-06-11</td><td></td><td></td><td></td><td>INFC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Mortgage and Housing Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the appointment by the Minister of Infrastructure and Communities of NICHOLAS MACRAE of Toronto, Ontario, to be a director of the Board of Directors of the Canada Mortgage and Housing Corporation, to hold office during pleasure, on a part-time basis, for a term of two years, in the place of Navjeet (Bob) Dhillon, whose term has expired.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45693&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0676",
+  "date": "2024-06-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Infrastructure and Communities of NICHOLAS MACRAE of Toronto, Ontario, to be a director of the Board of Directors of the Canada Mortgage and Housing Corporation, to hold office during pleasure, on a part-time basis, for a term of two years, in the place of Navjeet (Bob) Dhillon, whose term has expired.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45693"
+  ],
+  "htmlHash": "b2668810eea64a72dfbbe3852c00aad8"
+}
