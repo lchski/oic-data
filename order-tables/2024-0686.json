@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0686</td><td>2024-06-12</td><td></td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of IOANNA SAHAS MARTIN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Costa Rica.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45700&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0686",
+  "date": "2024-06-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of IOANNA SAHAS MARTIN as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Costa Rica.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45700"
+  ],
+  "htmlHash": "1f9f0b9e5dd20aa42205315be147fa01"
+}
