@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0726</td><td>2024-06-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Health Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of GERGELY (GREG) ORENCSAK of Toronto, Ontario, to be Deputy Minister of Health, to hold office during pleasure, effective August 19, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45744&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0726",
+  "date": "2024-06-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of GERGELY (GREG) ORENCSAK of Toronto, Ontario, to be Deputy Minister of Health, to hold office during pleasure, effective August 19, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45744"
+  ],
+  "htmlHash": "520e18bf037503f746b23af74ac38fb9"
+}
