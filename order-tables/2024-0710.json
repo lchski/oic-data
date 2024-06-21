@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0710</td><td>2024-06-17</td><td></td><td></td><td></td><td>AAFC, CFIA</td></tr><tr><td>Act</td><td colspan=\"6\">Feeds Act<br>Health of Animals Act<br>Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Feeds Regulations, 2024</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">FEEDS REGULATIONS, 2024 in order to (1) repeal and replace the Canadian Food Inspection Agency's Feeds Regulations, 1983; and add a new requirements for hazard analysis and preventive controls; traceability requirements; safety standards for feeds; licensing requirements;updated, clearer, and broader approach for approval or registration of feeds; labelling requirements; expand the scope of species applicable under the Feeds Act; update and clarify general and specific exemptions; incorporate by reference various technical documents; and (2) minimize the health risks for livestock and Canadians associated with livestock feeds manufactured in or imported into Canada.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0132  <strong>Publication Date:</strong> 2024-07-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45728&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0710",
+  "date": "2024-06-17",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "FEEDS REGULATIONS, 2024 in order to (1) repeal and replace the Canadian Food Inspection Agency's Feeds Regulations, 1983; and add a new requirements for hazard analysis and preventive controls; traceability requirements; safety standards for feeds; licensing requirements;updated, clearer, and broader approach for approval or registration of feeds; labelling requirements; expand the scope of species applicable under the Feeds Act; update and clarify general and specific exemptions; incorporate by reference various technical documents; and (2) minimize the health risks for livestock and Canadians associated with livestock feeds manufactured in or imported into Canada.",
+  "registration": "Registration: SOR/ 2024-0132  Publication Date: 2024-07-03",
+  "registration_type": "SOR",
+  "registration_id": "2024-0132",
+  "registration_publication_date": "2024-07-03",
+  "attachments": [
+    "45728"
+  ],
+  "htmlHash": "bacbe5386b049721cfd2a7aeea8e8b25"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0721</td><td>2024-06-17</td><td></td><td></td><td></td><td>LAB, ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Old Age Security Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada - Republic of Ecuador** Terms and conditions of the Agreement on Social Security **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the terms and conditions of the AGREEMENT ON SOCIAL SECURITY BETWEEN CANADA AND THE REPUBLIC OF ECUADOR.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45739&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0721",
+  "date": "2024-06-17",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the terms and conditions of the AGREEMENT ON SOCIAL SECURITY BETWEEN CANADA AND THE REPUBLIC OF ECUADOR.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45739"
+  ],
+  "htmlHash": "fa71aba94ca165721daaac2610a60140"
+}

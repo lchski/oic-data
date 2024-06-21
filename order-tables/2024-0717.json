@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0717</td><td>2024-06-17</td><td>32</td><td>2023</td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">An Act to amend certain Acts and to make certain consequential amendments (firearms)</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing September 1, 2024 as the Day on Which Certain Provisions of An Act to amend certain Acts and to make certain consequential amendments (firearms) Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing September 1, 2024, as the day on which certain provisions of An Act to amend certain Acts and to make certain consequential amendments (firearms) COME INTO FORCE in order to bring into force date of the new Criminal Code definition of “firearm part” and consequential amendments to the Criminal Code.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45735&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0717",
+  "date": "2024-06-17",
+  "chapter": "32",
+  "bill": "2023",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing September 1, 2024, as the day on which certain provisions of An Act to amend certain Acts and to make certain consequential amendments (firearms) COME INTO FORCE in order to bring into force date of the new Criminal Code definition of “firearm part” and consequential amendments to the Criminal Code.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45735"
+  ],
+  "htmlHash": "2261797022f9f20aa714dd7e4e0bb7d5"
+}
