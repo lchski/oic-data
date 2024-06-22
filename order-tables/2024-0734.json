@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0734</td><td>2024-06-18</td><td></td><td></td><td></td><td>TB</td></tr><tr><td>Act</td><td colspan=\"6\">Public Sector Pension Investment Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Designation of MARYSE BERTRAND of Westmount, Quebec, as Chairperson of the Public Sector Pension Investment Board, for a term ending on December 15, 2026, effective June 20, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45756&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0734",
+  "date": "2024-06-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of MARYSE BERTRAND of Westmount, Quebec, as Chairperson of the Public Sector Pension Investment Board, for a term ending on December 15, 2026, effective June 20, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45756"
+  ],
+  "htmlHash": "dd63b6721f74f940896a91da16f09da0"
+}

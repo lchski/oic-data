@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0728</td><td>2024-06-18</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Accepting the Recommendation of the Minister of Public Safety and Emergency Preparedness that each listed entity set out in the annexed Schedule 1 remain a listed entity and that the entity in Schedule 2 no longer remain a listed entity.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Accepting the Recommendation of the Minister of Public Safety and Emergency Preparedness that each listed entity set out in the annexed Schedule 1 remain a listed entity and that the Armed Islamic Group (GIA) is recommended to be removed from the list of terrorist entities.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45746&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0728",
+  "date": "2024-06-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Accepting the Recommendation of the Minister of Public Safety and Emergency Preparedness that each listed entity set out in the annexed Schedule 1 remain a listed entity and that the Armed Islamic Group (GIA) is recommended to be removed from the list of terrorist entities.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45746"
+  ],
+  "htmlHash": "f467b04498463b53a520966af70ac808"
+}
