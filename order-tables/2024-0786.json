@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0786</td><td>2024-06-21</td><td></td><td></td><td></td><td>PPC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Transportation Accident Investigation and Safety Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Re-appointment of YOAN MARIER of Saint-Lazare, Quebec, as a full-time member and Chairperson of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term ending on August 20, 2028, effective September 28, 2024 and his designation as Chairperson of the Canadian Transportation Accident Investigation Board, for a term of four years, effective August 21, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45805&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0786",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of YOAN MARIER of Saint-Lazare, Quebec, as a full-time member and Chairperson of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term ending on August 20, 2028, effective September 28, 2024 and his designation as Chairperson of the Canadian Transportation Accident Investigation Board, for a term of four years, effective August 21, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45805"
+  ],
+  "htmlHash": "b9fa03fda249813565b4bce663ca6ca7"
+}

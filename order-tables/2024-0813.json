@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0813</td><td>2024-06-21</td><td>8</td><td>2024</td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">National Council for Reconciliation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing July 2, 2024 as the Day on Which the National Council for Reconciliation Act Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing July 2, 2024 as the day on which the National Council for Reconciliation Act COMES INTO FORCE in order to establish a National Council for Reconciliation.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SI/ 2024-0031  <strong>Publication Date:</strong> 2024-07-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45832&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0813",
+  "date": "2024-06-21",
+  "chapter": "8",
+  "bill": "2024",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing July 2, 2024 as the day on which the National Council for Reconciliation Act COMES INTO FORCE in order to establish a National Council for Reconciliation.",
+  "registration": "Registration: SI/ 2024-0031  Publication Date: 2024-07-03",
+  "registration_type": "SI",
+  "registration_id": "2024-0031",
+  "registration_publication_date": "2024-07-03",
+  "attachments": [
+    "45832"
+  ],
+  "htmlHash": "83165386185ca01c9cbf20d2e263b9af"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0816</td><td>2024-06-21</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Nisga'a Nation Personal Icome Tax Administration Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Finance to enter into an Agreement to terminate the NISGA’A NATION PERSONAL INCOME TAX ADMINISTRATION AGREEMENT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45835&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0816",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Finance to enter into an Agreement to terminate the NISGA’A NATION PERSONAL INCOME TAX ADMINISTRATION AGREEMENT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45835"
+  ],
+  "htmlHash": "54b431806b6ff135faecb0c3eaba6283"
+}

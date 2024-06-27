@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0809</td><td>2024-06-21</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Development Investment Corporation - incorporation of subsidiary to carry out transactions</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing Canada Development Investment Corporation (CDEV) to incorporate a wholly-owned subsidiary to carry out transactions in relation to the Telesat program known as TELESAT LIGHTSPEED, all the shares of which, on incorporation, would be held by, on behalf of or in trust for the CDEV.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0809",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing Canada Development Investment Corporation (CDEV) to incorporate a wholly-owned subsidiary to carry out transactions in relation to the Telesat program known as TELESAT LIGHTSPEED, all the shares of which, on incorporation, would be held by, on behalf of or in trust for the CDEV.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45828"
+  ],
+  "htmlHash": "8e16d039a74c9455f830ce31c70264a8"
+}

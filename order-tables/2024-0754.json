@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0754</td><td>2024-06-21</td><td></td><td></td><td></td><td>NR</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of BRENDA O'FARRELL of Saint-Lazare, Quebec, to be a special adviser to the Minister of National Revenue, to serve as a member of the Independent Advisory Board on Eligibility for Journalism Tax Measures, to hold office during pleasure for a term of two years, on a part-time basis.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45774&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0754",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of BRENDA O'FARRELL of Saint-Lazare, Quebec, to be a special adviser to the Minister of National Revenue, to serve as a member of the Independent Advisory Board on Eligibility for Journalism Tax Measures, to hold office during pleasure for a term of two years, on a part-time basis.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45774"
+  ],
+  "htmlHash": "93aae78b527bbabd1c72eb6b308e6a48"
+}

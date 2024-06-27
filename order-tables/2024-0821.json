@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0821</td><td>2024-06-21</td><td></td><td></td><td></td><td>ISED, SSHRC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Humanities Research Council of Canada   - Public Service Alliance of Canada   ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by the Social Sciences and Humanities Research Council of Canada into a COLLECTIVE AGREEMENT with the Public Service Alliance  that covers all employees in the Administrative and Foreign Services bargaining unit,for the period beginning on April 1, 2021 and ending on March 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45840&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0821",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by the Social Sciences and Humanities Research Council of Canada into a COLLECTIVE AGREEMENT with the Public Service Alliance  that covers all employees in the Administrative and Foreign Services bargaining unit,for the period beginning on April 1, 2021 and ending on March 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45840"
+  ],
+  "htmlHash": "71ca68e757aa6f8a7e70b19ef2b59915"
+}

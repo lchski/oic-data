@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0779</td><td>2024-06-21</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of GUY GRÉGOIRE of Gatineau, Quebec, as a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective August 4, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45799&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0779",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of GUY GRÉGOIRE of Gatineau, Quebec, as a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective August 4, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45799"
+  ],
+  "htmlHash": "8987ea721de2f32edd81807bdb90f673"
+}

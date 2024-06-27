@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0802</td><td>2024-06-21</td><td></td><td></td><td></td><td>DND</td></tr><tr><td>Act</td><td colspan=\"6\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Queen's Regulations and Orders for the Canadian Military Colleges</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN MILITARY COLLEGES in order to align English and French text to ensure consistency and accuracy of information.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45821&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0802",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN MILITARY COLLEGES in order to align English and French text to ensure consistency and accuracy of information.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45821"
+  ],
+  "htmlHash": "95bfa574ebb1b7ad2ffe122a0c018d8b"
+}

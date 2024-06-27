@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0815</td><td>2024-06-21</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">Gwich'in Land Claim Settlement Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order consenting to amendments to the Gwich'in Comprehensive Land Claim Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order consenting to amendments to the GWICH'IN COMPREHENSIVE LAND CLAIM AGREEMENT in order to advance the Gwich'in Tribal Council's (GTC) interests to modernize the dispute resolution process by encouraging partners to work together to resolve disagreements and disputes before resorting to arbitration or court proceedings.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45834&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0815",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order consenting to amendments to the GWICH'IN COMPREHENSIVE LAND CLAIM AGREEMENT in order to advance the Gwich'in Tribal Council's (GTC) interests to modernize the dispute resolution process by encouraging partners to work together to resolve disagreements and disputes before resorting to arbitration or court proceedings.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45834"
+  ],
+  "htmlHash": "cad669eaa28c2f7bd7ccda7d72f84171"
+}

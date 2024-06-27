@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0805</td><td>2024-06-21</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Bank Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Form of Proxy (Banks and Bank Holding Companies) Regulations, 2023</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">FORM OF PROXY (BANKS AND BANK HOLDING COMPANIES) REGULATIONS, 2023 in order to (1) replace out-of-date references by provisions that directly reference National Instrument 51-102 (Continuous Disclosure Obligations); (2) add requirements to reflect the approach taken by the revised Canada Business Corporations Regulations and to incorporate the National Instruments; and (3) describe the circumstances whereby certain announcements and communications are not considered solicitation.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0150  <strong>Publication Date:</strong> 2024-07-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45824&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0805",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "FORM OF PROXY (BANKS AND BANK HOLDING COMPANIES) REGULATIONS, 2023 in order to (1) replace out-of-date references by provisions that directly reference National Instrument 51-102 (Continuous Disclosure Obligations); (2) add requirements to reflect the approach taken by the revised Canada Business Corporations Regulations and to incorporate the National Instruments; and (3) describe the circumstances whereby certain announcements and communications are not considered solicitation.",
+  "registration": "Registration: SOR/ 2024-0150  Publication Date: 2024-07-03",
+  "registration_type": "SOR",
+  "registration_id": "2024-0150",
+  "registration_publication_date": "2024-07-03",
+  "attachments": [
+    "45824"
+  ],
+  "htmlHash": "0cbcd312cbd37c9512bf498465f546ad"
+}

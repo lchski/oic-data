@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0804</td><td>2024-06-21</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">An Act to amend certain Acts in relation to financial institutions</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing July 11, 2024 as the Day on Which Certain Provisions of An Act to amend certain Acts in relation to ﬁnancial institutions Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Fixing July 11, 2024 as the Day on Which Certain Provisions of An Act to amend certain Acts in relation to ﬁnancial institutions COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45823&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0804",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Fixing July 11, 2024 as the Day on Which Certain Provisions of An Act to amend certain Acts in relation to ﬁnancial institutions COME INTO FORCE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45823"
+  ],
+  "htmlHash": "ad4e7066593c5a8a049ba21a28e36406"
+}

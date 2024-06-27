@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0836</td><td>2024-06-21</td><td></td><td></td><td></td><td>TBS, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the deputy head or a chief executive officer of a department to transfer public property in the form of nominal non-monetary gifts to a First Nations, Inuit or Métis recipient.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Authorizing the deputy head or a chief executive officer of a department to transfer public property in the form of nominal non-monetary GIFTS to a FIRST NATION, INUIT OR MÉTIS RECIPIENT, as that term is defined in the Treasury Board’s Directive of Payments, who is involved in a collaborative ceremony, event or activity in which the Government of Canada takes part, to recognize or to honour the collaborative efforts made by that recipient’s community.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45855&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0836",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Authorizing the deputy head or a chief executive officer of a department to transfer public property in the form of nominal non-monetary GIFTS to a FIRST NATION, INUIT OR MÉTIS RECIPIENT, as that term is defined in the Treasury Board’s Directive of Payments, who is involved in a collaborative ceremony, event or activity in which the Government of Canada takes part, to recognize or to honour the collaborative efforts made by that recipient’s community.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45855"
+  ],
+  "htmlHash": "dee0b298c9cbce1936bb30ed4438ca69"
+}

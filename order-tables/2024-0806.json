@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0806</td><td>2024-06-21</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Various GST/HST Regulations, No. 13</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending VARIOUS GST/HST REGULATIONS, No. 13 in order to implement the rebate of the provincial component of the HST in the New Brunswick for hospital authorities, school authorities and public colleges.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0151  <strong>Publication Date:</strong> 2024-07-03</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45825&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0806",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending VARIOUS GST/HST REGULATIONS, No. 13 in order to implement the rebate of the provincial component of the HST in the New Brunswick for hospital authorities, school authorities and public colleges.",
+  "registration": "Registration: SOR/ 2024-0151  Publication Date: 2024-07-03",
+  "registration_type": "SOR",
+  "registration_id": "2024-0151",
+  "registration_publication_date": "2024-07-03",
+  "attachments": [
+    "45825"
+  ],
+  "htmlHash": "6e0951de7e75f9209af9742e4ab1ed4a"
+}

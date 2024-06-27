@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0801</td><td>2024-06-21</td><td></td><td></td><td></td><td>DND</td></tr><tr><td>Act</td><td colspan=\"6\">National Defence Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Queen's Regulations and Orders for the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCES in order to replace the term \"family housing\" with the term \"residential housing unit\".</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45820&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0801",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the QUEEN'S REGULATIONS AND ORDERS FOR THE CANADIAN FORCES in order to replace the term \"family housing\" with the term \"residential housing unit\".",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45820"
+  ],
+  "htmlHash": "a24b6aa41d919ccab190f9c3b8239f27"
+}

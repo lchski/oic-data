@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0819</td><td>2024-06-21</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Ratifying the Agreement between the Government of Canada and the Government of the Dominican Republic on Air Transport</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the Agreement on AIR TRANSPORT between the Government of Canada and the Government of the DOMINICAN REPUBLIC, done at Santo Domingo on February 2, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45838&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0819",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to BRING INTO FORCE for Canada the Agreement on AIR TRANSPORT between the Government of Canada and the Government of the DOMINICAN REPUBLIC, done at Santo Domingo on February 2, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45838"
+  ],
+  "htmlHash": "e8cbe66597daebefc60ca57c73f846c6"
+}

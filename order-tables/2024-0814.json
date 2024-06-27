@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0814</td><td>2024-06-21</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Investment Canada Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing September 3, 2024 as the Day on which Certain Provisions of An Act to amend the Investment Canada Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Fixing September 3, 2024 as the Day on which Certain Provisions of An ACT to amend the INVESTMENT CANADA ACT COME INTO FORCE in order to modernize foreign direct investment review by improving the efficiency and flexibility of the national security review process while enhancing transparency for stakeholders and Canadian businesses in the foreign investment regime.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45833&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0814",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Fixing September 3, 2024 as the Day on which Certain Provisions of An ACT to amend the INVESTMENT CANADA ACT COME INTO FORCE in order to modernize foreign direct investment review by improving the efficiency and flexibility of the national security review process while enhancing transparency for stakeholders and Canadian businesses in the foreign investment regime.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45833"
+  ],
+  "htmlHash": "3d2bcace0a6a191afa357554bbfb1317"
+}

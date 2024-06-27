@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0827</td><td>2024-06-21</td><td></td><td></td><td></td><td>TC, FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Saguenay Port Authority ** LETTERS PATENT **  **AMENDMENT**</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the supplementary LETTERS PATENT provision amending Article 9 of the Letters Patent issued to the SAGUENAY PORT AUTHORITY (SPA) to create a project-specific borrowing limit of $36.8 million, on the power of the SPA to borrow money on its credit for port purposes, in addition to its general borrowing limit.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45846&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0827",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the supplementary LETTERS PATENT provision amending Article 9 of the Letters Patent issued to the SAGUENAY PORT AUTHORITY (SPA) to create a project-specific borrowing limit of $36.8 million, on the power of the SPA to borrow money on its credit for port purposes, in addition to its general borrowing limit.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45846"
+  ],
+  "htmlHash": "a4ba6eba8ee5a747f814c95444bd36fc"
+}

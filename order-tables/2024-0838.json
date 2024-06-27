@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0838</td><td>2024-06-21</td><td></td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Release of Supply for Supplementary Estimates (A) 2024-25 ** Warrant **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order directing that a WARRANT be prepared authorizing the expenditure of sums set forth in APPROPRIATION ACT NO. 3, 2024-25.\n[RELEASE OF SUPPLY FOR SUPPLEMENTARY ESTIMATES (A) FOR 2024-25]</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45862&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0838",
+  "date": "2024-06-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a WARRANT be prepared authorizing the expenditure of sums set forth in APPROPRIATION ACT NO. 3, 2024-25.\n[RELEASE OF SUPPLY FOR SUPPLEMENTARY ESTIMATES (A) FOR 2024-25]",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45862"
+  ],
+  "htmlHash": "cd18675126b5fb5287e333840e80c3bf"
+}
