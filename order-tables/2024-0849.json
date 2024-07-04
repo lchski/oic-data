@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0849</td><td>2024-06-27</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Environmental Assessment Act, 2012</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Deciding that the Environmental Effects of the Proposed Tilbury Marine Jetty Project are Justified</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order deciding that the significant adverse environmental effects that are likely to be caused by the TILBURY MARINE JETTY PROJECT, proposed by Tilbury Jetty GP Inc., are justified in the circumstances.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45876&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0849",
+  "date": "2024-06-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order deciding that the significant adverse environmental effects that are likely to be caused by the TILBURY MARINE JETTY PROJECT, proposed by Tilbury Jetty GP Inc., are justified in the circumstances.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45876"
+  ],
+  "htmlHash": "d377629a7f803c6bea7860118060d987"
+}

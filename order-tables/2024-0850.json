@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0850</td><td>2024-06-27</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada - European Union ** Agreement on Transfer and Processing of Passenger Name Record Data **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to sign, on behalf of Canada, subject to ratification, the AGREEMENT between Canada and the EUROPEAN UNION on the TRANSFER AND PROCESSING OF PASSENGER NAME RECORD DATA.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45877&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0850",
+  "date": "2024-06-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to sign, on behalf of Canada, subject to ratification, the AGREEMENT between Canada and the EUROPEAN UNION on the TRANSFER AND PROCESSING OF PASSENGER NAME RECORD DATA.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45877"
+  ],
+  "htmlHash": "8ff0544c89bc73e051873c1b7411e408"
+}

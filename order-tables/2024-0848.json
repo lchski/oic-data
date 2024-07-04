@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0848</td><td>2024-06-27</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Real Property GST/HST Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">REAL PROPERTY GST/HST REGULATIONS in order to (1) set the eligibility for the Enhanced GST Rental Rebate including defining a purpose-built rental as a multiple residential complex that includes four or more residential units with private kitchens, baths and living areas, or one that includes 10 or more units with common kitchens or baths and define terms such as qualifying residential unit and eligible purpose which would need to be met to qualify for the Enhanced GST Rental Rebate and include conditions to ensure that rebates are not provided for renovictions; and (2) implement the provincial tax policy decisions of Ontario, Nova Scotia, Prince Edward Island and Newfoundland and Labrador to introduce rebates of the provincial portion of the HST for which most part these rebates would mirror the federal rebate.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0157  <strong>Publication Date:</strong> 2024-07-17</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45878&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0848",
+  "date": "2024-06-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "REAL PROPERTY GST/HST REGULATIONS in order to (1) set the eligibility for the Enhanced GST Rental Rebate including defining a purpose-built rental as a multiple residential complex that includes four or more residential units with private kitchens, baths and living areas, or one that includes 10 or more units with common kitchens or baths and define terms such as qualifying residential unit and eligible purpose which would need to be met to qualify for the Enhanced GST Rental Rebate and include conditions to ensure that rebates are not provided for renovictions; and (2) implement the provincial tax policy decisions of Ontario, Nova Scotia, Prince Edward Island and Newfoundland and Labrador to introduce rebates of the provincial portion of the HST for which most part these rebates would mirror the federal rebate.",
+  "registration": "Registration: SOR/ 2024-0157  Publication Date: 2024-07-17",
+  "registration_type": "SOR",
+  "registration_id": "2024-0157",
+  "registration_publication_date": "2024-07-17",
+  "attachments": [
+    "45878"
+  ],
+  "htmlHash": "2b75ad1e728017c8a68b4116c3678090"
+}

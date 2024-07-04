@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0856</td><td>2024-06-28</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Fall Economic Statement Implementation Act, 2023</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing the Day on Which This Order Is Made as the Day on Which Subsection 96(1) of the Fall Economic Statement Implementation Act, 2023 Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the day on which this Order is made as the day on which subsection 96(1) of the Fall Economic Statement Implementation Act, 2023 COMES INTO FORCE in order to enact the Digital Services Tax Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45883&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0856",
+  "date": "2024-06-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the day on which this Order is made as the day on which subsection 96(1) of the Fall Economic Statement Implementation Act, 2023 COMES INTO FORCE in order to enact the Digital Services Tax Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45883"
+  ],
+  "htmlHash": "cef34b54b120c38ba48b536343211b54"
+}
