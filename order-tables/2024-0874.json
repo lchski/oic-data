@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0874</td><td>2024-07-11</td><td></td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of KEITH SMITH as High Commissioner for Canada in New Zealand, with concurrent accreditation as High Commissioner for Canada in Tuvalu, with residence in Wellington.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45919&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0874",
+  "date": "2024-07-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KEITH SMITH as High Commissioner for Canada in New Zealand, with concurrent accreditation as High Commissioner for Canada in Tuvalu, with residence in Wellington.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45919"
+  ],
+  "htmlHash": "531a3790e1f1471c4f1e1376a6726593"
+}
