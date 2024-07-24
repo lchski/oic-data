@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0893</td><td>2024-07-18</td><td></td><td></td><td></td><td>RCMP, PS</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of Officers ** RCMP **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the issue of a commission under the Great Seal of Canada to nine members of the Royal Canadian Mounted Police further to their first appointment to the rank of officer.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45936&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0893",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the issue of a commission under the Great Seal of Canada to nine members of the Royal Canadian Mounted Police further to their first appointment to the rank of officer.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45936"
+  ],
+  "htmlHash": "a40c7aa6d5db4f2d153dd4337bc791f9"
+}

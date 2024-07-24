@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0891</td><td>2024-07-18</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Appointing the Hon. Elizabeth A. Hughes, to be deputy judge of the Supreme Court of Yukon</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing the HONOURABLE ELIZABETH A. HUGHES, a former Justice of Appeal of the Court of Appeal of Alberta, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45934&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0891",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing the HONOURABLE ELIZABETH A. HUGHES, a former Justice of Appeal of the Court of Appeal of Alberta, to be a DEPUTY JUDGE of the SUPREME COURT OF YUKON.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45934"
+  ],
+  "htmlHash": "860de7544410ffe7a1d5cb6fe2face16"
+}

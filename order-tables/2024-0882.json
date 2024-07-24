@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0882</td><td>2024-07-18</td><td></td><td></td><td></td><td>GAC, IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Certain Fees in Respect of the Issuance of Replacement Documents (2024 Wildﬁres) Remission Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CERTAIN FEES IN RESPECT OF THE ISSUANCE OF THE REPLACEMENT DOCUMENTS (2024 WILDFIRES) REMISSION ORDER in order to remit associated fees for the issuance of replacement Canadian travel documents, permanent resident cards, and certificates of Canadian citizenship that were lost, damaged, destroyed, or rendered inaccessible as a direct result of the 2024 Canadian wildfire season.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45922&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0882",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CERTAIN FEES IN RESPECT OF THE ISSUANCE OF THE REPLACEMENT DOCUMENTS (2024 WILDFIRES) REMISSION ORDER in order to remit associated fees for the issuance of replacement Canadian travel documents, permanent resident cards, and certificates of Canadian citizenship that were lost, damaged, destroyed, or rendered inaccessible as a direct result of the 2024 Canadian wildfire season.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45922"
+  ],
+  "htmlHash": "7ec6452a8fb2ac9923223d8312b6c324"
+}

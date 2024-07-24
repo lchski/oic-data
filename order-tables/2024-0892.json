@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0892</td><td>2024-07-18</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Judges Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order approving the resignation of Honourable Kim D. Nixon, a Justice of the Court of King’s Bench of Alberta</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE KIM D. NIXON, a Justice of the Court of King’s Bench of Alberta.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45935&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0892",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order accepting the RESIGNATION and granting an ANNUITY to the HONOURABLE KIM D. NIXON, a Justice of the Court of King’s Bench of Alberta.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45935"
+  ],
+  "htmlHash": "9aa874c261e3f363c7a57dfd9fbff032"
+}

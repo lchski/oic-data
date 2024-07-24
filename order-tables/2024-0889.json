@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0889</td><td>2024-07-18</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Appointing the Hon. Elizabeth A. Hughes, to be deputy judge of the Nunavut Court of Justice.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing the HONOURABLE ELIZABETH A. HUGHES, a former Justice of Appeal of the Court of Appeal of Alberta, to be a DEPUTY JUDGE of the NUNAVUT COURT OF JUSTICE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45932&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0889",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing the HONOURABLE ELIZABETH A. HUGHES, a former Justice of Appeal of the Court of Appeal of Alberta, to be a DEPUTY JUDGE of the NUNAVUT COURT OF JUSTICE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45932"
+  ],
+  "htmlHash": "e572eb149fda0c4d37c5f6cc8316cef6"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0887</td><td>2024-07-18</td><td></td><td></td><td></td><td>PSPC, TBS, NCC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Collective Agreement between National Capital Commission and Public Service Alliance of Canada</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the NATIONAL CAPITAL COMMISSION (NCC) to enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA (PSAC) that covers all employees in the PSAC Bargaining Unit for the period beginning on January 1, 2022 and ending on December 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45929&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0887",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the NATIONAL CAPITAL COMMISSION (NCC) to enter into a COLLECTIVE AGREEMENT with the PUBLIC SERVICE ALLIANCE OF CANADA (PSAC) that covers all employees in the PSAC Bargaining Unit for the period beginning on January 1, 2022 and ending on December 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45929"
+  ],
+  "htmlHash": "05bb810ed453fa9850bb0fe566aeed99"
+}

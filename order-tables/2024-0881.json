@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0881</td><td>2024-07-18</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Security Intelligence Service Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of VANESSA LLOYD of Ottawa, Ontario, to be Interim Director of the Canadian Security Intelligence Service, to hold office during pleasure for a term of six months or until such time as a new Director of the Canadian Security Intelligence Service is appointed, whichever occurs first, effective July 20, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45920&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0881",
+  "date": "2024-07-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of VANESSA LLOYD of Ottawa, Ontario, to be Interim Director of the Canadian Security Intelligence Service, to hold office during pleasure for a term of six months or until such time as a new Director of the Canadian Security Intelligence Service is appointed, whichever occurs first, effective July 20, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45920"
+  ],
+  "htmlHash": "772726eb271db5b803d4cb4ece30f6f2"
+}
