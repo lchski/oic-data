@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0913</td><td>2024-07-19</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of KARIN L.E. TAYLOR of the City of Yellowknife, in the Northwest Territories, Barrister-at-law, to be a Judge of the Supreme Court of the Northwest Territories; and a Judge of the Court of Appeal of the Northwest Territories and a Judge of the Court of Appeal of Yukon and a Judge of the Court of Appeal of Nunavut.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45956&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0913",
+  "date": "2024-07-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KARIN L.E. TAYLOR of the City of Yellowknife, in the Northwest Territories, Barrister-at-law, to be a Judge of the Supreme Court of the Northwest Territories; and a Judge of the Court of Appeal of the Northwest Territories and a Judge of the Court of Appeal of Yukon and a Judge of the Court of Appeal of Nunavut.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45956"
+  ],
+  "htmlHash": "830d75c8874edb6f641726a59a4a1970"
+}

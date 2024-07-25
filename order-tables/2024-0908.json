@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0908</td><td>2024-07-19</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of the HONOURABLE KEITH D. KILBACK, a Judge of His Majesty's Court of King's Bench for Saskatchewan, to be a Judge of Appeal of the Court of Appeal for Saskatchewan, and a Judge ex officio of His Majesty's Court of King's Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45951&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0908",
+  "date": "2024-07-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE KEITH D. KILBACK, a Judge of His Majesty's Court of King's Bench for Saskatchewan, to be a Judge of Appeal of the Court of Appeal for Saskatchewan, and a Judge ex officio of His Majesty's Court of King's Bench for Saskatchewan.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45951"
+  ],
+  "htmlHash": "06fc8012767b3471a70f6c7ec04378af"
+}

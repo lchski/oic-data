@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0914</td><td>2024-07-19</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of the HONOURABLE E. RIA TZIMAS, a Judge of the Superior Court of Justice of Ontario, to be a Regional Senior Judge of the Superior Court of Justice of Ontario for the Central West Region and a Judge ex officio of the Court of Appeal for Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45957&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0914",
+  "date": "2024-07-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE E. RIA TZIMAS, a Judge of the Superior Court of Justice of Ontario, to be a Regional Senior Judge of the Superior Court of Justice of Ontario for the Central West Region and a Judge ex officio of the Court of Appeal for Ontario.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45957"
+  ],
+  "htmlHash": "03060d5b62f55f06a9e2e11c11da0085"
+}
