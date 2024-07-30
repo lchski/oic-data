@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0917</td><td>2024-07-24</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">National Security and Intelligence Review Agency Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of HONOURABLE MARIE DESCHAMPS, C.C., of Montréal, Quebec, as a member of the National Security and Intelligence Review Agency; and his designation as Chair of the National Security and Intelligence Review Agency, to hold office during good behaviour for a term of three years, effective September 5, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45966&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0917",
+  "date": "2024-07-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of HONOURABLE MARIE DESCHAMPS, C.C., of Montréal, Quebec, as a member of the National Security and Intelligence Review Agency; and his designation as Chair of the National Security and Intelligence Review Agency, to hold office during good behaviour for a term of three years, effective September 5, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45966"
+  ],
+  "htmlHash": "c0571446f7f26cf333d645f71c8834b4"
+}
