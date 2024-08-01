@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0927</td><td>2024-07-26</td><td></td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"6\">Convention on the Great Lakes Fisheries between Canada and the United States</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2024-0694 of June 17, 2024; and (2) authorizing the Minister of Fisheries and Oceans to appoint KEVIN BROSSEAU of Ottawa, Ontario, to be an alternate member of the Great Lakes Fishery Commission, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45976&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0927",
+  "date": "2024-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2024-0694 of June 17, 2024; and (2) authorizing the Minister of Fisheries and Oceans to appoint KEVIN BROSSEAU of Ottawa, Ontario, to be an alternate member of the Great Lakes Fishery Commission, to hold office for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45976"
+  ],
+  "htmlHash": "30d23cbf561d113adfe9faad35c438e7"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0924</td><td>2024-07-26</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">National Security and Intelligence Committee of Parliamentarians Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of BRENDA SHANAHAN, a member of the House of Commons who belongs to the government party, to be a member of the National Security and Intelligence Committee of Parliamentarians, to hold office during pleasure until the dissolution of Parliament following her appointment.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45973&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0924",
+  "date": "2024-07-26",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of BRENDA SHANAHAN, a member of the House of Commons who belongs to the government party, to be a member of the National Security and Intelligence Committee of Parliamentarians, to hold office during pleasure until the dissolution of Parliament following her appointment.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45973"
+  ],
+  "htmlHash": "ccc5563989e745c182303ef91fdacca4"
+}
