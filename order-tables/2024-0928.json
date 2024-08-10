@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0928</td><td>2024-08-06</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Agreement between the Government of Canada and the Government of Cyprus concerning Emergency Evacuation Operations, via the Territory of the Republic of Cyprus</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada and the Government of the Republic of Cyprus, the AGREEMENT CONCERNING EMERGENCY EVACUATION OPERATIONS, VIA THE TERRITORY OF THE REPUBLIC OF CYPRUS; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, with the effect of bringing into force, the Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45978&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0928",
+  "date": "2024-08-06",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing (1) the Prime Minister or the Minister of Foreign Affairs to sign, on behalf of the Government of Canada and the Government of the Republic of Cyprus, the AGREEMENT CONCERNING EMERGENCY EVACUATION OPERATIONS, VIA THE TERRITORY OF THE REPUBLIC OF CYPRUS; or (2) the Minister of Foreign Affairs to execute and issue an Instrument of Full Powers, authorizing the individuals mentioned in the order, to sign, on behalf of the Government of Canada, with the effect of bringing into force, the Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45978"
+  ],
+  "htmlHash": "f2ad2f7b5205216d5324a24130a71d5d"
+}
