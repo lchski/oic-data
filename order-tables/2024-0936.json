@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0936</td><td>2024-08-08</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of the Honorable Karina Gould and the Honourable Ruby Sahota</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2024-75 of January 30, 2024; and (2) appointing the Honourable KARINA GOULD and the Honourable RUBY SAHOTA, members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45985&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0936",
+  "date": "2024-08-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2024-75 of January 30, 2024; and (2) appointing the Honourable KARINA GOULD and the Honourable RUBY SAHOTA, members of the King’s Privy Council for Canada, to be members of the Board of Internal Economy of the House of Commons.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "45985"
+  ],
+  "htmlHash": "3a794f6ae1ebe4049f4234b9f122430c"
+}

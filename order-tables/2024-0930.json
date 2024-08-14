@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0930</td><td>2024-08-08</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Belarus) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (BELARUS) REGULATIONS in order to add ten (10) individuals and six (6) entities to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0167  <strong>Publication Date:</strong> 2024-08-28</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=45979&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0930",
+  "date": "2024-08-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (BELARUS) REGULATIONS in order to add ten (10) individuals and six (6) entities to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
+  "registration": "Registration: SOR/ 2024-0167  Publication Date: 2024-08-28",
+  "registration_type": "SOR",
+  "registration_id": "2024-0167",
+  "registration_publication_date": "2024-08-28",
+  "attachments": [
+    "45979"
+  ],
+  "htmlHash": "e864cffe02f4b58257b4c0dc554d2066"
+}
