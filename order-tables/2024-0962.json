@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0962</td><td>2024-08-28</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of NATHAN DAVID FERGUSON of London, Ontario, as a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years, effective September 16, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46017&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0962",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of NATHAN DAVID FERGUSON of London, Ontario, as a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to hold office during good behaviour for a term of five years, effective September 16, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46017"
+  ],
+  "htmlHash": "b7ce0c7f13e0e4d9b2fa0be99b3bcc7c"
+}

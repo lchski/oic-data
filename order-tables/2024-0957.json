@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0957</td><td>2024-08-28</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DREW HEAVENS of Ottawa, Ontario, to be a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective December 2, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46011&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0957",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DREW HEAVENS of Ottawa, Ontario, to be a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years, effective December 2, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46011"
+  ],
+  "htmlHash": "2111587b4e083f246cb690f0419bbe72"
+}

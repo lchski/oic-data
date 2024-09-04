@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0974</td><td>2024-08-28</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of SHAUN PAUL KENNEDY of Thunder Bay, Ontario, to be a director of the Thunder Bay Port Authority, to hold office for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46030&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0974",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SHAUN PAUL KENNEDY of Thunder Bay, Ontario, to be a director of the Thunder Bay Port Authority, to hold office for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46030"
+  ],
+  "htmlHash": "e8f9be25e94cb50631c1c1f625876fd7"
+}

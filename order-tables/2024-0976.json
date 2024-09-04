@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0976</td><td>2024-08-28</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the reappointment by the Minister of Canadian Heritage of WILLIAM ROBERT YOUNG of Ottawa, Ontario, as a trustee of the Board of Trustees of the Canadian Museum of History, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46032&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0976",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister of Canadian Heritage of WILLIAM ROBERT YOUNG of Ottawa, Ontario, as a trustee of the Board of Trustees of the Canadian Museum of History, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46032"
+  ],
+  "htmlHash": "fc35c31ea4227988f6be9f2fe0b3fa64"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0975</td><td>2024-08-28</td><td></td><td></td><td></td><td>PPC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Transportation Accident Investigation and Safety Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of LOUISE SMOLSKA of Ottawa, Ontario, to be a full-time member of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term of four years, effective September 23, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46031&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0975",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LOUISE SMOLSKA of Ottawa, Ontario, to be a full-time member of the Canadian Transportation Accident Investigation and Safety Board, to hold office during good behaviour for a term of four years, effective September 23, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46031"
+  ],
+  "htmlHash": "5d370521b64a943155c1485b17c276c9"
+}

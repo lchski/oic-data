@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0950</td><td>2024-08-28</td><td></td><td></td><td></td><td>CIRC</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Fiscal Management Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of DEANNA MUISE of Edmonton, Alberta, as a director of the board of directors of the First Nations Financial Management Board, to hold office during good behaviour for a term of two years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46004&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0950",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of DEANNA MUISE of Edmonton, Alberta, as a director of the board of directors of the First Nations Financial Management Board, to hold office during good behaviour for a term of two years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46004"
+  ],
+  "htmlHash": "19f6110ba6135d186b16d6c1c8a583e0"
+}

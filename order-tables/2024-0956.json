@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-0956</td><td>2024-08-28</td><td></td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"6\">Roosevelt Campobello International Park Commission Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of TODD ROSS of St. Andrews, New Brunswick, to be a member on the Roosevelt Campobello International Park Commission, to hold office during pleasure until December 31, 2034.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46010&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-0956",
+  "date": "2024-08-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of TODD ROSS of St. Andrews, New Brunswick, to be a member on the Roosevelt Campobello International Park Commission, to hold office during pleasure until December 31, 2034.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46010"
+  ],
+  "htmlHash": "d01946ea9f2191b2d3697935a284d5fe"
+}
