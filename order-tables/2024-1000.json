@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1000</td><td>2024-08-30</td><td></td><td></td><td></td><td>FA</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of CHRISTOPHER DUGGAN as Ambassador Extraordinary and Plenipotentiary of Canada to the Kyrgyz Republic and as Ambassador Extraordinary and Plenipotentiary to the Republic of Tajikistan, with residence in Astana.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46057&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1000",
+  "date": "2024-08-30",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CHRISTOPHER DUGGAN as Ambassador Extraordinary and Plenipotentiary of Canada to the Kyrgyz Republic and as Ambassador Extraordinary and Plenipotentiary to the Republic of Tajikistan, with residence in Astana.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46057"
+  ],
+  "htmlHash": "6ef30f06861998ec4d70894e516cb55b"
+}
