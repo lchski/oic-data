@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1001</td><td>2024-09-09</td><td></td><td></td><td></td><td>DND</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Forces Superannuation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canadian Forces Superannuation Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADIAN FORCES SUPERANNUATION REGULATIONS in order to (1) fix language discrepancies between English and French versions; (2) enable common-law partners to access the Optional Survivor Benefit; (3) improve clarity and simplify administrative requirements.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0175  <strong>Publication Date:</strong> 2024-09-25</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46064&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1001",
+  "date": "2024-09-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN FORCES SUPERANNUATION REGULATIONS in order to (1) fix language discrepancies between English and French versions; (2) enable common-law partners to access the Optional Survivor Benefit; (3) improve clarity and simplify administrative requirements.",
+  "registration": "Registration: SOR/ 2024-0175  Publication Date: 2024-09-25",
+  "registration_type": "SOR",
+  "registration_id": "2024-0175",
+  "registration_publication_date": "2024-09-25",
+  "attachments": [
+    "46064"
+  ],
+  "htmlHash": "ffd5d6d599323b16464ec2862aacf6bf"
+}

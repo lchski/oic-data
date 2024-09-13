@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1003</td><td>2024-09-09</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Authorizations to Carry Restricted Firearms and Certain Hand-guns Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the AUTHORIZATIONS TO CARRY RESTRICTED FIREARMS AND CERTAIN HANDGUNS in order to transfer from Chief Firearms Officers to the Commissioner of Firearms the decision-making authority for the issuance, revocation, and renewal of protection of the life Authorizations to Carry for individuals for restricted firearms or prohibited handguns, as well as for attaching conditions to these authorizations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0176  <strong>Publication Date:</strong> 2024-09-25</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46066&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1003",
+  "date": "2024-09-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the AUTHORIZATIONS TO CARRY RESTRICTED FIREARMS AND CERTAIN HANDGUNS in order to transfer from Chief Firearms Officers to the Commissioner of Firearms the decision-making authority for the issuance, revocation, and renewal of protection of the life Authorizations to Carry for individuals for restricted firearms or prohibited handguns, as well as for attaching conditions to these authorizations.",
+  "registration": "Registration: SOR/ 2024-0176  Publication Date: 2024-09-25",
+  "registration_type": "SOR",
+  "registration_id": "2024-0176",
+  "registration_publication_date": "2024-09-25",
+  "attachments": [
+    "46066"
+  ],
+  "htmlHash": "d3b9b41be4a4adb4ee94b59f64aae0e5"
+}
