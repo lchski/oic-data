@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1019</td><td>2024-09-16</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the remuneration of PATRICK MCDONELL, Sergeant at Arms of the House of Commons, as set out in the annexed schedule, effective July 1,2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46085&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1019",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the remuneration of PATRICK MCDONELL, Sergeant at Arms of the House of Commons, as set out in the annexed schedule, effective July 1,2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46085"
+  ],
+  "htmlHash": "20178a90ee6b6065a610efc39db52b54"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1015</td><td>2024-09-16</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of LOUIS-MARTIN AUMAIS, Legal Adviser of the Department of Global Affairs Canada, to be the Agent for Canada at the International Court of Justice, with the rank of Ambassador Extraordinary and Plenipotentiary.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46081&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1015",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of LOUIS-MARTIN AUMAIS, Legal Adviser of the Department of Global Affairs Canada, to be the Agent for Canada at the International Court of Justice, with the rank of Ambassador Extraordinary and Plenipotentiary.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46081"
+  ],
+  "htmlHash": "7392ab63c40470c659f47315205989ce"
+}

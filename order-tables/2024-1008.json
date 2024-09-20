@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1008</td><td>2024-09-16</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Amendments to the Composition of the Treasury Board</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) terminating the nominations made by Order in Council P.C. 2023-955 of September 25, 2023; (2) nominating the Members of the King's Privy Council for Canada who, in addition to the President of the Treasury Board and the Minister of Finance, are to constitute the TREASURY BOARD; (3) nominating the Members of the King's Privy Council for Canada to be alternates to serve in their place; (4) declaring that three members of the Treasury Board constitute a quorum.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46073&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1008",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) terminating the nominations made by Order in Council P.C. 2023-955 of September 25, 2023; (2) nominating the Members of the King's Privy Council for Canada who, in addition to the President of the Treasury Board and the Minister of Finance, are to constitute the TREASURY BOARD; (3) nominating the Members of the King's Privy Council for Canada to be alternates to serve in their place; (4) declaring that three members of the Treasury Board constitute a quorum.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46073"
+  ],
+  "htmlHash": "60c413b0b664bb54222e24a35886abd5"
+}

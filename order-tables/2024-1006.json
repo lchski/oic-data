@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1006</td><td>2024-09-16</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Hamas Terrorist Attacks) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (HAMAS TERRORIST ATTACKS) REGULATIONS in order to add eleven (11) individuals and two (2) entities to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0178  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46070&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1006",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (HAMAS TERRORIST ATTACKS) REGULATIONS in order to add eleven (11) individuals and two (2) entities to the Schedule of the Regulations, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
+  "registration": "Registration: SOR/ 2024-0178  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0178",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46070"
+  ],
+  "htmlHash": "85cbc65113367c9cae827a51dfb4377f"
+}

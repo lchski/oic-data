@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1007</td><td>2024-09-16</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Extremist Settler Violence) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (EXTREMIST SETTLER VIOLENCE) REGULATIONS in order (1) to include a minor change to correct the spelling of the name of a previously listed individual; and (2) to include a minor change to add four (4) individuals and two (2) entities to the Schedule of the Regulations, directly or indirectly facilitating, supporting, providing funding for or contributing to the use of violence by Israeli extremist settlers against Palestinian civilians or their property in the occupied Palestinian territories, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0179  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46071&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1007",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (EXTREMIST SETTLER VIOLENCE) REGULATIONS in order (1) to include a minor change to correct the spelling of the name of a previously listed individual; and (2) to include a minor change to add four (4) individuals and two (2) entities to the Schedule of the Regulations, directly or indirectly facilitating, supporting, providing funding for or contributing to the use of violence by Israeli extremist settlers against Palestinian civilians or their property in the occupied Palestinian territories, prohibiting them from transacting business with individuals and businesses in Canada, and freezing their assets unless otherwise authorized by the Minister of the Foreign Affairs.",
+  "registration": "Registration: SOR/ 2024-0179  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0179",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46071"
+  ],
+  "htmlHash": "c57aaeda2974325d0cad0d764bb8133c"
+}

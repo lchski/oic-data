@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1009</td><td>2024-09-16</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of certain Members of the House of Commons to be Parliamentary Secretaries, for a period ending on September 12, 2025, effective September 18, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46074&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1009",
+  "date": "2024-09-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of certain Members of the House of Commons to be Parliamentary Secretaries, for a period ending on September 12, 2025, effective September 18, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46074"
+  ],
+  "htmlHash": "0ac89e8aa3693cda42bac1e8bebc8464"
+}
