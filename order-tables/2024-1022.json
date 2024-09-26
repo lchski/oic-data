@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1022</td><td>2024-09-20</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending Schedule V to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending SCHEDULE V TO THE FINANCIAL ADMINISTRATION ACT by deleting the Statistic Survey Operations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0182  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46089&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1022",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending SCHEDULE V TO THE FINANCIAL ADMINISTRATION ACT by deleting the Statistic Survey Operations.",
+  "registration": "Registration: SOR/ 2024-0182  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0182",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46089"
+  ],
+  "htmlHash": "1cd9ab1b41c9dd4c76ebc9d8e75980d4"
+}

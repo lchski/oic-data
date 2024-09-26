@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1026</td><td>2024-09-20</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Privacy Act Extension Order No. 1 (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending the PRIVACY ACT EXTENSION ORDER NO. 1 (MISCELLANEOUS PROGRAM) in order to update and add clarity to a regulatory provision.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0186  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46093&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1026",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending the PRIVACY ACT EXTENSION ORDER NO. 1 (MISCELLANEOUS PROGRAM) in order to update and add clarity to a regulatory provision.",
+  "registration": "Registration: SOR/ 2024-0186  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0186",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46093"
+  ],
+  "htmlHash": "f869611850411261228a2b4559a4890a"
+}

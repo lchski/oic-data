@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1025</td><td>2024-09-20</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Privacy Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Schedule to the Privacy Act (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending the SCHEDULE TO THE PRIVACY ACT (MISCELLANEOUS PROGRAM) in order to remove references to government institutions that no longer exist or have become a part of other listed government institutions.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0185  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46092&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1025",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the SCHEDULE TO THE PRIVACY ACT (MISCELLANEOUS PROGRAM) in order to remove references to government institutions that no longer exist or have become a part of other listed government institutions.",
+  "registration": "Registration: SOR/ 2024-0185  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0185",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46092"
+  ],
+  "htmlHash": "2c032b2a4ee91441d4ba1a5d3d345cb7"
+}

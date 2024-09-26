@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1040</td><td>2024-09-20</td><td></td><td></td><td></td><td>CIRC</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Fiscal Management Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MICHAEL ST. AMANT of Leamington, Ontario, to be a commissioner of the First Nations Tax Commission, to hold office during good behaviour for a term of five years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46107&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1040",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MICHAEL ST. AMANT of Leamington, Ontario, to be a commissioner of the First Nations Tax Commission, to hold office during good behaviour for a term of five years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46107"
+  ],
+  "htmlHash": "ee4fd99a7cb5da0c223d9f801599a418"
+}

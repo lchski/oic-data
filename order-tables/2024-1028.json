@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1028</td><td>2024-09-20</td><td>16</td><td>2019</td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing December 1, 2024 as the Day on Which Section 22.1 of An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act Come\ninto Force in British Columbia</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing December 1, 2024 as the day on which section 22.1 of AN ACT TO AMEND THE DIVORCE ACT, THE FAMILY ORDERS AND AGREEMENTS ENFORCEMENT ASSISTANCE ACT AND THE GARNISHMENT, ATTACHMENT AND PENSION DIVERSION ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO ANOTHER ACT, chapter 16 of the Statutes of Canada, 2019, COMES INTO FORCE in order to bring into force the language rights provision under the amended Divorce Act in Britsh Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46095&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1028",
+  "date": "2024-09-20",
+  "chapter": "16",
+  "bill": "2019",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing December 1, 2024 as the day on which section 22.1 of AN ACT TO AMEND THE DIVORCE ACT, THE FAMILY ORDERS AND AGREEMENTS ENFORCEMENT ASSISTANCE ACT AND THE GARNISHMENT, ATTACHMENT AND PENSION DIVERSION ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO ANOTHER ACT, chapter 16 of the Statutes of Canada, 2019, COMES INTO FORCE in order to bring into force the language rights provision under the amended Divorce Act in Britsh Columbia.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46095"
+  ],
+  "htmlHash": "553fca9ff4043a91ba1c5bc956e0be67"
+}

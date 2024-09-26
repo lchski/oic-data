@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1043</td><td>2024-09-20</td><td></td><td></td><td></td><td>INFC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MARIE ANTOINETTE CAMPAGNA of LaSalle, Ontario, to be Chairperson of the Windsor-Detroit Bridge Authority, on an interim basis, to hold office during pleasure for a term of one year, or until such time as a new Chairperson is appointed, whichever occurs first.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46110&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1043",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MARIE ANTOINETTE CAMPAGNA of LaSalle, Ontario, to be Chairperson of the Windsor-Detroit Bridge Authority, on an interim basis, to hold office during pleasure for a term of one year, or until such time as a new Chairperson is appointed, whichever occurs first.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46110"
+  ],
+  "htmlHash": "898b7f1d216d093a282204e85ce5f155"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1021</td><td>2024-09-20</td><td></td><td></td><td></td><td>PS, CSC</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Corrections and Conditional Release Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CORRECTIONS AND CONDITIONAL RELEASE REGULATIONS in order to (1) enable the Correctional Service of Canada (CSC) to use body scanner technology that can reveal items such as, but not limited to: metal, plastic, organic and inorganic items concealed in clothing, on the body or inside the body of the individual being scanned; (2) define a prescribed body scanner as a machine capable of detecting contraband that is in or on a clothed person; (3) introduce provisions to outline the use of dry cell detention by the CSC and specify admission criteria, duration limits, and oversight; and (4) provide for a reporting and oversight structure for both body scanner searches and dry cell detention.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0181  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46088&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1021",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CORRECTIONS AND CONDITIONAL RELEASE REGULATIONS in order to (1) enable the Correctional Service of Canada (CSC) to use body scanner technology that can reveal items such as, but not limited to: metal, plastic, organic and inorganic items concealed in clothing, on the body or inside the body of the individual being scanned; (2) define a prescribed body scanner as a machine capable of detecting contraband that is in or on a clothed person; (3) introduce provisions to outline the use of dry cell detention by the CSC and specify admission criteria, duration limits, and oversight; and (4) provide for a reporting and oversight structure for both body scanner searches and dry cell detention.",
+  "registration": "Registration: SOR/ 2024-0181  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0181",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46088"
+  ],
+  "htmlHash": "c7c9932a7d7a767a24e751cbfb516ad6"
+}

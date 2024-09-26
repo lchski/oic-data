@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1020</td><td>2024-09-20</td><td>27</td><td>2019</td><td></td><td>PS, CSC</td></tr><tr><td>Act</td><td colspan=\"6\">An Act to amend the Corrections and Conditional Release Act and another Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing October 1, 2024 as the Day on which Certain Provisions of An Act to amend the Corrections and Conditional Release Act and another Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing October 1, 2024 as the day on which certain sections of AN ACT TO AMEND THE CORRECTIONS AND CONDITIONAL RELEASE ACT AND ANOTHER ACT, chapter 27 of the Statutes of Canada, 2024, COME INTO FORCE in order to authorize the use of body scanners in federal institutions and remove the authority to use medical X-ray machines for searches.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46087&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1020",
+  "date": "2024-09-20",
+  "chapter": "27",
+  "bill": "2019",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing October 1, 2024 as the day on which certain sections of AN ACT TO AMEND THE CORRECTIONS AND CONDITIONAL RELEASE ACT AND ANOTHER ACT, chapter 27 of the Statutes of Canada, 2024, COME INTO FORCE in order to authorize the use of body scanners in federal institutions and remove the authority to use medical X-ray machines for searches.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46087"
+  ],
+  "htmlHash": "9f88e3b62901bcc42d20482e8f05b45f"
+}

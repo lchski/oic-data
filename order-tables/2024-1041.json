@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1041</td><td>2024-09-20</td><td></td><td></td><td></td><td>CIRC</td></tr><tr><td>Act</td><td colspan=\"6\">Gwich'in Land Claim Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of RONALD ALLEN of Yellowknife, Northwest Territories, to be a member to the Gwich'in Renewable Resources Board, for a term of five years, effective the date of this Order in Council or the Order of the Executive Council, whichever is later.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46108&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1041",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of RONALD ALLEN of Yellowknife, Northwest Territories, to be a member to the Gwich'in Renewable Resources Board, for a term of five years, effective the date of this Order in Council or the Order of the Executive Council, whichever is later.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46108"
+  ],
+  "htmlHash": "6e46ea6c569e0a16d1e4607aad8bce24"
+}

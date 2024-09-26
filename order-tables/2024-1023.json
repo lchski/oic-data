@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1023</td><td>2024-09-20</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Weights and Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Weights and Measures Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the WEIGHTS AND MEASURES REGULATIONS in order to exempt timber dimension measuring devices (TDMD) from the following provisions of the Weights and Measures Regulations; (1) subsection 18(1) and section 21, which relate to the marking of devices; (2) section 32 which relates to the sealing of devices; and (3) part V of the regulations, which set out specifications relating to devices.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0183  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46090&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1023",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the WEIGHTS AND MEASURES REGULATIONS in order to exempt timber dimension measuring devices (TDMD) from the following provisions of the Weights and Measures Regulations; (1) subsection 18(1) and section 21, which relate to the marking of devices; (2) section 32 which relates to the sealing of devices; and (3) part V of the regulations, which set out specifications relating to devices.",
+  "registration": "Registration: SOR/ 2024-0183  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0183",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46090"
+  ],
+  "htmlHash": "70967447f73b1b4bc8409705778e4218"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1044</td><td>2024-09-20</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Designation of SUZANNE GILBERT of Toronto, Ontario, a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to be Deputy Chairperson of the Refugee Appeal Division of the Immigration and Refugee Board, for a term ending April 14, 2029.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46111&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1044",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of SUZANNE GILBERT of Toronto, Ontario, a full-time member of the Immigration and Refugee Board (Toronto Regional Office), to be Deputy Chairperson of the Refugee Appeal Division of the Immigration and Refugee Board, for a term ending April 14, 2029.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46111"
+  ],
+  "htmlHash": "e4ef101a4d1ea54daa0c265a7f708a37"
+}

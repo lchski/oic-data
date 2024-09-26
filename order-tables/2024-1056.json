@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1056</td><td>2024-09-20</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Statistics Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of ANDRÉ LORANGER of Ottawa, Ontario, as Chief Statistician of Canada, on an interim basis, to hold office during pleasure, for a term of six months or until such time as a new Chief Statistician is appointed, whichever occurs first, effective October 1, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46123&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1056",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of ANDRÉ LORANGER of Ottawa, Ontario, as Chief Statistician of Canada, on an interim basis, to hold office during pleasure, for a term of six months or until such time as a new Chief Statistician is appointed, whichever occurs first, effective October 1, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46123"
+  ],
+  "htmlHash": "ea74de559b57335fb95c027dace7cc4e"
+}

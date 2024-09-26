@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1037</td><td>2024-09-20</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Name Change of the Chamber of Commerce Serving Maple Ridge and Pitt Meadows</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application of the Chamber of Commerce Serving Maple Ridge and Pitt Meadows, in British Columbia, to change its name to the “RIDGE MEADOWS CHAMBER OF COMMERCE\".</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46104&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1037",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application of the Chamber of Commerce Serving Maple Ridge and Pitt Meadows, in British Columbia, to change its name to the “RIDGE MEADOWS CHAMBER OF COMMERCE\".",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46104"
+  ],
+  "htmlHash": "cd9f8b82368f85a5c2dfee4b22e754e7"
+}

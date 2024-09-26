@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1045</td><td>2024-09-20</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">National Arts Centre Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of HEATHER BALA EDWARDS of Calgary, Alberta, to be a member of the Board of Trustees of the National Arts Centre Corporation, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46112&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1045",
+  "date": "2024-09-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of HEATHER BALA EDWARDS of Calgary, Alberta, to be a member of the Board of Trustees of the National Arts Centre Corporation, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46112"
+  ],
+  "htmlHash": "0199b0bad1605cdb39d8086212984712"
+}
