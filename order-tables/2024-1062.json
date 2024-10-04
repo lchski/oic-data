@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1062</td><td>2024-09-27</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Radiation Emitting Devices Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Radiation Emitting Devices Regulations (Laser Products)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the RADIATION EMITTING DEVICES REGULATIONS (LASER PRODUCTS) in order to (1) repeal the Radiation Emitting Devices Act’s current requirements for laser scanners and demonstration lasers; (2) incorporate by static reference the International Electro-technical Commission (IEC) standard’s laser classification system, the design, construction and functioning standards, the testing methodology, and the labelling and accompanying information requirements; (3) impose additional labelling and accompanying information requirements, namely, a product identification/origins label for tracing purposes (as required for other products regulated under the Radiation Emitting Devices Regulations (REDR), e.g., television receivers) and the requirement for labels and accompanying information to be available in both official languages; 4) exclude requirements set out in the IEC standard that would be outside the authority of the Act or where it would be appropriate to provide greater flexibility to regulated parties in Canada; 5) provide that lasers which are regulated as medical devices under the Medical Devices Regulations are not subject to the REDR; and (6) make minor non-substantive amendments to modernize and improve the consistency of regulatory text.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0196  <strong>Publication Date:</strong> 2024-10-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46131&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1062",
+  "date": "2024-09-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the RADIATION EMITTING DEVICES REGULATIONS (LASER PRODUCTS) in order to (1) repeal the Radiation Emitting Devices Act’s current requirements for laser scanners and demonstration lasers; (2) incorporate by static reference the International Electro-technical Commission (IEC) standard’s laser classification system, the design, construction and functioning standards, the testing methodology, and the labelling and accompanying information requirements; (3) impose additional labelling and accompanying information requirements, namely, a product identification/origins label for tracing purposes (as required for other products regulated under the Radiation Emitting Devices Regulations (REDR), e.g., television receivers) and the requirement for labels and accompanying information to be available in both official languages; 4) exclude requirements set out in the IEC standard that would be outside the authority of the Act or where it would be appropriate to provide greater flexibility to regulated parties in Canada; 5) provide that lasers which are regulated as medical devices under the Medical Devices Regulations are not subject to the REDR; and (6) make minor non-substantive amendments to modernize and improve the consistency of regulatory text.",
+  "registration": "Registration: SOR/ 2024-0196  Publication Date: 2024-10-09",
+  "registration_type": "SOR",
+  "registration_id": "2024-0196",
+  "registration_publication_date": "2024-10-09",
+  "attachments": [
+    "46131"
+  ],
+  "htmlHash": "87d8bac6f348a933c96a75f8a71f2d70"
+}

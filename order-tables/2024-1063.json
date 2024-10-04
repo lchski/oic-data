@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1063</td><td>2024-09-27</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Provincial Emergency Financial Assistance Order No. 273, Nova Scotia</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 273 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to NOVA SCOTIA with respect to the winter storm that occurred from February 2 to February 5, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46132&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1063",
+  "date": "2024-09-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 273 in order to (1) declare the natural disaster to be of federal concern; and (2) authorize the provision of financial assistance to NOVA SCOTIA with respect to the winter storm that occurred from February 2 to February 5, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46132"
+  ],
+  "htmlHash": "30eed7383d963eab693d34b7edbaf4ad"
+}

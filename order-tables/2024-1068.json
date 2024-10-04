@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1068</td><td>2024-09-27</td><td></td><td></td><td></td><td>ECCC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Jasper National Park of Canada Rent and Fee Remission Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">JASPER NATIONAL PARK OF CANADA RENT AND FEE REMISSION ORDER in order to remit rent and fees to the Municipality of Jasper, as well as those who have cottage and commercial leases and licenses, who have been impacted by wildfires in spring/summer 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46137&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1068",
+  "date": "2024-09-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "JASPER NATIONAL PARK OF CANADA RENT AND FEE REMISSION ORDER in order to remit rent and fees to the Municipality of Jasper, as well as those who have cottage and commercial leases and licenses, who have been impacted by wildfires in spring/summer 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46137"
+  ],
+  "htmlHash": "6e7dbcdd01be380e9a2e6a411dbfcf7a"
+}

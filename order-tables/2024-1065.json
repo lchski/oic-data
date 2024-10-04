@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1065</td><td>2024-09-27</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Transportation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order rescinds of its own motion the Canadian Transportation Agency Determination No. R-2024-108 of July 8, 2024</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order RESCINDING of its own motion Determination No. R-2024-108 of July 8, 2024 of the Canadian Transportation Agency.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46134&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1065",
+  "date": "2024-09-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order RESCINDING of its own motion Determination No. R-2024-108 of July 8, 2024 of the Canadian Transportation Agency.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46134"
+  ],
+  "htmlHash": "32d5c22e24007009c7af0e0331d9d110"
+}
