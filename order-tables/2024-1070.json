@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1070</td><td>2024-10-04</td><td></td><td></td><td></td><td>DFO</td></tr><tr><td>Act</td><td colspan=\"6\">Fisheries Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Quebec Fishery Regulations, 1990</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the QUEBEC FISHERY REGULATIONS, 1990 in order to (1) include a new definition of sport fishing centred on recreational or personal use; (2) change fishing gear or equipment requirements through variation orders; (3) amend licence conditions and to Atlantic salmon tagging provisions to accommodate licences purchased online, and to registration requirements of Atlantic salmon; (4) add provisions on baitfish, including expanding existing possession prohibitions; and (5) make technical changes to respond to comments from the Standing Joint Committee for the Scrutiny of Regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0198  <strong>Publication Date:</strong> 2024-10-23</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46151&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1070",
+  "date": "2024-10-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the QUEBEC FISHERY REGULATIONS, 1990 in order to (1) include a new definition of sport fishing centred on recreational or personal use; (2) change fishing gear or equipment requirements through variation orders; (3) amend licence conditions and to Atlantic salmon tagging provisions to accommodate licences purchased online, and to registration requirements of Atlantic salmon; (4) add provisions on baitfish, including expanding existing possession prohibitions; and (5) make technical changes to respond to comments from the Standing Joint Committee for the Scrutiny of Regulations.",
+  "registration": "Registration: SOR/ 2024-0198  Publication Date: 2024-10-23",
+  "registration_type": "SOR",
+  "registration_id": "2024-0198",
+  "registration_publication_date": "2024-10-23",
+  "attachments": [
+    "46151"
+  ],
+  "htmlHash": "1eec989b684da2283e9c3e8f58461050"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1069</td><td>2024-10-04</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Migratory Birds\nRegulations, 2022 (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the MIGRATORY BIRDS REGULATIONS, 2022 (MISCELLANEOUS PROGRAM) in order to (1) correct a minor error in the English version of the Regulations which were published in Canada Gazette, Part II on June 19, 2024; and (2) specify that in Provincial Wildlife Management Units 88 to 95, the daily bag limit for ducks is 6 and not more than 1 may be Barrow's Goldeneye and not more than 3 may be American Black Ducks, as correctly specified in the French version.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0197  <strong>Publication Date:</strong> 2024-10-23</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46150&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1069",
+  "date": "2024-10-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MIGRATORY BIRDS REGULATIONS, 2022 (MISCELLANEOUS PROGRAM) in order to (1) correct a minor error in the English version of the Regulations which were published in Canada Gazette, Part II on June 19, 2024; and (2) specify that in Provincial Wildlife Management Units 88 to 95, the daily bag limit for ducks is 6 and not more than 1 may be Barrow's Goldeneye and not more than 3 may be American Black Ducks, as correctly specified in the French version.",
+  "registration": "Registration: SOR/ 2024-0197  Publication Date: 2024-10-23",
+  "registration_type": "SOR",
+  "registration_id": "2024-0197",
+  "registration_publication_date": "2024-10-23",
+  "attachments": [
+    "46150"
+  ],
+  "htmlHash": "f9702e775815fb86b73462c90cc924b6"
+}

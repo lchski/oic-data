@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1071</td><td>2024-10-04</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Made Under the Customs Act (Low Value Shipment Threshold)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CUSTOMS ACT (LOW VALUE SHIPMENT THRESHOLD) in order to (1) amend\nthe low-value shipment thresholds to reflect the new amount of $3,300 in the Accounting for Imported Goods and Payment of Duties Regulations, the Fees in Respect of Mail Regulations, and the Proof of Origin of Imported Goods Regulations; and (2) amend certain sections of the Proof of Origin of Imported Goods Regulations to replace the requirement to provide a written statement certifying the origin of commercial goods with a value for duty of $3,300 or less with a requirement to provide a commercial invoice indicating the origin of the goods.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0199  <strong>Publication Date:</strong> 2024-10-23</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46152&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1071",
+  "date": "2024-10-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CUSTOMS ACT (LOW VALUE SHIPMENT THRESHOLD) in order to (1) amend\nthe low-value shipment thresholds to reflect the new amount of $3,300 in the Accounting for Imported Goods and Payment of Duties Regulations, the Fees in Respect of Mail Regulations, and the Proof of Origin of Imported Goods Regulations; and (2) amend certain sections of the Proof of Origin of Imported Goods Regulations to replace the requirement to provide a written statement certifying the origin of commercial goods with a value for duty of $3,300 or less with a requirement to provide a commercial invoice indicating the origin of the goods.",
+  "registration": "Registration: SOR/ 2024-0199  Publication Date: 2024-10-23",
+  "registration_type": "SOR",
+  "registration_id": "2024-0199",
+  "registration_publication_date": "2024-10-23",
+  "attachments": [
+    "46152"
+  ],
+  "htmlHash": "7d6e06a13cb0825250958df300b89032"
+}

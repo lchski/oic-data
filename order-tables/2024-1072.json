@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1072</td><td>2024-10-04</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Water Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Arrangement with the Government of British-Columbia in accordance with the annexed Elk-Kootenai/y Watershed Governance Body Terms of Reference</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of the Environment to enter into an ARRANGEMENT with the Government of British Columbia in accordance with the ELK-KOOTENAI/Y WATERSHED GOVERNANCE BODY TERMS OF REFERENCE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46153&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1072",
+  "date": "2024-10-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of the Environment to enter into an ARRANGEMENT with the Government of British Columbia in accordance with the ELK-KOOTENAI/Y WATERSHED GOVERNANCE BODY TERMS OF REFERENCE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46153"
+  ],
+  "htmlHash": "b55288a15b205466c8bdd6e6b7896641"
+}
