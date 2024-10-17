@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1073</td><td>2024-10-10</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Fall Economic Statement Implementation Act, 2023</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing October 15, 2024 as the Day on Which the Provisions of the Canada Water Agency Act and Certain Provisions of the Fall Economic Statement Implementation Act, 2023 Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing October 15, 2024, as the day on which the provisions of the Canada Water Agency Act, as enacted by section 209 of the Fall Economic Statement Implementation Act, 2023 and sections 210 to 215 of that Act COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46158&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1073",
+  "date": "2024-10-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing October 15, 2024, as the day on which the provisions of the Canada Water Agency Act, as enacted by section 209 of the Fall Economic Statement Implementation Act, 2023 and sections 210 to 215 of that Act COME INTO FORCE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46158"
+  ],
+  "htmlHash": "99a4c3a7889a1dfbd8a14332a44ce2d7"
+}

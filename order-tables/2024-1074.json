@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1074</td><td>2024-10-10</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Water Agency Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Designating the location of the Canada Water Agency</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order designating under the CANADA WATER AGENCY ACT to locate the headquarters of the Canada Water Agency in Winnipeg, Manitoba.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1074",
+  "date": "2024-10-10",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating under the CANADA WATER AGENCY ACT to locate the headquarters of the Canada Water Agency in Winnipeg, Manitoba.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46159"
+  ],
+  "htmlHash": "6f4f6d3f923a7cf6a478ed75a007fa2a"
+}
