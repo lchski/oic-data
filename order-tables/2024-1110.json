@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1110</td><td>2024-10-11</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canadian Aviation Security Regulations, 2012 (Air Cargo)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADIAN AVIATION SECURITY REGULATIONS, 2012 (AIR CARGO) in order to (1) require affected carriers to submit basic cargo information to Transport Canada for risk assessment before cargo is loaded on board an aircraft destined for Canada; (2) submit flight information as soon as feasible following a flight’s departure and before its arrival in Canada; (3) provide contact information for a principal point of contact; (4) designate the new requirements as enforceable via administrative monetary penalties of up to $25,000; and (5) use new IT system to conduct automated risk assessments of the cargo information submitted by carriers.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0203  <strong>Publication Date:</strong> 2024-10-23</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46196&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1110",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN AVIATION SECURITY REGULATIONS, 2012 (AIR CARGO) in order to (1) require affected carriers to submit basic cargo information to Transport Canada for risk assessment before cargo is loaded on board an aircraft destined for Canada; (2) submit flight information as soon as feasible following a flight’s departure and before its arrival in Canada; (3) provide contact information for a principal point of contact; (4) designate the new requirements as enforceable via administrative monetary penalties of up to $25,000; and (5) use new IT system to conduct automated risk assessments of the cargo information submitted by carriers.",
+  "registration": "Registration: SOR/ 2024-0203  Publication Date: 2024-10-23",
+  "registration_type": "SOR",
+  "registration_id": "2024-0203",
+  "registration_publication_date": "2024-10-23",
+  "attachments": [
+    "46196"
+  ],
+  "htmlHash": "406b233adbd4229f8bf5ae51638a9ab9"
+}

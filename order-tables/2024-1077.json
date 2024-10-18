@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1077</td><td>2024-10-11</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of the HONOURABLE RONALD A. SKOLROOD, a Justice of Appeal of the Court of Appeal of British Columbia, to be Chief Justice of the Supreme Court of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46162&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1077",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE RONALD A. SKOLROOD, a Justice of Appeal of the Court of Appeal of British Columbia, to be Chief Justice of the Supreme Court of British Columbia.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46162"
+  ],
+  "htmlHash": "c4d3e3acdc0d28e781fbca19693dfaa7"
+}

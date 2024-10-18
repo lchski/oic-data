@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1107</td><td>2024-10-11</td><td></td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Dyson Lyle Smith as Commanding Officer — RCMP - Northwest Territories</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order designating DYSON LYLE SMITH of the Royal Canadian Mounted Police as Commanding Officer, \" G\" Division, in the Northwest Territories.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46193&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1107",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating DYSON LYLE SMITH of the Royal Canadian Mounted Police as Commanding Officer, \" G\" Division, in the Northwest Territories.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46193"
+  ],
+  "htmlHash": "1b58d3817c8166b1cb42937fe59aeff1"
+}

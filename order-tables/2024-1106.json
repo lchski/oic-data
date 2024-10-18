@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1106</td><td>2024-10-11</td><td></td><td></td><td></td><td>PS, CBSA</td></tr><tr><td>Act</td><td colspan=\"6\">Budget Implementation Act, 2022, No. 1</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing January 1, 2026 as the Day on Which Sections 307 of the Budget Implementation Act, 2022, No. 1 Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing January 1, 2026 as the day on which section 307 of the of the BUDGET IMPLEMENTATION ACT, 2022, NO. 1, COME INTO FORCE in order to amend the Customs Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46192&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1106",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing January 1, 2026 as the day on which section 307 of the of the BUDGET IMPLEMENTATION ACT, 2022, NO. 1, COME INTO FORCE in order to amend the Customs Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46192"
+  ],
+  "htmlHash": "d6eb345f3574ddfdb28c5cff4a310fad"
+}

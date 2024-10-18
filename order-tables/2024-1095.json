@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1095</td><td>2024-10-11</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of KELLI L. POTTER of the city of Virden, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba (Family Division).</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46180&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1095",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of KELLI L. POTTER of the city of Virden, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba (Family Division).",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46180"
+  ],
+  "htmlHash": "1ff0ca62474118e03cf216aba2b87a08"
+}

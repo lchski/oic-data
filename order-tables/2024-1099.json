@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1099</td><td>2024-10-11</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Consumer Agency of  Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of SHEREEN MILLER of Ottawa, Ontario, to be Commissioner of the Financial Consumer Agency of Canada, to hold office during good behaviour for a term of five years, effective November 7, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46185&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1099",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SHEREEN MILLER of Ottawa, Ontario, to be Commissioner of the Financial Consumer Agency of Canada, to hold office during good behaviour for a term of five years, effective November 7, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46185"
+  ],
+  "htmlHash": "8058a71c58209463c5a41a72b77754b4"
+}

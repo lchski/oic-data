@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1094</td><td>2024-10-11</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of PIERRE SOUCY Barrister-at-law, to be a Judge of the Superior Court of Quebec for the district of Abitibi, Rouyn-Noranda and Témiscamingue, with residence in the territory of Ville de Trois-Rivières or in the immediate vicinity thereof.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46179&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1094",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of PIERRE SOUCY Barrister-at-law, to be a Judge of the Superior Court of Quebec for the district of Abitibi, Rouyn-Noranda and Témiscamingue, with residence in the territory of Ville de Trois-Rivières or in the immediate vicinity thereof.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46179"
+  ],
+  "htmlHash": "81d470425fb568c3670d917f21210739"
+}

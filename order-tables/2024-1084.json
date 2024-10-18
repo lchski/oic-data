@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1084</td><td>2024-10-11</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Industry Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of PHILIP JENNINGS of Ottawa, Ontario, to be Deputy Minister of Industry, to be styled Deputy Minister of Innovation, Science and Economic Development, to hold office during pleasure, effective November 4, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46169&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1084",
+  "date": "2024-10-11",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of PHILIP JENNINGS of Ottawa, Ontario, to be Deputy Minister of Industry, to be styled Deputy Minister of Innovation, Science and Economic Development, to hold office during pleasure, effective November 4, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46169"
+  ],
+  "htmlHash": "77255ec96c98bec8978019c6dbcb1fde"
+}
