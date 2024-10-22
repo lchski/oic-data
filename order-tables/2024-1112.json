@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1112</td><td>2024-10-16</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Shipment by Post of Certain Prohibited Firearms and Prohibited Devices by Certain Businesses Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">SHIPMENT BY POST OF CERTAIN PROHIBITED FIREARMS AND PROHIBITED DEVICES BY CERTAIN BUSINESSES REGULATIONS in order to (1) permit businesses to ship by post the prohibited items, under certain conditions, for the purposes of destruction; (2) exempt Canada Post to meet storage and transportation measures under the Storage, Display and Transportation of Firearms and Other Weapons by Business Regulations in the course of transmission by post; and (3) not authorize prohibited assault-style rifles that are also a controlled good listed in the Schedule of the Defence Productions Act to be shipped by Canada Post.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0208  <strong>Publication Date:</strong> 2024-11-06</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46200&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1112",
+  "date": "2024-10-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "SHIPMENT BY POST OF CERTAIN PROHIBITED FIREARMS AND PROHIBITED DEVICES BY CERTAIN BUSINESSES REGULATIONS in order to (1) permit businesses to ship by post the prohibited items, under certain conditions, for the purposes of destruction; (2) exempt Canada Post to meet storage and transportation measures under the Storage, Display and Transportation of Firearms and Other Weapons by Business Regulations in the course of transmission by post; and (3) not authorize prohibited assault-style rifles that are also a controlled good listed in the Schedule of the Defence Productions Act to be shipped by Canada Post.",
+  "registration": "Registration: SOR/ 2024-0208  Publication Date: 2024-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2024-0208",
+  "registration_publication_date": "2024-11-06",
+  "attachments": [
+    "46200"
+  ],
+  "htmlHash": "e25ec47797e3f9ce08a76e1814daee5b"
+}
