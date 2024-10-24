@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1113</td><td>2024-10-18</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Broadcasting Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of MARIE-PHILIPPE BOUCHARD of Montreal, Quebec, to be President of the Canadian Broadcasting Corporation, to hold office during good behaviour for a term of five years, in the place of Catherine Tait, whose term will expire, effective January 3, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46201&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1113",
+  "date": "2024-10-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of MARIE-PHILIPPE BOUCHARD of Montreal, Quebec, to be President of the Canadian Broadcasting Corporation, to hold office during good behaviour for a term of five years, in the place of Catherine Tait, whose term will expire, effective January 3, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46201"
+  ],
+  "htmlHash": "07aec14e0302a25b1b1d87c2f7c89968"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1117</td><td>2024-10-18</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">Mackenzie Valley Resource Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order extending the time limit under Subsection 72.24 (2) of Mackenzie Valley Ressource Management Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order extending until June 24, 2025 the time limit pursuant to subsection 72.24(1) of  the Mackenzie Valley Resource Management Act with respect to the Mackenzie Valley Land and Water Board decision relating to the type B Water Licence (MV2023L2-0001) Application by North American Tungsten Corporation Limited to conduct site care and maintenance activities for the Cantung Mine.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46204&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1117",
+  "date": "2024-10-18",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order extending until June 24, 2025 the time limit pursuant to subsection 72.24(1) of  the Mackenzie Valley Resource Management Act with respect to the Mackenzie Valley Land and Water Board decision relating to the type B Water Licence (MV2023L2-0001) Application by North American Tungsten Corporation Limited to conduct site care and maintenance activities for the Cantung Mine.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46204"
+  ],
+  "htmlHash": "b6135bc5ee5bd7a1ea67e7d787c80551"
+}
