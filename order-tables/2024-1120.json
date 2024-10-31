@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1120</td><td>2024-10-25</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Foreign Missions and International  Organizations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Ministerial Conference on the Human Dimension of Ukraine's 10-Point Peace Formula Privileges and Immunities Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">MINISTERIAL CONFERENCE ON THE HUMAN DIMENSION OF UKRAINE'S 10-POINT PEACE FORMULA PRIVILEGES AND IMMUNITIES ORDER in order to provide certain privileges and immunities to representatives of foreign states, officials and experts of international organizations, to facilitate attendance of, and participation in, the Conference from October 27 to November 1, 2024.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0209  <strong>Publication Date:</strong> 2024-11-06</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46210&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1120",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "MINISTERIAL CONFERENCE ON THE HUMAN DIMENSION OF UKRAINE'S 10-POINT PEACE FORMULA PRIVILEGES AND IMMUNITIES ORDER in order to provide certain privileges and immunities to representatives of foreign states, officials and experts of international organizations, to facilitate attendance of, and participation in, the Conference from October 27 to November 1, 2024.",
+  "registration": "Registration: SOR/ 2024-0209  Publication Date: 2024-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2024-0209",
+  "registration_publication_date": "2024-11-06",
+  "attachments": [
+    "46210"
+  ],
+  "htmlHash": "a14d21ed77441bdaf6d5efd3a3f3ba38"
+}

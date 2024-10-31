@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1137</td><td>2024-10-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Excise Act, 2001</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Excise Duties on Vaping Products Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the EXCISE DUTIES ON VAPING PRODUCTS REGULATIONS in order to (1) facilitate the joining of the five new jurisdictions of New Brunswick, Manitoba, Prince Edward Island, Alberta and Yukon to the coordinated system; and (2) to set out transitional rules that specify when the additional vaping product duty for these five new jurisdictions is applicable.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0211  <strong>Publication Date:</strong> 2024-11-06</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46226&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1137",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the EXCISE DUTIES ON VAPING PRODUCTS REGULATIONS in order to (1) facilitate the joining of the five new jurisdictions of New Brunswick, Manitoba, Prince Edward Island, Alberta and Yukon to the coordinated system; and (2) to set out transitional rules that specify when the additional vaping product duty for these five new jurisdictions is applicable.",
+  "registration": "Registration: SOR/ 2024-0211  Publication Date: 2024-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2024-0211",
+  "registration_publication_date": "2024-11-06",
+  "attachments": [
+    "46226"
+  ],
+  "htmlHash": "3b5876f5b3b16f8e9055fff58bc20e33"
+}

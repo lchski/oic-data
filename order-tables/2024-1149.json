@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1149</td><td>2024-10-25</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order approving the transfer of Justice Étienne Parent to the district of Québec</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order advising that the HONOURABLE ÉTIENNE PARENT, a Judge of the Superior Court of Quebec for the district of Saint-Maurice, be appointed a Judge of the Superior Court of Quebec for the district of Québec, with residence in the territory of Ville de Québec or the immediate vicinity of that territory, effective September 1, 2024.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46238&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1149",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order advising that the HONOURABLE ÉTIENNE PARENT, a Judge of the Superior Court of Quebec for the district of Saint-Maurice, be appointed a Judge of the Superior Court of Quebec for the district of Québec, with residence in the territory of Ville de Québec or the immediate vicinity of that territory, effective September 1, 2024.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46238"
+  ],
+  "htmlHash": "438d0f6c365f61fda9137a03847b53a0"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1133</td><td>2024-10-25</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of SCOTT MORISHITA of the City of Vancouver, in the Province of British Columbia, Barrister-at-law, to be a Judge of the Supreme Court of British Columbia.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46223&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1133",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of SCOTT MORISHITA of the City of Vancouver, in the Province of British Columbia, Barrister-at-law, to be a Judge of the Supreme Court of British Columbia.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46223"
+  ],
+  "htmlHash": "a2b6542c9130072ad5cb9c4525f6b616"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1147</td><td>2024-10-25</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canadian Industrial Hemp Promotion-Research Agency Proclamation</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order directing that a PROCLAMATION be issued in order to establish the CANADIAN INDUSTRIAL HEMP PROMOTION-RESEARCH AGENCY.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46236&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1147",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a PROCLAMATION be issued in order to establish the CANADIAN INDUSTRIAL HEMP PROMOTION-RESEARCH AGENCY.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46236"
+  ],
+  "htmlHash": "f4f664ec3a7e17fbfbc26c122f900c36"
+}

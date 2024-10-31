@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1136</td><td>2024-10-25</td><td></td><td></td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Student Loans Act<br>Canada Student Financial Assistance Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canada Student Loans Regulations and the Canada Student Financial Assistance Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending THE CANADA STUDENT LOANS REGULATIONS AND THE CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS in order to (1) change the definition of \"under-served rural or remote community\" for the forgiveness benefit for doctors and nurses; and (2) for all areas considered Rural Areas by Statistic Canada be eligible for the forgiveness benefit, as will Population Centres of 30,000 or fewer.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0210  <strong>Publication Date:</strong> 2024-11-06</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46225&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1136",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending THE CANADA STUDENT LOANS REGULATIONS AND THE CANADA STUDENT FINANCIAL ASSISTANCE REGULATIONS in order to (1) change the definition of \"under-served rural or remote community\" for the forgiveness benefit for doctors and nurses; and (2) for all areas considered Rural Areas by Statistic Canada be eligible for the forgiveness benefit, as will Population Centres of 30,000 or fewer.",
+  "registration": "Registration: SOR/ 2024-0210  Publication Date: 2024-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2024-0210",
+  "registration_publication_date": "2024-11-06",
+  "attachments": [
+    "46225"
+  ],
+  "htmlHash": "c3a87b778bffb213e0ea6a3e10d34de8"
+}

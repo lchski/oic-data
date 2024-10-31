@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1150</td><td>2024-10-25</td><td></td><td></td><td></td><td>PS, RCMP</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mounted Police Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of a Deputy Commissioner - RCMP</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing MARIE-CLAUDE DANDENAULT of the Royal Canadian Mounted Police to the rank of Deputy Commissioner .</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46239&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1150",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing MARIE-CLAUDE DANDENAULT of the Royal Canadian Mounted Police to the rank of Deputy Commissioner .",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46239"
+  ],
+  "htmlHash": "8a3084979aeb01788f15bea3fba27f95"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1138</td><td>2024-10-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Trust and Loan Companies Act<br>Cooperative Credit Associations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Principal Protected Notes Regulations and the Deposit Type Instrument Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the PRINCIPAL PROTECTED NOTES REGULATIONS AND THE DEPOSIT TYPE INSTRUMENTS REGULATIONS in order to (1) amend the deposit-type instruments (DTI) and the Principal Protected Notes Regulations (PPN Regulations) definitions in the DTI regulations and the PPN Regulations by introducing a reference to the equivalent Bank Act definitions; and (2) ensure that term deposit products currently distinctly captured by the respective definitions continue to be captured as such following the end of publication of all Canadian Dollar Offered Rate tenors, and its full replacement by the Canadian Overnight Repo Rate Average effective June 28, 2024</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0212  <strong>Publication Date:</strong> 2024-11-06</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46228&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1138",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the PRINCIPAL PROTECTED NOTES REGULATIONS AND THE DEPOSIT TYPE INSTRUMENTS REGULATIONS in order to (1) amend the deposit-type instruments (DTI) and the Principal Protected Notes Regulations (PPN Regulations) definitions in the DTI regulations and the PPN Regulations by introducing a reference to the equivalent Bank Act definitions; and (2) ensure that term deposit products currently distinctly captured by the respective definitions continue to be captured as such following the end of publication of all Canadian Dollar Offered Rate tenors, and its full replacement by the Canadian Overnight Repo Rate Average effective June 28, 2024",
+  "registration": "Registration: SOR/ 2024-0212  Publication Date: 2024-11-06",
+  "registration_type": "SOR",
+  "registration_id": "2024-0212",
+  "registration_publication_date": "2024-11-06",
+  "attachments": [
+    "46228"
+  ],
+  "htmlHash": "98b005c3562251818c8471bb26169838"
+}

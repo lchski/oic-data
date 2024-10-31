@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1148</td><td>2024-10-25</td><td></td><td></td><td></td><td>INFC, OAG</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Infrastructure Bank Act<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of the joint auditors of the Canada Infrastructure Bank</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order appointing BDO CANADA LLP of Toronto, Ontario, and the AUDITOR GENERAL OF CANADA as JOINT AUDITORS of the Canada Infrastructure Bank for the fiscal year ending on March 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46237&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1148",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order appointing BDO CANADA LLP of Toronto, Ontario, and the AUDITOR GENERAL OF CANADA as JOINT AUDITORS of the Canada Infrastructure Bank for the fiscal year ending on March 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46237"
+  ],
+  "htmlHash": "9171109fa279418c9a6e6a5bd2261878"
+}

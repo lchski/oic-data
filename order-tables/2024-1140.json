@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1140</td><td>2024-10-25</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">James Bay and Northern Quebec Native Claims Settlement Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Complementary Agreement No. 4 to the Northeastern Quebec Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order which approves, gives effect to and declares valid the COMPLEMENTARY AGREEMENT NO. 4 to the Northeastern Québec Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46230&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1140",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order which approves, gives effect to and declares valid the COMPLEMENTARY AGREEMENT NO. 4 to the Northeastern Québec Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46230"
+  ],
+  "htmlHash": "5cf83900c24a2512d19c18dd3b27595f"
+}

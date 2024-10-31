@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1122</td><td>2024-10-25</td><td></td><td></td><td></td><td>CIRC</td></tr><tr><td>Act</td><td colspan=\"6\">Gwich'in Land Claim Settlement Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DALE SEMPLE of Inuvik, Northwest Territories, to be a member to the Gwich'in Renewable Resources Board, for a term of five years, effective the date of this Order in Council or the Order of the Executive Council, whichever is later.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46212&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1122",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DALE SEMPLE of Inuvik, Northwest Territories, to be a member to the Gwich'in Renewable Resources Board, for a term of five years, effective the date of this Order in Council or the Order of the Executive Council, whichever is later.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46212"
+  ],
+  "htmlHash": "3d051c5d1fd584dd7004dd8c49096b38"
+}

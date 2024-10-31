@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1145</td><td>2024-10-25</td><td></td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"6\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Extension of lease between NCC and Vivid Contracting Inc.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the NATIONAL CAPITAL COMMISSION grant three options to extend the lease with VIVID CONTRACTING INC. for the real property located at 225 Slack Road, in Ottawa, Ontario, for a period of 5 years each, beginning on October 1, 2025, October 1, 2030 and October 1, 2035.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46234&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1145",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the NATIONAL CAPITAL COMMISSION grant three options to extend the lease with VIVID CONTRACTING INC. for the real property located at 225 Slack Road, in Ottawa, Ontario, for a period of 5 years each, beginning on October 1, 2025, October 1, 2030 and October 1, 2035.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46234"
+  ],
+  "htmlHash": "2f50183d0ef8e3eb252465e700632ee7"
+}

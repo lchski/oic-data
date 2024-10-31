@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1144</td><td>2024-10-25</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Provincial Emergency Financial Assistance Order No. 278, Alberta</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 278 in order to (1) declare the 2024 interface fire that occurred in Jasper, Alberta, to be of concern to the federal government; and (2) authorize the Minister of Public Safety and Emergency Preparedness to provide financial assistance to the Province.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46233&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1144",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 278 in order to (1) declare the 2024 interface fire that occurred in Jasper, Alberta, to be of concern to the federal government; and (2) authorize the Minister of Public Safety and Emergency Preparedness to provide financial assistance to the Province.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46233"
+  ],
+  "htmlHash": "a284a3cf81fdd90cba33c89b83113ad1"
+}

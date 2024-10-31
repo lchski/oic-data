@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1126</td><td>2024-10-25</td><td></td><td></td><td></td><td>DIPD</td></tr><tr><td>Act</td><td colspan=\"6\">Accessible Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DIODORO (DINO) ZUPPA of Ottawa, Ontario, to act as Chief Executive Officer of the Canadian Accessibility Standards Development Organization, to hold office during pleasure for a term of eighteen months or until such time as a new Chief Executive Officer is appointed, whichever occurs first, effective October 30, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46216&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1126",
+  "date": "2024-10-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DIODORO (DINO) ZUPPA of Ottawa, Ontario, to act as Chief Executive Officer of the Canadian Accessibility Standards Development Organization, to hold office during pleasure for a term of eighteen months or until such time as a new Chief Executive Officer is appointed, whichever occurs first, effective October 30, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46216"
+  ],
+  "htmlHash": "44870ceba64c3292b7573aef6d1f80ad"
+}
