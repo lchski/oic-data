@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1159</td><td>2024-11-01</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of RICKY H. HEAD of Spruce Grove, Alberta, to be a full-time member of the Atlantic Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of five years effective November 12, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46249&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1159",
+  "date": "2024-11-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of RICKY H. HEAD of Spruce Grove, Alberta, to be a full-time member of the Atlantic Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of five years effective November 12, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46249"
+  ],
+  "htmlHash": "5e01936cc29470fedaf0d8cbddc1e08c"
+}
