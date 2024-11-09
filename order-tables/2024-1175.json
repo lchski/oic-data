@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1175</td><td>2024-11-05</td><td></td><td></td><td></td><td>ND</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Amendment to Order in Council P.C. 2024-991 of August 28, 2024 by replacing “at the bar of the Province of Ontario\" with “at the Law Society of Manitoba\". (Colonel Nancy Kathleen Isenor)</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46264&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1175",
+  "date": "2024-11-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2024-991 of August 28, 2024 by replacing “at the bar of the Province of Ontario\" with “at the Law Society of Manitoba\". (Colonel Nancy Kathleen Isenor)",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46264"
+  ],
+  "htmlHash": "6d01cb2ac00b4a5d964b697bb666ea64"
+}

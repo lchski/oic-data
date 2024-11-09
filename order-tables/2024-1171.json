@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1171</td><td>2024-11-05</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Agreement between the Government of Canada and the Government of the Federal Republic of Nigeria on Air Transport.</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to sign, on behalf of Canada, subject to ratification, the AGREEMENT between Canada and the GOVERNMENT OF THE FEDERAL REPUBLIC OF NIGERIA on the AIR TRANSPORT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46261&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1171",
+  "date": "2024-11-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to sign, on behalf of Canada, subject to ratification, the AGREEMENT between Canada and the GOVERNMENT OF THE FEDERAL REPUBLIC OF NIGERIA on the AIR TRANSPORT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46261"
+  ],
+  "htmlHash": "227af91c888797e1471301f7be7e9128"
+}

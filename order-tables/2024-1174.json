@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1174</td><td>2024-11-05</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Special Service Medal Bar Order ‘’DISTANTIA’’</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) Determining as Special service any service that meets certain conditions; and (2) Specifying that the Bar that is awarded with the Special Service Medal, representing the special service referred to in paragraph (a), is to bear the word</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SI/ 2024-0056  <strong>Publication Date:</strong> 2024-11-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46263&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1174",
+  "date": "2024-11-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) Determining as Special service any service that meets certain conditions; and (2) Specifying that the Bar that is awarded with the Special Service Medal, representing the special service referred to in paragraph (a), is to bear the word",
+  "registration": "Registration: SI/ 2024-0056  Publication Date: 2024-11-20",
+  "registration_type": "SI",
+  "registration_id": "2024-0056",
+  "registration_publication_date": "2024-11-20",
+  "attachments": [
+    "46263"
+  ],
+  "htmlHash": "27c46c0c0fdfa9544a852c35550017f1"
+}
