@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1183</td><td>2024-11-08</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Rearrangement and Transfer of Duties Act<br>Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Transferring from the Minister of Public Safety and Emergency Preparedness to the Minister of State (Emergency Preparedness) the Powers, Duties and Functions of the Minister of Public Safety and Emergency Preparedness under Section 7 of the Emergency Management Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order transferring from the Minister of Public Safety and Emergency Preparedness to the Minister of State (Emergency Preparedness) the powers, duties and functions of the Minister of Public Safety and Emergency Preparedness under section 7 of the Emergency Management Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46279&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1183",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order transferring from the Minister of Public Safety and Emergency Preparedness to the Minister of State (Emergency Preparedness) the powers, duties and functions of the Minister of Public Safety and Emergency Preparedness under section 7 of the Emergency Management Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46279"
+  ],
+  "htmlHash": "e0e2a8bdce5965360e1954e44f141464"
+}

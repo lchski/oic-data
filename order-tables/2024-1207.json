@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1207</td><td>2024-11-08</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Farm Products Agencies Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Federal-Provincial-Territorial Agreement on Guiding Principles for the Marketing of Eggs in Canada</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the Minister of Agriculture and Agri-Food enters into the FEDERAL-PROVINCIAL-TERRITORIAL AGREEMENT ON GUIDING PRINCIPLES FOR THE MARKETING OF EGGS IN CANADA in order to outline the guiding principles for the marketing of eggs and provide a blueprint for egg industry operations in Canada.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46304&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1207",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the Minister of Agriculture and Agri-Food enters into the FEDERAL-PROVINCIAL-TERRITORIAL AGREEMENT ON GUIDING PRINCIPLES FOR THE MARKETING OF EGGS IN CANADA in order to outline the guiding principles for the marketing of eggs and provide a blueprint for egg industry operations in Canada.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46304"
+  ],
+  "htmlHash": "7f6b5e0839b8117e65008120e66a9ffd"
+}

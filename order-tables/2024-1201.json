@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1201</td><td>2024-11-08</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Schedule 1 to the Canada Consumer Product Safety Act (Treated Articles)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending SCHEDULE 1 TO THE CANADA CONSUMER PRODUCT SAFETY ACT (TREATED ARTICLES) in order to modify item 6 of the Schedule to ensure that Act and Pest Control Products Act apply to consumer products that treated with a pesticide.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0218  <strong>Publication Date:</strong> 2024-11-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46298&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1201",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending SCHEDULE 1 TO THE CANADA CONSUMER PRODUCT SAFETY ACT (TREATED ARTICLES) in order to modify item 6 of the Schedule to ensure that Act and Pest Control Products Act apply to consumer products that treated with a pesticide.",
+  "registration": "Registration: SOR/ 2024-0218  Publication Date: 2024-11-20",
+  "registration_type": "SOR",
+  "registration_id": "2024-0218",
+  "registration_publication_date": "2024-11-20",
+  "attachments": [
+    "46298"
+  ],
+  "htmlHash": "6b56702603944c8633e6b01bb9e47211"
+}

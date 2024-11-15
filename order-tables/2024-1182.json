@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1182</td><td>2024-11-08</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Transferring from the Privy Council Office to the Department of Public Safety and Emergency Preparedness the Control and Supervision of the Emergency Preparedness Secretariat</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order transferring from the Privy Council Office to the Department of Public Safety and Emergency Preparedness the control and supervision of the Emergency Preparedness Secretariat.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46278&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1182",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order transferring from the Privy Council Office to the Department of Public Safety and Emergency Preparedness the control and supervision of the Emergency Preparedness Secretariat.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46278"
+  ],
+  "htmlHash": "876cd17a818acf1a7b61c47b6e202c00"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1208</td><td>2024-11-08</td><td></td><td></td><td></td><td>ECCC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Environmental Protection Act, 1999<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Memorandum of Undersdanting with provinces and territories Respecting the National Air Pollution Surveillance Program</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of the Environment to sign a Memorandum of Understanding with the Provinces and Territories respecting the NATIONAL AIR POLLUTION SURVEILLANCE PROGRAM in order to (1) lease ambient (outdoor) air quality monitoring equipment to the governments of the provinces and territories; and (2) to continue leasing air quality monitoring equipment to the provinces and territories under subsection 61(2) of the FINANCIAL ADMINSTRATION ACT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46305&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1208",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of the Environment to sign a Memorandum of Understanding with the Provinces and Territories respecting the NATIONAL AIR POLLUTION SURVEILLANCE PROGRAM in order to (1) lease ambient (outdoor) air quality monitoring equipment to the governments of the provinces and territories; and (2) to continue leasing air quality monitoring equipment to the provinces and territories under subsection 61(2) of the FINANCIAL ADMINSTRATION ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46305"
+  ],
+  "htmlHash": "8899c193c552c38c9d0001c814efa9d2"
+}

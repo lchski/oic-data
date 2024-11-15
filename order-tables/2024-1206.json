@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1206</td><td>2024-11-08</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (Designated Learning Institutions)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (DESIGNATED LEARNING INSTITUTIONS) in order to (1) require the designated learning institutions (DLI), upon request from the Minister, to (i) confirm that a student has been accepted to undertake a program of study indicated on the study permit application, and (ii) submit a compliance report about the enrollment status of each student who has been accepted to that institution and an indication of whether they are actively pursuing their course or program of study; (2) allow the Minister to put a non-compliant DLI on a suspension list for a maximum period of 12 consecutive months, during which any application for a study permit that names the DLI be returned to the applicant without being processed; (3) require international students to re-apply to transfer to another DLI to complete their current program of study; and (4) increase the limit on off-campus work during regular academic sessions from 20 hours per week to 24 hours per week for international students.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0219  <strong>Publication Date:</strong> 2024-11-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46303&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1206",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (DESIGNATED LEARNING INSTITUTIONS) in order to (1) require the designated learning institutions (DLI), upon request from the Minister, to (i) confirm that a student has been accepted to undertake a program of study indicated on the study permit application, and (ii) submit a compliance report about the enrollment status of each student who has been accepted to that institution and an indication of whether they are actively pursuing their course or program of study; (2) allow the Minister to put a non-compliant DLI on a suspension list for a maximum period of 12 consecutive months, during which any application for a study permit that names the DLI be returned to the applicant without being processed; (3) require international students to re-apply to transfer to another DLI to complete their current program of study; and (4) increase the limit on off-campus work during regular academic sessions from 20 hours per week to 24 hours per week for international students.",
+  "registration": "Registration: SOR/ 2024-0219  Publication Date: 2024-11-20",
+  "registration_type": "SOR",
+  "registration_id": "2024-0219",
+  "registration_publication_date": "2024-11-20",
+  "attachments": [
+    "46303"
+  ],
+  "htmlHash": "0b372358830d863ed7df944715a36de3"
+}

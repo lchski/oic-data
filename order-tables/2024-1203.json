@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1203</td><td>2024-11-08</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Citizenship and Immigration Act<br>Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Extending the Canada-Ontario Immigration Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the Minister of Citizenship and Immigration enter into an agreement with Ontario to extend the CANADA-ONTARIO IMMIGRATION AGREEMENT for a period of one year.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46300&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1203",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the Minister of Citizenship and Immigration enter into an agreement with Ontario to extend the CANADA-ONTARIO IMMIGRATION AGREEMENT for a period of one year.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46300"
+  ],
+  "htmlHash": "961ca4c55c68708f7a541199db61561e"
+}

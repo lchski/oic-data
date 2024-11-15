@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1200</td><td>2024-11-08</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Consumer Product Safety Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Tents Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">TENTS REGULATIONS in order to (1) replace the current fire-safety labelling and flammability performance requirements with requirements developed by the Canadian General Standards Board; (2) include children's play tents in the Toys Regulations; and (3) exclude products from the Textile Flammability Regulations that are regulated under the Toys Regulations.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0217  <strong>Publication Date:</strong> 2024-11-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46297&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1200",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "TENTS REGULATIONS in order to (1) replace the current fire-safety labelling and flammability performance requirements with requirements developed by the Canadian General Standards Board; (2) include children's play tents in the Toys Regulations; and (3) exclude products from the Textile Flammability Regulations that are regulated under the Toys Regulations.",
+  "registration": "Registration: SOR/ 2024-0217  Publication Date: 2024-11-20",
+  "registration_type": "SOR",
+  "registration_id": "2024-0217",
+  "registration_publication_date": "2024-11-20",
+  "attachments": [
+    "46297"
+  ],
+  "htmlHash": "59c80f9dde6be628bcc27d121f4f62d6"
+}

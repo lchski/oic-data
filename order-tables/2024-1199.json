@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1199</td><td>2024-11-08</td><td></td><td></td><td></td><td>AAFC, CFIA, HC</td></tr><tr><td>Act</td><td colspan=\"6\">Safe Food for Canadians Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Safe Food for Canadians Regulations (City of Lloydminster)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SAFE FOOD FOR CANADIANS REGULATIONS (CITY OF LLOYDMINSTER) in order to exempt food commodities that will be sent or conveyed to or within Lloydminster, as well as persons or businesses in Alberta and Saskatchewan who conduct regulated activities in respect of those food commodities, from the application of the interprovincial trade requirements.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0216  <strong>Publication Date:</strong> 2024-11-20</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46296&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1199",
+  "date": "2024-11-08",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SAFE FOOD FOR CANADIANS REGULATIONS (CITY OF LLOYDMINSTER) in order to exempt food commodities that will be sent or conveyed to or within Lloydminster, as well as persons or businesses in Alberta and Saskatchewan who conduct regulated activities in respect of those food commodities, from the application of the interprovincial trade requirements.",
+  "registration": "Registration: SOR/ 2024-0216  Publication Date: 2024-11-20",
+  "registration_type": "SOR",
+  "registration_id": "2024-0216",
+  "registration_publication_date": "2024-11-20",
+  "attachments": [
+    "46296"
+  ],
+  "htmlHash": "32e4424bd936849dc06454caafd973ac"
+}
