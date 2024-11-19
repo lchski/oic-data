@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1210</td><td>2024-11-12</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Inquiries Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Public Inquiry Into Foreign Interference - Order extending the submission of final report</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending the Order in Council P.C. 2024-1004 of September 16, 2024 by replacing \"December 31, 2024\" with \"January 31, 2025\".</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46309&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1210",
+  "date": "2024-11-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending the Order in Council P.C. 2024-1004 of September 16, 2024 by replacing \"December 31, 2024\" with \"January 31, 2025\".",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46309"
+  ],
+  "htmlHash": "dabef33e53db3c95b612440c976204db"
+}

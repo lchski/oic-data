@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1211</td><td>2024-11-12</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Access to Information Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of CAROLINE MAYNARD of Ottawa, Ontario, as Information Commissioner, to hold office during good behaviour for a term of seven years, effective March 1, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46310&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1211",
+  "date": "2024-11-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of CAROLINE MAYNARD of Ottawa, Ontario, as Information Commissioner, to hold office during good behaviour for a term of seven years, effective March 1, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46310"
+  ],
+  "htmlHash": "90b96e553395e8c68b6820d9137a7ed0"
+}
