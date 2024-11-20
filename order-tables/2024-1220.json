@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1220</td><td>2024-11-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Official Residences Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the remuneration and conditions of employment of LUCJA GRABOWIEC, a member of the household staff at the Prime Minister's residence, which salary is within the range of $60,123 to $67,246 per annum, effective October 1, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46319&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1220",
+  "date": "2024-11-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the remuneration and conditions of employment of LUCJA GRABOWIEC, a member of the household staff at the Prime Minister's residence, which salary is within the range of $60,123 to $67,246 per annum, effective October 1, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46319"
+  ],
+  "htmlHash": "45ab849fb743ddd7d18bb4e8ae5be96d"
+}

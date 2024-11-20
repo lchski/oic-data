@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1218</td><td>2024-11-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Official Residences Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) appointing ALEX JOHNSTONE to be Chef at the Prime Minister's residence; and (2) fixing his remuneration and conditions of employment, effective October 1, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46317&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1218",
+  "date": "2024-11-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) appointing ALEX JOHNSTONE to be Chef at the Prime Minister's residence; and (2) fixing his remuneration and conditions of employment, effective October 1, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46317"
+  ],
+  "htmlHash": "d3fbf669dc5b031e6746df83ec523172"
+}

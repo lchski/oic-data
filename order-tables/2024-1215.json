@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1215</td><td>2024-11-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the remuneration of ANNIE LAFLEUR, full-time member of the Immigration and Refugee Board (Montréal Regional Office), for the period she is acting as Assistant Deputy Chairperson (Montréal Regional Office), effective June 4, 2024, until such time as she is no longer required to act as Assistant Deputy Chairperson (Montréal Regional Office).</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46314&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1215",
+  "date": "2024-11-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the remuneration of ANNIE LAFLEUR, full-time member of the Immigration and Refugee Board (Montréal Regional Office), for the period she is acting as Assistant Deputy Chairperson (Montréal Regional Office), effective June 4, 2024, until such time as she is no longer required to act as Assistant Deputy Chairperson (Montréal Regional Office).",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46314"
+  ],
+  "htmlHash": "e36f6404824f70aa397e37840cc0d4af"
+}
