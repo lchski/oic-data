@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1232</td><td>2024-11-21</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Ministries and Ministers of State Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order in Council terminating the assignment of Randy Paul Andrew Boissonnault and assigning Ginette Petitpas Taylor, Minister of State (Official Languages) to be styled Minister of Employment, Workforce Development and Official Languages, Minister of Veterans Affairs and Associate Minister of National Defence, to assist the Minister of Canadian Heritage</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order assigning the Honourable GINETTE PETITPAS TAYLOR, Minister of State (Official Languages) to assist the Minister of Canadian Heritage in the carrying out of that Minister's responsibilities.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46333&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1232",
+  "date": "2024-11-21",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order assigning the Honourable GINETTE PETITPAS TAYLOR, Minister of State (Official Languages) to assist the Minister of Canadian Heritage in the carrying out of that Minister's responsibilities.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46333"
+  ],
+  "htmlHash": "ce8e50fa1990fe85f0cda440c65d6492"
+}
