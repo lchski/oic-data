@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1235</td><td>2024-11-22</td><td></td><td></td><td></td><td>ECCC, NA, PARKS</td></tr><tr><td>Act</td><td colspan=\"6\">Mackenzie Valley Resource Management Act<br>Canada National Parks Act<br>Environmental Violations Administrative Monetary Penalties Act</td></tr><tr><td>Subject</td><td colspan=\"6\">National Parks of Canada Land Use Planning Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">NATIONAL PARKS OF CANADA LAND USE PLANNING REGULATIONS in order to (1) repeal and consolidate the National Parks Building Regulations, 1968, National Parks of Canada Cottages Regulations, 1979, National Parks Signs Regulations, 1956, and Town of Jasper Zoning Regulations, 1968; (2) introduce new requirements; (3) repeal existing fees; and (4) make minor administrative amendments.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0230  <strong>Publication Date:</strong> 2024-12-04</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46336&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1235",
+  "date": "2024-11-22",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "NATIONAL PARKS OF CANADA LAND USE PLANNING REGULATIONS in order to (1) repeal and consolidate the National Parks Building Regulations, 1968, National Parks of Canada Cottages Regulations, 1979, National Parks Signs Regulations, 1956, and Town of Jasper Zoning Regulations, 1968; (2) introduce new requirements; (3) repeal existing fees; and (4) make minor administrative amendments.",
+  "registration": "Registration: SOR/ 2024-0230  Publication Date: 2024-12-04",
+  "registration_type": "SOR",
+  "registration_id": "2024-0230",
+  "registration_publication_date": "2024-12-04",
+  "attachments": [
+    "46336"
+  ],
+  "htmlHash": "eb4cde4db28547bfd6ffae397b17d043"
+}

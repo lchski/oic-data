@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1244</td><td>2024-11-22</td><td></td><td></td><td></td><td>NRC, ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">NRC and RCEA - Computer Systems Group ** COLLECTIVE AGREEMENT **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by National Research Council of Canada into a COLLECTIVE AGREEMENT with the Research Council Employees’ Association that covers all employees in the COMPUTER SYSTEMS Administration (CS) Group bargaining unit, for the period beginning on January 1, 2022 and ending on December 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46345&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1244",
+  "date": "2024-11-22",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by National Research Council of Canada into a COLLECTIVE AGREEMENT with the Research Council Employees’ Association that covers all employees in the COMPUTER SYSTEMS Administration (CS) Group bargaining unit, for the period beginning on January 1, 2022 and ending on December 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46345"
+  ],
+  "htmlHash": "eed442689c18ddcda625b002b0a7709f"
+}

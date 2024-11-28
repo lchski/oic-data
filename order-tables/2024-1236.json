@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1236</td><td>2024-11-22</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Income Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Income Tax Regulations (Technical Amendments)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the INCOME TAX REGULATIONS (TECHNICAL AMENDMENTS) in order to (1) make 46 technical amendments to the Regulations including tax rules associated with registered pension plans, pooled registered pension plans, prescribed venture capital corporations and employee stock options; (2) make regulatory amendments that are neutral or relieving in nature ensuring that the tax rules are applied as intended; (3) make consequential amendments to updated federal legislation to ensure that tax rules are applied appropriately; and (4) provide stakeholders with more flexibility, clarity or certainty in the interpretation and administration of the tax rules.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0231  <strong>Publication Date:</strong> 2024-12-04</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46337&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1236",
+  "date": "2024-11-22",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the INCOME TAX REGULATIONS (TECHNICAL AMENDMENTS) in order to (1) make 46 technical amendments to the Regulations including tax rules associated with registered pension plans, pooled registered pension plans, prescribed venture capital corporations and employee stock options; (2) make regulatory amendments that are neutral or relieving in nature ensuring that the tax rules are applied as intended; (3) make consequential amendments to updated federal legislation to ensure that tax rules are applied appropriately; and (4) provide stakeholders with more flexibility, clarity or certainty in the interpretation and administration of the tax rules.",
+  "registration": "Registration: SOR/ 2024-0231  Publication Date: 2024-12-04",
+  "registration_type": "SOR",
+  "registration_id": "2024-0231",
+  "registration_publication_date": "2024-12-04",
+  "attachments": [
+    "46337"
+  ],
+  "htmlHash": "35db330465e1b4c931590e235d69236e"
+}

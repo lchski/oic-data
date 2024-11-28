@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1239</td><td>2024-11-22</td><td></td><td></td><td></td><td>AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Farm Income Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Provision of Non-Repayable Contributions to Dairy Processors</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Agriculture and Agri-Food to provide NON-REPAYABLE CONTRIBUTIONS of up to $14.95 million to DAIRY PROCESORS to assist in managing a growing surplus of non-fat milk solids and compensate for market losses as a result of the Canada-United States-Mexico Agreement.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46340&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1239",
+  "date": "2024-11-22",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Agriculture and Agri-Food to provide NON-REPAYABLE CONTRIBUTIONS of up to $14.95 million to DAIRY PROCESORS to assist in managing a growing surplus of non-fat milk solids and compensate for market losses as a result of the Canada-United States-Mexico Agreement.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46340"
+  ],
+  "htmlHash": "df4dad2f1369cf9c6e07fa0ee321989e"
+}

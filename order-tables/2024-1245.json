@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1245</td><td>2024-11-22</td><td></td><td></td><td></td><td>PSPC, NCC</td></tr><tr><td>Act</td><td colspan=\"6\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Lease with LeBreton Demain Limited Partnership ** NCC **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing that the National Capital Commission ENTER INTO A LEASE for a period of 99 years with LEBRETON DEMAIN LIMITED PARTNERSHIP for four parcels of land located at LeBreton Flats, Ottawa, Ontario for development purposes.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46346&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1245",
+  "date": "2024-11-22",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing that the National Capital Commission ENTER INTO A LEASE for a period of 99 years with LEBRETON DEMAIN LIMITED PARTNERSHIP for four parcels of land located at LeBreton Flats, Ottawa, Ontario for development purposes.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46346"
+  ],
+  "htmlHash": "3b0aad0fd4a95576d97432f62dcef7e3"
+}
