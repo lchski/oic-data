@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1261</td><td>2024-11-27</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DOUGLAS ALLEN KIRKPATRICK of Kingston, Ontario, to be a part-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective January 17, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46362&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1261",
+  "date": "2024-11-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DOUGLAS ALLEN KIRKPATRICK of Kingston, Ontario, to be a part-time member of the Ontario Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of three years, effective January 17, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46362"
+  ],
+  "htmlHash": "9d8728ae1e057b89dc360e3c1e3eb06a"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1252</td><td>2024-11-27</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of the HONOURABLE GLEN L. C. NOEL, a Judge of Appeal of the Supreme Court of Newfoundland and Labrador, to be a Justice of Appeal of the Court of Appeal of Newfoundland and Labrador, and a Judge ex officio of the Supreme Court of Newfoundland and Labrador.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46353&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1252",
+  "date": "2024-11-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of the HONOURABLE GLEN L. C. NOEL, a Judge of Appeal of the Supreme Court of Newfoundland and Labrador, to be a Justice of Appeal of the Court of Appeal of Newfoundland and Labrador, and a Judge ex officio of the Supreme Court of Newfoundland and Labrador.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46353"
+  ],
+  "htmlHash": "651d82b25818fe42a4ce2a44027b9506"
+}

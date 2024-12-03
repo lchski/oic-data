@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1253</td><td>2024-11-27</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of ANDREW S. DAVIS of the city of Regina, in the Province of Saskatchewan, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench for Saskatchewan.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46354&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1253",
+  "date": "2024-11-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of ANDREW S. DAVIS of the city of Regina, in the Province of Saskatchewan, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench for Saskatchewan.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46354"
+  ],
+  "htmlHash": "80e1b18639dcadcabfc4790413937410"
+}

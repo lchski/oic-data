@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1256</td><td>2024-11-27</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Net-Zero Emissions Accountability Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of SIMON DONNER of Vancouver, British-Columbia, as a member of the Net-Zero Advisory Body, to hold office during pleasure for a term of two years and his designation as co-chair of the Net-Zero Advisory Body, effective February 21, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46357&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1256",
+  "date": "2024-11-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of SIMON DONNER of Vancouver, British-Columbia, as a member of the Net-Zero Advisory Body, to hold office during pleasure for a term of two years and his designation as co-chair of the Net-Zero Advisory Body, effective February 21, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46357"
+  ],
+  "htmlHash": "f2e7cc07f13d29029393b2117e0d3c72"
+}

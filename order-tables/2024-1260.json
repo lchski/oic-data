@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1260</td><td>2024-11-27</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Corrections and Conditional Release Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of CAROLE MÉNARD of St-Jérôme, Quebec, to be a part-time member of the Quebec Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of one year.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46361&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1260",
+  "date": "2024-11-27",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CAROLE MÉNARD of St-Jérôme, Quebec, to be a part-time member of the Quebec Regional Division of the Parole Board of Canada, to hold office during good behaviour for a period of one year.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46361"
+  ],
+  "htmlHash": "ded72311092da8419665df55558917da"
+}
