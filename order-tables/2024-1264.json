@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1264</td><td>2024-11-29</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Made Under the Food and Drugs Act (Agile Licensing)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FOOD AND DRUGS ACT (AGILE LICENSING) in order to (1) enable the use of terms and conditions on the identification number of any drug; (2) broaden the scope of use of terms and conditions for Class II, III, and IV medical devices; (3) require risk management plans for certain human drugs to manage risks and uncertainties; (4) allow for rolling reviews of certain drug submissions, including those for drugs intended to address a public health emergency; (5) clarify expectations that a drug be fabricated, packaged/labelled, tested, and stored, in a manner that assures its quality; (6) modernize requirements for biologics by repealing outdated requirements and replacing them with those that reflect current practices; (7) clarify the authority to consider certain information obtained outside of a new drug submission to support Health Canada's examination of that submission for a new drug; (8) require manufacturers to submit human clinical trial data broken down by population sub-groups for new and supplemental human drug submissions; and (9) update requirements respecting standards for labelling and requirements for those that claim a manufacturer's standard for their drug.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46365&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1264",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FOOD AND DRUGS ACT (AGILE LICENSING) in order to (1) enable the use of terms and conditions on the identification number of any drug; (2) broaden the scope of use of terms and conditions for Class II, III, and IV medical devices; (3) require risk management plans for certain human drugs to manage risks and uncertainties; (4) allow for rolling reviews of certain drug submissions, including those for drugs intended to address a public health emergency; (5) clarify expectations that a drug be fabricated, packaged/labelled, tested, and stored, in a manner that assures its quality; (6) modernize requirements for biologics by repealing outdated requirements and replacing them with those that reflect current practices; (7) clarify the authority to consider certain information obtained outside of a new drug submission to support Health Canada's examination of that submission for a new drug; (8) require manufacturers to submit human clinical trial data broken down by population sub-groups for new and supplemental human drug submissions; and (9) update requirements respecting standards for labelling and requirements for those that claim a manufacturer's standard for their drug.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46365"
+  ],
+  "htmlHash": "71277c4be8c70aa5e51175cd736380f5"
+}

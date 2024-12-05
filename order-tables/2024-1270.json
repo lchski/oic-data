@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1270</td><td>2024-11-29</td><td></td><td></td><td></td><td>NR, HC, AAFC</td></tr><tr><td>Act</td><td colspan=\"6\">Food and Drugs Act<br>Excise Act, 2001<br>Pest Control Products Act<br>Safe Food for Canadians Act<br>Cannabis Act<br>Feeds Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Concerning Food Additives and Compositional Standards, Microbiological Criteria and Methods of Analysis for Food</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS CONCERNING FOOD ADDITIVES AND COMPOSITIONAL STANDARDS, MICROBIOLOGICAL CRITERIA AND METHODS OF ANALYSIS FOR FOOD in order to (1) make Canada's FDR more agile, transparent and responsive to new and emerging science, technology, market innovation and risks to health; (2) enable modifications to the FDR's food compositional standards; (3) enable modifications to the FDR's microbiological criteria and associated microbiological methods of analysis; (4) enable modifications to the FDR's methods of analysis; and (5) help reduce the burden on industry.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46372&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1270",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS CONCERNING FOOD ADDITIVES AND COMPOSITIONAL STANDARDS, MICROBIOLOGICAL CRITERIA AND METHODS OF ANALYSIS FOR FOOD in order to (1) make Canada's FDR more agile, transparent and responsive to new and emerging science, technology, market innovation and risks to health; (2) enable modifications to the FDR's food compositional standards; (3) enable modifications to the FDR's microbiological criteria and associated microbiological methods of analysis; (4) enable modifications to the FDR's methods of analysis; and (5) help reduce the burden on industry.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46372"
+  ],
+  "htmlHash": "06353326b76e877a7185569fc8216297"
+}

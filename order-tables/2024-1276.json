@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1276</td><td>2024-11-29</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Access to Information Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Access to Information Act Heads of Government Institutions Designation Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ACCESS TO INFORMATION ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER in order to put in place an updated and streamlined Designation Order.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46378&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1276",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ACCESS TO INFORMATION ACT HEADS OF GOVERNMENT INSTITUTIONS DESIGNATION ORDER in order to put in place an updated and streamlined Designation Order.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46378"
+  ],
+  "htmlHash": "97ba2e58066d6f7c3a5f0fcd34082ca1"
+}

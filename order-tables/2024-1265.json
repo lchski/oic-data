@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1265</td><td>2024-11-29</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Motor Vehicle Safety Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Motor Vehicle Safety Regulations (School Buses)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (SCHOOL BUSES) in order to (1) require school buses to be equipped with an extended stop signal arm as well as an exterior perimeter visibility system, including a monitor, to display views to the driver; and (2) set minimum requirements that would apply to the voluntary installation of stop signals – cameras on school buses.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46366&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1265",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MOTOR VEHICLE SAFETY REGULATIONS (SCHOOL BUSES) in order to (1) require school buses to be equipped with an extended stop signal arm as well as an exterior perimeter visibility system, including a monitor, to display views to the driver; and (2) set minimum requirements that would apply to the voluntary installation of stop signals – cameras on school buses.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46366"
+  ],
+  "htmlHash": "198575993cc6c2e484046e7a5dac8b96"
+}

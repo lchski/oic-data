@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1267</td><td>2024-11-29</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Patent Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Rules Amending the Patent Rules and Certain Regulations Made Under the Patent Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the PATENT RULES AND CERTAIN REGULATIONS MADE UNDER THE PATENT ACT in order to (1) set out how various aspects of the additional term framework will operate and be administered; (2) add new fee amounts and processes to apply for additional and maintaining applications and patents in good standing during the additional term; (3) account for the possibility of an additional term; and (4) make minor and housekeeping amendments to improve the regulatory framework.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46368&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1267",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PATENT RULES AND CERTAIN REGULATIONS MADE UNDER THE PATENT ACT in order to (1) set out how various aspects of the additional term framework will operate and be administered; (2) add new fee amounts and processes to apply for additional and maintaining applications and patents in good standing during the additional term; (3) account for the possibility of an additional term; and (4) make minor and housekeeping amendments to improve the regulatory framework.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46368"
+  ],
+  "htmlHash": "92e21fbcf682fdb373f7f5863f391b7f"
+}

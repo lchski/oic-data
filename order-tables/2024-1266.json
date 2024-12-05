@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1266</td><td>2024-11-29</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (International Experience Canada)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (INTERNATIONAL EXPERIENCE CANADA) in order to (1) provide a specific authority to issue a work permit to a foreign national who intends to work under a youth mobility agreement or arrangement between Canada and a foreign government, or between Canada and an international or domestic organization that would create or maintain reciprocal employment for Canadian citizens in a foreign state or territory; and (2) add the duration of work for any one employer to the list of work-related conditions an officer may impose on a temporary resident.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46367&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1266",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (INTERNATIONAL EXPERIENCE CANADA) in order to (1) provide a specific authority to issue a work permit to a foreign national who intends to work under a youth mobility agreement or arrangement between Canada and a foreign government, or between Canada and an international or domestic organization that would create or maintain reciprocal employment for Canadian citizens in a foreign state or territory; and (2) add the duration of work for any one employer to the list of work-related conditions an officer may impose on a temporary resident.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46367"
+  ],
+  "htmlHash": "3748cbfafb7cf2f695625270571221eb"
+}

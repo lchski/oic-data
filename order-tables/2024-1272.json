@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1272</td><td>2024-11-29</td><td></td><td></td><td></td><td>HC, CFIA</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canadian Food Inspection Agency - Professional Institute of the Public Service of Canada ** Collective Agreement **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by the Canadian Food Inspection Agency into a COLLECTIVE AGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA that covers all employees in the Scientific and Analytical (S&amp;A) Group Bargaining Unit for the period beginning on October 1, 2022 and ending on September 30, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46374&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1272",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by the Canadian Food Inspection Agency into a COLLECTIVE AGREEMENT with the PROFESSIONAL INSTITUTE OF THE PUBLIC SERVICE OF CANADA that covers all employees in the Scientific and Analytical (S&A) Group Bargaining Unit for the period beginning on October 1, 2022 and ending on September 30, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46374"
+  ],
+  "htmlHash": "4fa17201297b1679ec0b0e875969328e"
+}

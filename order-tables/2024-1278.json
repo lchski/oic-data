@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1278</td><td>2024-11-29</td><td></td><td></td><td></td><td>PSPC, CPC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Post Corporation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Made Under the Canada Post Corporation Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA POST CORPORATION ACT in order to increase the rates by weighted average of $0.25 or 25.2% in the Letter Mail Regulations, the International Letter-post Items Regulations, and the Special Services and Fees Regulations.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46380&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1278",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE CANADA POST CORPORATION ACT in order to increase the rates by weighted average of $0.25 or 25.2% in the Letter Mail Regulations, the International Letter-post Items Regulations, and the Special Services and Fees Regulations.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46380"
+  ],
+  "htmlHash": "ca683a0dc886ac92ba37f670ad99341f"
+}

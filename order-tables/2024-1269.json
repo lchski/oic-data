@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1269</td><td>2024-11-29</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Contraventions Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Contraventions Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CONTRAVENTIONS REGULATIONS in order to designate as contraventions 44 offences contained in the Manitoba Fishery Regulations, 1987.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46370&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1269",
+  "date": "2024-11-29",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CONTRAVENTIONS REGULATIONS in order to designate as contraventions 44 offences contained in the Manitoba Fishery Regulations, 1987.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46370"
+  ],
+  "htmlHash": "ecdaea792c6b5b3ffbd0f6dbc11b507d"
+}
