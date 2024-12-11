@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1286</td><td>2024-12-05</td><td></td><td></td><td></td><td>SB&amp;T</td></tr><tr><td>Act</td><td colspan=\"6\">Business Development Bank of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the reappointment by the Minister of Small Business and Tourism of DONALD WILLIAM CURRIE of Toronto, Ontario, as a director of the Board of Directors of the Business Development Bank of Canada, to hold office during pleasure for a term of four years, effective January 8, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46388&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1286",
+  "date": "2024-12-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the reappointment by the Minister of Small Business and Tourism of DONALD WILLIAM CURRIE of Toronto, Ontario, as a director of the Board of Directors of the Business Development Bank of Canada, to hold office during pleasure for a term of four years, effective January 8, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46388"
+  ],
+  "htmlHash": "a6e48d6b7a236206a23987b968e605ad"
+}
